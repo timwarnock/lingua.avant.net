@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My test page</title>
+<style>
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.5); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+    width: 600px;
+}
+#flashcard {
+  position: relative;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  width: 600px;
+  height: 400px;
+}
+.flashcard-prompt {
+  font-size: 400%;
+}
+.flashcard-full-key {
+  font-size: 400%;
+  color: #aaa;
+}
+.flashcard-full-okay {
+  position:absolute;
+  bottom:0px;
+  left: 50%;
+}
+
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.hand {
+  cursor: pointer;
+}
+
+</style>
+<script>
+/*
+TODO TODO TODO
+kill modal, replace with perm flipping flashcard
+https://jsfiddle.net/rsadwick/zwWHY/
+
+timing and FC_SCORE
+background "learning process", reshuffle by FC_SCORE (always with top-5 random)
+...??? delta architecture or something, realtime updating sort
+
+*/
+function openFlashcards() {
+  document.getElementById('flashcard-modal').style.display = 'block';
+  showFlashcard();
+};
+
+function closeFlashcards() {
+  document.getElementById('flashcard-modal').style.display = 'none';
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    var modal = document.getElementById('flashcard-modal');
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+
+
+//
+// todo ?? proper flashcard JSON format
+//      ?? profile score
+var FC_DATA = [
+  {"key": "你最近還好嗎?", "values": ["How are you getting along?","Nǐ zuìjìn hái hǎo ma?"] },
+  {"key": "foo bar", "values": ["is this foo bar?","what about this?"] },
+  {"key": "boo bear", "values": ["is this foo bar?","what about this?"] },
+  {"key": "this is the 4th key", "values": ["is this foo bar?","what about this?"] }
+];
+var CURR_FC = 0;
+function _currFlashcard() {
+  return FC_DATA[CURR_FC];
+}
+function _nextFlashcard() {
+  CURR_FC = (CURR_FC + 1) % FC_DATA.length;
+  return FC_DATA[CURR_FC];
+}
+
+function showFlashcard() {
+  console.log('show flashcard ' + CURR_FC);
+  var fc = _currFlashcard();
+  var fch = '<div class="flashcard-prompt">'
+  fch += fc.key + '</div>';
+  document.getElementById('flashcard').innerHTML = fch;
+}
+function showNextFlashcard() {
+  console.log('show next flashcard');
+  var fc = _nextFlashcard();
+  var fch = '<div class="flashcard-prompt">'
+  fch += fc.key + '</div>';
+  document.getElementById('flashcard').innerHTML = fch;
+}
+
+function showFullFlashcard() {
+  console.log('show full flashcard');
+  var fc = _currFlashcard();
+  var fch = '<div class="flashcard-full-answer">' + fc.values[0] + '</div>';
+  fch += '<div class="flashcard-full-key">' + fc.key + '</div>';
+  fch += '<div class="flashcard-full-alt">' + fc.values[1] + '</div>';
+  fch += '<div class="flashcard-full-okay" onclick="showNextFlashcard()">okay</div>';
+  document.getElementById('flashcard').innerHTML = fch;
+}
+
+var FC_STATUS = 'prompt';
+function toggleFlashcard() {
+  if (FC_STATUS === 'prompt') {
+    FC_STATUS = 'full';
+    return showFullFlashcard();
+  } else {
+    FC_STATUS = 'prompt';
+    return showFlashcard();
+  }
+}
+
+
+</script>
+</head>
+<body>
+
+
+<h1>Welcome</h1>
+
+<p class="hand" onclick="openFlashcards()">begin</p>
+
+
+<div id="flashcard-modal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeFlashcards()">&times;</span>
+    <div class="hand" id="flashcard" onclick="toggleFlashcard()">...</div>
+  </div>
+</div>
+
+
+</body>
+</html>
