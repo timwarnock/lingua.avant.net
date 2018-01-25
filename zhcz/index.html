@@ -6,64 +6,49 @@
   <title>My test page</title>
 <style>
 
-/* The Modal (background) */
-.modal {
-    display: none; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
-    padding-top: 100px; /* Location of the box */
-    left: 0;
-    top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.5); /* Black w/ opacity */
-}
-
-/* Modal Content */
-.modal-content {
-    background-color: #fefefe;
-    margin: 0 auto 0 auto;
-    padding: 10px;
-    border: 1px solid black;
-    width: 600px;
-}
 #flashcard {
   position: relative;
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+  margin: 100px 0 0 5%;
+  border: 1px solid black;
   width: 600px;
   height: 400px;
 }
+#flashcard-content-wrapper {
+  width: 100%;
+  height: 100%;
+}
+#flashcard-front,
+#flashcard-back {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#flashcard-okay {
+  display: block;
+  width: 100px;
+  height: 40px;
+  background-color: #666;
+  color: white;
+  position:absolute;
+  bottom: -40px;
+  left: 250px;
+}
 .flashcard-prompt {
+  text-align: center;
   font-size: 400%;
 }
 .flashcard-full-key {
+  text-align: center;
   font-size: 400%;
   color: #aaa;
 }
-.flashcard-full-okay {
-  position:absolute;
-  bottom:0px;
-  left: 50%;
+.flashcard-full-answer {
+  text-align: center;
 }
-
-
-/* The Close Button */
-.close {
-    color: #aaaaaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
-
-.close:hover,
-.close:focus {
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
+.flashcard-full-alt {
+  text-align: center;
 }
 
 .hand {
@@ -73,103 +58,233 @@
 </style>
 <script>
 /*
-TODO TODO TODO
-kill modal, replace with perm flipping flashcard
-https://jsfiddle.net/rsadwick/zwWHY/
 
-timing and FC_SCORE
+todo
 background "learning process", reshuffle by FC_SCORE (always with top-5 random)
-...??? delta architecture or something, realtime updating sort
+...??? lambda architecture or something, realtime updating sort
 
 */
-function openFlashcards() {
-  document.getElementById('flashcard-modal').style.display = 'block';
-  showFlashcard();
+
+//GLOBALS
+
+// worst time (in seconds) for each card
+MAX_WAIT = 10;
+
+// this will be set by async json call
+var FC_DATA = [
+  {"key": "??", "answer": "42", "alt": "43?" },
+  {"key": "Pi",   "answer": "3.141592653", "alt": "3" }
+];
+
+// this will be initialized by async json call (or from todo)
+var FC_SCORE = [0,0];
+
+// the pointer into FC_DATA and FC_SCORE
+var CURR_FC = 0;
+
+// max cards before magic shuffle
+var HOW_MANY = 8; 
+
+// the next indeces for CURR_FC
+var NEXT_UP = [];
+
+// save state for which side of the card is showing
+var FC_STATUS = 'front';
+
+// remember if the user flipped the current card
+var FIRST_FLIP = true;
+
+
+// stopwatch function (use system time)
+var START_TS = new Date().getTime();
+var startwatch = function() {
+  START_TS = new Date().getTime();
+}
+var stopwatch = function() {
+  return (new Date().getTime() - START_TS)/1000;
+}
+
+
+
+// fetch JSON object from URL
+var getJSON = function(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status === 200) {
+        var resjson = xhr.response;
+        if (typeof resjson == "string") {
+          resjson = JSON.parse(xhr.response);
+        }
+        callback(null, resjson);
+      } else {
+        callback(status, xhr.response);
+      }
+    };
+    xhr.send();
 };
 
-function closeFlashcards() {
-  document.getElementById('flashcard-modal').style.display = 'none';
-}
 
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    var modal = document.getElementById('flashcard-modal');
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
-}
-
-
-//
-// todo ?? proper flashcard JSON format
-//      ?? profile score
-var FC_DATA = [
-  {"key": "你最近還好嗎?", "values": ["How are you getting along?","Nǐ zuìjìn hái hǎo ma?"] },
-  {"key": "foo bar", "values": ["is this foo bar?","what about this?"] },
-  {"key": "boo bear", "values": ["is this foo bar?","what about this?"] },
-  {"key": "this is the 4th key", "values": ["is this foo bar?","what about this?"] }
-];
-var CURR_FC = 0;
+// return the current flashcard data
 function _currFlashcard() {
   return FC_DATA[CURR_FC];
 }
+
+// fetch the next flashcard, and set the internal pointer
 function _nextFlashcard() {
-  CURR_FC = (CURR_FC + 1) % FC_DATA.length;
+  var cand = NEXT_UP.shift();
+  if (cand == null) {
+    var score_index = reverse_scores_index();
+    var how_many = HOW_MANY < score_index.length ? HOW_MANY : score_index.length;
+    NEXT_UP = score_index.slice(0,how_many);
+    console.log('magic sort: ' + FC_SCORE);
+    cand = NEXT_UP.shift();
+console.log(NEXT_UP);
+  }
+  //CURR_FC = (CURR_FC + 1) % FC_DATA.length;
+  CURR_FC = cand;
   return FC_DATA[CURR_FC];
 }
 
-function showFlashcard() {
-  console.log('show flashcard ' + CURR_FC);
-  var fc = _currFlashcard();
-  var fch = '<div class="flashcard-prompt">'
-  fch += fc.key + '</div>';
-  document.getElementById('flashcard').innerHTML = fch;
+// internal, return reverse-sorted array of indexes (from FC_SCORE)
+function reverse_scores_index() {
+  var toSort = FC_SCORE.slice();
+  for (var i = 0; i < toSort.length; i++) {
+    toSort[i] = [toSort[i], i];
+  }
+  toSort.sort(function(left, right) {
+    return left[0] > right[0] ? -1 : 1;
+  });
+  toSort.sortIndices = [];
+  for (var j = 0; j < toSort.length; j++) {
+    toSort.sortIndices.push(toSort[j][1]);
+    toSort[j] = toSort[j][0];
+  }
+  return toSort.sortIndices;
 }
+
+// internal, set the DOM based on the current selected flashcard
+function _setFlashcard() {
+  var fc = _currFlashcard();
+  fcstat( CURR_FC+1 + ' of ' + FC_DATA.length + 'cards');
+  var fcf = '<div class="flashcard-prompt">'
+  fcf += fc.key + '</div>';
+  document.getElementById('flashcard-front').innerHTML = fcf;
+  var fcb = '<div class="flashcard-full-answer">' + fc.answer + '</div>';
+  fcb += '<div class="flashcard-full-key">' + fc.key + '</div>';
+  fcb += '<div class="flashcard-full-alt">' + fc.alt + '</div>';
+  document.getElementById('flashcard-back').innerHTML = fcb;
+}
+
+
+// display the front of the flashcard
+function showFrontFlashcard() {
+  FC_STATUS = 'front';
+  document.getElementById('flashcard').classList.remove('back');
+  document.getElementById('flashcard').classList.add('front');
+  var fcf = document.getElementById('flashcard-front');
+  var fcb = document.getElementById('flashcard-back');
+  fcf.parentNode.insertBefore(fcf,fcb);
+  fcf.style.visibility = "visible";
+  fcb.style.visibility = "hidden";
+  fcf.style.opacity = "1";
+  fcb.style.opacity = "0";
+}
+
+// display the back of the flashcard
+// start timer if it's the first flip
+function showBackFlashcard() {
+  FC_STATUS = 'back';
+  if (FIRST_FLIP) {
+    startwatch();
+    FIRST_FLIP = false;
+  }
+  document.getElementById('flashcard').classList.remove('front');
+  document.getElementById('flashcard').classList.add('back');
+  var fcf = document.getElementById('flashcard-front');
+  var fcb = document.getElementById('flashcard-back');
+  fcf.parentNode.insertBefore(fcb,fcf);
+  fcf.style.visibility = "hidden";
+  fcb.style.visibility = "visible";
+  fcf.style.opacity = "0";
+  fcb.style.opacity = "1";
+}
+
+// called when the user advances to the next card
 function showNextFlashcard() {
-  console.log('show next flashcard');
-  var fc = _nextFlashcard();
-  var fch = '<div class="flashcard-prompt">'
-  fch += fc.key + '</div>';
-  document.getElementById('flashcard').innerHTML = fch;
-}
-
-function showFullFlashcard() {
-  console.log('show full flashcard');
-  var fc = _currFlashcard();
-  var fch = '<div class="flashcard-full-answer">' + fc.values[0] + '</div>';
-  fch += '<div class="flashcard-full-key">' + fc.key + '</div>';
-  fch += '<div class="flashcard-full-alt">' + fc.values[1] + '</div>';
-  fch += '<div class="flashcard-full-okay" onclick="showNextFlashcard()">okay</div>';
-  document.getElementById('flashcard').innerHTML = fch;
-}
-
-var FC_STATUS = 'prompt';
-function toggleFlashcard() {
-  if (FC_STATUS === 'prompt') {
-    FC_STATUS = 'full';
-    return showFullFlashcard();
+  if (FIRST_FLIP) {
+    //user is skipping this card (no score change, for now)
   } else {
-    FC_STATUS = 'prompt';
-    return showFlashcard();
+    var wait_s = stopwatch();
+    wait_s = wait_s < MAX_WAIT ? wait_s : MAX_WAIT;
+    var oldscore = FC_SCORE[CURR_FC];
+    FC_SCORE[CURR_FC] = (oldscore*4 + wait_s)/5;
+  }
+  FIRST_FLIP = true;
+  _nextFlashcard();
+  _setFlashcard();
+  showFrontFlashcard();
+}
+
+// flip card from front to back
+function toggleFlashcard() {
+  if (FC_STATUS === 'front') {
+    return showBackFlashcard();
+  } else {
+    return showFrontFlashcard();
   }
 }
 
+// set the status message
+function fcstat(msg) {
+  document.getElementById('fc-status').innerHTML = msg;
+}
+
+// load the flashcard data from JSON
+function loadDeck(url) {
+  fcstat('loading');
+  document.getElementById('flashcard-content-wrapper').style.visibility = "hidden";
+  getJSON(url, function(err, data) {
+    if (err !== null) {
+      console.log('Something went wrong: ' + err);
+    } else {
+      FC_DATA = data;
+      FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,MAX_WAIT);
+      CURR_FC = 0;
+      FIRST_FLIP = true;
+      NEXT_UP = [];
+      _nextFlashcard();
+      _setFlashcard();
+      showFrontFlashcard();
+      document.getElementById('flashcard-content-wrapper').style.visibility = "visible";
+    }
+  });
+}
 
 </script>
 </head>
 <body>
 
 
-<h1>Welcome</h1>
+<div id="fc-status">-</div>
 
-<p class="hand" onclick="openFlashcards()">begin</p>
-
-
-<div id="flashcard-modal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeFlashcards()">&times;</span>
-    <div class="hand" id="flashcard" onclick="toggleFlashcard()">...</div>
+<div class="hand" id="flashcard">
+  <div id="flashcard-content-wrapper" onclick="toggleFlashcard()" style="visibility:hidden;">
+    <div id="flashcard-front">...</div>
+    <div id="flashcard-back" style="visibility:hidden;opacity:0;">#</div>
   </div>
+  <div id="flashcard-okay" class="hand" onclick="showNextFlashcard()">okay</div>
+</div>
+
+
+<div>
+<a href="#" class="hand" onclick="loadDeck('http://www.verbose.net/zhcz/01_hello.json');return false;">Comfort</a>
+<br />
+<a href="#" class="hand" onclick="loadDeck('http://www.verbose.net/zhcz/02_learning.json');return false;">Learning Zone</a>
+<br />
+<a href="#" class="hand" onclick="loadDeck('http://www.verbose.net/zhcz/03_danger.json');return false;">Danger Zone</a>
 </div>
 
 
