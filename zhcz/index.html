@@ -58,11 +58,6 @@
 </style>
 <script>
 /*
-
-todo
-background "learning process", reshuffle by FC_SCORE (always with top-5 random)
-...??? lambda architecture or something, realtime updating sort
-
 */
 
 //GLOBALS
@@ -76,8 +71,8 @@ var FC_DATA = [
   {"key": "Pi",   "answer": "3.141592653", "alt": "3" }
 ];
 
-// this will be initialized by async json call (or from todo)
-var FC_SCORE = [0,0];
+// audio cache
+var FC_AUDIO = [false, false];
 
 // the pointer into FC_DATA and FC_SCORE
 var CURR_FC = 0;
@@ -99,10 +94,10 @@ var FIRST_FLIP = true;
 var START_TS = new Date().getTime();
 var startwatch = function() {
   START_TS = new Date().getTime();
-}
+};
 var stopwatch = function() {
   return (new Date().getTime() - START_TS)/1000;
-}
+};
 
 
 
@@ -126,11 +121,39 @@ var getJSON = function(url, callback) {
     xhr.send();
 };
 
+// scores will be initialized from localStorage
+var FC_SCORE = [0,0];
+var FC_NAME;
+Storage.prototype.setObj = function(key, obj) {
+  return this.setItem(key, JSON.stringify(obj))
+}
+Storage.prototype.getObj = function(key) {
+  return JSON.parse(this.getItem(key))
+}
+function initScores(fcname) {
+  FC_NAME = fcname;
+  FC_SCORE = localStorage.getObj(fcname);
+  if (!FC_SCORE) {
+    clearScores();
+  }
+}
+function clearScores() {
+  NEXT_UP = [];
+  FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,MAX_WAIT);
+}
+function getScore(index) {
+  return FC_SCORE[index];
+}
+function setScore(index,score) {
+  FC_SCORE[index] = score;
+  localStorage.setObj(FC_NAME,FC_SCORE);
+}
+
 
 // return the current flashcard data
 function _currFlashcard() {
   return FC_DATA[CURR_FC];
-}
+};
 
 // fetch the next flashcard, and set the internal pointer
 function _nextFlashcard() {
@@ -139,16 +162,15 @@ function _nextFlashcard() {
     var score_index = reverse_scores_index();
     var how_many = HOW_MANY < score_index.length ? HOW_MANY : score_index.length;
     NEXT_UP = score_index.slice(0,how_many);
-    console.log('magic sort: ' + FC_SCORE);
     cand = NEXT_UP.shift();
-console.log(NEXT_UP);
+console.log(FC_SCORE);
   }
   //CURR_FC = (CURR_FC + 1) % FC_DATA.length;
   CURR_FC = cand;
-  return FC_DATA[CURR_FC];
-}
+  return _currFlashcard();
+};
 
-// internal, return reverse-sorted array of indexes (from FC_SCORE)
+// internal, return reverse-sorted array of indexes (from flashcard scores)
 function reverse_scores_index() {
   var toSort = FC_SCORE.slice();
   for (var i = 0; i < toSort.length; i++) {
@@ -163,7 +185,7 @@ function reverse_scores_index() {
     toSort[j] = toSort[j][0];
   }
   return toSort.sortIndices;
-}
+};
 
 // internal, set the DOM based on the current selected flashcard
 function _setFlashcard() {
@@ -176,7 +198,7 @@ function _setFlashcard() {
   fcb += '<div class="flashcard-full-key">' + fc.key + '</div>';
   fcb += '<div class="flashcard-full-alt">' + fc.alt + '</div>';
   document.getElementById('flashcard-back').innerHTML = fcb;
-}
+};
 
 
 // display the front of the flashcard
@@ -191,7 +213,7 @@ function showFrontFlashcard() {
   fcb.style.visibility = "hidden";
   fcf.style.opacity = "1";
   fcb.style.opacity = "0";
-}
+};
 
 // display the back of the flashcard
 // start timer if it's the first flip
@@ -210,7 +232,8 @@ function showBackFlashcard() {
   fcb.style.visibility = "visible";
   fcf.style.opacity = "0";
   fcb.style.opacity = "1";
-}
+  _playAudio();
+};
 
 // called when the user advances to the next card
 function showNextFlashcard() {
@@ -219,14 +242,15 @@ function showNextFlashcard() {
   } else {
     var wait_s = stopwatch();
     wait_s = wait_s < MAX_WAIT ? wait_s : MAX_WAIT;
-    var oldscore = FC_SCORE[CURR_FC];
-    FC_SCORE[CURR_FC] = (oldscore*4 + wait_s)/5;
+    var oldscore = getScore(CURR_FC)
+    setScore(CURR_FC, (oldscore*4 + wait_s)/5 );
   }
   FIRST_FLIP = true;
+  _stopAudio();
   _nextFlashcard();
   _setFlashcard();
   showFrontFlashcard();
-}
+};
 
 // flip card from front to back
 function toggleFlashcard() {
@@ -235,12 +259,12 @@ function toggleFlashcard() {
   } else {
     return showFrontFlashcard();
   }
-}
+};
 
 // set the status message
 function fcstat(msg) {
   document.getElementById('fc-status').innerHTML = msg;
-}
+};
 
 // load the flashcard data from JSON
 function loadDeck(url) {
@@ -251,7 +275,8 @@ function loadDeck(url) {
       console.log('Something went wrong: ' + err);
     } else {
       FC_DATA = data;
-      FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,MAX_WAIT);
+      initScores(url);
+      FC_AUDIO = preloadAudio(FC_DATA);
       CURR_FC = 0;
       FIRST_FLIP = true;
       NEXT_UP = [];
@@ -261,7 +286,39 @@ function loadDeck(url) {
       document.getElementById('flashcard-content-wrapper').style.visibility = "visible";
     }
   });
-}
+};
+
+//preload any audio files
+function preloadAudio(data) {
+  var audiof = new Array();
+  for (var i=0; i<data.length; i++) {
+    audiof[i] = false;
+    if (data[i].audio) {
+      audiof[i] = new Audio();
+      audiof[i].addEventListener('canplaythrough', loadedAudio, false); 
+      audiof[i].src = 'audio/' + data[i].audio;
+    }
+  }
+  return audiof;
+};
+function loadedAudio() {
+  console.log('audio ready?');
+};
+
+// attempt to play the current cards audio
+function _playAudio() {
+  if (FC_AUDIO[CURR_FC]) {
+    var player = document.getElementById('flashcard-audio');
+    player.src = FC_AUDIO[CURR_FC].src
+    player.play();
+  }
+};
+function _stopAudio() {
+  var player = document.getElementById('flashcard-audio');
+  player.pause();
+};
+
+
 
 </script>
 </head>
@@ -276,6 +333,7 @@ function loadDeck(url) {
     <div id="flashcard-back" style="visibility:hidden;opacity:0;">#</div>
   </div>
   <div id="flashcard-okay" class="hand" onclick="showNextFlashcard()">okay</div>
+  <audio id="flashcard-audio" style="display:none;"></audio>
 </div>
 
 
@@ -286,6 +344,7 @@ function loadDeck(url) {
 <br />
 <a href="#" class="hand" onclick="loadDeck('http://www.verbose.net/zhcz/03_danger.json');return false;">Danger Zone</a>
 </div>
+<a href="#" onclick="clearScores();showNextFlashcard();return false;">start over</a>
 
 
 </body>
