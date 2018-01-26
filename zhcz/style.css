@@ -1,13 +1,17 @@
 
 
 body {
+  padding: 0;
+  margin: 0;
   font-family: sans-serif, "UKai", "STKaiTi", "KaiTi";
 }
 
 #flashcard-modal {
   position: absolute;
+  top: 0; left: 0;
   height: 100%;
   width: 100%;
+  overflow-x: hidden;
   z-index: 1;
   background-color: #eeeeef;
   visibility: hidden;
@@ -17,14 +21,15 @@ body {
   position: relative;
   background-color: white;
   margin: 20px 0 20px 5%;
+  padding: 0;
   border: 1px solid black;
   width: 600px;
   height: 400px;
 }
 @media only screen and (max-width: 600px) {
   #flashcard {
-    width: 100%;
-    margin: 20px 0;
+    margin: 20px auto;
+    width: 95%;
     height: 300px;
   }
 }
@@ -40,21 +45,47 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-#flashcard-okay {
-  display: block;
-  text-align: center;
-  padding: 20px;
-  line-height: 16px;
-  background-color: #666;
-  color: white;
+
+/*
+ * flashcard buttons, skip | pause | flip/next
+ */
+#flashcard-skip {
   position:absolute;
   width: 20%;
+  left: 0px;
   bottom: -56px;
-  right: 0px;
 }
+#flashcard-pause {
+  background-color: #999;
+  position:absolute;
+  width: 58%;
+  left: 21%;
+  bottom: -56px;
+}
+#flashcard-okay {
+  position:absolute;
+  width: 20%;
+  left: 80%;
+  bottom: -56px;
+}
+.flashcard-buttons {
+  display: block;
+  text-align: center;
+  line-height: 56px;
+  background-color: #666;
+  color: white;
+}
+.next-flipped {
+  background-color: #5b7;
+}
+
+
+/*
+ * flashcard text, prompts and answers
+ */
 .flashcard-prompt {
   text-align: center;
-  font-size: 400%;
+  font-size: 360%;
 }
 .flashcard-full-key {
   text-align: center;
@@ -62,9 +93,12 @@ body {
   color: #aaa;
 }
 .flashcard-full-answer {
+  font-size: 150%;
   text-align: center;
 }
 .flashcard-full-alt {
+  font-size: 120%;
+  color: #888;
   text-align: center;
 }
 

@@ -179,6 +179,8 @@ function showBackFlashcard() {
   if (FIRST_FLIP) {
     startwatch();
     FIRST_FLIP = false;
+    $('flashcard-okay').innerHTML = 'next';
+    $('flashcard-okay').classList.add('next-flipped')
   }
   $('flashcard').classList.remove('front');
   $('flashcard').classList.add('back');
@@ -203,11 +205,23 @@ function showNextFlashcard() {
     setScore(CURR_FC, (oldscore*4 + wait_s)/5 );
   }
   FIRST_FLIP = true;
+  $('flashcard-okay').innerHTML = 'flip';
+  $('flashcard-okay').classList.remove('next-flipped')
   _stopAudio();
   _nextFlashcard();
   _setFlashcard();
   showFrontFlashcard();
 };
+
+// flip/next
+function flipNext() {
+  if (FIRST_FLIP) {
+    showBackFlashcard();
+  } else {
+  	showNextFlashcard();
+  }
+}
+
 
 // flip card from front to back
 function toggleFlashcard() {
@@ -251,9 +265,8 @@ function loadDeck(url) {
 function pause() {
   _stopAudio();
   _unsetFlashcard();
-  FC_DATA = null;
-  FC_AUDIO = null;
-  FC_PROMPT = null;
+  $('flashcard-okay').innerHTML = 'flip';
+  $('flashcard-okay').classList.remove('next-flipped')
   _closeModal();
 }
 
@@ -321,4 +334,32 @@ function _stopAudio() {
   var player = $('flashcard-audio');
   player.pause();
 };
+
+
+
+
+// keyboard intercepts - EXPERIMENTAL
+// TODO stop propagation
+// TODO only intercept when IS_ACTIVE (or whatever, that is, unpaused and audio loaded)
+document.onkeydown = function(evt) {
+  evt = evt || window.event;
+  if (evt.keyCode == 32) {
+    console.log('space = pause');
+    pause();
+  }
+  if (evt.keyCode == 13) {
+    console.log('enter = flip/next');
+    flipNext();
+  }
+  if (evt.keyCode == 70) {
+    console.log('f = toggle');
+    toggleFlashcard();
+  }
+  if (evt.keyCode == 83) {
+    console.log('s = skip');
+    showNextFlashcard();
+  }
+  
+};
+
 

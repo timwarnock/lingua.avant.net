@@ -14,18 +14,17 @@
 
 <div id="flashcard-modal">
 <div id="fc-status">-</div>
+<a href="#" onclick="clearScores();showNextFlashcard();return false;">start over</a>
 <div class="hand" id="flashcard">
   <div id="flashcard-content-wrapper" onclick="toggleFlashcard()">
     <div id="flashcard-front">...</div>
     <div id="flashcard-back" style="visibility:hidden;opacity:0;">#</div>
   </div>
-  <div id="flashcard-okay" class="hand" onclick="showNextFlashcard()">okay</div>
+  <div id="flashcard-skip" class="hand flashcard-buttons" onclick="showNextFlashcard()">skip</div>
+  <div id="flashcard-pause" class="hand flashcard-buttons" onclick="pause()">pause</div>
+  <div id="flashcard-okay" class="hand flashcard-buttons" onclick="flipNext()">flip</div>
   <audio id="flashcard-audio" style="display:none;"></audio>
 </div>
-todo: skip |  
-<a href="#" onclick="clearScores();showNextFlashcard();return false;">start over</a>
- | 
-<a href="#" onclick="pause();return false;">pause</a>
 </div>
 
 
