@@ -1,14 +1,14 @@
 key,answer,alt,audio_prompt
-你,3rd,Nǐ,04/ni3.mp3
-你們,3rd 5th,Nǐmen,04/ni3men0.mp3
-他,1st,Tā,04/ta1.mp3
-他們,4th 5th,Tāmen,04/ta1men0.mp3
-我,3rd,Wǒ,04/wo3.mp3
-我們,3rd 5th,Wǒmen,04/wo3men0.mp3
+你,3rd,Nǐ - you,04/ni3.mp3
+你們,3rd 5th,Nǐmen - you all,04/ni3men0.mp3
+他,1st,Tā - he/she/it,04/ta1.mp3
+他們,4th 5th,Tāmen - them/they,04/ta1men0.mp3
+我,3rd,Wǒ - I/me,04/wo3.mp3
+我們,3rd 5th,Wǒmen - we/us,04/wo3men0.mp3
 比較,3rd 4th,Bǐjiào - compare,04/bi3jiao4.mp3
-不*,2nd,Bú*,04/bu2.mp3
-不太,2nd 4th,Bútài,04/bu2tai4.mp3
-不,4th,Bù,04/bu4.mp3
+不*,2nd,Bú* - not *,04/bu2.mp3
+不太,2nd 4th,Bútài - not too,04/bu2tai4.mp3
+不,4th,Bù - not,04/bu4.mp3
 非常,1st 2nd,Fēicháng - extremely,04/fei1chang2.mp3
 痕,2nd,Hén - mark,04/hen2.mp3
 很,3rd,Hěn - very,04/hen3.mp3
@@ -64,3 +64,27 @@ key,answer,alt,audio_prompt
 糟糕,1st 1st,Zāogāo - bad,zao1gao1.mp3
 重要,4th 4th,Zhòngyào - important,zhong4yao4.mp3
 自私,4th 1st,Zìsī - selfish,zi4si1.mp3
+長,2nd,Cháng - long,chang2.mp3
+大,4th,Dà - big,da4.mp3
+短,3rd,Duǎn - short,duan3.mp3
+餓,4th,è - hungry,e4.mp3
+幹,1st,Gan - dry,gan1.mp3
+貴,4th,Guì - expensive,gui4.mp3
+好,3rd,Hǎo - well,hao3.mp3
+黑,1st,Hēi - black,hei1.mp3
+紅,2nd,Hóng - red,hong2.mp3
+壞,4th,Huài - bad,huai4.mp3
+快,4th,Kuài - fast,kuai4.mp3
+冷,3rd,Lěng - cold,leng3.mp3
+慢,4th,Màn - slow,man4.mp3
+忙,2nd,Máng - busy,mang2.mp3
+美,3rd,Měi - beautiful,mei3.mp3
+強,2nd,Qiáng - strong,qiang2.mp3
+輕,1st,Qīng - light,qing1.mp3
+熱,4th,Rè - heat,re4.mp3
+酸,1st,Suān - acid,suan1.mp3
+晚,3rd,Wǎn - late,wan3.mp3
+小,3rd,Xiǎo - small,xiao3.mp3
+新,1st,Xīn - new,xin1.mp3
+油,2nd,Yóu - oil,you2.mp3
+早,3rd,Zǎo - early,zao3.mp3
