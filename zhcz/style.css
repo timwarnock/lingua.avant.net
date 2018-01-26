@@ -1,0 +1,74 @@
+
+
+body {
+  font-family: sans-serif, "UKai", "STKaiTi", "KaiTi";
+}
+
+#flashcard-modal {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  background-color: #eeeeef;
+  visibility: hidden;
+}
+
+#flashcard {
+  position: relative;
+  background-color: white;
+  margin: 20px 0 20px 5%;
+  border: 1px solid black;
+  width: 600px;
+  height: 400px;
+}
+@media only screen and (max-width: 600px) {
+  #flashcard {
+    width: 100%;
+    margin: 20px 0;
+    height: 300px;
+  }
+}
+#flashcard-content-wrapper {
+  width: 100%;
+  height: 100%;
+}
+#flashcard-front,
+#flashcard-back {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#flashcard-okay {
+  display: block;
+  text-align: center;
+  padding: 20px;
+  line-height: 16px;
+  background-color: #666;
+  color: white;
+  position:absolute;
+  width: 20%;
+  bottom: -56px;
+  right: 0px;
+}
+.flashcard-prompt {
+  text-align: center;
+  font-size: 400%;
+}
+.flashcard-full-key {
+  text-align: center;
+  font-size: 250%;
+  color: #aaa;
+}
+.flashcard-full-answer {
+  text-align: center;
+}
+.flashcard-full-alt {
+  text-align: center;
+}
+
+.hand {
+  cursor: pointer;
+}
+
