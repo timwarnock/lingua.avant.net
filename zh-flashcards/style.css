@@ -6,6 +6,30 @@ body {
   font-family: sans-serif, "UKai", "STKaiTi", "KaiTi";
 }
 
+#flashcard-pause-modal {
+  position: absolute;
+  top: 0; left: 0;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  z-index: 2;
+  background-color: rgba(0,0,0,0.8);
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.5s ease-in;
+}
+#flashcard-stats {
+  width: 600px;
+  padding: 20px;
+  margin: 90px 0 20px 5%;
+  color: white;
+  font-size: 20px;
+}
+#flashcard-pause-resume {
+  margin: 50px auto;
+  font-size: 30px;
+}
+
 #flashcard-modal {
   position: absolute;
   top: 0; left: 0;

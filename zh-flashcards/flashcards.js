@@ -242,6 +242,7 @@ function fcstat(msg) {
 // load the flashcard data from JSON
 function loadDeck(url) {
   _showModal();
+  pauseLoad();
   fcstat('loading');
   getJSON(url, function(err, data) {
     if (err !== null) {
@@ -261,16 +262,6 @@ function loadDeck(url) {
   });
 };
 
-// pause the flashcards
-function pause() {
-  _stopAudio();
-  _unsetFlashcard();
-  $('flashcard-okay').innerHTML = 'flip';
-  $('flashcard-okay').classList.remove('next-flipped')
-  _closeModal();
-}
-
-
 // show flashcard-modal
 function _showModal() {
   $('flashcard-modal').style.visibility = "visible";
@@ -279,22 +270,69 @@ function _closeModal() {
   $('flashcard-modal').style.visibility = "hidden";
 }
 
+// quit the flashcards
+function quitDeck() {
+  unpause();
+  _stopAudio();
+  _unsetFlashcard();
+  $('flashcard-okay').innerHTML = 'flip';
+  $('flashcard-okay').classList.remove('next-flipped')
+  _closeModal();
+}
 
+// pause the flashcards
+function pause() {
+  var paused = '<div id="flashcard-stats">';
+  paused += '<div class="hand" onclick="quitDeck();">quit</div>';
+  paused += getStats();
+  paused += '<div class="hand" onclick="clearScores();pause();">reset scores</div>';
+  paused += '<div id="flashcard-pause-resume" class="hand" onclick="unpause();">resume</div>';
+  paused += '</div>';
+  $('flashcard-pause-modal').style.visibility = "visible";
+  $('flashcard-pause-modal').style.opacity = "1";
+  $('flashcard-pause-modal').innerHTML = paused;
+}
+function pauseLoad() {
+  var paused = '<div id="flashcard-stats">loading...</div>';
+  $('flashcard-pause-modal').style.visibility = "visible";
+  $('flashcard-pause-modal').style.opacity = "1";
+  $('flashcard-pause-modal').innerHTML = paused;
+}
+function unpause() {
+  $('flashcard-pause-modal').style.visibility = "hidden";
+  $('flashcard-pause-modal').style.opacity = "0";
+}
 
+// print stats
+function getStats() {
+  var stats = '';
+  stats += FC_DATA.length + ' cards, ';
+  var avg = 0;
+  for (var i=0; i < FC_DATA.length; i++) {
+    avg += FC_SCORE[i];
+  }
+  stats += (avg/FC_DATA.length).toFixed(2) + 's average';
+  return stats;
+}
 
 
 
 
 
 //preload any audio files
+var audio_count = 0;
+var audio_ready = 0;
 function preloadAudio(data) {
   var audiof = new Array();
+  audio_count = 0;
+  audio_ready = 0;
   for (var i=0; i<data.length; i++) {
     audiof[i] = false;
     if (data[i].audio) {
       audiof[i] = new Audio();
       audiof[i].addEventListener('canplaythrough', loadedAudio, false); 
       audiof[i].src = 'audio/' + data[i].audio;
+      audio_count++;
     }
   }
   return audiof;
@@ -307,12 +345,18 @@ function preloadAudioP(data) {
       audiof[i] = new Audio();
       audiof[i].addEventListener('canplaythrough', loadedAudio, false); 
       audiof[i].src = 'audio/' + data[i].audio_prompt;
+      audio_count++;
     }
   }
   return audiof;
 };
 function loadedAudio() {
-  console.log('audio ready?');
+  audio_ready++;
+  if (audio_ready == audio_count) {
+    unpause();
+  } else {
+    $('flashcard-stats').innerHTML = 'loading ' + audio_ready + ' of ' + audio_count;
+  }
 };
 
 // attempt to play the current cards audio
@@ -345,7 +389,11 @@ document.onkeydown = function(evt) {
   evt = evt || window.event;
   if (evt.keyCode == 32) {
     console.log('space = pause');
-    pause();
+    if ($('flashcard-pause-modal').style.visibility == "visible") {
+      unpause();
+    } else {
+      pause();
+    }
   }
   if (evt.keyCode == 13) {
     console.log('enter = flip/next');
