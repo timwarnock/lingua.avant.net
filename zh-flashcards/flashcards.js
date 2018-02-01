@@ -1,10 +1,22 @@
 /*
 */
 
-//GLOBALS
 
-// max time (in seconds) for each card
+// max penalty time (in seconds) for each card
 MAX_WAIT = 10;
+
+// initial score for each card
+INIT_SCORE = 2;
+
+// set epsilon
+// how often cards will be randomly selected
+// 1 is 100%, random ordering of deck
+// 0 is 0%, cards will appear strictly based on inverse-time sort
+var EPSILON = 0.3; 
+
+
+
+//GLOBALS
 
 // this will be set by async json call
 var FC_DATA = [
@@ -19,8 +31,10 @@ var FC_AUDIO_PROMPT = [false, false];
 // the pointer into FC_DATA and FC_SCORE
 var CURR_FC = 0;
 
-// max cards before magic shuffle
-var HOW_MANY = 8; 
+// max number before re-shuffling
+var HOW_MANY = 10;
+var HOW_MANY_E = Math.floor(HOW_MANY * EPSILON);
+HOW_MANY = HOW_MANY - HOW_MANY_E;
 
 // the next indeces for CURR_FC
 var NEXT_UP = [];
@@ -50,6 +64,22 @@ var startwatch = function() {
 var stopwatch = function() {
   return (new Date().getTime() - START_TS)/1000;
 };
+
+
+
+/**
+ * Randomize array element order in-place.
+ * Using Durstenfeld shuffle algorithm.
+ */
+var shuffle = function(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
+  }
+}
+
 
 
 
@@ -91,7 +121,7 @@ function initScores(fcname) {
 }
 function clearScores() {
   NEXT_UP = [];
-  FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,MAX_WAIT);
+  FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,INIT_SCORE);
 }
 function getScore(index) {
   return FC_SCORE[index];
@@ -109,15 +139,22 @@ function _currFlashcard() {
 
 // fetch the next flashcard, and set the internal pointer
 function _nextFlashcard() {
+  //CURR_FC = (CURR_FC + 1) % FC_DATA.length;
   var cand = NEXT_UP.shift();
   if (cand == null) {
+    //TODO testable MAB functions, reshuffle (or something)
     var score_index = reverse_scores_index();
     var how_many = HOW_MANY < score_index.length ? HOW_MANY : score_index.length;
     NEXT_UP = score_index.slice(0,how_many);
+    var remaining = score_index.slice(how_many.length);
+    if (remaining.length > 0) {
+      console.log('randomly adding up to ' + HOW_MANY_E + ' cards to NEXT_UP');
+      shuffle(remaining);
+      NEXT_UP = NEXT_UP.concat(remaining.slice(0,HOW_MANY_E));
+    }
+    shuffle(NEXT_UP);
     cand = NEXT_UP.shift();
-console.log(FC_SCORE);
   }
-  //CURR_FC = (CURR_FC + 1) % FC_DATA.length;
   CURR_FC = cand;
   return _currFlashcard();
 };
@@ -142,7 +179,8 @@ function reverse_scores_index() {
 // internal, set the DOM based on the current selected flashcard
 function _setFlashcard() {
   var fc = _currFlashcard();
-  fcstat( CURR_FC+1 + ' of ' + FC_DATA.length + ' cards');
+  fcstat( 'card ' + (CURR_FC+1) + ' of ' + FC_SCORE.length 
+         + ' (' + FC_SCORE[CURR_FC].toFixed(2) + 's avg)');
   var fcf = '<div class="flashcard-prompt">'
   fcf += fc.key + '</div>';
   $('flashcard-front').innerHTML = fcf;
@@ -258,6 +296,7 @@ function loadDeck(url) {
       _nextFlashcard();
       _setFlashcard();
       showFrontFlashcard();
+      loadedAudio();
     }
   });
 };
@@ -352,10 +391,11 @@ function preloadAudioP(data) {
 };
 function loadedAudio() {
   audio_ready++;
-  if (audio_ready == audio_count) {
+  if (audio_ready >= audio_count) {
     unpause();
   } else {
-    $('flashcard-stats').innerHTML = 'loading ' + audio_ready + ' of ' + audio_count;
+    $('flashcard-stats').innerHTML = 'loading ' + audio_ready + ' of ' + audio_count
+    + '<div id="force-start" class="hand" onclick="unpause();">force start</div>';
   }
 };
 

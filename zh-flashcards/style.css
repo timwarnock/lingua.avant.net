@@ -25,6 +25,10 @@ body {
   color: white;
   font-size: 20px;
 }
+#force-start {
+  font-size: 16px;
+  margin: 20px 0;
+}
 #flashcard-pause-resume {
   margin: 50px auto;
   font-size: 30px;
@@ -37,7 +41,7 @@ body {
   width: 100%;
   overflow-x: hidden;
   z-index: 1;
-  background-color: #eeeeef;
+  background-color: #7cf;
   visibility: hidden;
 }
 
