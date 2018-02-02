@@ -420,8 +420,6 @@ function _stopAudio() {
 };
 
 
-
-
 // keyboard intercepts - EXPERIMENTAL
 // TODO stop propagation
 // TODO only intercept when IS_ACTIVE (or whatever, that is, unpaused and audio loaded)
