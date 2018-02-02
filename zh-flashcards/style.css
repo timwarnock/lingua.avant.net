@@ -81,27 +81,35 @@ body {
   position:absolute;
   width: 20%;
   left: 0px;
-  bottom: -56px;
+  bottom: -58px;
 }
 #flashcard-pause {
   background-color: #999;
   position:absolute;
   width: 58%;
   left: 21%;
-  bottom: -56px;
+  bottom: -58px;
 }
 #flashcard-okay {
   position:absolute;
   width: 20%;
   left: 80%;
-  bottom: -56px;
+  bottom: -58px;
 }
 .flashcard-buttons {
   display: block;
   text-align: center;
   line-height: 56px;
+  font-size: 22px;
   background-color: #666;
   color: white;
+  border: 1px solid black;
+  border-radius: 4%;
+  opacity: 0.8;
+  transition: all 0.3s ease-in;
+}
+.flashcard-buttons:hover {
+  opacity: 1.0;
 }
 .next-flipped {
   background-color: #5b7;
