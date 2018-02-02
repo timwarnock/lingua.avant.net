@@ -317,6 +317,7 @@ footer.entry-meta,
 .site-title a {
 	color: #eee;
 	padding: 0 0 0 15px;
+	text-shadow:0 0 5px white;
 }
 .site-description {
 	color: #aaa;
@@ -480,7 +481,7 @@ input[type="submit"]:hover {
     background: #333;
     background: rgba(0,0,0,.8);
     border-radius: 5px;
-    bottom: 30px;
+    top: 40px;
     color: #fff;
     content: attr(tooltip);
     left: 20%;
@@ -492,8 +493,8 @@ input[type="submit"]:hover {
 [tooltip]:hover:before{ /* triangle, like a speech bubble */
     border: solid;
     border-color: #333 transparent;
-    border-width: 6px 6px 0 6px;
-    bottom: 24px;
+    border-width: 0px 6px 6px 6px;
+    top: 34px;
     content: "";
     left: 50%;
     position: absolute;

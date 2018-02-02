@@ -51,6 +51,7 @@ body {
   margin: 20px 0 20px 5%;
   padding: 0;
   border: 1px solid black;
+  box-shadow: 3px 3px 9px black;
   width: 600px;
   height: 400px;
 }
@@ -81,20 +82,20 @@ body {
   position:absolute;
   width: 20%;
   left: 0px;
-  bottom: -58px;
+  bottom: -60px;
 }
 #flashcard-pause {
   background-color: #999;
   position:absolute;
   width: 58%;
   left: 21%;
-  bottom: -58px;
+  bottom: -60px;
 }
 #flashcard-okay {
   position:absolute;
   width: 20%;
   left: 80%;
-  bottom: -58px;
+  bottom: -60px;
 }
 .flashcard-buttons {
   display: block;
@@ -105,10 +106,13 @@ body {
   color: white;
   border: 1px solid black;
   border-radius: 4%;
-  opacity: 0.8;
+  opacity: 0.9;
+  text-shadow: 0 0 1px #eee;
+  box-shadow: 3px 3px 5px black;
   transition: all 0.3s ease-in;
 }
 .flashcard-buttons:hover {
+  text-shadow: 0 0 4px white;
   opacity: 1.0;
 }
 .next-flipped {
