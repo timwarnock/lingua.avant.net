@@ -285,6 +285,7 @@ function loadDeck(url) {
   getJSON(url, function(err, data) {
     if (err !== null) {
       console.log('Something went wrong: ' + err);
+      quitDeck();
     } else {
       FC_DATA = data;
       initScores(url);

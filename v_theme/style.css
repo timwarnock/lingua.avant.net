@@ -17,9 +17,9 @@ body {
   margin: 0;
   padding: 0;
 }
-
 a:focus {
-	outline: thin dotted;
+  color:inherit;
+  outline:none;
 }
 a img {
 	border: 0;
@@ -35,8 +35,9 @@ button,
 input,
 select,
 textarea {
-	color: #345;
-	font-family: 'Open Sans', sans-serif;
+  color: #345;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4;
 }
 p {
 	color: #9595a5;
@@ -46,7 +47,11 @@ p {
 h1 {
   font-size: 180%;
   margin: 40px 0 25px 0;
-  color: #ddd;
+  color: #446;
+  text-shadow: 1px 1px 2px #999;
+}
+h1.entry-title a:hover {
+  color: black;
 }
 hr {
 	background-color: #eee;
@@ -86,6 +91,14 @@ pre {
 img {
 	height: auto; 
 	max-width: 100%; 
+}
+
+
+/* */
+.zh {
+  font-size: 110%;
+  font-weight: normal;
+  text-shadow: none;
 }
 
 
@@ -185,6 +198,8 @@ footer.entry-meta,
 	padding: .75em 1.5em;
 	text-decoration: none;
 	font-size: 110%;
+	line-height:125%;
+	transition:all 0.3s ease-in;
 }
 .main-navigation a:hover,
 .main-navigation li.current-menu-item a:hover {
@@ -320,11 +335,12 @@ footer.entry-meta,
 	text-shadow:0 0 5px white;
 }
 .site-description {
-	color: #aaa;
+  color: rgba(255,255,255,0.4);
 	font-size: 125%;
 	font-style: italic;
 	font-weight: normal;
 	margin: 0 0 10px 30px;
+  text-shadow: 1px 1px 2px black;
   white-space: nowrap;
 }
 
