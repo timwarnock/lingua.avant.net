@@ -148,7 +148,6 @@ function _nextFlashcard() {
     NEXT_UP = score_index.slice(0,how_many);
     var remaining = score_index.slice(how_many.length);
     if (remaining.length > 0) {
-      console.log('randomly adding up to ' + HOW_MANY_E + ' cards to NEXT_UP');
       shuffle(remaining);
       NEXT_UP = NEXT_UP.concat(remaining.slice(0,HOW_MANY_E));
     }
@@ -181,9 +180,11 @@ function _setFlashcard() {
   var fc = _currFlashcard();
   fcstat( 'card ' + (CURR_FC+1) + ' of ' + FC_SCORE.length 
          + ' (' + FC_SCORE[CURR_FC].toFixed(2) + 's avg)');
+  console.log('card ' + (CURR_FC+1) + ' = ' + FC_SCORE[CURR_FC]);
   var fcf = '<div class="flashcard-prompt">'
   fcf += fc.key + '</div>';
   $('flashcard-front').innerHTML = fcf;
+ // $('flashcard-content-wrapper').style.backgroundImage = 'url("images/danger/imconfused.jpg")';
   var fcb = '<div class="flashcard-full-answer">' + fc.answer + '</div>';
   fcb += '<div class="flashcard-full-key">' + fc.key + '</div>';
   fcb += '<div class="flashcard-full-alt">' + fc.alt + '</div>';
