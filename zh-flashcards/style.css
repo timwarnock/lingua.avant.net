@@ -21,16 +21,22 @@ body {
 #flashcard-stats {
   width: 600px;
   padding: 20px;
-  margin: 90px 0 20px 5%;
+  margin: 50px 0 20px 5%;
   color: white;
   font-size: 20px;
+  line-height: 1.4em;
+  letter-spacing: 0.08;
 }
 #force-start {
   font-size: 16px;
   margin: 20px 0;
 }
 #flashcard-pause-resume {
-  margin: 50px auto;
+  margin: 40px auto;
+  font-size: 30px;
+}
+#flashcard-pause-quit {
+  margin: 0px auto 10px 0;
   font-size: 30px;
 }
 
@@ -144,5 +150,18 @@ body {
 
 .hand {
   cursor: pointer;
+  transition: all 0.4s ease;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+}
+
+#flashcard-pause-resume:hover,
+#flashcard-pause-quit:hover,
+#flashcard-pause-reset:hover,
+#flashcard-pause-reset2:hover,
+#flashcard-pause-reset10:hover {
+  text-shadow: 0 0 3px rgba(255,255,255,0.8);
 }
 

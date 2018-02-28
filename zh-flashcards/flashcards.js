@@ -115,13 +115,14 @@ Storage.prototype.getObj = function(key) {
 function initScores(fcname) {
   FC_NAME = fcname;
   FC_SCORE = localStorage.getObj(fcname);
-  if (!FC_SCORE) {
+  if ( !(FC_SCORE && FC_SCORE.length == FC_DATA.length)) {
     clearScores();
   }
 }
-function clearScores() {
+function clearScores(base_score) {
+  if (typeof base_score === 'undefined') { base_score = INIT_SCORE; }
   NEXT_UP = [];
-  FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,INIT_SCORE);
+  FC_SCORE = Array.apply(null, Array(FC_DATA.length)).map(Number.prototype.valueOf,base_score);
 }
 function getScore(index) {
   return FC_SCORE[index];
@@ -142,7 +143,7 @@ function _nextFlashcard() {
   //CURR_FC = (CURR_FC + 1) % FC_DATA.length;
   var cand = NEXT_UP.shift();
   if (cand == null) {
-    //TODO testable MAB functions, reshuffle (or something)
+    //TODO testable MAB functions, reshuffle?
     var score_index = reverse_scores_index();
     var how_many = HOW_MANY < score_index.length ? HOW_MANY : score_index.length;
     NEXT_UP = score_index.slice(0,how_many);
@@ -324,14 +325,20 @@ function quitDeck() {
 // pause the flashcards
 function pause() {
   var paused = '<div id="flashcard-stats">';
-  paused += '<div class="hand" onclick="quitDeck();">quit</div>';
+  paused += '<div id="flashcard-pause-quit" class="hand" onclick="quitDeck();">× quit</div>';
   paused += getStats();
-  paused += '<div class="hand" onclick="clearScores();pause();">reset scores</div>';
+  paused += '<div id="flashcard-pause-reset" class="hand" onclick="showResets();">reset scores</div>';
+  paused += '<div id="flashcard-pause-reset2" class="hand hidden" onclick="clearScores(2);pause();">- depth first (2 seconds)</div>';
+  paused += '<div id="flashcard-pause-reset10" class="hand hidden" onclick="clearScores(10);pause();">- breadth first (10 seconds)</div>';
   paused += '<div id="flashcard-pause-resume" class="hand" onclick="unpause();">resume</div>';
   paused += '</div>';
   $('flashcard-pause-modal').style.visibility = "visible";
   $('flashcard-pause-modal').style.opacity = "1";
   $('flashcard-pause-modal').innerHTML = paused;
+}
+function showResets() {
+  $('flashcard-pause-reset2').classList.remove('hidden');
+  $('flashcard-pause-reset10').classList.remove('hidden');
 }
 function pauseLoad() {
   var paused = '<div id="flashcard-stats">loading...</div>';
@@ -446,6 +453,11 @@ document.onkeydown = function(evt) {
   if (evt.keyCode == 83) {
     console.log('s = skip');
     showNextFlashcard();
+  }
+  if (evt.keyCode == 88) {
+    console.log('x - quit');
+    pause();
+    quitDeck();
   }
   
 };
