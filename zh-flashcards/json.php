@@ -22,8 +22,9 @@ $FC = array();
 
 if (($handle = fopen($CSV, "r")) !== FALSE) {
   $headers = fgetcsv($handle, 2000, ",");
-  while (($data = fgetcsv($handle, 2000, ",")) !== FALSE) {
-    $FC[] = array_combine($headers, $data);
+  while (($data = fgetcsv($handle, 2000, ",", '"')) !== FALSE) {
+    if (count($data) == count($headers))
+      $FC[] = array_combine($headers, $data);
   }
   fclose($handle);
 }
