@@ -415,6 +415,9 @@ function _playAudio() {
     player.src = FC_AUDIO[CURR_FC].src
     player.play();
   }
+  // else if ('audio' in FC_DATA[CURR_FC])
+  //   loadAudio, 
+  //   audio.addEventListener('canplaythrough', _playAudio, false);
 };
 function _playAudioPrompt() {
   if (FC_AUDIO_PROMPT[CURR_FC]) {
