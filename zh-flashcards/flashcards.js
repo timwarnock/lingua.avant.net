@@ -417,12 +417,11 @@ function loadedAudio() {
 // attempt to play the current cards audio
 function _playAudio() {
   if (FC_AUDIO[CURR_FC]) {
-    console.log('playing ' + FC_AUDIO[CURR_FC].src);
     var player = $('flashcard-audio');
     player.src = FC_AUDIO[CURR_FC].src
     player.play();
   } else if ('audio' in FC_DATA[CURR_FC]) {
-    console.log('loading ' + FC_AUDIO[CURR_FC].src);
+    console.log('lazy loading ' + FC_AUDIO[CURR_FC].src);
     FC_AUDIO[CURR_FC] = new Audio();
     FC_AUDIO[CURR_FC].addEventListener('canplaythrough', _playAudio, false);
     FC_AUDIO[CURR_FC].src = 'audio/' + FC_DATA[CURR_FC].audio;
@@ -433,6 +432,11 @@ function _playAudioPrompt() {
     var player = $('flashcard-audio');
     player.src = FC_AUDIO_PROMPT[CURR_FC].src
     player.play();
+  } else if ('audio_prompt' in FC_DATA[CURR_FC]) {
+    console.log('lazy loading ' + FC_AUDIO_PROMPT[CURR_FC].src);
+    FC_AUDIO_PROMPT[CURR_FC] = new Audio();
+    FC_AUDIO_PROMPT[CURR_FC].addEventListener('canplaythrough', _playAudio, false);
+    FC_AUDIO_PROMPT[CURR_FC].src = 'audio/' + FC_DATA[CURR_FC].audio_prompt;
   }
 };
 function _stopAudio() {
