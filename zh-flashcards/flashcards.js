@@ -280,7 +280,8 @@ function fcstat(msg) {
 
 
 // load the flashcard data from JSON
-function loadDeck(url) {
+function loadDeck(url, preload) {
+  preload = typeof preload !== 'undefined' ? preload : false;
   _showModal();
   pauseLoad();
   fcstat('loading');
@@ -291,8 +292,13 @@ function loadDeck(url) {
     } else {
       FC_DATA = data;
       initScores(url);
-      FC_AUDIO = preloadAudio(FC_DATA);
-      FC_AUDIO_PROMPT = preloadAudioP(FC_DATA);
+      if (preload) {
+        FC_AUDIO = preloadAudio(FC_DATA);
+        FC_AUDIO_PROMPT = preloadAudioP(FC_DATA);
+      } else {
+        FC_AUDIO = new Array(data.length).fill(false);
+        FC_AUDIO_PROMPT = new Array(data.length).fill(false);
+      }
       CURR_FC = 0;
       FIRST_FLIP = true;
       NEXT_UP = [];
@@ -411,13 +417,16 @@ function loadedAudio() {
 // attempt to play the current cards audio
 function _playAudio() {
   if (FC_AUDIO[CURR_FC]) {
+    console.log('playing ' + FC_AUDIO[CURR_FC].src);
     var player = $('flashcard-audio');
     player.src = FC_AUDIO[CURR_FC].src
     player.play();
+  } else if ('audio' in FC_DATA[CURR_FC]) {
+    console.log('loading ' + FC_AUDIO[CURR_FC].src);
+    FC_AUDIO[CURR_FC] = new Audio();
+    FC_AUDIO[CURR_FC].addEventListener('canplaythrough', _playAudio, false);
+    FC_AUDIO[CURR_FC].src = 'audio/' + FC_DATA[CURR_FC].audio;
   }
-  // else if ('audio' in FC_DATA[CURR_FC])
-  //   loadAudio, 
-  //   audio.addEventListener('canplaythrough', _playAudio, false);
 };
 function _playAudioPrompt() {
   if (FC_AUDIO_PROMPT[CURR_FC]) {
