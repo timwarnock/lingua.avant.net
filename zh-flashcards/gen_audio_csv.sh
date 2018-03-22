@@ -5,6 +5,21 @@
 DATA_FILE=$1
 AUDIO_DIR=$2
 
+
+#
+# verify parameters
+if [ $# -ne 2 ]; then
+  echo "Usage: $0 data.csv audio-directory"
+  exit 1
+elif [ ! -r $1 ]; then
+  echo "Cannot find $1"
+  exit 1
+elif [ ! -d audio/$2 ]; then
+  mkdir audio/$2
+fi
+
+
+
 #
 function fetch() {
   HEADERS="-U=Mozilla"
@@ -15,14 +30,10 @@ function fetch() {
 
 
 
-
-#
-# check if AUDIO_DIR exists
-
-
 #
 # check if DATA_FILE exists, add audio column
 if [ -r "$DATA_FILE" ]; then
+  dos2unix $DATA_FILE
   head -1 $DATA_FILE | grep audio
   if [ $? -eq 0 ]; then
     echo "audio already exists in $DATA_FILE, skipping"
@@ -38,6 +49,7 @@ if [ -r "$DATA_FILE" ]; then
     mv _TEMP $DATA_FILE
   fi
 fi
+
 
 
 #
