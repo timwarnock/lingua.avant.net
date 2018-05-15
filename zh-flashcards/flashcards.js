@@ -3,10 +3,10 @@
 
 
 // max penalty time (in seconds) for each card
-MAX_WAIT = 10;
+MAX_WAIT = 20;
 
 // initial score for each card
-INIT_SCORE = 2;
+INIT_SCORE = 3;
 
 // set epsilon
 // how often cards will be randomly selected
@@ -242,7 +242,7 @@ function showNextFlashcard() {
     var wait_s = stopwatch();
     wait_s = wait_s < MAX_WAIT ? wait_s : MAX_WAIT;
     var oldscore = getScore(CURR_FC)
-    setScore(CURR_FC, (oldscore*4 + wait_s)/5 );
+    setScore(CURR_FC, (oldscore*3 + wait_s)/4 );
   }
   FIRST_FLIP = true;
   $('flashcard-okay').innerHTML = 'flip';
@@ -334,8 +334,8 @@ function pause() {
   paused += '<div id="flashcard-pause-quit" class="hand" onclick="quitDeck();">× quit</div>';
   paused += getStats();
   paused += '<div id="flashcard-pause-reset" class="hand" onclick="showResets();">reset scores</div>';
-  paused += '<div id="flashcard-pause-reset2" class="hand hidden" onclick="clearScores(2);pause();">- depth first (2 seconds)</div>';
-  paused += '<div id="flashcard-pause-reset10" class="hand hidden" onclick="clearScores(10);pause();">- breadth first (10 seconds)</div>';
+  paused += '<div id="flashcard-pause-reset2" class="hand hidden" onclick="clearScores(INIT_SCORE);pause();">- depth first (3 seconds)</div>';
+  paused += '<div id="flashcard-pause-reset10" class="hand hidden" onclick="clearScores(MAX_WAIT);pause();">- breadth first (20 seconds)</div>';
   paused += '<div id="flashcard-pause-resume" class="hand" onclick="unpause();">resume</div>';
   paused += '</div>';
   $('flashcard-pause-modal').style.visibility = "visible";
