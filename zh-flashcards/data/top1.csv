@@ -51,7 +51,7 @@ key,alt,answer,audio
 又,"yòu (又, 又)","again, moreover",top1/50.mp3
 將,"jiāng (將, 将)",be about to,top1/51.mp3
 因為,"yīnwèi (因為, 因为)","conj.: because, for, on account of",top1/52.mp3
-於,"yū (於, 于)","in, at, to, from, out of, by",top1/53.mp3
+於,"yú (於, 于)","in, at, to, from, out of, by",top1/53.mp3
 由,"yóu (由, 由)","from, via, by, through, owing/due to",top1/54.mp3
 從,"cóng (從, 从)","from, since, through",top1/55.mp3
 更,"gèng (更, 更)","more, still/even more, further, furthermore",top1/56.mp3
@@ -101,7 +101,7 @@ key,alt,answer,audio
 使用,"shǐyòng (使用, 使用)","use, employ, apply",top1/100.mp3
 這些,"zhèxiē (這些, 这些)",det.: these,top1/101.mp3
 裡,"lǐ (裡, 里)",inside,top1/102.mp3
-由於,"yóuyū (由於, 由于)",conj.: owing/due/thanks to,top1/103.mp3
+由於,"yóuyú (由於, 由于)",conj.: owing/due/thanks to,top1/103.mp3
 時候,"shíhòu (時候, 时候)","day, moment,  a point in time,",top1/104.mp3
 知道,"zhīdào (知道, 知道)","tell, have, ken, understand, infer, wis, learn, cognize, gather, know, be aware of, wise up, savvy, mind, realize",top1/105.mp3
 這樣,"zhèyàng (這樣, 这样)","so, such, like this, this way",top1/106.mp3
@@ -203,7 +203,7 @@ key,alt,answer,audio
 國內,"guónèi (國內, 国内)","interior of country , interior, home, intestine, internal, domestic",top1/202.mp3
 們,"men (們, 们)",pluralizer after pronouns and nouns of persons,top1/203.mp3
 無,"wú (無, 无)","not have, there is not",top1/204.mp3
-對於,"duìyū (對於, 对于)","in regard to, toward, at, for",top1/205.mp3
+對於,"duìyú (對於, 对于)","in regard to, toward, at, for",top1/205.mp3
 以及,"yǐjí (以及, 以及)","conj.: as well as,  along with,  and",top1/206.mp3
 之後,"zhīhòu (之後, 之后)","later, behind, at the back of, after",top1/207.mp3
 可是,"kěshì (可是, 可是)","conj.: but,  yet,  however",top1/208.mp3
@@ -364,7 +364,7 @@ key,alt,answer,audio
 父母,"fùmǔ (父母, 父母)","parental, parents, father and mother, folks",top1/363.mp3
 寫,"xiě (寫, 写)","description, bewrite, direct, describe, pencil, draw, paint, inscribe, write, depiction, write_out, throw_off, depict, address, author, screeve, word, compose",top1/364.mp3
 人類,"rénlèi (人類, 人类)","man, wight, human_being, human, human race, mankind, individual, human species, Homo_sapiens, populace, creature, hominid, world, mortality, microcosm, humans, humanitarianism, humanity, humanness, human beings/species, people, species, humankind, human beings, public, mortal",top1/365.mp3
-至於,"zhìyū (至於, 至于)",as for/to,top1/366.mp3
+至於,"zhìyú (至於, 至于)",as for/to,top1/366.mp3
 買,"mǎi (買, 买)","pick up, invest, hire, buy, purchase, put_down, trade, get",top1/367.mp3
 尤其,"yóují (尤其, 尤其)",especially,top1/368.mp3
 配合,"pèihé (配合, 配合)","coordinate,  cooperate",top1/369.mp3
@@ -393,7 +393,7 @@ key,alt,answer,audio
 成,"chéng (成, 成)","become, turn into",top1/392.mp3
 參與,"cānyū (參與, 参与)",participate in,top1/393.mp3
 以後,"yǐhòu (以後, 以后)","afterwards, later, future, in the future, hereafter",top1/394.mp3
-於是,"yūshì (於是, 于是)","conj.: thereupon, hence, consequently, as a result",top1/395.mp3
+於是,"yúshì (於是, 于是)","conj.: thereupon, hence, consequently, as a result",top1/395.mp3
 部分,"bùfèn (部分, 部分)","partial, department, section, partialness, slice, pars, part, det.: part, percent, partage, sphere, component, divvy, segment, portion, fraction, sector, chapter, share, percentage, piece, division, sectional, parcel",top1/396.mp3
 另外,"lìngwài (另外, 另外)","conj.: in addition,  besides,  moreover",top1/397.mp3
 公園,"gōngyuán (公園, 公园)","common, green, garden, commons, park",top1/398.mp3
@@ -619,7 +619,7 @@ key,alt,answer,audio
 出,"chū (出, 出)","produce, turn out, arise, happen",top1/618.mp3
 男人,"nánrén (男人, 男人)","male, man, chap, mankind, buck, bastard, gentleman, jack, gent, men, blighter, cuss, hombre, lad, adult male, groom, husband, bimbo, dog, fellow, mon, menfolk, fella",top1/619.mp3
 避免,"bìmiǎn (避免, 避免)","forbear, preclude, refrain_from, forebear, escape, help, elude, leapfrog, refrain from, stave_off, evite, shun, obviate, avoid, evade, waive, help oneself, ward_off, ward, miss, avert, ward off, balk, refrain",top1/620.mp3
-屬於,"shǔyū (屬於, 属于)","fall under, be part of, pertain, appertain, belong, relegate, fall into, belong_to, fall_under, reside, belong to, attach",top1/621.mp3
+屬於,"shǔyú (屬於, 属于)","fall under, be part of, pertain, appertain, belong, relegate, fall into, belong_to, fall_under, reside, belong to, attach",top1/621.mp3
 實施,"shíshī (實施, 实施)","put into effect, implement",top1/622.mp3
 聲音,"shēngyīn (聲音, 声音)","voice, vocal, language, huskiness, vox, vocalization, audio, noise, sonic, tone, sound, phone, audio frequency",top1/623.mp3
 主義,"zhǔyì (主義, 主义)","tenet, principle, hang, system, ticket, creed, philosophy, school of thought, evangel, ism, gospel, masonry, maxim, doctrine,  ism",top1/624.mp3
@@ -638,7 +638,7 @@ key,alt,answer,audio
 電子,"diànzǐ (電子, 电子)",electron,top1/637.mp3
 思想,"sīxiǎng (思想, 思想)","cogitation, mentation, imagery, imaging, lunatic_fringe, mental imagery, idea, thinking, imagination, ideology, thought, pensee, ideological",top1/638.mp3
 頭,"tóu (頭, 头)","head, hair style , top/end of sth., chief",top1/639.mp3
-終於,"zhōngyū (終於, 终于)","in the last analysis, at long last, at last, lastly, ultimately, all things considered, out, on the whole, at_last, eventually, in the final analysis, finally",top1/640.mp3
+終於,"zhōngyú (終於, 终于)","in the last analysis, at long last, at last, lastly, ultimately, all things considered, out, on the whole, at_last, eventually, in the final analysis, finally",top1/640.mp3
 謝謝,"xièxiè (謝謝, 谢谢)",thank,top1/641.mp3
 協助,"xiézhù (協助, 协助)","assist, help",top1/642.mp3
 除,"chú (除, 除)",except,top1/643.mp3
@@ -789,7 +789,7 @@ key,alt,answer,audio
 深,"shēn (深, 深)","deepen, penetrating, profound, deep, dark",top1/788.mp3
 報告,"bàogào (報告, 报告)","report, speech,  student term paper",top1/789.mp3
 不錯,"búcuò (不錯, 不错)","not bad, pretty good;correct, right",top1/790.mp3
-在於,"zàiyū (在於, 在于)","be at, on, lie, in, depend on, lie_in, rest with, lie in, be determined by, consist_in, consist in",top1/791.mp3
+在於,"zàiyú (在於, 在于)","be at, on, lie, in, depend on, lie_in, rest with, lie in, be determined by, consist_in, consist in",top1/791.mp3
 旁,"páng (旁, 旁)","side, by the side of, other",top1/792.mp3
 笑,"xiào (笑, 笑)","smile, laugh",top1/793.mp3
 故,"gù (故, 故)","conj.: hence,  so,  therefore,  as a result",top1/794.mp3
