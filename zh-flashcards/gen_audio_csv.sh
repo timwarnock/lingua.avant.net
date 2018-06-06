@@ -56,9 +56,8 @@ fi
 # check if audio files exist, fetch if not
 if [ -r "$DATA_FILE" ]; then
   csvtool namedcol key,audio $DATA_FILE | while read -r line ; do
-    arrIN=(${line//,/ })
-    key=${arrIN[0]}
-    audio=${arrIN[1]}
+    key=`echo $line | awk -F, '{ print $1 }'`
+    audio=`echo $line | awk -F, '{ print $2 }'`
     if [ "$audio" == "audio" ]; then
       echo "this file has audio"
     elif [ -r "audio/$audio" ]; then
