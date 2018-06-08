@@ -23,7 +23,7 @@ fi
 #
 function fetch() {
   HEADERS="-U=Mozilla"
-  QUERY=$1
+  QUERY=`python -c "import urllib, sys; print urllib.quote(sys.argv[1])" "$1"`
   OUTFILE=$2
   wget -O "$OUTFILE" $HEADERS 'https://code.responsivevoice.org/getvoice.php?t='$QUERY'&tl=zh-TW&sv=g1&vn=&pitch=0.5&rate=0.44&vol=1'
 }
