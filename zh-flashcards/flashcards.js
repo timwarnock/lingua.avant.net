@@ -39,6 +39,9 @@ HOW_MANY = HOW_MANY - HOW_MANY_E;
 // the next indeces for CURR_FC
 var NEXT_UP = [];
 
+// TODO history indeces
+var FC_HIST = [];
+
 // save state for which side of the card is showing
 var FC_STATUS = 'front';
 
@@ -64,6 +67,7 @@ var startwatch = function() {
 var stopwatch = function() {
   return (new Date().getTime() - START_TS)/1000;
 };
+
 
 
 
