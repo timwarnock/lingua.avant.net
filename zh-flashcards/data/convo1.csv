@@ -11,6 +11,7 @@ key,answer,alt,audio_prompt
 讓我們放鬆一下,Let's relax for awhile,Ràng wǒmen fàngsōng yīxià,convo1/10.mp3
 我們今天去放鬆,We are going to relax today,Wǒmen jīntiān qù fàngsōng,convo1/11.mp3
 曬太陽,sunbathe,Shài tàiyáng,convo1/12.mp3
+瞌睡蟲,sleepyhead,Kēshuì chóng,convo1/13.mp3
 我要待在家,I want to stay home,Wǒ yào dài zàijiā,convo1/14.mp3
 要去吃饭吗? 好啊!,Eat? Yes!,Yào qù chīfàn ma? Hǎo a!,convo1/15.mp3
 要去吃饭吗? 好吧...,Eat? Ok...,Yào qù chīfàn ma? Hǎo ba...,convo1/16.mp3
@@ -36,4 +37,12 @@ key,answer,alt,audio_prompt
 晚點見,See you later,Wǎndiǎn jiàn,convo1/36.mp3
 那我先放東西在你家,Then I'll put things in your home first,Nà wǒ xiān fàng dōngxī zài nǐ jiā,convo1/37.mp3
 倒數第二,Second to last,Dàoshǔ dì èr,convo1/38.mp3
-
+無糖,No sugar,Wú táng,convo1/39.mp3
+我看上去像斑馬一樣,I look like a zebra,Wǒ kàn shàngqù xiàng bānmǎ yīyàng,convo1/40.mp3
+現在很癢,Now it's itchy,Xiànzài hěn yǎng,convo1/41.mp3
+調皮,Naughty,Tiáopí,convo1/42.mp3
+我要死了,I'm dying,Wǒ yàosǐle,convo1/43.mp3
+親吻和擁抱,Kisses and hugs,Qīnwěn hé yǒngbào,convo1/44.mp3
+如何,how is it,Rúhé,convo1/45.mp3
+我很傷心因為,I'm sad because,Wǒ hěn shāngxīn yīnwèi,convo1/46.mp3
+我不可以吃甜點,I can't eat sweets,Wǒ bù kěyǐ chī tiándiǎn,convo1/47.mp3
