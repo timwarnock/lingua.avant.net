@@ -42,6 +42,12 @@ textarea {
 p {
 	color: #9595a5;
 }
+.green, .green p {
+	color:#696;
+}
+.darkred, .darkred p {
+    color:#966;
+}
 
 /* Headings */
 h1 {
@@ -230,7 +236,7 @@ footer.entry-meta,
 	display: none;
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 524px) {
     h1 { font-size: 120%; }
     .menu { margin: 0; }
 	.menu-toggle,
@@ -249,7 +255,7 @@ footer.entry-meta,
 		display: none;
 	}
 }
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 524px) {
 	.main-navigation li {
 		display: inline-block;
 		position: relative;
