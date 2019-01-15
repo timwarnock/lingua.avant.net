@@ -1,0 +1,40 @@
+key,answer,alt,audio_prompt
+algo, something/anything,,pronombres/1.mp3
+alguien, someone/somebody,,pronombres/2.mp3
+alguno, one/someone (adj. some),,pronombres/3.mp3
+ambas, both,,pronombres/4.mp3
+conmigo, with me,,pronombres/5.mp3
+contigo,  with you,,pronombres/6.mp3
+con usted / con él / con ella, with you/him/her,,pronombres/7.mp3
+cuál/cuáles, which/what/as,,pronombres/8.mp3
+cualquiera, any/anyone,,pronombres/9.mp3
+él / ella, he/she,,pronombres/10.mp3
+ellos, them/they,,pronombres/11.mp3
+eso, that,,pronombres/12.mp3
+esto, this,,pronombres/13.mp3
+la / el, the,,pronombres/14.mp3
+le, you,,pronombres/15.mp3
+lo, it,,pronombres/16.mp3
+me, me,,pronombres/17.mp3
+mí, me,,pronombres/18.mp3
+mío/mía, mine,,pronombres/19.mp3
+nada, nothing,,pronombres/20.mp3
+nadie, nobody,,pronombres/21.mp3
+ninguno, none/not any/nobody,,pronombres/22.mp3
+nos, us,pronombres/23.mp3
+nuestro(s)/nuestra(s), our/ours,,pronombres/24.mp3
+otros/otras, others,,pronombres/25.mp3
+qué, what,,pronombres/26.mp3
+que, who,,pronombres/27.mp3
+quién, who/whom,,pronombres/28.mp3
+se, oneself/himself/herself/yourself/themselves,,pronombres/29.mp3
+su/sus, yours/theirs/his/hers, short-form before noun,pronombres/30.mp3
+suyo/suyas, yours/his/hers/theirs, long-form after noun,pronombres/31.mp3
+te, inf. you, no te entiendo (I don’t understand you),pronombres/32.mp3
+ti, you,,pronombres/33.mp3
+tu/tus, you/your,,pronombres/34.mp3
+todo, all,,pronombres/35.mp3
+una / un, a / an,,pronombres/36.mp3
+uno / una, one, cada una de mis mochilas (each one of my backpacks),pronombres/37.mp3
+usted, you,,pronombres/38.mp3
+varios, various,,pronombres/39.mp3
