@@ -131,11 +131,11 @@ body {
  */
 .flashcard-prompt {
   text-align: center;
-  font-size: 360%;
+  font-size: 220%;
 }
 .flashcard-full-key {
   text-align: center;
-  font-size: 250%;
+  font-size: 200%;
   color: #aaa;
   padding: 10px;
 }
