@@ -1,59 +1,59 @@
-key,answer,alt
-uno - dos - tres - quatro - cinco - seis - siete - ocho - nueve - diez, 1-10,
-once - doce - trese - catorce - quince - dieciséis - diecisiete - dieciocho - diecinueve, 11 - 12 - 13 - 14 -15 -16 -17 - 18 - 19,
-veinte - veintiuno - veintidós - ..., 20 - 21 - 22 - ...,
-treinta - treinta y uno - treinta y dos - ..., 30 - 31 - 32 - ...,
-cuarenta ..., 40-,
-cincuenta ..., 50-,
-sesenta ..., 60-,
-setenta ..., 70-, 
-ochenta ..., 80-, 
-noventa ..., 90-, 
-cien, 100,
-ciento uno - ciento dos - ... - ciento noventa y nueve, 101 - 102 - ... - 199,
-doscientos ..., 200,
-trescientos ..., 300,
-cuatrocientos ..., 400,
-quinientos ..., 500, why?
-seiscientos ..., 600,
-setecientos ..., 700,
-ochocientos ..., 800, 
-novecientos ... novecientos noventa y nueve, 900 ... 999,
-mil, 1000,
-primero - segundo - tercero - ..., first - second - third - ...,
-primera - segunda - tercera - ..., first - second - third - ...,
-cuarto - quinto - sexto - séptimo - octavo - noveno - décimo, fourth - fifth - sixth - seventh - eighth - ninth - tenth,
-undécimo o decimoprimero, 11th,
-duodécimo o decimosegundo, 12th,
-decimotercero, 13th, 
-decimocuarto, 14th,
-decimoquinto, 15th,
-decimosexto, 16th,
-decimoséptimo, 17th,
-decimoctavo, 18th,
-decimonoveno, 19th,
-vigésimo - vigésimo primero - vigésimo segundo - ..., 20th - 21st - 22nd - ...,
-trigésimo - trigésimo primero - ..., 30th - 31st - ...,
-cuadragésimo - cuadragésimo primero - ..., 40th - 41st - ...,
-quincuagésimo - ..., 50th,
-sexagésimo - ..., 60th,
-septuagésimo - ..., 70th,
-octogésimo - ..., 80th,
-nonagésimo - ..., 90th,
-centésimo - ..., 100th, 
-ducentésimo - ..., 200th,
-tricentésimo - ..., 300th, 
-cuadringentésimo - ..., 400th,
-quingentésimo - ..., 500th,
-sexecentésimo - ..., 600th,
-septingentésimo - ..., 700th,
-octingésimo - ..., 800th,
-noningentésimo - ..., 900th,
-milésimo - ..., 1000th,
-dosmilésimo - ..., 2000th,
-tresmilésimo - ..., 3000th,
-cuatromilésimo - ..., 4000th,
-una vez - dos veces - tres veces - ..., one time - two times - three times - ..., 
-la primera vez, first time,
-la octingésima vez, the 800th time,
-la última vez, last time, 
+key,answer,alt,audio_prompt
+uno - dos - tres - quatro - cinco - seis - siete - ocho - nueve - diez, 1-10,,numeros/1.mp3
+once - doce - trese - catorce - quince - dieciséis - diecisiete - dieciocho - diecinueve, 11 - 12 - 13 - 14 -15 -16 -17 - 18 - 19,,numeros/2.mp3
+veinte - veintiuno - veintidós - ..., 20 - 21 - 22 - ...,,numeros/3.mp3
+treinta - treinta y uno - treinta y dos - ..., 30 - 31 - 32 - ...,,numeros/4.mp3
+cuarenta ..., 40-,,numeros/5.mp3
+cincuenta ..., 50-,,numeros/6.mp3
+sesenta ..., 60-,,numeros/7.mp3
+setenta ..., 70-,,numeros/8.mp3
+ochenta ..., 80-,,numeros/9.mp3
+noventa ..., 90-,,numeros/10.mp3
+cien, 100,,numeros/11.mp3
+ciento uno - ciento dos - ... - ciento noventa y nueve, 101 - 102 - ... - 199,,numeros/12.mp3
+doscientos ..., 200,,numeros/13.mp3
+trescientos ..., 300,,numeros/14.mp3
+cuatrocientos ..., 400,,numeros/15.mp3
+quinientos ..., 500, why?,numeros/16.mp3
+seiscientos ..., 600,,numeros/17.mp3
+setecientos ..., 700,,numeros/18.mp3
+ochocientos ..., 800,,numeros/19.mp3
+novecientos ... novecientos noventa y nueve, 900 ... 999,,numeros/20.mp3
+mil, 1000,,numeros/21.mp3
+primero - segundo - tercero - ..., first - second - third - ...,,numeros/22.mp3
+primera - segunda - tercera - ..., first - second - third - ...,,numeros/23.mp3
+cuarto - quinto - sexto - séptimo - octavo - noveno - décimo, fourth - fifth - sixth - seventh - eighth - ninth - tenth,,numeros/24.mp3
+undécimo o decimoprimero, 11th,,numeros/25.mp3
+duodécimo o decimosegundo, 12th,,numeros/26.mp3
+decimotercero, 13th,,numeros/27.mp3
+decimocuarto, 14th,,numeros/28.mp3
+decimoquinto, 15th,,numeros/29.mp3
+decimosexto, 16th,,numeros/30.mp3
+decimoséptimo, 17th,,numeros/31.mp3
+decimoctavo, 18th,,numeros/32.mp3
+decimonoveno, 19th,,numeros/33.mp3
+vigésimo - vigésimo primero - vigésimo segundo - ..., 20th - 21st - 22nd - ...,,numeros/34.mp3
+trigésimo - trigésimo primero - ..., 30th - 31st - ...,,numeros/35.mp3
+cuadragésimo - cuadragésimo primero - ..., 40th - 41st - ...,,numeros/36.mp3
+quincuagésimo - ..., 50th,,numeros/37.mp3
+sexagésimo - ..., 60th,,numeros/38.mp3
+septuagésimo - ..., 70th,,numeros/39.mp3
+octogésimo - ..., 80th,,numeros/40.mp3
+nonagésimo - ..., 90th,,numeros/41.mp3
+centésimo - ..., 100th,,numeros/42.mp3
+ducentésimo - ..., 200th,,numeros/43.mp3
+tricentésimo - ..., 300th,,numeros/44.mp3
+cuadringentésimo - ..., 400th,,numeros/45.mp3
+quingentésimo - ..., 500th,,numeros/46.mp3
+sexecentésimo - ..., 600th,,numeros/47.mp3
+septingentésimo - ..., 700th,,numeros/48.mp3
+octingésimo - ..., 800th,,numeros/49.mp3
+noningentésimo - ..., 900th,,numeros/50.mp3
+milésimo - ..., 1000th,,numeros/51.mp3
+dosmilésimo - ..., 2000th,,numeros/52.mp3
+tresmilésimo - ..., 3000th,,numeros/53.mp3
+cuatromilésimo - ..., 4000th,,numeros/54.mp3
+una vez - dos veces - tres veces - ..., one time - two times - three times - ...,,numeros/55.mp3
+la primera vez, first time,,numeros/56.mp3
+la octingésima vez, the 800th time,,numeros/57.mp3
+la última vez, last time,,numeros/58.mp3
