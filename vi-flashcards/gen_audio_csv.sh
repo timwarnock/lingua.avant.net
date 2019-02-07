@@ -23,10 +23,9 @@ fi
 #
 function fetch() {
   HEADERS="-U=Mozilla"
-  COOKIES="--header \"Cookie: __cfduid=d833ed040ed649ce81215cca4423f794d1547670341; _ga=GA1.2.137660095.1547670345; _gid=GA1.2.567442362.1547670345\""
   QUERY=`python -c "import urllib, sys; print urllib.quote(sys.argv[1])" "$1"`
   OUTFILE=$2
-  wget -O "$OUTFILE" $HEADERS 'https://code.responsivevoice.org/getvoice.php?t='$QUERY'&tl=vi&sv=g1&vn=&pitch=0.5&rate=0.5&vol=1&gender=male' || rm $OUTFILE
+  wget -O "$OUTFILE" $HEADERS 'https://code.responsivevoice.org/getvoice.php?t='$QUERY'&tl=vi&sv=g1&vn=&pitch=0.5&rate=0.5&vol=1&gender=female' || rm $OUTFILE
 }
 
 
