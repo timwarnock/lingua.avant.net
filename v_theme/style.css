@@ -36,11 +36,11 @@ input,
 select,
 textarea {
   color: #345;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'UniversLTStd Cn', Arial, 'Open Sans', sans-serif;
   line-height: 1.4;
 }
 p {
-	color: #9595a5;
+	color: #30373a;
 }
 .green, .green p {
 	color:#696;
