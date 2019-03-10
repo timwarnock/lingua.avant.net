@@ -114,6 +114,9 @@ a {
 	color: #000;
 	text-decoration: none;
 }
+p a {
+  font-weight: bold;
+}
 a:visited {
 	color: #111;
 }
