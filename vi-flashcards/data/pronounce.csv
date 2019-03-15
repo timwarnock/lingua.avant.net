@@ -1,44 +1,67 @@
 key,answer,alt,audio_prompt
-xa,far,/aː/,pronounce/1.mp3
-mắt,eye,/a/,pronounce/2.mp3
-đất,earth,/ə/,pronounce/3.mp3
-xe,vehicle,/ɛ/,pronounce/4.mp3
-hên,lucky,/e/,pronounce/5.mp3
-hình,image,/i/,pronounce/6.mp3
-yêu,love,/i/,pronounce/7.mp3
-lo,worried,/ɔ/,pronounce/8.mp3
-cô,she,/o/,pronounce/9.mp3
-trơn,slippy,/ə:/,pronounce/10.mp3
-bún,noodle,/u/,pronounce/11.mp3
-mứt,jam,/ɨ/,pronounce/12.mp3
-bao,bag,/b/,pronounce/13.mp3
-con,child,/k/,pronounce/14.mp3
-kính,glass,/k/,pronounce/15.mp3
-cho,give,/c/,pronounce/16.mp3
-giá,price,/z/ northern,pronounce/17.mp3
-dao,knife,/z/ northern,pronounce/18.mp3
-đi,go,/d/,pronounce/19.mp3
-ghen,jealous,/g/,pronounce/20.mp3
-hên,lucky,/h/,pronounce/21.mp3
-khói,smoke,/x/,pronounce/22.mp3
-lái,drive,/l/,pronounce/23.mp3
-mẹ,mum,/m/,pronounce/24.mp3
-nền,floor,/n/,pronounce/25.mp3
-ngồi,sit,/ŋ/,pronounce/26.mp3
-nghe,hear / listen,/ŋ/,pronounce/27.mp3
-nhanh,fast,/ɲ/,pronounce/28.mp3
-phở,pho,/f/,pronounce/29.mp3
-quen,familiar,/kw/ northern,pronounce/30.mp3
-rau,vegetable,/r/,pronounce/31.mp3
-sen,lotus,/∫/ sh,pronounce/32.mp3
-tối,dark,/t/,pronounce/33.mp3
-thích,like,/tʰ/,pronounce/34.mp3
-trơn,slippy,/ʈʂ/,pronounce/35.mp3
-vẽ,draw,/v/,pronounce/36.mp3
-xem,watch,/s/,pronounce/37.mp3
-ngang,thanh,˧ (high flat),pronounce/38.mp3
-huyền,`,˨˩ (low falling),pronounce/39.mp3
-sắc,´,˧˥ (mid rising),pronounce/40.mp3
-nặng,̣,˧ˀ˨ʔ (drop),pronounce/41.mp3
-hỏi,̉,˧˩˧ (asking),pronounce/42.mp3
-ngã,˜,˧ˀ˥ (glottalized),pronounce/43.mp3
+a / xa,/aː/,far,pronounce/1.mp3
+ă / mắt,/a/,eye,pronounce/2.mp3
+â / đất,/ə/,earth,pronounce/3.mp3
+e / xe,/ɛ/,vehicle,pronounce/4.mp3
+ê / hên,/e/,lucky,pronounce/5.mp3
+i / hình,/i/,image,pronounce/6.mp3
+ê / yêu,/i/,love,pronounce/7.mp3
+o / lo,/ɔ/,worried,pronounce/8.mp3
+ô / cô,/o/,she,pronounce/9.mp3
+ơ / trơn,/ə:/,slippy,pronounce/10.mp3
+u / bún,/u/,noodle,pronounce/11.mp3
+ư / mứt,/ɨ/,jam,pronounce/12.mp3
+b / bao,/b/,bag,pronounce/13.mp3
+c / con,/k/,child,pronounce/14.mp3
+k / kính,/k/,glass,pronounce/15.mp3
+ch / cho,/c/,give,pronounce/16.mp3
+gi / giá,/z/ northern,price,pronounce/17.mp3
+d / dao,/z/ northern,knife,pronounce/18.mp3
+đ / đi,/d/,go,pronounce/19.mp3
+gh / ghen,/g/,jealous,pronounce/20.mp3
+h / hên,/h/,lucky,pronounce/21.mp3
+kem / khói,/x/,cream / smoke (breath/no-breath),pronounce/22.mp3
+l / lái,/l/,drive,pronounce/23.mp3
+m / mẹ,/m/,mum,pronounce/24.mp3
+n / nền,/n/,floor,pronounce/25.mp3
+ng / ngồi,/ŋ/,sit,pronounce/26.mp3
+ngh / nghe,/ŋ/,hear / listen,pronounce/27.mp3
+nhà / nhanh,/ɲ/,home / fast,pronounce/28.mp3
+phim / phở,/f/,film / pho,pronounce/29.mp3
+q / quen,/kw/ northern,familiar,pronounce/30.mp3
+r / rau,/r/ /z/ northern,vegetable,pronounce/31.mp3
+s / sen,/∫/ /s/ nothern,lotus,pronounce/32.mp3
+t / tối,/t/,dark,pronounce/33.mp3
+th / thích,/tʰ/,like,pronounce/34.mp3
+tre / trơn,/ʈʂ/,bamboo / slippery,pronounce/35.mp3
+v / vẽ,/v/,draw,pronounce/36.mp3
+x / xem,/s/,watch,pronounce/37.mp3
+ngang,˧ (high flat),thanh,pronounce/38.mp3
+huyền,˨˩ (low falling),` (f),pronounce/39.mp3
+sắc,˧˥ (mid rising),´ (s),pronounce/40.mp3
+nặng,˧ˀ˨ʔ (drop),̣ (j),pronounce/41.mp3
+hỏi,˧˩˧ (asking),̉ (r),pronounce/42.mp3
+ngã,˧ˀ˥ (glottalized),˜ (x),pronounce/43.mp3
+i / e / ê,/i/ /ɛ/ /e/,front mouth,pronounce/44.mp3
+a / ă / â,/a:/ /a/ /ə/,unrounded mouth,pronounce/45.mp3
+ơ / ư,/ə:/ /ɨ/,unround mouth,pronounce/46.mp3
+u / ô / o,/u/ /o/ /ɔ/,round mouth,pronounce/47.mp3
+ơ / â,/ə:/ /ə/,unrounded long/short,pronounce/48.mp3
+a / ă,/a:/ /a/,unrounded long/short,pronounce/49.mp3
+nghi / nghe / nghê,ng + front vowels,,pronounce/50.mp3
+ngư / ngơ / nga,ng + unrounded vowels,,pronounce/51.mp3
+ngân nga,humming,,pronounce/52.mp3
+nga / ngăn,rusian / compartment,unrounded (long/short),pronounce/53.mp3
+ngu / ngô / ngo,ng + rounded vowels,,pronounce/54.mp3
+Nguyễn,Nguyen,family name,pronounce/55.mp3
+xoong / xong,saucepan / done,close mouth on xong,pronounce/56.mp3
+ân / tân / nâng,â sounds,â is never a final sound,pronounce/57.mp3
+con / son / xoong,baby / lipstick / saucepan,open mouth on xoong,pronounce/58.mp3
+muốn / mua,want / buying,dipthong ending with a,pronounce/59.mp3
+anh / ang,anh / ang,?,pronounce/60.mp3
+ách / ác,ách / ác,?,pronounce/61.mp3
+ba bo bô bơ be bê bu bư bi,ba bo bô bơ be bê bu bư bi,,pronounce/62.mp3
+khom khôm khơm khum khưm,khom khôm khơm khum khưm,,pronounce/63.mp3
+khán kháng khánh,khán kháng khánh,,pronounce/64.mp3
+dao dau,dao dau,/w/,pronounce/65.mp3
+ngai ngay,ngai ngay,short long,pronounce/66.mp3
