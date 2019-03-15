@@ -1,2 +1,25 @@
-key,answer,alt
-
+key,answer,alt,audio_prompt
+vui lòng nhắc lại.,please repeat.,,hoctap/1.mp3
+hãy nói chậm hơn,please speak more slowly,more demanding than làm ơn,hoctap/2.mp3
+làm ơn nói chậm hơn,please speak more slowly,please speak slow more,hoctap/3.mp3
+Bạn có nói tiếng Anh không?,Do you speak English?,em có nói tiếng Anh không?,hoctap/4.mp3
+Tiếng Việt của tôi không tốt.,My Vietnamese is not good.,Tiếng Việt của anh không tốt.,hoctap/5.mp3
+Tôi học Tiếng Việt.,I’m learning Vietnamese.,anh học Tiếng Việt.,hoctap/6.mp3
+tôi muốn học,I want to learn,anh muốn học,hoctap/7.mp3
+tôi muốn học hỏi thêm,I want to learn more,,hoctap/8.mp3
+Tôi nói Tiếng Việt,I speak Vietnamese,,hoctap/9.mp3
+Tôi nói một ít Tiếng Việt,I speak a little Vietnamese,,hoctap/10.mp3
+Tôi không nói Tiếng Việt tốt,I don't speak Vietnamese well,,hoctap/11.mp3
+Xin lỗi, tôi không biết Tiếng Việt,Sorry, I do not know Vietnamese,,hoctap/12.mp3
+Vợ tôi. giáo viên tồi.,My wife. bad teacher.,,hoctap/13.mp3
+tôi thích nó,I like that,anh thích nó ...,hoctap/14.mp3
+tôi không thích nó,I don't like that,anh không thích nó,hoctap/15.mp3
+tôi thích nó,I love it,anh thích nó,hoctap/16.mp3
+Tôi muốn ...,I would like ...,anh muốn ...,hoctap/17.mp3
+Tôi muốn ...,I want ...,anh muốn ...,hoctap/18.mp3
+Tôi không muốn ...,I don't want ...,anh không muốn ...,hoctap/19.mp3
+Tôi biết ...,I know ...,anh biết ...,hoctap/20.mp3
+Tôi không biết,I don't know,anh biết ...,hoctap/21.mp3
+Tôi hiểu ...,I understand ...,anh hiểu ...,hoctap/22.mp3
+Tôi không hiểu ...,I don’t understand ...,anh không hiểu ...,hoctap/23.mp3
+học tập,to study,,hoctap/24.mp3
