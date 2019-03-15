@@ -20,7 +20,7 @@ d / dao,/z/ northern,knife,pronounce/18.mp3
 đ / đi,/d/,go,pronounce/19.mp3
 gh / ghen,/g/,jealous,pronounce/20.mp3
 h / hên,/h/,lucky,pronounce/21.mp3
-kem / khói,/x/,cream / smoke (breath/no-breath),pronounce/22.mp3
+khó / khởi / khói,/x/,difficult / start / smoke,pronounce/22.mp3
 l / lái,/l/,drive,pronounce/23.mp3
 m / mẹ,/m/,mum,pronounce/24.mp3
 n / nền,/n/,floor,pronounce/25.mp3
@@ -28,9 +28,9 @@ ng / ngồi,/ŋ/,sit,pronounce/26.mp3
 ngh / nghe,/ŋ/,hear / listen,pronounce/27.mp3
 nhà / nhanh,/ɲ/,home / fast,pronounce/28.mp3
 phim / phở,/f/,film / pho,pronounce/29.mp3
-q / quen,/kw/ northern,familiar,pronounce/30.mp3
-r / rau,/r/ /z/ northern,vegetable,pronounce/31.mp3
-s / sen,/∫/ /s/ nothern,lotus,pronounce/32.mp3
+q / quen,/kw/ north,familiar,pronounce/30.mp3
+r / rau,/r/ (/z/ north),vegetable,pronounce/31.mp3
+sử / sen,/∫/ (/s/ noth),history / lotus,pronounce/32.mp3
 t / tối,/t/,dark,pronounce/33.mp3
 th / thích,/tʰ/,like,pronounce/34.mp3
 tre / trơn,/ʈʂ/,bamboo / slippery,pronounce/35.mp3
@@ -44,10 +44,10 @@ hỏi,˧˩˧ (asking),̉ (r),pronounce/42.mp3
 ngã,˧ˀ˥ (glottalized),˜ (x),pronounce/43.mp3
 i / e / ê,/i/ /ɛ/ /e/,front mouth,pronounce/44.mp3
 a / ă / â,/a:/ /a/ /ə/,unrounded mouth,pronounce/45.mp3
-ơ / ư,/ə:/ /ɨ/,unround mouth,pronounce/46.mp3
-u / ô / o,/u/ /o/ /ɔ/,round mouth,pronounce/47.mp3
-ơ / â,/ə:/ /ə/,unrounded long/short,pronounce/48.mp3
-a / ă,/a:/ /a/,unrounded long/short,pronounce/49.mp3
+ơ / ư,/ə:/ /ɨ/,unrounded mouth,pronounce/46.mp3
+u / ô / o,/u/ /o/ /ɔ/,rounded mouth,pronounce/47.mp3
+ơ / â,/ə:/ /ə/,unrounded (long/short),pronounce/48.mp3
+a / ă,/a:/ /a/,unrounded (long/short),pronounce/49.mp3
 nghi / nghe / nghê,?,ng + front vowels,pronounce/50.mp3
 ngư / ngơ / nga,?,ng + unrounded vowels,pronounce/51.mp3
 ngân nga,?,humming,pronounce/52.mp3
