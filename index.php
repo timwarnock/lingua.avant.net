@@ -1,4 +1,4 @@
 <?php
-  header('Location: http://verbose.net/lang');
+  header('Location: https://verbose.net/lang');
   exit;
 ?>
