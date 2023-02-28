@@ -1,1 +1,1 @@
-# verbose.net
+# lingua.avant.net
