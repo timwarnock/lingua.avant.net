@@ -1,0 +1,42 @@
+# Python / uv environments and artifacts
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# uv
+# (uv.lock is normally committed for reproducibility, but we are not
+# using uv as a project manager for ora/ yet — only uvx for the tool)
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Zensical build output is intentionally committed for the live preview
+# (ora/site/ is served directly from the git tree)
+# Do NOT add ora/site/ or site/ here.
