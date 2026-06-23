@@ -27,16 +27,20 @@ We will use [Zensical](https://zensical.org/) as we need an LLM friendly framewo
 - `/ora/site/` is a manually typed special/preview URL during development and incremental work. Root routing remains unchanged for now.
 - Local workflow uses `uv` (e.g. `cd ora && uvx zensical serve` or `uv run --with zensical zensical ...`).
 - Future cutover: add root `.htaccess` with mod_rewrite to make the new Zensical site the default for the whole domain (and handle removal of old paths only after everything has been migrated).
-- The eventual content focus is traditional Christian prayers (Rosary first), organized by language. Custom JS for audio/flashcards/etc. will be added via Zensical's `extra_javascript` support.
-- `.github/workflows` from the Zensical template can remain (it targets GitHub Pages); unused for current direct-git hosting.
+- The content focus is traditional Christian prayers (Rosary first), organized by language. Custom JS for audio/flashcards/etc. will be added via Zensical's `extra_javascript` support.
+
+### Content Migration
+
++ All content from https://lingua.avant.net/v/ will be migrated to the Zensical ora/ site, content in markdown, with a similar look and feel, font, style, etc
++ After all content is captured in ora/ then we will refactor flashcards.js such taht it embeds into the Zensical site (flashcards.mjs?) perhaps as an embedded modal with a more modern look and feel
++ After all content and flashcards are successfully ported into ora/, then we will refactor the content page by page to focus the entire site on prayer and the rosary
 
 ## TODO
 
-Current status: Zensical project set up in `ora/`. Special preview at `/ora/site/`. Initial Rosary content with nested prayers/ pages added (Latin + English + Spanish). Dev server on :7007. Existing content untouched.
+Current status: Zensical project set up in `ora/`. Special preview at `/ora/site/`. Migrated old /v/ content organized directly in language/topic sections under docs/. Dev server on :7007. Existing old flashcard content untouched.
 
-+ [ ] Decide the migration plan
-+ [ ] Build out Zensical for local development
-+ [ ] Set up a special hosted Zensical section on the live site
+Progress (migration + look & feel): Full content for migrated /v/ pages (text only; images/audio skipped). Restructured language sections to use original primary pages as section index.md (e.g. tieng-viet content now at vietnamese/index.md) so URLs are /vietnamese/ not /vietnamese/tieng-viet/ and no invented summary indexes. Additional subpages from source are siblings, listed in side nav. Consistent names. Fixed links. Build clean.
+
 + [ ] Migrate content over to the Zensical site
 + [ ] Plan and execute the cutover
 + [ ] Organize new language sections, each focused on learning the Rosary in that language

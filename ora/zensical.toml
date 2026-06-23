@@ -38,16 +38,48 @@ Copyright &copy; 2026 lingua.avant.net
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
-# If you decide not to define a navigation here then Zensical will simply
-# derive the navigation structure from the directory structure of your
-# "docs_dir". The definition below demonstrates how a navigation structure
-# can be defined using TOML syntax.
+# We define a top-level nav so the major sections appear as tabs in the header.
+# With navigation.tabs + navigation.sections + navigation.indexes enabled,
+# each top tab shows its own scoped sidebar containing all pages in that section.
+# Mobile automatically collapses the tabs into a dropdown menu.
 #
-# Read more: https://zensical.org/docs/setup/navigation/
+# Read more:
+# - https://zensical.org/docs/setup/navigation/#navigation-tabs
+# - https://zensical.org/docs/setup/navigation/#navigation-sections
 nav = [
   { "Ora" = "index.md" },
-  { "The Rosary" = "rosary.md" },
-  { "Prayers" = "prayers/index.md" },
+  { "Español" = [
+      "espanol/index.md",
+      "espanol/cognados.md",
+      "espanol/conjugaciones.md"
+    ] },
+  { "Tiếng Việt" = [
+      "vietnamese/index.md",
+      "vietnamese/vi-pronounce.md",
+      "vietnamese/vi-typing.md",
+      "vietnamese/vi-progress.md"
+    ] },
+  { "中文" = [
+      "chinese/index.md",
+      "chinese/shuohua-poem.md",
+      "chinese/grammar.md",
+      "chinese/trad-vs-simp.md",
+      "chinese/calligraphy.md",
+      "chinese/zhuyin.md",
+      "chinese/tones.md",
+      "chinese/comfort-zone.md"
+    ] },
+  { "Tips & Resources" = [
+      "tips/index.md",
+      "tips/fsi.md",
+      "tips/fsi-diff.md",
+      "tips/advice.md",
+      "tips/bad-advice.md",
+      "tips/islands.md",
+      "tips/introverts.md",
+      "tips/multilingual.md",
+      "tips/ipa.md"
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -58,7 +90,7 @@ nav = [
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -74,7 +106,7 @@ nav = [
 [project.theme]
 
 # change this to "classic" to use the traditional Material for MkDocs look.
-#variant = "classic"
+variant = "classic"
 
 # Zensical allows you to override specific blocks, partials, or whole
 # templates as well as to define your own templates. To do this, uncomment
@@ -94,7 +126,7 @@ nav = [
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "images/favicon.png"
+favicon = "assets/images/favicon.png"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -131,20 +163,7 @@ features = [
     # https://zensical.org/docs/setup/repository/#content-actions
     #"content.action.view",
 
-    # Code annotations allow you to add an icon with a tooltip to your
-    # code blocks to provide explanations at crucial points.
-    # https://zensical.org/docs/authoring/code-blocks/#code-annotations
-    "content.code.annotate",
 
-    # This feature turns on a button in code blocks that allow users to
-    # copy the content to their clipboard without first selecting it.
-    # https://zensical.org/docs/authoring/code-blocks/#code-copy-button
-    "content.code.copy",
-
-    # Code blocks can include a button to allow for the selection of line
-    # ranges by the user.
-    # https://zensical.org/docs/authoring/code-blocks/#code-selection-button
-    "content.code.select",
 
     # Zensical can render footnotes as inline tooltips, so the user can read
     # the footnote without leaving the context of the document.
@@ -216,12 +235,12 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.
@@ -275,9 +294,15 @@ features = [
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "Inter"
-#code = "Jetbrains Mono"
+[project.theme.font]
+text = "Inter"
+code = "JetBrains Mono"
+
+# Custom palette for a warmer, less generic look
+[[project.theme.palette]]
+primary = "indigo"
+accent = "teal"
+scheme = "default"
 
 # ----------------------------------------------------------------------------
 # In the "palette" subsection you can configure options for the color scheme.

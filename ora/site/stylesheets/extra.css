@@ -1,0 +1,48 @@
+/* Custom styles for Ora - less generic docs feel, more content focused */
+
+/* Softer, readable typography */
+.md-typeset {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.md-typeset h1 {
+  font-weight: 600;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.3em;
+}
+
+/* Make navigation feel more like old site */
+.md-nav__link {
+  font-size: 0.9rem;
+}
+
+/* Better color for links, warmer tone */
+.md-typeset a {
+  color: #2a5f8f;
+}
+
+.md-typeset a:hover {
+  color: #1a4a70;
+}
+
+/* Subtle section headers */
+.md-nav__title {
+  font-weight: 600;
+}
+
+/* Wider content area for reading (less cramped docs feel) */
+.md-grid {
+  max-width: 1200px;
+}
+
+/* Cleaner header for language learning / prayer site */
+.md-header {
+  background-color: #f8f9fa;
+  color: #333;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.md-header__title {
+  font-weight: 500;
+}
