@@ -1,9 +1,12 @@
-/* Custom styles for Ora - less generic docs feel, more content focused */
+/* Custom styles - less generic docs feel, more content focused */
 
-/* Softer, readable typography */
+/* Content typography. 
+   Theme default: .md-typeset { font-size: .8rem; } (very small).
+   Original site body text was effectively ~15-16px (100% of 16px) with line-height:1.4 and condensed sans.
+*/
 .md-typeset {
-  font-size: 0.95rem;
-  line-height: 1.7;
+  font-size: 0.85rem;  /* 13.6px at 16px root - compact like original */
+  line-height: 1.45;
 }
 
 .md-typeset h1 {
@@ -36,13 +39,38 @@
   max-width: 1200px;
 }
 
-/* Cleaner header for language learning / prayer site */
-.md-header {
-  background-color: #f8f9fa;
-  color: #333;
-  border-bottom: 1px solid #e0e0e0;
-}
-
 .md-header__title {
   font-weight: 500;
+}
+
+/* Very minimal: background image on the normal Zensical header + styled title text.
+   No hiding, no forced sizes, no positioning hacks. */
+
+.md-header.md-header--shadow.md-header--lifted {
+  background-image: url('../assets/images/header-banner.jpg');
+  background-size: cover;
+  background-position: center 35%;
+}
+
+/* Light overlay for text legibility over image */
+.md-header::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.35), rgba(0,0,0,0.15));
+  z-index: -1;
+}
+
+/* Header title text style - larger with desired look, applied to site name */
+.md-header__title .md-ellipsis {
+  font-family: "UKai", "STKaiTi", "KaiTi", serif;
+  font-size: 1.6rem;   /* bigger than default but keeps normal header proportions */
+  font-weight: normal;
+  color: #eee;
+  text-shadow: 0 0 4px rgba(0,0,0,0.7);
+}
+
+/* Subtle dark treatment on tabs so they blend with the banner */
+.md-tabs {
+  background: rgba(0,0,0,0.3);
 }

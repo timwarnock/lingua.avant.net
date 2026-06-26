@@ -41,7 +41,45 @@ Current status: Zensical project set up in `ora/`. Special preview at `/ora/site
 
 Progress (migration + look & feel): Full content for migrated /v/ pages (text only; images/audio skipped). Restructured language sections to use original primary pages as section index.md (e.g. tieng-viet content now at vietnamese/index.md) so URLs are /vietnamese/ not /vietnamese/tieng-viet/ and no invented summary indexes. Additional subpages from source are siblings, listed in side nav. Consistent names. Fixed links. Build clean.
 
+2026-06-25: Fixed home page and tones page with media from live site.
+- Home (ora/docs/index.md): replaced with original title block "語言學習 – apprentissage des langues" + the stacked translations + language links, to match https://lingua.avant.net/v/ .
+- Tones (ora/docs/chinese/tones.md): added the Praat visualization image + click-to-play audio (using <audio> + img onclick, replicating original behavior). Also completed the missing ## Mimicry section + tone pair flashcards link from source. Fixed one internal link to new structure.
+- Downloaded assets from live WP (tones image/audio + header banner) into ora/docs/assets/{images,audio}/ .
+- Rebuilt; generated HTML uses correct relative asset paths (e.g. ../assets/... on subpages) and preserves the interactive element.
+- Header: added original banner (header-banner.jpg) as background on .md-header + overlay. Styled .md-tabs menu with semi-transparent "glass" effect + hover states for a nicer UI over the image (matching the old "image with stylish menu" look from live site). Rebuilt.
+
+2026-06-26 update: No "Ora" anywhere; header title/subtitle match.
+- zensical.toml: site_name = "語言學習". Removed the nav entry { "Ora" = "index.md" } (no "Ora" tab or page; language sections are the tabs, landing is reached via logo/header).
+- extra.css: removed "Ora" from comment.
+- Header branding forced via CSS (first topic text size-0 + ::before/::after) to always show exactly:
+  語言學習
+  apprentissage des langues
+  (fixed, like original masthead .site-branding over the banner image; page topic suppressed in header title bar).
+- Cleaned ora/docs/index.md (removed leading h1 that duplicated the header branding; body is now the translations list + languages section).
+- Rebuilt. No "Ora" in source content or rendered tabs/header.
+- Top menu tabs now exactly match original header nav (inside the banner):
+  - Order and labels: [ advice ], 中文, español, Tiếng Việt
+  - "[ advice ]" tab links to tips/advice.md (and scopes the other tips pages in its sidebar)
+  - Other language tabs use lowercase "español" to match source. No "Tips & Resources" grouping.
+
+2026-06-26 header polish (per user feedback):
+- Removed subtitle entirely (per suggestion to simplify layout).
+- No icon (hidden .md-logo).
+- 語言學習 as proper linked (JS wraps existing title text in <a>).
+- Font 1.4rem with Chinese font, color, shadow to match original (CSS applies to default structure too).
+- Header forced to 140px height !important with banner image; menu absolute at bottom of it.
+- Other header controls hidden.
+- Rebuilt. Added DEBUG red border on header and yellow/blue on title to verify if CSS is loaded in the build. If still no change, the dev server may be serving from source without the build, or cache issue. Please check for red border on the header area.
+
 + [ ] Migrate content over to the Zensical site
+
+2026-06-26: Simplified header dramatically per request.
+- Reverted to near-default Zensical/Material header structure (no hiding controls, no JS DOM hacks, no forced heights/align/paddings/absolute positioning).
+- Kept ONLY: background-image + light overlay on .md-header (for the banner), and targeted title text styling (.md-header__title .md-ellipsis) for larger size (1.6rem) + original Chinese font family, color, shadow.
+- Tabs get very light dark overlay to blend.
+- This keeps header bar at normal proportions while adding the image and text style.
+- extra_javascript disabled.
+- Rebuilt. Should feel like normal header + the requested image and text.
 + [ ] Plan and execute the cutover
 + [ ] Organize new language sections, each focused on learning the Rosary in that language
 

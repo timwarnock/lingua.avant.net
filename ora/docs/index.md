@@ -1,20 +1,21 @@
 ---
-icon: lucide/heart-handshake
+title: 語言學習
+icon: lucide/languages
 ---
 
-# Ora
+apprentissage des langues  
+aprendizaje de idiomas  
+sprachen lernen  
+lingua doctrina  
+học ngôn ngữ  
+언어 학습  
+語言學習
 
-Praying the Rosary and traditional Christian prayers as a path to language learning.
-
-This project revives the ancient practice of the Rosary for learners of Latin and other languages.
-
-## Language Notes
-
-- [Español](espanol/index.md)
-- [Tiếng Việt](vietnamese/index.md)
-- [中文](chinese/index.md)
-- [Tips & Resources](tips/index.md)
+* * *
 
 ## Languages
 
-Future content will focus on the Rosary and prayers in multiple languages. More coming.
+- [español](espanol/index.md)
+- [Tiếng Việt](vietnamese/index.md)
+- [中文](chinese/index.md)
+- [ advice ](tips/advice.md)

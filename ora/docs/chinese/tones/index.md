@@ -8,6 +8,9 @@ Tones in Mandarin are easy, except when they’re not, which is every time a nat
 
 It’s commonly taught that there are only five tones ([four tones](https://en.wikipedia.org/wiki/Standard_Chinese_phonology#Tones), plus a neutral tone). You can learn those five tones quickly. I guess that’s really easy. Let’s look at (and listen to) a tone visualization (created in [Praat](http://www.fon.hum.uva.nl/praat/)). You can click on the image to hear the audio.
 
+<audio id="tone-audio" src="tones-first-time-here.mp3" preload="auto"></audio>
+<img src="tones-first-time-here.jpg" onclick="document.getElementById('tone-audio').play()" alt="Tone visualization created in Praat. Click the image to play the audio." style="cursor: pointer; max-width: 100%; margin: 0.5em 0; border: 1px solid #ccc;">
+
 There’s a lot going on here that doesn’t match the five tones. And it’s a native Mandarin speaker. When you ask native speakers what’s going on, they’ll respond as confused as if you asked a native English speaker why they have so many vowel sounds. In reality, there are 5 tones in Mandarin just like there are 5 vowels in English. It’s technically true, but in reality it’s much more complicated.
 
 If you only learn 5 tones, you not only won’t understand native speakers, you won’t be understood when you speak.
@@ -74,4 +77,14 @@ Helpful resources for learning tone pairs:
 
 Also, John Pasden at [sinosplice.com](http://sinosplice.com) (who also wrote about using [Praat](http://www.sinosplice.com/life/archives/2008/01/21/seeing-the-tones-of-mand) to visualize tones) put together freely available [Tone Pair Drills](http://www.sinosplice.com/learn-chinese/tone-pair-drills) with audio examples of each of the tone pairs.
 
-I loaded John’s tone pair drills into a flashcard app.
+I loaded John’s tone pair drills into a flashcard app:
+
+[tone pair flashcards](http://lingua.avant.net/zh/?deck=tones)
+
+* * *
+
+## Mimicry
+
+In my opinion the best approach is to do drills with phrases by native speakers; try to copy the way they speak. Repeat until it becomes muscle memory, that is, until you’ve developed [automaticity](/tips/advice/#automaticity), and make sure you can be understood by native speakers.
+
+I think the best examples are newscasters as they purposely speak in a way that can be understood. Find a radio or television personality who speaks in a way that you want to speak, and then listen/repeat in repetitive drills.

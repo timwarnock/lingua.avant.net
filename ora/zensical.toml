@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Ora"
+site_name = "語言學習"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -47,8 +47,27 @@ Copyright &copy; 2026 lingua.avant.net
 # - https://zensical.org/docs/setup/navigation/#navigation-tabs
 # - https://zensical.org/docs/setup/navigation/#navigation-sections
 nav = [
-  { "Ora" = "index.md" },
-  { "Español" = [
+  { "[ advice ]" = [
+      "tips/advice.md",
+      "tips/bad-advice.md",
+      "tips/fsi.md",
+      "tips/fsi-diff.md",
+      "tips/islands.md",
+      "tips/introverts.md",
+      "tips/multilingual.md",
+      "tips/ipa.md"
+    ] },
+  { "中文" = [
+      "chinese/index.md",
+      "chinese/shuohua-poem.md",
+      "chinese/grammar.md",
+      "chinese/trad-vs-simp.md",
+      "chinese/calligraphy.md",
+      "chinese/zhuyin.md",
+      "chinese/tones/index.md",
+      "chinese/comfort-zone.md"
+    ] },
+  { "español" = [
       "espanol/index.md",
       "espanol/cognados.md",
       "espanol/conjugaciones.md"
@@ -58,27 +77,6 @@ nav = [
       "vietnamese/vi-pronounce.md",
       "vietnamese/vi-typing.md",
       "vietnamese/vi-progress.md"
-    ] },
-  { "中文" = [
-      "chinese/index.md",
-      "chinese/shuohua-poem.md",
-      "chinese/grammar.md",
-      "chinese/trad-vs-simp.md",
-      "chinese/calligraphy.md",
-      "chinese/zhuyin.md",
-      "chinese/tones.md",
-      "chinese/comfort-zone.md"
-    ] },
-  { "Tips & Resources" = [
-      "tips/index.md",
-      "tips/fsi.md",
-      "tips/fsi-diff.md",
-      "tips/advice.md",
-      "tips/bad-advice.md",
-      "tips/islands.md",
-      "tips/introverts.md",
-      "tips/multilingual.md",
-      "tips/ipa.md"
     ] },
 ]
 
@@ -98,7 +96,7 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-#extra_javascript = ["javascripts/extra.js"]
+# extra_javascript = ["javascripts/extra.js"]  # disabled for minimal header; default is fine
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
