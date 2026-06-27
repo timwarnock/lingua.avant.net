@@ -6,18 +6,25 @@
 
 .DEFAULT_GOAL := build
 
-.PHONY: build serve help
+.PHONY: build serve kill restart help
 
 help:
 	@echo "ora/ (Zensical) targets:"
 	@echo "  make        - build the site (default)"
 	@echo "  make build  - build ora/site/"
 	@echo "  make serve  - start dev server on localhost:7007"
+	@echo "  make kill   - kill running zensical dev server (pkill)"
+	@echo "  make restart - kill then restart dev server"
 	@echo ""
-	@echo "Run 'make serve' in a separate window while editing."
+	@echo "Run 'make serve' (or 'make restart') in a separate window while editing."
 
 build:
 	cd ora && uvx zensical build
 
 serve:
 	cd ora && uvx zensical serve -a localhost:7007
+
+kill:
+	pkill -f 'zensical serve' || true
+
+restart: kill serve

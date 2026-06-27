@@ -47,7 +47,15 @@ copyright = "Copyleft 2019-2026"
 nav = [
   { "English" = [
       "english/index.md",
+      "english/sign-of-the-cross.md",
+      "english/apostles-creed.md",
+      "english/our-father.md",
+      "english/hail-mary.md",
+      "english/glory-be.md",
+      "english/fatima-prayer.md",
+      "english/salve-regina.md",
       { "Extras" = [
+          "english/extras/pronunciation.md",
           "english/extras/advice.md",
           "english/extras/bad-advice.md",
           "english/extras/fsi.md",
@@ -60,13 +68,32 @@ nav = [
     ] },
   { "Español" = [
       "espanol/index.md",
+      "espanol/sign-of-the-cross.md",
+      "espanol/apostles-creed.md",
+      "espanol/our-father.md",
+      "espanol/hail-mary.md",
+      "espanol/glory-be.md",
+      "espanol/fatima-prayer.md",
+      "espanol/salve-regina.md",
       { "[ Adicionales ]" = [
+          "espanol/extras/pronunciation.md",
+          "espanol/extras/notes.md",
           "espanol/extras/cognates.md",
           "espanol/extras/conjugations.md"
         ] }
     ] },
   { "Français" = [
-      "francais/index.md"
+      "francais/index.md",
+      "francais/sign-of-the-cross.md",
+      "francais/apostles-creed.md",
+      "francais/our-father.md",
+      "francais/hail-mary.md",
+      "francais/glory-be.md",
+      "francais/fatima-prayer.md",
+      "francais/salve-regina.md",
+      { "[ Suppléments ]" = [
+          "francais/extras/pronunciation.md"
+        ] }
     ] },
   { "Latina" = [
       "latin/index.md",
@@ -83,36 +110,93 @@ nav = [
         ] }
     ] },
   { "Polski" = [
-      "polski/index.md"
+      "polski/index.md",
+      "polski/sign-of-the-cross.md",
+      "polski/apostles-creed.md",
+      "polski/our-father.md",
+      "polski/hail-mary.md",
+      "polski/glory-be.md",
+      "polski/fatima-prayer.md",
+      "polski/salve-regina.md",
+      { "[ Dodatki ]" = [
+          "polski/extras/pronunciation.md"
+        ] }
     ] },
   { "Português" = [
-      "portugues/index.md"
+      "portugues/index.md",
+      "portugues/sign-of-the-cross.md",
+      "portugues/apostles-creed.md",
+      "portugues/our-father.md",
+      "portugues/hail-mary.md",
+      "portugues/glory-be.md",
+      "portugues/fatima-prayer.md",
+      "portugues/salve-regina.md",
+      { "[ Adicionais ]" = [
+          "portugues/extras/pronunciation.md"
+        ] }
     ] },
   { "Tiếng Việt" = [
       "vietnamese/index.md",
+      "vietnamese/sign-of-the-cross.md",
+      "vietnamese/apostles-creed.md",
+      "vietnamese/our-father.md",
+      "vietnamese/hail-mary.md",
+      "vietnamese/glory-be.md",
+      "vietnamese/fatima-prayer.md",
+      "vietnamese/salve-regina.md",
       { "[ Bổ sung ]" = [
           "vietnamese/extras/pronunciation.md",
+          "vietnamese/extras/notes.md",
           "vietnamese/extras/typing.md",
           "vietnamese/extras/progress.md"
         ] }
     ] },
   { "Ἑλληνικά" = [
-      "greek/index.md"
+      "greek/index.md",
+      "greek/sign-of-the-cross.md",
+      "greek/apostles-creed.md",
+      "greek/our-father.md",
+      "greek/hail-mary.md",
+      "greek/glory-be.md",
+      "greek/fatima-prayer.md",
+      "greek/salve-regina.md",
+      { "[ Πρόσθετα ]" = [
+          "greek/extras/pronunciation.md"
+        ] }
     ] },
   { "中文" = [
       "chinese/index.md",
+      "chinese/sign-of-the-cross.md",
+      "chinese/apostles-creed.md",
+      "chinese/our-father.md",
+      "chinese/hail-mary.md",
+      "chinese/glory-be.md",
+      "chinese/fatima-prayer.md",
+      "chinese/salve-regina.md",
       { "[ 附加 ]" = [
+          "chinese/extras/pronunciation.md",
+          "chinese/extras/notes.md",
           "chinese/extras/calligraphy.md",
           "chinese/extras/comfort-zones.md",
           "chinese/extras/grammar.md",
           "chinese/extras/speaking-poem.md",
           "chinese/extras/traditional-vs-simplified.md",
           "chinese/extras/zhuyin.md",
-          "chinese/extras/tones/index.md"
+          "chinese/extras/tones.md"
         ] }
     ] },
   { "日本語" = [
-      "japanese/index.md"
+      "japanese/index.md",
+      "japanese/sign-of-the-cross.md",
+      "japanese/apostles-creed.md",
+      "japanese/our-father.md",
+      "japanese/hail-mary.md",
+      "japanese/glory-be.md",
+      "japanese/fatima-prayer.md",
+      "japanese/salve-regina.md",
+      { "[ 追加 ]" = [
+          "japanese/extras/pronunciation.md"
+        ] }
     ] },
 ]
 

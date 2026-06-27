@@ -27,6 +27,8 @@ Migrated old /v/ content organized directly in language/topic sections under doc
 
 ## Site Organization
 
+Directories and files should use simple English names, e.g. chinese/extras/calligraphy.md and the content title will use proper Chinese (書法), and this means all URLs will follow simple english names, e.g., /ora/site/chinese/extras/calligraphy/ but the content (titles and text) will be in that language.
+
 Each language section should have subsections orgranized around the rosary.
 
 So in English something like:
