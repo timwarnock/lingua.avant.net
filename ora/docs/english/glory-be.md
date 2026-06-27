@@ -1,0 +1,9 @@
+---
+icon: lucide/cross
+---
+
+# Glory Be
+
+**English**
+
+Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.
