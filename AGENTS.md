@@ -22,10 +22,9 @@ We will use [Zensical](https://zensical.org/) to manage all content.
 Zensical project set up in `ora/`. Special preview at `/ora/site/`. Migrated old /v/ content organized directly in language/topic sections under docs/. Dev server on :7007.
 
 Language sections present: chinese, espanol, vietnamese, tips.
-WP site references cleaned (no links to old /v/ or wp-content); PDFs and poem audio copied locally; poem player + format updated.
 
 ## TODO
 
-+ Plan and execute the cutover
++ Site cutover executed with .htaccess (root now serves ora/site/, /v/ preserved; index.php removed)
 + Organize new language sections, each focused on learning the Rosary in that language
 
