@@ -20,19 +20,19 @@ These are resources that I have found the most useful, and would recommend to an
 
 ### <span title="tīnghéshuō - listening and speaking">聽和說</span>
 
-+ Learn [zhuyin and pinyin](/chinese/zhuyin/)  
- + Practice [tones and tone pairs](/chinese/tones/)  
- + Develop [comfort zones, <span title="shūshì qū - comfort zones">舒適區</span>](/chinese/comfort-zone/)  
++ Learn [zhuyin and pinyin](zhuyin.md)  
+ + Practice [tones and tone pairs](tones/index.md)  
+ + Develop [comfort zones, <span title="shūshì qū - comfort zones">舒適區</span>](comfort-zone.md)  
  + Beginner: children shows (like [<span title="Wǒ zài nǎlǐ - Where am I?">我在哪裡</span>](https://www.youtube.com/playlist?list=PLZ27m2K2W5n5FS7qaGF5UGrm2OjnKtWHR), [Magic Marker](https://www.youtube.com/playlist?list=PLZ27m2K2W5n4YTZYZ3M2z2nn81gjYRFNx))  
  + Intermediate: subtitled shows (like [Happy Chinese](https://www.youtube.com/playlist?list=PLdT5MUO4gYEdQBMFtkF5g803FJZOss-ip))
 
 ### <span title="dúxiě - reading and writing">讀寫</span>
 
 + Understand <span title="Fántǐzì yǔ Jiǎntǐzì - traditional vs simplified characters">繁體字與簡體字</span>  
- + Practice [<span title="Shūfǎ - Calligraphy">書法</span>](/chinese/calligraphy/)  
- + Focus on Forms [<span title="Yǔfǎ - grammar">語法</span>](/chinese/grammar/)  
+ + Practice [<span title="Shūfǎ - Calligraphy">書法</span>](calligraphy.md)  
+ + Focus on Forms [<span title="Yǔfǎ - grammar">語法</span>](grammar.md)  
  + Read newspaper  
- + Read books, [<span title="Shuōhuà - Speaking">poems</span>](/chinese/shuohua-poem)
+ + Read books, [<span title="Shuōhuà - Speaking">poems</span>](shuohua-poem.md)
 
 Other (helpful) resources
 

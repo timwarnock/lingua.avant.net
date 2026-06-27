@@ -46,7 +46,7 @@ This section provides crucial insights about individual needs changing over time
 
 Some of this seems obvious, although there’s an interesting point that language learning takes time and “cannot be shortened appreciably”. They recommend collaboration, focused practice (such as drills), and intensive immersion starting at upper intermediate levels.
 
-Time on task (reading, writing, listening, speaking) is described as the single most important factor in language learning. There’s also a related document that lists FSI programs by [difficulty](/tips/fsi-diff/) as measured in hours of course time.
+Time on task (reading, writing, listening, speaking) is described as the single most important factor in language learning. There’s also a related document that lists FSI programs by [difficulty](fsi-diff.md) as measured in hours of course time.
 
 ---
 
@@ -76,7 +76,7 @@ In other words, knowing a cognate language doesn’t necessarily help, it’s kn
 
 > The importance of “automaticity” in building learner skill and confidence in speaking and reading a language has been undervalued.
 
-I’ve listed automaticity as good [advice](/tips/advice/), and in my experience this has been the single biggest revelation on language learning. Most learning resources focus entirely on the initial learning stage and ignore automaticity as a goal. I suspect this is why many language learners quit; even after having learned the difficult concepts of a foreign grammar and vocabulary. Repeating the “easy” stuff is fundamental and automaticity should be considered necessary rather than as merely beneficial.
+I’ve listed automaticity as good [advice](advice.md), and in my experience this has been the single biggest revelation on language learning. Most learning resources focus entirely on the initial learning stage and ignore automaticity as a goal. I suspect this is why many language learners quit; even after having learned the difficult concepts of a foreign grammar and vocabulary. Repeating the “easy” stuff is fundamental and automaticity should be considered necessary rather than as merely beneficial.
 
 They recommend “pattern practice” along with conversations with native speakers as ways to develop automaticity. This involves repeating a considerable amount of “easy” material, and pertains equally to reading as well as listening and speaking.
 

@@ -85,6 +85,6 @@ I loaded John’s tone pair drills into a flashcard app:
 
 ## Mimicry
 
-In my opinion the best approach is to do drills with phrases by native speakers; try to copy the way they speak. Repeat until it becomes muscle memory, that is, until you’ve developed [automaticity](/tips/advice/#automaticity), and make sure you can be understood by native speakers.
+In my opinion the best approach is to do drills with phrases by native speakers; try to copy the way they speak. Repeat until it becomes muscle memory, that is, until you’ve developed [automaticity](../../tips/advice.md#4-automaticity-and-disruption), and make sure you can be understood by native speakers.
 
 I think the best examples are newscasters as they purposely speak in a way that can be understood. Find a radio or television personality who speaks in a way that you want to speak, and then listen/repeat in repetitive drills.

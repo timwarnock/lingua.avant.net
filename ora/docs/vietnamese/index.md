@@ -28,7 +28,7 @@ My goal is to read and write in Vietnamese, understand native speakers, and spea
 
 ### 1. Study for 1100 hours.
 
-According to research, you’ll do well after [1100 hours](/tips/fsi-diff/) of [immersive](/tips/advice/#immersion) study in Vietnamese. If you average one-hour of immersive study per day, then it should take 3 years. At three hours per day, then it should take one year. If only ten minutes per day, then it will take 18 years.
+According to research, you’ll do well after [1100 hours](../tips/fsi-diff.md) of [immersive](../tips/advice.md#6-immersion-undivided-attention-while-learning) study in Vietnamese. If you average one-hour of immersive study per day, then it should take 3 years. At three hours per day, then it should take one year. If only ten minutes per day, then it will take 18 years.
 
 This can be broken down, e.g.,
 
@@ -72,6 +72,6 @@ I recommend practicing reading to a native speaker until you can be understood (
 
 + duolingo, not very useful, the complexities of Vietnamese are not well captured with duolingo.
 
-+ anki, too much [accidental complexity](/tips/advice/#immersion) to be useful.
++ anki, too much [accidental complexity](../tips/advice.md#6-immersion-undivided-attention-while-learning) to be useful.
 
 + https://123vietnamese.com/, poor quality, bad audio

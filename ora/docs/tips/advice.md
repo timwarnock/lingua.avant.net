@@ -4,9 +4,9 @@ icon: lucide/help-circle
 
 # advice
 
-I’ve read more than I care to admit on the subject of language learning. I’ve experimented with every tip and trick I can find. Most of what I’ve tried has admittedly been [bad advice](/tips/bad-advice/), but there are bits of wisdom.
+I’ve read more than I care to admit on the subject of language learning. I’ve experimented with every tip and trick I can find. Most of what I’ve tried has admittedly been [bad advice](bad-advice.md), but there are bits of wisdom.
 
-Here is the best advice I’ve found. This is all general advice, there’s also advice for [introverts](/tips/introverts) if you want something more specific and in-depth.
+Here is the best advice I’ve found. This is all general advice, there’s also advice for [introverts](introverts.md) if you want something more specific and in-depth.
 
 ---
 
@@ -74,7 +74,7 @@ Learning a language is all about gaining automaticity in the target language wit
 
 Fortunately, automaticity is easy, no complicated studying required. Pavlov’s dogs figured it out. Unfortunately, automaticity in language requires repetition and sleep. It’s not just metaphorically like exercise, it is literally like exercise. Work out your brain, sleep well, and repeat. If this sounds like rote learning, that’s because it is. Sorry, but language learning requires rote learning.
 
-This means that focusing on memorization methods (like mind maps or the method of Loci) can sometimes be [bad advice](/tips/bad-advice/). The goal isn’t a mind palace filled with the target language, it’s automaticity in the target language. You can effectively use techniques like spaced repetition, but you’ll need to do more than just memorize. Keep practicing (rote learning) over and over until the meaning can be recalled automatically.
+This means that focusing on memorization methods (like mind maps or the method of Loci) can sometimes be [bad advice](bad-advice.md). The goal isn’t a mind palace filled with the target language, it’s automaticity in the target language. You can effectively use techniques like spaced repetition, but you’ll need to do more than just memorize. Keep practicing (rote learning) over and over until the meaning can be recalled automatically.
 
 In other words, you’ll understand people only to the degree that you’ve gained automaticity with the words they’re speaking.
 
@@ -82,15 +82,15 @@ In other words, you’ll understand people only to the degree that you’ve gain
 
 ## 5. Comfort Zones and Competence
 
-Let me share one of the most common “secrets” of language learning bloggers and self-proclaimed “experts”. First, practice a specific conversation in your target language, and get really good at that specific conversation. Next, guide (or redirect) real conversations into the one you’ve rehearsed. I’ve seen this described as zen gardens, [islands](/tips/islands/), [pattern practice](/tips/fsi/), and various other metaphors. There should be no “secret” here, it’s just a psychological [comfort zone](https://en.wikipedia.org/wiki/Comfort_zone).
+Let me share one of the most common “secrets” of language learning bloggers and self-proclaimed “experts”. First, practice a specific conversation in your target language, and get really good at that specific conversation. Next, guide (or redirect) real conversations into the one you’ve rehearsed. I’ve seen this described as zen gardens, [islands](islands.md), [pattern practice](fsi.md), and various other metaphors. There should be no “secret” here, it’s just a psychological [comfort zone](https://en.wikipedia.org/wiki/Comfort_zone).
 
 We can learn the “hello/thanks”, «hola/gracias», 「你好/謝謝」 of a language in a few minutes; that’s the first comfort zone. Build that into a conversation, and repeat that conversation — a lot. This is a great way to gain automaticity, and it can be fun. After every interaction in your target language try to identify the limits of your comfort zone. The limit of a comfort zone is known as the psychological *danger zone*, and you’ll know it because you’ll likely freeze or panic. The psychological danger zone usually kills a conversation and everyone will be uncomfortable.
 
 To put this another way: if you’re far outside of your comfort zone, don’t expect other people to be comfortable talking with you. Your comfort zone will put others at ease.
 
-This kind of approach is extremely useful, but it can border on [bad advice](/tips/bad-advice/). A comfort zone can provide a false sense of fluency, and we can get stuck. We’ve all seen people stuck in their comfort zones. The goal of language learning is not a comfort zone. The goal is to read, write, and speak ***competently*** in the target language.
+This kind of approach is extremely useful, but it can border on [bad advice](bad-advice.md). A comfort zone can provide a false sense of fluency, and we can get stuck. We’ve all seen people stuck in their comfort zones. The goal of language learning is not a comfort zone. The goal is to read, write, and speak ***competently*** in the target language.
 
-The best approach I can find is to carefully develop comfort zones that demonstrate competence and the ability to [learn more](/tips/introverts) (like asking questions). This includes rehearsed conversations that will allow you to navigate the psychological danger zone without becoming an uncomfortable frozen statue or switching to your native language.
+The best approach I can find is to carefully develop comfort zones that demonstrate competence and the ability to [learn more](introverts.md) (like asking questions). This includes rehearsed conversations that will allow you to navigate the psychological danger zone without becoming an uncomfortable frozen statue or switching to your native language.
 
 ---
 
@@ -124,7 +124,7 @@ In other words, if you’re futzing with Anki settings, you’re not immersed in
 
 ## 8. It takes time (in hours)
 
-I find this is a sensitive topic amongst language bloggers. Part of the reason is because there’s lots of [bad advice](/tips/bad-advice) and click-bait that promises fast and easy language learning. In my experience language learning can be easy, but fast?
+I find this is a sensitive topic amongst language bloggers. Part of the reason is because there’s lots of [bad advice](bad-advice.md) and click-bait that promises fast and easy language learning. In my experience language learning can be easy, but fast?
 
 Let’s break down the following claim:
 
@@ -132,14 +132,14 @@ Let’s break down the following claim:
 
 How many hours of immersion did this person put in? Removing the accidental complexity, how much undivided attention was given to the essential complexity of Spanish? Did they immerse themself for an hour a day, every single day? Or did they sit in class and get 10-minutes of immersion on average? Maybe they got an hours worth of proper immersion per school week. And with only 36 weeks in a school year, maybe they only got 200 hours worth of immersive learning in those 4-years. This is pretty common. The better question becomes: is 200 hours of immersion sufficient to speak Spanish well?
 
-The time it takes to learn a language is a well-researched topic. The best research I’ve found is from the US Foreign Service Institute (FSI). They even ranked their language programs by [time](/tips/fsi-diff). These are proven estimates on how long it takes an FSI student to learn a given language to the proficiency of a [diplomat](/tips/fsi/). One thing I like about the FSI is that they measure time ***in hours***. They measure course hours, but I find it useful to think of this as hours of immersion.
+The time it takes to learn a language is a well-researched topic. The best research I’ve found is from the US Foreign Service Institute (FSI). They even ranked their language programs by [time](fsi-diff.md). These are proven estimates on how long it takes an FSI student to learn a given language to the proficiency of a [diplomat](fsi.md). One thing I like about the FSI is that they measure time ***in hours***. They measure course hours, but I find it useful to think of this as hours of immersion.
 
-For example, let’s think of Spanish as needing 600 hours of immersion in order to speak and read well, and Chinese requiring 2200 hours. If you spend 10-hours per-day properly immersed in learning Spanish, you’ll be as fluent as a [diplomat](/tips/fsi/) in two months. If you spend ten-minutes per day, then it will take you 10 years.
+For example, let’s think of Spanish as needing 600 hours of immersion in order to speak and read well, and Chinese requiring 2200 hours. If you spend 10-hours per-day properly immersed in learning Spanish, you’ll be as fluent as a [diplomat](fsi.md) in two months. If you spend ten-minutes per day, then it will take you 10 years.
 
 Likewise, for a non-cognate language like Chinese, 10-hours per day would result in diplomat-level fluency in 8 months. If you spend ten-minutes per day learning Chinese, then it will take you 36 years. 10-hours of immersion per day may be impossible for most people, but 10-minutes is trivial to anyone.
 
-While individuals may learn at different rates, the biggest factor (and the one you can do something about) is the amount of time you spend on proper immersion (that is, undivided attention into the essential complexity of the language). Remember, it’s still an endless mountain, but if you’re eyeing the “[diplomat](/tips/fsi/)” summit, it might take months or it might take years, it’s up to you.
+While individuals may learn at different rates, the biggest factor (and the one you can do something about) is the amount of time you spend on proper immersion (that is, undivided attention into the essential complexity of the language). Remember, it’s still an endless mountain, but if you’re eyeing the “[diplomat](fsi.md)” summit, it might take months or it might take years, it’s up to you.
 
 For language learning, like most things in life, you get what you put in.
 
-For more advice, I’d recommend [Speak like a Diplomat](/tips/fsi/), or read about [bad advice](/tips/bad-advice/).
+For more advice, I’d recommend [Speak like a Diplomat](fsi.md), or read about [bad advice](bad-advice.md).

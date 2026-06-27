@@ -4,7 +4,7 @@ icon: lucide/bar-chart
 
 # FSI difficulty ranking
 
-The US Foreign Service Institute ( [FSI](/tips/fsi/) ) created a [list](http://lingua.avant.net/wp-content/uploads/2018/01/247092.pdf) estimating the length of time required to learn each of the languages taught by the FSI. The estimates are based on native English speakers with no prior knowledge of the language.
+The US Foreign Service Institute ( [FSI](fsi.md) ) created a [list](http://lingua.avant.net/wp-content/uploads/2018/01/247092.pdf) estimating the length of time required to learn each of the languages taught by the FSI. The estimates are based on native English speakers with no prior knowledge of the language.
 
 Here is an overview:
 
