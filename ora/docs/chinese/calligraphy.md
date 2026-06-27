@@ -4,9 +4,11 @@ icon: lucide/brush
 
 # <span title="Shūfǎ - Calligraphy">書法</span>
 
-**Note:** This page was left as a to-do on the original site.
+tbd
 
-Resources:
+---
+
+## <span title="zuò qīngdān - to do list">做清單</span>
 
 + Three Character Classic, 1000 Character Classic
 
@@ -20,4 +22,14 @@ Resources:
 
 星 star (xing1)
 
-書法 + 練習書法: 待辦 Dài bàn (upcoming) 事項 shìxiàng (items) 列表 lièbiǎo (list) + … 做清單 Zuò qīngdān + … 藝術 Yìshù (art) + … 鍛煉習慣 Duànliàn xíguàn …
+書法
+
++ 練習書法: 待辦 Dài bàn (upcoming) 事項 shìxiàng (items) 列表 lièbiǎo (list)
+
++ … 做清單 Zuò qīngdān
+
++ … 藝術 Yìshù (art)
+
++ … 鍛煉習慣 Duànliàn xíguàn (exercise habit)
+
++ … 清理你的房間  Qīnglǐ nǐ de fángjiān (clean your room)
