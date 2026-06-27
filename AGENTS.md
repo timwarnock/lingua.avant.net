@@ -2,6 +2,7 @@
 
 Revive lingua.avant.net to focus on traditional Christian prayers such as the Rosary for language learning.
 
+
 ## Ground Rules for Agents
 
 - Always assume not aligned unless the user explicitly affirms alignment.
@@ -23,7 +24,6 @@ Zensical project set up in `ora/`. Special preview at `/ora/site/`.
 Migrated old /v/ content organized directly in language/topic sections under docs/. 
 Site cutover executed with .htaccess (root now serves ora/site/, /v/ preserved)
 
-Language sections present: chinese, espanol, vietnamese, tips.
 
 ## TODO
 
