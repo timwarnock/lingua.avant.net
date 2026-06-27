@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "語言學習"
+site_name = "Lingua"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -47,15 +47,41 @@ Copyright &copy; 2026 lingua.avant.net
 # - https://zensical.org/docs/setup/navigation/#navigation-tabs
 # - https://zensical.org/docs/setup/navigation/#navigation-sections
 nav = [
-  { "[ advice ]" = [
-      "tips/advice.md",
-      "tips/bad-advice.md",
-      "tips/fsi.md",
-      "tips/fsi-diff.md",
-      "tips/islands.md",
-      "tips/introverts.md",
-      "tips/multilingual.md",
-      "tips/ipa.md"
+  { "English" = [
+      "english/index.md",
+      { "Tips" = [
+          "tips/advice.md",
+          "tips/bad-advice.md",
+          "tips/fsi.md",
+          "tips/fsi-diff.md",
+          "tips/islands.md",
+          "tips/introverts.md",
+          "tips/multilingual.md",
+          "tips/ipa.md"
+        ] }
+    ] },
+  { "Latina" = [
+      "latin/index.md"
+    ] },
+  { "Polski" = [
+      "polski/index.md"
+    ] },
+  { "Tiếng Việt" = [
+      "vietnamese/index.md",
+      "vietnamese/vi-pronounce.md",
+      "vietnamese/vi-typing.md",
+      "vietnamese/vi-progress.md"
+    ] },
+  { "español" = [
+      "espanol/index.md",
+      "espanol/cognados.md",
+      "espanol/conjugaciones.md"
+    ] },
+  { "français" = [
+      "francais/index.md"
+    ] },
+  { "Ἑλληνικά" = [
+      "greek/index.md"
     ] },
   { "中文" = [
       "chinese/index.md",
@@ -67,16 +93,8 @@ nav = [
       "chinese/tones/index.md",
       "chinese/comfort-zone.md"
     ] },
-  { "español" = [
-      "espanol/index.md",
-      "espanol/cognados.md",
-      "espanol/conjugaciones.md"
-    ] },
-  { "Tiếng Việt" = [
-      "vietnamese/index.md",
-      "vietnamese/vi-pronounce.md",
-      "vietnamese/vi-typing.md",
-      "vietnamese/vi-progress.md"
+  { "日本語" = [
+      "japanese/index.md"
     ] },
 ]
 
@@ -96,7 +114,7 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["assets/flashcards/flashcards.mjs"]
+extra_javascript = ["assets/flashcards/flashcards.mjs", "javascripts/extra.js"]
 
 # extra_javascript = ["javascripts/extra.js"]  # disabled for minimal header; default is fine
 

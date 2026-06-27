@@ -63,11 +63,13 @@
 
 /* Header title text style - larger with desired look, applied to site name */
 .md-header__title .md-ellipsis {
-  font-family: "UKai", "STKaiTi", "KaiTi", serif;
-  font-size: 1.6rem;   /* bigger than default but keeps normal header proportions */
+  font-family: Georgia, "Times New Roman", "Palatino Linotype", serif;
+  font-size: 1.45rem;
+  font-style: italic;
   font-weight: normal;
-  color: #eee;
-  text-shadow: 0 0 4px rgba(0,0,0,0.7);
+  letter-spacing: 0.02em;
+  color: #f5f0e6;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.75);
 }
 
 /* Subtle dark treatment on tabs so they blend with the banner */
