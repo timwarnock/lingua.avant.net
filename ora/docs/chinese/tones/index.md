@@ -79,7 +79,7 @@ Also, John Pasden at [sinosplice.com](http://sinosplice.com) (who also wrote abo
 
 I loaded John’s tone pair drills into a flashcard app:
 
-[tone pair flashcards](http://lingua.avant.net/zh/?deck=tones)
+<button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Practice tone pairs</button>
 
 * * *
 

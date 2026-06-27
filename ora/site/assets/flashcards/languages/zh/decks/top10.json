@@ -1,0 +1,5360 @@
+[
+  {
+    "key": "\u8eca\u7a0b",
+    "alt": "ch\u0113ch\u00e9ng (\u8eca\u7a0b, \u8f66\u7a0b)",
+    "answer": "mileage",
+    "audio": "top10/1.mp3"
+  },
+  {
+    "key": "\u5e2d",
+    "alt": "x\u00ed (\u5e2d, \u5e2d)",
+    "answer": "m.[general]",
+    "audio": "top10/2.mp3"
+  },
+  {
+    "key": "\u90ca\u904a",
+    "alt": "ji\u0101oy\u00f3u (\u90ca\u904a, \u90ca\u904a)",
+    "answer": "outing, excursion",
+    "audio": "top10/3.mp3"
+  },
+  {
+    "key": "\u4fb5\u8755",
+    "alt": "q\u012bnsh\u00ed (\u4fb5\u8755, \u4fb5\u8680)",
+    "answer": "corrode, erode",
+    "audio": "top10/4.mp3"
+  },
+  {
+    "key": "\u51fa\u53e3",
+    "alt": "ch\u016bk\u01d2u (\u51fa\u53e3, \u51fa\u53e3)",
+    "answer": "exit",
+    "audio": "top10/5.mp3"
+  },
+  {
+    "key": "\u5143\u5e25",
+    "alt": "yu\u00e1nshu\u00e0i (\u5143\u5e25, \u5143\u5e05)",
+    "answer": "marshal, supreme commander",
+    "audio": "top10/6.mp3"
+  },
+  {
+    "key": "\u5916\u8a9e",
+    "alt": "w\u00e0iy\u01d4 (\u5916\u8a9e, \u5916\u8bed)",
+    "answer": "foreign language",
+    "audio": "top10/7.mp3"
+  },
+  {
+    "key": "\u5927\u52e2",
+    "alt": "d\u00e0sh\u00ec (\u5927\u52e2, \u5927\u52bf)",
+    "answer": "general trend, general trend of events",
+    "audio": "top10/8.mp3"
+  },
+  {
+    "key": "\u5347\u7b49",
+    "alt": "sh\u0113ngd\u011bng (\u5347\u7b49, \u5347\u7b49)",
+    "answer": "go up in grade/etc.",
+    "audio": "top10/9.mp3"
+  },
+  {
+    "key": "\u5de5\u5546",
+    "alt": "g\u014dngsh\u0101ng (\u5de5\u5546, \u5de5\u5546)",
+    "answer": "industry and commerce",
+    "audio": "top10/10.mp3"
+  },
+  {
+    "key": "\u4e0a\u7a7a",
+    "alt": "sh\u00e0ngk\u014dng (\u4e0a\u7a7a, \u4e0a\u7a7a)",
+    "answer": "in the sky, overhead",
+    "audio": "top10/11.mp3"
+  },
+  {
+    "key": "\u4e45\u4e45",
+    "alt": "ji\u01d4ji\u01d4 (\u4e45\u4e45, \u4e45\u4e45)",
+    "answer": "for a long,  long time, for a long long time",
+    "audio": "top10/12.mp3"
+  },
+  {
+    "key": "\u4e0d\u5fa9",
+    "alt": "b\u00faf\u00f9 (\u4e0d\u5fa9, \u4e0d\u590d)",
+    "answer": "no more, no longer, more",
+    "audio": "top10/13.mp3"
+  },
+  {
+    "key": "\u79ae\u8c8c",
+    "alt": "l\u01d0m\u00e0o (\u79ae\u8c8c, \u793c\u8c8c)",
+    "answer": "courtesy,  politeness,  manners",
+    "audio": "top10/14.mp3"
+  },
+  {
+    "key": "\u8b80\u53d6",
+    "alt": "d\u00faq\u01d4 (\u8b80\u53d6, \u8bfb\u53d6)",
+    "answer": "access",
+    "audio": "top10/15.mp3"
+  },
+  {
+    "key": "\u7a69\u5b9a\u6027",
+    "alt": "w\u011bnd\u00ecngx\u00ecng (\u7a69\u5b9a\u6027, \u7a33\u5b9a\u6027)",
+    "answer": "stability,  stabilization",
+    "audio": "top10/16.mp3"
+  },
+  {
+    "key": "\u5de5\u5b78\u9662",
+    "alt": "g\u014dngxu\u00e9yu\u00e0n (\u5de5\u5b78\u9662, \u5de5\u5b66\u9662)",
+    "answer": "institute of polytechnic, college of engineering, polytechnic",
+    "audio": "top10/17.mp3"
+  },
+  {
+    "key": "\u751f\u7269\u5b78",
+    "alt": "sh\u0113ngw\u00f9xu\u00e9 (\u751f\u7269\u5b78, \u751f\u7269\u5b66)",
+    "answer": "biology",
+    "audio": "top10/18.mp3"
+  },
+  {
+    "key": "\u5927\u4f7f",
+    "alt": "d\u00e0sh\u01d0 (\u5927\u4f7f, \u5927\u4f7f)",
+    "answer": "elchee, embassador, ambassadorial, nuncio, ambassadorship, ambassador",
+    "audio": "top10/19.mp3"
+  },
+  {
+    "key": "\u51fa\u7344",
+    "alt": "ch\u016by\u016b (\u51fa\u7344, \u51fa\u72f1)",
+    "answer": "get out of jail",
+    "audio": "top10/20.mp3"
+  },
+  {
+    "key": "\u7528\u610f",
+    "alt": "y\u00f2ngy\u00ec (\u7528\u610f, \u7528\u610f)",
+    "answer": "intention, purpose",
+    "audio": "top10/21.mp3"
+  },
+  {
+    "key": "\u5317\u91ab",
+    "alt": "b\u011biy\u012b (\u5317\u91ab, \u5317\u533b)",
+    "answer": "Taipei Medical College",
+    "audio": "top10/22.mp3"
+  },
+  {
+    "key": "\u5167\u6e56",
+    "alt": "n\u00e8ih\u00fa (\u5167\u6e56, \u5185\u6e56)",
+    "answer": "Nei hu",
+    "audio": "top10/23.mp3"
+  },
+  {
+    "key": "\u4e8c\u4f86",
+    "alt": "\u00e8rl\u00e1i (\u4e8c\u4f86, \u4e8c\u6765)",
+    "answer": "conj.: in the second place",
+    "audio": "top10/24.mp3"
+  },
+  {
+    "key": "\u53e3\u6c34",
+    "alt": "k\u01d2ushu\u01d0 (\u53e3\u6c34, \u53e3\u6c34)",
+    "answer": "spit, slobber, drivel, spittle, saliva, slaver, drool, dribble",
+    "audio": "top10/25.mp3"
+  },
+  {
+    "key": "\u985b\u8986",
+    "alt": "di\u0101nf\u00f9 (\u985b\u8986, \u98a0\u8986)",
+    "answer": "overturn,  subvert",
+    "audio": "top10/26.mp3"
+  },
+  {
+    "key": "\u6558\u8ff0",
+    "alt": "x\u00f9sh\u00f9 (\u6558\u8ff0, \u53d9\u8ff0)",
+    "answer": "consideration, delineation, depiction, description",
+    "audio": "top10/27.mp3"
+  },
+  {
+    "key": "\u5c08\u4eba",
+    "alt": "zhu\u0101nr\u00e9n (\u5c08\u4eba, \u4e13\u4eba)",
+    "answer": "person specially assigned for a task/job",
+    "audio": "top10/28.mp3"
+  },
+  {
+    "key": "\u9589",
+    "alt": "b\u00ec (\u9589, \u95ed)",
+    "answer": "shut, stop, close, stop up, obstruct, switch off, obstruction, turn off, seel",
+    "audio": "top10/29.mp3"
+  },
+  {
+    "key": "\u6392\u653e",
+    "alt": "p\u00e1if\u00e0ng (\u6392\u653e, \u6392\u653e)",
+    "answer": "discharge,  drain off gas/etc.",
+    "audio": "top10/30.mp3"
+  },
+  {
+    "key": "\u99ac\u9054",
+    "alt": "m\u01ced\u00e1 (\u99ac\u9054, \u9a6c\u8fbe)",
+    "answer": "motor",
+    "audio": "top10/31.mp3"
+  },
+  {
+    "key": "\u6c23\u5473",
+    "alt": "q\u00ecw\u00e8i (\u6c23\u5473, \u6c14\u5473)",
+    "answer": "tang, wind, odor, savor, aurae, tint, flavor, leavening, savour, flavour, leaven, odour, aura, smatch, tinge, smell, smack, scent, taste",
+    "audio": "top10/32.mp3"
+  },
+  {
+    "key": "\u6548\u529b",
+    "alt": "xi\u00e0ol\u00ec (\u6548\u529b, \u6548\u529b)",
+    "answer": "effect",
+    "audio": "top10/33.mp3"
+  },
+  {
+    "key": "\u9ad8\u723e\u592b\u7403",
+    "alt": "g\u0101o\u011brf\u016bqi\u00fa (\u9ad8\u723e\u592b\u7403, \u9ad8\u5c14\u592b\u7403)",
+    "answer": "golf ball",
+    "audio": "top10/34.mp3"
+  },
+  {
+    "key": "\u7d42\u9ede",
+    "alt": "zh\u014dngdi\u01cen (\u7d42\u9ede, \u7ec8\u70b9)",
+    "answer": "terminal point, destination, finish line",
+    "audio": "top10/35.mp3"
+  },
+  {
+    "key": "\u6559\u8077\u54e1",
+    "alt": "ji\u00e0ozh\u00edyu\u00e1n (\u6559\u8077\u54e1, \u6559\u804c\u5458)",
+    "answer": "teaching and administrative staff",
+    "audio": "top10/36.mp3"
+  },
+  {
+    "key": "\u684c\u6905",
+    "alt": "zhu\u014dy\u01d0 (\u684c\u6905, \u684c\u6905)",
+    "answer": "ordinary household furniture",
+    "audio": "top10/37.mp3"
+  },
+  {
+    "key": "\u9664\u53bb",
+    "alt": "ch\u00faq\u00f9 (\u9664\u53bb, \u9664\u53bb)",
+    "answer": "eliminate",
+    "audio": "top10/38.mp3"
+  },
+  {
+    "key": "\u6372\u5165",
+    "alt": "ju\u01cenr\u00f9 (\u6372\u5165, \u5377\u5165)",
+    "answer": "be drawn into, be involved in",
+    "audio": "top10/39.mp3"
+  },
+  {
+    "key": "\u9ad8\u8cb4",
+    "alt": "g\u0101ogu\u00ec (\u9ad8\u8cb4, \u9ad8\u8d35)",
+    "answer": "noble, high",
+    "audio": "top10/40.mp3"
+  },
+  {
+    "key": "\u5f97\u591a",
+    "alt": "de5du\u014d (\u5f97\u591a, \u5f97\u591a)",
+    "answer": "more",
+    "audio": "top10/41.mp3"
+  },
+  {
+    "key": "\u9023\u7f72",
+    "alt": "li\u00e1nsh\u01d4 (\u9023\u7f72, \u8fde\u7f72)",
+    "answer": "countersign, cosignatory, sign jointly, cosign",
+    "audio": "top10/42.mp3"
+  },
+  {
+    "key": "\u63a2\u671b",
+    "alt": "t\u00e0nw\u00e0ng (\u63a2\u671b, \u63a2\u671b)",
+    "answer": "look about, visit",
+    "audio": "top10/43.mp3"
+  },
+  {
+    "key": "\u52d5\u4e82",
+    "alt": "d\u00f2nglu\u00e0n (\u52d5\u4e82, \u52a8\u4e71)",
+    "answer": "turmoil, upheaval, disturbance",
+    "audio": "top10/44.mp3"
+  },
+  {
+    "key": "\u8ffd\u96a8",
+    "alt": "zhu\u012bsu\u00ed (\u8ffd\u96a8, \u8ffd\u968f)",
+    "answer": "follow",
+    "audio": "top10/45.mp3"
+  },
+  {
+    "key": "\u97f3\u6548",
+    "alt": "y\u012bnxi\u00e0o (\u97f3\u6548, \u97f3\u6548)",
+    "answer": "sound effects",
+    "audio": "top10/46.mp3"
+  },
+  {
+    "key": "\u6cbb\u7406",
+    "alt": "zh\u00ecl\u01d0 (\u6cbb\u7406, \u6cbb\u7406)",
+    "answer": "administer, govern, bring under control, put in order",
+    "audio": "top10/47.mp3"
+  },
+  {
+    "key": "\u62d6\u5ef6",
+    "alt": "tu\u014dy\u00e1n (\u62d6\u5ef6, \u62d6\u5ef6)",
+    "answer": "delay, put off",
+    "audio": "top10/48.mp3"
+  },
+  {
+    "key": "\u6a19\u7c64",
+    "alt": "bi\u0101oqi\u0101n (\u6a19\u7c64, \u6807\u7b7e)",
+    "answer": "mark, ticket, gummed label, tab, markup, sticker, label, tally, tag",
+    "audio": "top10/49.mp3"
+  },
+  {
+    "key": "\u5641\u5fc3",
+    "alt": "\u011bx\u012bn (\u5641\u5fc3, \u5641\u5fc3)",
+    "answer": "vomit, keck, retch, turn sick, feel nauseated, nauseous, sicken, disgusting",
+    "audio": "top10/50.mp3"
+  },
+  {
+    "key": "\u5c31\u5b78",
+    "alt": "ji\u00f9xu\u00e9 (\u5c31\u5b78, \u5c31\u5b66)",
+    "answer": "attend school",
+    "audio": "top10/51.mp3"
+  },
+  {
+    "key": "\u6f32\u50f9",
+    "alt": "zh\u01cengji\u00e0 (\u6f32\u50f9, \u6da8\u4ef7)",
+    "answer": "rise in price",
+    "audio": "top10/52.mp3"
+  },
+  {
+    "key": "\u5c0e\u5165",
+    "alt": "d\u01ceor\u00f9 (\u5c0e\u5165, \u5bfc\u5165)",
+    "answer": "introduce",
+    "audio": "top10/53.mp3"
+  },
+  {
+    "key": "\u8a18\u61b6",
+    "alt": "j\u00ecy\u00ec (\u8a18\u61b6, \u8bb0\u5fc6)",
+    "answer": "remember, recall",
+    "audio": "top10/54.mp3"
+  },
+  {
+    "key": "\u667a\u969c",
+    "alt": "zh\u00eczh\u00e0ng (\u667a\u969c, \u667a\u969c)",
+    "answer": "retarded",
+    "audio": "top10/55.mp3"
+  },
+  {
+    "key": "\u805e",
+    "alt": "w\u00e9n (\u805e, \u95fb)",
+    "answer": "hear",
+    "audio": "top10/56.mp3"
+  },
+  {
+    "key": "\u7a31\u547c",
+    "alt": "ch\u0113ngh\u016b (\u7a31\u547c, \u79f0\u547c)",
+    "answer": "call, address",
+    "audio": "top10/57.mp3"
+  },
+  {
+    "key": "\u9032\u99d0",
+    "alt": "j\u00ecnzh\u00f9 (\u9032\u99d0, \u8fdb\u9a7b)",
+    "answer": "enter and garrison or be stationed",
+    "audio": "top10/58.mp3"
+  },
+  {
+    "key": "\u5f59\u6574",
+    "alt": "hu\u00eczh\u011bng (\u5f59\u6574, \u6c47\u6574)",
+    "answer": "collect, gather",
+    "audio": "top10/59.mp3"
+  },
+  {
+    "key": "\u60b2\u6158",
+    "alt": "b\u0113ic\u01cen (\u60b2\u6158, \u60b2\u60e8)",
+    "answer": "tragic, pathetic, miserable",
+    "audio": "top10/60.mp3"
+  },
+  {
+    "key": "\u903c\u8fd1",
+    "alt": "b\u012bj\u00ecn (\u903c\u8fd1, \u903c\u8fd1)",
+    "answer": "press on towards, approach",
+    "audio": "top10/61.mp3"
+  },
+  {
+    "key": "\u96c7\u4e3b",
+    "alt": "g\u00f9zh\u01d4 (\u96c7\u4e3b, \u96c7\u4e3b)",
+    "answer": "gaffer, beanfeast, master, governor, boss, employer, hirer",
+    "audio": "top10/62.mp3"
+  },
+  {
+    "key": "\u65b0\u90ce",
+    "alt": "x\u012bnl\u00e1ng (\u65b0\u90ce, \u65b0\u90ce)",
+    "answer": "groom, bridegroom",
+    "audio": "top10/63.mp3"
+  },
+  {
+    "key": "\u6eab\u6cc9",
+    "alt": "w\u0113nqu\u00e1n (\u6eab\u6cc9, \u6e29\u6cc9)",
+    "answer": "hot_spring, watering_place, thermae, thermal spring, hot spring",
+    "audio": "top10/64.mp3"
+  },
+  {
+    "key": "\u7dad\u4e5f\u7d0d",
+    "alt": "w\u00e9iy\u011bn\u00e0 (\u7dad\u4e5f\u7d0d, \u7ef4\u4e5f\u7eb3)",
+    "answer": "capital of Austria, Austrian capital, Vienna",
+    "audio": "top10/65.mp3"
+  },
+  {
+    "key": "\u843d\u4e0b",
+    "alt": "lu\u00f2xi\u00e0 (\u843d\u4e0b, \u843d\u4e0b)",
+    "answer": "fall/lag behind",
+    "audio": "top10/66.mp3"
+  },
+  {
+    "key": "\u8fb2\u7522\u54c1",
+    "alt": "n\u00f3ngch\u01cenp\u01d0n (\u8fb2\u7522\u54c1, \u519c\u4ea7\u54c1)",
+    "answer": "agricultural products, farm produce",
+    "audio": "top10/67.mp3"
+  },
+  {
+    "key": "\u559c\u5287",
+    "alt": "x\u01d0j\u00f9 (\u559c\u5287, \u559c\u5267)",
+    "answer": "Thalia, comedy, sock",
+    "audio": "top10/68.mp3"
+  },
+  {
+    "key": "\u8058",
+    "alt": "p\u00ecn (\u8058, \u8058)",
+    "answer": "engage, invite",
+    "audio": "top10/69.mp3"
+  },
+  {
+    "key": "\u8166\u90e8",
+    "alt": "n\u01ceob\u00f9 (\u8166\u90e8, \u8111\u90e8)",
+    "answer": "head",
+    "audio": "top10/70.mp3"
+  },
+  {
+    "key": "\u75db\u5fc3",
+    "alt": "t\u00f2ngx\u012bn (\u75db\u5fc3, \u75db\u5fc3)",
+    "answer": "lacerate, pained, harrowing, grieved, distressed, deplore",
+    "audio": "top10/71.mp3"
+  },
+  {
+    "key": "\u843d\u5165",
+    "alt": "lu\u00f2r\u00f9 (\u843d\u5165, \u843d\u5165)",
+    "answer": "fall in",
+    "audio": "top10/72.mp3"
+  },
+  {
+    "key": "\u788e",
+    "alt": "su\u00ec (\u788e, \u788e)",
+    "answer": "break to pieces, break ... to pieces, garrulous, smash, knap, crumble, gabby, fragmentary, batter, broken",
+    "audio": "top10/73.mp3"
+  },
+  {
+    "key": "\u6563\u6587",
+    "alt": "s\u01cenw\u00e9n (\u6563\u6587, \u6563\u6587)",
+    "answer": "prose",
+    "audio": "top10/74.mp3"
+  },
+  {
+    "key": "\u6307\u5411",
+    "alt": "zh\u01d0xi\u00e0ng (\u6307\u5411, \u6307\u5411)",
+    "answer": "head, point to, hold, point, maneuver, direct, steer, gear, pitch, manouevre, guide",
+    "audio": "top10/75.mp3"
+  },
+  {
+    "key": "\u4fee\u6b63\u6848",
+    "alt": "xi\u016bzh\u0113ng\u00e0n (\u4fee\u6b63\u6848, \u4fee\u6b63\u6848)",
+    "answer": "revised draft, amendment",
+    "audio": "top10/76.mp3"
+  },
+  {
+    "key": "\u7a7a\u904b",
+    "alt": "k\u014dngy\u00f9n (\u7a7a\u904b, \u7a7a\u8fd0)",
+    "answer": "air transport",
+    "audio": "top10/77.mp3"
+  },
+  {
+    "key": "\u722c\u4e0a",
+    "alt": "p\u00e1sh\u00e0ng (\u722c\u4e0a, \u722c\u4e0a)",
+    "answer": "get on, bestride, jump on, climb, mount up, hop on, mount, clamber, get_on, climb on",
+    "audio": "top10/78.mp3"
+  },
+  {
+    "key": "\u54c8\u85a9\u514b",
+    "alt": "h\u0101s\u00e0k\u00e8 (\u54c8\u85a9\u514b, \u54c8\u8428\u514b)",
+    "answer": "Kazakhstan, Kazak nationality, Kazakh, Kazak h",
+    "audio": "top10/79.mp3"
+  },
+  {
+    "key": "\u80a5\u80d6",
+    "alt": "f\u00e9ip\u00e0ng (\u80a5\u80d6, \u80a5\u80d6)",
+    "answer": "fat, corpulent",
+    "audio": "top10/80.mp3"
+  },
+  {
+    "key": "\u8fd4\u9109",
+    "alt": "f\u01cenxi\u0101ng (\u8fd4\u9109, \u8fd4\u4e61)",
+    "answer": "return to one's native place",
+    "audio": "top10/81.mp3"
+  },
+  {
+    "key": "\u500b\u5b50",
+    "alt": "g\u00e8zi5 (\u500b\u5b50, \u4e2a\u5b50)",
+    "answer": "height, stature, build",
+    "audio": "top10/82.mp3"
+  },
+  {
+    "key": "\u8f9b\u52de",
+    "alt": "x\u012bnl\u00e1o (\u8f9b\u52de, \u8f9b\u52b3)",
+    "answer": "toil",
+    "audio": "top10/83.mp3"
+  },
+  {
+    "key": "\u9632\u885b",
+    "alt": "f\u00e1ngw\u00e8i (\u9632\u885b, \u9632\u536b)",
+    "answer": "defend",
+    "audio": "top10/84.mp3"
+  },
+  {
+    "key": "\u62cb\u68c4",
+    "alt": "p\u0101oq\u00ec (\u62cb\u68c4, \u629b\u5f03)",
+    "answer": "dispose, cast aside, toss away, toss, lurch, throw out, put away, reject, abandonment, chuck, ditch, jettison, slough, renounce, flee, throw away, give up, desert, cast out, desolate, doff, chuck_out, fling, jilt, forgo, chuck out, discard, abandon, toss out, cast away, forsake",
+    "audio": "top10/85.mp3"
+  },
+  {
+    "key": "\u597d\u8a55",
+    "alt": "h\u01ceop\u00edng (\u597d\u8a55, \u597d\u8bc4)",
+    "answer": "reputation, high opinion, favorable comment, conceit, favorable review, esteem",
+    "audio": "top10/86.mp3"
+  },
+  {
+    "key": "\u5feb\u6d3b",
+    "alt": "ku\u00e0ihu\u00f3 (\u5feb\u6d3b, \u5feb\u6d3b)",
+    "answer": "merry, cheerful, liven, jaunty, jolly, brighten, happy",
+    "audio": "top10/87.mp3"
+  },
+  {
+    "key": "\u5ef6\u652c",
+    "alt": "y\u00e1nl\u01cen (\u5ef6\u652c, \u5ef6\u63fd)",
+    "answer": "recruit talent",
+    "audio": "top10/88.mp3"
+  },
+  {
+    "key": "\u4f9d\u5e8f",
+    "alt": "y\u012bx\u00f9 (\u4f9d\u5e8f, \u4f9d\u5e8f)",
+    "answer": "in_order, in turn, sequentially, consecutive, in proper order",
+    "audio": "top10/89.mp3"
+  },
+  {
+    "key": "\u6276",
+    "alt": "f\u00fa (\u6276, \u6276)",
+    "answer": "support, straighten ... up, support with the hand, place a hand on, help sb. up, relief, relieve, straighten sth. up, help ... up, help, support with hand",
+    "audio": "top10/90.mp3"
+  },
+  {
+    "key": "\u5b57\u7b26",
+    "alt": "z\u00ecf\u00fa (\u5b57\u7b26, \u5b57\u7b26)",
+    "answer": "word symbol, character",
+    "audio": "top10/91.mp3"
+  },
+  {
+    "key": "\u4f73\u4eba",
+    "alt": "ji\u0101r\u00e9n (\u4f73\u4eba, \u4f73\u4eba)",
+    "answer": "looker, peach, knockout, mantrap, dish, sweetheart, lulu, beautiful woman, stunner, beauty, sparkler, smasher",
+    "audio": "top10/92.mp3"
+  },
+  {
+    "key": "\u6b65\u5165",
+    "alt": "b\u00f9r\u00f9 (\u6b65\u5165, \u6b65\u5165)",
+    "answer": "go into, walk into",
+    "audio": "top10/93.mp3"
+  },
+  {
+    "key": "\u5229\u5668",
+    "alt": "l\u00ecq\u00ec (\u5229\u5668, \u5229\u5668)",
+    "answer": "sharp weapon, good tool, efficient instrument",
+    "audio": "top10/94.mp3"
+  },
+  {
+    "key": "\u82b1\u6a23",
+    "alt": "hu\u0101y\u00e0ng (\u82b1\u6a23, \u82b1\u6837)",
+    "answer": "pattern, variety",
+    "audio": "top10/95.mp3"
+  },
+  {
+    "key": "\u597d\u7528",
+    "alt": "h\u01ceoy\u00f2ng (\u597d\u7528, \u597d\u7528)",
+    "answer": "practical",
+    "audio": "top10/96.mp3"
+  },
+  {
+    "key": "\u540d\u7247",
+    "alt": "m\u00edngpi\u00e0n (\u540d\u7247, \u540d\u7247)",
+    "answer": "visiting_card, calling card, card, pasteboard, visiting card, carte, namecard, calling_card, visiting",
+    "audio": "top10/97.mp3"
+  },
+  {
+    "key": "\u76f8\u7247",
+    "alt": "xi\u00e0ngpi\u00e0n (\u76f8\u7247, \u76f8\u7247)",
+    "answer": "exposure, print, semblance, likeness, photo, photograph, photographic print",
+    "audio": "top10/98.mp3"
+  },
+  {
+    "key": "\u8301\u58ef",
+    "alt": "zhu\u00f3zhu\u00e0ng (\u8301\u58ef, \u8301\u58ee)",
+    "answer": "build_up, sturdy, build up",
+    "audio": "top10/99.mp3"
+  },
+  {
+    "key": "\u6307\u63a7",
+    "alt": "zh\u01d0k\u00f2ng (\u6307\u63a7, \u6307\u63a7)",
+    "answer": "accuse, charge",
+    "audio": "top10/100.mp3"
+  },
+  {
+    "key": "\u62cd\u7247",
+    "alt": "p\u0101ipi\u00e0n (\u62cd\u7247, \u62cd\u7247)",
+    "answer": "shoot a film, film, shooting, shoot film",
+    "audio": "top10/101.mp3"
+  },
+  {
+    "key": "\u9999\u7159",
+    "alt": "xi\u0101ngy\u0101n (\u9999\u7159, \u9999\u70df)",
+    "answer": "cigarette, incense smoke",
+    "audio": "top10/102.mp3"
+  },
+  {
+    "key": "\u5357\u6295\u7e23",
+    "alt": "n\u00e1nt\u00f3uxi\u00e0n (\u5357\u6295\u7e23, \u5357\u6295\u53bf)",
+    "answer": "Nantou County",
+    "audio": "top10/103.mp3"
+  },
+  {
+    "key": "\u81f4\u547d",
+    "alt": "zh\u00ecm\u00ecng (\u81f4\u547d, \u81f4\u547d)",
+    "answer": "take off, fatal, deadly, mortal",
+    "audio": "top10/104.mp3"
+  },
+  {
+    "key": "\u6b23\u6170",
+    "alt": "x\u012bnw\u00e8i (\u6b23\u6170, \u6b23\u6170)",
+    "answer": "delighted, be gratified",
+    "audio": "top10/105.mp3"
+  },
+  {
+    "key": "\u7a7f\u8d8a",
+    "alt": "chu\u0101nyu\u00e8 (\u7a7f\u8d8a, \u7a7f\u8d8a)",
+    "answer": "cut, pass through, cut across, cross",
+    "audio": "top10/106.mp3"
+  },
+  {
+    "key": "\u5c0f\u5f1f",
+    "alt": "xi\u01ceod\u00ec (\u5c0f\u5f1f, \u5c0f\u5f1f)",
+    "answer": "little brother, male waiter",
+    "audio": "top10/107.mp3"
+  },
+  {
+    "key": "\u6708\u7d93",
+    "alt": "yu\u00e8j\u012bng (\u6708\u7d93, \u6708\u7ecf)",
+    "answer": "period, catamenia, curse, menstruous, menstrual, menses, emmenia, menstruation, monthly, flow, turn",
+    "audio": "top10/108.mp3"
+  },
+  {
+    "key": "\u516c\u79c1\u7acb",
+    "alt": "g\u014dngs\u012bl\u00ec (\u516c\u79c1\u7acb, \u516c\u79c1\u7acb)",
+    "answer": "publicly and privately run",
+    "audio": "top10/109.mp3"
+  },
+  {
+    "key": "\u516c\u5bb3",
+    "alt": "g\u014dngh\u00e0i (\u516c\u5bb3, \u516c\u5bb3)",
+    "answer": "public nuisance, nuisance, social effects of pollution, environmental pollution",
+    "audio": "top10/110.mp3"
+  },
+  {
+    "key": "\u5171\u8944\u76db\u8209",
+    "alt": "g\u00f2ngxi\u0101ngsh\u00e8ngj\u01d4 (\u5171\u8944\u76db\u8209, \u5171\u8944\u76db\u4e3e)",
+    "answer": "assist something togather",
+    "audio": "top10/111.mp3"
+  },
+  {
+    "key": "\u518d\u4e09",
+    "alt": "z\u00e0is\u0101n (\u518d\u4e09, \u518d\u4e09)",
+    "answer": "repeatedly, again and again, over and over again, thrice, time and again",
+    "audio": "top10/112.mp3"
+  },
+  {
+    "key": "\u4e0d\u9808",
+    "alt": "b\u00f9x\u016b (\u4e0d\u9808, \u4e0d\u987b)",
+    "answer": "need not, not have to",
+    "audio": "top10/113.mp3"
+  },
+  {
+    "key": "\u5927\u56db",
+    "alt": "d\u00e0s\u00ec (\u5927\u56db, \u5927\u56db)",
+    "answer": "fourth year class, upper class",
+    "audio": "top10/114.mp3"
+  },
+  {
+    "key": "\u516c\u773e",
+    "alt": "g\u014dngzh\u00f2ng (\u516c\u773e, \u516c\u4f17)",
+    "answer": "community, the public, masses, the people, public",
+    "audio": "top10/115.mp3"
+  },
+  {
+    "key": "\u4eba\u6c11\u5e63",
+    "alt": "r\u00e9nm\u00ednb\u00ec (\u4eba\u6c11\u5e63, \u4eba\u6c11\u5e01)",
+    "answer": "RMB, PRC currency",
+    "audio": "top10/116.mp3"
+  },
+  {
+    "key": "\u64a4\u92b7",
+    "alt": "ch\u00e8xi\u0101o (\u64a4\u92b7, \u64a4\u9500)",
+    "answer": "cancel, rescind, revoke",
+    "audio": "top10/117.mp3"
+  },
+  {
+    "key": "\u9f3b\u54bd\u764c",
+    "alt": "b\u00edy\u0101ny\u00e1n (\u9f3b\u54bd\u764c, \u9f3b\u54bd\u764c)",
+    "answer": "nasopharyngeal darcinoma, rhinopharyngocele",
+    "audio": "top10/118.mp3"
+  },
+  {
+    "key": "\u5fb7\u5dde",
+    "alt": "d\u00e9zh\u014du (\u5fb7\u5dde, \u5fb7\u5dde)",
+    "answer": "Lone Star State, Texas, Dezhou",
+    "audio": "top10/119.mp3"
+  },
+  {
+    "key": "\u64b2",
+    "alt": "p\u016b (\u64b2, \u6251)",
+    "answer": "pat, attack, throw oneself at, rush at, tap, beat, dab, bend over, pounce on, lie_down, throw oneself on, flap, flutter, fling self at",
+    "audio": "top10/120.mp3"
+  },
+  {
+    "key": "\u6191\u85c9",
+    "alt": "p\u00edngji\u00e8 (\u6191\u85c9, \u51ed\u85c9)",
+    "answer": "rely/depend on",
+    "audio": "top10/121.mp3"
+  },
+  {
+    "key": "\u982d\u9802",
+    "alt": "t\u00f3ud\u01d0ng (\u982d\u9802, \u5934\u9876)",
+    "answer": "crown of head, head, crown, top/crown of head, top of head, top, vertex, calvaria, pate, poll",
+    "audio": "top10/122.mp3"
+  },
+  {
+    "key": "\u5c0f\u5fc3\u7ffc\u7ffc",
+    "alt": "xi\u01ceox\u012bny\u00ecy\u00ec (\u5c0f\u5fc3\u7ffc\u7ffc, \u5c0f\u5fc3\u7ffc\u7ffc)",
+    "answer": "with great care, cautiously",
+    "audio": "top10/123.mp3"
+  },
+  {
+    "key": "\u516c\u5678",
+    "alt": "g\u014dngd\u00f9n (\u516c\u5678, \u516c\u5428)",
+    "answer": "m.[standard]",
+    "audio": "top10/124.mp3"
+  },
+  {
+    "key": "\u6feb\u7528",
+    "alt": "l\u00e0ny\u00f2ng (\u6feb\u7528, \u6ee5\u7528)",
+    "answer": "abuse,  misuse",
+    "audio": "top10/125.mp3"
+  },
+  {
+    "key": "\u6458\u8981",
+    "alt": "zh\u0101iy\u00e0o (\u6458\u8981, \u6458\u8981)",
+    "answer": "summary, abstract",
+    "audio": "top10/126.mp3"
+  },
+  {
+    "key": "\u51fa\u8ce3",
+    "alt": "ch\u016bm\u00e0i (\u51fa\u8ce3, \u51fa\u5356)",
+    "answer": "sell_out, traffic, sell out, barter_away, peach, sell sb. down the river, lead astray, betray, sell, betrayal, go_back_on, offer for sale, double cross, deceive",
+    "audio": "top10/127.mp3"
+  },
+  {
+    "key": "\u58de",
+    "alt": "hu\u00e0i (\u58de, \u574f)",
+    "answer": "bad,  evil,  harmful",
+    "audio": "top10/128.mp3"
+  },
+  {
+    "key": "\u8ad6\u8a9e",
+    "alt": "l\u00fany\u01d4 (\u8ad6\u8a9e, \u8bba\u8bed)",
+    "answer": "{The Analects}, {The Confucian",
+    "audio": "top10/129.mp3"
+  },
+  {
+    "key": "\u5bf5\u7269",
+    "alt": "ch\u01d2ngw\u00f9 (\u5bf5\u7269, \u5ba0\u7269)",
+    "answer": "pet",
+    "audio": "top10/130.mp3"
+  },
+  {
+    "key": "\u8cfc\u7f6e",
+    "alt": "g\u00f2uzh\u00ec (\u8cfc\u7f6e, \u8d2d\u7f6e)",
+    "answer": "purchase durables",
+    "audio": "top10/131.mp3"
+  },
+  {
+    "key": "\u61f7\u62b1",
+    "alt": "hu\u00e1ib\u00e0o (\u61f7\u62b1, \u6000\u62b1)",
+    "answer": "ambition,  embrace",
+    "audio": "top10/132.mp3"
+  },
+  {
+    "key": "\u96d9\u6253",
+    "alt": "shu\u0101ngd\u01ce (\u96d9\u6253, \u53cc\u6253)",
+    "answer": "foursome, doubles",
+    "audio": "top10/133.mp3"
+  },
+  {
+    "key": "\u6b78\u5c6c",
+    "alt": "gu\u012bsh\u01d4 (\u6b78\u5c6c, \u5f52\u5c5e)",
+    "answer": "belong to",
+    "audio": "top10/134.mp3"
+  },
+  {
+    "key": "\u93ae\u6c11",
+    "alt": "zh\u00e8nm\u00edn (\u93ae\u6c11, \u9547\u6c11)",
+    "answer": "burgess, villager, townsman, townsfolk, town, towner, townee, burgher, townspeople",
+    "audio": "top10/135.mp3"
+  },
+  {
+    "key": "\u8f49\u64ad",
+    "alt": "zhu\u01cenb\u00f2 (\u8f49\u64ad, \u8f6c\u64ad)",
+    "answer": "relay radio/TV broadcast",
+    "audio": "top10/136.mp3"
+  },
+  {
+    "key": "\u8f49\u52d5",
+    "alt": "zhu\u01cend\u00f2ng (\u8f49\u52d5, \u8f6c\u52a8)",
+    "answer": "turn round",
+    "audio": "top10/137.mp3"
+  },
+  {
+    "key": "\u4e0d\u5fcd",
+    "alt": "b\u00f9r\u011bn (\u4e0d\u5fcd, \u4e0d\u5fcd)",
+    "answer": "cannot bear to",
+    "audio": "top10/138.mp3"
+  },
+  {
+    "key": "\u7e6b",
+    "alt": "x\u00ec (\u7e6b, \u7cfb)",
+    "answer": "gird",
+    "audio": "top10/139.mp3"
+  },
+  {
+    "key": "\u5e72\u64fe",
+    "alt": "g\u0101nr\u01ceo (\u5e72\u64fe, \u5e72\u6270)",
+    "answer": "interference,  jam",
+    "audio": "top10/140.mp3"
+  },
+  {
+    "key": "\u8003\u7e3e",
+    "alt": "k\u01ceoj\u012b (\u8003\u7e3e, \u8003\u7ee9)",
+    "answer": "merit",
+    "audio": "top10/141.mp3"
+  },
+  {
+    "key": "\u4e0d\u89ba",
+    "alt": "b\u00f9ju\u00e9 (\u4e0d\u89ba, \u4e0d\u89c9)",
+    "answer": "unconsciously, unaware",
+    "audio": "top10/142.mp3"
+  },
+  {
+    "key": "\u5165\u9078",
+    "alt": "r\u00f9xu\u01cen (\u5165\u9078, \u5165\u9009)",
+    "answer": "select, be selected, be chosen",
+    "audio": "top10/143.mp3"
+  },
+  {
+    "key": "\u51fa\u5bb6",
+    "alt": "ch\u016bji\u0101 (\u51fa\u5bb6, \u51fa\u5bb6)",
+    "answer": "become nun, cloister, nun, become a monk or nun, become monk",
+    "audio": "top10/144.mp3"
+  },
+  {
+    "key": "\u6703\u8a08\u5e2b",
+    "alt": "ku\u00e0ij\u00ecsh\u012b (\u6703\u8a08\u5e2b, \u4f1a\u8ba1\u5e08)",
+    "answer": "controller, comptroller, chartered accountant, accountant",
+    "audio": "top10/145.mp3"
+  },
+  {
+    "key": "\u640d\u5bb3",
+    "alt": "s\u01d4nh\u00e0i (\u640d\u5bb3, \u635f\u5bb3)",
+    "answer": "injury, damage",
+    "audio": "top10/146.mp3"
+  },
+  {
+    "key": "\u8acb\u4f86",
+    "alt": "q\u01d0ngl\u00e1i (\u8acb\u4f86, \u8bf7\u6765)",
+    "answer": "invite",
+    "audio": "top10/147.mp3"
+  },
+  {
+    "key": "\u8d81\u6a5f",
+    "alt": "ch\u00e8nj\u012b (\u8d81\u6a5f, \u8d81\u673a)",
+    "answer": "seizing the chance, take advantage of occasion, taking advantage of the occasion, seize chance",
+    "audio": "top10/148.mp3"
+  },
+  {
+    "key": "\u8cc7\u672c\u984d",
+    "alt": "z\u012bb\u011bn\u00e9 (\u8cc7\u672c\u984d, \u8d44\u672c\u989d)",
+    "answer": "capitalization",
+    "audio": "top10/149.mp3"
+  },
+  {
+    "key": "\u65b0\u7a4e",
+    "alt": "x\u012bny\u01d0ng (\u65b0\u7a4e, \u65b0\u9896)",
+    "answer": "new and original, novel",
+    "audio": "top10/150.mp3"
+  },
+  {
+    "key": "\u6b4c\u8ff7",
+    "alt": "g\u0113m\u00ed (\u6b4c\u8ff7, \u6b4c\u8ff7)",
+    "answer": "lover of song,  fan of a singer",
+    "audio": "top10/151.mp3"
+  },
+  {
+    "key": "\u78bc",
+    "alt": "m\u01ce (\u78bc, \u7801)",
+    "answer": "m.[standard]",
+    "audio": "top10/152.mp3"
+  },
+  {
+    "key": "\u8072\u52e2",
+    "alt": "sh\u0113ngsh\u00ec (\u8072\u52e2, \u58f0\u52bf)",
+    "answer": "prestige and power, impetus, fame and influence, momentum",
+    "audio": "top10/153.mp3"
+  },
+  {
+    "key": "\u7e3d\u984d",
+    "alt": "z\u01d2ng\u00e9 (\u7e3d\u984d, \u603b\u989d)",
+    "answer": "gross, sum, rental, total, sum total, totality, amount",
+    "audio": "top10/154.mp3"
+  },
+  {
+    "key": "\u805e\u5230",
+    "alt": "w\u00e9nd\u00e0o (\u805e\u5230, \u95fb\u5230)",
+    "answer": "scent, perceive by smelling, wind, nose, smell",
+    "audio": "top10/155.mp3"
+  },
+  {
+    "key": "\u6163\u4f8b",
+    "alt": "gu\u00e0nl\u00ec (\u6163\u4f8b, \u60ef\u4f8b)",
+    "answer": "custom, pattern, practice, manner, tradition, routine, law, wont, habit, codex, ritual, convention, convenance, consuetude, usual practice, rule, use, observance, institution, modus operandi, precedent, conventionality, rite, praxis, natural law",
+    "audio": "top10/156.mp3"
+  },
+  {
+    "key": "\u6f20\u8996",
+    "alt": "m\u00f2sh\u00ec (\u6f20\u8996, \u6f20\u89c6)",
+    "answer": "treat as unimportant, ignore",
+    "audio": "top10/157.mp3"
+  },
+  {
+    "key": "\u8e0f\u5165",
+    "alt": "t\u00e0r\u00f9 (\u8e0f\u5165, \u8e0f\u5165)",
+    "answer": "tread, step, step on",
+    "audio": "top10/158.mp3"
+  },
+  {
+    "key": "\u65b0\u805e\u7cfb",
+    "alt": "x\u012bnw\u00e9nx\u00ec (\u65b0\u805e\u7cfb, \u65b0\u95fb\u7cfb)",
+    "answer": "Department of Journalism",
+    "audio": "top10/159.mp3"
+  },
+  {
+    "key": "\u9e7f",
+    "alt": "l\u00f9 (\u9e7f, \u9e7f)",
+    "answer": "cervine, deer, European elk, elk, moose, Alces alces, cervid",
+    "audio": "top10/160.mp3"
+  },
+  {
+    "key": "\u856d",
+    "alt": "xi\u0101o (\u856d, \u8427)",
+    "answer": "Xiao, Surname",
+    "audio": "top10/161.mp3"
+  },
+  {
+    "key": "\u8b00",
+    "alt": "m\u00f3u (\u8b00, \u8c0b)",
+    "answer": "stratagem, plan, scheme, plot, consult, discuss, seek, work for",
+    "audio": "top10/162.mp3"
+  },
+  {
+    "key": "\u8ac7\u6200\u611b",
+    "alt": "t\u00e1nli\u00e0n\u00e0i (\u8ac7\u6200\u611b, \u8c08\u604b\u7231)",
+    "answer": "be courting, court, talk love, woo",
+    "audio": "top10/163.mp3"
+  },
+  {
+    "key": "\u7164",
+    "alt": "m\u00e9i (\u7164, \u7164)",
+    "answer": "firing, coal",
+    "audio": "top10/164.mp3"
+  },
+  {
+    "key": "\u65e5\u5149",
+    "alt": "r\u00ecgu\u0101ng (\u65e5\u5149, \u65e5\u5149)",
+    "answer": "day, visible radiation, daylight, sunlight, sunbeam, light, sunray, lighting, visible light, Nikko",
+    "audio": "top10/165.mp3"
+  },
+  {
+    "key": "\u6c23\u9ad4",
+    "alt": "q\u00ect\u01d0 (\u6c23\u9ad4, \u6c14\u4f53)",
+    "answer": "exhaust, fume, gaseous, gas, exhaust fumes, pneumatic, gaseity, mofette, fumes",
+    "audio": "top10/166.mp3"
+  },
+  {
+    "key": "\u65c5\u9014",
+    "alt": "l\u01d4t\u00fa (\u65c5\u9014, \u65c5\u9014)",
+    "answer": "way, travel, route, traveling, travelling, trip, journey",
+    "audio": "top10/167.mp3"
+  },
+  {
+    "key": "\u7d22\u5f15",
+    "alt": "su\u01d2y\u01d0n (\u7d22\u5f15, \u7d22\u5f15)",
+    "answer": "caption, index",
+    "audio": "top10/168.mp3"
+  },
+  {
+    "key": "\u767c\u708e",
+    "alt": "f\u0101y\u00e1n (\u767c\u708e, \u53d1\u708e)",
+    "answer": "inflame, inflammation, inflamed",
+    "audio": "top10/169.mp3"
+  },
+  {
+    "key": "\u5275\u8fa6",
+    "alt": "chu\u00e0ngb\u00e0n (\u5275\u8fa6, \u521b\u529e)",
+    "answer": "found, launch, establishment, set up, establish",
+    "audio": "top10/170.mp3"
+  },
+  {
+    "key": "\u7121\u529b\u611f",
+    "alt": "w\u00fal\u00ecg\u01cen (\u7121\u529b\u611f, \u65e0\u529b\u611f)",
+    "answer": "powerlessness",
+    "audio": "top10/171.mp3"
+  },
+  {
+    "key": "\u8056\u6b4c",
+    "alt": "sh\u00e8ngg\u0113 (\u8056\u6b4c, \u5723\u6b4c)",
+    "answer": "anthem, chorale, hymnody",
+    "audio": "top10/172.mp3"
+  },
+  {
+    "key": "\u89e3\u5256",
+    "alt": "ji\u011bp\u01d2u (\u89e3\u5256, \u89e3\u5256)",
+    "answer": "dissect",
+    "audio": "top10/173.mp3"
+  },
+  {
+    "key": "\u968a\u9577",
+    "alt": "du\u00eczh\u01ceng (\u968a\u9577, \u961f\u957f)",
+    "answer": "captain, chieftain, skipper, police chief, header, headman, commandant, police captain, sirdar, team leader",
+    "audio": "top10/174.mp3"
+  },
+  {
+    "key": "\u65b0\u5a5a",
+    "alt": "x\u012bnh\u016bn (\u65b0\u5a5a, \u65b0\u5a5a)",
+    "answer": "be newly married",
+    "audio": "top10/175.mp3"
+  },
+  {
+    "key": "\u8f15\u5fae",
+    "alt": "q\u012bngw\u00e9i (\u8f15\u5fae, \u8f7b\u5fae)",
+    "answer": "light, trifling, trivial",
+    "audio": "top10/176.mp3"
+  },
+  {
+    "key": "\u5fa9\u7526",
+    "alt": "f\u00f9s\u016b (\u5fa9\u7526, \u590d\u7526)",
+    "answer": "resuscitate, recover",
+    "audio": "top10/177.mp3"
+  },
+  {
+    "key": "\u50b5\u52d9",
+    "alt": "zh\u00e0iw\u00f9 (\u50b5\u52d9, \u503a\u52a1)",
+    "answer": "debt, liabilities",
+    "audio": "top10/178.mp3"
+  },
+  {
+    "key": "\u904d\u53ca",
+    "alt": "bi\u00e0nj\u00ed (\u904d\u53ca, \u904d\u53ca)",
+    "answer": "extend/spread all over, pervade",
+    "audio": "top10/179.mp3"
+  },
+  {
+    "key": "\u8d85\u7d1a\u5e02\u5834",
+    "alt": "ch\u0101oj\u00edsh\u00ecch\u01ceng (\u8d85\u7d1a\u5e02\u5834, \u8d85\u7ea7\u5e02\u573a)",
+    "answer": "supermarket",
+    "audio": "top10/180.mp3"
+  },
+  {
+    "key": "\u8cfa\u53d6",
+    "alt": "zhu\u00e0nq\u01d4 (\u8cfa\u53d6, \u8d5a\u53d6)",
+    "answer": "procure, gain, make profit, get, acquire, earn",
+    "audio": "top10/181.mp3"
+  },
+  {
+    "key": "\u5de5\u8b80\u751f",
+    "alt": "g\u014dngd\u00fash\u0113ng (\u5de5\u8b80\u751f, \u5de5\u8bfb\u751f)",
+    "answer": "reform school student",
+    "audio": "top10/182.mp3"
+  },
+  {
+    "key": "\u51fa\u79df",
+    "alt": "ch\u016bz\u016b (\u51fa\u79df, \u51fa\u79df)",
+    "answer": "hire, let, rent",
+    "audio": "top10/183.mp3"
+  },
+  {
+    "key": "\u4e2d\u98a8",
+    "alt": "zh\u00f2ngf\u0113ng (\u4e2d\u98a8, \u4e2d\u98ce)",
+    "answer": "apoplectic, suffer from a stroke of apoplexy, have a stroke",
+    "audio": "top10/184.mp3"
+  },
+  {
+    "key": "\u751f\u5316",
+    "alt": "sh\u0113nghu\u00e0 (\u751f\u5316, \u751f\u5316)",
+    "answer": "hydrocortisone, lysine, biosynthesis, calciferol, biogenesis, phenylalanine, amylase, albumin, collagen, lipoprotein, choline, catalase, autolysis, biochemistry, nucleotide, citrin, androsterone, actin, androgen",
+    "audio": "top10/185.mp3"
+  },
+  {
+    "key": "\u6587\u6191",
+    "alt": "w\u00e9np\u00edng (\u6587\u6191, \u6587\u51ed)",
+    "answer": "diploma",
+    "audio": "top10/186.mp3"
+  },
+  {
+    "key": "\u4e8e",
+    "alt": "y\u016b (\u4e8e, \u4e8e)",
+    "answer": "in, at; to, from, out of, by",
+    "audio": "top10/187.mp3"
+  },
+  {
+    "key": "\u4e0b\u6ed1",
+    "alt": "xi\u00e0hu\u00e1 (\u4e0b\u6ed1, \u4e0b\u6ed1)",
+    "answer": "fall, decline, decrease",
+    "audio": "top10/188.mp3"
+  },
+  {
+    "key": "\u8da8\u65bc",
+    "alt": "q\u016by\u00fa (\u8da8\u65bc, \u8d8b\u4e8e)",
+    "answer": "incline to, trend, tend towards, tend",
+    "audio": "top10/189.mp3"
+  },
+  {
+    "key": "\u6bdb\u5dfe",
+    "alt": "m\u00e1oj\u012bn (\u6bdb\u5dfe, \u6bdb\u5dfe)",
+    "answer": "washcloth, flannel, Turkish towel, face towel, face cloth, hand_towel, towel, washrag, napkin, terry towel, hand towel",
+    "audio": "top10/190.mp3"
+  },
+  {
+    "key": "\u85cd\u5929",
+    "alt": "l\u00e1nti\u0101n (\u85cd\u5929, \u84dd\u5929)",
+    "answer": "blue sky",
+    "audio": "top10/191.mp3"
+  },
+  {
+    "key": "\u8072\u660e",
+    "alt": "sh\u0113ngm\u00edng (\u8072\u660e, \u58f0\u660e)",
+    "answer": "state, announce",
+    "audio": "top10/192.mp3"
+  },
+  {
+    "key": "\u8b70\u8ad6",
+    "alt": "y\u00ecl\u00f9n (\u8b70\u8ad6, \u8bae\u8bba)",
+    "answer": "debate,  discuss",
+    "audio": "top10/193.mp3"
+  },
+  {
+    "key": "\u8b74\u8cac",
+    "alt": "qi\u01cenz\u00e9 (\u8b74\u8cac, \u8c34\u8d23)",
+    "answer": "condemn,  denounce,  censure",
+    "audio": "top10/194.mp3"
+  },
+  {
+    "key": "\u881f\u71ed",
+    "alt": "l\u00e0zh\u00fa (\u881f\u71ed, \u8721\u70db)",
+    "answer": "candle",
+    "audio": "top10/195.mp3"
+  },
+  {
+    "key": "\u8b8a\u66f4",
+    "alt": "bi\u00e0ng\u0113ng (\u8b8a\u66f4, \u53d8\u66f4)",
+    "answer": "modification",
+    "audio": "top10/196.mp3"
+  },
+  {
+    "key": "\u5075\u6e2c",
+    "alt": "zh\u0113nc\u00e8 (\u5075\u6e2c, \u4fa6\u6d4b)",
+    "answer": "reconnoiter, scout, pry",
+    "audio": "top10/197.mp3"
+  },
+  {
+    "key": "\u57ce\u968d\u723a",
+    "alt": "ch\u00e9nghu\u00e1ngy\u00e9 (\u57ce\u968d\u723a, \u57ce\u968d\u7237)",
+    "answer": "city god",
+    "audio": "top10/198.mp3"
+  },
+  {
+    "key": "\u5c0f\u5c4b",
+    "alt": "xi\u01ceow\u016b (\u5c0f\u5c4b, \u5c0f\u5c4b)",
+    "answer": "shiel, hut, shack, cot, little house, shieling, maisonnette, lodge, cabin, hovel, cottage, cabana, bungalow, shebang, chalet, coop, gunyah, tupik, maisonette, hutch, hunting lodge, doghouse, loge, shanty, shed",
+    "audio": "top10/199.mp3"
+  },
+  {
+    "key": "\u5360\u6709",
+    "alt": "zh\u00e0ny\u01d2u (\u5360\u6709, \u5360\u6709)",
+    "answer": "own, have, occupy, hold",
+    "audio": "top10/200.mp3"
+  },
+  {
+    "key": "\u65d7",
+    "alt": "q\u00ed (\u65d7, \u65d7)",
+    "answer": "banner, emblem",
+    "audio": "top10/201.mp3"
+  },
+  {
+    "key": "\u81fa\u96fb",
+    "alt": "t\u00e1idi\u00e0n (\u81fa\u96fb, \u53f0\u7535)",
+    "answer": "Taiwan Power Company",
+    "audio": "top10/202.mp3"
+  },
+  {
+    "key": "\u7a4d",
+    "alt": "j\u012b (\u7a4d, \u79ef)",
+    "answer": "accumulate, amass, accumulation, store up",
+    "audio": "top10/203.mp3"
+  },
+  {
+    "key": "\u6587\u85dd\u5fa9\u8208",
+    "alt": "w\u00e9ny\u00ecf\u00f9x\u012bng (\u6587\u85dd\u5fa9\u8208, \u6587\u827a\u590d\u5174)",
+    "answer": "renascence, Renaissance, renaissance, revival, rebirth",
+    "audio": "top10/204.mp3"
+  },
+  {
+    "key": "\u751f\u4e0b\u4f86",
+    "alt": "sh\u0113ngxi\u00e0l\u00e1i (\u751f\u4e0b\u4f86, \u751f\u4e0b\u6765)",
+    "answer": "birth",
+    "audio": "top10/205.mp3"
+  },
+  {
+    "key": "\u66f2\u6298",
+    "alt": "q\u016bzh\u00e9 (\u66f2\u6298, \u66f2\u6298)",
+    "answer": "tortuous, winding, complicated",
+    "audio": "top10/206.mp3"
+  },
+  {
+    "key": "\u52a0\u6cb9\u7ad9",
+    "alt": "ji\u0101y\u00f3uzh\u00e0n (\u52a0\u6cb9\u7ad9, \u52a0\u6cb9\u7ad9)",
+    "answer": "pit, petrol_station, filling station, gasoline station, filling_station, gas station, gas_station, petrol station",
+    "audio": "top10/207.mp3"
+  },
+  {
+    "key": "\u6a02\u968a",
+    "alt": "yu\u00e8du\u00ec (\u6a02\u968a, \u4e50\u961f)",
+    "answer": "orchestra, dance orchestra, dance band, band",
+    "audio": "top10/208.mp3"
+  },
+  {
+    "key": "\u51fa\u540d",
+    "alt": "ch\u016bm\u00edng (\u51fa\u540d, \u51fa\u540d)",
+    "answer": "lend one's name, out, fame, become well known, become famous, famous, use the name of, be famous, well",
+    "audio": "top10/209.mp3"
+  },
+  {
+    "key": "\u5316",
+    "alt": "hu\u00e0 (\u5316, \u5316)",
+    "answer": "melt, dissolve, thaw, digest, remove, burn up, incinerate, disguise",
+    "audio": "top10/210.mp3"
+  },
+  {
+    "key": "\u6c34\u6e9d",
+    "alt": "shu\u01d0g\u014du (\u6c34\u6e9d, \u6c34\u6c9f)",
+    "answer": "slot, waste pipe, runnel, ditch, drainpipe, trough, thank you",
+    "audio": "top10/211.mp3"
+  },
+  {
+    "key": "\u4e2d\u53e4",
+    "alt": "zh\u014dngg\u01d4 (\u4e2d\u53e4, \u4e2d\u53e4)",
+    "answer": "second hand",
+    "audio": "top10/212.mp3"
+  },
+  {
+    "key": "\u4e3b\u5bb0",
+    "alt": "zh\u01d4z\u01cei (\u4e3b\u5bb0, \u4e3b\u5bb0)",
+    "answer": "dominate, dictate, decide",
+    "audio": "top10/213.mp3"
+  },
+  {
+    "key": "\u7389\u5668",
+    "alt": "y\u016bq\u00ec (\u7389\u5668, \u7389\u5668)",
+    "answer": "jade object, jadeware, jade article",
+    "audio": "top10/214.mp3"
+  },
+  {
+    "key": "\u5730\u76e4",
+    "alt": "d\u00ecp\u00e1n (\u5730\u76e4, \u5730\u76d8)",
+    "answer": "site, territory, territory under one's control, domain, turf",
+    "audio": "top10/215.mp3"
+  },
+  {
+    "key": "\u4efd",
+    "alt": "f\u00e8n (\u4efd, \u4efd)",
+    "answer": "share, portion",
+    "audio": "top10/216.mp3"
+  },
+  {
+    "key": "\u6c42\u52a9",
+    "alt": "qi\u00fazh\u00f9 (\u6c42\u52a9, \u6c42\u52a9)",
+    "answer": "invoke, resort, seek help, recur, bring_in, turn to ... for help, appeal",
+    "audio": "top10/217.mp3"
+  },
+  {
+    "key": "\u8001\u5be6\u8aaa",
+    "alt": "l\u01ceosh\u00edshu\u014d (\u8001\u5be6\u8aaa, \u8001\u5b9e\u8bf4)",
+    "answer": "honestly",
+    "audio": "top10/218.mp3"
+  },
+  {
+    "key": "\u5fe0",
+    "alt": "zh\u014dng (\u5fe0, \u5fe0)",
+    "answer": "loyal, devoted, faithful, honest",
+    "audio": "top10/219.mp3"
+  },
+  {
+    "key": "\u8eab\u8655",
+    "alt": "sh\u0113nch\u01d4 (\u8eab\u8655, \u8eab\u5904)",
+    "answer": "dwell, be in a certain condition",
+    "audio": "top10/220.mp3"
+  },
+  {
+    "key": "\u4ea4\u53c9",
+    "alt": "ji\u0101och\u0101 (\u4ea4\u53c9, \u4ea4\u53c9)",
+    "answer": "cut, alternate, intercross, stagger, decussate, intersect, overlap, overlapping, intersection, cross, crisscross",
+    "audio": "top10/221.mp3"
+  },
+  {
+    "key": "\u5e74\u756b",
+    "alt": "ni\u00e1nhu\u00e0 (\u5e74\u756b, \u5e74\u753b)",
+    "answer": "New Year picture, New Year pictures",
+    "audio": "top10/222.mp3"
+  },
+  {
+    "key": "\u81ea\u5c0a",
+    "alt": "z\u00ecz\u016bn (\u81ea\u5c0a, \u81ea\u5c0a)",
+    "answer": "self worth, self",
+    "audio": "top10/223.mp3"
+  },
+  {
+    "key": "\u679c\u5712",
+    "alt": "gu\u01d2yu\u00e1n (\u679c\u5712, \u679c\u56ed)",
+    "answer": "arbour, garden, orchard",
+    "audio": "top10/224.mp3"
+  },
+  {
+    "key": "\u6709\u9322\u4eba",
+    "alt": "y\u01d2uqi\u00e1nr\u00e9n (\u6709\u9322\u4eba, \u6709\u94b1\u4eba)",
+    "answer": "millionaire, wealthy, better to",
+    "audio": "top10/225.mp3"
+  },
+  {
+    "key": "\u5169\u65c1",
+    "alt": "li\u01cengp\u00e1ng (\u5169\u65c1, \u4e24\u65c1)",
+    "answer": "both sides, either side",
+    "audio": "top10/226.mp3"
+  },
+  {
+    "key": "\u6240\u5728\u5730",
+    "alt": "su\u01d2z\u00e0id\u00ec (\u6240\u5728\u5730, \u6240\u5728\u5730)",
+    "answer": "site, location, address, presence, place, seat, on site, locus, locality",
+    "audio": "top10/227.mp3"
+  },
+  {
+    "key": "\u62b9",
+    "alt": "m\u01d2 (\u62b9, \u62b9)",
+    "answer": "brush/wipe off, exclude",
+    "audio": "top10/228.mp3"
+  },
+  {
+    "key": "\u97f3\u7bc0",
+    "alt": "y\u012bnji\u00e9 (\u97f3\u7bc0, \u97f3\u8282)",
+    "answer": "syllable, key, pitch",
+    "audio": "top10/229.mp3"
+  },
+  {
+    "key": "\u6d41",
+    "alt": "li\u00fa (\u6d41, \u6d41)",
+    "answer": "flow, drift, wander",
+    "audio": "top10/230.mp3"
+  },
+  {
+    "key": "\u5f31\u9ede",
+    "alt": "ru\u00f2di\u01cen (\u5f31\u9ede, \u5f31\u70b9)",
+    "answer": "Achilles' heel, soft spot, failing, weakness, underbelly, defect, foible, infirmity, weak_point, blot, frailty, drawback, Achilles'_heel, soft_spot, weak point, vulnerability",
+    "audio": "top10/231.mp3"
+  },
+  {
+    "key": "\u524d\u92d2",
+    "alt": "qi\u00e1nf\u0113ng (\u524d\u92d2, \u524d\u950b)",
+    "answer": "pack, head, lineman, herald, cutting edge, antecedent, vanguard, forwards, linemen, forerunner, forefront, van, forward",
+    "audio": "top10/232.mp3"
+  },
+  {
+    "key": "\u6b66\u88dd",
+    "alt": "w\u01d4zhu\u0101ng (\u6b66\u88dd, \u6b66\u88c5)",
+    "answer": "arm",
+    "audio": "top10/233.mp3"
+  },
+  {
+    "key": "\u77f3\u5316",
+    "alt": "sh\u00edhu\u00e0 (\u77f3\u5316, \u77f3\u5316)",
+    "answer": "lithification, petrification, petrochemical industry, petrifaction",
+    "audio": "top10/234.mp3"
+  },
+  {
+    "key": "\u6539\u7d44",
+    "alt": "g\u01ceiz\u01d4 (\u6539\u7d44, \u6539\u7ec4)",
+    "answer": "reorganize, reshuffle",
+    "audio": "top10/235.mp3"
+  },
+  {
+    "key": "\u57f7",
+    "alt": "zh\u00ed (\u57f7, \u6267)",
+    "answer": "hold in hand, persist in, stick to, carry out, implement, direct, manage, catch, capture",
+    "audio": "top10/236.mp3"
+  },
+  {
+    "key": "\u81ea\u5351",
+    "alt": "z\u00ecb\u0113i (\u81ea\u5351, \u81ea\u5351)",
+    "answer": "feel oneself inferior, have low self esteem",
+    "audio": "top10/237.mp3"
+  },
+  {
+    "key": "\u4f54\u64da",
+    "alt": "zh\u00e0nj\u00f9 (\u4f54\u64da, \u5360\u636e)",
+    "answer": "inhabit, occupy, stand, assume, prevail, hold, invade, occupation, take, take up",
+    "audio": "top10/238.mp3"
+  },
+  {
+    "key": "\u725f",
+    "alt": "m\u00f3u (\u725f, \u725f)",
+    "answer": "Surname",
+    "audio": "top10/239.mp3"
+  },
+  {
+    "key": "\u4f34\u594f",
+    "alt": "b\u00e0nz\u00f2u (\u4f34\u594f, \u4f34\u594f)",
+    "answer": "accompany with musical instruments",
+    "audio": "top10/240.mp3"
+  },
+  {
+    "key": "\u4ea4\u97ff\u6a02\u5718",
+    "alt": "ji\u0101oxi\u01cengyu\u00e8tu\u00e1n (\u4ea4\u97ff\u6a02\u5718, \u4ea4\u54cd\u4e50\u56e2)",
+    "answer": "orchestra, symphony_orchestra, symphony orchestra, symphony, philharmonic",
+    "audio": "top10/241.mp3"
+  },
+  {
+    "key": "\u6b65\u884c",
+    "alt": "b\u00f9x\u00edng (\u6b65\u884c, \u6b65\u884c)",
+    "answer": "hoof it, tread, ambulate, leg it, foot, pedestrianize, footslog, tramp, go on foot, hoof, step, locomote, walk",
+    "audio": "top10/242.mp3"
+  },
+  {
+    "key": "\u809d\u786c\u5316",
+    "alt": "g\u0101ny\u00ecnghu\u00e0 (\u809d\u786c\u5316, \u809d\u786c\u5316)",
+    "answer": "cirrhosis of the liver, cirrhosis of liver",
+    "audio": "top10/243.mp3"
+  },
+  {
+    "key": "\u4f55\u8b02",
+    "alt": "h\u00e9w\u00e8i (\u4f55\u8b02, \u4f55\u8c13)",
+    "answer": "what is, what is the meaning of, what is meant by",
+    "audio": "top10/244.mp3"
+  },
+  {
+    "key": "\u4f5c\u5f0a",
+    "alt": "zu\u00f2b\u00ec (\u4f5c\u5f0a, \u4f5c\u5f0a)",
+    "answer": "indulge in corrupt practices, crib, cheat, fix, practice corruption, exam, misbehave, cheat on test, cheat on exam, corruption, practice fraud, practise fraud",
+    "audio": "top10/245.mp3"
+  },
+  {
+    "key": "\u4f54\u7528",
+    "alt": "zh\u00e0ny\u00f2ng (\u4f54\u7528, \u5360\u7528)",
+    "answer": "occupy, take over",
+    "audio": "top10/246.mp3"
+  },
+  {
+    "key": "\u4eab\u53d7\u5230",
+    "alt": "xi\u01cengsh\u00f2ud\u00e0o (\u4eab\u53d7\u5230, \u4eab\u53d7\u5230)",
+    "answer": "be able to enjoy",
+    "audio": "top10/247.mp3"
+  },
+  {
+    "key": "\u5468\u6069\u4f86",
+    "alt": "zh\u014du\u0113nl\u00e1i (\u5468\u6069\u4f86, \u5468\u6069\u6765)",
+    "answer": "first premier of PRC",
+    "audio": "top10/248.mp3"
+  },
+  {
+    "key": "\u897f\u74dc",
+    "alt": "x\u012bgu\u0101 (\u897f\u74dc, \u897f\u74dc)",
+    "answer": "water melon, watermelon",
+    "audio": "top10/249.mp3"
+  },
+  {
+    "key": "\u4f54\u7528",
+    "alt": "zh\u00e0ny\u00f2ng (\u4f54\u7528, \u4f54\u7528)",
+    "answer": "occupy, take over",
+    "audio": "top10/250.mp3"
+  },
+  {
+    "key": "\u5938\u514b",
+    "alt": "ku\u0101k\u00e8 (\u5938\u514b, \u5938\u514b)",
+    "answer": "quark",
+    "audio": "top10/251.mp3"
+  },
+  {
+    "key": "\u5993\u5973",
+    "alt": "j\u00ecn\u01d4 (\u5993\u5973, \u5993\u5973)",
+    "answer": "slattern, ho, cyprian, scrubber, bitch, hetaera, tootsie, bawd, lady of pleasure, girlie, demimonde, wench, working girl, floozie, sporting lady, fancy woman, streetwalker, nightwalker, prostitute, dickeybird, street_girl, harlot, hooker, street girl, light o'",
+    "audio": "top10/252.mp3"
+  },
+  {
+    "key": "\u54e5\u502b\u6bd4\u4e9e",
+    "alt": "g\u0113l\u00fanb\u01d0y\u01ce (\u54e5\u502b\u6bd4\u4e9e, \u54e5\u4f26\u6bd4\u4e9a)",
+    "answer": "Columbia, Colombia",
+    "audio": "top10/253.mp3"
+  },
+  {
+    "key": "\u526f\u8a5e",
+    "alt": "f\u00f9c\u00ed (\u526f\u8a5e, \u526f\u8bcd)",
+    "answer": "adverb",
+    "audio": "top10/254.mp3"
+  },
+  {
+    "key": "\u8ff7\u60d1",
+    "alt": "m\u00edhu\u00f2 (\u8ff7\u60d1, \u8ff7\u60d1)",
+    "answer": "puzzle, confuse, baffle",
+    "audio": "top10/255.mp3"
+  },
+  {
+    "key": "\u6642\u5206",
+    "alt": "sh\u00edf\u0113n (\u6642\u5206, \u65f6\u5206)",
+    "answer": "time",
+    "audio": "top10/256.mp3"
+  },
+  {
+    "key": "\u8ff4\u907f",
+    "alt": "hu\u00edb\u00ec (\u8ff4\u907f, \u8ff4\u907f)",
+    "answer": "evade, dodge, avoid meeting sb.",
+    "audio": "top10/257.mp3"
+  },
+  {
+    "key": "\u526f\u4e3b\u5e2d",
+    "alt": "f\u00f9zh\u01d4x\u00ed (\u526f\u4e3b\u5e2d, \u526f\u4e3b\u5e2d)",
+    "answer": "subchairman, croupier, vice chairman, vice chairman, cochairman",
+    "audio": "top10/258.mp3"
+  },
+  {
+    "key": "\u72f9\u5c0f",
+    "alt": "xi\u00e1xi\u01ceo (\u72f9\u5c0f, \u72ed\u5c0f)",
+    "answer": "narrow and small, narrow",
+    "audio": "top10/259.mp3"
+  },
+  {
+    "key": "\u796d\u7940",
+    "alt": "j\u00ecs\u00ec (\u796d\u7940, \u796d\u7940)",
+    "answer": "offer sacrifices to gods/ancestors",
+    "audio": "top10/260.mp3"
+  },
+  {
+    "key": "\u6642\u9593\u8868",
+    "alt": "sh\u00edji\u0101nbi\u01ceo (\u6642\u9593\u8868, \u65f6\u95f4\u8868)",
+    "answer": "time_sheet, schedule, timetable, time sheet",
+    "audio": "top10/261.mp3"
+  },
+  {
+    "key": "\u5e36\u8d70",
+    "alt": "d\u00e0iz\u01d2u (\u5e36\u8d70, \u5e26\u8d70)",
+    "answer": "take away",
+    "audio": "top10/262.mp3"
+  },
+  {
+    "key": "\u77e9\u9663",
+    "alt": "j\u01d4zh\u00e8n (\u77e9\u9663, \u77e9\u9635)",
+    "answer": "matrix, dot matrix",
+    "audio": "top10/263.mp3"
+  },
+  {
+    "key": "\u8a2a\u8ac7",
+    "alt": "f\u01cengt\u00e1n (\u8a2a\u8ac7, \u8bbf\u8c08)",
+    "answer": "interview",
+    "audio": "top10/264.mp3"
+  },
+  {
+    "key": "\u5272",
+    "alt": "g\u0113 (\u5272, \u5272)",
+    "answer": "hack, cut, fissure, slit, crop, slice, mow, carbonado",
+    "audio": "top10/265.mp3"
+  },
+  {
+    "key": "\u8ca9\u552e",
+    "alt": "f\u00e0nsh\u00f2u (\u8ca9\u552e, \u8d29\u552e)",
+    "answer": "deal, trade, sell, peddle",
+    "audio": "top10/266.mp3"
+  },
+  {
+    "key": "\u57f7\u610f",
+    "alt": "zh\u00edy\u00ec (\u57f7\u610f, \u6267\u610f)",
+    "answer": "insist on, be bent on",
+    "audio": "top10/267.mp3"
+  },
+  {
+    "key": "\u6258",
+    "alt": "tu\u014d (\u6258, \u6258)",
+    "answer": "hold in palm,  support from under,  serve as foil,  set off,  plead,  give as a pretext,  rely on,  entrust,  put lining in",
+    "audio": "top10/268.mp3"
+  },
+  {
+    "key": "\u526f\u6240\u9577",
+    "alt": "f\u00f9su\u01d2zh\u01ceng (\u526f\u6240\u9577, \u526f\u6240\u957f)",
+    "answer": "associate head of an institute/etc.",
+    "audio": "top10/269.mp3"
+  },
+  {
+    "key": "\u6ce1\u8336",
+    "alt": "p\u00e0och\u00e1 (\u6ce1\u8336, \u6ce1\u8336)",
+    "answer": "make tea",
+    "audio": "top10/270.mp3"
+  },
+  {
+    "key": "\u8a2d\u60f3",
+    "alt": "sh\u00e8xi\u01ceng (\u8a2d\u60f3, \u8bbe\u60f3)",
+    "answer": "imagine, assume, have consideration for",
+    "audio": "top10/271.mp3"
+  },
+  {
+    "key": "\u9752\u82b1",
+    "alt": "q\u012bnghu\u0101 (\u9752\u82b1, \u9752\u82b1)",
+    "answer": "blue and white porcelain",
+    "audio": "top10/272.mp3"
+  },
+  {
+    "key": "\u898f\u7ae0",
+    "alt": "gu\u012bzh\u0101ng (\u898f\u7ae0, \u89c4\u7ae0)",
+    "answer": "rules, rule, regulation, regulations, regs, observance",
+    "audio": "top10/273.mp3"
+  },
+  {
+    "key": "\u57ce\u7246",
+    "alt": "ch\u00e9ngqi\u00e1ng (\u57ce\u7246, \u57ce\u5899)",
+    "answer": "enceinte, city wall, rampart",
+    "audio": "top10/274.mp3"
+  },
+  {
+    "key": "\u7f8e\u5fb7",
+    "alt": "m\u011bid\u00e9 (\u7f8e\u5fb7, \u7f8e\u5fb7)",
+    "answer": "good, virtue, merit, goodness, virture, moral excellence, excellency",
+    "audio": "top10/275.mp3"
+  },
+  {
+    "key": "\u6309\u6469",
+    "alt": "\u00e0nm\u00f3 (\u6309\u6469, \u6309\u6469)",
+    "answer": "massage",
+    "audio": "top10/276.mp3"
+  },
+  {
+    "key": "\u6d41\u9732",
+    "alt": "li\u00fal\u00f9 (\u6d41\u9732, \u6d41\u9732)",
+    "answer": "betray/reveal unintentionally",
+    "audio": "top10/277.mp3"
+  },
+  {
+    "key": "\u7406\u4e8b\u6703",
+    "alt": "l\u01d0sh\u00echu\u00ec (\u7406\u4e8b\u6703, \u7406\u4e8b\u4f1a)",
+    "answer": "council, board of directors",
+    "audio": "top10/278.mp3"
+  },
+  {
+    "key": "\u722c\u5c71",
+    "alt": "p\u00e1sh\u0101n (\u722c\u5c71, \u722c\u5c71)",
+    "answer": "mountaineer, climb mountain, climb",
+    "audio": "top10/279.mp3"
+  },
+  {
+    "key": "\u62ef\u6551",
+    "alt": "zh\u011bngji\u00f9 (\u62ef\u6551, \u62ef\u6551)",
+    "answer": "spare, help, extricate, rescue, save, deliver",
+    "audio": "top10/280.mp3"
+  },
+  {
+    "key": "\u7f8e\u65b9",
+    "alt": "m\u011bif\u0101ng (\u7f8e\u65b9, \u7f8e\u65b9)",
+    "answer": "burro, USA authorities",
+    "audio": "top10/281.mp3"
+  },
+  {
+    "key": "\u7d00\u5f8b",
+    "alt": "j\u00ecl\u00f9 (\u7d00\u5f8b, \u7eaa\u5f8b)",
+    "answer": "disciplinary, discipline, ferule, morale, regime, laws and regulations",
+    "audio": "top10/282.mp3"
+  },
+  {
+    "key": "\u5a03\u5a03",
+    "alt": "w\u00e1w\u00e1 (\u5a03\u5a03, \u5a03\u5a03)",
+    "answer": "mammet, baby, doll, child",
+    "audio": "top10/283.mp3"
+  },
+  {
+    "key": "\u52c9\u52f5",
+    "alt": "mi\u01cenl\u00ec (\u52c9\u52f5, \u52c9\u52b1)",
+    "answer": "encourage, urge",
+    "audio": "top10/284.mp3"
+  },
+  {
+    "key": "\u589e\u8cc7",
+    "alt": "z\u0113ngz\u012b (\u589e\u8cc7, \u589e\u8d44)",
+    "answer": "increase capital",
+    "audio": "top10/285.mp3"
+  },
+  {
+    "key": "\u5b78\u8b58",
+    "alt": "xu\u00e9sh\u00ec (\u5b78\u8b58, \u5b66\u8bc6)",
+    "answer": "knowledge, learning, acquisition, reading, acquirement, attainment, literature, scholarly attainments, cognition, erudition, education, acquire, scholarship",
+    "audio": "top10/286.mp3"
+  },
+  {
+    "key": "\u6f0f\u6d1e",
+    "alt": "l\u00f2ud\u00f2ng (\u6f0f\u6d1e, \u6f0f\u6d1e)",
+    "answer": "leak, flow, hole, loophole",
+    "audio": "top10/287.mp3"
+  },
+  {
+    "key": "\u71df\u5340",
+    "alt": "y\u00edngq\u016b (\u71df\u5340, \u8425\u533a)",
+    "answer": "post",
+    "audio": "top10/288.mp3"
+  },
+  {
+    "key": "\u9810\u898b",
+    "alt": "y\u016bji\u00e0n (\u9810\u898b, \u9884\u89c1)",
+    "answer": "envision, predict, foresee, previse, foreknow, prefigure, envisage",
+    "audio": "top10/289.mp3"
+  },
+  {
+    "key": "\u9707\u52d5",
+    "alt": "zh\u00e8nd\u00f2ng (\u9707\u52d5, \u9707\u52a8)",
+    "answer": "shake, shock, vibrate",
+    "audio": "top10/290.mp3"
+  },
+  {
+    "key": "\u6182\u5fc3",
+    "alt": "y\u014dux\u012bn (\u6182\u5fc3, \u5fe7\u5fc3)",
+    "answer": "worried; anxious",
+    "audio": "top10/291.mp3"
+  },
+  {
+    "key": "\u61c9\u5c0d",
+    "alt": "y\u00ecngdu\u00ec (\u61c9\u5c0d, \u5e94\u5bf9)",
+    "answer": "reply,  answer",
+    "audio": "top10/292.mp3"
+  },
+  {
+    "key": "\u5614\u5410",
+    "alt": "\u01d2ut\u00f9 (\u5614\u5410, \u5455\u5410)",
+    "answer": "heave, barf, sick, puke, gag, vomit, cat, upchuck, reject, spew, vomitive, disgorge, bring_up, be sick, regorge, heave_up, throw up",
+    "audio": "top10/293.mp3"
+  },
+  {
+    "key": "\u8cea\u554f",
+    "alt": "zh\u00edw\u00e8n (\u8cea\u554f, \u8d28\u95ee)",
+    "answer": "interrogate, bombard, pose, heckle, call to account, inquire, interrogation, oppugn, question, quiz, ask",
+    "audio": "top10/294.mp3"
+  },
+  {
+    "key": "\u99d5\u8eca",
+    "alt": "ji\u00e0ch\u0113 (\u99d5\u8eca, \u9a7e\u8f66)",
+    "answer": "drive, drive a vehicle, drive a car",
+    "audio": "top10/295.mp3"
+  },
+  {
+    "key": "\u99d5",
+    "alt": "ji\u00e0 (\u99d5, \u9a7e)",
+    "answer": "harness,  draw cart/etc.",
+    "audio": "top10/296.mp3"
+  },
+  {
+    "key": "\u7de8\u78bc",
+    "alt": "bi\u0101nm\u01ce (\u7de8\u78bc, \u7f16\u7801)",
+    "answer": "compile",
+    "audio": "top10/297.mp3"
+  },
+  {
+    "key": "\u7de8\u73ed",
+    "alt": "bi\u0101nb\u0101n (\u7de8\u73ed, \u7f16\u73ed)",
+    "answer": "group into classes",
+    "audio": "top10/298.mp3"
+  },
+  {
+    "key": "\u7db1\u9818",
+    "alt": "g\u0101ngl\u01d0ng (\u7db1\u9818, \u7eb2\u9886)",
+    "answer": "summary, creed, programme, political program, political platform, guiding principle, digest, outline, program, platform",
+    "audio": "top10/299.mp3"
+  },
+  {
+    "key": "\u63db\u6210",
+    "alt": "hu\u00e0nch\u00e9ng (\u63db\u6210, \u6362\u6210)",
+    "answer": "change to",
+    "audio": "top10/300.mp3"
+  },
+  {
+    "key": "\u52e4\u52de",
+    "alt": "q\u00ednl\u00e1o (\u52e4\u52de, \u52e4\u52b3)",
+    "answer": "hardworking, ply, industrious",
+    "audio": "top10/301.mp3"
+  },
+  {
+    "key": "\u6728\u677f",
+    "alt": "m\u00f9b\u01cen (\u6728\u677f, \u6728\u677f)",
+    "answer": "batten, deal, board, plank, planch, softwood",
+    "audio": "top10/302.mp3"
+  },
+  {
+    "key": "\u958b\u92b7",
+    "alt": "k\u0101ixi\u0101o (\u958b\u92b7, \u5f00\u9500)",
+    "answer": "disbursal, expense, spending, outlay, disbursement, expense account",
+    "audio": "top10/303.mp3"
+  },
+  {
+    "key": "\u6f14\u9032",
+    "alt": "y\u01cenj\u00ecn (\u6f14\u9032, \u6f14\u8fdb)",
+    "answer": "evolve, progress gradually",
+    "audio": "top10/304.mp3"
+  },
+  {
+    "key": "\u50ac",
+    "alt": "cu\u012b (\u50ac, \u50ac)",
+    "answer": "urge, hurry, press, hasten, expedite",
+    "audio": "top10/305.mp3"
+  },
+  {
+    "key": "\u52df\u6b3e",
+    "alt": "m\u00f9ku\u01cen (\u52df\u6b3e, \u52df\u6b3e)",
+    "answer": "collection, fundraising",
+    "audio": "top10/306.mp3"
+  },
+  {
+    "key": "\u5584\u5f8c",
+    "alt": "sh\u00e0nh\u00f2u (\u5584\u5f8c, \u5584\u540e)",
+    "answer": "deal with aftermath",
+    "audio": "top10/307.mp3"
+  },
+  {
+    "key": "\u5fa9\u51fa",
+    "alt": "f\u00f9ch\u016b (\u5fa9\u51fa, \u590d\u51fa)",
+    "answer": "restart",
+    "audio": "top10/308.mp3"
+  },
+  {
+    "key": "\u9ed1\u6d1e",
+    "alt": "h\u0113id\u00f2ng (\u9ed1\u6d1e, \u9ed1\u6d1e)",
+    "answer": "dark cave/hole, black hole",
+    "audio": "top10/309.mp3"
+  },
+  {
+    "key": "\u8cbb\u6642",
+    "alt": "f\u00e8ish\u00ed (\u8cbb\u6642, \u8d39\u65f6)",
+    "answer": "take time, be time consuming",
+    "audio": "top10/310.mp3"
+  },
+  {
+    "key": "\u76df\u8ecd",
+    "alt": "m\u00e9ngj\u016bn (\u76df\u8ecd, \u76df\u519b)",
+    "answer": "Allies Forces, allied forces",
+    "audio": "top10/311.mp3"
+  },
+  {
+    "key": "\u611f\u89f8",
+    "alt": "g\u01cench\u00f9 (\u611f\u89f8, \u611f\u89e6)",
+    "answer": "feel, texture, sentiment, thoughts and feelings, feeling, tactile property",
+    "audio": "top10/312.mp3"
+  },
+  {
+    "key": "\u5c31\u91ab",
+    "alt": "ji\u00f9y\u012b (\u5c31\u91ab, \u5c31\u533b)",
+    "answer": "seek medical advice",
+    "audio": "top10/313.mp3"
+  },
+  {
+    "key": "\u5831\u8003",
+    "alt": "b\u00e0ok\u01ceo (\u5831\u8003, \u62a5\u8003)",
+    "answer": "enter oneself for an examination",
+    "audio": "top10/314.mp3"
+  },
+  {
+    "key": "\u7bc0\u7bc0",
+    "alt": "ji\u00e9ji\u00e9 (\u7bc0\u7bc0, \u8282\u8282)",
+    "answer": "one after another, step by step",
+    "audio": "top10/315.mp3"
+  },
+  {
+    "key": "\u71d5\u5b50",
+    "alt": "y\u00e0nzi (\u71d5\u5b50, \u71d5\u5b50)",
+    "answer": "barn_swallow, swallow",
+    "audio": "top10/316.mp3"
+  },
+  {
+    "key": "\u7d93\u6fdf\u5b78",
+    "alt": "j\u012bngj\u00ecxu\u00e9 (\u7d93\u6fdf\u5b78, \u7ecf\u6d4e\u5b66)",
+    "answer": "economics",
+    "audio": "top10/317.mp3"
+  },
+  {
+    "key": "\u93e1",
+    "alt": "j\u00ecng (\u93e1, \u955c)",
+    "answer": "mirror,  lens,  glass",
+    "audio": "top10/318.mp3"
+  },
+  {
+    "key": "\u5b50\u516c\u53f8",
+    "alt": "z\u01d0g\u014dngs\u012b (\u5b50\u516c\u53f8, \u5b50\u516c\u53f8)",
+    "answer": "subsidiary company, subsidiary corporation, subcompany, subsidiary",
+    "audio": "top10/319.mp3"
+  },
+  {
+    "key": "\u4e0b\u53f0",
+    "alt": "xi\u00e0t\u00e1i (\u4e0b\u53f0, \u4e0b\u53f0)",
+    "answer": "fall out of power, leave office, step down from the stage/platform",
+    "audio": "top10/320.mp3"
+  },
+  {
+    "key": "\u6253\u91cf",
+    "alt": "d\u01celi\u00e0ng (\u6253\u91cf, \u6253\u91cf)",
+    "answer": "estimate, conjecture, size up, reckon, look up and down, suppose, give the once over, think, look ... up and down, measure with the eye, give the eye, calculate",
+    "audio": "top10/321.mp3"
+  },
+  {
+    "key": "\u4eba\u9020",
+    "alt": "r\u00e9nz\u00e0o (\u4eba\u9020, \u4eba\u9020)",
+    "answer": "man made, synthetic, artificial",
+    "audio": "top10/322.mp3"
+  },
+  {
+    "key": "\u65b9\u624d",
+    "alt": "f\u0101ngc\u00e1i (\u65b9\u624d, \u65b9\u624d)",
+    "answer": "just now, a moment ago, not...until, just, only by",
+    "audio": "top10/323.mp3"
+  },
+  {
+    "key": "\u5e03\u7f6e",
+    "alt": "b\u00f9zh\u00ec (\u5e03\u7f6e, \u5e03\u7f6e)",
+    "answer": "dispose, embellish, arrange, set up, lay, assign, fix up, upholster",
+    "audio": "top10/324.mp3"
+  },
+  {
+    "key": "\u624b\u5e15",
+    "alt": "sh\u01d2up\u00e0 (\u624b\u5e15, \u624b\u5e15)",
+    "answer": "handkerchief",
+    "audio": "top10/325.mp3"
+  },
+  {
+    "key": "\u5317\u6295",
+    "alt": "b\u011bit\u00f3u (\u5317\u6295, \u5317\u6295)",
+    "answer": "Peitou",
+    "audio": "top10/326.mp3"
+  },
+  {
+    "key": "\u81e8",
+    "alt": "l\u00edn (\u81e8, \u4e34)",
+    "answer": "facing",
+    "audio": "top10/327.mp3"
+  },
+  {
+    "key": "\u516c\u4fe1\u529b",
+    "alt": "g\u014dngx\u00ecnl\u00ec (\u516c\u4fe1\u529b, \u516c\u4fe1\u529b)",
+    "answer": "trustworthiness, credit",
+    "audio": "top10/328.mp3"
+  },
+  {
+    "key": "\u9df9",
+    "alt": "y\u012bng (\u9df9, \u9e70)",
+    "answer": "hawk,  eagle,  falcon",
+    "audio": "top10/329.mp3"
+  },
+  {
+    "key": "\u700f\u89bd",
+    "alt": "li\u00fal\u01cen (\u700f\u89bd, \u6d4f\u89c8)",
+    "answer": "thumb, glance, riff, scan, riffle, leaf, riffle through, pass over, browse, dip_into, skim, skim through, run_through, flick, flip, dip into, glance over, peruse",
+    "audio": "top10/330.mp3"
+  },
+  {
+    "key": "\u96d6\u8aaa",
+    "alt": "su\u012bsu\u014d (\u96d6\u8aaa, \u867d\u8bf4)",
+    "answer": "conj.: though,  although",
+    "audio": "top10/331.mp3"
+  },
+  {
+    "key": "\u8e72",
+    "alt": "d\u016bn (\u8e72, \u8e72)",
+    "answer": "squat on heels,  stay",
+    "audio": "top10/332.mp3"
+  },
+  {
+    "key": "\u8b8a\u7570",
+    "alt": "bi\u00e0ny\u00ec (\u8b8a\u7570, \u53d8\u5f02)",
+    "answer": "variation",
+    "audio": "top10/333.mp3"
+  },
+  {
+    "key": "\u7ffb\u8b6f",
+    "alt": "f\u0101ny\u00ec (\u7ffb\u8b6f, \u7ffb\u8bd1)",
+    "answer": "translator,  interpreter",
+    "audio": "top10/334.mp3"
+  },
+  {
+    "key": "\u52a0\u88dd",
+    "alt": "ji\u0101zhu\u0101ng (\u52a0\u88dd, \u52a0\u88c5)",
+    "answer": "install, erect, fix, mount",
+    "audio": "top10/335.mp3"
+  },
+  {
+    "key": "\u53cd\u99c1",
+    "alt": "f\u01cenb\u00f3 (\u53cd\u99c1, \u53cd\u9a73)",
+    "answer": "refute, retort, negate",
+    "audio": "top10/336.mp3"
+  },
+  {
+    "key": "\u65d7\u5e5f",
+    "alt": "q\u00edzh\u00ec (\u65d7\u5e5f, \u65d7\u5e1c)",
+    "answer": "flag, stand, banner, colors, standard, colours, pennon, ensign, streamer, national flag, rallying point, signal flag",
+    "audio": "top10/337.mp3"
+  },
+  {
+    "key": "\u64e0\u6eff",
+    "alt": "j\u01d0m\u01cen (\u64e0\u6eff, \u6324\u6ee1)",
+    "answer": "swarm, crawl, filled to overflowing, jam, draw together, crowd, crowded, overcrowd, crowd together, throng",
+    "audio": "top10/338.mp3"
+  },
+  {
+    "key": "\u5171\u5b58",
+    "alt": "g\u00f2ngc\u00fan (\u5171\u5b58, \u5171\u5b58)",
+    "answer": "coexist",
+    "audio": "top10/339.mp3"
+  },
+  {
+    "key": "\u6587\u9769",
+    "alt": "w\u00e9ng\u00e9 (\u6587\u9769, \u6587\u9769)",
+    "answer": "Great Proletarian Cultural Revolution",
+    "audio": "top10/340.mp3"
+  },
+  {
+    "key": "\u8003\u53e4\u5b78\u5bb6",
+    "alt": "k\u01ceog\u01d4xu\u00e9ji\u0101 (\u8003\u53e4\u5b78\u5bb6, \u8003\u53e4\u5b66\u5bb6)",
+    "answer": "archeologist, archaeologist",
+    "audio": "top10/341.mp3"
+  },
+  {
+    "key": "\u4e3b\u5f9e",
+    "alt": "zh\u01d4c\u00f3ng (\u4e3b\u5f9e, \u4e3b\u4ece)",
+    "answer": "principal and subordinate",
+    "audio": "top10/342.mp3"
+  },
+  {
+    "key": "\u56de\u5831",
+    "alt": "hu\u00edb\u00e0o (\u56de\u5831, \u56de\u62a5)",
+    "answer": "repay, reciprocate, retaliate",
+    "audio": "top10/343.mp3"
+  },
+  {
+    "key": "\u516c\u7528",
+    "alt": "g\u014dngy\u00f2ng (\u516c\u7528, \u516c\u7528)",
+    "answer": "be for public use",
+    "audio": "top10/344.mp3"
+  },
+  {
+    "key": "\u5347\u9077",
+    "alt": "sh\u0113ngqi\u0101n (\u5347\u9077, \u5347\u8fc1)",
+    "answer": "be transferred and promoted",
+    "audio": "top10/345.mp3"
+  },
+  {
+    "key": "\u624b\u9336",
+    "alt": "sh\u01d2ubi\u01ceo (\u624b\u9336, \u624b\u8868)",
+    "answer": "wristwatch",
+    "audio": "top10/346.mp3"
+  },
+  {
+    "key": "\u5916\u5730",
+    "alt": "w\u00e0id\u00ec (\u5916\u5730, \u5916\u5730)",
+    "answer": "parts of the country other than where one is, place other than where one is",
+    "audio": "top10/347.mp3"
+  },
+  {
+    "key": "\u4ee3",
+    "alt": "d\u00e0i (\u4ee3, \u4ee3)",
+    "answer": "take the place of",
+    "audio": "top10/348.mp3"
+  },
+  {
+    "key": "\u5929\u5019",
+    "alt": "ti\u0101nh\u00f2u (\u5929\u5019, \u5929\u5019)",
+    "answer": "weather",
+    "audio": "top10/349.mp3"
+  },
+  {
+    "key": "\u5916\u982d",
+    "alt": "w\u00e0it\u00f3u (\u5916\u982d, \u5916\u5934)",
+    "answer": "outside, out",
+    "audio": "top10/350.mp3"
+  },
+  {
+    "key": "\u524d\u79d1",
+    "alt": "qi\u00e1nk\u0113 (\u524d\u79d1, \u524d\u79d1)",
+    "answer": "record, record of previous crime, previous criminal record, criminal record",
+    "audio": "top10/351.mp3"
+  },
+  {
+    "key": "\u820c\u982d",
+    "alt": "sh\u00e9tou5 (\u820c\u982d, \u820c\u5934)",
+    "answer": "lingua, clack, tongue, clapper, ability to talk, glossa, enemy soldier captured to extract inform, enemy soldier captured to extract information, an enemy soldier captured for the purpose of extra",
+    "audio": "top10/352.mp3"
+  },
+  {
+    "key": "\u6709\u6a5f",
+    "alt": "y\u01d2uj\u012b (\u6709\u6a5f, \u6709\u673a)",
+    "answer": "organic",
+    "audio": "top10/353.mp3"
+  },
+  {
+    "key": "\u653f\u58c7",
+    "alt": "zh\u00e8ngt\u00e1n (\u653f\u58c7, \u653f\u575b)",
+    "answer": "political circles",
+    "audio": "top10/354.mp3"
+  },
+  {
+    "key": "\u5ba3\u793a",
+    "alt": "xu\u0101nsh\u00ec (\u5ba3\u793a, \u5ba3\u793a)",
+    "answer": "announce, proclaim",
+    "audio": "top10/355.mp3"
+  },
+  {
+    "key": "\u6025\u5207",
+    "alt": "j\u00edqi\u00e8 (\u6025\u5207, \u6025\u5207)",
+    "answer": "eager, impatient, in a hurry, in haste",
+    "audio": "top10/356.mp3"
+  },
+  {
+    "key": "\u8ecc\u8de1",
+    "alt": "gu\u01d0j\u012b (\u8ecc\u8de1, \u8f68\u8ff9)",
+    "answer": "track, orbit, trail, locus",
+    "audio": "top10/357.mp3"
+  },
+  {
+    "key": "\u6771\u5357",
+    "alt": "d\u014dngn\u00e1n (\u6771\u5357, \u4e1c\u5357)",
+    "answer": "sou' east, Southeast China, southeast, SE",
+    "audio": "top10/358.mp3"
+  },
+  {
+    "key": "\u8fce\u9762",
+    "alt": "y\u00edngmi\u00e0n (\u8fce\u9762, \u8fce\u9762)",
+    "answer": "head on, face",
+    "audio": "top10/359.mp3"
+  },
+  {
+    "key": "\u4f11\u61a9",
+    "alt": "xi\u016bq\u00ec (\u4f11\u61a9, \u4f11\u61a9)",
+    "answer": "have/take a rest",
+    "audio": "top10/360.mp3"
+  },
+  {
+    "key": "\u54a6",
+    "alt": "y\u00ed (\u54a6, \u54a6)",
+    "answer": "of surprise/disapproval",
+    "audio": "top10/361.mp3"
+  },
+  {
+    "key": "\u5957\u7262",
+    "alt": "t\u00e0ol\u00e1o (\u5957\u7262, \u5957\u7262)",
+    "answer": "lock, lock up",
+    "audio": "top10/362.mp3"
+  },
+  {
+    "key": "\u7239",
+    "alt": "di\u0113 (\u7239, \u7239)",
+    "answer": "old man, father, papa, pappa, daddy, pa, pop, dada, dad, pater",
+    "audio": "top10/363.mp3"
+  },
+  {
+    "key": "\u5bae\u5ef7",
+    "alt": "g\u014dngt\u00edng (\u5bae\u5ef7, \u5bab\u5ef7)",
+    "answer": "royal, royal/imperial court, cupbearer, court, royal or imperial court, royal court, imperial court, palace",
+    "audio": "top10/364.mp3"
+  },
+  {
+    "key": "\u7802\u77f3\u8eca",
+    "alt": "sh\u0101sh\u00edch\u0113 (\u7802\u77f3\u8eca, \u7802\u77f3\u8f66)",
+    "answer": "sandstone car/truck",
+    "audio": "top10/365.mp3"
+  },
+  {
+    "key": "\u9650\u5b9a",
+    "alt": "xi\u00e0nd\u00ecng (\u9650\u5b9a, \u9650\u5b9a)",
+    "answer": "prescribe limit to, demarcate, specify, qualify, restrict, restriction, set limit to, specialize, prescribe a limit to, prescribe, prescribe/set limit to, set a limit to, restrain, delimitate, define, terminate, ration, determine, limit, delineate, delimit",
+    "audio": "top10/366.mp3"
+  },
+  {
+    "key": "\u5ead\u9662",
+    "alt": "t\u00edngyu\u00e0n (\u5ead\u9662, \u5ead\u9662)",
+    "answer": "mews, patio, area, court, courtyard, close, cortile, yard, garth, garden",
+    "audio": "top10/367.mp3"
+  },
+  {
+    "key": "\u5efa\u7acb\u8d77",
+    "alt": "ji\u00e0nl\u00ecq\u01d0 (\u5efa\u7acb\u8d77, \u5efa\u7acb\u8d77)",
+    "answer": "establish, set up, found",
+    "audio": "top10/368.mp3"
+  },
+  {
+    "key": "\u6295\u4e0b",
+    "alt": "t\u00f3uxi\u00e0 (\u6295\u4e0b, \u6295\u4e0b)",
+    "answer": "throw, drop, sink, fling, overhand",
+    "audio": "top10/369.mp3"
+  },
+  {
+    "key": "\u4e82\u8c61",
+    "alt": "lu\u00e0nxi\u00e0ng (\u4e82\u8c61, \u4e71\u8c61)",
+    "answer": "maze",
+    "audio": "top10/370.mp3"
+  },
+  {
+    "key": "\u7c3d",
+    "alt": "qi\u0101n (\u7c3d, \u7b7e)",
+    "answer": "sign,  autograph",
+    "audio": "top10/371.mp3"
+  },
+  {
+    "key": "\u5c16\u92b3",
+    "alt": "ji\u0101nru\u00ec (\u5c16\u92b3, \u5c16\u9510)",
+    "answer": "sharp pointed, sharpen, penetrate, acuminate, shrill, sharp, sharpened, intense, penetrating, piercing, incisive, acute",
+    "audio": "top10/372.mp3"
+  },
+  {
+    "key": "\u5217\u8209",
+    "alt": "li\u00e8j\u01d4 (\u5217\u8209, \u5217\u4e3e)",
+    "answer": "chronicle, cite item by item, specify, list, marshal, number, enumeration, article, particularize, rehearse, count, recite, enumerate, itemize",
+    "audio": "top10/373.mp3"
+  },
+  {
+    "key": "\u4f5c\u66f2",
+    "alt": "zu\u00f2q\u01d4 (\u4f5c\u66f2, \u4f5c\u66f2)",
+    "answer": "write music, compose",
+    "audio": "top10/374.mp3"
+  },
+  {
+    "key": "\u6ce2\u7063",
+    "alt": "b\u014dw\u0101n (\u6ce2\u7063, \u6ce2\u6e7e)",
+    "answer": "Persian Gulf",
+    "audio": "top10/375.mp3"
+  },
+  {
+    "key": "\u5e95\u5c64",
+    "alt": "d\u01d0c\u00e9ng (\u5e95\u5c64, \u5e95\u5c42)",
+    "answer": "first floor, understratum, bottom, underside, the lowest rung, first, undersurface, underlayer, ground level, ground floor, first/ground floor, substratum, first_floor, basement",
+    "audio": "top10/376.mp3"
+  },
+  {
+    "key": "\u5ef6\u9072",
+    "alt": "y\u00e1nch\u00ed (\u5ef6\u9072, \u5ef6\u8fdf)",
+    "answer": "delay, postpone",
+    "audio": "top10/377.mp3"
+  },
+  {
+    "key": "\u6536\u770b",
+    "alt": "sh\u014duk\u00e0n (\u6536\u770b, \u6536\u770b)",
+    "answer": "watch, tune in, watch e.g., receive, look in, watch",
+    "audio": "top10/378.mp3"
+  },
+  {
+    "key": "\u5954\u99b3",
+    "alt": "b\u0113nch\u00ed (\u5954\u99b3, \u5954\u9a70)",
+    "answer": "run quickly, speed",
+    "audio": "top10/379.mp3"
+  },
+  {
+    "key": "\u81ea\u53e4\u4ee5\u4f86",
+    "alt": "z\u00ecg\u01d4y\u01d0l\u00e1i (\u81ea\u53e4\u4ee5\u4f86, \u81ea\u53e4\u4ee5\u6765)",
+    "answer": "from time immemorial, since ancient times",
+    "audio": "top10/380.mp3"
+  },
+  {
+    "key": "\u5308\u7259\u5229",
+    "alt": "xi\u014dngy\u00e1l\u00ec (\u5308\u7259\u5229, \u5308\u7259\u5229)",
+    "answer": "Hungarian, Hungary",
+    "audio": "top10/381.mp3"
+  },
+  {
+    "key": "\u81ea\u884c\u8eca",
+    "alt": "z\u00ecx\u00edngch\u0113 (\u81ea\u884c\u8eca, \u81ea\u884c\u8f66)",
+    "answer": "two wheeler, roadster, machine, bicycle, wheel, push",
+    "audio": "top10/382.mp3"
+  },
+  {
+    "key": "\u8d70\u5eca",
+    "alt": "z\u01d2ul\u00e1ng (\u8d70\u5eca, \u8d70\u5eca)",
+    "answer": "slype, porch, hallway, foyer, corridor, hall, passageway, gallery, walkway, piazza, vestibule, ambulatory, verandah, alure, passage, aisle",
+    "audio": "top10/383.mp3"
+  },
+  {
+    "key": "\u8001\u592a\u5a46",
+    "alt": "l\u01ceot\u00e0ip\u00f3 (\u8001\u592a\u5a46, \u8001\u592a\u5a46)",
+    "answer": "beldame, old_woman, grandam, beldam, old woman, grimalkin",
+    "audio": "top10/384.mp3"
+  },
+  {
+    "key": "\u5728\u8077",
+    "alt": "z\u00e0izh\u00ed (\u5728\u8077, \u5728\u804c)",
+    "answer": "be on the job",
+    "audio": "top10/385.mp3"
+  },
+  {
+    "key": "\u9ad8\u58d3",
+    "alt": "g\u0101oy\u0101 (\u9ad8\u58d3, \u9ad8\u538b)",
+    "answer": "high pressure, high voltage/tension, coercion, tyranny",
+    "audio": "top10/386.mp3"
+  },
+  {
+    "key": "\u57fa\u9686\u5e02",
+    "alt": "j\u012bl\u00f3ngsh\u00ec (\u57fa\u9686\u5e02, \u57fa\u9686\u5e02)",
+    "answer": "Keelung city in Taiwan",
+    "audio": "top10/387.mp3"
+  },
+  {
+    "key": "\u7838",
+    "alt": "z\u00e1 (\u7838, \u7838)",
+    "answer": "tamp, bungle, failure, fall through, smash, pound, fail, break, be bungled, ram",
+    "audio": "top10/388.mp3"
+  },
+  {
+    "key": "\u6392\u884c\u699c",
+    "alt": "p\u00e1ih\u00e1ngb\u01ceng (\u6392\u884c\u699c, \u6392\u884c\u699c)",
+    "answer": "seniority among siblings",
+    "audio": "top10/389.mp3"
+  },
+  {
+    "key": "\u554f\u5230",
+    "alt": "w\u00e8nd\u00e0o (\u554f\u5230, \u95ee\u5230)",
+    "answer": "ask",
+    "audio": "top10/390.mp3"
+  },
+  {
+    "key": "\u7d71\u7c4c",
+    "alt": "t\u01d2ngch\u00f3u (\u7d71\u7c4c, \u7edf\u7b79)",
+    "answer": "plan as a whole",
+    "audio": "top10/391.mp3"
+  },
+  {
+    "key": "\u9583\u720d",
+    "alt": "sh\u01censhu\u00f2 (\u9583\u720d, \u95ea\u70c1)",
+    "answer": "twinkle, flicker, glisten",
+    "audio": "top10/392.mp3"
+  },
+  {
+    "key": "\u665a",
+    "alt": "w\u01cen (\u665a, \u665a)",
+    "answer": "m.[standard]",
+    "audio": "top10/393.mp3"
+  },
+  {
+    "key": "\u91ce\u72fc",
+    "alt": "y\u011bl\u00e1ng (\u91ce\u72fc, \u91ce\u72fc)",
+    "answer": "wolf",
+    "audio": "top10/394.mp3"
+  },
+  {
+    "key": "\u555f\u52d5",
+    "alt": "q\u01d0d\u00f2ng (\u555f\u52d5, \u542f\u52a8)",
+    "answer": "start",
+    "audio": "top10/395.mp3"
+  },
+  {
+    "key": "\u6d88\u8cbb\u6027",
+    "alt": "xi\u0101of\u00e8ix\u00ecng (\u6d88\u8cbb\u6027, \u6d88\u8d39\u6027)",
+    "answer": "consumption",
+    "audio": "top10/396.mp3"
+  },
+  {
+    "key": "\u8ff4\u97ff",
+    "alt": "hu\u00edxi\u01ceng (\u8ff4\u97ff, \u8ff4\u54cd)",
+    "answer": "echo",
+    "audio": "top10/397.mp3"
+  },
+  {
+    "key": "\u7d71\u7368",
+    "alt": "t\u01d2ngd\u00fa (\u7d71\u7368, \u7edf\u72ec)",
+    "answer": "consolidation and independence",
+    "audio": "top10/398.mp3"
+  },
+  {
+    "key": "\u5d17\u4f4d",
+    "alt": "g\u0101ngw\u00e8i (\u5d17\u4f4d, \u5c97\u4f4d)",
+    "answer": "post, station",
+    "audio": "top10/399.mp3"
+  },
+  {
+    "key": "\u5047\u88dd",
+    "alt": "ji\u01cezhu\u0101ng (\u5047\u88dd, \u5047\u88c5)",
+    "answer": "pretend, feign, simulate",
+    "audio": "top10/400.mp3"
+  },
+  {
+    "key": "\u9003\u9038",
+    "alt": "t\u00e1oy\u00ec (\u9003\u9038, \u9003\u9038)",
+    "answer": "run away, abscond",
+    "audio": "top10/401.mp3"
+  },
+  {
+    "key": "\u6025\u65bc",
+    "alt": "j\u00edy\u00fa (\u6025\u65bc, \u6025\u4e8e)",
+    "answer": "anxious, anxious to do sth.",
+    "audio": "top10/402.mp3"
+  },
+  {
+    "key": "\u4e9f\u5f85",
+    "alt": "j\u00edd\u00e0i (\u4e9f\u5f85, \u4e9f\u5f85)",
+    "answer": "earnestly expect",
+    "audio": "top10/403.mp3"
+  },
+  {
+    "key": "\u5f37\u884c",
+    "alt": "qi\u00e1ngx\u00edng (\u5f37\u884c, \u5f3a\u884c)",
+    "answer": "force",
+    "audio": "top10/404.mp3"
+  },
+  {
+    "key": "\u77e5\u6027",
+    "alt": "zh\u012bx\u00ecng (\u77e5\u6027, \u77e5\u6027)",
+    "answer": "intellectuality, nous",
+    "audio": "top10/405.mp3"
+  },
+  {
+    "key": "\u7a81",
+    "alt": "t\u00fa (\u7a81, \u7a81)",
+    "answer": "suddenly, abruptly",
+    "audio": "top10/406.mp3"
+  },
+  {
+    "key": "\u6392\u7403",
+    "alt": "p\u00e1iqi\u00fa (\u6392\u7403, \u6392\u7403)",
+    "answer": "volleyball",
+    "audio": "top10/407.mp3"
+  },
+  {
+    "key": "\u7701\u4e0b",
+    "alt": "sh\u011bngxi\u00e0 (\u7701\u4e0b, \u7701\u4e0b)",
+    "answer": "make unnecessary, save, save money",
+    "audio": "top10/408.mp3"
+  },
+  {
+    "key": "\u52d5\u8108",
+    "alt": "d\u00f2ngm\u00e0i (\u52d5\u8108, \u52a8\u8109)",
+    "answer": "artery",
+    "audio": "top10/409.mp3"
+  },
+  {
+    "key": "\u63a7\u544a",
+    "alt": "k\u00f2ngg\u00e0o (\u63a7\u544a, \u63a7\u544a)",
+    "answer": "charge, accuse",
+    "audio": "top10/410.mp3"
+  },
+  {
+    "key": "\u8349\u53e2",
+    "alt": "c\u01ceoc\u00f3ng (\u8349\u53e2, \u8349\u4e1b)",
+    "answer": "thick growth of grass",
+    "audio": "top10/411.mp3"
+  },
+  {
+    "key": "\u66f9",
+    "alt": "c\u00e1o (\u66f9, \u66f9)",
+    "answer": "Surname",
+    "audio": "top10/412.mp3"
+  },
+  {
+    "key": "\u9023",
+    "alt": "li\u00e1n (\u9023, \u8fde)",
+    "answer": "join, link, connect",
+    "audio": "top10/413.mp3"
+  },
+  {
+    "key": "\u526f\u7e3d\u88c1",
+    "alt": "f\u00f9z\u01d2ngc\u00e1i (\u526f\u7e3d\u88c1, \u526f\u603b\u88c1)",
+    "answer": "veep, vice president",
+    "audio": "top10/414.mp3"
+  },
+  {
+    "key": "\u9000\u4f0d",
+    "alt": "tu\u00ecw\u01d4 (\u9000\u4f0d, \u9000\u4f0d)",
+    "answer": "be demobilized",
+    "audio": "top10/415.mp3"
+  },
+  {
+    "key": "\u6df5\u6e90",
+    "alt": "yu\u0101nyu\u00e1n (\u6df5\u6e90, \u6e0a\u6e90)",
+    "answer": "origin, source",
+    "audio": "top10/416.mp3"
+  },
+  {
+    "key": "\u832b\u7136",
+    "alt": "m\u00e1ngr\u00e1n (\u832b\u7136, \u832b\u7136)",
+    "answer": "ignorant, in the dark",
+    "audio": "top10/417.mp3"
+  },
+  {
+    "key": "\u5f9e\u5bb9",
+    "alt": "c\u014dngr\u00f3ng (\u5f9e\u5bb9, \u4ece\u5bb9)",
+    "answer": "calm, unhurried, leisurely",
+    "audio": "top10/418.mp3"
+  },
+  {
+    "key": "\u5f35\u529b",
+    "alt": "zh\u0101ngl\u00ec (\u5f35\u529b, \u5f20\u529b)",
+    "answer": "tensility, tension, strain, pulling force, tensional",
+    "audio": "top10/419.mp3"
+  },
+  {
+    "key": "\u5d07\u9ad8",
+    "alt": "ch\u00f3ngg\u0101o (\u5d07\u9ad8, \u5d07\u9ad8)",
+    "answer": "lofty, sublime",
+    "audio": "top10/420.mp3"
+  },
+  {
+    "key": "\u5a5a\u524d",
+    "alt": "h\u016bnqi\u00e1n (\u5a5a\u524d, \u5a5a\u524d)",
+    "answer": "before marriage",
+    "audio": "top10/421.mp3"
+  },
+  {
+    "key": "\u904e\u591c",
+    "alt": "gu\u00f2y\u00e8 (\u904e\u591c, \u8fc7\u591c)",
+    "answer": "pass the night, stay overnight",
+    "audio": "top10/422.mp3"
+  },
+  {
+    "key": "\u5272\u79ae",
+    "alt": "g\u0113l\u01d0 (\u5272\u79ae, \u5272\u793c)",
+    "answer": "circumcision rite",
+    "audio": "top10/423.mp3"
+  },
+  {
+    "key": "\u958b\u63a1",
+    "alt": "k\u0101ic\u01cei (\u958b\u63a1, \u5f00\u91c7)",
+    "answer": "mine, extract, exploit",
+    "audio": "top10/424.mp3"
+  },
+  {
+    "key": "\u7576\u9762",
+    "alt": "d\u0101ngmi\u00e0n (\u7576\u9762, \u5f53\u9762)",
+    "answer": "directly, face_to_face, face to face, in one's presence",
+    "audio": "top10/425.mp3"
+  },
+  {
+    "key": "\u8996\u529b",
+    "alt": "sh\u00ecl\u00ec (\u8996\u529b, \u89c6\u529b)",
+    "answer": "eyeshot, eye, seeing, visual sense, view, beholding, visual perception, vision, visual modality, light, visual sensation, eyesight, sight, sightedness",
+    "audio": "top10/426.mp3"
+  },
+  {
+    "key": "\u7f6a\u540d",
+    "alt": "zu\u00ecm\u00edng (\u7f6a\u540d, \u7f6a\u540d)",
+    "answer": "charge, accusation",
+    "audio": "top10/427.mp3"
+  },
+  {
+    "key": "\u6ed1",
+    "alt": "hu\u00e1 (\u6ed1, \u6ed1)",
+    "answer": "slippery, smooth, cunning, crafty",
+    "audio": "top10/428.mp3"
+  },
+  {
+    "key": "\u6a21\u5177",
+    "alt": "m\u00f3j\u00f9 (\u6a21\u5177, \u6a21\u5177)",
+    "answer": "mould, pattern, mold, die, matrix",
+    "audio": "top10/429.mp3"
+  },
+  {
+    "key": "\u8a71\u8a9e",
+    "alt": "hu\u00e0y\u01d4 (\u8a71\u8a9e, \u8bdd\u8bed)",
+    "answer": "utterance, discourse, word, speech, spoken language, endearment, remark",
+    "audio": "top10/430.mp3"
+  },
+  {
+    "key": "\u8056\u706b",
+    "alt": "sh\u00e8nghu\u01d2 (\u8056\u706b, \u5723\u706b)",
+    "answer": "the holy torch",
+    "audio": "top10/431.mp3"
+  },
+  {
+    "key": "\u5beb\u5b57",
+    "alt": "xi\u011bz\u00ec (\u5beb\u5b57, \u5199\u5b57)",
+    "answer": "write characters",
+    "audio": "top10/432.mp3"
+  },
+  {
+    "key": "\u96fb\u5f71\u9662",
+    "alt": "di\u00e0ny\u01d0ngyu\u00e0n (\u96fb\u5f71\u9662, \u7535\u5f71\u9662)",
+    "answer": "cinema, movie house",
+    "audio": "top10/433.mp3"
+  },
+  {
+    "key": "\u8cdc",
+    "alt": "s\u00ec (\u8cdc, \u8d50)",
+    "answer": "favor, award, favour, grant",
+    "audio": "top10/434.mp3"
+  },
+  {
+    "key": "\u958f",
+    "alt": "r\u00f9n (\u958f, \u95f0)",
+    "answer": "intercalate",
+    "audio": "top10/435.mp3"
+  },
+  {
+    "key": "\u78da",
+    "alt": "zhu\u0101n (\u78da, \u7816)",
+    "answer": "brick",
+    "audio": "top10/436.mp3"
+  },
+  {
+    "key": "\u5104",
+    "alt": "y\u00ec (\u5104, \u4ebf)",
+    "answer": "det.: hundred million",
+    "audio": "top10/437.mp3"
+  },
+  {
+    "key": "\u8e0f\u51fa",
+    "alt": "t\u00e0ch\u016b (\u8e0f\u51fa, \u8e0f\u51fa)",
+    "answer": "stride forward",
+    "audio": "top10/438.mp3"
+  },
+  {
+    "key": "\u9280",
+    "alt": "y\u00edn (\u9280, \u94f6)",
+    "answer": "silver",
+    "audio": "top10/439.mp3"
+  },
+  {
+    "key": "\u89e3\u958b",
+    "alt": "ji\u011bk\u0101i (\u89e3\u958b, \u89e3\u5f00)",
+    "answer": "unknot, loose, uncouple, unbuckle, unyoke, reel off, disengage, unreel, unloosen, disentwine, detach, untie, unwreathe, unlock, ravel, disentangle, unbraid, unsnarl, unhook, unfasten, unwind, unroll, tease apart, loosen, unhitch, unlace, undone, tease, unwire, uncord, unwrap, unleash, unthread, undo, disassemble, ravel out, disconnect, unlink, sleave, untangle, unpack, puzzle_out, unbend, u",
+    "audio": "top10/440.mp3"
+  },
+  {
+    "key": "\u81c9\u9830",
+    "alt": "li\u01cenji\u00e1 (\u81c9\u9830, \u8138\u988a)",
+    "answer": "cheeks",
+    "audio": "top10/441.mp3"
+  },
+  {
+    "key": "\u7bb1",
+    "alt": "xi\u0101ng (\u7bb1, \u7bb1)",
+    "answer": "m.[container]",
+    "audio": "top10/442.mp3"
+  },
+  {
+    "key": "\u731c\u6e2c",
+    "alt": "c\u0101ic\u00e8 (\u731c\u6e2c, \u731c\u6d4b)",
+    "answer": "guess, surmise",
+    "audio": "top10/443.mp3"
+  },
+  {
+    "key": "\u50b3\u8aaa",
+    "alt": "chu\u00e1nshu\u014d (\u50b3\u8aaa, \u4f20\u8bf4)",
+    "answer": "it is said, they say",
+    "audio": "top10/444.mp3"
+  },
+  {
+    "key": "\u585e\u8eca",
+    "alt": "s\u0101ich\u0113 (\u585e\u8eca, \u585e\u8f66)",
+    "answer": "jam, traffic jam",
+    "audio": "top10/445.mp3"
+  },
+  {
+    "key": "\u5584\u65bc",
+    "alt": "sh\u00e0ny\u00fa (\u5584\u65bc, \u5584\u4e8e)",
+    "answer": "excel, surpass, stand out, be adept in, be good at",
+    "audio": "top10/446.mp3"
+  },
+  {
+    "key": "\u65b0\u578b",
+    "alt": "x\u012bnx\u00edng (\u65b0\u578b, \u65b0\u578b)",
+    "answer": "pattern, novelty, of new type",
+    "audio": "top10/447.mp3"
+  },
+  {
+    "key": "\u723d",
+    "alt": "shu\u01ceng (\u723d, \u723d)",
+    "answer": "comfortable",
+    "audio": "top10/448.mp3"
+  },
+  {
+    "key": "\u7763\u5c0e",
+    "alt": "d\u016bd\u01ceo (\u7763\u5c0e, \u7763\u5bfc)",
+    "answer": "superintend and direct",
+    "audio": "top10/449.mp3"
+  },
+  {
+    "key": "\u9223",
+    "alt": "g\u00e0i (\u9223, \u9499)",
+    "answer": "atomic number 20, calcium, Ca, calcic",
+    "audio": "top10/450.mp3"
+  },
+  {
+    "key": "\u904b\u52d5\u5834",
+    "alt": "y\u00f9nd\u00f2ngch\u00e1ng (\u904b\u52d5\u5834, \u8fd0\u52a8\u573a)",
+    "answer": "playground, sports, sports ground, ephebeion, athletic ground, course, schoolyard, pavilion, stadium, sports/athletic ground, athletic_field, park",
+    "audio": "top10/451.mp3"
+  },
+  {
+    "key": "\u767c\u5e03",
+    "alt": "f\u0101b\u00f9 (\u767c\u5e03, \u53d1\u5e03)",
+    "answer": "issue, announce",
+    "audio": "top10/452.mp3"
+  },
+  {
+    "key": "\u89e3\u6563",
+    "alt": "ji\u011bs\u00e0n (\u89e3\u6563, \u89e3\u6563)",
+    "answer": "disperse, dismiss, separate, disband, disincorporate, demobilize, disbandment, dissolve, usher out, let, unmerge, dismissal, break_up, demob, dissolution, break up",
+    "audio": "top10/453.mp3"
+  },
+  {
+    "key": "\u6e38",
+    "alt": "y\u00f3u (\u6e38, \u6e38)",
+    "answer": "swim, float, travel, rove",
+    "audio": "top10/454.mp3"
+  },
+  {
+    "key": "\u60f3\u5ff5",
+    "alt": "xi\u01cengni\u00e0n (\u60f3\u5ff5, \u60f3\u5ff5)",
+    "answer": "imagine, long to see again, remember with longing, think_of, miss, yearn",
+    "audio": "top10/455.mp3"
+  },
+  {
+    "key": "\u76de",
+    "alt": "zh\u01cen (\u76de, \u76cf)",
+    "answer": "m.[general]",
+    "audio": "top10/456.mp3"
+  },
+  {
+    "key": "\u7121\u6548",
+    "alt": "w\u00faxi\u00e0o (\u7121\u6548, \u65e0\u6548)",
+    "answer": "of/to no avail, null and void",
+    "audio": "top10/457.mp3"
+  },
+  {
+    "key": "\u5e73\u548c",
+    "alt": "p\u00edngh\u00e9 (\u5e73\u548c, \u5e73\u548c)",
+    "answer": "calm, pacify, composed, moderate, gentle",
+    "audio": "top10/458.mp3"
+  },
+  {
+    "key": "\u5e73\u6c11",
+    "alt": "p\u00edngm\u00edn (\u5e73\u6c11, \u5e73\u6c11)",
+    "answer": "vulgus, ragtag, commonality, third estate, plebe, populace, civvy, commoner, common people, rabble, the populace, multitude, ceorl, citizen, commonage, commonalty, common person, mister, roturier, plebeian, people, plebs, democracy, commons, the common people, mass, pleb, civilian, common man",
+    "audio": "top10/459.mp3"
+  },
+  {
+    "key": "\u5916\u8cc7",
+    "alt": "w\u00e0iz\u012b (\u5916\u8cc7, \u5916\u8d44)",
+    "answer": "foreign capital",
+    "audio": "top10/460.mp3"
+  },
+  {
+    "key": "\u7528\u6c34",
+    "alt": "y\u00f2ngshu\u01d0 (\u7528\u6c34, \u7528\u6c34)",
+    "answer": "water",
+    "audio": "top10/461.mp3"
+  },
+  {
+    "key": "\u4e0d\u9069",
+    "alt": "b\u00fash\u00ec (\u4e0d\u9069, \u4e0d\u9002)",
+    "answer": "unwell, indisposed",
+    "audio": "top10/462.mp3"
+  },
+  {
+    "key": "\u65e5\u4eba",
+    "alt": "r\u00ecr\u00e9n (\u65e5\u4eba, \u65e5\u4eba)",
+    "answer": "Japanese",
+    "audio": "top10/463.mp3"
+  },
+  {
+    "key": "\u4e0d\u50c5\u50c5",
+    "alt": "b\u00f9j\u01d0nj\u01d0n (\u4e0d\u50c5\u50c5, \u4e0d\u4ec5\u4ec5)",
+    "answer": "not only",
+    "audio": "top10/464.mp3"
+  },
+  {
+    "key": "\u807d\u89ba",
+    "alt": "t\u012bngju\u00e9 (\u807d\u89ba, \u542c\u89c9)",
+    "answer": "sense of hearing",
+    "audio": "top10/465.mp3"
+  },
+  {
+    "key": "\u5de5\u5546\u754c",
+    "alt": "g\u014dngsh\u0101ngji\u00e8 (\u5de5\u5546\u754c, \u5de5\u5546\u754c)",
+    "answer": "industrial and commercial circles",
+    "audio": "top10/466.mp3"
+  },
+  {
+    "key": "\u5f15\u8ff0",
+    "alt": "y\u01d0nsh\u00f9 (\u5f15\u8ff0, \u5f15\u8ff0)",
+    "answer": "cite, reference, quote, premise",
+    "audio": "top10/467.mp3"
+  },
+  {
+    "key": "\u51fa\u5c40",
+    "alt": "ch\u016bj\u00fa (\u51fa\u5c40, \u51fa\u5c40)",
+    "answer": "out, out of game",
+    "audio": "top10/468.mp3"
+  },
+  {
+    "key": "\u9a37\u52d5",
+    "alt": "s\u0101od\u00f2ng (\u9a37\u52d5, \u9a9a\u52a8)",
+    "answer": "become restless,  disturb,  upset",
+    "audio": "top10/469.mp3"
+  },
+  {
+    "key": "\u8b0e",
+    "alt": "m\u00ed (\u8b0e, \u8c1c)",
+    "answer": "puzzler, puzzle, rebus, crux, brain teaser, mystery, conundrum, riddle, puzzlement, sticker, enigma, parable",
+    "audio": "top10/470.mp3"
+  },
+  {
+    "key": "\u6ae5\u7a97",
+    "alt": "ch\u00fachu\u0101ng (\u6ae5\u7a97, \u6a71\u7a97)",
+    "answer": "show/display window,  showcase,  glass fronted billboard",
+    "audio": "top10/471.mp3"
+  },
+  {
+    "key": "\u6559\u8077",
+    "alt": "ji\u00e0ozh\u00ed (\u6559\u8077, \u6559\u804c)",
+    "answer": "teaching job",
+    "audio": "top10/472.mp3"
+  },
+  {
+    "key": "\u95d6",
+    "alt": "chu\u01ceng (\u95d6, \u95ef)",
+    "answer": "rush, temper oneself, charge, broke, cause, battle through, break, dash, temper oneself by battling difficulties",
+    "audio": "top10/473.mp3"
+  },
+  {
+    "key": "\u8a1d\u7570",
+    "alt": "y\u00e0y\u00ec (\u8a1d\u7570, \u8bb6\u5f02)",
+    "answer": "be surprised at",
+    "audio": "top10/474.mp3"
+  },
+  {
+    "key": "\u8b66\u63a2",
+    "alt": "j\u01d0ngt\u00e0n (\u8b66\u63a2, \u8b66\u63a2)",
+    "answer": "police detective",
+    "audio": "top10/475.mp3"
+  },
+  {
+    "key": "\u5929\u5b89\u9580",
+    "alt": "ti\u0101n\u0101nm\u00e9n (\u5929\u5b89\u9580, \u5929\u5b89\u95e8)",
+    "answer": "Tiananmen Square, Gate of Heavenly Peace, Tiananmen Square in Beijing",
+    "audio": "top10/476.mp3"
+  },
+  {
+    "key": "\u4e0d\u8a31",
+    "alt": "b\u00f9x\u01d4 (\u4e0d\u8a31, \u4e0d\u8bb8)",
+    "answer": "can't",
+    "audio": "top10/477.mp3"
+  },
+  {
+    "key": "\u69ae\u8000",
+    "alt": "r\u00f3ngy\u00e0o (\u69ae\u8000, \u8363\u8000)",
+    "answer": "honor, glory",
+    "audio": "top10/478.mp3"
+  },
+  {
+    "key": "\u7a3d\u67e5",
+    "alt": "j\u012bch\u00e1 (\u7a3d\u67e5, \u7a3d\u67e5)",
+    "answer": "check to prevent smuggling/etc.",
+    "audio": "top10/479.mp3"
+  },
+  {
+    "key": "\u8aa4\u6703",
+    "alt": "w\u00f9hu\u00ec (\u8aa4\u6703, \u8bef\u4f1a)",
+    "answer": "misunderstanding",
+    "audio": "top10/480.mp3"
+  },
+  {
+    "key": "\u9060\u65b9",
+    "alt": "yu\u01cenf\u0101ng (\u9060\u65b9, \u8fdc\u65b9)",
+    "answer": "distance, beyond, beyondness, distant place, corner",
+    "audio": "top10/481.mp3"
+  },
+  {
+    "key": "\u6f22\u5b50",
+    "alt": "h\u00e0nzi5 (\u6f22\u5b50, \u6c49\u5b50)",
+    "answer": "man, johnny, fellow, joker, husband",
+    "audio": "top10/482.mp3"
+  },
+  {
+    "key": "\u5edf\u5b87",
+    "alt": "mi\u00e0oy\u01d4 (\u5edf\u5b87, \u5e99\u5b87)",
+    "answer": "temple",
+    "audio": "top10/483.mp3"
+  },
+  {
+    "key": "\u6492",
+    "alt": "s\u0101 (\u6492, \u6492)",
+    "answer": "drop, throw off all restraint, strow, shower, spill, release, spread, sprinkle, let oneself go, asperse, cast, let out, bestrewn, dredge, sow, scatter, bescatter, let go",
+    "audio": "top10/484.mp3"
+  },
+  {
+    "key": "\u4e0d\u4f11",
+    "alt": "b\u00f9xi\u016b (\u4e0d\u4f11, \u4e0d\u4f11)",
+    "answer": "endlessly, ceaselessly",
+    "audio": "top10/485.mp3"
+  },
+  {
+    "key": "\u5316\u6210",
+    "alt": "hu\u00e0ch\u00e9ng (\u5316\u6210, \u5316\u6210)",
+    "answer": "become, resolve, change to",
+    "audio": "top10/486.mp3"
+  },
+  {
+    "key": "\u6b63\u5e38\u5316",
+    "alt": "zh\u0113ngch\u00e1nghu\u00e0 (\u6b63\u5e38\u5316, \u6b63\u5e38\u5316)",
+    "answer": "normalize",
+    "audio": "top10/487.mp3"
+  },
+  {
+    "key": "\u5976",
+    "alt": "n\u01cei (\u5976, \u5976)",
+    "answer": "breasts, milk",
+    "audio": "top10/488.mp3"
+  },
+  {
+    "key": "\u5c71\u8def",
+    "alt": "sh\u0101nl\u00f9 (\u5c71\u8def, \u5c71\u8def)",
+    "answer": "nek, pass, mountain road, mountain trail, ghaut, ghat",
+    "audio": "top10/489.mp3"
+  },
+  {
+    "key": "\u6b63\u898f",
+    "alt": "zh\u00e8nggu\u012b (\u6b63\u898f, \u6b63\u89c4)",
+    "answer": "regular, standard",
+    "audio": "top10/490.mp3"
+  },
+  {
+    "key": "\u751f\u614b\u7cfb",
+    "alt": "sh\u0113ngt\u00e0ix\u00ec (\u751f\u614b\u7cfb, \u751f\u6001\u7cfb)",
+    "answer": "ecosystem",
+    "audio": "top10/491.mp3"
+  },
+  {
+    "key": "\u4e3b\u6f14",
+    "alt": "zh\u01d4y\u01cen (\u4e3b\u6f14, \u4e3b\u6f14)",
+    "answer": "act leading role in play/film",
+    "audio": "top10/492.mp3"
+  },
+  {
+    "key": "\u7dca\u63a5\u8457",
+    "alt": "j\u01d0nji\u0113zhe5 (\u7dca\u63a5\u8457, \u7d27\u63a5\u7740)",
+    "answer": "follow close behind",
+    "audio": "top10/493.mp3"
+  },
+  {
+    "key": "\u4e0a\u5929",
+    "alt": "sh\u00e0ngti\u0101n (\u4e0a\u5929, \u4e0a\u5929)",
+    "answer": "Heaven, heaven, God, Providence",
+    "audio": "top10/494.mp3"
+  },
+  {
+    "key": "\u623f\u820d",
+    "alt": "f\u00e1ngsh\u00e8 (\u623f\u820d, \u623f\u820d)",
+    "answer": "house",
+    "audio": "top10/495.mp3"
+  },
+  {
+    "key": "\u5954\u6ce2",
+    "alt": "b\u0113nb\u014d (\u5954\u6ce2, \u5954\u6ce2)",
+    "answer": "rush about, be busy running about",
+    "audio": "top10/496.mp3"
+  },
+  {
+    "key": "\u897f\u85cf",
+    "alt": "x\u012bz\u00e0ng (\u897f\u85cf, \u897f\u85cf)",
+    "answer": "Tibet",
+    "audio": "top10/497.mp3"
+  },
+  {
+    "key": "\u540d\u5bb6",
+    "alt": "m\u00edngji\u0101 (\u540d\u5bb6, \u540d\u5bb6)",
+    "answer": "virtuoso, a person of academic or artistic distinction, artistic distinction, person of academic, virtuosi, person of academic/artistic distinction, famous expert, master, person of academic distinction, School of Logicians, person of artistic distinction",
+    "audio": "top10/498.mp3"
+  },
+  {
+    "key": "\u544a\u5225",
+    "alt": "g\u00e0obi\u00e9 (\u544a\u5225, \u544a\u522b)",
+    "answer": "valedictory, take_leave, part from, leave, parting, say good bye to, bid farewell to",
+    "audio": "top10/499.mp3"
+  },
+  {
+    "key": "\u81ea\u8cbb",
+    "alt": "z\u00ecf\u00e8i (\u81ea\u8cbb, \u81ea\u8d39)",
+    "answer": "at one's own expense, be at one's own expense",
+    "audio": "top10/500.mp3"
+  },
+  {
+    "key": "\u540c\u7b49",
+    "alt": "t\u00f3ngd\u011bng (\u540c\u7b49, \u540c\u7b49)",
+    "answer": "coequal, status, of same rank/status, on an equal footing, on an equal basis, of same class/rank/status, of same class, rank",
+    "audio": "top10/501.mp3"
+  },
+  {
+    "key": "\u75c5\u53cb",
+    "alt": "b\u00ecngy\u01d2u (\u75c5\u53cb, \u75c5\u53cb)",
+    "answer": "wardmate",
+    "audio": "top10/502.mp3"
+  },
+  {
+    "key": "\u76f4\u92b7",
+    "alt": "zh\u00edxi\u0101o (\u76f4\u92b7, \u76f4\u9500)",
+    "answer": "sell by manufacturer",
+    "audio": "top10/503.mp3"
+  },
+  {
+    "key": "\u9644\u5c6c",
+    "alt": "f\u00f9sh\u01d4 (\u9644\u5c6c, \u9644\u5c5e)",
+    "answer": "adjunct, belong, pertain, appertain, affiliated, be attached, attached, adjective, auxiliary, be affiliated, subsidiary",
+    "audio": "top10/504.mp3"
+  },
+  {
+    "key": "\u67e5\u51fa",
+    "alt": "ch\u00e1ch\u016b (\u67e5\u51fa, \u67e5\u51fa)",
+    "answer": "find, look_up, smell, investigate, find_out, find out, smoke_out, detect, track_down, smoke out, examine",
+    "audio": "top10/505.mp3"
+  },
+  {
+    "key": "\u6d41\u65bc",
+    "alt": "li\u00fay\u00fa (\u6d41\u65bc, \u6d41\u4e8e)",
+    "answer": "become",
+    "audio": "top10/506.mp3"
+  },
+  {
+    "key": "\u7a7a\u8abf",
+    "alt": "k\u014dngti\u00e1o (\u7a7a\u8abf, \u7a7a\u8c03)",
+    "answer": "air conditioner, air conditioning, air",
+    "audio": "top10/507.mp3"
+  },
+  {
+    "key": "\u82b1\u8cbb",
+    "alt": "hu\u0101f\u00e8i (\u82b1\u8cbb, \u82b1\u8d39)",
+    "answer": "expenditure, expenses",
+    "audio": "top10/508.mp3"
+  },
+  {
+    "key": "\u7701\u4e3b\u5e2d",
+    "alt": "sh\u011bngzh\u01d4x\u00ed (\u7701\u4e3b\u5e2d, \u7701\u4e3b\u5e2d)",
+    "answer": "governor of a province",
+    "audio": "top10/509.mp3"
+  },
+  {
+    "key": "\u82e6\u60f1",
+    "alt": "k\u01d4n\u01ceo (\u82e6\u60f1, \u82e6\u607c)",
+    "answer": "vexed, worried",
+    "audio": "top10/510.mp3"
+  },
+  {
+    "key": "\u62c9\u56de",
+    "alt": "l\u0101hu\u00ed (\u62c9\u56de, \u62c9\u56de)",
+    "answer": "pull back",
+    "audio": "top10/511.mp3"
+  },
+  {
+    "key": "\u77f3\u5668",
+    "alt": "sh\u00edq\u00ec (\u77f3\u5668, \u77f3\u5668)",
+    "answer": "eolith, stone artifact, stone vessel, artifact, stone implement/artifact, stone implement, stoneware",
+    "audio": "top10/512.mp3"
+  },
+  {
+    "key": "\u5ef6\u5f8c",
+    "alt": "y\u00e1nh\u00f2u (\u5ef6\u5f8c, \u5ef6\u540e)",
+    "answer": "postpone, delay",
+    "audio": "top10/513.mp3"
+  },
+  {
+    "key": "\u9676\u51b6",
+    "alt": "t\u00e1oy\u011b (\u9676\u51b6, \u9676\u51b6)",
+    "answer": "mold/shape character/taste/etc.",
+    "audio": "top10/514.mp3"
+  },
+  {
+    "key": "\u5954",
+    "alt": "b\u0113n (\u5954, \u5954)",
+    "answer": "hurry, rush, be getting on for, head for, flee, run, run quickly, approach, hasten, be getting close to, go straight towards",
+    "audio": "top10/515.mp3"
+  },
+  {
+    "key": "\u7f3a\u5e2d",
+    "alt": "qu\u0113x\u00ed (\u7f3a\u5e2d, \u7f3a\u5e2d)",
+    "answer": "be absent from meeting/etc.",
+    "audio": "top10/516.mp3"
+  },
+  {
+    "key": "\u81ea\u8c6a",
+    "alt": "z\u00ech\u00e1o (\u81ea\u8c6a, \u81ea\u8c6a)",
+    "answer": "pride, pride oneself on",
+    "audio": "top10/517.mp3"
+  },
+  {
+    "key": "\u5b89\u990a",
+    "alt": "\u0101ny\u01ceng (\u5b89\u990a, \u5b89\u517b)",
+    "answer": "live out life in retirement, provide for the aged",
+    "audio": "top10/518.mp3"
+  },
+  {
+    "key": "\u767e\u5206\u6bd4",
+    "alt": "b\u01ceif\u0113nb\u01d0 (\u767e\u5206\u6bd4, \u767e\u5206\u6bd4)",
+    "answer": "percent, per centum, pct, percentage, percent age",
+    "audio": "top10/519.mp3"
+  },
+  {
+    "key": "\u52a9\u529b",
+    "alt": "zh\u00f9l\u00ec (\u52a9\u529b, \u52a9\u529b)",
+    "answer": "ministry, aid, helping hand, assistance, help, instrumentality",
+    "audio": "top10/520.mp3"
+  },
+  {
+    "key": "\u5982\u662f",
+    "alt": "r\u00fash\u00ec (\u5982\u662f, \u5982\u662f)",
+    "answer": "in this way",
+    "audio": "top10/521.mp3"
+  },
+  {
+    "key": "\u5e74\u521d",
+    "alt": "ni\u00e1nch\u016b (\u5e74\u521d, \u5e74\u521d)",
+    "answer": "beginning of year",
+    "audio": "top10/522.mp3"
+  },
+  {
+    "key": "\u540d\u5c07",
+    "alt": "m\u00edngji\u00e0ng (\u540d\u5c07, \u540d\u5c06)",
+    "answer": "famous general, great soldier",
+    "audio": "top10/523.mp3"
+  },
+  {
+    "key": "\u897f\u5f0f",
+    "alt": "x\u012bsh\u00ec (\u897f\u5f0f, \u897f\u5f0f)",
+    "answer": "Western, Western style",
+    "audio": "top10/524.mp3"
+  },
+  {
+    "key": "\u826f\u591a",
+    "alt": "li\u00e1ngdu\u014d (\u826f\u591a, \u826f\u591a)",
+    "answer": "very much, numerous",
+    "audio": "top10/525.mp3"
+  },
+  {
+    "key": "\u4ea4\u901a\u5c40",
+    "alt": "ji\u0101ot\u014dngj\u00fa (\u4ea4\u901a\u5c40, \u4ea4\u901a\u5c40)",
+    "answer": "Traffic Bureau",
+    "audio": "top10/526.mp3"
+  },
+  {
+    "key": "\u4f7f\u547d\u611f",
+    "alt": "sh\u01d0m\u00ecngg\u01cen (\u4f7f\u547d\u611f, \u4f7f\u547d\u611f)",
+    "answer": "mission",
+    "audio": "top10/527.mp3"
+  },
+  {
+    "key": "\u6ce8\u5165",
+    "alt": "zh\u00f9r\u00f9 (\u6ce8\u5165, \u6ce8\u5165)",
+    "answer": "inject, mainline, infuse, teem, impregnate, inflood, implant, pump, pour, funnel, pour into, inspire, pour/empty into, influx, empty into, breathe, empty, immit",
+    "audio": "top10/528.mp3"
+  },
+  {
+    "key": "\u5408\u529b",
+    "alt": "h\u00e9l\u00ec (\u5408\u529b, \u5408\u529b)",
+    "answer": "make concerted efforts",
+    "audio": "top10/529.mp3"
+  },
+  {
+    "key": "\u81ea\u89ba",
+    "alt": "z\u00ecju\u00e9 (\u81ea\u89ba, \u81ea\u89c9)",
+    "answer": "self awareness/consciousness",
+    "audio": "top10/530.mp3"
+  },
+  {
+    "key": "\u767d\u5bae",
+    "alt": "b\u00e1ig\u014dng (\u767d\u5bae, \u767d\u5bab)",
+    "answer": "White House",
+    "audio": "top10/531.mp3"
+  },
+  {
+    "key": "\u758f\u96e2",
+    "alt": "sh\u016bl\u00ed (\u758f\u96e2, \u758f\u79bb)",
+    "answer": "estranged",
+    "audio": "top10/532.mp3"
+  },
+  {
+    "key": "\u901b\u8857",
+    "alt": "ji\u0113 (\u901b\u8857, \u901b\u8857)",
+    "answer": "stroll around the street, window shop",
+    "audio": "top10/533.mp3"
+  },
+  {
+    "key": "\u6838",
+    "alt": "h\u00e9 (\u6838, \u6838)",
+    "answer": "pit, nuclear, nucleus, nut, sth. resembling a fruit stone, stone, core, nucleolus, hilum, kernel",
+    "audio": "top10/534.mp3"
+  },
+  {
+    "key": "\u8349\u576a",
+    "alt": "c\u01ceop\u00edng (\u8349\u576a, \u8349\u576a)",
+    "answer": "lawn",
+    "audio": "top10/535.mp3"
+  },
+  {
+    "key": "\u822a\u884c",
+    "alt": "h\u00e1ngx\u00edng (\u822a\u884c, \u822a\u884c)",
+    "answer": "sail, fly",
+    "audio": "top10/536.mp3"
+  },
+  {
+    "key": "\u6df1\u5207",
+    "alt": "sh\u0113nqi\u00e8 (\u6df1\u5207, \u6df1\u5207)",
+    "answer": "heartfelt, deep, profound",
+    "audio": "top10/537.mp3"
+  },
+  {
+    "key": "\u7d2e\u5be6",
+    "alt": "z\u0101sh\u00ed (\u7d2e\u5be6, \u7d2e\u5b9e)",
+    "answer": "sturdy, strong, solid, sound",
+    "audio": "top10/538.mp3"
+  },
+  {
+    "key": "\u504f",
+    "alt": "pi\u0101n (\u504f, \u504f)",
+    "answer": "be partial to",
+    "audio": "top10/539.mp3"
+  },
+  {
+    "key": "\u5eb7\u7199",
+    "alt": "k\u0101ngx\u012b (\u5eb7\u7199, \u5eb7\u7199)",
+    "answer": "period of emperor Shengzu, K'ang hsi, period",
+    "audio": "top10/540.mp3"
+  },
+  {
+    "key": "\u63a2\u96aa",
+    "alt": "t\u00e0nxi\u01cen (\u63a2\u96aa, \u63a2\u9669)",
+    "answer": "explore, adventure",
+    "audio": "top10/541.mp3"
+  },
+  {
+    "key": "\u5a66\u904b",
+    "alt": "f\u00f9y\u00f9n (\u5a66\u904b, \u5987\u8fd0)",
+    "answer": "campaign for woman's rights",
+    "audio": "top10/542.mp3"
+  },
+  {
+    "key": "\u52d5\u8f12",
+    "alt": "d\u00f2ngzh\u00e9 (\u52d5\u8f12, \u52a8\u8f84)",
+    "answer": "always, at every turn, frequently, often, easily",
+    "audio": "top10/543.mp3"
+  },
+  {
+    "key": "\u770b\u51fa\u4f86",
+    "alt": "k\u00e0nch\u016bl\u00e1i (\u770b\u51fa\u4f86, \u770b\u51fa\u6765)",
+    "answer": "find out",
+    "audio": "top10/544.mp3"
+  },
+  {
+    "key": "\u6df1\u5c71",
+    "alt": "sh\u0113nsh\u0101n (\u6df1\u5c71, \u6df1\u5c71)",
+    "answer": "romote mountain, remote mountains",
+    "audio": "top10/545.mp3"
+  },
+  {
+    "key": "\u80cc\u90e8",
+    "alt": "b\u00e8ib\u00f9 (\u80cc\u90e8, \u80cc\u90e8)",
+    "answer": "rear, back",
+    "audio": "top10/546.mp3"
+  },
+  {
+    "key": "\u80f8\u90e8",
+    "alt": "xi\u014dngb\u00f9 (\u80f8\u90e8, \u80f8\u90e8)",
+    "answer": "chest, breast, thorax",
+    "audio": "top10/547.mp3"
+  },
+  {
+    "key": "\u6025\u5fd9",
+    "alt": "j\u00edm\u00e1ng (\u6025\u5fd9, \u6025\u5fd9)",
+    "answer": "in haste, hurriedly",
+    "audio": "top10/548.mp3"
+  },
+  {
+    "key": "\u660e\u6708",
+    "alt": "m\u00edngyu\u00e8 (\u660e\u6708, \u660e\u6708)",
+    "answer": "bright moon, legendary luminous pearl",
+    "audio": "top10/549.mp3"
+  },
+  {
+    "key": "\u80e1\u7434",
+    "alt": "h\u00faq\u00edn (\u80e1\u7434, \u80e1\u7434)",
+    "answer": "two string bowed instruments",
+    "audio": "top10/550.mp3"
+  },
+  {
+    "key": "\u9802",
+    "alt": "d\u01d0ng (\u9802, \u9876)",
+    "answer": "m.[general]",
+    "audio": "top10/551.mp3"
+  },
+  {
+    "key": "\u5c04\u7bad",
+    "alt": "sh\u00e8ji\u00e0n (\u5c04\u7bad, \u5c04\u7bad)",
+    "answer": "shoot an arrow, shoot, shoot arrow",
+    "audio": "top10/552.mp3"
+  },
+  {
+    "key": "\u6d36\u6e67",
+    "alt": "xi\u014dngy\u01d2ng (\u6d36\u6e67, \u6c79\u6e67)",
+    "answer": "boil, tempestuous, jaw, seethe, tide, billow, popple, turbulent, surge, welter",
+    "audio": "top10/553.mp3"
+  },
+  {
+    "key": "\u5c04\u64ca",
+    "alt": "sh\u00e8j\u00ed (\u5c04\u64ca, \u5c04\u51fb)",
+    "answer": "shoot, fire",
+    "audio": "top10/554.mp3"
+  },
+  {
+    "key": "\u5e38\u52d9",
+    "alt": "ch\u00e1ngw\u00f9 (\u5e38\u52d9, \u5e38\u52a1)",
+    "answer": "executive, standing",
+    "audio": "top10/555.mp3"
+  },
+  {
+    "key": "\u9ad8\u8073",
+    "alt": "g\u0101os\u01d2ng (\u9ad8\u8073, \u9ad8\u8038)",
+    "answer": "stand tall and erect, tower",
+    "audio": "top10/556.mp3"
+  },
+  {
+    "key": "\u53db\u4e82",
+    "alt": "p\u00e0nlu\u00e0n (\u53db\u4e82, \u53db\u4e71)",
+    "answer": "mutiny, revolt",
+    "audio": "top10/557.mp3"
+  },
+  {
+    "key": "\u76d2\u5b50",
+    "alt": "h\u00e9zi5 (\u76d2\u5b50, \u76d2\u5b50)",
+    "answer": "box, case, casket",
+    "audio": "top10/558.mp3"
+  },
+  {
+    "key": "\u62b5\u5236",
+    "alt": "d\u01d0zh\u00ec (\u62b5\u5236, \u62b5\u5236)",
+    "answer": "boycott",
+    "audio": "top10/559.mp3"
+  },
+  {
+    "key": "\u795e\u7236",
+    "alt": "sh\u00e9nf\u00f9 (\u795e\u7236, \u795e\u7236)",
+    "answer": "Church Father, father, pastor, soutane, Pere, Padre, padre, Abba, priest, divine, anba, abbe, Father",
+    "audio": "top10/560.mp3"
+  },
+  {
+    "key": "\u822a\u6b0a",
+    "alt": "h\u00e1ngqu\u00e1n (\u822a\u6b0a, \u822a\u6743)",
+    "answer": "air rights",
+    "audio": "top10/561.mp3"
+  },
+  {
+    "key": "\u611b\u60dc",
+    "alt": "\u00e0ix\u00ed (\u611b\u60dc, \u7231\u60dc)",
+    "answer": "cherish, treasure",
+    "audio": "top10/562.mp3"
+  },
+  {
+    "key": "\u9810\u671f",
+    "alt": "y\u016bq\u00ed (\u9810\u671f, \u9884\u671f)",
+    "answer": "expectation",
+    "audio": "top10/563.mp3"
+  },
+  {
+    "key": "\u9810\u552e",
+    "alt": "y\u016bsh\u00f2u (\u9810\u552e, \u9884\u552e)",
+    "answer": "sell in advance",
+    "audio": "top10/564.mp3"
+  },
+  {
+    "key": "\u58ae\u843d",
+    "alt": "du\u00f2lu\u00f2 (\u58ae\u843d, \u5815\u843d)",
+    "answer": "degenerate, sink low",
+    "audio": "top10/565.mp3"
+  },
+  {
+    "key": "\u5bdf\u89ba",
+    "alt": "ch\u00e1ju\u00e9 (\u5bdf\u89ba, \u5bdf\u89c9)",
+    "answer": "realize, be aware",
+    "audio": "top10/566.mp3"
+  },
+  {
+    "key": "\u775c",
+    "alt": "zh\u0113ng (\u775c, \u7741)",
+    "answer": "open, open the eyes",
+    "audio": "top10/567.mp3"
+  },
+  {
+    "key": "\u8f2a\u5ed3",
+    "alt": "l\u00fanku\u00f2 (\u8f2a\u5ed3, \u8f6e\u5ed3)",
+    "answer": "outline, contour, rough sketch",
+    "audio": "top10/568.mp3"
+  },
+  {
+    "key": "\u6230\u8853",
+    "alt": "zh\u00e0nsh\u00f9 (\u6230\u8853, \u6218\u672f)",
+    "answer": "tactical, war, tactics, military tactics, tactic, swordcraft",
+    "audio": "top10/569.mp3"
+  },
+  {
+    "key": "\u8f2a\u5230",
+    "alt": "l\u00fand\u00e0o (\u8f2a\u5230, \u8f6e\u5230)",
+    "answer": "it will be sb's turn, go, be sb.'s turn to do sth., move",
+    "audio": "top10/570.mp3"
+  },
+  {
+    "key": "\u7ba1\u7406\u5c40",
+    "alt": "gu\u01cenl\u01d0j\u00fa (\u7ba1\u7406\u5c40, \u7ba1\u7406\u5c40)",
+    "answer": "management, administration, conservancy, management office",
+    "audio": "top10/571.mp3"
+  },
+  {
+    "key": "\u6a5f\u7de3",
+    "alt": "j\u012byu\u00e1n (\u6a5f\u7de3, \u673a\u7f18)",
+    "answer": "circumstance, lucky chance, good luck, chance",
+    "audio": "top10/572.mp3"
+  },
+  {
+    "key": "\u7a31\u5f97\u4e0a",
+    "alt": "ch\u0113ngde5sh\u00e0ng (\u7a31\u5f97\u4e0a, \u79f0\u5f97\u4e0a)",
+    "answer": "nominate, can be rated as...",
+    "audio": "top10/573.mp3"
+  },
+  {
+    "key": "\u78e8",
+    "alt": "m\u00f3 (\u78e8, \u78e8)",
+    "answer": "grind,  mill,  turn round/about",
+    "audio": "top10/574.mp3"
+  },
+  {
+    "key": "\u756b\u51fa",
+    "alt": "hu\u00e0ch\u016b (\u756b\u51fa, \u753b\u51fa)",
+    "answer": "paint",
+    "audio": "top10/575.mp3"
+  },
+  {
+    "key": "\u81fa\u5357\u5e02",
+    "alt": "t\u00e1in\u00e1nsh\u00ec (\u81fa\u5357\u5e02, \u53f0\u5357\u5e02)",
+    "answer": "Tainan",
+    "audio": "top10/576.mp3"
+  },
+  {
+    "key": "\u8aaa\u660e\u66f8",
+    "alt": "shu\u014dm\u00edngsh\u016b (\u8aaa\u660e\u66f8, \u8bf4\u660e\u4e66)",
+    "answer": "technical",
+    "audio": "top10/577.mp3"
+  },
+  {
+    "key": "\u6975\u9650",
+    "alt": "j\u00edxi\u00e0n (\u6975\u9650, \u6781\u9650)",
+    "answer": "breaking point, level best, utmost, limit/maximum, maximum, bounds, extreme, limitation, outside, boundary, uttermost, breaking_point, extremity, upper limit, limit",
+    "audio": "top10/578.mp3"
+  },
+  {
+    "key": "\u6c34\u6676",
+    "alt": "shu\u01d0j\u012bng (\u6c34\u6676, \u6c34\u6676)",
+    "answer": "quartz, rock crystal, rock_crystal, rhinestone, crystal, pebble",
+    "audio": "top10/579.mp3"
+  },
+  {
+    "key": "\u5716\u66f8\u5ba4",
+    "alt": "t\u00fash\u016bsh\u00ec (\u5716\u66f8\u5ba4, \u56fe\u4e66\u5ba4)",
+    "answer": "bibliotheca, morgue, library, reading room",
+    "audio": "top10/580.mp3"
+  },
+  {
+    "key": "\u65cb\u8f49",
+    "alt": "xu\u00e1nzhu\u01cen (\u65cb\u8f49, \u65cb\u8f6c)",
+    "answer": "revolve, gyrate, spin",
+    "audio": "top10/581.mp3"
+  },
+  {
+    "key": "\u63d2\u5165",
+    "alt": "ch\u0101r\u00f9 (\u63d2\u5165, \u63d2\u5165)",
+    "answer": "insert",
+    "audio": "top10/582.mp3"
+  },
+  {
+    "key": "\u52d8\u67e5",
+    "alt": "k\u0101nch\u00e1 (\u52d8\u67e5, \u52d8\u67e5)",
+    "answer": "reconnoiter, prospect",
+    "audio": "top10/583.mp3"
+  },
+  {
+    "key": "\u7121\u7570",
+    "alt": "w\u00fay\u00ec (\u7121\u7570, \u65e0\u5f02)",
+    "answer": "just like, same as",
+    "audio": "top10/584.mp3"
+  },
+  {
+    "key": "\u60f9",
+    "alt": "r\u011b (\u60f9, \u60f9)",
+    "answer": "provoke",
+    "audio": "top10/585.mp3"
+  },
+  {
+    "key": "\u8ddf\u8e64",
+    "alt": "g\u0113nz\u014dng (\u8ddf\u8e64, \u8ddf\u8e2a)",
+    "answer": "track",
+    "audio": "top10/586.mp3"
+  },
+  {
+    "key": "\u6436\u8cfc",
+    "alt": "qi\u01cengg\u00f2u (\u6436\u8cfc, \u62a2\u8d2d)",
+    "answer": "rush to purchase",
+    "audio": "top10/587.mp3"
+  },
+  {
+    "key": "\u7d2b\u5916\u7dda",
+    "alt": "z\u01d0w\u00e0ixi\u00e0n (\u7d2b\u5916\u7dda, \u7d2b\u5916\u7ebf)",
+    "answer": "sunray, ultraviolet radiation, ultraviolet light, ultraviolet illumination, UV, ultraviolet, ultraviolet ray",
+    "audio": "top10/588.mp3"
+  },
+  {
+    "key": "\u98f2\u7528",
+    "alt": "y\u01d0ny\u00f2ng (\u98f2\u7528, \u996e\u7528)",
+    "answer": "drink",
+    "audio": "top10/589.mp3"
+  },
+  {
+    "key": "\u7121\u52a9",
+    "alt": "w\u00fazh\u00f9 (\u7121\u52a9, \u65e0\u52a9)",
+    "answer": "unassisted, helpless",
+    "audio": "top10/590.mp3"
+  },
+  {
+    "key": "\u671d\u91ce",
+    "alt": "ch\u00e1oy\u011b (\u671d\u91ce, \u671d\u91ce)",
+    "answer": "court and commonality, government and public, governing party and opposition",
+    "audio": "top10/591.mp3"
+  },
+  {
+    "key": "\u8aa0\u5982",
+    "alt": "ch\u00e9ngr\u00fa (\u8aa0\u5982, \u8bda\u5982)",
+    "answer": "like, as",
+    "audio": "top10/592.mp3"
+  },
+  {
+    "key": "\u904e\u5206",
+    "alt": "gu\u00f2f\u00e8n (\u904e\u5206, \u8fc7\u5206)",
+    "answer": "excessively, over",
+    "audio": "top10/593.mp3"
+  },
+  {
+    "key": "\u5589\u56a8",
+    "alt": "h\u00f3ul\u00f3ng (\u5589\u56a8, \u5589\u5499)",
+    "answer": "throat",
+    "audio": "top10/594.mp3"
+  },
+  {
+    "key": "\u6c34\u6d41",
+    "alt": "shu\u01d0li\u00fa (\u6c34\u6d41, \u6c34\u6d41)",
+    "answer": "water, stream, streams, waters, rivers, current, river, flow",
+    "audio": "top10/595.mp3"
+  },
+  {
+    "key": "\u4ed9",
+    "alt": "xi\u0101n (\u4ed9, \u4ed9)",
+    "answer": "immortal, fairy, celestial being",
+    "audio": "top10/596.mp3"
+  },
+  {
+    "key": "\u5fc5\u5099",
+    "alt": "b\u00ecb\u00e8i (\u5fc5\u5099, \u5fc5\u5907)",
+    "answer": "necessary, essential, indispensable, fundamental",
+    "audio": "top10/597.mp3"
+  },
+  {
+    "key": "\u5207\u65b7",
+    "alt": "qi\u0113du\u00e0n (\u5207\u65b7, \u5207\u65ad)",
+    "answer": "sever, shut_off, amputate, disconnect, cut_off, joint, cut off, mutilate, cutting_off, lop, hang_up, interrupt, hang up, guillotine",
+    "audio": "top10/598.mp3"
+  },
+  {
+    "key": "\u56de\u6eaf",
+    "alt": "hu\u00eds\u00f9 (\u56de\u6eaf, \u56de\u6eaf)",
+    "answer": "dwell, look back upon, harp, turn back, cut back, backdate, trace, flash_back, recall, retroject, retrace, backtrack, double back, flash back",
+    "audio": "top10/599.mp3"
+  },
+  {
+    "key": "\u672c\u9322",
+    "alt": "b\u011bnqi\u00e1n (\u672c\u9322, \u672c\u94b1)",
+    "answer": "principal, capital",
+    "audio": "top10/600.mp3"
+  },
+  {
+    "key": "\u4e00\u5929\u5230\u665a",
+    "alt": "y\u012bti\u0101nd\u00e0ow\u01cen (\u4e00\u5929\u5230\u665a, \u4e00\u5929\u5230\u665a)",
+    "answer": "all day long",
+    "audio": "top10/601.mp3"
+  },
+  {
+    "key": "\u624b\u52e2",
+    "alt": "sh\u01d2ush\u00ec (\u624b\u52e2, \u624b\u52bf)",
+    "answer": "sign, pantomime, gesticulation, motion, sign_language, gesture, signal",
+    "audio": "top10/602.mp3"
+  },
+  {
+    "key": "\u5c11\u91cf",
+    "alt": "sh\u01ceoli\u00e0ng (\u5c11\u91cf, \u5c11\u91cf)",
+    "answer": "dribblet, morsel, modicum, scattering, a few, whit, inch, small, daub, det.: a few, slug, element, dash, haet, dearth, fleabite, sprinkle, little, shred, smidgen, soupcon, a little/few, bit, suspicion, mouthful, tot, littleness, trifle, snack, small quantity, spot, few, groat, paucity, nibble, smattering, small amount, ounce, rag, lick, spatter, tad, skerrick, pennyworth, small amount/quanti",
+    "audio": "top10/603.mp3"
+  },
+  {
+    "key": "\u5927\u81e3",
+    "alt": "d\u00e0ch\u00e9n (\u5927\u81e3, \u5927\u81e3)",
+    "answer": "courtier, court, secretary, referendary, vizier, government minister, viziership, high officials, cabinet ministers, president, chancellor, minister",
+    "audio": "top10/604.mp3"
+  },
+  {
+    "key": "\u862d\u82b1",
+    "alt": "l\u00e1nhu\u0101 (\u862d\u82b1, \u5170\u82b1)",
+    "answer": "cymbidium,  orchid",
+    "audio": "top10/605.mp3"
+  },
+  {
+    "key": "\u7e6a\u88fd",
+    "alt": "hu\u00eczh\u00ec (\u7e6a\u88fd, \u7ed8\u5236)",
+    "answer": "plot",
+    "audio": "top10/606.mp3"
+  },
+  {
+    "key": "\u65b7\u5c64",
+    "alt": "du\u00e0nc\u00e9ng (\u65b7\u5c64, \u65ad\u5c42)",
+    "answer": "fault",
+    "audio": "top10/607.mp3"
+  },
+  {
+    "key": "\u64fa\u8a2d",
+    "alt": "b\u01ceish\u00e8 (\u64fa\u8a2d, \u6446\u8bbe)",
+    "answer": "furnish and decorate room",
+    "audio": "top10/608.mp3"
+  },
+  {
+    "key": "\u9ede\u5b50",
+    "alt": "di\u01cenzi5 (\u9ede\u5b50, \u70b9\u5b50)",
+    "answer": "drop of liquid",
+    "audio": "top10/609.mp3"
+  },
+  {
+    "key": "\u64d4\u8ca0",
+    "alt": "d\u0101nf\u00f9 (\u64d4\u8ca0, \u62c5\u8d1f)",
+    "answer": "bear, shoulder, take on, be charged with",
+    "audio": "top10/610.mp3"
+  },
+  {
+    "key": "\u518d\u4e00\u6b21",
+    "alt": "z\u00e0iy\u012bc\u00ec (\u518d\u4e00\u6b21, \u518d\u4e00\u6b21)",
+    "answer": "once again, over again, again, once_again, once more",
+    "audio": "top10/611.mp3"
+  },
+  {
+    "key": "\u5168\u5fc3",
+    "alt": "qu\u00e1nx\u012bn (\u5168\u5fc3, \u5168\u5fc3)",
+    "answer": "wholeheartedly",
+    "audio": "top10/612.mp3"
+  },
+  {
+    "key": "\u6a19\u793a",
+    "alt": "bi\u0101osh\u00ec (\u6a19\u793a, \u6807\u793a)",
+    "answer": "label",
+    "audio": "top10/613.mp3"
+  },
+  {
+    "key": "\u4e00\u9f4a",
+    "alt": "y\u012bq\u00ed (\u4e00\u9f4a, \u4e00\u9f50)",
+    "answer": "simul, in unison, together, simultaneously",
+    "audio": "top10/614.mp3"
+  },
+  {
+    "key": "\u5927\u62b5",
+    "alt": "d\u00e0d\u01d0 (\u5927\u62b5, \u5927\u62b5)",
+    "answer": "generally speaking, in the main",
+    "audio": "top10/615.mp3"
+  },
+  {
+    "key": "\u4e0b\u65b9",
+    "alt": "xi\u00e0f\u0101ng (\u4e0b\u65b9, \u4e0b\u65b9)",
+    "answer": "lower part, downward, this world, downwards",
+    "audio": "top10/616.mp3"
+  },
+  {
+    "key": "\u5728\u5728",
+    "alt": "z\u00e0iz\u00e0i (\u5728\u5728, \u5728\u5728)",
+    "answer": "everywhere, in all aspects",
+    "audio": "top10/617.mp3"
+  },
+  {
+    "key": "\u8003\u5377",
+    "alt": "k\u01ceoju\u00e0n (\u8003\u5377, \u8003\u5377)",
+    "answer": "examination paper",
+    "audio": "top10/618.mp3"
+  },
+  {
+    "key": "\u6587\u660e",
+    "alt": "w\u00e9nm\u00edng (\u6587\u660e, \u6587\u660e)",
+    "answer": "civilized",
+    "audio": "top10/619.mp3"
+  },
+  {
+    "key": "\u4e0d\u7d04\u800c\u540c",
+    "alt": "b\u00f9yu\u0113\u00e9rt\u00f3ng (\u4e0d\u7d04\u800c\u540c, \u4e0d\u7ea6\u800c\u540c)",
+    "answer": "happen to coincide, coincidentally do sth.",
+    "audio": "top10/620.mp3"
+  },
+  {
+    "key": "\u8fa6\u4e8b",
+    "alt": "b\u00e0nsh\u00ec (\u8fa6\u4e8b, \u529e\u4e8b)",
+    "answer": "dispose, handle affairs, work",
+    "audio": "top10/621.mp3"
+  },
+  {
+    "key": "\u5206\u5225",
+    "alt": "f\u0113nbi\u00e9 (\u5206\u5225, \u5206\u522b)",
+    "answer": "difference",
+    "audio": "top10/622.mp3"
+  },
+  {
+    "key": "\u5c71\u5761\u5730",
+    "alt": "sh\u0101np\u014dd\u00ec (\u5c71\u5761\u5730, \u5c71\u5761\u5730)",
+    "answer": "hillside/sloping land",
+    "audio": "top10/623.mp3"
+  },
+  {
+    "key": "\u706b\u529b",
+    "alt": "hu\u01d2l\u00ec (\u706b\u529b, \u706b\u529b)",
+    "answer": "firepower",
+    "audio": "top10/624.mp3"
+  },
+  {
+    "key": "\u5e02\u9280",
+    "alt": "sh\u00ecy\u00edn (\u5e02\u9280, \u5e02\u94f6)",
+    "answer": "City Bank",
+    "audio": "top10/625.mp3"
+  },
+  {
+    "key": "\u4e0d\u4f4f",
+    "alt": "b\u00fazh\u00f9 (\u4e0d\u4f4f, \u4e0d\u4f4f)",
+    "answer": "endlessly",
+    "audio": "top10/626.mp3"
+  },
+  {
+    "key": "\u6253\u4ed7",
+    "alt": "d\u01cezh\u00e0ng (\u6253\u4ed7, \u6253\u4ed7)",
+    "answer": "fight battle, outplay, war, make war, fight, wage war, battle, go to war",
+    "audio": "top10/627.mp3"
+  },
+  {
+    "key": "\u53ef\u60e1",
+    "alt": "k\u011bw\u00f9 (\u53ef\u60e1, \u53ef\u6076)",
+    "answer": "hateful, abominable",
+    "audio": "top10/628.mp3"
+  },
+  {
+    "key": "\u5fc3\u611b",
+    "alt": "x\u012bn\u00e0i (\u5fc3\u611b, \u5fc3\u7231)",
+    "answer": "love, treasure",
+    "audio": "top10/629.mp3"
+  },
+  {
+    "key": "\u7f8e\u5bb9",
+    "alt": "m\u011bir\u00f3ng (\u7f8e\u5bb9, \u7f8e\u5bb9)",
+    "answer": "improve looks",
+    "audio": "top10/630.mp3"
+  },
+  {
+    "key": "\u9762\u76ee",
+    "alt": "mi\u00e0nm\u00f9 (\u9762\u76ee, \u9762\u76ee)",
+    "answer": "honour, countenance, aspect, face, facial_expression, sense of shame, look, appearance, visage, self respect, features, honor",
+    "audio": "top10/631.mp3"
+  },
+  {
+    "key": "\u5230\u6642",
+    "alt": "d\u00e0osh\u00ed (\u5230\u6642, \u5230\u65f6)",
+    "answer": "at appointed time, on the occasion",
+    "audio": "top10/632.mp3"
+  },
+  {
+    "key": "\u5bae\u6bbf",
+    "alt": "g\u014dngdi\u00e0n (\u5bae\u6bbf, \u5bab\u6bbf)",
+    "answer": "palatium, dome, alcazar, palace",
+    "audio": "top10/633.mp3"
+  },
+  {
+    "key": "\u67e5\u5831",
+    "alt": "ch\u00e1b\u00e0o (\u67e5\u5831, \u67e5\u62a5)",
+    "answer": "check and report",
+    "audio": "top10/634.mp3"
+  },
+  {
+    "key": "\u517c\u5dee",
+    "alt": "ji\u0101nch\u0101i (\u517c\u5dee, \u517c\u5dee)",
+    "answer": "moonlighting, hold two or more posts concurrently, side job",
+    "audio": "top10/635.mp3"
+  },
+  {
+    "key": "\u7f8e\u6d32",
+    "alt": "m\u011bizh\u014du (\u7f8e\u6d32, \u7f8e\u6d32)",
+    "answer": "Columbia, American,  continental",
+    "audio": "top10/636.mp3"
+  },
+  {
+    "key": "\u6709\u9451\u65bc\u6b64",
+    "alt": "y\u01d2uji\u00e0ny\u00fac\u01d0 (\u6709\u9451\u65bc\u6b64, \u6709\u9451\u4e8e\u6b64)",
+    "answer": "therefore, consequently",
+    "audio": "top10/637.mp3"
+  },
+  {
+    "key": "\u62dc\u6703",
+    "alt": "b\u00e0ihu\u00ec (\u62dc\u6703, \u62dc\u4f1a)",
+    "answer": "pay sb. a visit",
+    "audio": "top10/638.mp3"
+  },
+  {
+    "key": "\u6709\u5f62",
+    "alt": "y\u01d2ux\u00edng (\u6709\u5f62, \u6709\u5f62)",
+    "answer": "tangible, visible",
+    "audio": "top10/639.mp3"
+  },
+  {
+    "key": "\u660e\u5b9a",
+    "alt": "m\u00edngd\u00ecng (\u660e\u5b9a, \u660e\u5b9a)",
+    "answer": "stipulate, formulate",
+    "audio": "top10/640.mp3"
+  },
+  {
+    "key": "\u7a81\u767c",
+    "alt": "t\u00faf\u0101 (\u7a81\u767c, \u7a81\u53d1)",
+    "answer": "burst out or occur suddenly",
+    "audio": "top10/641.mp3"
+  },
+  {
+    "key": "\u82e5\u975e",
+    "alt": "ru\u00f2f\u0113i (\u82e5\u975e, \u82e5\u975e)",
+    "answer": "conj.: if not for",
+    "audio": "top10/642.mp3"
+  },
+  {
+    "key": "\u67d0\u67d0",
+    "alt": "m\u01d2um\u01d2u (\u67d0\u67d0, \u67d0\u67d0)",
+    "answer": "a certain person",
+    "audio": "top10/643.mp3"
+  },
+  {
+    "key": "\u7248\u756b",
+    "alt": "b\u01cenhu\u00e0 (\u7248\u756b, \u7248\u753b)",
+    "answer": "print making, graphic_art, engraving, graphic art, print, woodcut, zincograph, etching, block print",
+    "audio": "top10/644.mp3"
+  },
+  {
+    "key": "\u67e5\u7ddd",
+    "alt": "ch\u00e1q\u00ec (\u67e5\u7ddd, \u67e5\u7f09)",
+    "answer": "investigate and seize",
+    "audio": "top10/645.mp3"
+  },
+  {
+    "key": "\u8001\u95c6\u5a18",
+    "alt": "l\u01ceob\u01cenni\u00e1ng (\u8001\u95c6\u5a18, \u8001\u677f\u5a18)",
+    "answer": "missis, missus, shopkeeper's wife, proprietress",
+    "audio": "top10/646.mp3"
+  },
+  {
+    "key": "\u9810",
+    "alt": "y\u016b (\u9810, \u9884)",
+    "answer": "in advance, beforehand",
+    "audio": "top10/647.mp3"
+  },
+  {
+    "key": "\u540d\u4eba",
+    "alt": "m\u00edngr\u00e9n (\u540d\u4eba, \u540d\u4eba)",
+    "answer": "notability, luminary, celebrity, don, celeb, hotshot, lion, famous person, eminent peron, anybody, name, adept, star, figure, man of mark, proficient, performer, personality, social lion, nob, famous peron, guiding light, article, eminent person, boss, famous/eminent person, famous, toff, leading light, notable, swell, personage",
+    "audio": "top10/648.mp3"
+  },
+  {
+    "key": "\u653e\u958b",
+    "alt": "f\u00e0ngk\u0101i (\u653e\u958b, \u653e\u5f00)",
+    "answer": "set free, release, unhand, let go of, unclinch, unclasp, have a free hand in doing sth., unstop, unloose, slip, let go",
+    "audio": "top10/649.mp3"
+  },
+  {
+    "key": "\u540d\u5217",
+    "alt": "m\u00edngli\u00e8 (\u540d\u5217, \u540d\u5217)",
+    "answer": "be listed/placed",
+    "audio": "top10/650.mp3"
+  },
+  {
+    "key": "\u5b89\u7406\u6703",
+    "alt": "\u0101nl\u01d0hu\u00ec (\u5b89\u7406\u6703, \u5b89\u7406\u4f1a)",
+    "answer": "Security Council,  U.N.",
+    "audio": "top10/651.mp3"
+  },
+  {
+    "key": "\u6210\u898b",
+    "alt": "ch\u00e9ngji\u00e0n (\u6210\u898b, \u6210\u89c1)",
+    "answer": "preconceived notion, preconceived opinion, preconception, prejudice, bias, parti pris, prepossession, preconceived idea",
+    "audio": "top10/652.mp3"
+  },
+  {
+    "key": "\u5e95\u7247",
+    "alt": "d\u01d0pi\u00e0n (\u5e95\u7247, \u5e95\u7247)",
+    "answer": "negative, photographic plate",
+    "audio": "top10/653.mp3"
+  },
+  {
+    "key": "\u5408\u8cc7",
+    "alt": "h\u00e9z\u012b (\u5408\u8cc7, \u5408\u8d44)",
+    "answer": "joint venture, collect money, pool capital, raise funds, enter into partnership",
+    "audio": "top10/654.mp3"
+  },
+  {
+    "key": "\u56de\u5347",
+    "alt": "hu\u00edsh\u0113ng (\u56de\u5347, \u56de\u5347)",
+    "answer": "rise again after a fall",
+    "audio": "top10/655.mp3"
+  },
+  {
+    "key": "\u5f62\u5bb9\u8a5e",
+    "alt": "x\u00edngr\u00f3ngc\u00ed (\u5f62\u5bb9\u8a5e, \u5f62\u5bb9\u8bcd)",
+    "answer": "attribute, descriptive adjective, adjective, agreement, adverb, qualifying adjective, adjectival, attributive, epithet",
+    "audio": "top10/656.mp3"
+  },
+  {
+    "key": "\u5dde\u7acb",
+    "alt": "zh\u014dul\u00ec (\u5dde\u7acb, \u5dde\u7acb)",
+    "answer": "state, state established",
+    "audio": "top10/657.mp3"
+  },
+  {
+    "key": "\u5e8f\u5217",
+    "alt": "x\u00f9li\u00e8 (\u5e8f\u5217, \u5e8f\u5217)",
+    "answer": "alignment, order, sequence, sequence class, array, consecution",
+    "audio": "top10/658.mp3"
+  },
+  {
+    "key": "\u8d70\u8fd1",
+    "alt": "z\u01d2uj\u00ecn (\u8d70\u8fd1, \u8d70\u8fd1)",
+    "answer": "approach",
+    "audio": "top10/659.mp3"
+  },
+  {
+    "key": "\u514d\u4e0d\u4e86",
+    "alt": "mi\u01cenb\u00f9li\u01ceo (\u514d\u4e0d\u4e86, \u514d\u4e0d\u4e86)",
+    "answer": "unavoidably",
+    "audio": "top10/660.mp3"
+  },
+  {
+    "key": "\u625b",
+    "alt": "k\u0101ng (\u625b, \u625b)",
+    "answer": "carry on the shoulder, carry on shoulder, carry together, lift with both hands, shoulder",
+    "audio": "top10/661.mp3"
+  },
+  {
+    "key": "\u5c16",
+    "alt": "ji\u0101n (\u5c16, \u5c16)",
+    "answer": "sharp pointed, piercing, cuspidal, shrill, sharp",
+    "audio": "top10/662.mp3"
+  },
+  {
+    "key": "\u8eab\u5206\u8b49",
+    "alt": "sh\u0113nf\u00e8nzh\u00e8ng (\u8eab\u5206\u8b49, \u8eab\u5206\u8bc1)",
+    "answer": "ID, identity_card, I.D., identification card, identity",
+    "audio": "top10/663.mp3"
+  },
+  {
+    "key": "\u79df\u7528",
+    "alt": "z\u016by\u00f2ng (\u79df\u7528, \u79df\u7528)",
+    "answer": "rent for use",
+    "audio": "top10/664.mp3"
+  },
+  {
+    "key": "\u6bb7\u5207",
+    "alt": "y\u012bnqi\u00e8 (\u6bb7\u5207, \u6bb7\u5207)",
+    "answer": "ardent, eager",
+    "audio": "top10/665.mp3"
+  },
+  {
+    "key": "\u7d14\u771f",
+    "alt": "ch\u00fanzh\u0113n (\u7d14\u771f, \u7eaf\u771f)",
+    "answer": "pure, sincere",
+    "audio": "top10/666.mp3"
+  },
+  {
+    "key": "\u7d71\u4e00",
+    "alt": "t\u01d2ngy\u012b (\u7d71\u4e00, \u7edf\u4e00)",
+    "answer": "UNI PRESIDENT ENTERPRISES CORP",
+    "audio": "top10/667.mp3"
+  },
+  {
+    "key": "\u5076\u7136",
+    "alt": "\u01d2ur\u00e1n (\u5076\u7136, \u5076\u7136)",
+    "answer": "accidentally, occasionally",
+    "audio": "top10/668.mp3"
+  },
+  {
+    "key": "\u6642",
+    "alt": "sh\u00ed (\u6642, \u65f6)",
+    "answer": "m.[standard]",
+    "audio": "top10/669.mp3"
+  },
+  {
+    "key": "\u72f9\u7fa9",
+    "alt": "xi\u00e1y\u00ec (\u72f9\u7fa9, \u72ed\u4e49)",
+    "answer": "narrow sense",
+    "audio": "top10/670.mp3"
+  },
+  {
+    "key": "\u6247",
+    "alt": "sh\u00e0n (\u6247, \u6247)",
+    "answer": "m.[general]",
+    "audio": "top10/671.mp3"
+  },
+  {
+    "key": "\u751c\u871c",
+    "alt": "ti\u00e1nm\u00ec (\u751c\u871c, \u751c\u871c)",
+    "answer": "sweet, happy",
+    "audio": "top10/672.mp3"
+  },
+  {
+    "key": "\u63a1\u8a2a",
+    "alt": "c\u01ceif\u01ceng (\u63a1\u8a2a, \u91c7\u8bbf)",
+    "answer": "interview",
+    "audio": "top10/673.mp3"
+  },
+  {
+    "key": "\u7956\u7236",
+    "alt": "z\u01d4f\u00f9 (\u7956\u7236, \u7956\u7236)",
+    "answer": "grandad, gramps, grandfather, grandsire,  paternal",
+    "audio": "top10/674.mp3"
+  },
+  {
+    "key": "\u638c\u63a7",
+    "alt": "zh\u01cengk\u00f2ng (\u638c\u63a7, \u638c\u63a7)",
+    "answer": "control",
+    "audio": "top10/675.mp3"
+  },
+  {
+    "key": "\u8ff7\u4f60",
+    "alt": "m\u00edn\u01d0 (\u8ff7\u4f60, \u8ff7\u4f60)",
+    "answer": "mini",
+    "audio": "top10/676.mp3"
+  },
+  {
+    "key": "\u51b7\u6230",
+    "alt": "l\u011bngzh\u00e0n (\u51b7\u6230, \u51b7\u6218)",
+    "answer": "cold war",
+    "audio": "top10/677.mp3"
+  },
+  {
+    "key": "\u6cc9\u5dde",
+    "alt": "qu\u00e1nzh\u014du (\u6cc9\u5dde, \u6cc9\u5dde)",
+    "answer": "Chuanchow, Chuanzhou",
+    "audio": "top10/678.mp3"
+  },
+  {
+    "key": "\u6d0b\u6ea2",
+    "alt": "y\u00e1ngy\u00ec (\u6d0b\u6ea2, \u6d0b\u6ea2)",
+    "answer": "reek, brim with, be permeated with, overflow",
+    "audio": "top10/679.mp3"
+  },
+  {
+    "key": "\u5bc4\u7d66",
+    "alt": "j\u00ecg\u011bi (\u5bc4\u7d66, \u5bc4\u7ed9)",
+    "answer": "send to",
+    "audio": "top10/680.mp3"
+  },
+  {
+    "key": "\u676d\u5dde",
+    "alt": "h\u00e1ngzh\u014du (\u676d\u5dde, \u676d\u5dde)",
+    "answer": "Hangchow, Hangzhou, Hangzhou capital of Zhejiang",
+    "audio": "top10/681.mp3"
+  },
+  {
+    "key": "\u7b2c\u4e00\u7dda",
+    "alt": "d\u00ecy\u012bxi\u00e0n (\u7b2c\u4e00\u7dda, \u7b2c\u4e00\u7ebf)",
+    "answer": "forefront, front/first line",
+    "audio": "top10/682.mp3"
+  },
+  {
+    "key": "\u771f\u5fc3",
+    "alt": "zh\u0113nx\u012bn (\u771f\u5fc3, \u771f\u5fc3)",
+    "answer": "sincere, genuine, true",
+    "audio": "top10/683.mp3"
+  },
+  {
+    "key": "\u70ba\u96e3",
+    "alt": "w\u00e9in\u00e1n (\u70ba\u96e3, \u4e3a\u96be)",
+    "answer": "disoblige, feel awkward, make things difficult for, create difficulties, feel embarrassed, embarrass, create difficulties for sb.",
+    "audio": "top10/684.mp3"
+  },
+  {
+    "key": "\u98a8\u91c7",
+    "alt": "f\u0113ngc\u01cei (\u98a8\u91c7, \u98ce\u91c7)",
+    "answer": "carriage, graceful bearing, colour, mien, elegant demeanour, literary grace, elegant demeanor",
+    "audio": "top10/685.mp3"
+  },
+  {
+    "key": "\u5957",
+    "alt": "t\u00e0o (\u5957, \u5957)",
+    "answer": "encase, overlap, interlink, harness, hitch up, model on/after, copy, pump sb. about sth.",
+    "audio": "top10/686.mp3"
+  },
+  {
+    "key": "\u751a\u591a",
+    "alt": "sh\u00e8ndu\u014d (\u751a\u591a, \u751a\u591a)",
+    "answer": "many, much",
+    "audio": "top10/687.mp3"
+  },
+  {
+    "key": "\u6392\u884c",
+    "alt": "p\u00e1ih\u00e1ng (\u6392\u884c, \u6392\u884c)",
+    "answer": "seniority among siblings",
+    "audio": "top10/688.mp3"
+  },
+  {
+    "key": "\u524d\u77bb\u6027",
+    "alt": "qi\u00e1nzh\u0101nx\u00ecng (\u524d\u77bb\u6027, \u524d\u77bb\u6027)",
+    "answer": "forward looking",
+    "audio": "top10/689.mp3"
+  },
+  {
+    "key": "\u73ca\u745a",
+    "alt": "sh\u0101nh\u00fa (\u73ca\u745a, \u73ca\u745a)",
+    "answer": "red coral, precious coral, coralline, coral",
+    "audio": "top10/690.mp3"
+  },
+  {
+    "key": "\u653f\u898b",
+    "alt": "zh\u00e8ngji\u00e0n (\u653f\u898b, \u653f\u89c1)",
+    "answer": "politics, political sympathies, political view",
+    "audio": "top10/691.mp3"
+  },
+  {
+    "key": "\u653e\u904e",
+    "alt": "f\u00e0nggu\u00f2 (\u653e\u904e, \u653e\u8fc7)",
+    "answer": "let off, let slip, forgive, let off/slip, slip",
+    "audio": "top10/692.mp3"
+  },
+  {
+    "key": "\u70ab\u8000",
+    "alt": "xu\u00e0ny\u00e0o (\u70ab\u8000, \u70ab\u8000)",
+    "answer": "show_off, prank, flourish, boast, show off, strut, sport, splurge, swank, flaunt, make a display of, feature, brandish, flash",
+    "audio": "top10/693.mp3"
+  },
+  {
+    "key": "\u5718\u9577",
+    "alt": "tu\u00e1nzh\u01ceng (\u5718\u9577, \u56e2\u957f)",
+    "answer": "head of delegation, regimental commander, head of troupe/etc., chief of a delegation, head of a troupe, troupe, head of delegation/troupe/etc., chairman of a delegation, chief of a troupe, colonel, head of a delegation, etc.",
+    "audio": "top10/694.mp3"
+  },
+  {
+    "key": "\u9059\u6e2c",
+    "alt": "y\u00e1oc\u00e8 (\u9059\u6e2c, \u9065\u6d4b)",
+    "answer": "telemeter",
+    "audio": "top10/695.mp3"
+  },
+  {
+    "key": "\u78ba\u5207",
+    "alt": "qu\u00e8qi\u00e8 (\u78ba\u5207, \u786e\u5207)",
+    "answer": "correct, accurate, clear and unambiguous, precise, exact, definite, tangible",
+    "audio": "top10/696.mp3"
+  },
+  {
+    "key": "\u8abf\u67e5\u54e1",
+    "alt": "di\u00e0och\u00e1yu\u00e1n (\u8abf\u67e5\u54e1, \u8c03\u67e5\u5458)",
+    "answer": "surveyor, agent, investigator, federal agent",
+    "audio": "top10/697.mp3"
+  },
+  {
+    "key": "\u8abf\u964d",
+    "alt": "ti\u00e1oji\u00e0ng (\u8abf\u964d, \u8c03\u964d)",
+    "answer": "lower price/volume/etc.",
+    "audio": "top10/698.mp3"
+  },
+  {
+    "key": "\u8ad6\u8ff0",
+    "alt": "l\u00f9nsh\u00f9 (\u8ad6\u8ff0, \u8bba\u8ff0)",
+    "answer": "exposition and argumentation",
+    "audio": "top10/699.mp3"
+  },
+  {
+    "key": "\u9063\u8fd4",
+    "alt": "qi\u01cenf\u01cen (\u9063\u8fd4, \u9063\u8fd4)",
+    "answer": "repatriate",
+    "audio": "top10/700.mp3"
+  },
+  {
+    "key": "\u5f48\u7434",
+    "alt": "t\u00e1nq\u00edn (\u5f48\u7434, \u5f39\u7434)",
+    "answer": "play stringed instrument, pluck, play, play keyboard instrument, play stringed, keyboard instrument",
+    "audio": "top10/701.mp3"
+  },
+  {
+    "key": "\u6bc6\u6253",
+    "alt": "\u014dud\u01ce (\u6bc6\u6253, \u6bb4\u6253)",
+    "answer": "beat up, come to blows",
+    "audio": "top10/702.mp3"
+  },
+  {
+    "key": "\u8e0f\u5be6",
+    "alt": "t\u00e0sh\u00ed (\u8e0f\u5be6, \u8e0f\u5b9e)",
+    "answer": "dependable, at ease, solid",
+    "audio": "top10/703.mp3"
+  },
+  {
+    "key": "\u92fc\u7b4b",
+    "alt": "g\u0101ngj\u012bn (\u92fc\u7b4b, \u94a2\u7b4b)",
+    "answer": "steel reinforcing bar",
+    "audio": "top10/704.mp3"
+  },
+  {
+    "key": "\u96fb\u8def",
+    "alt": "di\u00e0nl\u00f9 (\u96fb\u8def, \u7535\u8def)",
+    "answer": "electric",
+    "audio": "top10/705.mp3"
+  },
+  {
+    "key": "\u6577\u884d",
+    "alt": "f\u016by\u01cen (\u6577\u884d, \u6577\u884d)",
+    "answer": "elaborate, fudge, treat sb. lightly, treat sb. lightly/flippantly, treat sb. flippantly, expound, perfunctory, flippantly, elaboration, go through the motions, be perfunctory, irresponsible, skimp along, skimp along in a task",
+    "audio": "top10/706.mp3"
+  },
+  {
+    "key": "\u798f\u723e\u6469\u6c99",
+    "alt": "f\u00fa\u011brm\u00f3sh\u0101 (\u798f\u723e\u6469\u6c99, \u798f\u5c14\u6469\u6c99)",
+    "answer": "Formosa",
+    "audio": "top10/707.mp3"
+  },
+  {
+    "key": "\u64c1",
+    "alt": "y\u01d2ng (\u64c1, \u62e5)",
+    "answer": "embrace, hold",
+    "audio": "top10/708.mp3"
+  },
+  {
+    "key": "\u8aaa\u8a5e",
+    "alt": "shu\u014dc\u00ed (\u8aaa\u8a5e, \u8bf4\u8bcd)",
+    "answer": "excuse",
+    "audio": "top10/709.mp3"
+  },
+  {
+    "key": "\u63d0\u5831",
+    "alt": "t\u00edb\u00e0o (\u63d0\u5831, \u63d0\u62a5)",
+    "answer": "report",
+    "audio": "top10/710.mp3"
+  },
+  {
+    "key": "\u96fb\u5668",
+    "alt": "di\u00e0nq\u00ec (\u96fb\u5668, \u7535\u5668)",
+    "answer": "electrical equipment/appliance",
+    "audio": "top10/711.mp3"
+  },
+  {
+    "key": "\u89e3\u7b54",
+    "alt": "ji\u011bd\u00e1 (\u89e3\u7b54, \u89e3\u7b54)",
+    "answer": "answer, explain",
+    "audio": "top10/712.mp3"
+  },
+  {
+    "key": "\u85dd\u5eca",
+    "alt": "y\u00ecl\u00e1ng (\u85dd\u5eca, \u827a\u5eca)",
+    "answer": "art gallery",
+    "audio": "top10/713.mp3"
+  },
+  {
+    "key": "\u66b4\u6f32",
+    "alt": "b\u00e0ozh\u01ceng (\u66b4\u6f32, \u66b4\u6da8)",
+    "answer": "rise suddenly and sharply of floods/prices/etc.",
+    "audio": "top10/714.mp3"
+  },
+  {
+    "key": "\u611b\u6a02",
+    "alt": "\u00e0iyu\u00e8 (\u611b\u6a02, \u7231\u4e50)",
+    "answer": "philharmonic",
+    "audio": "top10/715.mp3"
+  },
+  {
+    "key": "\u6eaa\u6c34",
+    "alt": "x\u012bshu\u01d0 (\u6eaa\u6c34, \u6eaa\u6c34)",
+    "answer": "rivulet, mountain stream",
+    "audio": "top10/716.mp3"
+  },
+  {
+    "key": "\u8eb2\u907f",
+    "alt": "du\u01d2b\u00ec (\u8eb2\u907f, \u8eb2\u907f)",
+    "answer": "hide oneself",
+    "audio": "top10/717.mp3"
+  },
+  {
+    "key": "\u50bb",
+    "alt": "sh\u01ce (\u50bb, \u50bb)",
+    "answer": "stupid, muddleheaded, stunned, silly",
+    "audio": "top10/718.mp3"
+  },
+  {
+    "key": "\u6436\u6551",
+    "alt": "qi\u01cengji\u00f9 (\u6436\u6551, \u62a2\u6551)",
+    "answer": "rush to save",
+    "audio": "top10/719.mp3"
+  },
+  {
+    "key": "\u843d\u4f0d",
+    "alt": "lu\u00f2w\u01d4 (\u843d\u4f0d, \u843d\u4f0d)",
+    "answer": "straggle, drop out, be outdated",
+    "audio": "top10/720.mp3"
+  },
+  {
+    "key": "\u904e\u65e5\u5b50",
+    "alt": "gu\u00f2r\u00eczi5 (\u904e\u65e5\u5b50, \u8fc7\u65e5\u5b50)",
+    "answer": "live, get along, practice economy",
+    "audio": "top10/721.mp3"
+  },
+  {
+    "key": "\u9ec3\u6cb3",
+    "alt": "hu\u00e1ngh\u00e9 (\u9ec3\u6cb3, \u9ec4\u6cb3)",
+    "answer": "Yellow River",
+    "audio": "top10/722.mp3"
+  },
+  {
+    "key": "\u8072\u671b",
+    "alt": "sh\u0113ngw\u00e0ng (\u8072\u671b, \u58f0\u671b)",
+    "answer": "mana, celebrity, character, prestige, odour, repute, fame, name, prestigiousness, caste, renown, reputation, popularity",
+    "audio": "top10/723.mp3"
+  },
+  {
+    "key": "\u5c0a",
+    "alt": "z\u016bn (\u5c0a, \u5c0a)",
+    "answer": "m.[general]",
+    "audio": "top10/724.mp3"
+  },
+  {
+    "key": "\u50ac\u7720",
+    "alt": "cu\u012bmi\u00e1n (\u50ac\u7720, \u50ac\u7720)",
+    "answer": "lull, hypnotize, mesmerize, hypnotic, lull to sleep",
+    "audio": "top10/725.mp3"
+  },
+  {
+    "key": "\u7b46\u89f8",
+    "alt": "b\u01d0ch\u00f9 (\u7b46\u89f8, \u7b14\u89e6)",
+    "answer": "brush stroke in Ch. painting and calligraphy, brushwork, style of drawing/writing",
+    "audio": "top10/726.mp3"
+  },
+  {
+    "key": "\u5eda\u5e2b",
+    "alt": "ch\u00fash\u012b (\u5eda\u5e2b, \u53a8\u5e08)",
+    "answer": "cook, chef",
+    "audio": "top10/727.mp3"
+  },
+  {
+    "key": "\u6176\u5e78",
+    "alt": "q\u00ecngx\u00ecng (\u6176\u5e78, \u5e86\u5e78)",
+    "answer": "rejoice at a good outcome",
+    "audio": "top10/728.mp3"
+  },
+  {
+    "key": "\u6b3e\u9805",
+    "alt": "ku\u01cenxi\u00e0ng (\u6b3e\u9805, \u6b3e\u9879)",
+    "answer": "a sum of money, fund",
+    "audio": "top10/729.mp3"
+  },
+  {
+    "key": "\u5f15\u8a98",
+    "alt": "y\u01d0ny\u00f2u (\u5f15\u8a98, \u5f15\u8bf1)",
+    "answer": "lure, seduce",
+    "audio": "top10/730.mp3"
+  },
+  {
+    "key": "\u5200",
+    "alt": "d\u0101o (\u5200, \u5200)",
+    "answer": "m.[standard]",
+    "audio": "top10/731.mp3"
+  },
+  {
+    "key": "\u5c71\u7f8a",
+    "alt": "sh\u0101ny\u00e1ng (\u5c71\u7f8a, \u5c71\u7f8a)",
+    "answer": "goat",
+    "audio": "top10/732.mp3"
+  },
+  {
+    "key": "\u5b50\u5bae",
+    "alt": "z\u01d0g\u014dng (\u5b50\u5bae, \u5b50\u5bab)",
+    "answer": "venter, womb, belly, wame, uterus, uterine, matrix",
+    "audio": "top10/733.mp3"
+  },
+  {
+    "key": "\u7528\u4eba",
+    "alt": "y\u00f2ngr\u00e9n (\u7528\u4eba, \u7528\u4eba)",
+    "answer": "make use of personnel, employ people",
+    "audio": "top10/734.mp3"
+  },
+  {
+    "key": "\u4e0a\u5cb8",
+    "alt": "sh\u00e0ng\u00e0n (\u4e0a\u5cb8, \u4e0a\u5cb8)",
+    "answer": "set ashore, set down, go ashore, shore, debark, disembark, land",
+    "audio": "top10/735.mp3"
+  },
+  {
+    "key": "\u516c\u514b",
+    "alt": "g\u014dngk\u00e8 (\u516c\u514b, \u516c\u514b)",
+    "answer": "m.[standard]",
+    "audio": "top10/736.mp3"
+  },
+  {
+    "key": "\u624d\u85dd",
+    "alt": "c\u00e1iy\u00ec (\u624d\u85dd, \u624d\u827a)",
+    "answer": "accomplishment, talent and skill, perfection, acquire",
+    "audio": "top10/737.mp3"
+  },
+  {
+    "key": "\u4e0d\u4fbf",
+    "alt": "b\u00fabi\u00e0n (\u4e0d\u4fbf, \u4e0d\u4fbf)",
+    "answer": "inconveniently, inappropriately",
+    "audio": "top10/738.mp3"
+  },
+  {
+    "key": "\u6c34\u58a8\u756b",
+    "alt": "shu\u01d0m\u00f2hu\u00e0 (\u6c34\u58a8\u756b, \u6c34\u58a8\u753b)",
+    "answer": "wash painting, wash_drawing, ink and wash",
+    "audio": "top10/739.mp3"
+  },
+  {
+    "key": "\u53cd\u5c0d\u9ee8",
+    "alt": "f\u01cendu\u00ecd\u01ceng (\u53cd\u5c0d\u9ee8, \u53cd\u5bf9\u515a)",
+    "answer": "enemy, opponent, opposition, opposition party, the Opposition, foeman, the opposition, foe",
+    "audio": "top10/740.mp3"
+  },
+  {
+    "key": "\u751f\u7522\u7dda",
+    "alt": "sh\u0113ngch\u01cenxi\u00e0n (\u751f\u7522\u7dda, \u751f\u4ea7\u7ebf)",
+    "answer": "assembly line, line, production line, production_line, assemble line",
+    "audio": "top10/741.mp3"
+  },
+  {
+    "key": "\u5730\u8cea",
+    "alt": "d\u00eczh\u00ed (\u5730\u8cea, \u5730\u8d28)",
+    "answer": "geology",
+    "audio": "top10/742.mp3"
+  },
+  {
+    "key": "\u6e21",
+    "alt": "d\u00f9 (\u6e21, \u6e21)",
+    "answer": "cross river/sea/etc.",
+    "audio": "top10/743.mp3"
+  },
+  {
+    "key": "\u7e7c\u800c",
+    "alt": "j\u00ec\u00e9r (\u7e7c\u800c, \u7ee7\u800c)",
+    "answer": "then,  afterwards",
+    "audio": "top10/744.mp3"
+  },
+  {
+    "key": "\u89f8\u89d2",
+    "alt": "ch\u00f9ji\u01ceo (\u89f8\u89d2, \u89e6\u89d2)",
+    "answer": "antenna,  feeler",
+    "audio": "top10/745.mp3"
+  },
+  {
+    "key": "\u95dc\u5cf6",
+    "alt": "gu\u0101nd\u01ceo (\u95dc\u5cf6, \u5173\u5c9b)",
+    "answer": "Guam",
+    "audio": "top10/746.mp3"
+  },
+  {
+    "key": "\u8b80\u5230",
+    "alt": "d\u00fad\u00e0o (\u8b80\u5230, \u8bfb\u5230)",
+    "answer": "read",
+    "audio": "top10/747.mp3"
+  },
+  {
+    "key": "\u79ae\u54c1",
+    "alt": "l\u01d0p\u01d0n (\u79ae\u54c1, \u793c\u54c1)",
+    "answer": "present, beneficence, gift",
+    "audio": "top10/748.mp3"
+  },
+  {
+    "key": "\u4e2d\u6587\u7cfb",
+    "alt": "zh\u014dngw\u00e9nx\u00ec (\u4e2d\u6587\u7cfb, \u4e2d\u6587\u7cfb)",
+    "answer": "Chinese Literature Department",
+    "audio": "top10/749.mp3"
+  },
+  {
+    "key": "\u72af\u932f",
+    "alt": "f\u00e0ncu\u00f2 (\u72af\u932f, \u72af\u9519)",
+    "answer": "make mistake, err",
+    "audio": "top10/750.mp3"
+  },
+  {
+    "key": "\u5289\u90a6",
+    "alt": "li\u00fab\u0101ng (\u5289\u90a6, \u5218\u90a6)",
+    "answer": "founder of Han Dynasty, reigned as Gaozu",
+    "audio": "top10/751.mp3"
+  },
+  {
+    "key": "\u7372\u6089",
+    "alt": "hu\u00f2x\u012b (\u7372\u6089, \u83b7\u6089)",
+    "answer": "have, understand, get_onto, learn, learn of an event",
+    "audio": "top10/752.mp3"
+  },
+  {
+    "key": "\u7372\u51c6",
+    "alt": "hu\u00f2zh\u01d4n (\u7372\u51c6, \u83b7\u51c6)",
+    "answer": "get_into, obtain permission",
+    "audio": "top10/753.mp3"
+  },
+  {
+    "key": "\u7372\u76ca",
+    "alt": "hu\u00f2y\u00ec (\u7372\u76ca, \u83b7\u76ca)",
+    "answer": "be benefited, obtain profit, profit by, benefit, do good, benefit from",
+    "audio": "top10/754.mp3"
+  },
+  {
+    "key": "\u5916\u5957",
+    "alt": "w\u00e0it\u00e0o (\u5916\u5957, \u5916\u5957)",
+    "answer": "stragulum, overclothes, outerwear, pall, surcoat, overcoat, loose coat, greatcoat, manta, outer garment, topcoat, coat, bolero, lagging, benny",
+    "audio": "top10/755.mp3"
+  },
+  {
+    "key": "\u4e8c\u80e1",
+    "alt": "\u00e8rh\u00fa (\u4e8c\u80e1, \u4e8c\u80e1)",
+    "answer": "alto fiddle",
+    "audio": "top10/756.mp3"
+  },
+  {
+    "key": "\u7528\u8655",
+    "alt": "y\u00f2ngch\u00f9 (\u7528\u8655, \u7528\u5904)",
+    "answer": "use, value, practical application, function, purpose, point, usefulness, mileage, role",
+    "audio": "top10/757.mp3"
+  },
+  {
+    "key": "\u5341\u4e8c\u6307\u8178",
+    "alt": "sh\u00ed\u00e8rzh\u01d0ch\u00e1ng (\u5341\u4e8c\u6307\u8178, \u5341\u4e8c\u6307\u80a0)",
+    "answer": "duodenum",
+    "audio": "top10/758.mp3"
+  },
+  {
+    "key": "\u4e0a\u7576",
+    "alt": "sh\u00e0ngd\u00e0ng (\u4e0a\u7576, \u4e0a\u5f53)",
+    "answer": "be duped, be taken in, get_stuck, be fooled, be tricked",
+    "audio": "top10/759.mp3"
+  },
+  {
+    "key": "\u725b\u90ce",
+    "alt": "ni\u00f3ul\u00e1ng (\u725b\u90ce, \u725b\u90ce)",
+    "answer": "cowpuncher, cowboy, broncobuster, the cowherd in the legend \"the Cowherd and Girl We, legendary Cowherd",
+    "audio": "top10/760.mp3"
+  },
+  {
+    "key": "\u520a\u51fa",
+    "alt": "k\u0101nch\u016b (\u520a\u51fa, \u520a\u51fa)",
+    "answer": "publish",
+    "audio": "top10/761.mp3"
+  },
+  {
+    "key": "\u5171\u901a",
+    "alt": "g\u00f2ngt\u014dng (\u5171\u901a, \u5171\u901a)",
+    "answer": "all, applicable to all, applicable to both, applicable to both/all",
+    "audio": "top10/762.mp3"
+  },
+  {
+    "key": "\u7528\u5177",
+    "alt": "y\u00f2ngj\u00f9 (\u7528\u5177, \u7528\u5177)",
+    "answer": "kit, thing, fixing, tool, apparatus, appliance, instrument, outfitting, fitting, tackle, implement, utensil, outfit",
+    "audio": "top10/763.mp3"
+  },
+  {
+    "key": "\u5931\u8abf",
+    "alt": "sh\u012bti\u00e1o (\u5931\u8abf, \u5931\u8c03)",
+    "answer": "lose balance, dislocate",
+    "audio": "top10/764.mp3"
+  },
+  {
+    "key": "\u5de6\u53f3",
+    "alt": "zu\u01d2y\u00f2u (\u5de6\u53f3, \u5de6\u53f3)",
+    "answer": "master, control, influence",
+    "audio": "top10/765.mp3"
+  },
+  {
+    "key": "\u6bd4\u55bb",
+    "alt": "b\u01d0y\u016b (\u6bd4\u55bb, \u6bd4\u55bb)",
+    "answer": "metaphor, analogy",
+    "audio": "top10/766.mp3"
+  },
+  {
+    "key": "\u5012\u6963",
+    "alt": "d\u01ceom\u00e9i (\u5012\u6963, \u5012\u6963)",
+    "answer": "be out of luck, be unlucky",
+    "audio": "top10/767.mp3"
+  },
+  {
+    "key": "\u722d\u5435",
+    "alt": "zh\u0113ngch\u01ceo (\u722d\u5435, \u4e89\u5435)",
+    "answer": "quarrel, wrangle",
+    "audio": "top10/768.mp3"
+  },
+  {
+    "key": "\u5b64\u5152",
+    "alt": "g\u016b\u00e9r (\u5b64\u5152, \u5b64\u513f)",
+    "answer": "orphan",
+    "audio": "top10/769.mp3"
+  },
+  {
+    "key": "\u4f75\u767c\u75c7",
+    "alt": "b\u00ecngf\u0101zh\u00e8ng (\u4f75\u767c\u75c7, \u5e76\u53d1\u75c7)",
+    "answer": "syndrome",
+    "audio": "top10/770.mp3"
+  },
+  {
+    "key": "\u5370\u88fd",
+    "alt": "y\u00ecnzh\u00ec (\u5370\u88fd, \u5370\u5236)",
+    "answer": "character, print",
+    "audio": "top10/771.mp3"
+  },
+  {
+    "key": "\u5403\u5230",
+    "alt": "ch\u012bd\u00e0o (\u5403\u5230, \u5403\u5230)",
+    "answer": "taste, eat",
+    "audio": "top10/772.mp3"
+  },
+  {
+    "key": "\u6c42\u8077",
+    "alt": "qi\u00fazh\u00ed (\u6c42\u8077, \u6c42\u804c)",
+    "answer": "seek for job",
+    "audio": "top10/773.mp3"
+  },
+  {
+    "key": "\u6d77\u9bae",
+    "alt": "h\u01ceixi\u0101n (\u6d77\u9bae, \u6d77\u9c9c)",
+    "answer": "seafood",
+    "audio": "top10/774.mp3"
+  },
+  {
+    "key": "\u964d\u843d",
+    "alt": "ji\u00e0nglu\u00f2 (\u964d\u843d, \u964d\u843d)",
+    "answer": "descend, land, drop in water level, etc.",
+    "audio": "top10/775.mp3"
+  },
+  {
+    "key": "\u6ce2\u53ca",
+    "alt": "b\u014dj\u00ed (\u6ce2\u53ca, \u6ce2\u53ca)",
+    "answer": "affect, spread to",
+    "audio": "top10/776.mp3"
+  },
+  {
+    "key": "\u6536",
+    "alt": "sh\u014du (\u6536, \u6536)",
+    "answer": "collect, gather",
+    "audio": "top10/777.mp3"
+  },
+  {
+    "key": "\u79d1\u5b78\u9662",
+    "alt": "k\u0113xu\u00e9yu\u00e0n (\u79d1\u5b78\u9662, \u79d1\u5b66\u9662)",
+    "answer": "Chinese Academy of Sciences, Academy of Science, academy of sciences",
+    "audio": "top10/778.mp3"
+  },
+  {
+    "key": "\u4fe1\u7bb1",
+    "alt": "x\u00ecnxi\u0101ng (\u4fe1\u7bb1, \u4fe1\u7bb1)",
+    "answer": "post office box, mailbox, letter_box, letter box, postbox, box",
+    "audio": "top10/779.mp3"
+  },
+  {
+    "key": "\u5ba4\u53cb",
+    "alt": "sh\u00ecy\u01d2u (\u5ba4\u53cb, \u5ba4\u53cb)",
+    "answer": "housemate, chum, roommate, chummy, roomie",
+    "audio": "top10/780.mp3"
+  },
+  {
+    "key": "\u62db\u52df",
+    "alt": "zh\u0101om\u00f9 (\u62db\u52df, \u62db\u52df)",
+    "answer": "recruit, enlist",
+    "audio": "top10/781.mp3"
+  },
+  {
+    "key": "\u4fdd\u5bc6",
+    "alt": "b\u01ceom\u00ec (\u4fdd\u5bc6, \u4fdd\u5bc6)",
+    "answer": "maintain secrecy, hide, conceal, keep sth. secret, keep secret, hold_back",
+    "audio": "top10/782.mp3"
+  },
+  {
+    "key": "\u7248\u9762",
+    "alt": "b\u01cenmi\u00e0n (\u7248\u9762, \u7248\u9762)",
+    "answer": "typeface, layout/makeup of printed sheet, layout, page, layout of printed sheet, makeup of printed sheet, space of a whole page",
+    "audio": "top10/783.mp3"
+  },
+  {
+    "key": "\u79c9\u6301",
+    "alt": "b\u01d0ngch\u00ed (\u79c9\u6301, \u79c9\u6301)",
+    "answer": "hold a conviction/attitude",
+    "audio": "top10/784.mp3"
+  },
+  {
+    "key": "\u7687\u5ba4",
+    "alt": "hu\u00e1ngsh\u00ec (\u7687\u5ba4, \u7687\u5ba4)",
+    "answer": "imperial family/house, royalty, imperial house, royal_family, imperial family, royal house, royal line, house, royal family",
+    "audio": "top10/785.mp3"
+  },
+  {
+    "key": "\u53d7\u9a19",
+    "alt": "sh\u00f2upi\u00e0n (\u53d7\u9a19, \u53d7\u9a97)",
+    "answer": "be taken in, be fooled, be cheated, be deceived, bite",
+    "audio": "top10/786.mp3"
+  },
+  {
+    "key": "\u5c6c\u4e0b",
+    "alt": "sh\u01d4xi\u00e0 (\u5c6c\u4e0b, \u5c5e\u4e0b)",
+    "answer": "subordinate",
+    "audio": "top10/787.mp3"
+  },
+  {
+    "key": "\u5211\u4e8b",
+    "alt": "x\u00edngsh\u00ec (\u5211\u4e8b, \u5211\u4e8b)",
+    "answer": "criminal, penal",
+    "audio": "top10/788.mp3"
+  },
+  {
+    "key": "\u5c45\u5bb6",
+    "alt": "j\u016bji\u0101 (\u5c45\u5bb6, \u5c45\u5bb6)",
+    "answer": "be at home",
+    "audio": "top10/789.mp3"
+  },
+  {
+    "key": "\u967d",
+    "alt": "y\u00e1ng (\u967d, \u9633)",
+    "answer": "positive/active/male principle in nature, sun, south of a hill, north of a river, male genitals",
+    "audio": "top10/790.mp3"
+  },
+  {
+    "key": "\u826f\u77e5",
+    "alt": "li\u00e1ngzh\u012b (\u826f\u77e5, \u826f\u77e5)",
+    "answer": "sense of right and wrong, innate knowledge, intuitive knowledge, conscience, understanding friend, moral consciousness, moral sense, scruples",
+    "audio": "top10/791.mp3"
+  },
+  {
+    "key": "\u6210\u540d",
+    "alt": "ch\u00e9ngm\u00edng (\u6210\u540d, \u6210\u540d)",
+    "answer": "become famous, make name for oneself",
+    "audio": "top10/792.mp3"
+  },
+  {
+    "key": "\u5212\u8239",
+    "alt": "hu\u00e1chu\u00e1n (\u5212\u8239, \u5212\u8239)",
+    "answer": "paddle/row boat",
+    "audio": "top10/793.mp3"
+  },
+  {
+    "key": "\u56f0\u60d1",
+    "alt": "k\u00f9nhu\u00f2 (\u56f0\u60d1, \u56f0\u60d1)",
+    "answer": "perplexed, puzzled",
+    "audio": "top10/794.mp3"
+  },
+  {
+    "key": "\u7070",
+    "alt": "hu\u012b (\u7070, \u7070)",
+    "answer": "ash, dust",
+    "audio": "top10/795.mp3"
+  },
+  {
+    "key": "\u6709\u60c5",
+    "alt": "y\u01d2uq\u00edng (\u6709\u60c5, \u6709\u60c5)",
+    "answer": "warm, affectionate, endowed with feeling/sentience",
+    "audio": "top10/796.mp3"
+  },
+  {
+    "key": "\u809d\u75c5",
+    "alt": "g\u0101nb\u00ecng (\u809d\u75c5, \u809d\u75c5)",
+    "answer": "liverish, liver disease",
+    "audio": "top10/797.mp3"
+  },
+  {
+    "key": "\u5403\u98fd",
+    "alt": "ch\u012bb\u01ceo (\u5403\u98fd, \u5403\u9971)",
+    "answer": "eat one's fill",
+    "audio": "top10/798.mp3"
+  },
+  {
+    "key": "\u4f34\u4fb6",
+    "alt": "b\u00e0nl\u01d4 (\u4f34\u4fb6, \u4f34\u4fa3)",
+    "answer": "companion, mate, helpmate, coachfellow, familiar, partner, fere, company",
+    "audio": "top10/799.mp3"
+  },
+  {
+    "key": "\u5730\u8655",
+    "alt": "d\u00ecch\u01d4 (\u5730\u8655, \u5730\u5904)",
+    "answer": "be situated/located",
+    "audio": "top10/800.mp3"
+  },
+  {
+    "key": "\u5149\u96fb",
+    "alt": "gu\u0101ngdi\u00e0n (\u5149\u96fb, \u5149\u7535)",
+    "answer": "photoelectricity",
+    "audio": "top10/801.mp3"
+  },
+  {
+    "key": "\u4f01\u5716",
+    "alt": "q\u00ect\u00fa (\u4f01\u5716, \u4f01\u56fe)",
+    "answer": "attempt",
+    "audio": "top10/802.mp3"
+  },
+  {
+    "key": "\u675c\u9d51",
+    "alt": "d\u00f9ju\u0101n (\u675c\u9d51, \u675c\u9e43)",
+    "answer": "cuckoo",
+    "audio": "top10/803.mp3"
+  },
+  {
+    "key": "\u9ad8\u6602",
+    "alt": "g\u0101o\u00e1ng (\u9ad8\u6602, \u9ad8\u6602)",
+    "answer": "held high head/etc.",
+    "audio": "top10/804.mp3"
+  },
+  {
+    "key": "\u9b3c\u795e",
+    "alt": "gu\u01d0sh\u00e9n (\u9b3c\u795e, \u9b3c\u795e)",
+    "answer": "supernatural beings",
+    "audio": "top10/805.mp3"
+  },
+  {
+    "key": "\u8a0e",
+    "alt": "t\u01ceo (\u8a0e, \u8ba8)",
+    "answer": "demand, dun, marry a woman",
+    "audio": "top10/806.mp3"
+  },
+  {
+    "key": "\u6109\u6085",
+    "alt": "y\u016byu\u00e8 (\u6109\u6085, \u6109\u60a6)",
+    "answer": "cheerful, delighted",
+    "audio": "top10/807.mp3"
+  },
+  {
+    "key": "\u6e05\u695a",
+    "alt": "q\u012bngch\u01d4 (\u6e05\u695a, \u6e05\u695a)",
+    "answer": "understand clearly",
+    "audio": "top10/808.mp3"
+  },
+  {
+    "key": "\u570b\u5bf6",
+    "alt": "gu\u00f3b\u01ceo (\u570b\u5bf6, \u56fd\u5b9d)",
+    "answer": "national treasure",
+    "audio": "top10/809.mp3"
+  },
+  {
+    "key": "\u6d88\u901d",
+    "alt": "xi\u0101osh\u00ec (\u6d88\u901d, \u6d88\u901d)",
+    "answer": "die/fade away, vanish, elapse",
+    "audio": "top10/810.mp3"
+  },
+  {
+    "key": "\u9003\u8d70",
+    "alt": "t\u00e1oz\u01d2u (\u9003\u8d70, \u9003\u8d70)",
+    "answer": "run away, flee",
+    "audio": "top10/811.mp3"
+  },
+  {
+    "key": "\u9ad8\u7a7a",
+    "alt": "g\u0101ok\u014dng (\u9ad8\u7a7a, \u9ad8\u7a7a)",
+    "answer": "high altitude, upper air",
+    "audio": "top10/812.mp3"
+  },
+  {
+    "key": "\u9019\u6a23\u4e00\u4f86",
+    "alt": "zh\u00e8y\u00e0ngy\u012bl\u00e1i (\u9019\u6a23\u4e00\u4f86, \u8fd9\u6837\u4e00\u6765)",
+    "answer": "thus",
+    "audio": "top10/813.mp3"
+  },
+  {
+    "key": "\u8d81\u8457",
+    "alt": "ch\u00e8nzhe5 (\u8d81\u8457, \u8d81\u7740)",
+    "answer": "while",
+    "audio": "top10/814.mp3"
+  },
+  {
+    "key": "\u5bc6",
+    "alt": "m\u00ec (\u5bc6, \u5bc6)",
+    "answer": "dense, thick, intimate, close",
+    "audio": "top10/815.mp3"
+  },
+  {
+    "key": "\u6885\u82b1",
+    "alt": "m\u00e9ihu\u0101 (\u6885\u82b1, \u6885\u82b1)",
+    "answer": "plum blossom, clubs on playing cards",
+    "audio": "top10/816.mp3"
+  },
+  {
+    "key": "\u8edf\u7247",
+    "alt": "ru\u01cenpi\u00e0n (\u8edf\u7247, \u8f6f\u7247)",
+    "answer": "film in a roll",
+    "audio": "top10/817.mp3"
+  },
+  {
+    "key": "\u4e7e\u4e7e\u6de8\u6de8",
+    "alt": "g\u0101ng\u0101nj\u00ecngj\u00ecng (\u4e7e\u4e7e\u6de8\u6de8, \u4e7e\u4e7e\u6de8\u6de8)",
+    "answer": "clean, neat and tidy",
+    "audio": "top10/818.mp3"
+  },
+  {
+    "key": "\u904b\u9001",
+    "alt": "y\u00f9ns\u00f2ng (\u904b\u9001, \u8fd0\u9001)",
+    "answer": "transport, convey",
+    "audio": "top10/819.mp3"
+  },
+  {
+    "key": "\u7709\u6bdb",
+    "alt": "m\u00e9im\u00e1o (\u7709\u6bdb, \u7709\u6bdb)",
+    "answer": "eyebrow, brow",
+    "audio": "top10/820.mp3"
+  },
+  {
+    "key": "\u5e1b\u7409",
+    "alt": "b\u00f3li\u00fa (\u5e1b\u7409, \u5e1b\u7409)",
+    "answer": "Palau",
+    "audio": "top10/821.mp3"
+  },
+  {
+    "key": "\u5c08\u6ac3",
+    "alt": "zhu\u0101ngu\u00ec (\u5c08\u6ac3, \u4e13\u67dc)",
+    "answer": "shoppe",
+    "audio": "top10/822.mp3"
+  },
+  {
+    "key": "\u8feb\u4e0d\u53ca\u5f85",
+    "alt": "p\u00f2b\u00f9j\u00edd\u00e0i (\u8feb\u4e0d\u53ca\u5f85, \u8feb\u4e0d\u53ca\u5f85)",
+    "answer": "too impatient to wait",
+    "audio": "top10/823.mp3"
+  },
+  {
+    "key": "\u4ff1",
+    "alt": "j\u00f9 (\u4ff1, \u4ff1)",
+    "answer": "all, everyone",
+    "audio": "top10/824.mp3"
+  },
+  {
+    "key": "\u8dd1\u9053",
+    "alt": "p\u01ceod\u00e0o (\u8dd1\u9053, \u8dd1\u9053)",
+    "answer": "track, lane, starting rail, runway, course, chicane, tract, racetrack, racecourse, raceway",
+    "audio": "top10/825.mp3"
+  },
+  {
+    "key": "\u5c08\u7a0b",
+    "alt": "zhu\u0101nch\u00e9ng (\u5c08\u7a0b, \u4e13\u7a0b)",
+    "answer": "special trip",
+    "audio": "top10/826.mp3"
+  },
+  {
+    "key": "\u5507",
+    "alt": "ch\u00fan (\u5507, \u5507)",
+    "answer": "lip",
+    "audio": "top10/827.mp3"
+  },
+  {
+    "key": "\u82b1\u5152",
+    "alt": "hu\u0101\u00e9r (\u82b1\u5152, \u82b1\u513f)",
+    "answer": "flower, NW China festival folk songs, flowers",
+    "audio": "top10/828.mp3"
+  },
+  {
+    "key": "\u7f8e\u5473",
+    "alt": "m\u011biw\u00e8i (\u7f8e\u5473, \u7f8e\u5473)",
+    "answer": "delicious, dainty",
+    "audio": "top10/829.mp3"
+  },
+  {
+    "key": "\u70ba\u9650",
+    "alt": "w\u00e9ixi\u00e0n (\u70ba\u9650, \u4e3a\u9650)",
+    "answer": "be within the limit of, as limit",
+    "audio": "top10/830.mp3"
+  },
+  {
+    "key": "\u8cac\u4efb\u611f",
+    "alt": "z\u00e9r\u00e8ng\u01cen (\u8cac\u4efb\u611f, \u8d23\u4efb\u611f)",
+    "answer": "sense of responsibility/duty",
+    "audio": "top10/831.mp3"
+  },
+  {
+    "key": "\u7d21\u7e54",
+    "alt": "f\u01cengzh\u012b (\u7d21\u7e54, \u7eba\u7ec7)",
+    "answer": "spinning and weaving, textile",
+    "audio": "top10/832.mp3"
+  },
+  {
+    "key": "\u6de1\u6c34\u6cb3",
+    "alt": "d\u00e0nshu\u01d0h\u00e9 (\u6de1\u6c34\u6cb3, \u6de1\u6c34\u6cb3)",
+    "answer": "Tamsui River",
+    "audio": "top10/833.mp3"
+  },
+  {
+    "key": "\u8870",
+    "alt": "shu\u0101i (\u8870, \u8870)",
+    "answer": "decline, wane",
+    "audio": "top10/834.mp3"
+  },
+  {
+    "key": "\u812b\u7a4e\u800c\u51fa",
+    "alt": "tu\u014dy\u01d0ng\u00e9rch\u016b (\u812b\u7a4e\u800c\u51fa, \u8131\u9896\u800c\u51fa)",
+    "answer": "stand out, leap out, come to the fore, jump out, jump, show itself",
+    "audio": "top10/835.mp3"
+  },
+  {
+    "key": "\u6652",
+    "alt": "sh\u00e0i (\u6652, \u6652)",
+    "answer": "air, cold shoulder, soak up sun, sun",
+    "audio": "top10/836.mp3"
+  },
+  {
+    "key": "\u6383\u63cf\u5668",
+    "alt": "s\u01ceomi\u00e1oq\u00ec (\u6383\u63cf\u5668, \u626b\u63cf\u5668)",
+    "answer": "scanner",
+    "audio": "top10/837.mp3"
+  },
+  {
+    "key": "\u6377\u514b",
+    "alt": "ji\u00e9k\u00e8 (\u6377\u514b, \u6377\u514b)",
+    "answer": "Czechoslovakia",
+    "audio": "top10/838.mp3"
+  },
+  {
+    "key": "\u63a9\u98fe",
+    "alt": "y\u01censh\u00ec (\u63a9\u98fe, \u63a9\u9970)",
+    "answer": "cover up, gloss over",
+    "audio": "top10/839.mp3"
+  },
+  {
+    "key": "\u6eff\u6eff",
+    "alt": "m\u01cenm\u01cen (\u6eff\u6eff, \u6ee1\u6ee1)",
+    "answer": "filled to capacity",
+    "audio": "top10/840.mp3"
+  },
+  {
+    "key": "\u6a5f\u7d44",
+    "alt": "j\u012bz\u01d4 (\u6a5f\u7d44, \u673a\u7ec4)",
+    "answer": "crew, flight crew, set, unit",
+    "audio": "top10/841.mp3"
+  },
+  {
+    "key": "\u9072\u5230",
+    "alt": "ch\u00edd\u00e0o (\u9072\u5230, \u8fdf\u5230)",
+    "answer": "tardy, be late, arrive late, be/come/arrive late, come, late, come/arrive late, be",
+    "audio": "top10/842.mp3"
+  },
+  {
+    "key": "\u7de0\u9020",
+    "alt": "d\u00ecz\u00e0o (\u7de0\u9020, \u7f14\u9020)",
+    "answer": "found, create",
+    "audio": "top10/843.mp3"
+  },
+  {
+    "key": "\u8b00\u6c42",
+    "alt": "m\u00f3uqi\u00fa (\u8b00\u6c42, \u8c0b\u6c42)",
+    "answer": "go for, be in quest of, seek to gain, strive for, endeavor, try for, seek",
+    "audio": "top10/844.mp3"
+  },
+  {
+    "key": "\u64cd\u7e31",
+    "alt": "c\u0101oz\u00f2ng (\u64cd\u7e31, \u64cd\u7eb5)",
+    "answer": "operate,  control,  rig,  manipulate",
+    "audio": "top10/845.mp3"
+  },
+  {
+    "key": "\u5e55",
+    "alt": "m\u00f9 (\u5e55, \u5e55)",
+    "answer": "curtain, screen, tent",
+    "audio": "top10/846.mp3"
+  },
+  {
+    "key": "\u5634\u5507",
+    "alt": "zu\u01d0ch\u00fan (\u5634\u5507, \u5634\u5507)",
+    "answer": "lip, lips, kisser",
+    "audio": "top10/847.mp3"
+  },
+  {
+    "key": "\u8ced",
+    "alt": "d\u01d4 (\u8ced, \u8d4c)",
+    "answer": "gamble, bet",
+    "audio": "top10/848.mp3"
+  },
+  {
+    "key": "\u58d3\u4f4e",
+    "alt": "y\u0101d\u012b (\u58d3\u4f4e, \u538b\u4f4e)",
+    "answer": "weight down,  lower voice/etc.",
+    "audio": "top10/849.mp3"
+  },
+  {
+    "key": "\u76e4\u5b50",
+    "alt": "p\u00e1nzi5 (\u76e4\u5b50, \u76d8\u5b50)",
+    "answer": "plate, pan, salver, bowl, dish, tray",
+    "audio": "top10/850.mp3"
+  },
+  {
+    "key": "\u5be6\u6cc1",
+    "alt": "sh\u00edku\u00e0ng (\u5be6\u6cc1, \u5b9e\u51b5)",
+    "answer": "actual situation/happening",
+    "audio": "top10/851.mp3"
+  },
+  {
+    "key": "\u6b4c\u661f",
+    "alt": "g\u0113x\u012bng (\u6b4c\u661f, \u6b4c\u661f)",
+    "answer": "singing star",
+    "audio": "top10/852.mp3"
+  },
+  {
+    "key": "\u6578\u503c",
+    "alt": "sh\u00f9zh\u00ed (\u6578\u503c, \u6570\u503c)",
+    "answer": "numerical value, amount, number",
+    "audio": "top10/853.mp3"
+  },
+  {
+    "key": "\u610f\u5716",
+    "alt": "y\u00ect\u00fa (\u610f\u5716, \u610f\u56fe)",
+    "answer": "intent",
+    "audio": "top10/854.mp3"
+  },
+  {
+    "key": "\u5c0e\u76f2\u72ac",
+    "alt": "d\u01ceom\u00e1ngqu\u01cen (\u5c0e\u76f2\u72ac, \u5bfc\u76f2\u72ac)",
+    "answer": "guide dog",
+    "audio": "top10/855.mp3"
+  },
+  {
+    "key": "\u8932\u5b50",
+    "alt": "k\u00f9zi5 (\u8932\u5b50, \u88e4\u5b50)",
+    "answer": "breeches, pant, unmentionables, britches, trouser, continuation, breeks, bags, unmentionable, inexpressible, pants, pantaloon, trousers",
+    "audio": "top10/856.mp3"
+  },
+  {
+    "key": "\u5b78\u904b",
+    "alt": "xu\u00e9y\u00f9n (\u5b78\u904b, \u5b66\u8fd0)",
+    "answer": "student movement",
+    "audio": "top10/857.mp3"
+  },
+  {
+    "key": "\u611f\u50b7",
+    "alt": "g\u01censh\u0101ng (\u611f\u50b7, \u611f\u4f24)",
+    "answer": "be sad, be sentimental",
+    "audio": "top10/858.mp3"
+  },
+  {
+    "key": "\u88dd\u4fee",
+    "alt": "zhu\u0101ngxi\u016b (\u88dd\u4fee, \u88c5\u4fee)",
+    "answer": "repair, renovate house/etc.",
+    "audio": "top10/859.mp3"
+  },
+  {
+    "key": "\u53cd\u5171",
+    "alt": "f\u01ceng\u00f2ng (\u53cd\u5171, \u53cd\u5171)",
+    "answer": "anti communist, anticommunism",
+    "audio": "top10/860.mp3"
+  },
+  {
+    "key": "\u6c34\u57df",
+    "alt": "shu\u01d0y\u016b (\u6c34\u57df, \u6c34\u57df)",
+    "answer": "water, waters, water area, body of water",
+    "audio": "top10/861.mp3"
+  },
+  {
+    "key": "\u5fa9\u5065",
+    "alt": "f\u00f9ji\u00e0n (\u5fa9\u5065, \u590d\u5065)",
+    "answer": "rehabilitate",
+    "audio": "top10/862.mp3"
+  },
+  {
+    "key": "\u50b3\u5165",
+    "alt": "chu\u00e1nr\u00f9 (\u50b3\u5165, \u4f20\u5165)",
+    "answer": "import",
+    "audio": "top10/863.mp3"
+  },
+  {
+    "key": "\u8463\u76e3\u4e8b",
+    "alt": "d\u01d2ngji\u0101nsh\u00ec (\u8463\u76e3\u4e8b, \u8463\u76d1\u4e8b)",
+    "answer": "director and member of supervisory board",
+    "audio": "top10/864.mp3"
+  },
+  {
+    "key": "\u65b0\u838a",
+    "alt": "x\u012bnzhu\u0101ng (\u65b0\u838a, \u65b0\u5e84)",
+    "answer": "Hsin Chuang",
+    "audio": "top10/865.mp3"
+  },
+  {
+    "key": "\u610f\u5473",
+    "alt": "y\u00ecw\u00e8i (\u610f\u5473, \u610f\u5473)",
+    "answer": "meaning, significance, implication, interest, overtone, flavor",
+    "audio": "top10/866.mp3"
+  },
+  {
+    "key": "\u734e\u54c1",
+    "alt": "ji\u01cengp\u01d0n (\u734e\u54c1, \u5956\u54c1)",
+    "answer": "accolade, gainings, trophy, award, prize, prix, gree",
+    "audio": "top10/867.mp3"
+  },
+  {
+    "key": "\u7cbe\u54c1",
+    "alt": "j\u012bngp\u01d0n (\u7cbe\u54c1, \u7cbe\u54c1)",
+    "answer": "plum, showpiece, fine work, quality goods, top quality article, article of fine quality",
+    "audio": "top10/868.mp3"
+  },
+  {
+    "key": "\u5ee2\u7269",
+    "alt": "f\u00e8iw\u00f9 (\u5ee2\u7269, \u5e9f\u7269)",
+    "answer": "crap, plug, wastage, dreg, crock, garbage, weed, riffraff, obsolete, ejecta, trashery, rubbish, trash, cur, chaff, offal, food waste, recrement, rejectamenta, waste matter, lumber, sullage, write off, waste material, sordes, dud, good",
+    "audio": "top10/869.mp3"
+  },
+  {
+    "key": "\u622a",
+    "alt": "ji\u00e9 (\u622a, \u622a)",
+    "answer": "m.[proximation]",
+    "audio": "top10/870.mp3"
+  },
+  {
+    "key": "\u5fb7\u570b\u4eba",
+    "alt": "d\u00e9gu\u00f3r\u00e9n (\u5fb7\u570b\u4eba, \u5fb7\u56fd\u4eba)",
+    "answer": "German",
+    "audio": "top10/871.mp3"
+  },
+  {
+    "key": "\u9810\u8cfd",
+    "alt": "y\u016bs\u00e0i (\u9810\u8cfd, \u9884\u8d5b)",
+    "answer": "preliminary contest",
+    "audio": "top10/872.mp3"
+  },
+  {
+    "key": "\u7642\u6548",
+    "alt": "li\u00e1oxi\u00e0o (\u7642\u6548, \u7597\u6548)",
+    "answer": "curative effect",
+    "audio": "top10/873.mp3"
+  },
+  {
+    "key": "\u5acc\u7591",
+    "alt": "xi\u00e1ny\u00ed (\u5acc\u7591, \u5acc\u7591)",
+    "answer": "cloud, suspicion",
+    "audio": "top10/874.mp3"
+  },
+  {
+    "key": "\u8072\u6d6a",
+    "alt": "sh\u0113ngl\u00e0ng (\u8072\u6d6a, \u58f0\u6d6a)",
+    "answer": "clamor",
+    "audio": "top10/875.mp3"
+  },
+  {
+    "key": "\u5de8\u661f",
+    "alt": "j\u00f9x\u012bng (\u5de8\u661f, \u5de8\u661f)",
+    "answer": "giant, giant star, superstar",
+    "audio": "top10/876.mp3"
+  },
+  {
+    "key": "\u751f\u8a08",
+    "alt": "sh\u0113ngj\u00ec (\u751f\u8a08, \u751f\u8ba1)",
+    "answer": "livelihood, keep, gelt, means of livelihood, bread and butter, maintenance, life, shekels, subsistence, support, lucre, dinero, dough, bread, moolah, cabbage, kale, pelf, loot, sustenance, living",
+    "audio": "top10/877.mp3"
+  },
+  {
+    "key": "\u7533\u8fa6",
+    "alt": "sh\u0113nb\u00e0n (\u7533\u8fa6, \u7533\u529e)",
+    "answer": "apply for",
+    "audio": "top10/878.mp3"
+  },
+  {
+    "key": "\u9ad4\u58c7",
+    "alt": "t\u01d0t\u00e1n (\u9ad4\u58c7, \u4f53\u575b)",
+    "answer": "sports circles",
+    "audio": "top10/879.mp3"
+  },
+  {
+    "key": "\u5bf6\u5cf6",
+    "alt": "b\u01ceod\u01ceo (\u5bf6\u5cf6, \u5b9d\u5c9b)",
+    "answer": "treasured island,  Taiwan",
+    "audio": "top10/880.mp3"
+  },
+  {
+    "key": "\u79ae\u670d",
+    "alt": "l\u01d0f\u00fa (\u79ae\u670d, \u793c\u670d)",
+    "answer": "ceremonial robe, plumage, trappings, ceremonial dress, tux, robe, full_dress, black tie, full dress, gown, ceremonial robe or dress, dress, ball gown, dinner jacket, vestment, ceremonial robe/dress, formal attire, tuxedo, full dress",
+    "audio": "top10/881.mp3"
+  },
+  {
+    "key": "\u6b78\u4f86",
+    "alt": "gu\u012bl\u00e1i (\u6b78\u4f86, \u5f52\u6765)",
+    "answer": "come back, be back, return, go back to",
+    "audio": "top10/882.mp3"
+  },
+  {
+    "key": "\u5fc5\u8981\u6027",
+    "alt": "b\u00ecy\u00e0ox\u00ecng (\u5fc5\u8981\u6027, \u5fc5\u8981\u6027)",
+    "answer": "essentialness, essentiality, necessity",
+    "audio": "top10/883.mp3"
+  },
+  {
+    "key": "\u64f4\u5efa",
+    "alt": "ku\u00f2ji\u00e0n (\u64f4\u5efa, \u6269\u5efa)",
+    "answer": "extend factory/mine/etc.",
+    "audio": "top10/884.mp3"
+  },
+  {
+    "key": "\u4e0d\u5e78",
+    "alt": "b\u00fax\u00ecng (\u4e0d\u5e78, \u4e0d\u5e78)",
+    "answer": "misfortune",
+    "audio": "top10/885.mp3"
+  },
+  {
+    "key": "\u7e8c\u96c6",
+    "alt": "x\u00f9j\u00ed (\u7e8c\u96c6, \u7eed\u96c6)",
+    "answer": "continuation of a book",
+    "audio": "top10/886.mp3"
+  },
+  {
+    "key": "\u7375\u7269",
+    "alt": "li\u00e8w\u00f9 (\u7375\u7269, \u730e\u7269)",
+    "answer": "bag, game, quarry, venery, prey",
+    "audio": "top10/887.mp3"
+  },
+  {
+    "key": "\u8f49\u6a5f",
+    "alt": "zhu\u01cenj\u012b (\u8f49\u6a5f, \u8f6c\u673a)",
+    "answer": "turn for better",
+    "audio": "top10/888.mp3"
+  },
+  {
+    "key": "\u7c64",
+    "alt": "qi\u0101n (\u7c64, \u7c64)",
+    "answer": "lot",
+    "audio": "top10/889.mp3"
+  },
+  {
+    "key": "\u651d\u5f71\u5e2b",
+    "alt": "sh\u00e8y\u01d0ngsh\u012b (\u651d\u5f71\u5e2b, \u6444\u5f71\u5e08)",
+    "answer": "photographer,  cameraman",
+    "audio": "top10/890.mp3"
+  },
+  {
+    "key": "\u7f85\u6d6e\u5bae",
+    "alt": "lu\u00f3f\u00fag\u014dng (\u7f85\u6d6e\u5bae, \u7f57\u6d6e\u5bab)",
+    "answer": "Louvre_Museum",
+    "audio": "top10/891.mp3"
+  },
+  {
+    "key": "\u958b\u6230",
+    "alt": "k\u0101izh\u00e0n (\u958b\u6230, \u5f00\u6218)",
+    "answer": "make war, battle against",
+    "audio": "top10/892.mp3"
+  },
+  {
+    "key": "\u7f50\u982d",
+    "alt": "gu\u00e0nt\u00f3u (\u7f50\u982d, \u7f50\u5934)",
+    "answer": "tin,  can,  canned goods",
+    "audio": "top10/893.mp3"
+  }
+]

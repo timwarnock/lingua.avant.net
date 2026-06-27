@@ -62,6 +62,14 @@ Michel Thomas; the Spanish beginner course is fantastic, and it helped me with t
 
 [Duolingo](https://www.duolingo.com/) ; it’s fun, and gives a sense of accomplishment, although I achieved “fluency” without any fluency in real life conversations.
 
+Spanish flashcards:
+
+Hello <button class="flashcard-green" onclick="Flashcards.open('es/hello')">flashcards</button>
+
+Numbers <button class="flashcard-green" onclick="Flashcards.open('es/numeros')">flashcards</button>
+
+Verbs <button class="flashcard-green" onclick="Flashcards.open('es/verbos')">flashcards</button>
+
 Other
 
 + [How to Improve Your Foreign Language Immediately](/tips/islands/) , by Boris Shekhtman

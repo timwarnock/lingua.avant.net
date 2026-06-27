@@ -1,0 +1,404 @@
+[
+  {
+    "key": "ba. b\u00e0n. bu\u00f4n. b\u01b0\u1edbng.",
+    "answer": "father. table. wholesale. stubborn.",
+    "alt": "initial /b-/ sound",
+    "audio_prompt": "pronounce/84.mp3"
+  },
+  {
+    "key": "m\u1eb9. mai. minh. m\u01b0\u01a1ng.",
+    "answer": "mother. roof. minh. drain.",
+    "alt": "initial /m-/ sound",
+    "audio_prompt": "pronounce/85.mp3"
+  },
+  {
+    "key": "pha. ph\u00eda. ph\u1ea7n. phong.",
+    "answer": "phase. side. part. room.",
+    "alt": "initial /f-/ sound",
+    "audio_prompt": "pronounce/86.mp3"
+  },
+  {
+    "key": "v\u00e0. vui. v\u1eafng. v\u00eanh.",
+    "answer": "and. fun. absent. buckled.",
+    "alt": "initial /v-/ sound",
+    "audio_prompt": "pronounce/87.mp3"
+  },
+  {
+    "key": "tin. t\u00ean. t\u00f4i. t\u1ec9nh.",
+    "answer": "believe. Name. me. provincial.",
+    "alt": "initial /t-/ sound (no aspiration)",
+    "audio_prompt": "pronounce/88.mp3"
+  },
+  {
+    "key": "thi. th\u00eam. th\u01b0\u01a1ng. th\u1eafng.",
+    "answer": "exam. more. love. win.",
+    "alt": "initial /t'-/ sound (aspiration)",
+    "audio_prompt": "pronounce/89.mp3"
+  },
+  {
+    "key": "\u0111i. \u0111\u1ebfn. \u0111\u1eb9p. \u0110o\u00e0n.",
+    "answer": "go. come. pretty. Doan.",
+    "alt": "initial /d-/ sound",
+    "audio_prompt": "pronounce/90.mp3"
+  },
+  {
+    "key": "nam. n\u1eb1m. ni\u00eam. n\u1eb7ng.",
+    "answer": "male. located. sealed. heavy.",
+    "alt": "initial /n-/ sound",
+    "audio_prompt": "pronounce/91.mp3"
+  },
+  {
+    "key": "d\u1ea1i. gi\u1ea3. gi\u00e1o. gi\u1ea3ng.",
+    "answer": "wild. fake. teacher. lecture",
+    "alt": "initial /z-/ sound (d or gi)",
+    "audio_prompt": "pronounce/92.mp3"
+  },
+  {
+    "key": "ra. r\u1ee7i. r\u00e3i. r\u1ed3ng.",
+    "answer": "out. risk. cobble. dragon.",
+    "alt": "initial /\u0290-/ sound",
+    "audio_prompt": "pronounce/93.mp3"
+  },
+  {
+    "key": "xa. xem. x\u1eafn. xong.",
+    "answer": "far. see. roll. accomplished.",
+    "alt": "initial /s-/ sound",
+    "audio_prompt": "pronounce/94.mp3"
+  },
+  {
+    "key": "sen. s\u1eeda. so\u1ea1n. s\u1ebfp.",
+    "answer": "lotus. repair. composer. boss",
+    "alt": "initial /\u0282-/ sound",
+    "audio_prompt": "pronounce/95.mp3"
+  },
+  {
+    "key": "cho. chanh. ch\u1edf. ch\u01b0\u01a1ng.",
+    "answer": "for. lemon. carrying. chapter.",
+    "alt": "initial /\u01ab-/ sound",
+    "audio_prompt": "pronounce/96.mp3"
+  },
+  {
+    "key": "tre. tr\u1ea3. tr\u01b0\u1eddng. tr\u01b0a.",
+    "answer": "bamboo. pay. school noon",
+    "alt": "initial /t\u0282-/ sound",
+    "audio_prompt": "pronounce/97.mp3"
+  },
+  {
+    "key": "nh\u00e0. nh\u1ecf. nh\u1eafn. nh\u01b0\u1eddng.",
+    "answer": "home. small. message. give away.",
+    "alt": "initial /\u0272-/ sound",
+    "audio_prompt": "pronounce/98.mp3"
+  },
+  {
+    "key": "l\u1edbn. l\u00e0nh. l\u1eb7n. linh.",
+    "answer": "great. heal. dive. spirit",
+    "alt": "initial /l-/ sound",
+    "audio_prompt": "pronounce/99.mp3"
+  },
+  {
+    "key": "ca. con. c\u00f4. c\u01a1.",
+    "answer": "ca. baby. she. muscle.",
+    "alt": "initial /k-/ sound (c)",
+    "audio_prompt": "pronounce/100.mp3"
+  },
+  {
+    "key": "k\u00fd. ken. k\u1ebbng. k\u00ea.",
+    "answer": "sign. ken. keng. listed.",
+    "alt": "initial /k-/ sound (k before front vowels)",
+    "audio_prompt": "pronounce/101.mp3"
+  },
+  {
+    "key": "que. qu\u1ea3. quang. quanh.",
+    "answer": "sticks. fruit. optical. around.",
+    "alt": "initial /k-/ sound (q before /-w-/)",
+    "audio_prompt": "pronounce/102.mp3"
+  },
+  {
+    "key": "kh\u00f3. khi. khang. kh\u00f4ng.",
+    "answer": "difficult. at. .. not.",
+    "alt": "initial /x-/ sound",
+    "audio_prompt": "pronounce/103.mp3"
+  },
+  {
+    "key": "nga. ng\u0103n. ngon. ngu.",
+    "answer": "Russia. compartment. tasty. sleep.",
+    "alt": "initial /\u014b-/ sound",
+    "audio_prompt": "pronounce/104.mp3"
+  },
+  {
+    "key": "nghi. nghe. ngh\u00ea.",
+    "answer": "suspected. listen. Nghe.",
+    "alt": "initial /\u014b-/ sound (ngh before front vowels)",
+    "audio_prompt": "pronounce/105.mp3"
+  },
+  {
+    "key": "ga. g\u1eb7ng. g\u00f5. g\u1eebng.",
+    "answer": "station. strong. type. ginger.",
+    "alt": "initial /\u0263-/ sound",
+    "audio_prompt": "pronounce/106.mp3"
+  },
+  {
+    "key": "ghi. ghen. gh\u1ebf.",
+    "answer": "write down. jealous. chair.",
+    "alt": "initial /\u0263-/ sound (gh before front vowels)",
+    "audio_prompt": "pronounce/107.mp3"
+  },
+  {
+    "key": "hoa. h\u00e0. h\u1eb9n. h\u01b0\u1eddng.",
+    "answer": "flower. ha. appointment. good.",
+    "alt": "initial /h-/ sound",
+    "audio_prompt": "pronounce/108.mp3"
+  },
+  {
+    "key": "chui. suy. thu\u1edf. xu\u00e2n.",
+    "answer": "wipe. failure. childhood. spring.",
+    "alt": "libial /-w-/ sound (u before iy \u00ea \u01a1 \u00e2)",
+    "audio_prompt": "pronounce/109.mp3"
+  },
+  {
+    "key": "kh\u00f3a. lo\u00e3ng. kh\u1ecfe. xo\u0103n.",
+    "answer": "lock up. wishy-washy. strong. curly.",
+    "alt": "libial /-w-/ sound (o before a e \u0103)",
+    "audio_prompt": "pronounce/110.mp3"
+  },
+  {
+    "key": "nh\u00e0. cam. mang.",
+    "answer": "home. oranges. bring.",
+    "alt": "central /-a:-/ sound",
+    "audio_prompt": "pronounce/111.mp3"
+  },
+  {
+    "key": "xoong. mo\u00f3c.",
+    "answer": "saucepan. trailer.",
+    "alt": "central /-\u0254:-/ sound (oo open mouth end)",
+    "audio_prompt": "pronounce/112.mp3"
+  },
+  {
+    "key": "xong. moc. l\u00f2. con.",
+    "answer": "accomplished. moc. oven. baby.",
+    "alt": "central /-\u0254:-/ sound",
+    "audio_prompt": "pronounce/113.mp3"
+  },
+  {
+    "key": "\u1ed1c. h\u00f4n. kh\u00f4ng.",
+    "answer": "snails. kiss. not.",
+    "alt": "central /-o-/ sound",
+    "audio_prompt": "pronounce/114.mp3"
+  },
+  {
+    "key": "\u01a1n. m\u01a1. c\u01a1m.",
+    "answer": "thank. apricot. rice.",
+    "alt": "central /-\u0259\u02d0-/ sound",
+    "audio_prompt": "pronounce/115.mp3"
+  },
+  {
+    "key": "em. b\u00e9. che.",
+    "answer": "you-I-younger. little. hide.",
+    "alt": "central /-\u025b-/ sound",
+    "audio_prompt": "pronounce/116.mp3"
+  },
+  {
+    "key": "\u00eam. l\u00ean. ch\u00eanh.",
+    "answer": "smooth. up. difference.",
+    "alt": "central /-e-/ sound",
+    "audio_prompt": "pronounce/117.mp3"
+  },
+  {
+    "key": "l\u00f9n. c\u00f9n. tung.",
+    "answer": "dwarf. blunt. toss.",
+    "alt": "central /-u-/ sound",
+    "audio_prompt": "pronounce/118.mp3"
+  },
+  {
+    "key": "\u01b0ng. t\u1eeb. nh\u01b0ng.",
+    "answer": ".. from. but.",
+    "alt": "central /-\u026f-/ sound",
+    "audio_prompt": "pronounce/119.mp3"
+  },
+  {
+    "key": "thi. tin. xinh.",
+    "answer": "verse. believe. agreeable.",
+    "alt": "central /-i-/ sound",
+    "audio_prompt": "pronounce/120.mp3"
+  },
+  {
+    "key": "y h\u1ecdc. huy. tuy.",
+    "answer": "medicine. emblem. though.",
+    "alt": "central /-i-/ sound (y after /w/ or standalone)",
+    "audio_prompt": "pronounce/121.mp3"
+  },
+  {
+    "key": "sau. m\u00e1y. quay.",
+    "answer": "after. machine. spin.",
+    "alt": "central /-\u0103-/ sound (a when final /-w/ or /-y/)",
+    "audio_prompt": "pronounce/122.mp3"
+  },
+  {
+    "key": "\u0103n. c\u1eafn. \u0111\u1eafng.",
+    "answer": "eat. bite. bitter.",
+    "alt": "central /-\u0103-/ sound (\u0103 before final consonant)",
+    "audio_prompt": "pronounce/123.mp3"
+  },
+  {
+    "key": "l\u1ea5y. \u00e2n. t\u00e2n.",
+    "answer": "pick. eat. new.",
+    "alt": "central /-\u0259-/ sound",
+    "audio_prompt": "pronounce/124.mp3"
+  },
+  {
+    "key": "m\u00f3c. t\u00f3c. cong.",
+    "answer": "hook. hair. curvy.",
+    "alt": "central /-\u0254-/ sound",
+    "audio_prompt": "pronounce/125.mp3"
+  },
+  {
+    "key": "c\u00e1ch. nhanh. c\u00e1nh.",
+    "answer": "way. fast. wing.",
+    "alt": "central /-a-/ sound",
+    "audio_prompt": "pronounce/126.mp3"
+  },
+  {
+    "key": "y\u1ebfu. uy\u1ec3n. tuy\u1ebft.",
+    "answer": "weak. flexible. snow.",
+    "alt": "central /-ie-/ sound (y\u00ea when no initial or after /w/)",
+    "audio_prompt": "pronounce/127.mp3"
+  },
+  {
+    "key": "ti\u00ea\u0340n. ki\u1ec7n. mi\u1ebfng.",
+    "answer": "money. to sue. pieces.",
+    "alt": "central /-ie-/ sound (i\u00ea in between initial and final)",
+    "audio_prompt": "pronounce/128.mp3"
+  },
+  {
+    "key": "khuya. xuya. tuya.",
+    "answer": "late. .. ..",
+    "alt": "central /-ie-/ sound (ya after /w/ and no final)",
+    "audio_prompt": "pronounce/129.mp3"
+  },
+  {
+    "key": "bia. kia. t\u1ec9a.",
+    "answer": "beer. that. trim.",
+    "alt": "central /-ie-/ sound (ia no final consonants)",
+    "audio_prompt": "pronounce/130.mp3"
+  },
+  {
+    "key": "s\u01b0\u1edfi. \u01b0\u01a1ng. \u01b0\u01a1p.",
+    "answer": "heating. nursing. well.",
+    "alt": "central /-\u026f\u0259-/ sound (\u01b0\u01a1 before final)",
+    "audio_prompt": "pronounce/131.mp3"
+  },
+  {
+    "key": "\u01b0a. c\u1ee9a. ch\u1eefa. n\u1eeda.",
+    "answer": "love. shit. cure. half.",
+    "alt": "central /-\u026f\u0259-/ sound (\u01b0a no final)",
+    "audio_prompt": "pronounce/132.mp3"
+  },
+  {
+    "key": "u\u1ed1n. chu\u1ed1i. mu\u1ed1n. xu\u1ed1ng.",
+    "answer": "curling. banana. want. down.",
+    "alt": "central /-uo-/ sound (u\u00f4 before final)",
+    "audio_prompt": "pronounce/133.mp3"
+  },
+  {
+    "key": "mua. thua. l\u00faa.",
+    "answer": "buying. lost. paddy.",
+    "alt": "central /-uo-/ sound (ua no final)",
+    "audio_prompt": "pronounce/134.mp3"
+  },
+  {
+    "key": "nam. l\u00e0m. xem.",
+    "answer": "male. do. see.",
+    "alt": "final /-m/ sound",
+    "audio_prompt": "pronounce/135.mp3"
+  },
+  {
+    "key": "n\u00ean. to\u00e0n. tr\u00e0n.",
+    "answer": "Candlestick. all. to spill.",
+    "alt": "final /-n/ sound",
+    "audio_prompt": "pronounce/136.mp3"
+  },
+  {
+    "key": "k\u00ednh. ch\u00eanh. canh.",
+    "answer": "glasses. difference. soup.",
+    "alt": "final /-\u014b/ sound (nh after i \u00ea a)",
+    "audio_prompt": "pronounce/137.mp3"
+  },
+  {
+    "key": "ngang. l\u0103ng. s\u01b0\u01a1ng.",
+    "answer": "traverse. shrine. dew.",
+    "alt": "final /-\u014b/ sound",
+    "audio_prompt": "pronounce/138.mp3"
+  },
+  {
+    "key": "l\u1edbp. s\u1ee5p. \u01b0\u1edbp.",
+    "answer": "Class. collapse. marinated.",
+    "alt": "final /-p/ sound",
+    "audio_prompt": "pronounce/139.mp3"
+  },
+  {
+    "key": "s\u00e1t. tri\u1ec7t. khi\u1ebft.",
+    "answer": "close. thoroughly. pure.",
+    "alt": "final /-t/ sound",
+    "audio_prompt": "pronounce/140.mp3"
+  },
+  {
+    "key": "\u00edch. x\u1ebfch. s\u1ea1ch.",
+    "answer": "useful. slanted. clean.",
+    "alt": "final /-k/ sound (ch after i \u00ea a)",
+    "audio_prompt": "pronounce/141.mp3"
+  },
+  {
+    "key": "s\u1eafc. kh\u00f3c. m\u00fac.",
+    "answer": "sharp. cry. scoop.",
+    "alt": "final /-k/ sound (if rounded close mouth)",
+    "audio_prompt": "pronounce/142.mp3"
+  },
+  {
+    "key": "t\u00e1o. k\u00e9o. x\u00e9o.",
+    "answer": "apple. drag. sidelong.",
+    "alt": "final /-w/ sound (o after a e)",
+    "audio_prompt": "pronounce/143.mp3"
+  },
+  {
+    "key": "mau. n\u1ebfu. r\u01b0\u1ee3u.",
+    "answer": "quickly. if. alcohol.",
+    "alt": "final /-w/ sound",
+    "audio_prompt": "pronounce/144.mp3"
+  },
+  {
+    "key": "m\u00e1y. tay. ph\u1ea9y. ",
+    "answer": "machine. hand. comma.",
+    "alt": "final /-i/ sound (y after a \u00e2)",
+    "audio_prompt": "pronounce/145.mp3"
+  },
+  {
+    "key": "xo\u00e0i. t\u01b0\u01a1i. chu\u00f4i.",
+    "answer": "mango. fresh. gripe.",
+    "alt": "final /-i/ sound",
+    "audio_prompt": "pronounce/146.mp3"
+  },
+  {
+    "key": "song. con. cong. t\u00f3c.",
+    "answer": "song. baby. curvy. hair.",
+    "alt": "/-\u0254:-/ vs /-\u0254'-/",
+    "audio_prompt": "pronounce/147.mp3"
+  },
+  {
+    "key": "nha. ang. anh. nhanh.",
+    "answer": "home. ang. brother. fast.",
+    "alt": "/-a:-/ vs /-a'-/",
+    "audio_prompt": "pronounce/148.mp3"
+  },
+  {
+    "key": "xoong. xong. s\u00f4ng. sung.",
+    "answer": "saucepan. accomplished. river. figs.",
+    "alt": "open vs closed ng",
+    "audio_prompt": "pronounce/149.mp3"
+  },
+  {
+    "key": "mooc. moc. m\u00f4c. muc.",
+    "answer": "....",
+    "alt": "open vs closed c",
+    "audio_prompt": "pronounce/150.mp3"
+  }
+]

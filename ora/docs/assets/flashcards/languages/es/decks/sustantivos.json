@@ -1,0 +1,1934 @@
+[
+  {
+    "key": "el abrigo",
+    "answer": " coat",
+    "alt": "",
+    "audio_prompt": "sustantivos/1.mp3"
+  },
+  {
+    "key": "la academia",
+    "answer": " academy",
+    "alt": "",
+    "audio_prompt": "sustantivos/2.mp3"
+  },
+  {
+    "key": "el acceso",
+    "answer": " access",
+    "alt": "",
+    "audio_prompt": "sustantivos/3.mp3"
+  },
+  {
+    "key": "la acci\u00f3n",
+    "answer": " action",
+    "alt": "",
+    "audio_prompt": "sustantivos/4.mp3"
+  },
+  {
+    "key": "el aceite",
+    "answer": " oil",
+    "alt": "",
+    "audio_prompt": "sustantivos/5.mp3"
+  },
+  {
+    "key": "la actividad",
+    "answer": " activity",
+    "alt": "",
+    "audio_prompt": "sustantivos/6.mp3"
+  },
+  {
+    "key": "la alegr\u00eda",
+    "answer": " happiness/joy",
+    "alt": "",
+    "audio_prompt": "sustantivos/7.mp3"
+  },
+  {
+    "key": "el almuerzo",
+    "answer": " lunch",
+    "alt": "",
+    "audio_prompt": "sustantivos/8.mp3"
+  },
+  {
+    "key": "la altura",
+    "answer": " height",
+    "alt": "",
+    "audio_prompt": "sustantivos/9.mp3"
+  },
+  {
+    "key": "la amistad",
+    "answer": " friendship",
+    "alt": "",
+    "audio_prompt": "sustantivos/10.mp3"
+  },
+  {
+    "key": "el amor",
+    "answer": " love",
+    "alt": "",
+    "audio_prompt": "sustantivos/11.mp3"
+  },
+  {
+    "key": "el a\u00f1o",
+    "answer": " year",
+    "alt": "",
+    "audio_prompt": "sustantivos/12.mp3"
+  },
+  {
+    "key": "la aplicaci\u00f3n",
+    "answer": " use/application",
+    "alt": "",
+    "audio_prompt": "sustantivos/13.mp3"
+  },
+  {
+    "key": "el ascensor",
+    "answer": " elevator/lift",
+    "alt": "",
+    "audio_prompt": "sustantivos/14.mp3"
+  },
+  {
+    "key": "la ara\u00f1a",
+    "answer": " spider / arachnid",
+    "alt": "",
+    "audio_prompt": "sustantivos/15.mp3"
+  },
+  {
+    "key": "el arma",
+    "answer": " weapon",
+    "alt": "",
+    "audio_prompt": "sustantivos/16.mp3"
+  },
+  {
+    "key": "el aspecto",
+    "answer": " aspect/look",
+    "alt": "",
+    "audio_prompt": "sustantivos/17.mp3"
+  },
+  {
+    "key": "el asunto",
+    "answer": " issue/affair/matter",
+    "alt": "",
+    "audio_prompt": "sustantivos/18.mp3"
+  },
+  {
+    "key": "el aula",
+    "answer": " classroom",
+    "alt": "",
+    "audio_prompt": "sustantivos/19.mp3"
+  },
+  {
+    "key": "el aumento",
+    "answer": " increase",
+    "alt": "",
+    "audio_prompt": "sustantivos/20.mp3"
+  },
+  {
+    "key": "la ausencia",
+    "answer": " absence",
+    "alt": "",
+    "audio_prompt": "sustantivos/21.mp3"
+  },
+  {
+    "key": "la ayuda",
+    "answer": " help",
+    "alt": "",
+    "audio_prompt": "sustantivos/22.mp3"
+  },
+  {
+    "key": "al azar",
+    "answer": " chance/fate",
+    "alt": "",
+    "audio_prompt": "sustantivos/23.mp3"
+  },
+  {
+    "key": "el az\u00facar",
+    "answer": " sugar",
+    "alt": "",
+    "audio_prompt": "sustantivos/24.mp3"
+  },
+  {
+    "key": "la bandara",
+    "answer": " flag",
+    "alt": "",
+    "audio_prompt": "sustantivos/25.mp3"
+  },
+  {
+    "key": "el bar",
+    "answer": " bar",
+    "alt": "",
+    "audio_prompt": "sustantivos/26.mp3"
+  },
+  {
+    "key": "el barco",
+    "answer": " ship",
+    "alt": "",
+    "audio_prompt": "sustantivos/27.mp3"
+  },
+  {
+    "key": "la beatitud",
+    "answer": " bliss",
+    "alt": "",
+    "audio_prompt": "sustantivos/28.mp3"
+  },
+  {
+    "key": "el boligrafo",
+    "answer": " pen",
+    "alt": "",
+    "audio_prompt": "sustantivos/29.mp3"
+  },
+  {
+    "key": "la bolsa",
+    "answer": " handbag",
+    "alt": "",
+    "audio_prompt": "sustantivos/30.mp3"
+  },
+  {
+    "key": "la botas",
+    "answer": " boots",
+    "alt": "",
+    "audio_prompt": "sustantivos/31.mp3"
+  },
+  {
+    "key": "la b\u00fasqueda",
+    "answer": " search",
+    "alt": " buscar + querer + da",
+    "audio_prompt": "sustantivos/32.mp3"
+  },
+  {
+    "key": "el caballero",
+    "answer": " rider/gentleman",
+    "alt": "",
+    "audio_prompt": "sustantivos/33.mp3"
+  },
+  {
+    "key": "el caballo",
+    "answer": " horse",
+    "alt": "",
+    "audio_prompt": "sustantivos/34.mp3"
+  },
+  {
+    "key": "la cadena",
+    "answer": " chain",
+    "alt": "",
+    "audio_prompt": "sustantivos/35.mp3"
+  },
+  {
+    "key": "el calor",
+    "answer": " heat",
+    "alt": "",
+    "audio_prompt": "sustantivos/36.mp3"
+  },
+  {
+    "key": "la caja",
+    "answer": " box/cashier",
+    "alt": "",
+    "audio_prompt": "sustantivos/37.mp3"
+  },
+  {
+    "key": "el calcetines",
+    "answer": " socks",
+    "alt": "",
+    "audio_prompt": "sustantivos/38.mp3"
+  },
+  {
+    "key": "la cama",
+    "answer": " bed",
+    "alt": "",
+    "audio_prompt": "sustantivos/39.mp3"
+  },
+  {
+    "key": "el cambio",
+    "answer": " change",
+    "alt": "",
+    "audio_prompt": "sustantivos/40.mp3"
+  },
+  {
+    "key": "el camino",
+    "answer": " road/track/path",
+    "alt": "",
+    "audio_prompt": "sustantivos/41.mp3"
+  },
+  {
+    "key": "la camisa",
+    "answer": " shirt",
+    "alt": "",
+    "audio_prompt": "sustantivos/42.mp3"
+  },
+  {
+    "key": "la campana",
+    "answer": " bell",
+    "alt": "",
+    "audio_prompt": "sustantivos/43.mp3"
+  },
+  {
+    "key": "el campesino",
+    "answer": " farmer/peasant/rural",
+    "alt": "",
+    "audio_prompt": "sustantivos/44.mp3"
+  },
+  {
+    "key": "el cangrejo",
+    "answer": " crab",
+    "alt": "",
+    "audio_prompt": "sustantivos/45.mp3"
+  },
+  {
+    "key": "la capacidad",
+    "answer": " capacity",
+    "alt": "",
+    "audio_prompt": "sustantivos/46.mp3"
+  },
+  {
+    "key": "el cap\u00edtulo",
+    "answer": " chapter",
+    "alt": "",
+    "audio_prompt": "sustantivos/47.mp3"
+  },
+  {
+    "key": "el car\u00e1cter",
+    "answer": " character",
+    "alt": "",
+    "audio_prompt": "sustantivos/48.mp3"
+  },
+  {
+    "key": "la c\u00e1rcel",
+    "answer": " jail",
+    "alt": "",
+    "audio_prompt": "sustantivos/49.mp3"
+  },
+  {
+    "key": "la carne",
+    "answer": " meat",
+    "alt": "",
+    "audio_prompt": "sustantivos/50.mp3"
+  },
+  {
+    "key": "la carretera",
+    "answer": " road",
+    "alt": "",
+    "audio_prompt": "sustantivos/51.mp3"
+  },
+  {
+    "key": "la carta",
+    "answer": " letter",
+    "alt": "",
+    "audio_prompt": "sustantivos/52.mp3"
+  },
+  {
+    "key": "la casa",
+    "answer": " house",
+    "alt": "",
+    "audio_prompt": "sustantivos/53.mp3"
+  },
+  {
+    "key": "la cebolla",
+    "answer": " onion",
+    "alt": "",
+    "audio_prompt": "sustantivos/54.mp3"
+  },
+  {
+    "key": "la cena",
+    "answer": " dinner",
+    "alt": " cena y cine",
+    "audio_prompt": "sustantivos/55.mp3"
+  },
+  {
+    "key": "el centro",
+    "answer": " center",
+    "alt": "",
+    "audio_prompt": "sustantivos/56.mp3"
+  },
+  {
+    "key": "el cerdo",
+    "answer": " pig",
+    "alt": "",
+    "audio_prompt": "sustantivos/57.mp3"
+  },
+  {
+    "key": "el cine",
+    "answer": " cinema",
+    "alt": "",
+    "audio_prompt": "sustantivos/58.mp3"
+  },
+  {
+    "key": "el cintur\u00f3n",
+    "answer": " belt",
+    "alt": "",
+    "audio_prompt": "sustantivos/59.mp3"
+  },
+  {
+    "key": "la circunstancia",
+    "answer": " circumstance",
+    "alt": "",
+    "audio_prompt": "sustantivos/60.mp3"
+  },
+  {
+    "key": "la cita",
+    "answer": " appointment",
+    "alt": "",
+    "audio_prompt": "sustantivos/61.mp3"
+  },
+  {
+    "key": "la ciudad",
+    "answer": " city",
+    "alt": "",
+    "audio_prompt": "sustantivos/62.mp3"
+  },
+  {
+    "key": "la clase",
+    "answer": " school/class/lesson",
+    "alt": "",
+    "audio_prompt": "sustantivos/63.mp3"
+  },
+  {
+    "key": "el clima",
+    "answer": " climate",
+    "alt": "",
+    "audio_prompt": "sustantivos/64.mp3"
+  },
+  {
+    "key": "el coche/carro",
+    "answer": " car",
+    "alt": "",
+    "audio_prompt": "sustantivos/65.mp3"
+  },
+  {
+    "key": "el c\u00f3digo",
+    "answer": " code",
+    "alt": "",
+    "audio_prompt": "sustantivos/66.mp3"
+  },
+  {
+    "key": "el colegio",
+    "answer": " school",
+    "alt": "",
+    "audio_prompt": "sustantivos/67.mp3"
+  },
+  {
+    "key": "la comida",
+    "answer": " food",
+    "alt": "",
+    "audio_prompt": "sustantivos/68.mp3"
+  },
+  {
+    "key": "el compa\u00f1ero",
+    "answer": " partner/companion",
+    "alt": "",
+    "audio_prompt": "sustantivos/69.mp3"
+  },
+  {
+    "key": "la competencia",
+    "answer": " competition",
+    "alt": "",
+    "audio_prompt": "sustantivos/70.mp3"
+  },
+  {
+    "key": "la costumbre",
+    "answer": " habit/custom",
+    "alt": "",
+    "audio_prompt": "sustantivos/71.mp3"
+  },
+  {
+    "key": "el conejo",
+    "answer": " rabbit",
+    "alt": "",
+    "audio_prompt": "sustantivos/72.mp3"
+  },
+  {
+    "key": "el conocimiento",
+    "answer": " knowledge",
+    "alt": "",
+    "audio_prompt": "sustantivos/73.mp3"
+  },
+  {
+    "key": "el consejo",
+    "answer": " advice",
+    "alt": "",
+    "audio_prompt": "sustantivos/74.mp3"
+  },
+  {
+    "key": "la construcci\u00f3n",
+    "answer": " construction",
+    "alt": "",
+    "audio_prompt": "sustantivos/75.mp3"
+  },
+  {
+    "key": "el contenido",
+    "answer": " content/self-controlled",
+    "alt": "",
+    "audio_prompt": "sustantivos/76.mp3"
+  },
+  {
+    "key": "el control",
+    "answer": " control",
+    "alt": "",
+    "audio_prompt": "sustantivos/77.mp3"
+  },
+  {
+    "key": "la corbata",
+    "answer": " tie",
+    "alt": "",
+    "audio_prompt": "sustantivos/78.mp3"
+  },
+  {
+    "key": "la cosa",
+    "answer": " thing",
+    "alt": "",
+    "audio_prompt": "sustantivos/79.mp3"
+  },
+  {
+    "key": "la costa",
+    "answer": " shore/coast",
+    "alt": "",
+    "audio_prompt": "sustantivos/80.mp3"
+  },
+  {
+    "key": "la creaci\u00f3n",
+    "answer": " creation",
+    "alt": "",
+    "audio_prompt": "sustantivos/81.mp3"
+  },
+  {
+    "key": "el crecimiento",
+    "answer": " growth",
+    "alt": "",
+    "audio_prompt": "sustantivos/82.mp3"
+  },
+  {
+    "key": "la cualidad",
+    "answer": " quality",
+    "alt": "",
+    "audio_prompt": "sustantivos/83.mp3"
+  },
+  {
+    "key": "el cuento",
+    "answer": " story (para ni\u00f1os)",
+    "alt": "",
+    "audio_prompt": "sustantivos/84.mp3"
+  },
+  {
+    "key": "el cuerpo",
+    "answer": " body",
+    "alt": "",
+    "audio_prompt": "sustantivos/85.mp3"
+  },
+  {
+    "key": "la cuesta",
+    "answer": " cost",
+    "alt": "",
+    "audio_prompt": "sustantivos/86.mp3"
+  },
+  {
+    "key": "el cuidado",
+    "answer": " care",
+    "alt": "",
+    "audio_prompt": "sustantivos/87.mp3"
+  },
+  {
+    "key": "la culpa",
+    "answer": " fault/blame",
+    "alt": "",
+    "audio_prompt": "sustantivos/88.mp3"
+  },
+  {
+    "key": "el curso",
+    "answer": " course/year",
+    "alt": "",
+    "audio_prompt": "sustantivos/89.mp3"
+  },
+  {
+    "key": "el deseo",
+    "answer": " wish/desire",
+    "alt": "",
+    "audio_prompt": "sustantivos/90.mp3"
+  },
+  {
+    "key": "el dia",
+    "answer": " day",
+    "alt": "",
+    "audio_prompt": "sustantivos/91.mp3"
+  },
+  {
+    "key": "la dicha",
+    "answer": " joy",
+    "alt": "",
+    "audio_prompt": "sustantivos/92.mp3"
+  },
+  {
+    "key": "la direcci\u00f3n",
+    "answer": " direction",
+    "alt": "",
+    "audio_prompt": "sustantivos/93.mp3"
+  },
+  {
+    "key": "la discusi\u00f3n",
+    "answer": " discussion",
+    "alt": "",
+    "audio_prompt": "sustantivos/94.mp3"
+  },
+  {
+    "key": "la distancia",
+    "answer": " distance",
+    "alt": "",
+    "audio_prompt": "sustantivos/95.mp3"
+  },
+  {
+    "key": "la diversi\u00f3n",
+    "answer": " fun / diversion",
+    "alt": "",
+    "audio_prompt": "sustantivos/96.mp3"
+  },
+  {
+    "key": "la diosa",
+    "answer": " god/goddess",
+    "alt": " el dios",
+    "audio_prompt": "sustantivos/97.mp3"
+  },
+  {
+    "key": "el dolor",
+    "answer": " pain",
+    "alt": "",
+    "audio_prompt": "sustantivos/98.mp3"
+  },
+  {
+    "key": "el due\u00f1o",
+    "answer": " owner",
+    "alt": "",
+    "audio_prompt": "sustantivos/99.mp3"
+  },
+  {
+    "key": "la edad",
+    "answer": " age",
+    "alt": "",
+    "audio_prompt": "sustantivos/100.mp3"
+  },
+  {
+    "key": "el edificio",
+    "answer": " building",
+    "alt": "",
+    "audio_prompt": "sustantivos/101.mp3"
+  },
+  {
+    "key": "la educaci\u00f3n",
+    "answer": " education",
+    "alt": "",
+    "audio_prompt": "sustantivos/102.mp3"
+  },
+  {
+    "key": "el efecto",
+    "answer": " effect",
+    "alt": "",
+    "audio_prompt": "sustantivos/103.mp3"
+  },
+  {
+    "key": "el ejemplo",
+    "answer": " example",
+    "alt": "",
+    "audio_prompt": "sustantivos/104.mp3"
+  },
+  {
+    "key": "el ejercicio",
+    "answer": " exercise",
+    "alt": "",
+    "audio_prompt": "sustantivos/105.mp3"
+  },
+  {
+    "key": "la elecci\u00f3n",
+    "answer": " choice",
+    "alt": "",
+    "audio_prompt": "sustantivos/106.mp3"
+  },
+  {
+    "key": "el emparedado",
+    "answer": " sandwich",
+    "alt": " spain!",
+    "audio_prompt": "sustantivos/107.mp3"
+  },
+  {
+    "key": "la entrada",
+    "answer": " entrance",
+    "alt": "",
+    "audio_prompt": "sustantivos/108.mp3"
+  },
+  {
+    "key": "el entrenamiento",
+    "answer": " training",
+    "alt": "",
+    "audio_prompt": "sustantivos/109.mp3"
+  },
+  {
+    "key": "el equipo",
+    "answer": " team",
+    "alt": "",
+    "audio_prompt": "sustantivos/110.mp3"
+  },
+  {
+    "key": "la escena",
+    "answer": " scene/stage",
+    "alt": "",
+    "audio_prompt": "sustantivos/111.mp3"
+  },
+  {
+    "key": "la escuela",
+    "answer": " school",
+    "alt": "",
+    "audio_prompt": "sustantivos/112.mp3"
+  },
+  {
+    "key": "la esquina",
+    "answer": " corner",
+    "alt": "",
+    "audio_prompt": "sustantivos/113.mp3"
+  },
+  {
+    "key": "la espalda",
+    "answer": " back",
+    "alt": "",
+    "audio_prompt": "sustantivos/114.mp3"
+  },
+  {
+    "key": "el espejo",
+    "answer": " mirror",
+    "alt": "",
+    "audio_prompt": "sustantivos/115.mp3"
+  },
+  {
+    "key": "el este",
+    "answer": " east",
+    "alt": "",
+    "audio_prompt": "sustantivos/116.mp3"
+  },
+  {
+    "key": "el estudio",
+    "answer": " study/studio (apartment)",
+    "alt": "",
+    "audio_prompt": "sustantivos/117.mp3"
+  },
+  {
+    "key": "el \u00e9xito",
+    "answer": " success",
+    "alt": "",
+    "audio_prompt": "sustantivos/118.mp3"
+  },
+  {
+    "key": "la explicaci\u00f3n",
+    "answer": " explanation",
+    "alt": " make explicit",
+    "audio_prompt": "sustantivos/119.mp3"
+  },
+  {
+    "key": "la expresi\u00f3n",
+    "answer": " expression",
+    "alt": "",
+    "audio_prompt": "sustantivos/120.mp3"
+  },
+  {
+    "key": "la facultad",
+    "answer": " faculty",
+    "alt": "",
+    "audio_prompt": "sustantivos/121.mp3"
+  },
+  {
+    "key": "la falda",
+    "answer": " skirt",
+    "alt": "",
+    "audio_prompt": "sustantivos/122.mp3"
+  },
+  {
+    "key": "la felicidad",
+    "answer": " happiness",
+    "alt": "",
+    "audio_prompt": "sustantivos/123.mp3"
+  },
+  {
+    "key": "el festival",
+    "answer": " festival",
+    "alt": "",
+    "audio_prompt": "sustantivos/124.mp3"
+  },
+  {
+    "key": "el fin",
+    "answer": " end",
+    "alt": "",
+    "audio_prompt": "sustantivos/125.mp3"
+  },
+  {
+    "key": "la foto",
+    "answer": " photo",
+    "alt": "",
+    "audio_prompt": "sustantivos/126.mp3"
+  },
+  {
+    "key": "la frecuencia",
+    "answer": " frequency",
+    "alt": "",
+    "audio_prompt": "sustantivos/127.mp3"
+  },
+  {
+    "key": "la frontera",
+    "answer": " border/frontier",
+    "alt": "",
+    "audio_prompt": "sustantivos/128.mp3"
+  },
+  {
+    "key": "la fuenta",
+    "answer": " source/font/fountains",
+    "alt": "",
+    "audio_prompt": "sustantivos/129.mp3"
+  },
+  {
+    "key": "las fresas",
+    "answer": " strawberries",
+    "alt": "",
+    "audio_prompt": "sustantivos/130.mp3"
+  },
+  {
+    "key": "la gafas",
+    "answer": " glasses",
+    "alt": "",
+    "audio_prompt": "sustantivos/131.mp3"
+  },
+  {
+    "key": "el gato",
+    "answer": " cat",
+    "alt": "",
+    "audio_prompt": "sustantivos/132.mp3"
+  },
+  {
+    "key": "el genio",
+    "answer": " genius",
+    "alt": "",
+    "audio_prompt": "sustantivos/133.mp3"
+  },
+  {
+    "key": "la gente",
+    "answer": " people",
+    "alt": "",
+    "audio_prompt": "sustantivos/134.mp3"
+  },
+  {
+    "key": "la gentileza",
+    "answer": " gentleness",
+    "alt": " \u201cGracias por su gentileza\u201d that\u2019s nice of you",
+    "audio_prompt": "sustantivos/135.mp3"
+  },
+  {
+    "key": "el grado",
+    "answer": " degree",
+    "alt": "",
+    "audio_prompt": "sustantivos/136.mp3"
+  },
+  {
+    "key": "el granjero",
+    "answer": " farmer",
+    "alt": " la granjera",
+    "audio_prompt": "sustantivos/137.mp3"
+  },
+  {
+    "key": "el grupo",
+    "answer": " group",
+    "alt": "",
+    "audio_prompt": "sustantivos/138.mp3"
+  },
+  {
+    "key": "la habilidad",
+    "answer": " skill/ability",
+    "alt": "",
+    "audio_prompt": "sustantivos/139.mp3"
+  },
+  {
+    "key": "la hacienda",
+    "answer": " ranch/estate",
+    "alt": "",
+    "audio_prompt": "sustantivos/140.mp3"
+  },
+  {
+    "key": "la hambre",
+    "answer": " hunger",
+    "alt": "",
+    "audio_prompt": "sustantivos/141.mp3"
+  },
+  {
+    "key": "la historia",
+    "answer": " history",
+    "alt": "",
+    "audio_prompt": "sustantivos/142.mp3"
+  },
+  {
+    "key": "el hogar",
+    "answer": " home",
+    "alt": "",
+    "audio_prompt": "sustantivos/143.mp3"
+  },
+  {
+    "key": "el hombre",
+    "answer": " man",
+    "alt": "",
+    "audio_prompt": "sustantivos/144.mp3"
+  },
+  {
+    "key": "la humanidad",
+    "answer": " humanity/humanities",
+    "alt": "",
+    "audio_prompt": "sustantivos/145.mp3"
+  },
+  {
+    "key": "el idioma",
+    "answer": " language",
+    "alt": "",
+    "audio_prompt": "sustantivos/146.mp3"
+  },
+  {
+    "key": "la imagen",
+    "answer": " image",
+    "alt": "",
+    "audio_prompt": "sustantivos/147.mp3"
+  },
+  {
+    "key": "la importancia",
+    "answer": " importance",
+    "alt": "",
+    "audio_prompt": "sustantivos/148.mp3"
+  },
+  {
+    "key": "el ingeniero",
+    "answer": " engineer",
+    "alt": "",
+    "audio_prompt": "sustantivos/149.mp3"
+  },
+  {
+    "key": "la inteligencia",
+    "answer": " intelligence",
+    "alt": "",
+    "audio_prompt": "sustantivos/150.mp3"
+  },
+  {
+    "key": "la intenci\u00f3n",
+    "answer": " intention",
+    "alt": "",
+    "audio_prompt": "sustantivos/151.mp3"
+  },
+  {
+    "key": "la investigaci\u00f3n",
+    "answer": " investigation",
+    "alt": "",
+    "audio_prompt": "sustantivos/152.mp3"
+  },
+  {
+    "key": "el jefe",
+    "answer": " boss/chief/father",
+    "alt": " la jefa",
+    "audio_prompt": "sustantivos/153.mp3"
+  },
+  {
+    "key": "el juego",
+    "answer": " play",
+    "alt": "",
+    "audio_prompt": "sustantivos/154.mp3"
+  },
+  {
+    "key": "el juez",
+    "answer": " judge",
+    "alt": " la jueza",
+    "audio_prompt": "sustantivos/155.mp3"
+  },
+  {
+    "key": "el juicio",
+    "answer": " judgement/reason/trial",
+    "alt": "",
+    "audio_prompt": "sustantivos/156.mp3"
+  },
+  {
+    "key": "el kil\u00f3metro",
+    "answer": " kilometer",
+    "alt": "",
+    "audio_prompt": "sustantivos/157.mp3"
+  },
+  {
+    "key": "el lado",
+    "answer": " side",
+    "alt": "",
+    "audio_prompt": "sustantivos/158.mp3"
+  },
+  {
+    "key": "el l\u00e1piz",
+    "answer": " pencil",
+    "alt": "",
+    "audio_prompt": "sustantivos/159.mp3"
+  },
+  {
+    "key": "el lavadero",
+    "answer": " laundry",
+    "alt": "",
+    "audio_prompt": "sustantivos/160.mp3"
+  },
+  {
+    "key": "la lavander\u00eda",
+    "answer": " laundry",
+    "alt": "",
+    "audio_prompt": "sustantivos/161.mp3"
+  },
+  {
+    "key": "la lectura",
+    "answer": " reading",
+    "alt": "",
+    "audio_prompt": "sustantivos/162.mp3"
+  },
+  {
+    "key": "la lengua",
+    "answer": " language/tongue",
+    "alt": "",
+    "audio_prompt": "sustantivos/163.mp3"
+  },
+  {
+    "key": "la libertad",
+    "answer": " freedom",
+    "alt": "",
+    "audio_prompt": "sustantivos/164.mp3"
+  },
+  {
+    "key": "el libro",
+    "answer": " book",
+    "alt": " library",
+    "audio_prompt": "sustantivos/165.mp3"
+  },
+  {
+    "key": "la llave",
+    "answer": " key",
+    "alt": "",
+    "audio_prompt": "sustantivos/166.mp3"
+  },
+  {
+    "key": "la llegada",
+    "answer": " arrival",
+    "alt": "",
+    "audio_prompt": "sustantivos/167.mp3"
+  },
+  {
+    "key": "el lugar",
+    "answer": " place",
+    "alt": "",
+    "audio_prompt": "sustantivos/168.mp3"
+  },
+  {
+    "key": "la luz/luces",
+    "answer": " light/lights",
+    "alt": " lucid",
+    "audio_prompt": "sustantivos/169.mp3"
+  },
+  {
+    "key": "el magico",
+    "answer": " magic (magia f)",
+    "alt": "",
+    "audio_prompt": "sustantivos/170.mp3"
+  },
+  {
+    "key": "la maleta",
+    "answer": " suitcase",
+    "alt": "",
+    "audio_prompt": "sustantivos/171.mp3"
+  },
+  {
+    "key": "la ma\u00f1ana",
+    "answer": " tomorrow",
+    "alt": "",
+    "audio_prompt": "sustantivos/172.mp3"
+  },
+  {
+    "key": "la manguera",
+    "answer": " hose",
+    "alt": "",
+    "audio_prompt": "sustantivos/173.mp3"
+  },
+  {
+    "key": "la mano",
+    "answer": " hand",
+    "alt": "",
+    "audio_prompt": "sustantivos/174.mp3"
+  },
+  {
+    "key": "el mapa",
+    "answer": " map",
+    "alt": "",
+    "audio_prompt": "sustantivos/175.mp3"
+  },
+  {
+    "key": "la m\u00e1quina",
+    "answer": " machine",
+    "alt": "",
+    "audio_prompt": "sustantivos/176.mp3"
+  },
+  {
+    "key": "el marido",
+    "answer": " husband",
+    "alt": "",
+    "audio_prompt": "sustantivos/177.mp3"
+  },
+  {
+    "key": "el material",
+    "answer": " material",
+    "alt": "",
+    "audio_prompt": "sustantivos/178.mp3"
+  },
+  {
+    "key": "la mayor\u00eda",
+    "answer": " majority",
+    "alt": "",
+    "audio_prompt": "sustantivos/179.mp3"
+  },
+  {
+    "key": "la memoria",
+    "answer": " memory",
+    "alt": "",
+    "audio_prompt": "sustantivos/180.mp3"
+  },
+  {
+    "key": "el mensaje",
+    "answer": " message",
+    "alt": "",
+    "audio_prompt": "sustantivos/181.mp3"
+  },
+  {
+    "key": "la mente",
+    "answer": " mind",
+    "alt": "",
+    "audio_prompt": "sustantivos/182.mp3"
+  },
+  {
+    "key": "el mes",
+    "answer": " month",
+    "alt": "",
+    "audio_prompt": "sustantivos/183.mp3"
+  },
+  {
+    "key": "la mesa",
+    "answer": " table",
+    "alt": "",
+    "audio_prompt": "sustantivos/184.mp3"
+  },
+  {
+    "key": "el miedo",
+    "answer": " fear",
+    "alt": "",
+    "audio_prompt": "sustantivos/185.mp3"
+  },
+  {
+    "key": "la mirada",
+    "answer": " look",
+    "alt": "",
+    "audio_prompt": "sustantivos/186.mp3"
+  },
+  {
+    "key": "la mitad",
+    "answer": " half",
+    "alt": "",
+    "audio_prompt": "sustantivos/187.mp3"
+  },
+  {
+    "key": "la mochila",
+    "answer": " backpack",
+    "alt": "",
+    "audio_prompt": "sustantivos/188.mp3"
+  },
+  {
+    "key": "el momentito",
+    "answer": " a little moment",
+    "alt": "",
+    "audio_prompt": "sustantivos/189.mp3"
+  },
+  {
+    "key": "el mono",
+    "answer": " monkey",
+    "alt": "",
+    "audio_prompt": "sustantivos/190.mp3"
+  },
+  {
+    "key": "la moto",
+    "answer": " motorcycle/bike",
+    "alt": "",
+    "audio_prompt": "sustantivos/191.mp3"
+  },
+  {
+    "key": "el movimiento",
+    "answer": " movement",
+    "alt": "",
+    "audio_prompt": "sustantivos/192.mp3"
+  },
+  {
+    "key": "la mujer",
+    "answer": " girl/woman",
+    "alt": "",
+    "audio_prompt": "sustantivos/193.mp3"
+  },
+  {
+    "key": "el mundo",
+    "answer": " world",
+    "alt": " todo el mundo (all the world)",
+    "audio_prompt": "sustantivos/194.mp3"
+  },
+  {
+    "key": "la necesidad",
+    "answer": " necessity",
+    "alt": "",
+    "audio_prompt": "sustantivos/195.mp3"
+  },
+  {
+    "key": "el nivel",
+    "answer": " level/height",
+    "alt": "",
+    "audio_prompt": "sustantivos/196.mp3"
+  },
+  {
+    "key": "la noche",
+    "answer": " night / no light",
+    "alt": "",
+    "audio_prompt": "sustantivos/197.mp3"
+  },
+  {
+    "key": "el norte",
+    "answer": " north",
+    "alt": "",
+    "audio_prompt": "sustantivos/198.mp3"
+  },
+  {
+    "key": "el objetivo",
+    "answer": " objective",
+    "alt": "",
+    "audio_prompt": "sustantivos/199.mp3"
+  },
+  {
+    "key": "la obra",
+    "answer": " work/deed",
+    "alt": "",
+    "audio_prompt": "sustantivos/200.mp3"
+  },
+  {
+    "key": "la ocasi\u00f3n",
+    "answer": " occasion/opportunity",
+    "alt": "",
+    "audio_prompt": "sustantivos/201.mp3"
+  },
+  {
+    "key": "el oeste",
+    "answer": " west",
+    "alt": "",
+    "audio_prompt": "sustantivos/202.mp3"
+  },
+  {
+    "key": "el oficial",
+    "answer": " oficial",
+    "alt": "",
+    "audio_prompt": "sustantivos/203.mp3"
+  },
+  {
+    "key": "el ojo",
+    "answer": " eye",
+    "alt": "",
+    "audio_prompt": "sustantivos/204.mp3"
+  },
+  {
+    "key": "la oportunidad",
+    "answer": " opportunity",
+    "alt": "",
+    "audio_prompt": "sustantivos/205.mp3"
+  },
+  {
+    "key": "la orientaci\u00f3n",
+    "answer": " orientation",
+    "alt": "",
+    "audio_prompt": "sustantivos/206.mp3"
+  },
+  {
+    "key": "el origen",
+    "answer": " origin",
+    "alt": "",
+    "audio_prompt": "sustantivos/207.mp3"
+  },
+  {
+    "key": "el oso",
+    "answer": " bear",
+    "alt": "",
+    "audio_prompt": "sustantivos/208.mp3"
+  },
+  {
+    "key": "el p\u00e1jaro",
+    "answer": " bird",
+    "alt": "",
+    "audio_prompt": "sustantivos/209.mp3"
+  },
+  {
+    "key": "el pa\u00eds",
+    "answer": " country",
+    "alt": "",
+    "audio_prompt": "sustantivos/210.mp3"
+  },
+  {
+    "key": "las palabras",
+    "answer": " words",
+    "alt": "",
+    "audio_prompt": "sustantivos/211.mp3"
+  },
+  {
+    "key": "la pantalla",
+    "answer": " screen",
+    "alt": "",
+    "audio_prompt": "sustantivos/212.mp3"
+  },
+  {
+    "key": "el par",
+    "answer": " pair",
+    "alt": " un par de zapatos (a pair of shoes)",
+    "audio_prompt": "sustantivos/213.mp3"
+  },
+  {
+    "key": "la pared",
+    "answer": " wall",
+    "alt": "",
+    "audio_prompt": "sustantivos/214.mp3"
+  },
+  {
+    "key": "la pareja",
+    "answer": " couple/pair",
+    "alt": "",
+    "audio_prompt": "sustantivos/215.mp3"
+  },
+  {
+    "key": "la parte",
+    "answer": " part/portion",
+    "alt": "",
+    "audio_prompt": "sustantivos/216.mp3"
+  },
+  {
+    "key": "el paso",
+    "answer": " pass/go by/step",
+    "alt": "",
+    "audio_prompt": "sustantivos/217.mp3"
+  },
+  {
+    "key": "el pato",
+    "answer": " duck",
+    "alt": "",
+    "audio_prompt": "sustantivos/218.mp3"
+  },
+  {
+    "key": "la patria",
+    "answer": " homeland",
+    "alt": "",
+    "audio_prompt": "sustantivos/219.mp3"
+  },
+  {
+    "key": "el payaso",
+    "answer": " clown",
+    "alt": " la payasa",
+    "audio_prompt": "sustantivos/220.mp3"
+  },
+  {
+    "key": "la paz",
+    "answer": " peace",
+    "alt": "",
+    "audio_prompt": "sustantivos/221.mp3"
+  },
+  {
+    "key": "la pelea",
+    "answer": " fight",
+    "alt": "",
+    "audio_prompt": "sustantivos/222.mp3"
+  },
+  {
+    "key": "la pel\u00edcula",
+    "answer": " movie",
+    "alt": "",
+    "audio_prompt": "sustantivos/223.mp3"
+  },
+  {
+    "key": "el peligro",
+    "answer": " danger",
+    "alt": "",
+    "audio_prompt": "sustantivos/224.mp3"
+  },
+  {
+    "key": "la pena",
+    "answer": " pity / shame / pain",
+    "alt": " \u201cno vale la pena\u201d it\u2019s not worth it",
+    "audio_prompt": "sustantivos/225.mp3"
+  },
+  {
+    "key": "el pensamiento",
+    "answer": " thought",
+    "alt": "",
+    "audio_prompt": "sustantivos/226.mp3"
+  },
+  {
+    "key": "el peri\u00f3dico",
+    "answer": " newspaper",
+    "alt": "",
+    "audio_prompt": "sustantivos/227.mp3"
+  },
+  {
+    "key": "el personaje",
+    "answer": " character/personage",
+    "alt": "",
+    "audio_prompt": "sustantivos/228.mp3"
+  },
+  {
+    "key": "el pie",
+    "answer": " foot",
+    "alt": "",
+    "audio_prompt": "sustantivos/229.mp3"
+  },
+  {
+    "key": "la pista",
+    "answer": " clues/course/lane/track",
+    "alt": "",
+    "audio_prompt": "sustantivos/230.mp3"
+  },
+  {
+    "key": "el placer",
+    "answer": " pleasure",
+    "alt": "",
+    "audio_prompt": "sustantivos/231.mp3"
+  },
+  {
+    "key": "la pluma",
+    "answer": " feather/pen",
+    "alt": "",
+    "audio_prompt": "sustantivos/232.mp3"
+  },
+  {
+    "key": "el poeta",
+    "answer": " poet",
+    "alt": " la poeta",
+    "audio_prompt": "sustantivos/233.mp3"
+  },
+  {
+    "key": "el polvo",
+    "answer": " dust/powder",
+    "alt": "",
+    "audio_prompt": "sustantivos/234.mp3"
+  },
+  {
+    "key": "la posibilidad",
+    "answer": " possibility",
+    "alt": "",
+    "audio_prompt": "sustantivos/235.mp3"
+  },
+  {
+    "key": "la posici\u00f3n",
+    "answer": " position",
+    "alt": "",
+    "audio_prompt": "sustantivos/236.mp3"
+  },
+  {
+    "key": "el pueblecito",
+    "answer": " small village",
+    "alt": "",
+    "audio_prompt": "sustantivos/237.mp3"
+  },
+  {
+    "key": "el puente",
+    "answer": " bridge",
+    "alt": "",
+    "audio_prompt": "sustantivos/238.mp3"
+  },
+  {
+    "key": "la puerta",
+    "answer": " door",
+    "alt": "",
+    "audio_prompt": "sustantivos/239.mp3"
+  },
+  {
+    "key": "la pr\u00e1ctica",
+    "answer": " practice",
+    "alt": "",
+    "audio_prompt": "sustantivos/240.mp3"
+  },
+  {
+    "key": "el precio",
+    "answer": " price",
+    "alt": "",
+    "audio_prompt": "sustantivos/241.mp3"
+  },
+  {
+    "key": "el premio",
+    "answer": " prize/award",
+    "alt": "",
+    "audio_prompt": "sustantivos/242.mp3"
+  },
+  {
+    "key": "el principio",
+    "answer": " beginning",
+    "alt": "",
+    "audio_prompt": "sustantivos/243.mp3"
+  },
+  {
+    "key": "el problema",
+    "answer": " problem",
+    "alt": "",
+    "audio_prompt": "sustantivos/244.mp3"
+  },
+  {
+    "key": "el proceso",
+    "answer": " process",
+    "alt": "",
+    "audio_prompt": "sustantivos/245.mp3"
+  },
+  {
+    "key": "la producci\u00f3n",
+    "answer": " production",
+    "alt": "",
+    "audio_prompt": "sustantivos/246.mp3"
+  },
+  {
+    "key": "la profesi\u00f3n",
+    "answer": " profession",
+    "alt": "",
+    "audio_prompt": "sustantivos/247.mp3"
+  },
+  {
+    "key": "el programa",
+    "answer": " program",
+    "alt": "",
+    "audio_prompt": "sustantivos/248.mp3"
+  },
+  {
+    "key": "el prop\u00f3sito",
+    "answer": " purpose",
+    "alt": "",
+    "audio_prompt": "sustantivos/249.mp3"
+  },
+  {
+    "key": "la protecci\u00f3n",
+    "answer": " protection",
+    "alt": "",
+    "audio_prompt": "sustantivos/250.mp3"
+  },
+  {
+    "key": "el quehacer",
+    "answer": " task/job/todo",
+    "alt": " \u201clista de quehacer\u201d",
+    "audio_prompt": "sustantivos/251.mp3"
+  },
+  {
+    "key": "el rato",
+    "answer": " time / a while",
+    "alt": " \u201cun rato\u201d for awhile",
+    "audio_prompt": "sustantivos/252.mp3"
+  },
+  {
+    "key": "la raz\u00f3n",
+    "answer": " reason",
+    "alt": "",
+    "audio_prompt": "sustantivos/253.mp3"
+  },
+  {
+    "key": "la realidad",
+    "answer": " reality",
+    "alt": "",
+    "audio_prompt": "sustantivos/254.mp3"
+  },
+  {
+    "key": "el recado",
+    "answer": " message",
+    "alt": "",
+    "audio_prompt": "sustantivos/255.mp3"
+  },
+  {
+    "key": "la red",
+    "answer": " network/hairnet",
+    "alt": "",
+    "audio_prompt": "sustantivos/256.mp3"
+  },
+  {
+    "key": "las reglas",
+    "answer": " rules",
+    "alt": "",
+    "audio_prompt": "sustantivos/257.mp3"
+  },
+  {
+    "key": "el reloj",
+    "answer": " clock/watch",
+    "alt": "",
+    "audio_prompt": "sustantivos/258.mp3"
+  },
+  {
+    "key": "el rescate",
+    "answer": " rescue",
+    "alt": "",
+    "audio_prompt": "sustantivos/259.mp3"
+  },
+  {
+    "key": "la respuesta",
+    "answer": " answer",
+    "alt": "",
+    "audio_prompt": "sustantivos/260.mp3"
+  },
+  {
+    "key": "el resultado",
+    "answer": " result",
+    "alt": "",
+    "audio_prompt": "sustantivos/261.mp3"
+  },
+  {
+    "key": "la revista",
+    "answer": " magazine",
+    "alt": "",
+    "audio_prompt": "sustantivos/262.mp3"
+  },
+  {
+    "key": "la revoluci\u00f3n",
+    "answer": " revolution",
+    "alt": "",
+    "audio_prompt": "sustantivos/263.mp3"
+  },
+  {
+    "key": "la ropa",
+    "answer": " clothes",
+    "alt": "",
+    "audio_prompt": "sustantivos/264.mp3"
+  },
+  {
+    "key": "la rueda",
+    "answer": " wheel",
+    "alt": "",
+    "audio_prompt": "sustantivos/265.mp3"
+  },
+  {
+    "key": "el ruido",
+    "answer": " noise",
+    "alt": "",
+    "audio_prompt": "sustantivos/266.mp3"
+  },
+  {
+    "key": "el rumbo",
+    "answer": " course",
+    "alt": "",
+    "audio_prompt": "sustantivos/267.mp3"
+  },
+  {
+    "key": "la ruta",
+    "answer": " route",
+    "alt": "",
+    "audio_prompt": "sustantivos/268.mp3"
+  },
+  {
+    "key": "el saber",
+    "answer": " knowledge",
+    "alt": "",
+    "audio_prompt": "sustantivos/269.mp3"
+  },
+  {
+    "key": "la sala",
+    "answer": " lounge",
+    "alt": "",
+    "audio_prompt": "sustantivos/270.mp3"
+  },
+  {
+    "key": "la salida",
+    "answer": " exit",
+    "alt": "",
+    "audio_prompt": "sustantivos/271.mp3"
+  },
+  {
+    "key": "el sal\u00f3n",
+    "answer": " hall/living room/",
+    "alt": "",
+    "audio_prompt": "sustantivos/272.mp3"
+  },
+  {
+    "key": "el salvo",
+    "answer": " safe",
+    "alt": "",
+    "audio_prompt": "sustantivos/273.mp3"
+  },
+  {
+    "key": "la secci\u00f3n",
+    "answer": " section",
+    "alt": "",
+    "audio_prompt": "sustantivos/274.mp3"
+  },
+  {
+    "key": "el sector",
+    "answer": " sector",
+    "alt": "",
+    "audio_prompt": "sustantivos/275.mp3"
+  },
+  {
+    "key": "la sed",
+    "answer": " thirst",
+    "alt": "",
+    "audio_prompt": "sustantivos/276.mp3"
+  },
+  {
+    "key": "la selecci\u00f3n",
+    "answer": " selection",
+    "alt": "",
+    "audio_prompt": "sustantivos/277.mp3"
+  },
+  {
+    "key": "la semana",
+    "answer": " week",
+    "alt": "",
+    "audio_prompt": "sustantivos/278.mp3"
+  },
+  {
+    "key": "la se\u00f1al",
+    "answer": " signal",
+    "alt": "",
+    "audio_prompt": "sustantivos/279.mp3"
+  },
+  {
+    "key": "el servicio",
+    "answer": " service",
+    "alt": "",
+    "audio_prompt": "sustantivos/280.mp3"
+  },
+  {
+    "key": "la sien",
+    "answer": " temple",
+    "alt": "",
+    "audio_prompt": "sustantivos/281.mp3"
+  },
+  {
+    "key": "la silla",
+    "answer": " seat/chair",
+    "alt": "",
+    "audio_prompt": "sustantivos/282.mp3"
+  },
+  {
+    "key": "el sofa",
+    "answer": " sofa",
+    "alt": "",
+    "audio_prompt": "sustantivos/283.mp3"
+  },
+  {
+    "key": "la soluci\u00f3n",
+    "answer": " solution",
+    "alt": "",
+    "audio_prompt": "sustantivos/284.mp3"
+  },
+  {
+    "key": "la sombra",
+    "answer": " share",
+    "alt": "",
+    "audio_prompt": "sustantivos/285.mp3"
+  },
+  {
+    "key": "la sonrisa",
+    "answer": " smile",
+    "alt": "",
+    "audio_prompt": "sustantivos/286.mp3"
+  },
+  {
+    "key": "la suerte",
+    "answer": " chance/luck",
+    "alt": "",
+    "audio_prompt": "sustantivos/287.mp3"
+  },
+  {
+    "key": "el su\u00e9ter",
+    "answer": " sweater",
+    "alt": "",
+    "audio_prompt": "sustantivos/288.mp3"
+  },
+  {
+    "key": "el suelo",
+    "answer": " ground/floor/soil",
+    "alt": "",
+    "audio_prompt": "sustantivos/289.mp3"
+  },
+  {
+    "key": "la suma",
+    "answer": " addition",
+    "alt": "",
+    "audio_prompt": "sustantivos/290.mp3"
+  },
+  {
+    "key": "el sur",
+    "answer": " south",
+    "alt": "",
+    "audio_prompt": "sustantivos/291.mp3"
+  },
+  {
+    "key": "el tama\u00f1o",
+    "answer": " size",
+    "alt": "",
+    "audio_prompt": "sustantivos/292.mp3"
+  },
+  {
+    "key": "la tarea",
+    "answer": " task/job",
+    "alt": "",
+    "audio_prompt": "sustantivos/293.mp3"
+  },
+  {
+    "key": "la tarjeta",
+    "answer": " card",
+    "alt": "",
+    "audio_prompt": "sustantivos/294.mp3"
+  },
+  {
+    "key": "el teatro",
+    "answer": " theater house",
+    "alt": "",
+    "audio_prompt": "sustantivos/295.mp3"
+  },
+  {
+    "key": "la tienda",
+    "answer": " store/shop",
+    "alt": "",
+    "audio_prompt": "sustantivos/296.mp3"
+  },
+  {
+    "key": "el tema",
+    "answer": " subject",
+    "alt": "",
+    "audio_prompt": "sustantivos/297.mp3"
+  },
+  {
+    "key": "el temor",
+    "answer": " fear",
+    "alt": "",
+    "audio_prompt": "sustantivos/298.mp3"
+  },
+  {
+    "key": "el temple",
+    "answer": " mood/temper",
+    "alt": " temperament",
+    "audio_prompt": "sustantivos/299.mp3"
+  },
+  {
+    "key": "el templo",
+    "answer": " temple",
+    "alt": "",
+    "audio_prompt": "sustantivos/300.mp3"
+  },
+  {
+    "key": "la tensi\u00f3n",
+    "answer": " tension",
+    "alt": "",
+    "audio_prompt": "sustantivos/301.mp3"
+  },
+  {
+    "key": "el t\u00e9rmino",
+    "answer": " term/end/conclusion",
+    "alt": "",
+    "audio_prompt": "sustantivos/302.mp3"
+  },
+  {
+    "key": "el testigo",
+    "answer": " witness/control/indicator light",
+    "alt": "",
+    "audio_prompt": "sustantivos/303.mp3"
+  },
+  {
+    "key": "el tiempo",
+    "answer": " time/weather",
+    "alt": "",
+    "audio_prompt": "sustantivos/304.mp3"
+  },
+  {
+    "key": "las tijeras",
+    "answer": " scissors",
+    "alt": "",
+    "audio_prompt": "sustantivos/305.mp3"
+  },
+  {
+    "key": "el t\u00edtulo",
+    "answer": " title",
+    "alt": "",
+    "audio_prompt": "sustantivos/306.mp3"
+  },
+  {
+    "key": "el tipo",
+    "answer": " type/kind",
+    "alt": "",
+    "audio_prompt": "sustantivos/307.mp3"
+  },
+  {
+    "key": "la tonelada",
+    "answer": " ton",
+    "alt": "",
+    "audio_prompt": "sustantivos/308.mp3"
+  },
+  {
+    "key": "la torre",
+    "answer": " towers",
+    "alt": "",
+    "audio_prompt": "sustantivos/309.mp3"
+  },
+  {
+    "key": "la traduccion",
+    "answer": " translation",
+    "alt": "",
+    "audio_prompt": "sustantivos/310.mp3"
+  },
+  {
+    "key": "el tr\u00e1fico",
+    "answer": " traffic",
+    "alt": "",
+    "audio_prompt": "sustantivos/311.mp3"
+  },
+  {
+    "key": "el traje",
+    "answer": " suit",
+    "alt": "",
+    "audio_prompt": "sustantivos/312.mp3"
+  },
+  {
+    "key": "la vacaci\u00f3n",
+    "answer": " holiday/vacation",
+    "alt": "",
+    "audio_prompt": "sustantivos/313.mp3"
+  },
+  {
+    "key": "el vecino",
+    "answer": " neighbor",
+    "alt": "",
+    "audio_prompt": "sustantivos/314.mp3"
+  },
+  {
+    "key": "el vegetal",
+    "answer": " vegetable",
+    "alt": "",
+    "audio_prompt": "sustantivos/315.mp3"
+  },
+  {
+    "key": "la ventana",
+    "answer": " window",
+    "alt": "",
+    "audio_prompt": "sustantivos/316.mp3"
+  },
+  {
+    "key": "la verdad",
+    "answer": " truth",
+    "alt": "",
+    "audio_prompt": "sustantivos/317.mp3"
+  },
+  {
+    "key": "el vestido",
+    "answer": " dress",
+    "alt": "",
+    "audio_prompt": "sustantivos/318.mp3"
+  },
+  {
+    "key": "la vez",
+    "answer": " time/occurrance",
+    "alt": " \u201cla primera vez\u201d / \u201cla segunda vez\u201d",
+    "audio_prompt": "sustantivos/319.mp3"
+  },
+  {
+    "key": "el viaje",
+    "answer": " trip",
+    "alt": "",
+    "audio_prompt": "sustantivos/320.mp3"
+  },
+  {
+    "key": "la video",
+    "answer": " life",
+    "alt": "",
+    "audio_prompt": "sustantivos/321.mp3"
+  },
+  {
+    "key": "la visi\u00f3n",
+    "answer": " vision",
+    "alt": "",
+    "audio_prompt": "sustantivos/322.mp3"
+  }
+]

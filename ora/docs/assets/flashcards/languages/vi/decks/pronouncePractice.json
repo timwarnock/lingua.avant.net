@@ -1,0 +1,212 @@
+[
+  {
+    "key": "i / e / \u00ea",
+    "answer": "/i/ /\u025b/ /e/",
+    "alt": "front mouth",
+    "audio_prompt": "pronounce/44.mp3"
+  },
+  {
+    "key": "a / \u0103 / \u00e2",
+    "answer": "/a:/ /a/ /\u0259/",
+    "alt": "unrounded mouth",
+    "audio_prompt": "pronounce/45.mp3"
+  },
+  {
+    "key": "\u01a1 / \u01b0",
+    "answer": "/\u0259:/ /\u0268/",
+    "alt": "unrounded mouth",
+    "audio_prompt": "pronounce/46.mp3"
+  },
+  {
+    "key": "u / \u00f4 / o",
+    "answer": "/u/ /o/ /\u0254/",
+    "alt": "rounded mouth",
+    "audio_prompt": "pronounce/47.mp3"
+  },
+  {
+    "key": "\u01a1 / \u00e2",
+    "answer": "/\u0259:/ /\u0259/",
+    "alt": "unrounded (long/short)",
+    "audio_prompt": "pronounce/48.mp3"
+  },
+  {
+    "key": "a / \u0103",
+    "answer": "/a:/ /a/",
+    "alt": "unrounded (long/short)",
+    "audio_prompt": "pronounce/49.mp3"
+  },
+  {
+    "key": "nghi / nghe / ngh\u00ea",
+    "answer": "",
+    "alt": "ng + front vowels = ngh",
+    "audio_prompt": "pronounce/50.mp3"
+  },
+  {
+    "key": "ng\u01b0 / ng\u01a1 / nga",
+    "answer": "",
+    "alt": "ng + unrounded vowels",
+    "audio_prompt": "pronounce/51.mp3"
+  },
+  {
+    "key": "ng\u00e2n nga",
+    "answer": "humming",
+    "alt": "",
+    "audio_prompt": "pronounce/52.mp3"
+  },
+  {
+    "key": "nga / ng\u0103n",
+    "answer": "rusian / compartment",
+    "alt": "unrounded long/short",
+    "audio_prompt": "pronounce/53.mp3"
+  },
+  {
+    "key": "ngu / ng\u00f4 / ngo",
+    "answer": "",
+    "alt": "ng + rounded vowels",
+    "audio_prompt": "pronounce/54.mp3"
+  },
+  {
+    "key": "Nguy\u1ec5n",
+    "answer": "",
+    "alt": "family name",
+    "audio_prompt": "pronounce/55.mp3"
+  },
+  {
+    "key": "xoong / xong",
+    "answer": "",
+    "alt": "close mouth on xong",
+    "audio_prompt": "pronounce/56.mp3"
+  },
+  {
+    "key": "\u00e2n / t\u00e2n / n\u00e2ng",
+    "answer": "",
+    "alt": "\u00e2 is never a final sound",
+    "audio_prompt": "pronounce/57.mp3"
+  },
+  {
+    "key": "con / son / xoong",
+    "answer": "",
+    "alt": "open mouth on xoong",
+    "audio_prompt": "pronounce/58.mp3"
+  },
+  {
+    "key": "mu\u1ed1n / mua",
+    "answer": "",
+    "alt": "dipthong ending is always a",
+    "audio_prompt": "pronounce/59.mp3"
+  },
+  {
+    "key": "anh / ang",
+    "answer": "",
+    "alt": "",
+    "audio_prompt": "pronounce/60.mp3"
+  },
+  {
+    "key": "\u00e1ch / \u00e1c",
+    "answer": "",
+    "alt": "",
+    "audio_prompt": "pronounce/61.mp3"
+  },
+  {
+    "key": "ba bo b\u00f4 b\u01a1 be b\u00ea bu b\u01b0 bi",
+    "answer": "",
+    "alt": "",
+    "audio_prompt": "pronounce/62.mp3"
+  },
+  {
+    "key": "khom kh\u00f4m kh\u01a1m khum kh\u01b0m",
+    "answer": "",
+    "alt": "",
+    "audio_prompt": "pronounce/63.mp3"
+  },
+  {
+    "key": "kh\u00e1n kh\u00e1ng kh\u00e1nh",
+    "answer": "",
+    "alt": "",
+    "audio_prompt": "pronounce/64.mp3"
+  },
+  {
+    "key": "dao dau",
+    "answer": "",
+    "alt": "/w/",
+    "audio_prompt": "pronounce/65.mp3"
+  },
+  {
+    "key": "ngai ngay",
+    "answer": "",
+    "alt": "short long",
+    "audio_prompt": "pronounce/66.mp3"
+  },
+  {
+    "key": "nhi / nghi",
+    "answer": "",
+    "alt": "nh/ng + i (ngh)",
+    "audio_prompt": "pronounce/72.mp3"
+  },
+  {
+    "key": "nhe / nghe",
+    "answer": "",
+    "alt": "nh/ng + e (ngh)",
+    "audio_prompt": "pronounce/73.mp3"
+  },
+  {
+    "key": "nh\u01b0 / ng\u01b0",
+    "answer": "",
+    "alt": "nh/ng + \u01b0",
+    "audio_prompt": "pronounce/74.mp3"
+  },
+  {
+    "key": "nh\u01a1 / ng\u01a1",
+    "answer": "",
+    "alt": "nh/ng + \u01a1",
+    "audio_prompt": "pronounce/75.mp3"
+  },
+  {
+    "key": "nh\u00e2n / ng\u00e2n",
+    "answer": "",
+    "alt": "nh/ng + \u00e2n",
+    "audio_prompt": "pronounce/76.mp3"
+  },
+  {
+    "key": "nha / nga",
+    "answer": "",
+    "alt": "nh/ng + a",
+    "audio_prompt": "pronounce/77.mp3"
+  },
+  {
+    "key": "nh\u0103n / ng\u0103n",
+    "answer": "",
+    "alt": "nh/ng + \u0103n",
+    "audio_prompt": "pronounce/78.mp3"
+  },
+  {
+    "key": "nhu / ngu",
+    "answer": "",
+    "alt": "nh/ng + u",
+    "audio_prompt": "pronounce/79.mp3"
+  },
+  {
+    "key": "nh\u00f4 / ng\u00f4",
+    "answer": "",
+    "alt": "nh/ng + \u00f4",
+    "audio_prompt": "pronounce/80.mp3"
+  },
+  {
+    "key": "nho / ngo",
+    "answer": "",
+    "alt": "nh/ng + o",
+    "audio_prompt": "pronounce/81.mp3"
+  },
+  {
+    "key": "nh\u00ea / ngh\u00ea",
+    "answer": "",
+    "alt": "nh/ng + \u00ea (ngh)",
+    "audio_prompt": "pronounce/82.mp3"
+  },
+  {
+    "key": "b\u0103n / b\u1eb1n / b\u1eafn",
+    "answer": "",
+    "alt": "thanh kh\u00f4ng / huy\u1ec1n / s\u1eafc",
+    "audio_prompt": "pronounce/83.mp3"
+  }
+]

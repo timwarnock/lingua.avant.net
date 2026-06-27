@@ -1,0 +1,152 @@
+[
+  {
+    "key": "\u6d3b\u5230\u8001\u5b78\u5230\u8001",
+    "answer": "live till old learn till old",
+    "alt": "Hu\u00f3 d\u00e0o l\u01ceo xu\u00e9 d\u00e0o l\u01ceo",
+    "audio": "learning/1.mp3"
+  },
+  {
+    "key": "\u9019\u662f\u4ec0\u9ebc?",
+    "answer": "what is this?",
+    "alt": "zh\u00e8 sh\u00ec sh\u00e9nme",
+    "audio": "learning/2.mp3"
+  },
+  {
+    "key": "\u90a3\u662f\u4ec0\u9ebc?",
+    "answer": "what is that?",
+    "alt": "n\u00e0 sh\u00ec sh\u00e9nme",
+    "audio": "learning/3.mp3"
+  },
+  {
+    "key": "...\u7684\u4e2d\u6587\u600e\u9ebc\u8aaa?",
+    "answer": "how do you say ... in Chinese?",
+    "alt": "... de zh\u014dngw\u00e9n z\u011bnme shu\u014d",
+    "audio": "learning/4.mp3"
+  },
+  {
+    "key": "...\u7528\u4e2d\u6587\u600e\u9ebc\u8aaa?",
+    "answer": "how do you say ... in Chinese?",
+    "alt": "... y\u00f2ng zh\u014dngw\u00e9n z\u011bnme shu\u014d",
+    "audio": "learning/5.mp3"
+  },
+  {
+    "key": "...\u7684\u4e2d\u6587\u662f\u4ec0\u9ebc?",
+    "answer": "what is ... in Chinese?",
+    "alt": "... de zh\u014dngw\u00e9n sh\u00ec sh\u00e9nme",
+    "audio": "learning/6.mp3"
+  },
+  {
+    "key": "...\u7528\u4e2d\u6587\u662f\u4ec0\u9ebc?",
+    "answer": "what is ... in Chinese?",
+    "alt": "... y\u00f2ng zh\u014dngw\u00e9n sh\u00ec sh\u00e9nme",
+    "audio": "learning/7.mp3"
+  },
+  {
+    "key": "\u6211\u60f3\u4e86\u89e3\u4f60",
+    "answer": "I want to understand you",
+    "alt": "W\u01d2 xi\u01ceng li\u01ceoji\u011b n\u01d0",
+    "audio": "learning/8.mp3"
+  },
+  {
+    "key": "\u90a3\u662f\u4ec0\u9ebc\u610f\u601d\uff1f",
+    "answer": "what does that mean?",
+    "alt": "N\u00e0 sh\u00ec sh\u00e9nme y\u00ecsi?",
+    "audio": "learning/9.mp3"
+  },
+  {
+    "key": "\u4f60\u80fd\u8aaa\u6162\u9ede\u55ce\uff1f",
+    "answer": "can you say it slower?",
+    "alt": "N\u01d0 n\u00e9ng shu\u014d m\u00e0n di\u01cen ma?",
+    "audio": "learning/10.mp3"
+  },
+  {
+    "key": "\u90a3\u662f\u8ab0\uff1f",
+    "answer": "who is that?",
+    "alt": "N\u00e0 sh\u00ec shu\u00ed?",
+    "audio": "learning/11.mp3"
+  },
+  {
+    "key": "\u4ed6\u5011\u662f\u8ab0\uff1f",
+    "answer": "who are they?",
+    "alt": "T\u0101men sh\u00ec shu\u00ed?",
+    "audio": "learning/12.mp3"
+  },
+  {
+    "key": "\u6703\u767c\u751f\u4ec0\u9ebc\uff1f",
+    "answer": "what will happen?",
+    "alt": "Hu\u00ec f\u0101sh\u0113ng sh\u00e9nme?",
+    "audio": "learning/13.mp3"
+  },
+  {
+    "key": "\u63a5\u4e0b\u4f86\u6703\u767c\u751f\u4ec0\u9ebc\uff1f",
+    "answer": "what will happen next?",
+    "alt": "Ji\u0113 xi\u00e0l\u00e1i hu\u00ec f\u0101sh\u0113ng sh\u00e9nme?",
+    "audio": "learning/14.mp3"
+  },
+  {
+    "key": "\u525b\u525b\u767c\u751f\u4e86\u4ec0\u9ebc?",
+    "answer": "what just happened?",
+    "alt": "G\u0101ngg\u0101ng f\u0101sh\u0113ngle sh\u00e9nme",
+    "audio": "learning/15.mp3"
+  },
+  {
+    "key": "\u90a3\u662f\u4ec0\u9ebc\u6642\u5019\uff1f",
+    "answer": "when was that?",
+    "alt": "N\u00e0 sh\u00ec sh\u00e9nme sh\u00edh\u00f2u?",
+    "audio": "learning/16.mp3"
+  },
+  {
+    "key": "\u90a3\u6703\u662f\u4ec0\u9ebc\u6642\u5019\uff1f",
+    "answer": "when will that be?",
+    "alt": "N\u00e0 hu\u00ec sh\u00ec sh\u00e9nme sh\u00edh\u00f2u?",
+    "audio": "learning/17.mp3"
+  },
+  {
+    "key": "\u90a3\u662f\u54ea\u88e1\uff1f",
+    "answer": "where is that?",
+    "alt": "N\u00e0 sh\u00ec n\u01cel\u01d0?",
+    "audio": "learning/18.mp3"
+  },
+  {
+    "key": "\u4ed6\u5011\u8981\u53bb\u54ea\uff1f",
+    "answer": "where are they going?",
+    "alt": "T\u0101men y\u00e0o q\u00f9 n\u01ce?",
+    "audio": "learning/19.mp3"
+  },
+  {
+    "key": "\u4f60\u5728\u54ea\u88e1\u627e\u5230\u9019\u500b\uff1f",
+    "answer": "where did you find this?",
+    "alt": "N\u01d0 z\u00e0i n\u01cel\u01d0 zh\u01ceod\u00e0o zh\u00e8ge?",
+    "audio": "learning/20.mp3"
+  },
+  {
+    "key": "\u9019\u500b\u600e\u9ebc\u7528\uff1f",
+    "answer": "how does this work?",
+    "alt": "Zh\u00e8ge z\u011bnme y\u00f2ng?",
+    "audio": "learning/21.mp3"
+  },
+  {
+    "key": "\u600e\u9ebc\u505a",
+    "answer": "how to do it",
+    "alt": "Z\u011bnme zu\u00f2",
+    "audio": "learning/22.mp3"
+  },
+  {
+    "key": "\u4f60\u6700\u559c\u6b61\u4ec0\u9ebc\u984f\u8272\uff1f",
+    "answer": "what is your favorite color?",
+    "alt": "N\u01d0 zu\u00ec x\u01d0hu\u0101n sh\u00e9nme y\u00e1ns\u00e8?",
+    "audio": "learning/23.mp3"
+  },
+  {
+    "key": "\u4f60\u6700\u559c\u6b61\u7684\u97f3\u6a02\u662f\u4ec0\u9ebc\uff1f",
+    "answer": "what is your favorite music?",
+    "alt": "N\u01d0 zu\u00ec x\u01d0hu\u0101n de y\u012bnyu\u00e8 sh\u00ec sh\u00e9nme?",
+    "audio": "learning/24.mp3"
+  },
+  {
+    "key": "\u54ea\u4e00\u500b\u66f4\u597d\uff1f",
+    "answer": "which one is better?",
+    "alt": "N\u01ce y\u012bg\u00e8 g\u00e8ng h\u01ceo?",
+    "audio": "learning/25.mp3"
+  }
+]

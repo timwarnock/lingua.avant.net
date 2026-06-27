@@ -1,0 +1,152 @@
+[
+  {
+    "key": "\u719f\u80fd\u751f\u5de7",
+    "answer": "practice makes perfect",
+    "alt": "Sh\u00fan\u00e9ng sh\u0113ngqi\u01ceo",
+    "audio": "danger/practice perfect.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u660e\u767d",
+    "answer": "I do not understand",
+    "alt": "W\u01d2 b\u00f9 m\u00edngb\u00e1i",
+    "audio": "danger/I do not understand mingbai.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u61c2\u4e86",
+    "answer": "I do not understand",
+    "alt": "W\u01d2 b\u00f9 d\u01d2ngle",
+    "audio": "danger/I do not understand.mp3"
+  },
+  {
+    "key": "\u6211\u5f88\u56f0\u60d1",
+    "answer": "I'm confused",
+    "alt": "W\u01d2 h\u011bn k\u00f9nhu\u00f2",
+    "audio": "danger/I am confused.mp3"
+  },
+  {
+    "key": "\u6211\u73fe\u5728\u5f88\u56f0\u60d1",
+    "answer": "I'm so confused right now",
+    "alt": "W\u01d2 xi\u00e0nz\u00e0i h\u011bn k\u00f9nhu\u00f2",
+    "audio": "danger/I am confused right now.mp3"
+  },
+  {
+    "key": "\u8acb\u4f60\u6162\u6162\u5730\u8aaa?",
+    "answer": "can you speak slowly please?",
+    "alt": "q\u01d0ng n\u01d0 m\u00e0n man de shu\u014d?",
+    "audio": "danger/can you speak slowly please.mp3"
+  },
+  {
+    "key": "\u4f60\u53ef\u4ee5\u518d\u8aaa\u4e00\u6b21\u55ce?",
+    "answer": "can you say again?",
+    "alt": "n\u01d0 k\u011by\u01d0 z\u00e0ishu\u014d y\u012bc\u00ec ma",
+    "audio": "danger/can you say again.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u77e5\u9053\u600e\u9ebc\u8aaa",
+    "answer": "I do not know how to say",
+    "alt": "W\u01d2 b\u00f9 zh\u012bd\u00e0o z\u011bnme shu\u014d",
+    "audio": "danger/I do not know how to say.mp3"
+  },
+  {
+    "key": "\u5c0d\u4e0d\u8d77 \u6211\u7684\u4e2d\u6587\u4e0d\u597d",
+    "answer": "I am sorry - my Chinese is bad",
+    "alt": "Du\u00ecb\u00f9q\u01d0 w\u01d2 de zh\u014dngw\u00e9n b\u00f9 h\u01ceo",
+    "audio": "danger/sorry my chinese is bad.mp3"
+  },
+  {
+    "key": "\u9019\u5c0d\u6211\u4f86\u8aaa\u5f88\u96e3\u7406\u89e3",
+    "answer": "This is difficult for me to understand",
+    "alt": "Zh\u00e8 du\u00ec w\u01d2 l\u00e1i shu\u014d h\u011bn n\u00e1n l\u01d0ji\u011b",
+    "audio": "danger/this is hard for me to understand.mp3"
+  },
+  {
+    "key": "\u6211\u89ba\u5f97\u6211\u8166\u5b50\u58de\u4e86",
+    "answer": "I think my brain is broken",
+    "alt": "W\u01d2 ju\u00e9d\u00e9 w\u01d2 n\u01ceozi hu\u00e0ile",
+    "audio": "danger/I think my brain is broken.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u660e\u767d\u9019\u662f\u4ec0\u9ebc\u610f\u601d",
+    "answer": "I do not understand what that means",
+    "alt": "W\u01d2 b\u00f9 m\u00edngb\u00e1i zh\u00e8 sh\u00ec sh\u00e9nme y\u00ecsi",
+    "audio": "danger/I do not understand what it means.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u660e\u767d\u9019\u500b\u610f\u601d",
+    "answer": "I do not understand the meaning",
+    "alt": "W\u01d2 b\u00f9 m\u00edngb\u00e1i zh\u00e8ge y\u00ecsi",
+    "audio": "danger/I do not understand this meaning.mp3"
+  },
+  {
+    "key": "\u4f60\u8aaa\u7684\u592a\u5feb\u4e86",
+    "answer": "you said that too fast",
+    "alt": "N\u01d0 shu\u014d de t\u00e0i ku\u00e0ile",
+    "audio": "danger/you speak too fast.mp3"
+  },
+  {
+    "key": "\u4f60\u80fd\u8aaa\u6162\u9ede\u55ce\uff1f",
+    "answer": "can you say it slower?",
+    "alt": "N\u01d0 n\u00e9ng shu\u014d m\u00e0n di\u01cen ma?",
+    "audio": "danger/can you say it slower.mp3"
+  },
+  {
+    "key": "\u6559\u6211\u8aaa\u5f97\u66f4\u597d",
+    "answer": "teach me say it better",
+    "alt": "Ji\u00e0o w\u01d2 shu\u014d d\u00e9 g\u00e8ng h\u01ceo",
+    "audio": "danger/teach me say it better.mp3"
+  },
+  {
+    "key": "\u5e6b\u6211\u7406\u89e3",
+    "answer": "help me understand",
+    "alt": "B\u0101ng w\u01d2 l\u01d0ji\u011b",
+    "audio": "danger/help me understand.mp3"
+  },
+  {
+    "key": "\u4f60\u60f3\u8981\u4ec0\u9ebc\uff1f",
+    "answer": "what do you want?",
+    "alt": "N\u01d0 xi\u01ceng y\u00e0o sh\u00e9nme?",
+    "audio": "danger/what do you want.mp3"
+  },
+  {
+    "key": "\u5e6b\u52a9\u6211\u5b78\u7fd2",
+    "answer": "help me to learn",
+    "alt": "B\u0101ngzh\u00f9 w\u01d2 xu\u00e9x\u00ed",
+    "audio": "danger/help me learn.mp3"
+  },
+  {
+    "key": "\u6211\u9700\u8981\u5b78\u7fd2\u66f4\u591a",
+    "answer": "I need to study more",
+    "alt": "W\u01d2 x\u016by\u00e0o xu\u00e9x\u00ed g\u00e8ng du\u014d",
+    "audio": "danger/I need to study more.mp3"
+  },
+  {
+    "key": "\u6211\u9700\u8981\u591a\u7df4\u7fd2",
+    "answer": "I need to practice more",
+    "alt": "W\u01d2 x\u016by\u00e0o du\u014d li\u00e0nx\u00ed",
+    "audio": "danger/lianxi.mp3"
+  },
+  {
+    "key": "\u8b93\u6211\u60f3\u60f3",
+    "answer": "let me think",
+    "alt": "R\u00e0ng w\u01d2 xi\u01ceng xi\u01ceng",
+    "audio": "danger/let me think.mp3"
+  },
+  {
+    "key": "\u767c\u751f\u4e86\u662f\u4ec0\u9ebc\uff1f",
+    "answer": "what happened?",
+    "alt": "F\u0101sh\u0113ngle sh\u00ec sh\u00e9nme?",
+    "audio": "danger/what happened.mp3"
+  },
+  {
+    "key": "\u6211\u5fd8\u4e86\u600e\u9ebc\u8aaa",
+    "answer": "I forgot how to say",
+    "alt": "W\u01d2 w\u00e0ngle z\u011bnme shu\u014d",
+    "audio": "danger/I forgot how to say.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u8a18\u5f97\u9019\u500b\u8a5e",
+    "answer": "I don't remember the word",
+    "alt": "W\u01d2 b\u00f9 j\u00ecd\u00e9 zh\u00e8ge c\u00ed",
+    "audio": "danger/I dont remember the word.mp3"
+  }
+]

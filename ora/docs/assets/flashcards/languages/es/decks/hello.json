@@ -1,0 +1,20 @@
+[
+  {
+    "key": "hola",
+    "answer": "hello",
+    "alt": "hello",
+    "audio": "hello/1.mp3"
+  },
+  {
+    "key": "gracias",
+    "answer": "thank you",
+    "alt": "thanks",
+    "audio": "hello/2.mp3"
+  },
+  {
+    "key": "\u00bf como se dice ... en espa\u00f1ol ?",
+    "answer": "how do you say ... in Spanish?",
+    "alt": "how one says ... in Spanish?",
+    "audio": "hello/3.mp3"
+  }
+]

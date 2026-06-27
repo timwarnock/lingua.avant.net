@@ -8,7 +8,9 @@ icon: lucide/mic
 
 + syllable (initial + vowel + final) + tone
 
-+ flashcards?
++ Tones <button class="flashcard-green" onclick="Flashcards.open('vi/pronounceTones')">flashcards</button>
++ Basics <button class="flashcard-green" onclick="Flashcards.open('vi/pronounceBasics')">flashcards</button>
++ Practice <button class="flashcard-green" onclick="Flashcards.open('vi/pronouncePractice')">flashcards</button>
 
 phonemes
 

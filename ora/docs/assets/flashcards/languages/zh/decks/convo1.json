@@ -1,0 +1,320 @@
+[
+  {
+    "key": "\u6211\u559c\u6b61\u7e41\u9ad4\u5b57",
+    "answer": "I like traditional characters",
+    "alt": "w\u01d2 x\u01d0hu\u0101n f\u00e1nt\u01d0 z\u00ec",
+    "audio_prompt": "convo1/1.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u559c\u6b61\u7c21\u9ad4\u5b57",
+    "answer": "I do not like simplified characters",
+    "alt": "w\u01d2 b\u00f9 x\u01d0hu\u0101n ji\u01cent\u01d0z\u00ec",
+    "audio_prompt": "convo1/2.mp3"
+  },
+  {
+    "key": "\u6211\u89ba\u5f97\u7e41\u9ad4\u5b57\u6bd4\u7c21\u9ad4\u5b57\u6f02\u4eae",
+    "answer": "I think traditional is more beautiful",
+    "alt": "w\u01d2 ju\u00e9d\u00e9 f\u00e1nt\u01d0 z\u00ec b\u01d0 ji\u01cent\u01d0z\u00ec pi\u00e0oliang",
+    "audio_prompt": "convo1/3.mp3"
+  },
+  {
+    "key": "\u4f8b\u5982\uff1a\u300c\u862d\u300d\u7c21\u5316\u70ba\u300c\u5170\u300d",
+    "answer": "For example: orchid",
+    "alt": "L\u00ecr\u00fa: L\u00e1n ji\u01cenhu\u00e0 w\u00e9i l\u00e1n",
+    "audio_prompt": "convo1/4.mp3"
+  },
+  {
+    "key": "\u6211\u662f\u6307\u862d\u82b1\u7684\u862d",
+    "answer": "I mean the Lan in orchid",
+    "alt": "W\u01d2 sh\u00ec zh\u01d0 l\u00e1nhu\u0101 de l\u00e1n",
+    "audio_prompt": "convo1/5.mp3"
+  },
+  {
+    "key": "\u5728\u5e79\u561b\uff1f",
+    "answer": "What are you doing?",
+    "alt": "z\u00e0i g\u00e0n ma?",
+    "audio_prompt": "convo1/6.mp3"
+  },
+  {
+    "key": "\u6216\u8a31\u5427",
+    "answer": "Probably",
+    "alt": "Hu\u00f2x\u01d4 ba",
+    "audio_prompt": "convo1/7.mp3"
+  },
+  {
+    "key": "\u6211\u5f88\u61f6\u60f0",
+    "answer": "I am lazy",
+    "alt": "W\u01d2 h\u011bn l\u01cendu\u00f2",
+    "audio_prompt": "convo1/8.mp3"
+  },
+  {
+    "key": "\u653e\u9b06",
+    "answer": "relax",
+    "alt": "F\u00e0ngs\u014dng",
+    "audio_prompt": "convo1/9.mp3"
+  },
+  {
+    "key": "\u8b93\u6211\u5011\u653e\u9b06\u4e00\u4e0b",
+    "answer": "Let's relax for awhile",
+    "alt": "R\u00e0ng w\u01d2men f\u00e0ngs\u014dng y\u012bxi\u00e0",
+    "audio_prompt": "convo1/10.mp3"
+  },
+  {
+    "key": "\u6211\u5011\u4eca\u5929\u53bb\u653e\u9b06",
+    "answer": "We are going to relax today",
+    "alt": "W\u01d2men j\u012bnti\u0101n q\u00f9 f\u00e0ngs\u014dng",
+    "audio_prompt": "convo1/11.mp3"
+  },
+  {
+    "key": "\u66ec\u592a\u967d",
+    "answer": "sunbathe",
+    "alt": "Sh\u00e0i t\u00e0iy\u00e1ng",
+    "audio_prompt": "convo1/12.mp3"
+  },
+  {
+    "key": "\u778c\u7761\u87f2",
+    "answer": "sleepyhead",
+    "alt": "K\u0113shu\u00ec ch\u00f3ng",
+    "audio_prompt": "convo1/13.mp3"
+  },
+  {
+    "key": "\u6211\u8981\u5f85\u5728\u5bb6",
+    "answer": "I want to stay home",
+    "alt": "W\u01d2 y\u00e0o d\u00e0i z\u00e0iji\u0101",
+    "audio_prompt": "convo1/14.mp3"
+  },
+  {
+    "key": "\u8981\u53bb\u5403\u996d\u5417? \u597d\u554a!",
+    "answer": "Eat? Yes!",
+    "alt": "Y\u00e0o q\u00f9 ch\u012bf\u00e0n ma? H\u01ceo a!",
+    "audio_prompt": "convo1/15.mp3"
+  },
+  {
+    "key": "\u8981\u53bb\u5403\u996d\u5417? \u597d\u5427...",
+    "answer": "Eat? Ok...",
+    "alt": "Y\u00e0o q\u00f9 ch\u012bf\u00e0n ma? H\u01ceo ba...",
+    "audio_prompt": "convo1/16.mp3"
+  },
+  {
+    "key": "\u6703\u505a\u55ce\uff1f \u597d\u7684\u3002",
+    "answer": "Will you do it? Ok.",
+    "alt": "Hu\u00ec zu\u00f2 ma? H\u01ceo de.",
+    "audio_prompt": "convo1/17.mp3"
+  },
+  {
+    "key": "\u597d\u4e45\u6c92\u898b",
+    "answer": "Long time no see",
+    "alt": "H\u01ceoji\u01d4 m\u00e9i ji\u00e0n",
+    "audio_prompt": "convo1/18.mp3"
+  },
+  {
+    "key": "\u96f2\u541e\u9762",
+    "answer": "Wonton noodles",
+    "alt": "Y\u00fan t\u016bn mi\u00e0n",
+    "audio_prompt": "convo1/19.mp3"
+  },
+  {
+    "key": "\u6211\u5011\u4eca\u5929\u53bbMustafa\u627e\u5439\u98a8\u6a5f",
+    "answer": "We went to Mustafa today to find a hair dryer",
+    "alt": "W\u01d2men j\u012bnti\u0101n q\u00f9 Mustafa zh\u01ceo chu\u012bf\u0113ngj\u012b",
+    "audio_prompt": "convo1/20.mp3"
+  },
+  {
+    "key": "\u4f60\u61c9\u8a72\u63d0\u9192\u6211\u8cb7\u5439\u98a8\u6a5f",
+    "answer": "You should remind me to buy a hairdryer",
+    "alt": "N\u01d0 y\u012bngg\u0101i t\u00edx\u01d0ng w\u01d2 m\u01cei chu\u012bf\u0113ngj\u012b",
+    "audio_prompt": "convo1/21.mp3"
+  },
+  {
+    "key": "\u86c7\u7c89",
+    "answer": "snake powder",
+    "alt": "Sh\u00e9 f\u011bn",
+    "audio_prompt": "convo1/22.mp3"
+  },
+  {
+    "key": "\u6211\u5f88\u8208\u596e\u518d\u6b21\u898b\u5230\u4f60",
+    "answer": "I am very excited to see you again",
+    "alt": "W\u01d2 h\u011bn x\u012bngf\u00e8n z\u00e0ic\u00ec ji\u00e0n d\u00e0o n\u01d0",
+    "audio_prompt": "convo1/23.mp3"
+  },
+  {
+    "key": "\u4f60\u611b\u597d\u5ee3\u6cdb \u591a\u624d\u591a\u85dd",
+    "answer": "Your hobbies are wildly versatile",
+    "alt": "N\u01d0 \u00e0ih\u00e0o gu\u01cengf\u00e0n du\u014dc\u00e1idu\u014dy\u00ec",
+    "audio_prompt": "convo1/24.mp3"
+  },
+  {
+    "key": "\u525b\u8d77\u5e8a",
+    "answer": "Just got up",
+    "alt": "G\u0101ng q\u01d0chu\u00e1ng",
+    "audio_prompt": "convo1/25.mp3"
+  },
+  {
+    "key": "\u694a\u6843",
+    "answer": "Starfruit",
+    "alt": "Y\u00e1ngt\u00e1o",
+    "audio_prompt": "convo1/26.mp3"
+  },
+  {
+    "key": "\u9c77\u68a8\u6c41",
+    "answer": "Avocado juice",
+    "alt": "\u00c8 l\u00ed zh\u012b",
+    "audio_prompt": "convo1/27.mp3"
+  },
+  {
+    "key": "\u916a\u68a8\u6c41",
+    "answer": "Avocado juice",
+    "alt": "L\u00e0o l\u00ed zh\u012b",
+    "audio_prompt": "convo1/28.mp3"
+  },
+  {
+    "key": "\u6211\u61c9\u8a72\u6253\u96fb\u8a71\u7d66\u6211\u7684\u5abd\u5abd",
+    "answer": "I should call my mom",
+    "alt": "W\u01d2 y\u012bngg\u0101i d\u01ce di\u00e0nhu\u00e0 g\u011bi w\u01d2 de m\u0101m\u0101",
+    "audio_prompt": "convo1/29.mp3"
+  },
+  {
+    "key": "\u597d\u4e3b\u610f\u5979\u6703\u5f88\u9ad8\u8208\u7684",
+    "answer": "Good idea.. she will be very happy",
+    "alt": "H\u01ceo zh\u01d4y\u00ec t\u0101 hu\u00ec h\u011bn g\u0101ox\u00ecng de",
+    "audio_prompt": "convo1/30.mp3"
+  },
+  {
+    "key": "\u59b3\u53ef\u4ee5\u548c\u6211\u7df4\u7fd2\u82f1\u6587",
+    "answer": "You can practice English with me",
+    "alt": "N\u01cei k\u011by\u01d0 h\u00e9 w\u01d2 li\u00e0nx\u00ed y\u012bngw\u00e9n",
+    "audio_prompt": "convo1/31.mp3"
+  },
+  {
+    "key": "\u6211\u559c\u6b61\u5854\u7f85\u724c",
+    "answer": "I like tarot cards",
+    "alt": "W\u01d2 x\u01d0hu\u0101n t\u01ce lu\u00f3 p\u00e1i",
+    "audio_prompt": "convo1/32.mp3"
+  },
+  {
+    "key": "\u6211\u6bcf\u5929\u90fd\u61c9\u8a72\u7df4\u7fd2\u5beb\u5b57",
+    "answer": "I should practice writing every day",
+    "alt": "W\u01d2 m\u011biti\u0101n d\u014du y\u012bngg\u0101i li\u00e0nx\u00ed xi\u011b z\u00ec",
+    "audio_prompt": "convo1/33.mp3"
+  },
+  {
+    "key": "\u6211\u60f3\u8d77\u4f86\u4e86",
+    "answer": "It'll come to me",
+    "alt": "W\u01d2 xi\u01ceng q\u01d0l\u00e1ile",
+    "audio_prompt": "convo1/34.mp3"
+  },
+  {
+    "key": "\u6211\u8a18\u5f97\u5566\uff01",
+    "answer": "I remember!",
+    "alt": "W\u01d2 j\u00ecd\u00e9 la!",
+    "audio_prompt": "convo1/35.mp3"
+  },
+  {
+    "key": "\u665a\u9ede\u898b",
+    "answer": "See you later",
+    "alt": "W\u01cendi\u01cen ji\u00e0n",
+    "audio_prompt": "convo1/36.mp3"
+  },
+  {
+    "key": "\u90a3\u6211\u5148\u653e\u6771\u897f\u5728\u4f60\u5bb6",
+    "answer": "Then I'll put things in your home first",
+    "alt": "N\u00e0 w\u01d2 xi\u0101n f\u00e0ng d\u014dngx\u012b z\u00e0i n\u01d0 ji\u0101",
+    "audio_prompt": "convo1/37.mp3"
+  },
+  {
+    "key": "\u5012\u6578\u7b2c\u4e8c",
+    "answer": "Second to last",
+    "alt": "D\u00e0osh\u01d4 d\u00ec \u00e8r",
+    "audio_prompt": "convo1/38.mp3"
+  },
+  {
+    "key": "\u7121\u7cd6",
+    "answer": "No sugar",
+    "alt": "W\u00fa t\u00e1ng",
+    "audio_prompt": "convo1/39.mp3"
+  },
+  {
+    "key": "\u6211\u770b\u4e0a\u53bb\u50cf\u6591\u99ac\u4e00\u6a23",
+    "answer": "I look like a zebra",
+    "alt": "W\u01d2 k\u00e0n sh\u00e0ngq\u00f9 xi\u00e0ng b\u0101nm\u01ce y\u012by\u00e0ng",
+    "audio_prompt": "convo1/40.mp3"
+  },
+  {
+    "key": "\u73fe\u5728\u5f88\u7662",
+    "answer": "Now it's itchy",
+    "alt": "Xi\u00e0nz\u00e0i h\u011bn y\u01ceng",
+    "audio_prompt": "convo1/41.mp3"
+  },
+  {
+    "key": "\u8abf\u76ae",
+    "answer": "Naughty",
+    "alt": "Ti\u00e1op\u00ed",
+    "audio_prompt": "convo1/42.mp3"
+  },
+  {
+    "key": "\u6211\u8981\u6b7b\u4e86",
+    "answer": "I'm dying",
+    "alt": "W\u01d2 y\u00e0os\u01d0le",
+    "audio_prompt": "convo1/43.mp3"
+  },
+  {
+    "key": "\u89aa\u543b\u548c\u64c1\u62b1",
+    "answer": "Kisses and hugs",
+    "alt": "Q\u012bnw\u011bn h\u00e9 y\u01d2ngb\u00e0o",
+    "audio_prompt": "convo1/44.mp3"
+  },
+  {
+    "key": "\u5982\u4f55",
+    "answer": "how is it",
+    "alt": "R\u00fah\u00e9",
+    "audio_prompt": "convo1/45.mp3"
+  },
+  {
+    "key": "\u6211\u5f88\u50b7\u5fc3\u56e0\u70ba",
+    "answer": "I'm sad because",
+    "alt": "W\u01d2 h\u011bn sh\u0101ngx\u012bn y\u012bnw\u00e8i",
+    "audio_prompt": "convo1/46.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u53ef\u4ee5\u5403\u751c\u9ede",
+    "answer": "I can't eat sweets",
+    "alt": "W\u01d2 b\u00f9 k\u011by\u01d0 ch\u012b ti\u00e1ndi\u01cen",
+    "audio_prompt": "convo1/47.mp3"
+  },
+  {
+    "key": "\u6211\u4e0d\u5728\u4e4e",
+    "answer": "I don't care!",
+    "alt": "W\u01d2 b\u00f9z\u00e0ih\u016b",
+    "audio_prompt": "convo1/48.mp3"
+  },
+  {
+    "key": "\u4e0d\u611f\u8208\u8da3",
+    "answer": "not interested",
+    "alt": "B\u00f9g\u01cen x\u00ecngq\u00f9",
+    "audio_prompt": "convo1/49.mp3"
+  },
+  {
+    "key": "\u798f\u661f\u9ad8\u7167",
+    "answer": "Lucky sign (fortune star tall image)",
+    "alt": "f\u00fax\u012bng g\u0101o zh\u00e0o",
+    "audio_prompt": "convo1/50.mp3"
+  },
+  {
+    "key": "\u70ba\u4ec0\u9ebc\u9019\u9ebc\u71b1?",
+    "answer": "Why is it so hot?",
+    "alt": "w\u00e8ish\u00e9me zh\u00e8me r\u00e8?",
+    "audio_prompt": "convo1/51.mp3"
+  },
+  {
+    "key": "\u4f11\u606f",
+    "answer": "to rest",
+    "alt": "Xi\u016bx\u00ed",
+    "audio_prompt": "convo1/52.mp3"
+  },
+  {
+    "key": "\u90a3\u5f88\u7c21\u55ae",
+    "answer": "that was easy",
+    "alt": "n\u00e0 h\u011bn ji\u01cend\u0101n",
+    "audio_prompt": "convo1/53.mp3"
+  }
+]

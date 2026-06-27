@@ -1,0 +1,422 @@
+[
+  {
+    "key": "ahora",
+    "answer": " now",
+    "alt": " \u201cte necesito ahora\u201d",
+    "audio_prompt": "adverbios/1.mp3"
+  },
+  {
+    "key": "absolutamente / totalmente",
+    "answer": " absolutely/totally",
+    "alt": "",
+    "audio_prompt": "adverbios/2.mp3"
+  },
+  {
+    "key": "actualmente",
+    "answer": " currently/nowadays",
+    "alt": "",
+    "audio_prompt": "adverbios/3.mp3"
+  },
+  {
+    "key": "adelante",
+    "answer": " forward",
+    "alt": "",
+    "audio_prompt": "adverbios/4.mp3"
+  },
+  {
+    "key": "adem\u00e1s",
+    "answer": " also/in addition",
+    "alt": "",
+    "audio_prompt": "adverbios/5.mp3"
+  },
+  {
+    "key": "ah\u00ed",
+    "answer": " there",
+    "alt": "",
+    "audio_prompt": "adverbios/6.mp3"
+  },
+  {
+    "key": "all\u00ed",
+    "answer": " there / on there",
+    "alt": "",
+    "audio_prompt": "adverbios/7.mp3"
+  },
+  {
+    "key": "algunos",
+    "answer": " a few",
+    "alt": " \u201cunos minutos\u201d a few minutes",
+    "audio_prompt": "adverbios/8.mp3"
+  },
+  {
+    "key": "alrededor",
+    "answer": " around/about",
+    "alt": "",
+    "audio_prompt": "adverbios/9.mp3"
+  },
+  {
+    "key": "anoche",
+    "answer": " last night",
+    "alt": "",
+    "audio_prompt": "adverbios/10.mp3"
+  },
+  {
+    "key": "antes",
+    "answer": " before",
+    "alt": "",
+    "audio_prompt": "adverbios/11.mp3"
+  },
+  {
+    "key": "anteriormente",
+    "answer": " previously",
+    "alt": "",
+    "audio_prompt": "adverbios/12.mp3"
+  },
+  {
+    "key": "apenas",
+    "answer": " hardly",
+    "alt": "",
+    "audio_prompt": "adverbios/13.mp3"
+  },
+  {
+    "key": "arriba",
+    "answer": " up",
+    "alt": "",
+    "audio_prompt": "adverbios/14.mp3"
+  },
+  {
+    "key": "aqu\u00ed",
+    "answer": " here",
+    "alt": "",
+    "audio_prompt": "adverbios/15.mp3"
+  },
+  {
+    "key": "asi",
+    "answer": " like that / that way",
+    "alt": "",
+    "audio_prompt": "adverbios/16.mp3"
+  },
+  {
+    "key": "atr\u00e1s",
+    "answer": " back/behind",
+    "alt": "",
+    "audio_prompt": "adverbios/17.mp3"
+  },
+  {
+    "key": "a\u00fan",
+    "answer": " even",
+    "alt": "",
+    "audio_prompt": "adverbios/18.mp3"
+  },
+  {
+    "key": "ayer",
+    "answer": " yesterday",
+    "alt": "",
+    "audio_prompt": "adverbios/19.mp3"
+  },
+  {
+    "key": "bastante",
+    "answer": " enough/a lot",
+    "alt": "",
+    "audio_prompt": "adverbios/20.mp3"
+  },
+  {
+    "key": "bien",
+    "answer": " well",
+    "alt": "",
+    "audio_prompt": "adverbios/21.mp3"
+  },
+  {
+    "key": "casi",
+    "answer": " almost",
+    "alt": "",
+    "audio_prompt": "adverbios/22.mp3"
+  },
+  {
+    "key": "cerca",
+    "answer": " close/near",
+    "alt": "",
+    "audio_prompt": "adverbios/23.mp3"
+  },
+  {
+    "key": "c\u00f3mo",
+    "answer": " how",
+    "alt": " \u201ccomo esta\u201d",
+    "audio_prompt": "",
+    "null": [
+      "adverbios/24.mp3"
+    ]
+  },
+  {
+    "key": "cuidadosamente",
+    "answer": " carefully",
+    "alt": "",
+    "audio_prompt": "adverbios/25.mp3"
+  },
+  {
+    "key": "debajo",
+    "answer": " underneath/below",
+    "alt": "",
+    "audio_prompt": "adverbios/26.mp3"
+  },
+  {
+    "key": "demasiado",
+    "answer": " too / too much",
+    "alt": "",
+    "audio_prompt": "adverbios/27.mp3"
+  },
+  {
+    "key": "desafortunadamente",
+    "answer": " unfortunately",
+    "alt": "",
+    "audio_prompt": "adverbios/28.mp3"
+  },
+  {
+    "key": "despacio",
+    "answer": " slowly",
+    "alt": " \u201chable m\u00e1s despacio por favor\u201d",
+    "audio_prompt": "adverbios/29.mp3"
+  },
+  {
+    "key": "despu\u00e9s",
+    "answer": " after",
+    "alt": "",
+    "audio_prompt": "adverbios/30.mp3"
+  },
+  {
+    "key": "donde",
+    "answer": " where",
+    "alt": "",
+    "audio_prompt": "adverbios/31.mp3"
+  },
+  {
+    "key": "entonces",
+    "answer": " so",
+    "alt": " then",
+    "audio_prompt": "",
+    "null": [
+      "adverbios/32.mp3"
+    ]
+  },
+  {
+    "key": "entretanto",
+    "answer": " meanwhile",
+    "alt": "",
+    "audio_prompt": "adverbios/33.mp3"
+  },
+  {
+    "key": "exactamente",
+    "answer": " exactly",
+    "alt": "",
+    "audio_prompt": "adverbios/34.mp3"
+  },
+  {
+    "key": "f\u00e1cilamente",
+    "answer": " easily",
+    "alt": "",
+    "audio_prompt": "adverbios/35.mp3"
+  },
+  {
+    "key": "frecuentemente",
+    "answer": " frequently",
+    "alt": "",
+    "audio_prompt": "adverbios/36.mp3"
+  },
+  {
+    "key": "hoy",
+    "answer": " today",
+    "alt": "",
+    "audio_prompt": "adverbios/37.mp3"
+  },
+  {
+    "key": "igualmente",
+    "answer": " likewise/equally",
+    "alt": "",
+    "audio_prompt": "adverbios/38.mp3"
+  },
+  {
+    "key": "inmediatamente",
+    "answer": " immediately",
+    "alt": "",
+    "audio_prompt": "adverbios/39.mp3"
+  },
+  {
+    "key": "jam\u00e1s",
+    "answer": " never",
+    "alt": "",
+    "audio_prompt": "adverbios/40.mp3"
+  },
+  {
+    "key": "lejos",
+    "answer": " far away",
+    "alt": "",
+    "audio_prompt": "adverbios/41.mp3"
+  },
+  {
+    "key": "lentamente",
+    "answer": " slowly",
+    "alt": "",
+    "audio_prompt": "adverbios/42.mp3"
+  },
+  {
+    "key": "luego",
+    "answer": " then/later",
+    "alt": "",
+    "audio_prompt": "adverbios/43.mp3"
+  },
+  {
+    "key": "muy",
+    "answer": " very",
+    "alt": "",
+    "audio_prompt": "adverbios/44.mp3"
+  },
+  {
+    "key": "naturalmente",
+    "answer": " naturally",
+    "alt": "",
+    "audio_prompt": "adverbios/45.mp3"
+  },
+  {
+    "key": "necesariamente",
+    "answer": " necessarily",
+    "alt": "",
+    "audio_prompt": "adverbios/46.mp3"
+  },
+  {
+    "key": "nuevamente",
+    "answer": " again/once again",
+    "alt": "",
+    "audio_prompt": "adverbios/47.mp3"
+  },
+  {
+    "key": "nunca",
+    "answer": " never",
+    "alt": "",
+    "audio_prompt": "adverbios/48.mp3"
+  },
+  {
+    "key": "ojal\u00e1",
+    "answer": " hopefully",
+    "alt": " arabic \u201cmay god will it\u201d",
+    "audio_prompt": "adverbios/49.mp3"
+  },
+  {
+    "key": "perfectamente",
+    "answer": " perfectly",
+    "alt": "",
+    "audio_prompt": "adverbios/50.mp3"
+  },
+  {
+    "key": "poco",
+    "answer": " a little bit",
+    "alt": "",
+    "audio_prompt": "adverbios/51.mp3"
+  },
+  {
+    "key": "por supuesto",
+    "answer": " of course",
+    "alt": "",
+    "audio_prompt": "adverbios/52.mp3"
+  },
+  {
+    "key": "quiz\u00e1s",
+    "answer": " maybe/perhaps",
+    "alt": "",
+    "audio_prompt": "adverbios/53.mp3"
+  },
+  {
+    "key": "realmente",
+    "answer": " really",
+    "alt": "",
+    "audio_prompt": "adverbios/54.mp3"
+  },
+  {
+    "key": "reci\u00e9n",
+    "answer": " recently",
+    "alt": "",
+    "audio_prompt": "adverbios/55.mp3"
+  },
+  {
+    "key": "seriamente",
+    "answer": " seriously",
+    "alt": "",
+    "audio_prompt": "adverbios/56.mp3"
+  },
+  {
+    "key": "seguramente",
+    "answer": " surely",
+    "alt": "",
+    "audio_prompt": "adverbios/57.mp3"
+  },
+  {
+    "key": "siempre",
+    "answer": " always",
+    "alt": "",
+    "audio_prompt": "adverbios/58.mp3"
+  },
+  {
+    "key": "solamente",
+    "answer": " only",
+    "alt": "",
+    "audio_prompt": "adverbios/59.mp3"
+  },
+  {
+    "key": "tambi\u00e9n",
+    "answer": " also/too",
+    "alt": "",
+    "audio_prompt": "adverbios/60.mp3"
+  },
+  {
+    "key": "tampoco",
+    "answer": " neither/nor",
+    "alt": "",
+    "audio_prompt": "adverbios/61.mp3"
+  },
+  {
+    "key": "tan",
+    "answer": " such",
+    "alt": " a / too / so",
+    "audio_prompt": "adverbios/62.mp3"
+  },
+  {
+    "key": "tarde",
+    "answer": " late",
+    "alt": " \u201cmas tarde\u201d later",
+    "audio_prompt": "adverbios/63.mp3"
+  },
+  {
+    "key": "tal vez",
+    "answer": " maybe",
+    "alt": "",
+    "audio_prompt": "adverbios/64.mp3"
+  },
+  {
+    "key": "temprano",
+    "answer": " early",
+    "alt": "",
+    "audio_prompt": "adverbios/65.mp3"
+  },
+  {
+    "key": "todav\u00eda",
+    "answer": " yet / still / still more",
+    "alt": "",
+    "audio_prompt": "adverbios/66.mp3"
+  },
+  {
+    "key": "\u00fanicamente",
+    "answer": " only",
+    "alt": "",
+    "audio_prompt": "adverbios/67.mp3"
+  },
+  {
+    "key": "urgente",
+    "answer": " urgent",
+    "alt": "",
+    "audio_prompt": "adverbios/68.mp3"
+  },
+  {
+    "key": "ya",
+    "answer": " already/still/now",
+    "alt": "",
+    "audio_prompt": "adverbios/69.mp3"
+  }
+]

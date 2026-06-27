@@ -80,6 +80,22 @@ Progress (migration + look & feel): Full content for migrated /v/ pages (text on
 - This keeps header bar at normal proportions while adding the image and text style.
 - extra_javascript disabled.
 - Rebuilt. Should feel like normal header + the requested image and text.
+
+2026-06-26: Aligned on flashcards.mjs.
+- Faithful first port of the full original flashcards.js capabilities and behavior (latency-based scoring with moving average, EPSILON exploration, prompt vs answer audio, full pause modal with stats + depth/breadth resets, keyboard/touch controls, etc.). No changes to core mechanics.
+- All new assets and code only under ora/docs/assets/flashcards/ by copying (no modifications to any existing old flashcard files/directories at root).
+- Consolidated structure: languages/<lang>/decks/*.json + audio/ (and images/).
+- Precomputed static JSON decks.
+- Simple HTML template fragments in templates/ (modal.html, card.html, pause.html) for easy future maintenance.
+- flashcards.mjs as ES module (loaded via extra_javascript in zensical.toml).
+- Public API: Flashcards.open('zh/tones') etc. opens integrated modal.
+- Deck resolution: 'zh/tones' → languages/zh/decks/tones.json + audio from languages/zh/audio/tones/.
+- Modern integrated styling using Zensical theme.
++ [x] Copied ALL decks/content for zh/es/vi into new structure (CSVs + JSONs + all audio + images).
++ [x] Wired all flashcard links across pages using green .flashcard-green buttons (matching original #4b5 with :hover #5c6, cursor:pointer).
+  - Updated: chinese/tones, chinese/comfort-zone (danger/learning/convo1), vietnamese/vi-pronounce (tones/basics/practice), vietnamese/index (hello/hoctap), espanol/index (hello/numeros/verbos).
+  - All old ?deck= app links removed/replaced. No other flashcard app links found.
+  - Rebuilt.
 + [ ] Plan and execute the cutover
 + [ ] Organize new language sections, each focused on learning the Rosary in that language
 

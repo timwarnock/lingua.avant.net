@@ -1,0 +1,536 @@
+[
+  {
+    "key": "\u4f60",
+    "answer": "3rd",
+    "alt": "N\u01d0 - you",
+    "audio_prompt": "tones/ni3.mp3"
+  },
+  {
+    "key": "\u4f60\u5011",
+    "answer": "3rd 5th",
+    "alt": "N\u01d0men - you all",
+    "audio_prompt": "tones/ni3men0.mp3"
+  },
+  {
+    "key": "\u4ed6",
+    "answer": "1st",
+    "alt": "T\u0101 - he/she/it",
+    "audio_prompt": "tones/ta1.mp3"
+  },
+  {
+    "key": "\u4ed6\u5011",
+    "answer": "4th 5th",
+    "alt": "T\u0101men - them/they",
+    "audio_prompt": "tones/ta1men0.mp3"
+  },
+  {
+    "key": "\u6211",
+    "answer": "3rd",
+    "alt": "W\u01d2 - I/me",
+    "audio_prompt": "tones/wo3.mp3"
+  },
+  {
+    "key": "\u6211\u5011",
+    "answer": "3rd 5th",
+    "alt": "W\u01d2men - we/us",
+    "audio_prompt": "tones/wo3men0.mp3"
+  },
+  {
+    "key": "\u6bd4\u8f03",
+    "answer": "3rd 4th",
+    "alt": "B\u01d0ji\u00e0o - compare",
+    "audio_prompt": "tones/bi3jiao4.mp3"
+  },
+  {
+    "key": "\u4e0d*",
+    "answer": "2nd",
+    "alt": "B\u00fa* - not *",
+    "audio_prompt": "tones/bu2.mp3"
+  },
+  {
+    "key": "\u4e0d\u592a",
+    "answer": "2nd 4th",
+    "alt": "B\u00fat\u00e0i - not too",
+    "audio_prompt": "tones/bu2tai4.mp3"
+  },
+  {
+    "key": "\u4e0d",
+    "answer": "4th",
+    "alt": "B\u00f9 - not",
+    "audio_prompt": "tones/bu4.mp3"
+  },
+  {
+    "key": "\u975e\u5e38",
+    "answer": "1st 2nd",
+    "alt": "F\u0113ich\u00e1ng - extremely",
+    "audio_prompt": "tones/fei1chang2.mp3"
+  },
+  {
+    "key": "\u75d5",
+    "answer": "2nd",
+    "alt": "H\u00e9n - mark",
+    "audio_prompt": "tones/hen2.mp3"
+  },
+  {
+    "key": "\u5f88",
+    "answer": "3rd",
+    "alt": "H\u011bn - very",
+    "audio_prompt": "tones/hen3.mp3"
+  },
+  {
+    "key": "\u883b",
+    "answer": "2nd",
+    "alt": "M\u00e1n - quite",
+    "audio_prompt": "tones/man2.mp3"
+  },
+  {
+    "key": "\u592a",
+    "answer": "4th",
+    "alt": "T\u00e0i - too",
+    "audio_prompt": "tones/tai4.mp3"
+  },
+  {
+    "key": "\u505c",
+    "answer": "2nd",
+    "alt": "T\u00edng - stop",
+    "audio_prompt": "tones/ting2.mp3"
+  },
+  {
+    "key": "\u633a",
+    "answer": "3rd",
+    "alt": "T\u01d0ng - very",
+    "audio_prompt": "tones/ting3.mp3"
+  },
+  {
+    "key": "\u771f",
+    "answer": "1st",
+    "alt": "Zh\u0113n - really",
+    "audio_prompt": "tones/zhen1.mp3"
+  },
+  {
+    "key": "\u5b89\u975c",
+    "answer": "1st 4th",
+    "alt": "\u0100nj\u00ecng - be quiet",
+    "audio_prompt": "tones/an1jing4.mp3"
+  },
+  {
+    "key": "\u4fdd\u5b88",
+    "answer": "3rd-3rd",
+    "alt": "B\u01ceosh\u01d2u - conservative",
+    "audio_prompt": "tones/bao3shou3.mp3"
+  },
+  {
+    "key": "\u4e0d\u932f",
+    "answer": "2nd 4th",
+    "alt": "B\u00f9cu\u00f2 - not wrong",
+    "audio_prompt": "tones/bu2cuo4.mp3"
+  },
+  {
+    "key": "\u8070\u660e",
+    "answer": "1st 5th",
+    "alt": "C\u014dngming - clever",
+    "audio_prompt": "tones/cong1ming0.mp3"
+  },
+  {
+    "key": "\u65b9\u4fbf",
+    "answer": "1st 4th",
+    "alt": "F\u0101ngbi\u00e0n - convenience",
+    "audio_prompt": "tones/fang1bian4.mp3"
+  },
+  {
+    "key": "\u9ad8\u8208",
+    "answer": "1st 4th",
+    "alt": "G\u0101ox\u00ecng - happy",
+    "audio_prompt": "tones/gao1xing4.mp3"
+  },
+  {
+    "key": "\u597d\u5403",
+    "answer": "3rd 1st",
+    "alt": "H\u01ceoch\u012b - goot to eat",
+    "audio_prompt": "tones/hao3chi1.mp3"
+  },
+  {
+    "key": "\u597d\u61c2",
+    "answer": "3rd~3rd",
+    "alt": "H\u01ceod\u01d2ng - understand",
+    "audio_prompt": "tones/hao3dong3.mp3"
+  },
+  {
+    "key": "\u597d\u770b",
+    "answer": "3rd 4th",
+    "alt": "H\u01ceok\u00e0n - good looking",
+    "audio_prompt": "tones/hao3kan4.mp3"
+  },
+  {
+    "key": "\u597d\u807d",
+    "answer": "3rd 1st",
+    "alt": "H\u01ceot\u012bng - nice",
+    "audio_prompt": "tones/hao3ting1.mp3"
+  },
+  {
+    "key": "\u597d\u73a9",
+    "answer": "3rd 2nd",
+    "alt": "H\u01ceow\u00e1n - fun",
+    "audio_prompt": "tones/hao3wan2.mp3"
+  },
+  {
+    "key": "\u597d\u5947",
+    "answer": "4th 2nd",
+    "alt": "H\u00e0oq\u00ed - curious",
+    "audio_prompt": "tones/hao4qi2.mp3"
+  },
+  {
+    "key": "\u5408\u9069",
+    "answer": "2nd 4th",
+    "alt": "H\u00e9sh\u00ec - suitable",
+    "audio_prompt": "tones/he2shi4.mp3"
+  },
+  {
+    "key": "\u72e1\u733e",
+    "answer": "3rd 2nd",
+    "alt": "Ji\u01ceohu\u00e1 - cunning",
+    "audio_prompt": "tones/jiao3hua2.mp3"
+  },
+  {
+    "key": "\u7dca\u5f35",
+    "answer": "3rd 1st",
+    "alt": "J\u01d0nzh\u0101ng - tension",
+    "audio_prompt": "tones/jin3zhang1.mp3"
+  },
+  {
+    "key": "\u53ef\u611b",
+    "answer": "3rd 4th",
+    "alt": "K\u011b'\u00e0i - cute/lovely",
+    "audio_prompt": "tones/ke3ai4.mp3"
+  },
+  {
+    "key": "\u5ba2\u6c23",
+    "answer": "4th 5th",
+    "alt": "K\u00e8q\u00ec - polite",
+    "audio_prompt": "tones/ke4qi0.mp3"
+  },
+  {
+    "key": "\u5feb\u6a02",
+    "answer": "4th 4th",
+    "alt": "Ku\u00e0il\u00e8 - happy",
+    "audio_prompt": "tones/kuai4le4.mp3"
+  },
+  {
+    "key": "\u53b2\u5bb3",
+    "answer": "4th 5th",
+    "alt": "L\u00ech\u00e0i - amazing",
+    "audio_prompt": "tones/li4hai0.mp3"
+  },
+  {
+    "key": "\u6d41\u884c",
+    "answer": "2nd 2nd",
+    "alt": "Li\u00fax\u00edng - popular",
+    "audio_prompt": "tones/liu2xing2.mp3"
+  },
+  {
+    "key": "\u9ebb\u7169",
+    "answer": "2nd 5th",
+    "alt": "M\u00e1fan - trouble",
+    "audio_prompt": "tones/ma2fan0.mp3"
+  },
+  {
+    "key": "\u6eff\u610f",
+    "answer": "3rd 4th",
+    "alt": "M\u01ceny\u00ec - satisfaction",
+    "audio_prompt": "tones/man3yi4.mp3"
+  },
+  {
+    "key": "\u660e\u986f",
+    "answer": "2nd 3rd",
+    "alt": "M\u00edngxi\u01cen - obvious",
+    "audio_prompt": "tones/ming2xian3.mp3"
+  },
+  {
+    "key": "\u96e3\u61c2",
+    "answer": "2nd 3rd",
+    "alt": "N\u00e1n d\u01d2ng - hard to understand",
+    "audio_prompt": "tones/nan2dong3.mp3"
+  },
+  {
+    "key": "\u96e3\u8aaa",
+    "answer": "2nd 1st",
+    "alt": "N\u00e1nshu\u014d - hard to say",
+    "audio_prompt": "tones/nan2shuo1.mp3"
+  },
+  {
+    "key": "\u96e3\u807d",
+    "answer": "2nd 1st",
+    "alt": "N\u00e1nt\u012bng - ugly",
+    "audio_prompt": "tones/nan2ting1.mp3"
+  },
+  {
+    "key": "\u5e74\u8f15",
+    "answer": "2nd 1st",
+    "alt": "Ni\u00e1nq\u012bng - young",
+    "audio_prompt": "tones/nian2qing1.mp3"
+  },
+  {
+    "key": "\u6696\u548c",
+    "answer": "3rd 5th",
+    "alt": "Nu\u01cenhe - warm",
+    "audio_prompt": "tones/nuan3he0.mp3"
+  },
+  {
+    "key": "\u6696\u548c",
+    "answer": "3rd 5th",
+    "alt": "Nu\u01cenhuo - warm",
+    "audio_prompt": "tones/nuan3huo0.mp3"
+  },
+  {
+    "key": "\u4fbf\u5b9c",
+    "answer": "2nd 5th",
+    "alt": "Pi\u00e1nyi - cheap",
+    "audio_prompt": "tones/pian2yi0.mp3"
+  },
+  {
+    "key": "\u6f02\u4eae",
+    "answer": "4th 5th",
+    "alt": "Pi\u00e0oliang - pretty",
+    "audio_prompt": "tones/piao4liang0.mp3"
+  },
+  {
+    "key": "\u6e05\u695a",
+    "answer": "1st 5th",
+    "alt": "Q\u012bngchu - clear",
+    "audio_prompt": "tones/qing1chu0.mp3"
+  },
+  {
+    "key": "\u71b1\u60c5",
+    "answer": "4th 2nd",
+    "alt": "R\u00e8q\u00edng - enthusiasm",
+    "audio_prompt": "tones/re4qing2.mp3"
+  },
+  {
+    "key": "\u5bb9\u6613",
+    "answer": "2nd 4th",
+    "alt": "R\u00f3ngy\u00ec - easy",
+    "audio_prompt": "tones/rong2yi4.mp3"
+  },
+  {
+    "key": "\u50b7\u5fc3",
+    "answer": "1st 1st",
+    "alt": "Sh\u0101ngx\u012bn - sad",
+    "audio_prompt": "tones/shang1xin1.mp3"
+  },
+  {
+    "key": "\u8212\u670d",
+    "answer": "1st 5th",
+    "alt": "Sh\u016bfu - comfortable",
+    "audio_prompt": "tones/shu1fu0.mp3"
+  },
+  {
+    "key": "\u7279\u5225",
+    "answer": "4th 2nd",
+    "alt": "T\u00e8bi\u00e9 - especially",
+    "audio_prompt": "tones/te4bie2.mp3"
+  },
+  {
+    "key": "\u7a81\u7136",
+    "answer": "1st 2nd",
+    "alt": "T\u016br\u00e1n - suddenly",
+    "audio_prompt": "tones/tu1ran2.mp3"
+  },
+  {
+    "key": "\u5371\u96aa",
+    "answer": "1st 3rd",
+    "alt": "W\u00e9ixi\u01cen - danger",
+    "audio_prompt": "tones/wei1xian3.mp3"
+  },
+  {
+    "key": "\u7121\u804a",
+    "answer": "2nd 2nd",
+    "alt": "W\u00fali\u00e1o - bored",
+    "audio_prompt": "tones/wu2liao2.mp3"
+  },
+  {
+    "key": "\u8f9b\u82e6",
+    "answer": "1st 3rd",
+    "alt": "X\u012bnk\u01d4 - hard",
+    "audio_prompt": "tones/xin1ku3.mp3"
+  },
+  {
+    "key": "\u6027\u611f",
+    "answer": "4th 3rd",
+    "alt": "X\u00ecngg\u01cen - sexy",
+    "audio_prompt": "tones/xing4gan3.mp3"
+  },
+  {
+    "key": "\u7528\u529f",
+    "answer": "4th 1st",
+    "alt": "Y\u00f2ngg\u014dng - work hard",
+    "audio_prompt": "tones/yong4gong1.mp3"
+  },
+  {
+    "key": "\u6709\u540d",
+    "answer": "3rd 2nd",
+    "alt": "Y\u01d2um\u00edng - famous",
+    "audio_prompt": "tones/you3ming2.mp3"
+  },
+  {
+    "key": "\u7cdf\u7cd5",
+    "answer": "1st 1st",
+    "alt": "Z\u0101og\u0101o - bad",
+    "audio_prompt": "tones/zao1gao1.mp3"
+  },
+  {
+    "key": "\u91cd\u8981",
+    "answer": "4th 4th",
+    "alt": "Zh\u00f2ngy\u00e0o - important",
+    "audio_prompt": "tones/zhong4yao4.mp3"
+  },
+  {
+    "key": "\u81ea\u79c1",
+    "answer": "4th 1st",
+    "alt": "Z\u00ecs\u012b - selfish",
+    "audio_prompt": "tones/zi4si1.mp3"
+  },
+  {
+    "key": "\u9577",
+    "answer": "2nd",
+    "alt": "Ch\u00e1ng - long",
+    "audio_prompt": "tones/chang2.mp3"
+  },
+  {
+    "key": "\u5927",
+    "answer": "4th",
+    "alt": "D\u00e0 - big",
+    "audio_prompt": "tones/da4.mp3"
+  },
+  {
+    "key": "\u77ed",
+    "answer": "3rd",
+    "alt": "Du\u01cen - short",
+    "audio_prompt": "tones/duan3.mp3"
+  },
+  {
+    "key": "\u9913",
+    "answer": "4th",
+    "alt": "\u00e8 - hungry",
+    "audio_prompt": "tones/e4.mp3"
+  },
+  {
+    "key": "\u4e7e",
+    "answer": "1st",
+    "alt": "Gan - dry",
+    "audio_prompt": "tones/gan1.mp3"
+  },
+  {
+    "key": "\u8cb4",
+    "answer": "4th",
+    "alt": "Gu\u00ec - expensive",
+    "audio_prompt": "tones/gui4.mp3"
+  },
+  {
+    "key": "\u597d",
+    "answer": "3rd",
+    "alt": "H\u01ceo - well",
+    "audio_prompt": "tones/hao3.mp3"
+  },
+  {
+    "key": "\u9ed1",
+    "answer": "1st",
+    "alt": "H\u0113i - black",
+    "audio_prompt": "tones/hei1.mp3"
+  },
+  {
+    "key": "\u7d05",
+    "answer": "2nd",
+    "alt": "H\u00f3ng - red",
+    "audio_prompt": "tones/hong2.mp3"
+  },
+  {
+    "key": "\u58de",
+    "answer": "4th",
+    "alt": "Hu\u00e0i - bad",
+    "audio_prompt": "tones/huai4.mp3"
+  },
+  {
+    "key": "\u5feb",
+    "answer": "4th",
+    "alt": "Ku\u00e0i - fast",
+    "audio_prompt": "tones/kuai4.mp3"
+  },
+  {
+    "key": "\u51b7",
+    "answer": "3rd",
+    "alt": "L\u011bng - cold",
+    "audio_prompt": "tones/leng3.mp3"
+  },
+  {
+    "key": "\u6162",
+    "answer": "4th",
+    "alt": "M\u00e0n - slow",
+    "audio_prompt": "tones/man4.mp3"
+  },
+  {
+    "key": "\u5fd9",
+    "answer": "2nd",
+    "alt": "M\u00e1ng - busy",
+    "audio_prompt": "tones/mang2.mp3"
+  },
+  {
+    "key": "\u7f8e",
+    "answer": "3rd",
+    "alt": "M\u011bi - beautiful",
+    "audio_prompt": "tones/mei3.mp3"
+  },
+  {
+    "key": "\u5f37",
+    "answer": "2nd",
+    "alt": "Qi\u00e1ng - strong",
+    "audio_prompt": "tones/qiang2.mp3"
+  },
+  {
+    "key": "\u8f15",
+    "answer": "1st",
+    "alt": "Q\u012bng - light",
+    "audio_prompt": "tones/qing1.mp3"
+  },
+  {
+    "key": "\u71b1",
+    "answer": "4th",
+    "alt": "R\u00e8 - heat",
+    "audio_prompt": "tones/re4.mp3"
+  },
+  {
+    "key": "\u9178",
+    "answer": "1st",
+    "alt": "Su\u0101n - acid",
+    "audio_prompt": "tones/suan1.mp3"
+  },
+  {
+    "key": "\u665a",
+    "answer": "3rd",
+    "alt": "W\u01cen - late",
+    "audio_prompt": "tones/wan3.mp3"
+  },
+  {
+    "key": "\u5c0f",
+    "answer": "3rd",
+    "alt": "Xi\u01ceo - small",
+    "audio_prompt": "tones/xiao3.mp3"
+  },
+  {
+    "key": "\u65b0",
+    "answer": "1st",
+    "alt": "X\u012bn - new",
+    "audio_prompt": "tones/xin1.mp3"
+  },
+  {
+    "key": "\u6cb9",
+    "answer": "2nd",
+    "alt": "Y\u00f3u - oil",
+    "audio_prompt": "tones/you2.mp3"
+  },
+  {
+    "key": "\u65e9",
+    "answer": "3rd",
+    "alt": "Z\u01ceo - early",
+    "audio_prompt": "tones/zao3.mp3"
+  }
+]

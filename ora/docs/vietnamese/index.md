@@ -56,6 +56,10 @@ I recommend practicing reading to a native speaker until you can be understood (
 
 + [happyhanoi.com](http://happyhanoi.com) , by far the best resource available for pronunciation.
 
++ Hello <button class="flashcard-green" onclick="Flashcards.open('vi/hello')">flashcards</button>
+
++ Study <button class="flashcard-green" onclick="Flashcards.open('vi/hoctap')">flashcards</button>
+
 + [Learn Vietnamese with Annie](https://www.youtube.com/channel/UCoHqnZy_SFICoaC0M-iLlRg)
 
 + [TVO](https://www.youtube.com/channel/UCBWZ4YRAivDHkIhNMs6iQ4A) , a bit heavy on English and self-promotion, but some useful videos.

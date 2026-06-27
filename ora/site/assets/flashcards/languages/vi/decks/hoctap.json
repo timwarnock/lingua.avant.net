@@ -1,0 +1,150 @@
+[
+  {
+    "key": "vui l\u00f2ng nh\u1eafc l\u1ea1i.",
+    "answer": "please repeat.",
+    "alt": "",
+    "audio_prompt": "hoctap/1.mp3"
+  },
+  {
+    "key": "h\u00e3y n\u00f3i ch\u1eadm h\u01a1n",
+    "answer": "please speak more slowly",
+    "alt": "more demanding than l\u00e0m \u01a1n",
+    "audio_prompt": "hoctap/2.mp3"
+  },
+  {
+    "key": "l\u00e0m \u01a1n n\u00f3i ch\u1eadm h\u01a1n",
+    "answer": "please speak more slowly",
+    "alt": "please speak slow more",
+    "audio_prompt": "hoctap/3.mp3"
+  },
+  {
+    "key": "B\u1ea1n c\u00f3 n\u00f3i ti\u1ebfng Anh kh\u00f4ng?",
+    "answer": "Do you speak English?",
+    "alt": "em c\u00f3 n\u00f3i ti\u1ebfng Anh kh\u00f4ng?",
+    "audio_prompt": "hoctap/4.mp3"
+  },
+  {
+    "key": "Ti\u1ebfng Vi\u1ec7t c\u1ee7a t\u00f4i kh\u00f4ng t\u1ed1t.",
+    "answer": "My Vietnamese is not good.",
+    "alt": "Ti\u1ebfng Vi\u1ec7t c\u1ee7a anh kh\u00f4ng t\u1ed1t.",
+    "audio_prompt": "hoctap/5.mp3"
+  },
+  {
+    "key": "T\u00f4i h\u1ecdc Ti\u1ebfng Vi\u1ec7t.",
+    "answer": "I\u2019m learning Vietnamese.",
+    "alt": "anh h\u1ecdc Ti\u1ebfng Vi\u1ec7t.",
+    "audio_prompt": "hoctap/6.mp3"
+  },
+  {
+    "key": "t\u00f4i mu\u1ed1n h\u1ecdc",
+    "answer": "I want to learn",
+    "alt": "anh mu\u1ed1n h\u1ecdc",
+    "audio_prompt": "hoctap/7.mp3"
+  },
+  {
+    "key": "t\u00f4i mu\u1ed1n h\u1ecdc h\u1ecfi th\u00eam",
+    "answer": "I want to learn more",
+    "alt": "",
+    "audio_prompt": "hoctap/8.mp3"
+  },
+  {
+    "key": "T\u00f4i n\u00f3i Ti\u1ebfng Vi\u1ec7t",
+    "answer": "I speak Vietnamese",
+    "alt": "",
+    "audio_prompt": "hoctap/9.mp3"
+  },
+  {
+    "key": "T\u00f4i n\u00f3i m\u1ed9t \u00edt Ti\u1ebfng Vi\u1ec7t",
+    "answer": "I speak a little Vietnamese",
+    "alt": "",
+    "audio_prompt": "hoctap/10.mp3"
+  },
+  {
+    "key": "T\u00f4i kh\u00f4ng n\u00f3i Ti\u1ebfng Vi\u1ec7t t\u1ed1t",
+    "answer": "I don't speak Vietnamese well",
+    "alt": "",
+    "audio_prompt": "hoctap/11.mp3"
+  },
+  {
+    "key": "Xin l\u1ed7i",
+    "answer": " t\u00f4i kh\u00f4ng bi\u1ebft Ti\u1ebfng Vi\u1ec7t",
+    "alt": "Sorry",
+    "audio_prompt": " I do not know Vietnamese",
+    "null": [
+      "",
+      "hoctap/12.mp3"
+    ]
+  },
+  {
+    "key": "V\u1ee3 t\u00f4i. gi\u00e1o vi\u00ean t\u1ed3i.",
+    "answer": "My wife. bad teacher.",
+    "alt": "",
+    "audio_prompt": "hoctap/13.mp3"
+  },
+  {
+    "key": "t\u00f4i th\u00edch n\u00f3",
+    "answer": "I like that",
+    "alt": "anh th\u00edch n\u00f3 ...",
+    "audio_prompt": "hoctap/14.mp3"
+  },
+  {
+    "key": "t\u00f4i kh\u00f4ng th\u00edch n\u00f3",
+    "answer": "I don't like that",
+    "alt": "anh kh\u00f4ng th\u00edch n\u00f3",
+    "audio_prompt": "hoctap/15.mp3"
+  },
+  {
+    "key": "t\u00f4i th\u00edch n\u00f3",
+    "answer": "I love it",
+    "alt": "anh th\u00edch n\u00f3",
+    "audio_prompt": "hoctap/16.mp3"
+  },
+  {
+    "key": "T\u00f4i mu\u1ed1n ...",
+    "answer": "I would like ...",
+    "alt": "anh mu\u1ed1n ...",
+    "audio_prompt": "hoctap/17.mp3"
+  },
+  {
+    "key": "T\u00f4i mu\u1ed1n ...",
+    "answer": "I want ...",
+    "alt": "anh mu\u1ed1n ...",
+    "audio_prompt": "hoctap/18.mp3"
+  },
+  {
+    "key": "T\u00f4i kh\u00f4ng mu\u1ed1n ...",
+    "answer": "I don't want ...",
+    "alt": "anh kh\u00f4ng mu\u1ed1n ...",
+    "audio_prompt": "hoctap/19.mp3"
+  },
+  {
+    "key": "T\u00f4i bi\u1ebft ...",
+    "answer": "I know ...",
+    "alt": "anh bi\u1ebft ...",
+    "audio_prompt": "hoctap/20.mp3"
+  },
+  {
+    "key": "T\u00f4i kh\u00f4ng bi\u1ebft",
+    "answer": "I don't know",
+    "alt": "anh bi\u1ebft ...",
+    "audio_prompt": "hoctap/21.mp3"
+  },
+  {
+    "key": "T\u00f4i hi\u1ec3u ...",
+    "answer": "I understand ...",
+    "alt": "anh hi\u1ec3u ...",
+    "audio_prompt": "hoctap/22.mp3"
+  },
+  {
+    "key": "T\u00f4i kh\u00f4ng hi\u1ec3u ...",
+    "answer": "I don\u2019t understand ...",
+    "alt": "anh kh\u00f4ng hi\u1ec3u ...",
+    "audio_prompt": "hoctap/23.mp3"
+  },
+  {
+    "key": "ho\u0323c t\u00e2\u0323p",
+    "answer": "to study",
+    "alt": "",
+    "audio_prompt": "hoctap/24.mp3"
+  }
+]

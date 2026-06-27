@@ -1,0 +1,146 @@
+[
+  {
+    "key": "\u4f60\u6700\u8fd1\u9084\u597d\u55ce?",
+    "answer": "How are you getting along?",
+    "alt": "N\u01d0 zu\u00ecj\u00ecn h\u00e1i h\u01ceo ma?",
+    "audio": "hello/1.mp3"
+  },
+  {
+    "key": "\u4f60\u611f\u89ba\u600e\u9ebd\u6a23?",
+    "answer": "How do you feel?",
+    "alt": "n\u01d0 g\u01cenju\u00e9 z\u011bnme y\u00e0ng?",
+    "audio": "hello/2.mp3"
+  },
+  {
+    "key": "\u4f60\u70ba\u4ec0\u9ebc\u4f86\u9019\u88e1?",
+    "answer": "why are you here?",
+    "alt": "n\u01d0 w\u00e8ish\u00e9me l\u00e1i zh\u00e8l\u01d0",
+    "audio": "hello/3.mp3"
+  },
+  {
+    "key": "\u95dc\u4f60\u5c41\u4e8b",
+    "answer": "not your business",
+    "alt": "Gu\u0101n n\u01d0 p\u00ec sh\u00ec",
+    "audio": "hello/4.mp3"
+  },
+  {
+    "key": "\u6211\u559c\u6b61\u65c5\u884c",
+    "answer": "I like to travel",
+    "alt": "W\u01d2 x\u01d0huan l\u01dax\u00edng",
+    "audio": "hello/5.mp3"
+  },
+  {
+    "key": "\u6211\u611b\u9019\u88e1",
+    "answer": "I love it here",
+    "alt": "W\u01d2 \u00e0i zh\u00e8l\u01d0",
+    "audio": "hello/6.mp3"
+  },
+  {
+    "key": "\u9019\u88e1\u5f88\u7f8e",
+    "answer": "it's beautiful here",
+    "alt": "Zh\u00e8l\u01d0 h\u011bn m\u011bi",
+    "audio": "hello/7.mp3"
+  },
+  {
+    "key": "\u4f60\u53bb\u904e\u54ea\u88e1?",
+    "answer": "where have you been?",
+    "alt": "N\u01d0 q\u00f9gu\u00f2 n\u01cel\u01d0?",
+    "audio": "hello/8.mp3"
+  },
+  {
+    "key": "\u4f60\u662f\u505a\u751a\u9ebc\u7684?",
+    "answer": "what is your job?",
+    "alt": "N\u01d0 sh\u00ec zu\u00f2 sh\u00e9nme de?",
+    "audio": "hello/9.mp3"
+  },
+  {
+    "key": "\u9019\u662f\u4f60\u7b2c\u4e00\u6b21\u4f86\u9019\u88e1\u55ce?",
+    "answer": "is this your first time here?",
+    "alt": "Zh\u00e8 sh\u00ec n\u01d0 d\u00ec y\u012b c\u00ec l\u00e1i zh\u00e8l\u01d0 ma?",
+    "audio": "hello/10.mp3"
+  },
+  {
+    "key": "\u4f60\u5e7e\u6b72?",
+    "answer": "how old are you?",
+    "alt": "N\u01d0 j\u01d0 su\u00ec?",
+    "audio": "hello/11.mp3"
+  },
+  {
+    "key": "\u4f60\u7684\u5de5\u4f5c\u662f\u751a\u9ebc?",
+    "answer": "what is your job?",
+    "alt": "N\u01d0 de g\u014dngzu\u00f2 sh\u00ec sh\u00e9nme?",
+    "audio": "hello/12.mp3"
+  },
+  {
+    "key": "\u4f60\u60f3\u8981\u5403\u751a\u9ebc?",
+    "answer": "what do you want to eat?",
+    "alt": "N\u01d0 xi\u01ceng y\u00e0o ch\u012b sh\u00e9nme?",
+    "audio": "hello/13.mp3"
+  },
+  {
+    "key": "\u4f60\u7684\u8208\u8da3\u662f\u751a\u9ebc?",
+    "answer": "what do you like to do?",
+    "alt": "N\u01d0 de x\u00ecngq\u00f9 sh\u00ec sh\u00e9nme?",
+    "audio": "hello/14.mp3"
+  },
+  {
+    "key": "\u6211\u5728\u653e\u9577\u5047",
+    "answer": "I'm having a long vacation",
+    "alt": "W\u01d2 z\u00e0i f\u00e0ng ch\u00e1ngji\u00e0",
+    "audio": "hello/15.mp3"
+  },
+  {
+    "key": "\u4f60\u6c92\u4e8b\u90fd\u5728\u5e79\u561b?",
+    "answer": "what do you do in your free time?",
+    "alt": "N\u01d0 m\u00e9ish\u00ec d\u014du z\u00e0i g\u00e0n ma?",
+    "audio": "hello/16.mp3"
+  },
+  {
+    "key": "\u4f60\u5f88\u5fd9\u55ce?",
+    "answer": "Are you busy?",
+    "alt": "N\u01d0 h\u011bn m\u00e1ng ma?",
+    "audio": "hello/17.mp3"
+  },
+  {
+    "key": "\u5c0d\u6211\u5f88\u5fd9",
+    "answer": "Yes I am busy",
+    "alt": "Du\u00ec w\u01d2 h\u011bn m\u00e1ng",
+    "audio": "hello/18.mp3"
+  },
+  {
+    "key": "\u4f60\u53bb\u54ea\u88e1",
+    "answer": "where are you going?",
+    "alt": "N\u01d0 q\u00f9 n\u01cel\u01d0?",
+    "audio": "hello/19.mp3"
+  },
+  {
+    "key": "\u6211\u53bb\u5b78\u6821",
+    "answer": "I'm going to school",
+    "alt": "W\u01d2 q\u00f9 xu\u00e9xi\u00e0o",
+    "audio": "hello/20.mp3"
+  },
+  {
+    "key": "\u4f60\u7d2f\u55ce\uff1f",
+    "answer": "Are you tired?",
+    "alt": "N\u01d0 l\u00e8i ma?",
+    "audio": "hello/21.mp3"
+  },
+  {
+    "key": "\u6211\u5f88\u7d2f",
+    "answer": "I'm very tired",
+    "alt": "W\u01d2 h\u011bn l\u00e8i",
+    "audio": "hello/22.mp3"
+  },
+  {
+    "key": "\u4f60\u597d\u4f60\u53eb\u4ec0\u9ebc\u540d\u5b57?",
+    "answer": "Hello what is your name?",
+    "alt": "N\u01d0 h\u01ceo n\u01d0 ji\u00e0o sh\u00e9nme m\u00edngz\u00ec?",
+    "audio": "hello/23.mp3"
+  },
+  {
+    "key": "\u6211\u53eb\u674e\u9e97\u4f60\u5462?",
+    "answer": "My name is Li li and you?",
+    "alt": "W\u01d2 ji\u00e0o l\u01d0 l\u00ec n\u01d0 ne?",
+    "audio": "hello/24.mp3"
+  }
+]

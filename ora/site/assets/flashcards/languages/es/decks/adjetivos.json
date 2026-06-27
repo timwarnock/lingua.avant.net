@@ -1,0 +1,818 @@
+[
+  {
+    "key": "abierto",
+    "answer": " open",
+    "alt": "",
+    "audio_prompt": "adjetivos/1.mp3"
+  },
+  {
+    "key": "aburrido",
+    "answer": " boring",
+    "alt": "",
+    "audio_prompt": "adjetivos/2.mp3"
+  },
+  {
+    "key": "\u00e1cido",
+    "answer": " sour",
+    "alt": "",
+    "audio_prompt": "adjetivos/3.mp3"
+  },
+  {
+    "key": "adecuado",
+    "answer": " appropriate/adequate",
+    "alt": "",
+    "audio_prompt": "adjetivos/4.mp3"
+  },
+  {
+    "key": "alegre",
+    "answer": " happy",
+    "alt": "",
+    "audio_prompt": "adjetivos/5.mp3"
+  },
+  {
+    "key": "alguno",
+    "answer": " any/some (pron. someone)",
+    "alt": "",
+    "audio_prompt": "adjetivos/6.mp3"
+  },
+  {
+    "key": "alg\u00fan",
+    "answer": " one/some",
+    "alt": "",
+    "audio_prompt": "adjetivos/7.mp3"
+  },
+  {
+    "key": "ambos",
+    "answer": " both",
+    "alt": "",
+    "audio_prompt": "adjetivos/8.mp3"
+  },
+  {
+    "key": "amplio",
+    "answer": " spacious/wide",
+    "alt": "",
+    "audio_prompt": "adjetivos/9.mp3"
+  },
+  {
+    "key": "antiguo",
+    "answer": " old/antiquity",
+    "alt": "",
+    "audio_prompt": "adjetivos/10.mp3"
+  },
+  {
+    "key": "avanzado",
+    "answer": " advanced",
+    "alt": "",
+    "audio_prompt": "adjetivos/11.mp3"
+  },
+  {
+    "key": "bajo",
+    "answer": " short/low",
+    "alt": "",
+    "audio_prompt": "adjetivos/12.mp3"
+  },
+  {
+    "key": "barato",
+    "answer": " cheap",
+    "alt": "",
+    "audio_prompt": "adjetivos/13.mp3"
+  },
+  {
+    "key": "b\u00e1sico",
+    "answer": " basic",
+    "alt": "",
+    "audio_prompt": "adjetivos/14.mp3"
+  },
+  {
+    "key": "borracho",
+    "answer": " drunk",
+    "alt": " boring drunk roach throwing up",
+    "audio_prompt": "adjetivos/15.mp3"
+  },
+  {
+    "key": "brillante",
+    "answer": " brilliant",
+    "alt": "",
+    "audio_prompt": "adjetivos/16.mp3"
+  },
+  {
+    "key": "bueno/buen",
+    "answer": " good/fine",
+    "alt": " \u201cbuen\u201d before masculine nouns",
+    "audio_prompt": "adjetivos/17.mp3"
+  },
+  {
+    "key": "cada",
+    "answer": " each/every",
+    "alt": "",
+    "audio_prompt": "adjetivos/18.mp3"
+  },
+  {
+    "key": "capaz",
+    "answer": " able",
+    "alt": "",
+    "audio_prompt": "adjetivos/19.mp3"
+  },
+  {
+    "key": "cansado",
+    "answer": " tired",
+    "alt": " my can is sad",
+    "audio_prompt": "adjetivos/20.mp3"
+  },
+  {
+    "key": "caro",
+    "answer": " expensive",
+    "alt": "",
+    "audio_prompt": "adjetivos/21.mp3"
+  },
+  {
+    "key": "casado",
+    "answer": " married",
+    "alt": "",
+    "audio_prompt": "adjetivos/22.mp3"
+  },
+  {
+    "key": "cierto",
+    "answer": " certain/some/sure/true",
+    "alt": "",
+    "audio_prompt": "adjetivos/23.mp3"
+  },
+  {
+    "key": "claro",
+    "answer": " clear / \u201cof course\u201d",
+    "alt": "",
+    "audio_prompt": "adjetivos/24.mp3"
+  },
+  {
+    "key": "cl\u00e1sico",
+    "answer": " classical",
+    "alt": "",
+    "audio_prompt": "adjetivos/25.mp3"
+  },
+  {
+    "key": "com\u00fan",
+    "answer": " common",
+    "alt": "",
+    "audio_prompt": "adjetivos/26.mp3"
+  },
+  {
+    "key": "consciente",
+    "answer": " conscious/aware",
+    "alt": "",
+    "audio_prompt": "adjetivos/27.mp3"
+  },
+  {
+    "key": "contenido",
+    "answer": " restrained/controlled",
+    "alt": "",
+    "audio_prompt": "adjetivos/28.mp3"
+  },
+  {
+    "key": "corto",
+    "answer": " short",
+    "alt": "",
+    "audio_prompt": "adjetivos/29.mp3"
+  },
+  {
+    "key": "cualquier",
+    "answer": " any",
+    "alt": "",
+    "audio_prompt": "adjetivos/30.mp3"
+  },
+  {
+    "key": "cuanto",
+    "answer": " a few",
+    "alt": "",
+    "audio_prompt": "adjetivos/31.mp3"
+  },
+  {
+    "key": "d\u00e9bil",
+    "answer": " weak",
+    "alt": " debilitated",
+    "audio_prompt": "adjetivos/32.mp3"
+  },
+  {
+    "key": "delicioso",
+    "answer": " delicious",
+    "alt": "",
+    "audio_prompt": "adjetivos/33.mp3"
+  },
+  {
+    "key": "derecho",
+    "answer": " right",
+    "alt": " m/f sustantivo... la derecha",
+    "audio_prompt": "adjetivos/34.mp3"
+  },
+  {
+    "key": "dificil",
+    "answer": " difficult",
+    "alt": "",
+    "audio_prompt": "adjetivos/35.mp3"
+  },
+  {
+    "key": "disponible",
+    "answer": " available",
+    "alt": "",
+    "audio_prompt": "adjetivos/36.mp3"
+  },
+  {
+    "key": "dulce",
+    "answer": " sweet",
+    "alt": "",
+    "audio_prompt": "adjetivos/37.mp3"
+  },
+  {
+    "key": "eficaz",
+    "answer": " effective",
+    "alt": "",
+    "audio_prompt": "adjetivos/38.mp3"
+  },
+  {
+    "key": "el\u00e9ctrico",
+    "answer": " electric",
+    "alt": "",
+    "audio_prompt": "adjetivos/39.mp3"
+  },
+  {
+    "key": "elevado",
+    "answer": " high",
+    "alt": "",
+    "audio_prompt": "adjetivos/40.mp3"
+  },
+  {
+    "key": "enamorado",
+    "answer": " in love",
+    "alt": "",
+    "audio_prompt": "adjetivos/41.mp3"
+  },
+  {
+    "key": "encantadora",
+    "answer": " enchanting",
+    "alt": "",
+    "audio_prompt": "adjetivos/42.mp3"
+  },
+  {
+    "key": "enfermo",
+    "answer": " ill/sick",
+    "alt": " infirm",
+    "audio_prompt": "adjetivos/43.mp3"
+  },
+  {
+    "key": "enojado",
+    "answer": " angry",
+    "alt": "",
+    "audio_prompt": "adjetivos/44.mp3"
+  },
+  {
+    "key": "equivocado",
+    "answer": " wrong",
+    "alt": "",
+    "audio_prompt": "adjetivos/45.mp3"
+  },
+  {
+    "key": "escaso",
+    "answer": " scarce",
+    "alt": "",
+    "audio_prompt": "adjetivos/46.mp3"
+  },
+  {
+    "key": "ese/esa",
+    "answer": " that",
+    "alt": " eso (that without a noun)",
+    "audio_prompt": "adjetivos/47.mp3"
+  },
+  {
+    "key": "especial",
+    "answer": " particular/special",
+    "alt": "",
+    "audio_prompt": "adjetivos/48.mp3"
+  },
+  {
+    "key": "este/esta",
+    "answer": " this",
+    "alt": " esto (this without a noun)",
+    "audio_prompt": "adjetivos/49.mp3"
+  },
+  {
+    "key": "extra\u00f1o",
+    "answer": " odd/strange",
+    "alt": "",
+    "audio_prompt": "adjetivos/50.mp3"
+  },
+  {
+    "key": "famoso",
+    "answer": " famous",
+    "alt": "",
+    "audio_prompt": "adjetivos/51.mp3"
+  },
+  {
+    "key": "feliz",
+    "answer": " happy",
+    "alt": "",
+    "audio_prompt": "adjetivos/52.mp3"
+  },
+  {
+    "key": "femenino",
+    "answer": " feminine",
+    "alt": "",
+    "audio_prompt": "adjetivos/53.mp3"
+  },
+  {
+    "key": "feo",
+    "answer": " ugly",
+    "alt": "",
+    "audio_prompt": "adjetivos/54.mp3"
+  },
+  {
+    "key": "frio",
+    "answer": " cold",
+    "alt": " \u201ctengo frio\u201d",
+    "audio_prompt": "adjetivos/55.mp3"
+  },
+  {
+    "key": "fuertes",
+    "answer": " strong",
+    "alt": "",
+    "audio_prompt": "adjetivos/56.mp3"
+  },
+  {
+    "key": "furioso",
+    "answer": " furious",
+    "alt": "",
+    "audio_prompt": "adjetivos/57.mp3"
+  },
+  {
+    "key": "grande",
+    "answer": " large/big/great",
+    "alt": "",
+    "audio_prompt": "adjetivos/58.mp3"
+  },
+  {
+    "key": "hermoso",
+    "answer": " beautiful",
+    "alt": "",
+    "audio_prompt": "adjetivos/59.mp3"
+  },
+  {
+    "key": "hist\u00f3rico",
+    "answer": " historical",
+    "alt": "",
+    "audio_prompt": "adjetivos/60.mp3"
+  },
+  {
+    "key": "igual/iguales",
+    "answer": " equal/same",
+    "alt": "",
+    "audio_prompt": "adjetivos/61.mp3"
+  },
+  {
+    "key": "incre\u00edble",
+    "answer": " incredible",
+    "alt": "",
+    "audio_prompt": "adjetivos/62.mp3"
+  },
+  {
+    "key": "independiente",
+    "answer": " independent",
+    "alt": "",
+    "audio_prompt": "adjetivos/63.mp3"
+  },
+  {
+    "key": "infantil",
+    "answer": " childish/infantile",
+    "alt": "",
+    "audio_prompt": "adjetivos/64.mp3"
+  },
+  {
+    "key": "inmediato",
+    "answer": " immediately",
+    "alt": "",
+    "audio_prompt": "adjetivos/65.mp3"
+  },
+  {
+    "key": "inmovil",
+    "answer": " motionless/stationary",
+    "alt": "",
+    "audio_prompt": "adjetivos/66.mp3"
+  },
+  {
+    "key": "izquierdo",
+    "answer": " left / m/f sustantivo... la izquierda",
+    "alt": "adjetivos/67.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "joven",
+    "answer": " young (person)",
+    "alt": "",
+    "audio_prompt": "adjetivos/68.mp3"
+  },
+  {
+    "key": "junto",
+    "answer": " together/alongside",
+    "alt": "",
+    "audio_prompt": "adjetivos/69.mp3"
+  },
+  {
+    "key": "justo",
+    "answer": " fair/right/just",
+    "alt": " \u201cjusto a tiempo\u201d just in time",
+    "audio_prompt": "adjetivos/70.mp3"
+  },
+  {
+    "key": "largo",
+    "answer": " long",
+    "alt": "",
+    "audio_prompt": "adjetivos/71.mp3"
+  },
+  {
+    "key": "lento",
+    "answer": " slow",
+    "alt": "",
+    "audio_prompt": "adjetivos/72.mp3"
+  },
+  {
+    "key": "libre",
+    "answer": " free",
+    "alt": "",
+    "audio_prompt": "adjetivos/73.mp3"
+  },
+  {
+    "key": "limpio",
+    "answer": " clean",
+    "alt": "",
+    "audio_prompt": "adjetivos/74.mp3"
+  },
+  {
+    "key": "listo/lista",
+    "answer": " ready/smart/clever",
+    "alt": "",
+    "audio_prompt": "adjetivos/75.mp3"
+  },
+  {
+    "key": "lleno",
+    "answer": " full",
+    "alt": "",
+    "audio_prompt": "adjetivos/76.mp3"
+  },
+  {
+    "key": "l\u00f3gico",
+    "answer": " logical",
+    "alt": "",
+    "audio_prompt": "adjetivos/77.mp3"
+  },
+  {
+    "key": "m\u00e1s o menos",
+    "answer": " more or less",
+    "alt": "",
+    "audio_prompt": "adjetivos/78.mp3"
+  },
+  {
+    "key": "m\u00e1xima",
+    "answer": " maximum",
+    "alt": "",
+    "audio_prompt": "adjetivos/79.mp3"
+  },
+  {
+    "key": "mejor",
+    "answer": " better",
+    "alt": "",
+    "audio_prompt": "adjetivos/80.mp3"
+  },
+  {
+    "key": "menudo",
+    "answer": " small",
+    "alt": " \u201ca menudo\u201d often",
+    "audio_prompt": "adjetivos/81.mp3"
+  },
+  {
+    "key": "m\u00ednimo",
+    "answer": " low",
+    "alt": "",
+    "audio_prompt": "adjetivos/82.mp3"
+  },
+  {
+    "key": "mismo",
+    "answer": " same/self",
+    "alt": " \u201cyo mismo\u201d myself",
+    "audio_prompt": "adjetivos/83.mp3"
+  },
+  {
+    "key": "mucho",
+    "answer": " very much",
+    "alt": "",
+    "audio_prompt": "adjetivos/84.mp3"
+  },
+  {
+    "key": "muchisimo",
+    "answer": " very much / a lot",
+    "alt": "",
+    "audio_prompt": "adjetivos/85.mp3"
+  },
+  {
+    "key": "mundial",
+    "answer": " worldwide",
+    "alt": "",
+    "audio_prompt": "adjetivos/86.mp3"
+  },
+  {
+    "key": "ni\u00f1o",
+    "answer": " child",
+    "alt": "",
+    "audio_prompt": "adjetivos/87.mp3"
+  },
+  {
+    "key": "numeroso",
+    "answer": " numerous/many",
+    "alt": "",
+    "audio_prompt": "adjetivos/88.mp3"
+  },
+  {
+    "key": "nuestro",
+    "answer": " our",
+    "alt": "",
+    "audio_prompt": "adjetivos/89.mp3"
+  },
+  {
+    "key": "nuevo",
+    "answer": " new",
+    "alt": " nueva york!",
+    "audio_prompt": "adjetivos/90.mp3"
+  },
+  {
+    "key": "oscuro",
+    "answer": " dark",
+    "alt": "",
+    "audio_prompt": "adjetivos/91.mp3"
+  },
+  {
+    "key": "ostro",
+    "answer": " other/another",
+    "alt": "",
+    "audio_prompt": "adjetivos/92.mp3"
+  },
+  {
+    "key": "otro",
+    "answer": " other/another",
+    "alt": " \u201cotra vez\u201d again / lit.\u201danother time\u201d",
+    "audio_prompt": "adjetivos/93.mp3"
+  },
+  {
+    "key": "pasado",
+    "answer": " past",
+    "alt": " \u201cpasado un a\u00f1o\u201d",
+    "audio_prompt": "adjetivos/94.mp3"
+  },
+  {
+    "key": "peor",
+    "answer": " worst",
+    "alt": "",
+    "audio_prompt": "adjetivos/95.mp3"
+  },
+  {
+    "key": "peque\u00f1o",
+    "answer": " small/little",
+    "alt": "",
+    "audio_prompt": "adjetivos/96.mp3"
+  },
+  {
+    "key": "pendiente",
+    "answer": " pending/awaiting",
+    "alt": "",
+    "audio_prompt": "adjetivos/97.mp3"
+  },
+  {
+    "key": "perdido",
+    "answer": " lost",
+    "alt": "",
+    "audio_prompt": "adjetivos/98.mp3"
+  },
+  {
+    "key": "perfecto",
+    "answer": " perfect",
+    "alt": "",
+    "audio_prompt": "adjetivos/99.mp3"
+  },
+  {
+    "key": "plano",
+    "answer": " flat",
+    "alt": "",
+    "audio_prompt": "adjetivos/100.mp3"
+  },
+  {
+    "key": "pobre",
+    "answer": " poor",
+    "alt": "",
+    "audio_prompt": "adjetivos/101.mp3"
+  },
+  {
+    "key": "poco",
+    "answer": " not much",
+    "alt": "",
+    "audio_prompt": "adjetivos/102.mp3"
+  },
+  {
+    "key": "precavido",
+    "answer": " cautious/prudent",
+    "alt": "",
+    "audio_prompt": "adjetivos/103.mp3"
+  },
+  {
+    "key": "precioso",
+    "answer": " beautiful/precious",
+    "alt": "",
+    "audio_prompt": "adjetivos/104.mp3"
+  },
+  {
+    "key": "previo",
+    "answer": " previous",
+    "alt": "",
+    "audio_prompt": "adjetivos/105.mp3"
+  },
+  {
+    "key": "primero",
+    "answer": " first",
+    "alt": "",
+    "audio_prompt": "adjetivos/106.mp3"
+  },
+  {
+    "key": "privado",
+    "answer": " private",
+    "alt": "",
+    "audio_prompt": "adjetivos/107.mp3"
+  },
+  {
+    "key": "profundo",
+    "answer": " profound/deep",
+    "alt": " el agua no es profunda",
+    "audio_prompt": "adjetivos/108.mp3"
+  },
+  {
+    "key": "propio",
+    "answer": " own",
+    "alt": " mis propias ni\u00f1as",
+    "audio_prompt": "adjetivos/109.mp3"
+  },
+  {
+    "key": "pronto",
+    "answer": " soon",
+    "alt": "",
+    "audio_prompt": "adjetivos/110.mp3"
+  },
+  {
+    "key": "pr\u00f3xima",
+    "answer": " next/close",
+    "alt": " \u201cla pr\u00f3xima vez\u201d the next time",
+    "audio_prompt": "adjetivos/111.mp3"
+  },
+  {
+    "key": "p\u00fablico",
+    "answer": " public",
+    "alt": "",
+    "audio_prompt": "adjetivos/112.mp3"
+  },
+  {
+    "key": "puro",
+    "answer": " pure",
+    "alt": "",
+    "audio_prompt": "adjetivos/113.mp3"
+  },
+  {
+    "key": "quieta",
+    "answer": " still/quiet",
+    "alt": "",
+    "audio_prompt": "adjetivos/114.mp3"
+  },
+  {
+    "key": "regular",
+    "answer": " regular/normal/usual",
+    "alt": "",
+    "audio_prompt": "adjetivos/115.mp3"
+  },
+  {
+    "key": "revolucionario",
+    "answer": " revolutionary",
+    "alt": "",
+    "audio_prompt": "adjetivos/116.mp3"
+  },
+  {
+    "key": "sencillo",
+    "answer": " simple",
+    "alt": "",
+    "audio_prompt": "adjetivos/117.mp3"
+  },
+  {
+    "key": "seguro",
+    "answer": " sure/safe",
+    "alt": "",
+    "audio_prompt": "adjetivos/118.mp3"
+  },
+  {
+    "key": "seguido",
+    "answer": " continuous",
+    "alt": " \u201cen seguida\u201d right away",
+    "audio_prompt": "adjetivos/119.mp3"
+  },
+  {
+    "key": "siguientes",
+    "answer": " following/next",
+    "alt": "",
+    "audio_prompt": "adjetivos/120.mp3"
+  },
+  {
+    "key": "solo",
+    "answer": " alone",
+    "alt": "",
+    "audio_prompt": "adjetivos/121.mp3"
+  },
+  {
+    "key": "sorprendido",
+    "answer": " surprised",
+    "alt": "",
+    "audio_prompt": "adjetivos/122.mp3"
+  },
+  {
+    "key": "sucio",
+    "answer": " dirty",
+    "alt": "",
+    "audio_prompt": "adjetivos/123.mp3"
+  },
+  {
+    "key": "suficiente",
+    "answer": " enough",
+    "alt": "",
+    "audio_prompt": "adjetivos/124.mp3"
+  },
+  {
+    "key": "tanto",
+    "answer": " so much / so many",
+    "alt": "",
+    "audio_prompt": "adjetivos/125.mp3"
+  },
+  {
+    "key": "todo",
+    "answer": " all/everything",
+    "alt": " total",
+    "audio_prompt": "adjetivos/126.mp3"
+  },
+  {
+    "key": "tranquilo",
+    "answer": " quiet",
+    "alt": "",
+    "audio_prompt": "adjetivos/127.mp3"
+  },
+  {
+    "key": "triste",
+    "answer": " sad",
+    "alt": "",
+    "audio_prompt": "adjetivos/128.mp3"
+  },
+  {
+    "key": "\u00faltima",
+    "answer": " last",
+    "alt": "",
+    "audio_prompt": "adjetivos/129.mp3"
+  },
+  {
+    "key": "\u00fanico",
+    "answer": " unique/only",
+    "alt": "",
+    "audio_prompt": "adjetivos/130.mp3"
+  },
+  {
+    "key": "\u00fatil",
+    "answer": " useful",
+    "alt": "",
+    "audio_prompt": "adjetivos/131.mp3"
+  },
+  {
+    "key": "vario/varia",
+    "answer": " various",
+    "alt": "",
+    "audio_prompt": "adjetivos/132.mp3"
+  },
+  {
+    "key": "verdadero",
+    "answer": " real",
+    "alt": "",
+    "audio_prompt": "adjetivos/133.mp3"
+  },
+  {
+    "key": "vestido",
+    "answer": " dressed",
+    "alt": "",
+    "audio_prompt": "adjetivos/134.mp3"
+  },
+  {
+    "key": "viejo",
+    "answer": " old",
+    "alt": "",
+    "audio_prompt": "adjetivos/135.mp3"
+  },
+  {
+    "key": "vivo",
+    "answer": " living/alive",
+    "alt": "",
+    "audio_prompt": "adjetivos/136.mp3"
+  }
+]

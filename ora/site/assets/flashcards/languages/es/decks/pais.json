@@ -1,0 +1,116 @@
+[
+  {
+    "key": "am\u00e9rica",
+    "answer": " America",
+    "alt": " americano",
+    "audio_prompt": "pais/1.mp3"
+  },
+  {
+    "key": "argentina",
+    "answer": " Argentina",
+    "alt": "",
+    "audio_prompt": "pais/2.mp3"
+  },
+  {
+    "key": "brit\u00e1nico",
+    "answer": " Britain",
+    "alt": "",
+    "audio_prompt": "pais/3.mp3"
+  },
+  {
+    "key": "china",
+    "answer": " China",
+    "alt": "",
+    "audio_prompt": "pais/4.mp3"
+  },
+  {
+    "key": "cubano",
+    "answer": " cuban",
+    "alt": "",
+    "audio_prompt": "pais/5.mp3"
+  },
+  {
+    "key": "espa\u00f1a",
+    "answer": " Spain",
+    "alt": "",
+    "audio_prompt": "pais/6.mp3"
+  },
+  {
+    "key": "europa",
+    "answer": " Europe",
+    "alt": "",
+    "audio_prompt": "pais/7.mp3"
+  },
+  {
+    "key": "europeos",
+    "answer": " Europeans",
+    "alt": "",
+    "audio_prompt": "pais/8.mp3"
+  },
+  {
+    "key": "extranjero",
+    "answer": " foreigner",
+    "alt": "",
+    "audio_prompt": "pais/9.mp3"
+  },
+  {
+    "key": "franc\u00e9s",
+    "answer": " French",
+    "alt": "",
+    "audio_prompt": "pais/10.mp3"
+  },
+  {
+    "key": "francia",
+    "answer": " France",
+    "alt": "",
+    "audio_prompt": "pais/11.mp3"
+  },
+  {
+    "key": "inglaterra",
+    "answer": " England",
+    "alt": "",
+    "audio_prompt": "pais/12.mp3"
+  },
+  {
+    "key": "ingl\u00e9s",
+    "answer": " English",
+    "alt": "",
+    "audio_prompt": "pais/13.mp3"
+  },
+  {
+    "key": "internacionales",
+    "answer": " International",
+    "alt": "",
+    "audio_prompt": "pais/14.mp3"
+  },
+  {
+    "key": "italiano",
+    "answer": " Italian",
+    "alt": "",
+    "audio_prompt": "pais/15.mp3"
+  },
+  {
+    "key": "m\u00e9xico",
+    "answer": " Mexico",
+    "alt": "",
+    "audio_prompt": "pais/16.mp3"
+  },
+  {
+    "key": "mexicano",
+    "answer": " Mexican",
+    "alt": "",
+    "audio_prompt": "pais/17.mp3"
+  },
+  {
+    "key": "norteamericana",
+    "answer": " North American",
+    "alt": "",
+    "audio_prompt": "pais/18.mp3"
+  },
+  {
+    "key": "estadounidense",
+    "answer": " American (US)",
+    "alt": "",
+    "audio_prompt": "pais/19.mp3"
+  }
+]

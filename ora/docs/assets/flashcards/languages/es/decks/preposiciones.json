@@ -1,0 +1,368 @@
+[
+  {
+    "key": "a",
+    "answer": " to",
+    "alt": "",
+    "audio_prompt": "preposiciones/1.mp3"
+  },
+  {
+    "key": "a veces",
+    "answer": " sometimes",
+    "alt": "",
+    "audio_prompt": "preposiciones/2.mp3"
+  },
+  {
+    "key": "acabo de",
+    "answer": " I just",
+    "alt": "",
+    "audio_prompt": "preposiciones/3.mp3"
+  },
+  {
+    "key": "acaba de",
+    "answer": " He/She/They just",
+    "alt": "",
+    "audio_prompt": "preposiciones/4.mp3"
+  },
+  {
+    "key": "adi\u00f3s / hasta luego",
+    "answer": " goodbye",
+    "alt": " lit.\u201cuntil later\u201d",
+    "audio_prompt": "preposiciones/5.mp3"
+  },
+  {
+    "key": "al",
+    "answer": " to the",
+    "alt": "",
+    "audio_prompt": "preposiciones/6.mp3"
+  },
+  {
+    "key": "as\u00ed que",
+    "answer": " so / therefore",
+    "alt": "",
+    "audio_prompt": "preposiciones/7.mp3"
+  },
+  {
+    "key": "aun/a\u00fan",
+    "answer": " even",
+    "alt": " \u201caun mas\u201d even more",
+    "audio_prompt": "preposiciones/8.mp3"
+  },
+  {
+    "key": "aunque",
+    "answer": " though/although/even if",
+    "alt": "",
+    "audio_prompt": "preposiciones/9.mp3"
+  },
+  {
+    "key": "como",
+    "answer": " like / as",
+    "alt": "",
+    "audio_prompt": "preposiciones/10.mp3"
+  },
+  {
+    "key": "con",
+    "answer": " with",
+    "alt": "",
+    "audio_prompt": "preposiciones/11.mp3"
+  },
+  {
+    "key": "contra",
+    "answer": " against",
+    "alt": "",
+    "audio_prompt": "preposiciones/12.mp3"
+  },
+  {
+    "key": "cu\u00e1ndo",
+    "answer": " when",
+    "alt": "",
+    "audio_prompt": "preposiciones/13.mp3"
+  },
+  {
+    "key": "cu\u00e1nto",
+    "answer": " how much?",
+    "alt": " quantity",
+    "audio_prompt": "preposiciones/14.mp3"
+  },
+  {
+    "key": "de",
+    "answer": " from/of",
+    "alt": "",
+    "audio_prompt": "preposiciones/15.mp3"
+  },
+  {
+    "key": "desde",
+    "answer": " from/since",
+    "alt": "",
+    "audio_prompt": "preposiciones/16.mp3"
+  },
+  {
+    "key": "detr\u00e1s",
+    "answer": " behind",
+    "alt": "",
+    "audio_prompt": "preposiciones/17.mp3"
+  },
+  {
+    "key": "durante",
+    "answer": " during",
+    "alt": "",
+    "audio_prompt": "preposiciones/18.mp3"
+  },
+  {
+    "key": "en",
+    "answer": " in / on",
+    "alt": "",
+    "audio_prompt": "preposiciones/19.mp3"
+  },
+  {
+    "key": "entre",
+    "answer": " between",
+    "alt": "",
+    "audio_prompt": "preposiciones/20.mp3"
+  },
+  {
+    "key": "es",
+    "answer": " it is",
+    "alt": "",
+    "audio_prompt": "preposiciones/21.mp3"
+  },
+  {
+    "key": "es as\u00ed",
+    "answer": " it is like that / it is that way",
+    "alt": "",
+    "audio_prompt": "preposiciones/22.mp3"
+  },
+  {
+    "key": "esta ma\u00f1ana",
+    "answer": " this morning",
+    "alt": "",
+    "audio_prompt": "preposiciones/23.mp3"
+  },
+  {
+    "key": "esta tarde",
+    "answer": " this afternoon",
+    "alt": "",
+    "audio_prompt": "preposiciones/24.mp3"
+  },
+  {
+    "key": "hasta",
+    "answer": " until/up to",
+    "alt": "",
+    "audio_prompt": "preposiciones/25.mp3"
+  },
+  {
+    "key": "hay",
+    "answer": " there is / there are",
+    "alt": "",
+    "audio_prompt": "preposiciones/26.mp3"
+  },
+  {
+    "key": "hay que",
+    "answer": " one has to",
+    "alt": "",
+    "audio_prompt": "preposiciones/27.mp3"
+  },
+  {
+    "key": "la semana que viene",
+    "answer": " next week",
+    "alt": "",
+    "audio_prompt": "preposiciones/28.mp3"
+  },
+  {
+    "key": "le",
+    "answer": " you",
+    "alt": "",
+    "audio_prompt": "preposiciones/29.mp3"
+  },
+  {
+    "key": "lo",
+    "answer": " it/he",
+    "alt": "",
+    "audio_prompt": "preposiciones/30.mp3"
+  },
+  {
+    "key": "los estados unidos",
+    "answer": " the United States",
+    "alt": "",
+    "audio_prompt": "preposiciones/31.mp3"
+  },
+  {
+    "key": "mientras",
+    "answer": " while",
+    "alt": "",
+    "audio_prompt": "preposiciones/32.mp3"
+  },
+  {
+    "key": "ni",
+    "answer": " not even/neither/nor",
+    "alt": "",
+    "audio_prompt": "preposiciones/33.mp3"
+  },
+  {
+    "key": "o",
+    "answer": " or",
+    "alt": "",
+    "audio_prompt": "preposiciones/34.mp3"
+  },
+  {
+    "key": "para",
+    "answer": " for / in / to / in order to",
+    "alt": "",
+    "audio_prompt": "preposiciones/35.mp3"
+  },
+  {
+    "key": "pero",
+    "answer": " but",
+    "alt": "",
+    "audio_prompt": "preposiciones/36.mp3"
+  },
+  {
+    "key": "no es para mi",
+    "answer": " it is not for me",
+    "alt": "",
+    "audio_prompt": "preposiciones/37.mp3"
+  },
+  {
+    "key": "no es para usted",
+    "answer": " it is not for you",
+    "alt": "",
+    "audio_prompt": "preposiciones/38.mp3"
+  },
+  {
+    "key": "por",
+    "answer": " by / for / through",
+    "alt": " \u201cpor dia\u201d",
+    "audio_prompt": "preposiciones/39.mp3"
+  },
+  {
+    "key": "por lo menos",
+    "answer": " at least",
+    "alt": "",
+    "audio_prompt": "preposiciones/40.mp3"
+  },
+  {
+    "key": "por que",
+    "answer": " why.",
+    "alt": "preposiciones/41.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "porque",
+    "answer": " because",
+    "alt": "",
+    "audio_prompt": "preposiciones/42.mp3"
+  },
+  {
+    "key": "que",
+    "answer": " that/which",
+    "alt": "",
+    "audio_prompt": "preposiciones/43.mp3"
+  },
+  {
+    "key": "qu\u00e9",
+    "answer": " what (pronoun)",
+    "alt": "",
+    "audio_prompt": "preposiciones/44.mp3"
+  },
+  {
+    "key": "qu\u00e9 hay",
+    "answer": " what\u2019s up? what\u2019s the matter?",
+    "alt": "",
+    "audio_prompt": "preposiciones/45.mp3"
+  },
+  {
+    "key": "quisiera",
+    "answer": " I would like / I may want / I might want",
+    "alt": "",
+    "audio_prompt": "preposiciones/46.mp3"
+  },
+  {
+    "key": "seg\u00fan",
+    "answer": " according to/it depends/as",
+    "alt": "",
+    "audio_prompt": "preposiciones/47.mp3"
+  },
+  {
+    "key": "si",
+    "answer": " if / conditional",
+    "alt": " si/pues",
+    "audio_prompt": "preposiciones/48.mp3"
+  },
+  {
+    "key": "siempre que",
+    "answer": " provided that ...",
+    "alt": "",
+    "audio_prompt": "preposiciones/49.mp3"
+  },
+  {
+    "key": "siquiera",
+    "answer": " even if / at least",
+    "alt": " (ni siquiera) not even",
+    "audio_prompt": "preposiciones/50.mp3"
+  },
+  {
+    "key": "sin",
+    "answer": " without",
+    "alt": "",
+    "audio_prompt": "preposiciones/51.mp3"
+  },
+  {
+    "key": "sino",
+    "answer": " but / rather / if not",
+    "alt": "",
+    "audio_prompt": "preposiciones/52.mp3"
+  },
+  {
+    "key": "sobre",
+    "answer": " on / about / over",
+    "alt": "",
+    "audio_prompt": "preposiciones/53.mp3"
+  },
+  {
+    "key": "suerte",
+    "answer": " luck",
+    "alt": "",
+    "audio_prompt": "preposiciones/54.mp3"
+  },
+  {
+    "key": "tener ganas",
+    "answer": " to feel like",
+    "alt": "",
+    "audio_prompt": "preposiciones/55.mp3"
+  },
+  {
+    "key": "todos los dias",
+    "answer": " everyday (all the days)",
+    "alt": "",
+    "audio_prompt": "preposiciones/56.mp3"
+  },
+  {
+    "key": "tras",
+    "answer": " after",
+    "alt": "",
+    "audio_prompt": "preposiciones/57.mp3"
+  },
+  {
+    "key": "unos dias",
+    "answer": " a few days",
+    "alt": "",
+    "audio_prompt": "preposiciones/58.mp3"
+  },
+  {
+    "key": "unos minutos",
+    "answer": " a few minutes",
+    "alt": "",
+    "audio_prompt": "preposiciones/59.mp3"
+  },
+  {
+    "key": "vale",
+    "answer": " okay / worth / voucher",
+    "alt": " \u00bfcu\u00e1nto vale?",
+    "audio_prompt": "preposiciones/60.mp3"
+  },
+  {
+    "key": "y",
+    "answer": " and",
+    "alt": "",
+    "audio_prompt": "preposiciones/61.mp3"
+  }
+]

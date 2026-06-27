@@ -1,0 +1,38 @@
+[
+  {
+    "key": "ngang",
+    "answer": "\u02e7 (high flat)",
+    "alt": "thanh",
+    "audio_prompt": "pronounce/38.mp3"
+  },
+  {
+    "key": "huy\u1ec1n",
+    "answer": "\u02e8\u02e9 (low falling)",
+    "alt": "` (f)",
+    "audio_prompt": "pronounce/39.mp3"
+  },
+  {
+    "key": "s\u1eafc",
+    "answer": "\u02e7\u02e5 (mid rising)",
+    "alt": "\u00b4 (s)",
+    "audio_prompt": "pronounce/40.mp3"
+  },
+  {
+    "key": "n\u1eb7ng",
+    "answer": "\u02e7\u02c0\u02e8\u0294 (drop)",
+    "alt": "\u0323 (j)",
+    "audio_prompt": "pronounce/41.mp3"
+  },
+  {
+    "key": "h\u1ecfi",
+    "answer": "\u02e7\u02e9\u02e7 (asking)",
+    "alt": "\u0309 (r)",
+    "audio_prompt": "pronounce/42.mp3"
+  },
+  {
+    "key": "ng\u00e3",
+    "answer": "\u02e7\u02c0\u02e5 (glottalized)",
+    "alt": "\u02dc (x)",
+    "audio_prompt": "pronounce/43.mp3"
+  }
+]

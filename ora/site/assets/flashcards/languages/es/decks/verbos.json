@@ -1,0 +1,1572 @@
+[
+  {
+    "key": "abandonar",
+    "answer": " to abandon/desert/quit",
+    "alt": "",
+    "audio_prompt": "verbos/1.mp3"
+  },
+  {
+    "key": "abrir",
+    "answer": " to open",
+    "alt": "",
+    "audio_prompt": "verbos/2.mp3"
+  },
+  {
+    "key": "acabar",
+    "answer": " to finish/end",
+    "alt": " I just...",
+    "audio_prompt": "verbos/3.mp3"
+  },
+  {
+    "key": "aceptar",
+    "answer": " to accept",
+    "alt": " aceptarlo \u201cto accept it\u201d",
+    "audio_prompt": "verbos/4.mp3"
+  },
+  {
+    "key": "acercar",
+    "answer": " to approach",
+    "alt": "",
+    "audio_prompt": "verbos/5.mp3"
+  },
+  {
+    "key": "acompa\u00f1ar",
+    "answer": " to accompany",
+    "alt": "",
+    "audio_prompt": "verbos/6.mp3"
+  },
+  {
+    "key": "acordar",
+    "answer": " to agree/remember",
+    "alt": " \u201cde acuerdo\u201d ok",
+    "audio_prompt": "verbos/7.mp3"
+  },
+  {
+    "key": "actualizar",
+    "answer": " to update",
+    "alt": " to make actual",
+    "audio_prompt": "verbos/8.mp3"
+  },
+  {
+    "key": "afectar",
+    "answer": " to affect/pretend/feign",
+    "alt": "",
+    "audio_prompt": "verbos/9.mp3"
+  },
+  {
+    "key": "afeitar",
+    "answer": " to shave",
+    "alt": " afeitarse todas partes (shave oneself everywhere)",
+    "audio_prompt": "verbos/10.mp3"
+  },
+  {
+    "key": "afinar",
+    "answer": " to tune / to refine",
+    "alt": "",
+    "audio_prompt": "verbos/11.mp3"
+  },
+  {
+    "key": "agradecer",
+    "answer": " to thank",
+    "alt": " agredezco (I thank)",
+    "audio_prompt": "verbos/12.mp3"
+  },
+  {
+    "key": "ahogar",
+    "answer": " to drown/suffocate",
+    "alt": "",
+    "audio_prompt": "verbos/13.mp3"
+  },
+  {
+    "key": "alquilar/rentar",
+    "answer": " to rent",
+    "alt": " \u201crentar\u201d in latin-america",
+    "audio_prompt": "verbos/14.mp3"
+  },
+  {
+    "key": "alcanzar",
+    "answer": " to reach/catch/catch up/be enough",
+    "alt": "",
+    "audio_prompt": "verbos/15.mp3"
+  },
+  {
+    "key": "amar",
+    "answer": " to love",
+    "alt": " te amo (I love you)",
+    "audio_prompt": "verbos/16.mp3"
+  },
+  {
+    "key": "a\u00f1adir",
+    "answer": " to add/increase",
+    "alt": "",
+    "audio_prompt": "verbos/17.mp3"
+  },
+  {
+    "key": "andar",
+    "answer": " to walk/go",
+    "alt": "",
+    "audio_prompt": "verbos/18.mp3"
+  },
+  {
+    "key": "apagar",
+    "answer": " to go out",
+    "alt": "",
+    "audio_prompt": "verbos/19.mp3"
+  },
+  {
+    "key": "aparecer",
+    "answer": " to appear/show up",
+    "alt": "",
+    "audio_prompt": "verbos/20.mp3"
+  },
+  {
+    "key": "aplicar",
+    "answer": " to apply",
+    "alt": "",
+    "audio_prompt": "verbos/21.mp3"
+  },
+  {
+    "key": "apostar",
+    "answer": " to bet",
+    "alt": " apuesto (I bet)",
+    "audio_prompt": "verbos/22.mp3"
+  },
+  {
+    "key": "aprender",
+    "answer": " to learn",
+    "alt": " apprehend",
+    "audio_prompt": " amo aprender",
+    "null": [
+      "verbos/23.mp3"
+    ]
+  },
+  {
+    "key": "arrastrar",
+    "answer": " to drag",
+    "alt": "",
+    "audio_prompt": "verbos/24.mp3"
+  },
+  {
+    "key": "atacar",
+    "answer": " to attack",
+    "alt": "",
+    "audio_prompt": "verbos/25.mp3"
+  },
+  {
+    "key": "atontar",
+    "answer": " to stun",
+    "alt": "",
+    "audio_prompt": "verbos/26.mp3"
+  },
+  {
+    "key": "aumentar",
+    "answer": " to increase/add/augment/rise",
+    "alt": "",
+    "audio_prompt": "verbos/27.mp3"
+  },
+  {
+    "key": "avanzar",
+    "answer": " to advance",
+    "alt": "",
+    "audio_prompt": "verbos/28.mp3"
+  },
+  {
+    "key": "averiguar",
+    "answer": " to find out",
+    "alt": "",
+    "audio_prompt": "verbos/29.mp3"
+  },
+  {
+    "key": "ayudar",
+    "answer": " to help",
+    "alt": "",
+    "audio_prompt": "verbos/30.mp3"
+  },
+  {
+    "key": "bajar",
+    "answer": " to go down/decrease/get off",
+    "alt": "",
+    "audio_prompt": "verbos/31.mp3"
+  },
+  {
+    "key": "beber",
+    "answer": " to drink",
+    "alt": "",
+    "audio_prompt": "verbos/32.mp3"
+  },
+  {
+    "key": "buscar",
+    "answer": " to look for",
+    "alt": "",
+    "audio_prompt": "verbos/33.mp3"
+  },
+  {
+    "key": "caer",
+    "answer": " to fall",
+    "alt": " caigo (I fall)",
+    "audio_prompt": "verbos/34.mp3"
+  },
+  {
+    "key": "caber",
+    "answer": " to fit/be possible/be appropriate",
+    "alt": "",
+    "audio_prompt": "verbos/35.mp3"
+  },
+  {
+    "key": "cambiar",
+    "answer": " to change",
+    "alt": "",
+    "audio_prompt": "verbos/36.mp3"
+  },
+  {
+    "key": "cantar",
+    "answer": " to sing",
+    "alt": "",
+    "audio_prompt": "verbos/37.mp3"
+  },
+  {
+    "key": "caminar",
+    "answer": " to walk",
+    "alt": "",
+    "audio_prompt": "verbos/38.mp3"
+  },
+  {
+    "key": "cenar",
+    "answer": " to dine",
+    "alt": " \u201ccena y cine\u201d",
+    "audio_prompt": "verbos/39.mp3"
+  },
+  {
+    "key": "cerrar",
+    "answer": " to close/shut",
+    "alt": " cierro (I close)",
+    "audio_prompt": "verbos/40.mp3"
+  },
+  {
+    "key": "citar",
+    "answer": " to quote/cite",
+    "alt": " citation!",
+    "audio_prompt": "verbos/41.mp3"
+  },
+  {
+    "key": "cocinar",
+    "answer": " to cook",
+    "alt": "",
+    "audio_prompt": "verbos/42.mp3"
+  },
+  {
+    "key": "comenzar",
+    "answer": " to begin",
+    "alt": " comienzo (I commence)",
+    "audio_prompt": "verbos/43.mp3"
+  },
+  {
+    "key": "comer",
+    "answer": " to eat",
+    "alt": "",
+    "audio_prompt": "verbos/44.mp3"
+  },
+  {
+    "key": "componer",
+    "answer": " to compose",
+    "alt": " compongo (I compose)",
+    "audio_prompt": "verbos/45.mp3"
+  },
+  {
+    "key": "comprar",
+    "answer": " to buy",
+    "alt": " compensate",
+    "audio_prompt": " compare money for items",
+    "null": [
+      "verbos/46.mp3"
+    ]
+  },
+  {
+    "key": "comunicar",
+    "answer": " to communicate",
+    "alt": "",
+    "audio_prompt": "verbos/47.mp3"
+  },
+  {
+    "key": "concentrar",
+    "answer": " to concentrate",
+    "alt": "",
+    "audio_prompt": "verbos/48.mp3"
+  },
+  {
+    "key": "conocer",
+    "answer": " to meet / know oneself",
+    "alt": " conozco (I know ...)",
+    "audio_prompt": "verbos/49.mp3"
+  },
+  {
+    "key": "conseguir",
+    "answer": " to get/achieve",
+    "alt": " consigo (I get ...)",
+    "audio_prompt": "verbos/50.mp3"
+  },
+  {
+    "key": "considerar",
+    "answer": " to consider",
+    "alt": "",
+    "audio_prompt": "verbos/51.mp3"
+  },
+  {
+    "key": "consultar",
+    "answer": " to consult/look up",
+    "alt": "",
+    "audio_prompt": "verbos/52.mp3"
+  },
+  {
+    "key": "contar",
+    "answer": " to count/relate/tell",
+    "alt": "",
+    "audio_prompt": "verbos/53.mp3"
+  },
+  {
+    "key": "contener",
+    "answer": " to contain/hold",
+    "alt": "",
+    "audio_prompt": "verbos/54.mp3"
+  },
+  {
+    "key": "contentar",
+    "answer": " to please/satisfy",
+    "alt": "",
+    "audio_prompt": "verbos/55.mp3"
+  },
+  {
+    "key": "contestar",
+    "answer": " to answer/protest",
+    "alt": "",
+    "audio_prompt": "verbos/56.mp3"
+  },
+  {
+    "key": "continuar",
+    "answer": " to continue",
+    "alt": "",
+    "audio_prompt": "verbos/57.mp3"
+  },
+  {
+    "key": "controlar",
+    "answer": " to control/inspect/check",
+    "alt": "",
+    "audio_prompt": "verbos/58.mp3"
+  },
+  {
+    "key": "correr",
+    "answer": " to run",
+    "alt": "verbos/59.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "cortar",
+    "answer": " to cut",
+    "alt": "",
+    "audio_prompt": "verbos/60.mp3"
+  },
+  {
+    "key": "costar",
+    "answer": " to cost",
+    "alt": " cuesto (I cost)",
+    "audio_prompt": "verbos/61.mp3"
+  },
+  {
+    "key": "crear",
+    "answer": " to create/make",
+    "alt": "",
+    "audio_prompt": "verbos/62.mp3"
+  },
+  {
+    "key": "creer",
+    "answer": " to believe",
+    "alt": " to believe in the creator",
+    "audio_prompt": " created out of thin air",
+    "null": [
+      "verbos/63.mp3"
+    ]
+  },
+  {
+    "key": "cuidar",
+    "answer": " to take care of",
+    "alt": "",
+    "audio_prompt": "verbos/64.mp3"
+  },
+  {
+    "key": "curar",
+    "answer": " to cure/treat",
+    "alt": "",
+    "audio_prompt": "verbos/65.mp3"
+  },
+  {
+    "key": "dar",
+    "answer": " to give",
+    "alt": " doy (I give ...)",
+    "audio_prompt": "verbos/66.mp3"
+  },
+  {
+    "key": "deber",
+    "answer": " should",
+    "alt": " ought",
+    "audio_prompt": " to owe",
+    "null": [
+      " debt",
+      "verbos/67.mp3"
+    ]
+  },
+  {
+    "key": "decir",
+    "answer": " to say/tell",
+    "alt": " decibel",
+    "audio_prompt": "verbos/68.mp3"
+  },
+  {
+    "key": "decidir",
+    "answer": " to decide",
+    "alt": "",
+    "audio_prompt": "verbos/69.mp3"
+  },
+  {
+    "key": "dedicar",
+    "answer": " to dedicate",
+    "alt": "",
+    "audio_prompt": "verbos/70.mp3"
+  },
+  {
+    "key": "defender",
+    "answer": " to defend",
+    "alt": "",
+    "audio_prompt": "verbos/71.mp3"
+  },
+  {
+    "key": "descansar",
+    "answer": " to rest",
+    "alt": "",
+    "audio_prompt": "verbos/72.mp3"
+  },
+  {
+    "key": "dejar",
+    "answer": " to let/leave/stop",
+    "alt": "",
+    "audio_prompt": "verbos/73.mp3"
+  },
+  {
+    "key": "demostrar",
+    "answer": " to demonstrate",
+    "alt": " demuestro (I demonstrate)",
+    "audio_prompt": "verbos/74.mp3"
+  },
+  {
+    "key": "derrotar",
+    "answer": " to defeat",
+    "alt": "",
+    "audio_prompt": "verbos/75.mp3"
+  },
+  {
+    "key": "desarrollar",
+    "answer": " to develop/build",
+    "alt": "",
+    "audio_prompt": "verbos/76.mp3"
+  },
+  {
+    "key": "descargar",
+    "answer": " to discharge/download",
+    "alt": "",
+    "audio_prompt": "verbos/77.mp3"
+  },
+  {
+    "key": "descubrir",
+    "answer": " to discover",
+    "alt": "",
+    "audio_prompt": "verbos/78.mp3"
+  },
+  {
+    "key": "desear",
+    "answer": " to wish/want",
+    "alt": " desire",
+    "audio_prompt": "verbos/79.mp3"
+  },
+  {
+    "key": "despertar",
+    "answer": " to wake up",
+    "alt": " despierto (I wake)",
+    "audio_prompt": "verbos/80.mp3"
+  },
+  {
+    "key": "detener",
+    "answer": " to stop",
+    "alt": " detengo (I stop)",
+    "audio_prompt": "verbos/81.mp3"
+  },
+  {
+    "key": "disculpar",
+    "answer": " to apologize/excuse",
+    "alt": " disculpe!",
+    "audio_prompt": "verbos/82.mp3"
+  },
+  {
+    "key": "discutir",
+    "answer": " to argue/discuss",
+    "alt": "",
+    "audio_prompt": "verbos/83.mp3"
+  },
+  {
+    "key": "dise\u00f1ar",
+    "answer": " to design/draw/sketch",
+    "alt": "",
+    "audio_prompt": "verbos/84.mp3"
+  },
+  {
+    "key": "doler",
+    "answer": " to hurt",
+    "alt": "",
+    "audio_prompt": "verbos/85.mp3"
+  },
+  {
+    "key": "dormir",
+    "answer": " to sleep",
+    "alt": "",
+    "audio_prompt": "verbos/86.mp3"
+  },
+  {
+    "key": "dudar",
+    "answer": " to doubt",
+    "alt": "",
+    "audio_prompt": "verbos/87.mp3"
+  },
+  {
+    "key": "ejercer",
+    "answer": " to exercise",
+    "alt": "",
+    "audio_prompt": "verbos/88.mp3"
+  },
+  {
+    "key": "elegir",
+    "answer": " to elect/choose",
+    "alt": "",
+    "audio_prompt": "verbos/89.mp3"
+  },
+  {
+    "key": "empezar",
+    "answer": " to begin/start",
+    "alt": "",
+    "audio_prompt": "verbos/90.mp3"
+  },
+  {
+    "key": "encantar",
+    "answer": " to love",
+    "alt": " enchant",
+    "audio_prompt": "verbos/91.mp3"
+  },
+  {
+    "key": "encontrar",
+    "answer": " to find",
+    "alt": " encounter",
+    "audio_prompt": "verbos/92.mp3"
+  },
+  {
+    "key": "entender (entiendo)",
+    "answer": " to understand",
+    "alt": " undertand->entenderstand",
+    "audio_prompt": "verbos/93.mp3"
+  },
+  {
+    "key": "entrar",
+    "answer": " to enter",
+    "alt": "",
+    "audio_prompt": "verbos/94.mp3"
+  },
+  {
+    "key": "entregar",
+    "answer": " to deliver/hand over",
+    "alt": "",
+    "audio_prompt": "verbos/95.mp3"
+  },
+  {
+    "key": "enviar",
+    "answer": " to send",
+    "alt": "",
+    "audio_prompt": "verbos/96.mp3"
+  },
+  {
+    "key": "equivocar",
+    "answer": " to be wrong",
+    "alt": "",
+    "audio_prompt": "verbos/97.mp3"
+  },
+  {
+    "key": "escolar",
+    "answer": " to school",
+    "alt": "",
+    "audio_prompt": "verbos/98.mp3"
+  },
+  {
+    "key": "escribir",
+    "answer": " to write",
+    "alt": " scribble",
+    "audio_prompt": "verbos/99.mp3"
+  },
+  {
+    "key": "escuchar",
+    "answer": " to listen",
+    "alt": "",
+    "audio_prompt": "verbos/100.mp3"
+  },
+  {
+    "key": "esperar",
+    "answer": " to wait / hope",
+    "alt": "",
+    "audio_prompt": "verbos/101.mp3"
+  },
+  {
+    "key": "establecer",
+    "answer": " to establish",
+    "alt": "",
+    "audio_prompt": "verbos/102.mp3"
+  },
+  {
+    "key": "estar",
+    "answer": " to be",
+    "alt": " estoy (I am ...)",
+    "audio_prompt": "verbos/103.mp3"
+  },
+  {
+    "key": "estrellar",
+    "answer": " to crash/smash",
+    "alt": "",
+    "audio_prompt": "verbos/104.mp3"
+  },
+  {
+    "key": "estudiar",
+    "answer": " to study",
+    "alt": "",
+    "audio_prompt": "verbos/105.mp3"
+  },
+  {
+    "key": "evitar",
+    "answer": " to avoid/prevent/save oneself",
+    "alt": "",
+    "audio_prompt": "verbos/106.mp3"
+  },
+  {
+    "key": "experimentar",
+    "answer": " to experiment",
+    "alt": "",
+    "audio_prompt": "verbos/107.mp3"
+  },
+  {
+    "key": "explicar",
+    "answer": " to explain",
+    "alt": "",
+    "audio_prompt": "verbos/108.mp3"
+  },
+  {
+    "key": "expresar",
+    "answer": " to express",
+    "alt": " \u201cexpresarse\u201d to express oneself",
+    "audio_prompt": "verbos/109.mp3"
+  },
+  {
+    "key": "firmar",
+    "answer": " to sign",
+    "alt": "",
+    "audio_prompt": "verbos/110.mp3"
+  },
+  {
+    "key": "fortalecer",
+    "answer": " to strengthen/fortify",
+    "alt": "",
+    "audio_prompt": "verbos/111.mp3"
+  },
+  {
+    "key": "funcionar",
+    "answer": " to function",
+    "alt": "",
+    "audio_prompt": "verbos/112.mp3"
+  },
+  {
+    "key": "ganar",
+    "answer": " to win/gain/earn/acquire",
+    "alt": "",
+    "audio_prompt": "verbos/113.mp3"
+  },
+  {
+    "key": "gastar",
+    "answer": " to spend/expend/consume/wear down",
+    "alt": "",
+    "audio_prompt": "verbos/114.mp3"
+  },
+  {
+    "key": "girar",
+    "answer": " to turn/revolve",
+    "alt": "",
+    "audio_prompt": "verbos/115.mp3"
+  },
+  {
+    "key": "gritar",
+    "answer": " to shout",
+    "alt": "",
+    "audio_prompt": "verbos/116.mp3"
+  },
+  {
+    "key": "gunar",
+    "answer": " to win/beat/earn",
+    "alt": "",
+    "audio_prompt": "verbos/117.mp3"
+  },
+  {
+    "key": "gustar",
+    "answer": " to like",
+    "alt": " me gusta (it pleases me)",
+    "audio_prompt": " me gusta verlo (I like to see it)",
+    "null": [
+      "verbos/118.mp3"
+    ]
+  },
+  {
+    "key": "haber",
+    "answer": " to have",
+    "alt": " he (I have)",
+    "audio_prompt": "verbos/119.mp3"
+  },
+  {
+    "key": "hablar",
+    "answer": " to speak",
+    "alt": "",
+    "audio_prompt": "verbos/120.mp3"
+  },
+  {
+    "key": "hacer",
+    "answer": " to do/make",
+    "alt": " hago (I did)",
+    "audio_prompt": "verbos/121.mp3"
+  },
+  {
+    "key": "herir",
+    "answer": " to injure",
+    "alt": "",
+    "audio_prompt": "verbos/122.mp3"
+  },
+  {
+    "key": "importar",
+    "answer": " to import/matter/be important",
+    "alt": "",
+    "audio_prompt": "verbos/123.mp3"
+  },
+  {
+    "key": "incluir",
+    "answer": " to include",
+    "alt": "",
+    "audio_prompt": "verbos/124.mp3"
+  },
+  {
+    "key": "iniciar",
+    "answer": " to start/begin/initiate",
+    "alt": "",
+    "audio_prompt": "verbos/125.mp3"
+  },
+  {
+    "key": "insistir",
+    "answer": " to insist",
+    "alt": "",
+    "audio_prompt": "verbos/126.mp3"
+  },
+  {
+    "key": "intentar",
+    "answer": " to try",
+    "alt": "",
+    "audio_prompt": "verbos/127.mp3"
+  },
+  {
+    "key": "interesar",
+    "answer": " to interest/concern",
+    "alt": "",
+    "audio_prompt": "verbos/128.mp3"
+  },
+  {
+    "key": "ir",
+    "answer": " to go",
+    "alt": " voy a (I go to)",
+    "audio_prompt": "verbos/129.mp3"
+  },
+  {
+    "key": "irse",
+    "answer": " to leave",
+    "alt": "",
+    "audio_prompt": "verbos/130.mp3"
+  },
+  {
+    "key": "informar",
+    "answer": " to inform/report",
+    "alt": "",
+    "audio_prompt": "verbos/131.mp3"
+  },
+  {
+    "key": "inundar",
+    "answer": " to flood",
+    "alt": "",
+    "audio_prompt": "verbos/132.mp3"
+  },
+  {
+    "key": "jugar",
+    "answer": " to play",
+    "alt": "",
+    "audio_prompt": "verbos/133.mp3"
+  },
+  {
+    "key": "lastimar",
+    "answer": " to hurt",
+    "alt": "",
+    "audio_prompt": "verbos/134.mp3"
+  },
+  {
+    "key": "leer",
+    "answer": " to read",
+    "alt": "",
+    "audio_prompt": "verbos/135.mp3"
+  },
+  {
+    "key": "levantar",
+    "answer": " to lift up",
+    "alt": " levitate",
+    "audio_prompt": "verbos/136.mp3"
+  },
+  {
+    "key": "limpiar",
+    "answer": " to clean",
+    "alt": "",
+    "audio_prompt": "verbos/137.mp3"
+  },
+  {
+    "key": "llamar",
+    "answer": " to call",
+    "alt": "",
+    "audio_prompt": "verbos/138.mp3"
+  },
+  {
+    "key": "llegar",
+    "answer": " to arrive",
+    "alt": "",
+    "audio_prompt": "verbos/139.mp3"
+  },
+  {
+    "key": "llenar",
+    "answer": " to fill",
+    "alt": "",
+    "audio_prompt": "verbos/140.mp3"
+  },
+  {
+    "key": "llevar",
+    "answer": " to take/carry/wear",
+    "alt": " elevator",
+    "audio_prompt": "verbos/141.mp3"
+  },
+  {
+    "key": "llover",
+    "answer": " to rain",
+    "alt": " llueve (it rains)",
+    "audio_prompt": "verbos/142.mp3"
+  },
+  {
+    "key": "lograr",
+    "answer": " to get/achieve/obtain",
+    "alt": "",
+    "audio_prompt": "verbos/143.mp3"
+  },
+  {
+    "key": "mandar",
+    "answer": " to send",
+    "alt": " mandate",
+    "audio_prompt": "verbos/144.mp3"
+  },
+  {
+    "key": "manejar",
+    "answer": " to manage/handle/drive",
+    "alt": "",
+    "audio_prompt": "verbos/145.mp3"
+  },
+  {
+    "key": "mantener",
+    "answer": " to maintain/keep",
+    "alt": "",
+    "audio_prompt": "verbos/146.mp3"
+  },
+  {
+    "key": "maridar",
+    "answer": " to combine/marry",
+    "alt": "",
+    "audio_prompt": "verbos/147.mp3"
+  },
+  {
+    "key": "matar",
+    "answer": " to kill",
+    "alt": "",
+    "audio_prompt": "verbos/148.mp3"
+  },
+  {
+    "key": "mencionar",
+    "answer": " to mention",
+    "alt": "",
+    "audio_prompt": "verbos/149.mp3"
+  },
+  {
+    "key": "meditar",
+    "answer": " to meditate",
+    "alt": "",
+    "audio_prompt": "verbos/150.mp3"
+  },
+  {
+    "key": "mejorar",
+    "answer": " to better/improve/recover",
+    "alt": "",
+    "audio_prompt": "verbos/151.mp3"
+  },
+  {
+    "key": "mezclar",
+    "answer": " to mix/blend/combine",
+    "alt": "",
+    "audio_prompt": "verbos/152.mp3"
+  },
+  {
+    "key": "mimar",
+    "answer": " to coddle/pamper",
+    "alt": "",
+    "audio_prompt": "verbos/153.mp3"
+  },
+  {
+    "key": "mirar",
+    "answer": " to look",
+    "alt": " mirror",
+    "audio_prompt": " to look in the mirror",
+    "null": [
+      "verbos/154.mp3"
+    ]
+  },
+  {
+    "key": "montar",
+    "answer": " to ride/setup/mount",
+    "alt": "",
+    "audio_prompt": "verbos/155.mp3"
+  },
+  {
+    "key": "morir",
+    "answer": " to die",
+    "alt": "",
+    "audio_prompt": "verbos/156.mp3"
+  },
+  {
+    "key": "mostrar",
+    "answer": " to show",
+    "alt": " demonstrate",
+    "audio_prompt": "verbos/157.mp3"
+  },
+  {
+    "key": "mover",
+    "answer": " to move",
+    "alt": "",
+    "audio_prompt": "verbos/158.mp3"
+  },
+  {
+    "key": "nadar",
+    "answer": " to swim",
+    "alt": "",
+    "audio_prompt": "verbos/159.mp3"
+  },
+  {
+    "key": "necesitar (necesito)",
+    "answer": " \u201cte necesito\u201d",
+    "alt": "verbos/160.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "negar",
+    "answer": " to deny",
+    "alt": "",
+    "audio_prompt": "verbos/161.mp3"
+  },
+  {
+    "key": "observar",
+    "answer": " to observe",
+    "alt": "",
+    "audio_prompt": "verbos/162.mp3"
+  },
+  {
+    "key": "obtener",
+    "answer": " to get/obtain",
+    "alt": "",
+    "audio_prompt": "verbos/163.mp3"
+  },
+  {
+    "key": "ocupar",
+    "answer": " to concern/take up/take care",
+    "alt": "",
+    "audio_prompt": "verbos/164.mp3"
+  },
+  {
+    "key": "ocurrir",
+    "answer": " to happen",
+    "alt": " occur",
+    "audio_prompt": "verbos/165.mp3"
+  },
+  {
+    "key": "odiar",
+    "answer": " to hate",
+    "alt": "",
+    "audio_prompt": "verbos/166.mp3"
+  },
+  {
+    "key": "o\u00edr (oigo)",
+    "answer": " to hear",
+    "alt": "",
+    "audio_prompt": "verbos/167.mp3"
+  },
+  {
+    "key": "ofrecer",
+    "answer": " to offer",
+    "alt": "",
+    "audio_prompt": "verbos/168.mp3"
+  },
+  {
+    "key": "oler",
+    "answer": " to smell",
+    "alt": "",
+    "audio_prompt": "verbos/169.mp3"
+  },
+  {
+    "key": "olvidar",
+    "answer": " to forget",
+    "alt": " obliterate memories",
+    "audio_prompt": "verbos/170.mp3"
+  },
+  {
+    "key": "oponer (opongo)",
+    "answer": " to oppose",
+    "alt": "",
+    "audio_prompt": "verbos/171.mp3"
+  },
+  {
+    "key": "organizar",
+    "answer": " to organize",
+    "alt": "",
+    "audio_prompt": "verbos/172.mp3"
+  },
+  {
+    "key": "pagar",
+    "answer": " to pay",
+    "alt": "",
+    "audio_prompt": "verbos/173.mp3"
+  },
+  {
+    "key": "parecer (parezco)",
+    "answer": " to seem / look like",
+    "alt": " me parece que ...",
+    "audio_prompt": "verbos/174.mp3"
+  },
+  {
+    "key": "partir",
+    "answer": " to leave",
+    "alt": " depart",
+    "audio_prompt": "verbos/175.mp3"
+  },
+  {
+    "key": "parar",
+    "answer": " to stop",
+    "alt": "",
+    "audio_prompt": "verbos/176.mp3"
+  },
+  {
+    "key": "pasar",
+    "answer": " to pass/to happen",
+    "alt": "",
+    "audio_prompt": "verbos/177.mp3"
+  },
+  {
+    "key": "pedir",
+    "answer": " to ask for / to order",
+    "alt": " petition",
+    "audio_prompt": "verbos/178.mp3"
+  },
+  {
+    "key": "pelear",
+    "answer": " to fight",
+    "alt": "",
+    "audio_prompt": "verbos/179.mp3"
+  },
+  {
+    "key": "pensar (pienso)",
+    "answer": " to think/plan",
+    "alt": " pencil",
+    "audio_prompt": " writing down thoughts",
+    "null": [
+      "verbos/180.mp3"
+    ]
+  },
+  {
+    "key": "perder (pierdo)-- to lose",
+    "answer": " perdition",
+    "alt": "verbos/181.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "permitir",
+    "answer": " to allow",
+    "alt": " permit",
+    "audio_prompt": "verbos/182.mp3"
+  },
+  {
+    "key": "pertenecer",
+    "answer": " to belong/pertain",
+    "alt": "",
+    "audio_prompt": "verbos/183.mp3"
+  },
+  {
+    "key": "pesar",
+    "answer": " to weigh",
+    "alt": " a pesar de todo (despite everything)",
+    "audio_prompt": "verbos/184.mp3"
+  },
+  {
+    "key": "poder (puedo)",
+    "answer": " to be able (I can)",
+    "alt": " power",
+    "audio_prompt": "verbos/185.mp3"
+  },
+  {
+    "key": "poner (pongo)",
+    "answer": " to put/get",
+    "alt": " pony express",
+    "audio_prompt": "verbos/186.mp3"
+  },
+  {
+    "key": "poseer",
+    "answer": " to possess",
+    "alt": "",
+    "audio_prompt": "verbos/187.mp3"
+  },
+  {
+    "key": "practicar",
+    "answer": " to practice",
+    "alt": "",
+    "audio_prompt": "verbos/188.mp3"
+  },
+  {
+    "key": "preferir",
+    "answer": " to prefer",
+    "alt": "",
+    "audio_prompt": "verbos/189.mp3"
+  },
+  {
+    "key": "preguntar",
+    "answer": " to ask",
+    "alt": "",
+    "audio_prompt": "verbos/190.mp3"
+  },
+  {
+    "key": "preocupar",
+    "answer": " to worry/bother",
+    "alt": " preoccupied",
+    "audio_prompt": "verbos/191.mp3"
+  },
+  {
+    "key": "preparar",
+    "answer": " to prepare",
+    "alt": "",
+    "audio_prompt": "verbos/192.mp3"
+  },
+  {
+    "key": "presentar",
+    "answer": " to present",
+    "alt": "",
+    "audio_prompt": "verbos/193.mp3"
+  },
+  {
+    "key": "prever",
+    "answer": " to anticipate/foresee",
+    "alt": "",
+    "audio_prompt": "verbos/194.mp3"
+  },
+  {
+    "key": "probar",
+    "answer": " to taste/test",
+    "alt": "",
+    "audio_prompt": "verbos/195.mp3"
+  },
+  {
+    "key": "producir",
+    "answer": " to produce",
+    "alt": "",
+    "audio_prompt": "verbos/196.mp3"
+  },
+  {
+    "key": "publicar",
+    "answer": " to publish",
+    "alt": "",
+    "audio_prompt": "verbos/197.mp3"
+  },
+  {
+    "key": "quedar",
+    "answer": " to remain",
+    "alt": " stay/remain myself",
+    "audio_prompt": "verbos/198.mp3"
+  },
+  {
+    "key": "querer (quiero)",
+    "answer": " to want/love",
+    "alt": "",
+    "audio_prompt": "verbos/199.mp3"
+  },
+  {
+    "key": "realizar",
+    "answer": " to realize/achieve/obtain/accomplish",
+    "alt": "",
+    "audio_prompt": "verbos/200.mp3"
+  },
+  {
+    "key": "rechazar",
+    "answer": " to reject/push back/repel",
+    "alt": "",
+    "audio_prompt": "verbos/201.mp3"
+  },
+  {
+    "key": "recibir",
+    "answer": " to receive/welcome/greet",
+    "alt": "",
+    "audio_prompt": "verbos/202.mp3"
+  },
+  {
+    "key": "reconocer",
+    "answer": " to recognize",
+    "alt": "",
+    "audio_prompt": "verbos/203.mp3"
+  },
+  {
+    "key": "recordar",
+    "answer": " to remember",
+    "alt": " record things to memory",
+    "audio_prompt": "verbos/204.mp3"
+  },
+  {
+    "key": "recuperar",
+    "answer": " to recover",
+    "alt": " recuperate",
+    "audio_prompt": "verbos/205.mp3"
+  },
+  {
+    "key": "regresar",
+    "answer": " to regress/return",
+    "alt": "",
+    "audio_prompt": "verbos/206.mp3"
+  },
+  {
+    "key": "relajar",
+    "answer": " to relax",
+    "alt": "",
+    "audio_prompt": "verbos/207.mp3"
+  },
+  {
+    "key": "repiquetear",
+    "answer": " to ring",
+    "alt": "",
+    "audio_prompt": "verbos/208.mp3"
+  },
+  {
+    "key": "requerir",
+    "answer": " to require/need",
+    "alt": "",
+    "audio_prompt": "verbos/209.mp3"
+  },
+  {
+    "key": "reservar",
+    "answer": " to reserve/keep",
+    "alt": "",
+    "audio_prompt": "verbos/210.mp3"
+  },
+  {
+    "key": "resolver",
+    "answer": " to solve",
+    "alt": "",
+    "audio_prompt": "verbos/211.mp3"
+  },
+  {
+    "key": "respetar",
+    "answer": " to respect",
+    "alt": "",
+    "audio_prompt": "verbos/212.mp3"
+  },
+  {
+    "key": "respirar",
+    "answer": " to breathe",
+    "alt": "",
+    "audio_prompt": "verbos/213.mp3"
+  },
+  {
+    "key": "responder",
+    "answer": " to respond/answer",
+    "alt": "",
+    "audio_prompt": "verbos/214.mp3"
+  },
+  {
+    "key": "retroceder",
+    "answer": " to retreat/give-up/backoff",
+    "alt": "",
+    "audio_prompt": "verbos/215.mp3"
+  },
+  {
+    "key": "reunir",
+    "answer": " to gather/collect",
+    "alt": " reunite",
+    "audio_prompt": "verbos/216.mp3"
+  },
+  {
+    "key": "romper",
+    "answer": " to break",
+    "alt": "",
+    "audio_prompt": "verbos/217.mp3"
+  },
+  {
+    "key": "sacar",
+    "answer": " to take out/stick out",
+    "alt": "",
+    "audio_prompt": "verbos/218.mp3"
+  },
+  {
+    "key": "salir (salgo)",
+    "answer": " to leave",
+    "alt": "",
+    "audio_prompt": "verbos/219.mp3"
+  },
+  {
+    "key": "salvar",
+    "answer": " to save/rescue/exclude",
+    "alt": "",
+    "audio_prompt": "verbos/220.mp3"
+  },
+  {
+    "key": "sentir (lo siento)",
+    "answer": " I feel it / I\u2019m sorry",
+    "alt": " sentiment",
+    "audio_prompt": "verbos/221.mp3"
+  },
+  {
+    "key": "saber (s\u00e9)",
+    "answer": " to know",
+    "alt": "",
+    "audio_prompt": "verbos/222.mp3"
+  },
+  {
+    "key": "saltar",
+    "answer": " to jump/leap/jump over/skip/leave out",
+    "alt": "",
+    "audio_prompt": "verbos/223.mp3"
+  },
+  {
+    "key": "secar",
+    "answer": " to dry/dry up/dry off",
+    "alt": "",
+    "audio_prompt": "verbos/224.mp3"
+  },
+  {
+    "key": "seguir (sigo)",
+    "answer": " to follow",
+    "alt": "",
+    "audio_prompt": "verbos/225.mp3"
+  },
+  {
+    "key": "sellar",
+    "answer": " to seal/stamp",
+    "alt": "",
+    "audio_prompt": "verbos/226.mp3"
+  },
+  {
+    "key": "sentar",
+    "answer": " to sit",
+    "alt": "",
+    "audio_prompt": "verbos/227.mp3"
+  },
+  {
+    "key": "sentir",
+    "answer": " to feel/regret",
+    "alt": " sentiment",
+    "audio_prompt": "verbos/228.mp3"
+  },
+  {
+    "key": "ser (soy)",
+    "answer": " to be",
+    "alt": "",
+    "audio_prompt": "verbos/229.mp3"
+  },
+  {
+    "key": "servir",
+    "answer": " to serve/work",
+    "alt": "",
+    "audio_prompt": "verbos/230.mp3"
+  },
+  {
+    "key": "soler",
+    "answer": " to usually do",
+    "alt": "",
+    "audio_prompt": "verbos/231.mp3"
+  },
+  {
+    "key": "soltar",
+    "answer": " to let go of",
+    "alt": "",
+    "audio_prompt": "verbos/232.mp3"
+  },
+  {
+    "key": "so\u00f1ar",
+    "answer": " to dream",
+    "alt": "",
+    "audio_prompt": "verbos/233.mp3"
+  },
+  {
+    "key": "sorprender",
+    "answer": " to surprise",
+    "alt": "",
+    "audio_prompt": "verbos/234.mp3"
+  },
+  {
+    "key": "subir",
+    "answer": " to move/bring up / climb",
+    "alt": "",
+    "audio_prompt": "verbos/235.mp3"
+  },
+  {
+    "key": "superar",
+    "answer": " to exceed/overcome",
+    "alt": "",
+    "audio_prompt": "verbos/236.mp3"
+  },
+  {
+    "key": "suponer (supongo)",
+    "answer": " to suppose/imagine",
+    "alt": "",
+    "audio_prompt": "verbos/237.mp3"
+  },
+  {
+    "key": "soportar",
+    "answer": " to stand",
+    "alt": " \u201cno puedo soportar el calor\u201d",
+    "audio_prompt": "verbos/238.mp3"
+  },
+  {
+    "key": "tener (tengo)",
+    "answer": " to have",
+    "alt": "",
+    "audio_prompt": "verbos/239.mp3"
+  },
+  {
+    "key": "tengo que",
+    "answer": " I have to/must",
+    "alt": "",
+    "audio_prompt": "verbos/240.mp3"
+  },
+  {
+    "key": "terminar",
+    "answer": " to finish",
+    "alt": "",
+    "audio_prompt": "verbos/241.mp3"
+  },
+  {
+    "key": "tirar",
+    "answer": " to throw/hurl/shoot/fire/throw away",
+    "alt": "",
+    "audio_prompt": "verbos/242.mp3"
+  },
+  {
+    "key": "tocar",
+    "answer": " to touch/play (instrument)",
+    "alt": "",
+    "audio_prompt": "verbos/243.mp3"
+  },
+  {
+    "key": "tomar",
+    "answer": " to take",
+    "alt": "",
+    "audio_prompt": "verbos/244.mp3"
+  },
+  {
+    "key": "trabajar",
+    "answer": " to work",
+    "alt": "",
+    "audio_prompt": "verbos/245.mp3"
+  },
+  {
+    "key": "traer (traigo)",
+    "answer": " to bring",
+    "alt": "",
+    "audio_prompt": "verbos/246.mp3"
+  },
+  {
+    "key": "tratar",
+    "answer": " to treat/handle",
+    "alt": "",
+    "audio_prompt": "verbos/247.mp3"
+  },
+  {
+    "key": "unir",
+    "answer": " to join/unite",
+    "alt": "",
+    "audio_prompt": "verbos/248.mp3"
+  },
+  {
+    "key": "utilizar",
+    "answer": " to use",
+    "alt": " utilize",
+    "audio_prompt": "verbos/249.mp3"
+  },
+  {
+    "key": "usar",
+    "answer": " to use",
+    "alt": "",
+    "audio_prompt": "verbos/250.mp3"
+  },
+  {
+    "key": "ver (veo)",
+    "answer": " to see",
+    "alt": "",
+    "audio_prompt": "verbos/251.mp3"
+  },
+  {
+    "key": "vender",
+    "answer": " to buy",
+    "alt": " vendor",
+    "audio_prompt": "verbos/252.mp3"
+  },
+  {
+    "key": "venir (vengo)",
+    "answer": " to come",
+    "alt": "",
+    "audio_prompt": "verbos/253.mp3"
+  },
+  {
+    "key": "viajar",
+    "answer": " to travel",
+    "alt": "",
+    "audio_prompt": "verbos/254.mp3"
+  },
+  {
+    "key": "visitar",
+    "answer": " to visit",
+    "alt": "",
+    "audio_prompt": "verbos/255.mp3"
+  },
+  {
+    "key": "vivir",
+    "answer": " to live",
+    "alt": "",
+    "audio_prompt": "verbos/256.mp3"
+  },
+  {
+    "key": "volar",
+    "answer": " to fly",
+    "alt": "",
+    "audio_prompt": "verbos/257.mp3"
+  },
+  {
+    "key": "volver",
+    "answer": " to come back",
+    "alt": " revolver",
+    "audio_prompt": "verbos/258.mp3"
+  }
+]

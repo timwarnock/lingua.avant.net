@@ -1,0 +1,170 @@
+[
+  {
+    "key": "rato",
+    "answer": " awhile / a long time",
+    "alt": "",
+    "audio_prompt": "tiempo/1.mp3"
+  },
+  {
+    "key": "el cumplea\u00f1os",
+    "answer": " birthday",
+    "alt": "",
+    "audio_prompt": "tiempo/2.mp3"
+  },
+  {
+    "key": "la fecha",
+    "answer": " date",
+    "alt": "",
+    "audio_prompt": "tiempo/3.mp3"
+  },
+  {
+    "key": "la madrugada",
+    "answer": " daybreak",
+    "alt": "",
+    "audio_prompt": "tiempo/4.mp3"
+  },
+  {
+    "key": "el mediod\u00eda",
+    "answer": " noon",
+    "alt": "",
+    "audio_prompt": "tiempo/5.mp3"
+  },
+  {
+    "key": "domingo",
+    "answer": " Sunday",
+    "alt": "",
+    "audio_prompt": "tiempo/6.mp3"
+  },
+  {
+    "key": "lunes",
+    "answer": " Monday",
+    "alt": "",
+    "audio_prompt": "tiempo/7.mp3"
+  },
+  {
+    "key": "martes",
+    "answer": " Tuesday",
+    "alt": "",
+    "audio_prompt": "tiempo/8.mp3"
+  },
+  {
+    "key": "mi\u00e9rcoles",
+    "answer": " Wednesday",
+    "alt": "",
+    "audio_prompt": "tiempo/9.mp3"
+  },
+  {
+    "key": "jueves",
+    "answer": " Thursday",
+    "alt": "",
+    "audio_prompt": "tiempo/10.mp3"
+  },
+  {
+    "key": "viernes",
+    "answer": " Friday",
+    "alt": "",
+    "audio_prompt": "tiempo/11.mp3"
+  },
+  {
+    "key": "s\u00e1bado",
+    "answer": " Saturday",
+    "alt": "",
+    "audio_prompt": "tiempo/12.mp3"
+  },
+  {
+    "key": "enero",
+    "answer": " January",
+    "alt": "",
+    "audio_prompt": "tiempo/13.mp3"
+  },
+  {
+    "key": "febrero",
+    "answer": " February",
+    "alt": "",
+    "audio_prompt": "tiempo/14.mp3"
+  },
+  {
+    "key": "marzo",
+    "answer": " March",
+    "alt": "",
+    "audio_prompt": "tiempo/15.mp3"
+  },
+  {
+    "key": "abril",
+    "answer": " April",
+    "alt": "",
+    "audio_prompt": "tiempo/16.mp3"
+  },
+  {
+    "key": "mayo",
+    "answer": " May",
+    "alt": "",
+    "audio_prompt": "tiempo/17.mp3"
+  },
+  {
+    "key": "junio",
+    "answer": " June",
+    "alt": "",
+    "audio_prompt": "tiempo/18.mp3"
+  },
+  {
+    "key": "julio",
+    "answer": " July",
+    "alt": "",
+    "audio_prompt": "tiempo/19.mp3"
+  },
+  {
+    "key": "agosto",
+    "answer": " August",
+    "alt": "",
+    "audio_prompt": "tiempo/20.mp3"
+  },
+  {
+    "key": "septiembre",
+    "answer": " September",
+    "alt": "",
+    "audio_prompt": "tiempo/21.mp3"
+  },
+  {
+    "key": "octubre",
+    "answer": " October",
+    "alt": "",
+    "audio_prompt": "tiempo/22.mp3"
+  },
+  {
+    "key": "noviembre",
+    "answer": " November",
+    "alt": "",
+    "audio_prompt": "tiempo/23.mp3"
+  },
+  {
+    "key": "diciembre",
+    "answer": " December",
+    "alt": "",
+    "audio_prompt": "tiempo/24.mp3"
+  },
+  {
+    "key": "el invierno",
+    "answer": " winter",
+    "alt": "",
+    "audio_prompt": "tiempo/25.mp3"
+  },
+  {
+    "key": "la primavera",
+    "answer": " spring",
+    "alt": "",
+    "audio_prompt": "tiempo/26.mp3"
+  },
+  {
+    "key": "el verano",
+    "answer": " summer",
+    "alt": "",
+    "audio_prompt": "tiempo/27.mp3"
+  },
+  {
+    "key": "el oto\u00f1o",
+    "answer": " fall/autumn",
+    "alt": "",
+    "audio_prompt": "tiempo/28.mp3"
+  }
+]

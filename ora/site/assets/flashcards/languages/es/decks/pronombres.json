@@ -1,0 +1,236 @@
+[
+  {
+    "key": "algo",
+    "answer": " something/anything",
+    "alt": "",
+    "audio_prompt": "pronombres/1.mp3"
+  },
+  {
+    "key": "alguien",
+    "answer": " someone/somebody",
+    "alt": "",
+    "audio_prompt": "pronombres/2.mp3"
+  },
+  {
+    "key": "alguno",
+    "answer": " one/someone (adj. some)",
+    "alt": "",
+    "audio_prompt": "pronombres/3.mp3"
+  },
+  {
+    "key": "ambas",
+    "answer": " both",
+    "alt": "",
+    "audio_prompt": "pronombres/4.mp3"
+  },
+  {
+    "key": "conmigo",
+    "answer": " with me",
+    "alt": "",
+    "audio_prompt": "pronombres/5.mp3"
+  },
+  {
+    "key": "contigo",
+    "answer": "  with you",
+    "alt": "",
+    "audio_prompt": "pronombres/6.mp3"
+  },
+  {
+    "key": "con usted / con \u00e9l / con ella",
+    "answer": " with you/him/her",
+    "alt": "",
+    "audio_prompt": "pronombres/7.mp3"
+  },
+  {
+    "key": "cu\u00e1l/cu\u00e1les",
+    "answer": " which/what/as",
+    "alt": "",
+    "audio_prompt": "pronombres/8.mp3"
+  },
+  {
+    "key": "cualquiera",
+    "answer": " any/anyone",
+    "alt": "",
+    "audio_prompt": "pronombres/9.mp3"
+  },
+  {
+    "key": "\u00e9l / ella",
+    "answer": " he/she",
+    "alt": "",
+    "audio_prompt": "pronombres/10.mp3"
+  },
+  {
+    "key": "ellos",
+    "answer": " them/they",
+    "alt": "",
+    "audio_prompt": "pronombres/11.mp3"
+  },
+  {
+    "key": "eso",
+    "answer": " that",
+    "alt": "",
+    "audio_prompt": "pronombres/12.mp3"
+  },
+  {
+    "key": "esto",
+    "answer": " this",
+    "alt": "",
+    "audio_prompt": "pronombres/13.mp3"
+  },
+  {
+    "key": "la / el",
+    "answer": " the",
+    "alt": "",
+    "audio_prompt": "pronombres/14.mp3"
+  },
+  {
+    "key": "le",
+    "answer": " you",
+    "alt": "",
+    "audio_prompt": "pronombres/15.mp3"
+  },
+  {
+    "key": "lo",
+    "answer": " it",
+    "alt": "",
+    "audio_prompt": "pronombres/16.mp3"
+  },
+  {
+    "key": "me",
+    "answer": " me",
+    "alt": "",
+    "audio_prompt": "pronombres/17.mp3"
+  },
+  {
+    "key": "m\u00ed",
+    "answer": " me",
+    "alt": "",
+    "audio_prompt": "pronombres/18.mp3"
+  },
+  {
+    "key": "m\u00edo/m\u00eda",
+    "answer": " mine",
+    "alt": "",
+    "audio_prompt": "pronombres/19.mp3"
+  },
+  {
+    "key": "nada",
+    "answer": " nothing",
+    "alt": "",
+    "audio_prompt": "pronombres/20.mp3"
+  },
+  {
+    "key": "nadie",
+    "answer": " nobody",
+    "alt": "",
+    "audio_prompt": "pronombres/21.mp3"
+  },
+  {
+    "key": "ninguno",
+    "answer": " none/not any/nobody",
+    "alt": "",
+    "audio_prompt": "pronombres/22.mp3"
+  },
+  {
+    "key": "nos",
+    "answer": " us",
+    "alt": "pronombres/23.mp3",
+    "audio_prompt": null
+  },
+  {
+    "key": "nuestro(s)/nuestra(s)",
+    "answer": " our/ours",
+    "alt": "",
+    "audio_prompt": "pronombres/24.mp3"
+  },
+  {
+    "key": "otros/otras",
+    "answer": " others",
+    "alt": "",
+    "audio_prompt": "pronombres/25.mp3"
+  },
+  {
+    "key": "qu\u00e9",
+    "answer": " what",
+    "alt": "",
+    "audio_prompt": "pronombres/26.mp3"
+  },
+  {
+    "key": "que",
+    "answer": " who",
+    "alt": "",
+    "audio_prompt": "pronombres/27.mp3"
+  },
+  {
+    "key": "qui\u00e9n",
+    "answer": " who/whom",
+    "alt": "",
+    "audio_prompt": "pronombres/28.mp3"
+  },
+  {
+    "key": "se",
+    "answer": " oneself/himself/herself/yourself/themselves",
+    "alt": "",
+    "audio_prompt": "pronombres/29.mp3"
+  },
+  {
+    "key": "su/sus",
+    "answer": " yours/theirs/his/hers",
+    "alt": " short-form before noun",
+    "audio_prompt": "pronombres/30.mp3"
+  },
+  {
+    "key": "suyo/suyas",
+    "answer": " yours/his/hers/theirs",
+    "alt": " long-form after noun",
+    "audio_prompt": "pronombres/31.mp3"
+  },
+  {
+    "key": "te",
+    "answer": " inf. you",
+    "alt": " no te entiendo (I don\u2019t understand you)",
+    "audio_prompt": "pronombres/32.mp3"
+  },
+  {
+    "key": "ti",
+    "answer": " you",
+    "alt": "",
+    "audio_prompt": "pronombres/33.mp3"
+  },
+  {
+    "key": "tu/tus",
+    "answer": " you/your",
+    "alt": "",
+    "audio_prompt": "pronombres/34.mp3"
+  },
+  {
+    "key": "todo",
+    "answer": " all",
+    "alt": "",
+    "audio_prompt": "pronombres/35.mp3"
+  },
+  {
+    "key": "una / un",
+    "answer": " a / an",
+    "alt": "",
+    "audio_prompt": "pronombres/36.mp3"
+  },
+  {
+    "key": "uno / una",
+    "answer": " one",
+    "alt": " cada una de mis mochilas (each one of my backpacks)",
+    "audio_prompt": "pronombres/37.mp3"
+  },
+  {
+    "key": "usted",
+    "answer": " you",
+    "alt": "",
+    "audio_prompt": "pronombres/38.mp3"
+  },
+  {
+    "key": "varios",
+    "answer": " various",
+    "alt": "",
+    "audio_prompt": "pronombres/39.mp3"
+  }
+]

@@ -1,0 +1,5162 @@
+[
+  {
+    "key": "\u56de\u5bb6",
+    "alt": "hu\u00edji\u0101 (\u56de\u5bb6, \u56de\u5bb6)",
+    "answer": "return home",
+    "audio": "top2/1.mp3"
+  },
+  {
+    "key": "\u7368\u7acb",
+    "alt": "d\u00fal\u00ec (\u7368\u7acb, \u72ec\u7acb)",
+    "answer": "stand alone",
+    "audio": "top2/2.mp3"
+  },
+  {
+    "key": "\u82f1\u570b",
+    "alt": "y\u012bnggu\u00f3 (\u82f1\u570b, \u82f1\u56fd)",
+    "answer": "Britain, Great_Britain, England, chapel, Great Britain, English, UK, reeve, John_Bull",
+    "audio": "top2/3.mp3"
+  },
+  {
+    "key": "\u6295\u8cc7",
+    "alt": "t\u00f3uz\u012b (\u6295\u8cc7, \u6295\u8d44)",
+    "answer": "invest",
+    "audio": "top2/4.mp3"
+  },
+  {
+    "key": "\u7406\u8ad6",
+    "alt": "l\u01d0l\u00f9n (\u7406\u8ad6, \u7406\u8bba)",
+    "answer": "theory",
+    "audio": "top2/5.mp3"
+  },
+  {
+    "key": "\u9762\u81e8",
+    "alt": "mi\u00e0nl\u00edn (\u9762\u81e8, \u9762\u4e34)",
+    "answer": "have, face, confront, envisage, flank, present, be faced with, be up against, bide, meet",
+    "audio": "top2/6.mp3"
+  },
+  {
+    "key": "\u9078\u624b",
+    "alt": "xu\u01censh\u01d2u (\u9078\u624b, \u9009\u624b)",
+    "answer": "participant, basketeer, athlete selected for a sports meet, basketball player, jock, contestant, cap, cager, athlete, player, champ, performer, player selected as contestant",
+    "audio": "top2/7.mp3"
+  },
+  {
+    "key": "\u5206\u9418",
+    "alt": "f\u0113nzh\u014dng (\u5206\u9418, \u5206\u949f)",
+    "answer": "m.[standard]",
+    "audio": "top2/8.mp3"
+  },
+  {
+    "key": "\u5167\u90e8",
+    "alt": "n\u00e8ib\u00f9 (\u5167\u90e8, \u5185\u90e8)",
+    "answer": "entrails, bowel, interior, inner, within, bosom, inside, innards, internal, inward",
+    "audio": "top2/9.mp3"
+  },
+  {
+    "key": "\u897f\u65b9",
+    "alt": "x\u012bf\u0101ng (\u897f\u65b9, \u897f\u65b9)",
+    "answer": "the Occident, West, New World, occidental, westward, west, the West, the west, Hesperian, occident, Western, sunset, western hemisphere, western",
+    "audio": "top2/10.mp3"
+  },
+  {
+    "key": "\u4eba\u5bb6",
+    "alt": "r\u00e9nji\u0101 (\u4eba\u5bb6, \u4eba\u5bb6)",
+    "answer": "I used by females , dwelling, I, sb. else, sb. else's house, family, household",
+    "audio": "top2/11.mp3"
+  },
+  {
+    "key": "\u6e96\u5099",
+    "alt": "zh\u01d4nb\u00e8i (\u6e96\u5099, \u51c6\u5907)",
+    "answer": "prepare, get ready",
+    "audio": "top2/12.mp3"
+  },
+  {
+    "key": "\u773c\u775b",
+    "alt": "y\u01cenj\u012bng (\u773c\u775b, \u773c\u775b)",
+    "answer": "eye",
+    "audio": "top2/13.mp3"
+  },
+  {
+    "key": "\u5982",
+    "alt": "r\u00fa (\u5982, \u5982)",
+    "answer": "conj.: if, supposing",
+    "audio": "top2/14.mp3"
+  },
+  {
+    "key": "\u773c",
+    "alt": "y\u01cen (\u773c, \u773c)",
+    "answer": "eye, small hole, aperture, salient/weighted point, salient/weighted point",
+    "audio": "top2/15.mp3"
+  },
+  {
+    "key": "\u96e2\u958b",
+    "alt": "l\u00edk\u0101i (\u96e2\u958b, \u79bb\u5f00)",
+    "answer": "leave, depart/deviate from",
+    "audio": "top2/16.mp3"
+  },
+  {
+    "key": "\u7af6\u722d",
+    "alt": "j\u00ecngzh\u0113ng (\u7af6\u722d, \u7ade\u4e89)",
+    "answer": "competition",
+    "audio": "top2/17.mp3"
+  },
+  {
+    "key": "\u5c08\u5229",
+    "alt": "zhu\u0101nl\u00ec (\u5c08\u5229, \u4e13\u5229)",
+    "answer": "patent",
+    "audio": "top2/18.mp3"
+  },
+  {
+    "key": "\u6210\u679c",
+    "alt": "ch\u00e9nggu\u01d2 (\u6210\u679c, \u6210\u679c)",
+    "answer": "product, achievement, outcome, gain, production, fruit, positive result, progeny, job",
+    "audio": "top2/19.mp3"
+  },
+  {
+    "key": "\u6d3b",
+    "alt": "hu\u00f3 (\u6d3b, \u6d3b)",
+    "answer": "alive, live, vivid, save sb.'s life , activate, save, be",
+    "audio": "top2/20.mp3"
+  },
+  {
+    "key": "\u5fc3\u60c5",
+    "alt": "x\u012bnq\u00edng (\u5fc3\u60c5, \u5fc3\u60c5)",
+    "answer": "cognitive state, cue, frame of mind, form, stomach, pulse, humor, feeling, temper, state of mind, cheer, humour, frame/state of mind, mood, vein, spirit, feelings, frame, frame_of_mind, habit of mind, mind, tune",
+    "audio": "top2/21.mp3"
+  },
+  {
+    "key": "\u4ecb\u7d39",
+    "alt": "ji\u00e8sh\u00e0o (\u4ecb\u7d39, \u4ecb\u7ecd)",
+    "answer": "introduce, present, recommend, suggest, let know, brief",
+    "audio": "top2/22.mp3"
+  },
+  {
+    "key": "\u73fe\u5834",
+    "alt": "xi\u00e0nch\u01ceng (\u73fe\u5834, \u73b0\u573a)",
+    "answer": "scene of an incident , location, site, locale, scene of a crime, locality, live, scene, spot, field",
+    "audio": "top2/23.mp3"
+  },
+  {
+    "key": "\u7a81\u7136",
+    "alt": "t\u00far\u00e1n (\u7a81\u7136, \u7a81\u7136)",
+    "answer": "suddenly, presto, unexpectedly, abruptly, at once, all_at_once, all together, all of a sudden, all at once",
+    "audio": "top2/24.mp3"
+  },
+  {
+    "key": "\u5ba2\u6236",
+    "alt": "k\u00e8h\u00f9 (\u5ba2\u6236, \u5ba2\u6237)",
+    "answer": "clientage, custom, customer, client, business, patronage, clientele",
+    "audio": "top2/25.mp3"
+  },
+  {
+    "key": "\u9593",
+    "alt": "ji\u0101n (\u9593, \u95f4)",
+    "answer": "locality, room",
+    "audio": "top2/26.mp3"
+  },
+  {
+    "key": "\u5370\u8c61",
+    "alt": "y\u00ecnxi\u00e0ng (\u5370\u8c61, \u5370\u8c61)",
+    "answer": "effect, mark, impress, embossment, impressional, image, imprint, engram, sound, intuition, impression",
+    "audio": "top2/27.mp3"
+  },
+  {
+    "key": "\u82b1",
+    "alt": "hu\u0101 (\u82b1, \u82b1)",
+    "answer": "spend, expend, cost",
+    "audio": "top2/28.mp3"
+  },
+  {
+    "key": "\u6d77",
+    "alt": "h\u01cei (\u6d77, \u6d77)",
+    "answer": "water, foam, bottom, main, huge group of people, Surname, sea catfish, the sea, sea, mare, drink, fishpond, briny, great capacity, Neptune, billow, huge group of things, depth, waters, pond, wave, brine, big lake",
+    "audio": "top2/29.mp3"
+  },
+  {
+    "key": "\u771f\u6b63",
+    "alt": "zh\u0113nzh\u00e8ng (\u771f\u6b63, \u771f\u6b63)",
+    "answer": "genuine, true, real",
+    "audio": "top2/30.mp3"
+  },
+  {
+    "key": "\u4fdd\u6301",
+    "alt": "b\u01ceoch\u00ed (\u4fdd\u6301, \u4fdd\u6301)",
+    "answer": "keep, maintain, preserve",
+    "audio": "top2/31.mp3"
+  },
+  {
+    "key": "\u6642\u671f",
+    "alt": "sh\u00edq\u00ed (\u6642\u671f, \u65f6\u671f)",
+    "answer": "epoch, season, date, period_of_time, phase, day, occasion, estate, period, length, period of time , phase angle, stage, conjuncture, chapter, times, era, leg, guardianship",
+    "audio": "top2/32.mp3"
+  },
+  {
+    "key": "\u5c64",
+    "alt": "c\u00e9ng (\u5c64, \u5c42)",
+    "answer": "m.[proximation]",
+    "audio": "top2/33.mp3"
+  },
+  {
+    "key": "\u65b9\u4fbf",
+    "alt": "f\u0101ngbi\u00e0n (\u65b9\u4fbf, \u65b9\u4fbf)",
+    "answer": "convenient",
+    "audio": "top2/34.mp3"
+  },
+  {
+    "key": "\u5e6b\u52a9",
+    "alt": "b\u0101ngzh\u00f9 (\u5e6b\u52a9, \u5e2e\u52a9)",
+    "answer": "aid, bridge_over, help, bestead, bring_on, tide_over, serve, support, facilitate, accommodate, carry_through, assist, administer, attend_to, assistance, befriend, further, favour",
+    "audio": "top2/35.mp3"
+  },
+  {
+    "key": "\u57fa\u790e",
+    "alt": "j\u012bch\u01d4 (\u57fa\u790e, \u57fa\u7840)",
+    "answer": "base, foundation",
+    "audio": "top2/36.mp3"
+  },
+  {
+    "key": "\u500b\u4eba",
+    "alt": "g\u00e8r\u00e9n (\u500b\u4eba, \u4e2a\u4eba)",
+    "answer": "individual person, man_jack, personal, individual person , man jack, individual, individuality, identity",
+    "audio": "top2/37.mp3"
+  },
+  {
+    "key": "\u65b0\u7af9",
+    "alt": "x\u012bnzh\u00fa (\u65b0\u7af9, \u65b0\u7af9)",
+    "answer": "Hsin Chu city in Taiwan",
+    "audio": "top2/38.mp3"
+  },
+  {
+    "key": "\u674e",
+    "alt": "l\u01d0 (\u674e, \u674e)",
+    "answer": "plum, Lee, Surname, Li",
+    "audio": "top2/39.mp3"
+  },
+  {
+    "key": "\u751f",
+    "alt": "sh\u0113ng (\u751f, \u751f)",
+    "answer": "give birth to, bear, grow, get, have, cause to happen, make a fire , exist, live",
+    "audio": "top2/40.mp3"
+  },
+  {
+    "key": "\u5716\u66f8\u9928",
+    "alt": "t\u00fash\u016bgu\u01cen (\u5716\u66f8\u9928, \u56fe\u4e66\u9986)",
+    "answer": "library",
+    "audio": "top2/41.mp3"
+  },
+  {
+    "key": "\u5979\u5011",
+    "alt": "t\u0101men (\u5979\u5011, \u5979\u4eec)",
+    "answer": "they female",
+    "audio": "top2/42.mp3"
+  },
+  {
+    "key": "\u7f8e\u5143",
+    "alt": "m\u011biyu\u00e1n (\u7f8e\u5143, \u7f8e\u5143)",
+    "answer": "m.[standard]",
+    "audio": "top2/43.mp3"
+  },
+  {
+    "key": "\u8b80",
+    "alt": "d\u00fa (\u8b80, \u8bfb)",
+    "answer": "study, read, attend school, take, read aloud, read aloud , peruse",
+    "audio": "top2/44.mp3"
+  },
+  {
+    "key": "\u4ee5\u4f86",
+    "alt": "y\u01d0l\u00e1i (\u4ee5\u4f86, \u4ee5\u6765)",
+    "answer": "since",
+    "audio": "top2/45.mp3"
+  },
+  {
+    "key": "\u6216\u8a31",
+    "alt": "hu\u00f2x\u01d4 (\u6216\u8a31, \u6216\u8bb8)",
+    "answer": "possibly, in all probability, peradventure, conceivably, mayhap, likely, perhaps, perchance, probably, maybe, haply, in all likelihood, belike",
+    "audio": "top2/46.mp3"
+  },
+  {
+    "key": "\u8ab2",
+    "alt": "k\u00e8 (\u8ab2, \u8bfe)",
+    "answer": "subject, course, class",
+    "audio": "top2/47.mp3"
+  },
+  {
+    "key": "\u75c5\u4eba",
+    "alt": "b\u00ecngr\u00e9n (\u75c5\u4eba, \u75c5\u4eba)",
+    "answer": "shut in, patient, subject, sufferer, case, valetudinarian, invalid",
+    "audio": "top2/48.mp3"
+  },
+  {
+    "key": "\u5be6\u9a57",
+    "alt": "sh\u00edy\u00e0n (\u5be6\u9a57, \u5b9e\u9a8c)",
+    "answer": "experiment, test",
+    "audio": "top2/49.mp3"
+  },
+  {
+    "key": "\u6709\u6642\u5019",
+    "alt": "y\u01d2ush\u00edh\u00f2u (\u6709\u6642\u5019, \u6709\u65f6\u5019)",
+    "answer": "from time to time, on_occasion, occasionally, somewhile, otherwhile, now and again, sometimes, now and then, at times, on occasion, whiles, once in a while",
+    "audio": "top2/50.mp3"
+  },
+  {
+    "key": "\u8fa6\u7406",
+    "alt": "b\u00e0nl\u01d0 (\u8fa6\u7406, \u529e\u7406)",
+    "answer": "handle, manage, attend, conduct, enact, transact, transaction",
+    "audio": "top2/51.mp3"
+  },
+  {
+    "key": "\u90e8\u9580",
+    "alt": "b\u00f9m\u00e9n (\u90e8\u9580, \u90e8\u95e8)",
+    "answer": "category, section, department, service, instrumentality, branch, realm, sector, ministry, province, divisional, classification, departmental, division",
+    "audio": "top2/52.mp3"
+  },
+  {
+    "key": "\u985e\u4f3c",
+    "alt": "l\u00e8is\u00ec (\u985e\u4f3c, \u7c7b\u4f3c)",
+    "answer": "analogize, conform, analogic, be similar to, resemble, similar, analogous",
+    "audio": "top2/53.mp3"
+  },
+  {
+    "key": "\u5ee3\u544a",
+    "alt": "gu\u01cengg\u00e0o (\u5ee3\u544a, \u5e7f\u544a)",
+    "answer": "advertisement",
+    "audio": "top2/54.mp3"
+  },
+  {
+    "key": "\u9001",
+    "alt": "s\u00f2ng (\u9001, \u9001)",
+    "answer": "accompaniment, escort, see sb. off, see sb. off/out, to dispatch, see ... off, accompany, to deliver, send, direct, serve, guide, give as a present, deliver, see sb. out, see, lead, see ... out, conduct, give, to send, carry, delivery, carriage, take, hospitalize",
+    "audio": "top2/55.mp3"
+  },
+  {
+    "key": "\u5920",
+    "alt": "g\u00f2u (\u5920, \u591f)",
+    "answer": "be enough/sufficient/adequate",
+    "audio": "top2/56.mp3"
+  },
+  {
+    "key": "\u65b0\u52a0\u5761",
+    "alt": "x\u012bnji\u0101p\u014d (\u65b0\u52a0\u5761, \u65b0\u52a0\u5761)",
+    "answer": "Singapore",
+    "audio": "top2/57.mp3"
+  },
+  {
+    "key": "\u64d4\u5fc3",
+    "alt": "d\u0101nx\u012bn (\u64d4\u5fc3, \u62c5\u5fc3)",
+    "answer": "worry, feel anxious",
+    "audio": "top2/58.mp3"
+  },
+  {
+    "key": "\u5546\u696d",
+    "alt": "sh\u0101ngy\u00e8 (\u5546\u696d, \u5546\u4e1a)",
+    "answer": "business enterprise, commercial, people, mercantilism, commercial pursuit, commercial enterprise, business sector, merchantry, trade, mercantile pursuit, business, commerce",
+    "audio": "top2/59.mp3"
+  },
+  {
+    "key": "\u638c\u63e1",
+    "alt": "zh\u01cengw\u00f2 (\u638c\u63e1, \u638c\u63e1)",
+    "answer": "take ... into one's hands, know well, master, have in hand, grasp, command, possess, control",
+    "audio": "top2/60.mp3"
+  },
+  {
+    "key": "\u5169\u5cb8",
+    "alt": "li\u01ceng\u00e0n (\u5169\u5cb8, \u4e24\u5cb8)",
+    "answer": "both sides of a river, both sides of the Taiwan Straits I.e.,  Chinese Mainland and Taiwan",
+    "audio": "top2/61.mp3"
+  },
+  {
+    "key": "\u9580",
+    "alt": "m\u00e9n (\u9580, \u95e8)",
+    "answer": "door, gate",
+    "audio": "top2/62.mp3"
+  },
+  {
+    "key": "\u65b9\u6848",
+    "alt": "f\u0101ng\u00e0n (\u65b9\u6848, \u65b9\u6848)",
+    "answer": "formula, plan, scheme, projection, programme, proposal, schema, strategy, project, design, program",
+    "audio": "top2/63.mp3"
+  },
+  {
+    "key": "\u81f3\u5c11",
+    "alt": "zh\u00ecsh\u01ceo (\u81f3\u5c11, \u81f3\u5c11)",
+    "answer": "leastwise, leastways, at the least, at_least, only, fully, even a little, at least, at any rate, in the least, at least, at the least",
+    "audio": "top2/64.mp3"
+  },
+  {
+    "key": "\u770b\u6cd5",
+    "alt": "k\u00e0nf\u01ce (\u770b\u6cd5, \u770b\u6cd5)",
+    "answer": "side, view, mentality, idea, outlook, a way of looking at a thing, opinion, thought, sight, standpoint, hypothesis, attitude, hobbyhorse, viewpoint, possibility, theory, slant, pronouncement, way of looking at sth., thinking, supposition, supposal",
+    "audio": "top2/65.mp3"
+  },
+  {
+    "key": "\u539f\u672c",
+    "alt": "yu\u00e1nb\u011bn (\u539f\u672c, \u539f\u672c)",
+    "answer": "originally, formerly",
+    "audio": "top2/66.mp3"
+  },
+  {
+    "key": "\u63aa\u65bd",
+    "alt": "cu\u00f2sh\u012b (\u63aa\u65bd, \u63aa\u65bd)",
+    "answer": "measure, demarche, corrective, move, step",
+    "audio": "top2/67.mp3"
+  },
+  {
+    "key": "\u8868\u73fe",
+    "alt": "bi\u01ceoxi\u00e0n (\u8868\u73fe, \u8868\u73b0)",
+    "answer": "show, display, show off",
+    "audio": "top2/68.mp3"
+  },
+  {
+    "key": "\u793e\u5718",
+    "alt": "sh\u00e8tu\u00e1n (\u793e\u5718, \u793e\u56e2)",
+    "answer": "gild, college, lodge, association, organization, club, body of persons, society, mass organization, order, league, guild, confraternity, corporation",
+    "audio": "top2/69.mp3"
+  },
+  {
+    "key": "\u4e5d",
+    "alt": "ji\u01d4 (\u4e5d, \u4e5d)",
+    "answer": "det.: nine",
+    "audio": "top2/70.mp3"
+  },
+  {
+    "key": "\u5c55\u958b",
+    "alt": "zh\u01cenk\u0101i (\u5c55\u958b, \u5c55\u5f00)",
+    "answer": "spread out, unfold, open up, launch, develop",
+    "audio": "top2/71.mp3"
+  },
+  {
+    "key": "\u535a\u58eb",
+    "alt": "b\u00f3sh\u00ec (\u535a\u58eb, \u535a\u58eb)",
+    "answer": "Ph.D, master of any trade/craft, master of any craft, Dr., holder of doctoral degree, master of any trade, Erudite, doctoral, Doctor_of_Philosophy, Ph.D., court academician, craft, \"Erudite\", Doctor of Philosophy, doctor",
+    "audio": "top2/72.mp3"
+  },
+  {
+    "key": "\u9053\u8def",
+    "alt": "d\u00e0ol\u00f9 (\u9053\u8def, \u9053\u8def)",
+    "answer": "track, path, runway, steps, route, course, toby, road, thoroughfare, way",
+    "audio": "top2/73.mp3"
+  },
+  {
+    "key": "\u7adf",
+    "alt": "j\u00ecng (\u7adf, \u7adf)",
+    "answer": "unexpectedly",
+    "audio": "top2/74.mp3"
+  },
+  {
+    "key": "\u9805\u76ee",
+    "alt": "xi\u00e0ngm\u00f9 (\u9805\u76ee, \u9879\u76ee)",
+    "answer": "event, head, item, particular, article, point, specific, entry, listing, clause, project",
+    "audio": "top2/75.mp3"
+  },
+  {
+    "key": "\u9700",
+    "alt": "x\u016b (\u9700, \u9700)",
+    "answer": "need",
+    "audio": "top2/76.mp3"
+  },
+  {
+    "key": "\u5b78\u9662",
+    "alt": "xu\u00e9yu\u00e0n (\u5b78\u9662, \u5b66\u9662)",
+    "answer": "seminary, college, school, hall, institute, academy, faculty",
+    "audio": "top2/77.mp3"
+  },
+  {
+    "key": "\u4ee3\u8868",
+    "alt": "d\u00e0ibi\u01ceo (\u4ee3\u8868, \u4ee3\u8868)",
+    "answer": "represent, indicate",
+    "audio": "top2/78.mp3"
+  },
+  {
+    "key": "\u540c\u610f",
+    "alt": "t\u00f3ngy\u00ec (\u540c\u610f, \u540c\u610f)",
+    "answer": "agree, consent, approve",
+    "audio": "top2/79.mp3"
+  },
+  {
+    "key": "\u539f\u4f4f\u6c11",
+    "alt": "yu\u00e1nzh\u00f9m\u00edn (\u539f\u4f4f\u6c11, \u539f\u4f4f\u6c11)",
+    "answer": "aborigine",
+    "audio": "top2/80.mp3"
+  },
+  {
+    "key": "\u7b56\u7565",
+    "alt": "c\u00e8lu\u00e8 (\u7b56\u7565, \u7b56\u7565)",
+    "answer": "coup, resource, enginery, wile, stratagem, gambit, practice, plant, diplomacy, artifice, trap, twist, tactical manoeuver, policy, game, mechanism, game plan, ambush, chicanery, finesse, lying in wait, maneuvering, joker, tactics, gimmick, manoeuvering, plan, device, art, tactical maneuver, maneuver, measure, play, tactic, manoeuvre, mechanics, tack, ambuscade, trickery, strategy, setup, r",
+    "audio": "top2/81.mp3"
+  },
+  {
+    "key": "\u767d",
+    "alt": "b\u00e1i (\u767d, \u767d)",
+    "answer": "white, clear, pure, plain, wrongly written/mispronounced, ",
+    "audio": "top2/82.mp3"
+  },
+  {
+    "key": "\u5e73\u5747",
+    "alt": "p\u00edngj\u016bn (\u5e73\u5747, \u5e73\u5747)",
+    "answer": "average",
+    "audio": "top2/83.mp3"
+  },
+  {
+    "key": "\u6240",
+    "alt": "su\u01d2 (\u6240, \u6240)",
+    "answer": "place, office, bureau, institute",
+    "audio": "top2/84.mp3"
+  },
+  {
+    "key": "\u9760",
+    "alt": "k\u00e0o (\u9760, \u9760)",
+    "answer": "depend/rely on",
+    "audio": "top2/85.mp3"
+  },
+  {
+    "key": "\u4e92\u76f8",
+    "alt": "h\u00f9xi\u0101ng (\u4e92\u76f8, \u4e92\u76f8)",
+    "answer": "mutual, each other, mutually, one another, reciprocally",
+    "audio": "top2/86.mp3"
+  },
+  {
+    "key": "\u5730\u4f4d",
+    "alt": "d\u00ecw\u00e8i (\u5730\u4f4d, \u5730\u4f4d)",
+    "answer": "station, estate, importance, appointment, character, footing, capacity, chair, estate of the realm, level, situation, status, standing, position, spot, connection, space, sphere, quality, place, condition",
+    "audio": "top2/87.mp3"
+  },
+  {
+    "key": "\u9ad4\u80b2",
+    "alt": "t\u01d0y\u016b (\u9ad4\u80b2, \u4f53\u80b2)",
+    "answer": "training, physical education, athletics, sports, gymnastic, physical_education, physical training, physical culture, physical education/training, gym",
+    "audio": "top2/88.mp3"
+  },
+  {
+    "key": "\u6a23",
+    "alt": "y\u00e0ng (\u6a23, \u6837)",
+    "answer": "m.[kind]",
+    "audio": "top2/89.mp3"
+  },
+  {
+    "key": "\u4e9e\u6d32",
+    "alt": "y\u01cezh\u014du (\u4e9e\u6d32, \u4e9a\u6d32)",
+    "answer": "Orient, Asian, Asia",
+    "audio": "top2/90.mp3"
+  },
+  {
+    "key": "\u63a1\u53d6",
+    "alt": "c\u01ceiq\u01d4 (\u63a1\u53d6, \u91c7\u53d6)",
+    "answer": "operate, assume, adopt, accept, strike, take, take up, take over, borrow",
+    "audio": "top2/91.mp3"
+  },
+  {
+    "key": "\u65e5",
+    "alt": "r\u00ec (\u65e5, \u65e5)",
+    "answer": "m.[standard]",
+    "audio": "top2/92.mp3"
+  },
+  {
+    "key": "\u7562\u696d",
+    "alt": "b\u00ecy\u00e8 (\u7562\u696d, \u6bd5\u4e1a)",
+    "answer": "graduate, finish school",
+    "audio": "top2/93.mp3"
+  },
+  {
+    "key": "\u76f8\u540c",
+    "alt": "xi\u0101ngt\u00f3ng (\u76f8\u540c, \u76f8\u540c)",
+    "answer": "be identical/alike, uniform, be identical, overlap, alike, identical, be alike",
+    "audio": "top2/94.mp3"
+  },
+  {
+    "key": "\u6b23\u8cde",
+    "alt": "x\u012bnsh\u01ceng (\u6b23\u8cde, \u6b23\u8d4f)",
+    "answer": "appreciate, enjoy, admire",
+    "audio": "top2/95.mp3"
+  },
+  {
+    "key": "\u6cd5\u5f8b",
+    "alt": "f\u01cel\u00f9 (\u6cd5\u5f8b, \u6cd5\u5f8b)",
+    "answer": "constitution, juridical, legal, jus, judiciary, statute law, law, codex, legislation, jurisprudence, lex, code, Themis, statute, judicial, practice of law, prescript, forensic, natural law",
+    "audio": "top2/96.mp3"
+  },
+  {
+    "key": "\u8a5e",
+    "alt": "c\u00ed (\u8a5e, \u8bcd)",
+    "answer": "vocable, words, phrase, a kind of poetry originating in Tang dyn, statement, a form of classical poetry, part of speech, speech, Ci,  Chinese poetry, term, word",
+    "audio": "top2/97.mp3"
+  },
+  {
+    "key": "\u5927\u578b",
+    "alt": "d\u00e0x\u00edng (\u5927\u578b, \u5927\u578b)",
+    "answer": "large size machines/factories/etc.",
+    "audio": "top2/98.mp3"
+  },
+  {
+    "key": "\u4e2d\u83ef",
+    "alt": "zh\u014dnghu\u00e1 (\u4e2d\u83ef, \u4e2d\u534e)",
+    "answer": "the Chinese nation, China",
+    "audio": "top2/99.mp3"
+  },
+  {
+    "key": "\u53f0\u5927",
+    "alt": "t\u00e1id\u00e0 (\u53f0\u5927, \u53f0\u5927)",
+    "answer": "National Taiwan University, National Taiwan University Hospital",
+    "audio": "top2/100.mp3"
+  },
+  {
+    "key": "\u610f\u601d",
+    "alt": "y\u00ecs\u012b (\u610f\u601d, \u610f\u601d)",
+    "answer": "significance, token of infection, intention, interest, idea, trace, meaning, thought, opinion, substance, etc., import, a token of appreciation/etc., indirect request, wish, a token of affection, desire, appreciation, fun, signification, gratitude, sense, hint, a token of affection/appreciation/etc., suggestion, mind, intent",
+    "audio": "top2/101.mp3"
+  },
+  {
+    "key": "\u5728\u4e00\u8d77",
+    "alt": "z\u00e0iy\u012bq\u01d0 (\u5728\u4e00\u8d77, \u5728\u4e00\u8d77)",
+    "answer": "be togather",
+    "audio": "top2/102.mp3"
+  },
+  {
+    "key": "\u4fc2",
+    "alt": "x\u00ec (\u4fc2, \u7cfb)",
+    "answer": "be",
+    "audio": "top2/103.mp3"
+  },
+  {
+    "key": "\u6301\u7e8c",
+    "alt": "ch\u00edx\u00f9 (\u6301\u7e8c, \u6301\u7eed)",
+    "answer": "perennate, hang on, carry_over, persist, steady, keep, carry over, keep on, proceed, stretch, carry_on, retain, sustain, persevere, continuity, endure, stay, continue, hang in, hold, maintain, run, span, go on, run for, last, go along, exist, hold on",
+    "audio": "top2/104.mp3"
+  },
+  {
+    "key": "\u7fa4",
+    "alt": "q\u00fan (\u7fa4, \u7fa4)",
+    "answer": "m.[general]",
+    "audio": "top2/105.mp3"
+  },
+  {
+    "key": "\u6162\u6162",
+    "alt": "m\u00e0nm\u00e0n (\u6162\u6162, \u6162\u6162)",
+    "answer": "slowly; gradually",
+    "audio": "top2/106.mp3"
+  },
+  {
+    "key": "\u9ad8\u96c4",
+    "alt": "g\u0101oxi\u00f3ng (\u9ad8\u96c4, \u9ad8\u96c4)",
+    "answer": "Kaohsiung,  a city in Taiwan, Gaoxiong, Kaohsiung a city in Taiwan",
+    "audio": "top2/107.mp3"
+  },
+  {
+    "key": "\u88fd\u9020",
+    "alt": "zh\u00ecz\u00e0o (\u88fd\u9020, \u5236\u9020)",
+    "answer": "make, manufacture, engineer, create, fabricate",
+    "audio": "top2/108.mp3"
+  },
+  {
+    "key": "\u91ab\u7642",
+    "alt": "y\u012bli\u00e1o (\u91ab\u7642, \u533b\u7597)",
+    "answer": "treat, cure",
+    "audio": "top2/109.mp3"
+  },
+  {
+    "key": "\u9080\u8acb",
+    "alt": "y\u0101oq\u01d0ng (\u9080\u8acb, \u9080\u8bf7)",
+    "answer": "invite",
+    "audio": "top2/110.mp3"
+  },
+  {
+    "key": "\u6eff\u8db3",
+    "alt": "m\u01cenz\u00fa (\u6eff\u8db3, \u6ee1\u8db3)",
+    "answer": "fulfil, fit, cope with, fill, be satisfied/contented, gloat, contented, arrive, be satisfied, satisfy, sate, gratify, serve, meet, appease, replete, supply, satisfied, fulfill, suffice, assuage, satiate, content, be contented, conform to, suit, match",
+    "audio": "top2/111.mp3"
+  },
+  {
+    "key": "\u901f\u5ea6",
+    "alt": "s\u00f9d\u00f9 (\u901f\u5ea6, \u901f\u5ea6)",
+    "answer": "pacing, wings, rate, quickness, fastness, velocity, swiftness, lick, pace, rapidity, speed, career, tempo",
+    "audio": "top2/112.mp3"
+  },
+  {
+    "key": "\u91cd\u9ede",
+    "alt": "zh\u00f2ngdi\u01cen (\u91cd\u9ede, \u91cd\u70b9)",
+    "answer": "taproot, accent, emphasis, focal point, point, keystone, hinge, salient point, stress, gravity",
+    "audio": "top2/113.mp3"
+  },
+  {
+    "key": "\u4fdd\u5b58",
+    "alt": "b\u01ceoc\u00fan (\u4fdd\u5b58, \u4fdd\u5b58)",
+    "answer": "preserve, conserve, keep",
+    "audio": "top2/114.mp3"
+  },
+  {
+    "key": "\u8a55\u4f30",
+    "alt": "p\u00edngg\u016b (\u8a55\u4f30, \u8bc4\u4f30)",
+    "answer": "estimate, evaluate",
+    "audio": "top2/115.mp3"
+  },
+  {
+    "key": "\u9650\u5236",
+    "alt": "xi\u00e0nzh\u00ec (\u9650\u5236, \u9650\u5236)",
+    "answer": "restrictiveness",
+    "audio": "top2/116.mp3"
+  },
+  {
+    "key": "\u7b26\u5408",
+    "alt": "f\u00fah\u00e9 (\u7b26\u5408, \u7b26\u5408)",
+    "answer": "fulfil, conform, fit, tally with, fill, come_up_to, cohere, satisfy, accord, coincide, assort, equate, answer, tally, consist, meet, be in keeping with, chime_in, fulfill, look, accord/tally with, relate, chime, live up to, square, accord with, conform to, correspond",
+    "audio": "top2/117.mp3"
+  },
+  {
+    "key": "\u5229\u76ca",
+    "alt": "l\u00ecy\u00ec (\u5229\u76ca, \u5229\u76ca)",
+    "answer": "privilege, profit, vantage, favor, interest, behoof, account, goodness, gain, increment, avail, boon, plus, commodity, lucre, advantage, stead, boot, benefit, welfare, good, asset, behalf, percentage, stake, favour",
+    "audio": "top2/118.mp3"
+  },
+  {
+    "key": "\u7d44\u6210",
+    "alt": "z\u01d4ch\u00e9ng (\u7d44\u6210, \u7ec4\u6210)",
+    "answer": "form, make up into , compose",
+    "audio": "top2/119.mp3"
+  },
+  {
+    "key": "\u6aa2\u67e5",
+    "alt": "ji\u01cench\u00e1 (\u6aa2\u67e5, \u68c0\u67e5)",
+    "answer": "check, inspect, examine",
+    "audio": "top2/120.mp3"
+  },
+  {
+    "key": "\u770b\u898b",
+    "alt": "k\u00e0nji\u00e0n (\u770b\u898b, \u770b\u89c1)",
+    "answer": "seeing, behold, see, descry, show, perceive, lay eyes on, lamp, spy, show up, sight, catch sight of,  catch sight of",
+    "audio": "top2/121.mp3"
+  },
+  {
+    "key": "\u77ad\u89e3",
+    "alt": "li\u01ceoji\u011b (\u77ad\u89e3, \u77ad\u89e3)",
+    "answer": "understand, comprehend, find out, acquaint oneself with",
+    "audio": "top2/122.mp3"
+  },
+  {
+    "key": "\u7acb\u523b",
+    "alt": "l\u00eck\u00e8 (\u7acb\u523b, \u7acb\u523b)",
+    "answer": "in a short time, at_once, promptly, offhand, at once, anon, instantly, straightway, now, slapbang, pronto, right_away, immediately, without delay, right away, forthwith, presto, at a time, before long, in a minute, swith, directly, in no time, incontinent, subito, without_delay, in real time, shortly, tout de suite, away, soon, presently, in a few seconds, very fast, chop",
+    "audio": "top2/123.mp3"
+  },
+  {
+    "key": "\u5973\u5152",
+    "alt": "n\u01d4\u00e9r (\u5973\u5152, \u5973\u513f)",
+    "answer": "daughter, girl",
+    "audio": "top2/124.mp3"
+  },
+  {
+    "key": "\u6578",
+    "alt": "sh\u00f9 (\u6578, \u6570)",
+    "answer": "det.: several",
+    "audio": "top2/125.mp3"
+  },
+  {
+    "key": "\u4e0a\u8ab2",
+    "alt": "sh\u00e0ngk\u00e8 (\u4e0a\u8ab2, \u4e0a\u8bfe)",
+    "answer": "attend class, go to class;give lesson/lecture",
+    "audio": "top2/126.mp3"
+  },
+  {
+    "key": "\u6574\u5408",
+    "alt": "zh\u011bngh\u00e9 (\u6574\u5408, \u6574\u5408)",
+    "answer": "integrate",
+    "audio": "top2/127.mp3"
+  },
+  {
+    "key": "\u66f4\u591a",
+    "alt": "g\u00e8ngdu\u014d (\u66f4\u591a, \u66f4\u591a)",
+    "answer": "det.: more",
+    "audio": "top2/128.mp3"
+  },
+  {
+    "key": "\u552f\u4e00",
+    "alt": "w\u00e9iy\u012b (\u552f\u4e00, \u552f\u4e00)",
+    "answer": "sole, one and only, only, unique",
+    "audio": "top2/129.mp3"
+  },
+  {
+    "key": "\u4eba\u6578",
+    "alt": "r\u00e9nsh\u00f9 (\u4eba\u6578, \u4eba\u6570)",
+    "answer": "number of people",
+    "audio": "top2/130.mp3"
+  },
+  {
+    "key": "\u7684\u78ba",
+    "alt": "d\u00edqu\u00e8 (\u7684\u78ba, \u7684\u786e)",
+    "answer": "certainly, surely",
+    "audio": "top2/131.mp3"
+  },
+  {
+    "key": "\u4e3b\u984c",
+    "alt": "zh\u01d4t\u00ed (\u4e3b\u984c, \u4e3b\u9898)",
+    "answer": "motif, lemma, musical theme, theme, thesis, idea, literary argument, argument, motive, leitmotiv, matter, subject_matter, keynote, issue, subject, topic, mythos, melodic theme",
+    "audio": "top2/132.mp3"
+  },
+  {
+    "key": "\u7528\u6236",
+    "alt": "y\u00f2ngh\u00f9 (\u7528\u6236, \u7528\u6237)",
+    "answer": "customer, subscriber, enjoyer, user, consumer",
+    "audio": "top2/133.mp3"
+  },
+  {
+    "key": "\u5feb\u901f",
+    "alt": "ku\u00e0is\u00f9 (\u5feb\u901f, \u5feb\u901f)",
+    "answer": "expeditious, high speed, fast, rapid, clip",
+    "audio": "top2/134.mp3"
+  },
+  {
+    "key": "\u8a2d\u65bd",
+    "alt": "sh\u00e8sh\u012b (\u8a2d\u65bd, \u8bbe\u65bd)",
+    "answer": "installation, facilities",
+    "audio": "top2/135.mp3"
+  },
+  {
+    "key": "\u6587\u5b78",
+    "alt": "w\u00e9nxu\u00e9 (\u6587\u5b78, \u6587\u5b66)",
+    "answer": "literary, philology, letters, letter, literature",
+    "audio": "top2/136.mp3"
+  },
+  {
+    "key": "\u6b65",
+    "alt": "b\u00f9 (\u6b65, \u6b65)",
+    "answer": "m.[activity]",
+    "audio": "top2/137.mp3"
+  },
+  {
+    "key": "\u90a3\u88e1",
+    "alt": "n\u00e0l\u01d0 (\u90a3\u88e1, \u90a3\u91cc)",
+    "answer": "that place",
+    "audio": "top2/138.mp3"
+  },
+  {
+    "key": "\u5230",
+    "alt": "d\u00e0o (\u5230, \u5230)",
+    "answer": "conj.: to",
+    "audio": "top2/139.mp3"
+  },
+  {
+    "key": "\u7f8e",
+    "alt": "m\u011bi (\u7f8e, \u7f8e)",
+    "answer": "beautiful, pretty",
+    "audio": "top2/140.mp3"
+  },
+  {
+    "key": "\u9700\u8981",
+    "alt": "x\u016by\u00e0o (\u9700\u8981, \u9700\u8981)",
+    "answer": "need, demand",
+    "audio": "top2/141.mp3"
+  },
+  {
+    "key": "\u5931\u53bb",
+    "alt": "sh\u012bq\u00f9 (\u5931\u53bb, \u5931\u53bb)",
+    "answer": "desert, shear, outgrow, loss, lost, miss, lose",
+    "audio": "top2/142.mp3"
+  },
+  {
+    "key": "\u505a\u70ba",
+    "alt": "zu\u00f2w\u00e9i (\u505a\u70ba, \u505a\u4e3a)",
+    "answer": "excuse, to be as, to look upon as, purport, roof, to take for, to regard as, look on as, regard as, take for",
+    "audio": "top2/143.mp3"
+  },
+  {
+    "key": "\u8907\u96dc",
+    "alt": "f\u00f9z\u00e1 (\u8907\u96dc, \u590d\u6742)",
+    "answer": "complicated, complex",
+    "audio": "top2/144.mp3"
+  },
+  {
+    "key": "\u5c46",
+    "alt": "ji\u00e8 (\u5c46, \u5c4a)",
+    "answer": "m.[event]",
+    "audio": "top2/145.mp3"
+  },
+  {
+    "key": "\u4f5c\u7528",
+    "alt": "zu\u00f2y\u00f2ng (\u4f5c\u7528, \u4f5c\u7528)",
+    "answer": "action, function, effect, intention, motive",
+    "audio": "top2/146.mp3"
+  },
+  {
+    "key": "\u8abf\u6574",
+    "alt": "ti\u00e1ozh\u011bng (\u8abf\u6574, \u8c03\u6574)",
+    "answer": "adjust, readjust, regulate, restructure, balance",
+    "audio": "top2/147.mp3"
+  },
+  {
+    "key": "\u4f54",
+    "alt": "zh\u00e0n (\u4f54, \u4f54)",
+    "answer": "constitute, make up, account for",
+    "audio": "top2/148.mp3"
+  },
+  {
+    "key": "\u8981\u6c42",
+    "alt": "y\u0101oqi\u00fa (\u8981\u6c42, \u8981\u6c42)",
+    "answer": "demand, request",
+    "audio": "top2/149.mp3"
+  },
+  {
+    "key": "\u9ad8\u4e2d",
+    "alt": "g\u0101ozh\u014dng (\u9ad8\u4e2d, \u9ad8\u4e2d)",
+    "answer": "senior middle school, senior high school, senior_high_school",
+    "audio": "top2/150.mp3"
+  },
+  {
+    "key": "\u52d5\u4f5c",
+    "alt": "d\u00f2ngzu\u00f2 (\u52d5\u4f5c, \u52a8\u4f5c)",
+    "answer": "demeanor, motion, behavior, performance, demeanour, play, turn, operation, operative, looseness, agency, gesticulation, movement, gesture, comportment, business, action, move",
+    "audio": "top2/151.mp3"
+  },
+  {
+    "key": "\u6a21\u5f0f",
+    "alt": "m\u00f3sh\u00ec (\u6a21\u5f0f, \u6a21\u5f0f)",
+    "answer": "example, normal, rule, formula, pattern, form, shape, style, way, mode, convention, fashion, model",
+    "audio": "top2/152.mp3"
+  },
+  {
+    "key": "\u591a",
+    "alt": "du\u00f3 (\u591a, \u591a)",
+    "answer": "to what degree, how...",
+    "audio": "top2/153.mp3"
+  },
+  {
+    "key": "\u5438\u5f15",
+    "alt": "x\u012by\u01d0n (\u5438\u5f15, \u5438\u5f15)",
+    "answer": "engross, arrest, appeal, fascinate, attraction, fetch, draw, transfix, pull in, entrance, pull, enamour, spellbind, enamor, capture, trance, captivate, call, grip, fascination, absorb, bewitch, tempt, becharm, speak_to, fix, engage, catch, rivet, enchant, beguile, charm, seduce, take, enwrap, magnetize, draw in, attract",
+    "audio": "top2/154.mp3"
+  },
+  {
+    "key": "\u8a18\u5f97",
+    "alt": "j\u00ecde (\u8a18\u5f97, \u8bb0\u5f97)",
+    "answer": "come to mind, think back, remember, recollect, recall, rememberance, mind, retain, place, spring to mind, bear in mind",
+    "audio": "top2/155.mp3"
+  },
+  {
+    "key": "\u8ce3",
+    "alt": "m\u00e0i (\u8ce3, \u5356)",
+    "answer": "bring, parade, prostitute, make living at, go, sell out, show off, negotiate, exert to the utmost, tout, not spare, deal, betray, make living by, at, sell, make living by/at, betrayal, trade, fetch, market, bring in",
+    "audio": "top2/156.mp3"
+  },
+  {
+    "key": "\u4f8b",
+    "alt": "l\u00ec (\u4f8b, \u4f8b)",
+    "answer": "example, instance, precedent, case, rule, regulation",
+    "audio": "top2/157.mp3"
+  },
+  {
+    "key": "\u63a8\u5ee3",
+    "alt": "tu\u012bgu\u01ceng (\u63a8\u5ee3, \u63a8\u5e7f)",
+    "answer": "popularize, spread, extend",
+    "audio": "top2/158.mp3"
+  },
+  {
+    "key": "\u672c\u4f86",
+    "alt": "b\u011bnl\u00e1i (\u672c\u4f86, \u672c\u6765)",
+    "answer": "originally, at first, of course",
+    "audio": "top2/159.mp3"
+  },
+  {
+    "key": "\u5177\u9ad4",
+    "alt": "j\u00f9t\u01d0 (\u5177\u9ad4, \u5177\u4f53)",
+    "answer": "concrete, specific, particular",
+    "audio": "top2/160.mp3"
+  },
+  {
+    "key": "\u592a\u592a",
+    "alt": "t\u00e0it\u00e0i (\u592a\u592a, \u592a\u592a)",
+    "answer": "lady, memsahib, Dona, dona, Mrs, mum, Senora, senora, Mrs., mistress of a household, madam, Frau, goodwife, missus, senhora, married woman, wife, vrouw, Madame, madame, missis, wahine, Signora, signora",
+    "audio": "top2/161.mp3"
+  },
+  {
+    "key": "\u4e4b\u4e2d",
+    "alt": "zh\u012bzh\u014dng (\u4e4b\u4e2d, \u4e4b\u4e2d)",
+    "answer": "inside,  among,  within",
+    "audio": "top2/162.mp3"
+  },
+  {
+    "key": "\u5b97\u6559",
+    "alt": "z\u014dngji\u00e0o (\u5b97\u6559, \u5b97\u6559)",
+    "answer": "theology, community, religious, cult, creed, faith, religion",
+    "audio": "top2/163.mp3"
+  },
+  {
+    "key": "\u820a",
+    "alt": "ji\u00f9 (\u820a, \u65e7)",
+    "answer": "old, aged, onetime, bygone, used, worn, past, former",
+    "audio": "top2/164.mp3"
+  },
+  {
+    "key": "\u53cd\u61c9",
+    "alt": "f\u01ceny\u00ecng (\u53cd\u61c9, \u53cd\u5e94)",
+    "answer": "reaction, response, repercussion",
+    "audio": "top2/165.mp3"
+  },
+  {
+    "key": "\u89c0\u773e",
+    "alt": "gu\u0101nzh\u00f2ng (\u89c0\u773e, \u89c2\u4f17)",
+    "answer": "onlooker, TV audience, attendance, audience, spectator, viewers, followers, crowd, gallery, viewer, following, house, viewing audience",
+    "audio": "top2/166.mp3"
+  },
+  {
+    "key": "\u7acb\u5834",
+    "alt": "l\u00ecch\u01ceng (\u7acb\u5834, \u7acb\u573a)",
+    "answer": "view, stance, language, stand, ground, capacity, standing, situation, position, perspective, standpoint, stand point",
+    "audio": "top2/167.mp3"
+  },
+  {
+    "key": "\u65c5\u904a",
+    "alt": "l\u01d4y\u00f3u (\u65c5\u904a, \u65c5\u904a)",
+    "answer": "travel",
+    "audio": "top2/168.mp3"
+  },
+  {
+    "key": "\u56e0\u800c",
+    "alt": "y\u012bn\u00e9r (\u56e0\u800c, \u56e0\u800c)",
+    "answer": "conj.: consequently",
+    "audio": "top2/169.mp3"
+  },
+  {
+    "key": "\u7406\u5ff5",
+    "alt": "l\u01d0ni\u00e0n (\u7406\u5ff5, \u7406\u5ff5)",
+    "answer": "sense, conception, idea",
+    "audio": "top2/170.mp3"
+  },
+  {
+    "key": "\u5b83\u5011",
+    "alt": "t\u0101men (\u5b83\u5011, \u5b83\u4eec)",
+    "answer": "they, they non human",
+    "audio": "top2/171.mp3"
+  },
+  {
+    "key": "\u4e0a\u9762",
+    "alt": "sh\u00e0ngmi\u00e0n (\u4e0a\u9762, \u4e0a\u9762)",
+    "answer": "surface of, aspect, higher authority, upper side, the higher authorities, on top/surface of, on surface of, top, the higher ups, top side, upside, on top of, respect, above, on top, regard",
+    "audio": "top2/172.mp3"
+  },
+  {
+    "key": "\u56de",
+    "alt": "hu\u00ed (\u56de, \u56de)",
+    "answer": "return, go back",
+    "audio": "top2/173.mp3"
+  },
+  {
+    "key": "\u652f",
+    "alt": "zh\u012b (\u652f, \u652f)",
+    "answer": "m.[general]",
+    "audio": "top2/174.mp3"
+  },
+  {
+    "key": "\u5c11\u5e74",
+    "alt": "sh\u00e0oni\u00e1n (\u5c11\u5e74, \u5c11\u5e74)",
+    "answer": "nipper, covey, early youth 10 16",
+    "audio": "top2/175.mp3"
+  },
+  {
+    "key": "\u8f14\u5c0e",
+    "alt": "f\u01d4d\u01ceo (\u8f14\u5c0e, \u8f85\u5bfc)",
+    "answer": "coach, tutor",
+    "audio": "top2/176.mp3"
+  },
+  {
+    "key": "\u722d\u53d6",
+    "alt": "zh\u0113ngq\u01d4 (\u722d\u53d6, \u4e89\u53d6)",
+    "answer": "strive for, fight for, wrangle, work hard for, contest, go for, strive/fight for, contend, try_for, woo, try for, strive, win over, scramble, do all one can to",
+    "audio": "top2/177.mp3"
+  },
+  {
+    "key": "\u60f3\u5230",
+    "alt": "xi\u01cengd\u00e0o (\u60f3\u5230, \u60f3\u5230)",
+    "answer": "imagine, ideate, think, envisage, anticipate, bethink, dream, recollect, think_of, call to mind, think of, occur, conceive of",
+    "audio": "top2/178.mp3"
+  },
+  {
+    "key": "\u53ef\u80fd",
+    "alt": "k\u011bn\u00e9ng (\u53ef\u80fd, \u53ef\u80fd)",
+    "answer": "possible,  probable",
+    "audio": "top2/179.mp3"
+  },
+  {
+    "key": "\u5c0a\u91cd",
+    "alt": "z\u016bnzh\u00f2ng (\u5c0a\u91cd, \u5c0a\u91cd)",
+    "answer": "respect, value, esteem",
+    "audio": "top2/180.mp3"
+  },
+  {
+    "key": "\u66ff",
+    "alt": "t\u00ec (\u66ff, \u66ff)",
+    "answer": "for, on behalf of",
+    "audio": "top2/181.mp3"
+  },
+  {
+    "key": "\u5730\u9ede",
+    "alt": "d\u00ecdi\u01cen (\u5730\u9ede, \u5730\u70b9)",
+    "answer": "location, site, locale, locality, topographic point, point, venue, spot, situs, land site, place, locus",
+    "audio": "top2/182.mp3"
+  },
+  {
+    "key": "\u4f55",
+    "alt": "h\u00e9 (\u4f55, \u4f55)",
+    "answer": "det.: which, what",
+    "audio": "top2/183.mp3"
+  },
+  {
+    "key": "\u9ee8",
+    "alt": "d\u01ceng (\u9ee8, \u515a)",
+    "answer": "section, Dang, political party, CCP, KMT, Ku_Klux_Klan, clique, The Party, party, tong, kinsfolk, the Party, faction, gang",
+    "audio": "top2/184.mp3"
+  },
+  {
+    "key": "\u9032\u6b65",
+    "alt": "j\u00ecnb\u00f9 (\u9032\u6b65, \u8fdb\u6b65)",
+    "answer": "progress, advance, improve",
+    "audio": "top2/185.mp3"
+  },
+  {
+    "key": "\u6b32",
+    "alt": "y\u016b (\u6b32, \u6b32)",
+    "answer": "choose, wish, care, want, desire, incline, propose",
+    "audio": "top2/186.mp3"
+  },
+  {
+    "key": "\u5371\u6a5f",
+    "alt": "w\u00e9ij\u012b (\u5371\u6a5f, \u5371\u673a)",
+    "answer": "ambush, clutch, climacteric, crisis, precipice, hump, conjuncture, juncture, sharpness, gravity, edge",
+    "audio": "top2/187.mp3"
+  },
+  {
+    "key": "\u6b63\u5e38",
+    "alt": "zh\u00e8ngch\u00e1ng (\u6b63\u5e38, \u6b63\u5e38)",
+    "answer": "normal, regular",
+    "audio": "top2/188.mp3"
+  },
+  {
+    "key": "\u89d2\u5ea6",
+    "alt": "ji\u01ceod\u00f9 (\u89d2\u5ea6, \u89d2\u5ea6)",
+    "answer": "aspect, perspective, degree, arcdegree, point of view, angle",
+    "audio": "top2/189.mp3"
+  },
+  {
+    "key": "\u5c1a\u672a",
+    "alt": "sh\u00e0ngw\u00e8i (\u5c1a\u672a, \u5c1a\u672a)",
+    "answer": "as yet, til now, heretofore, yet, thus far, so far, until now, up to now, hitherto, not_yet, not yet",
+    "audio": "top2/190.mp3"
+  },
+  {
+    "key": "\u9662\u9577",
+    "alt": "yu\u00e0nzh\u01ceng (\u9662\u9577, \u9662\u957f)",
+    "answer": "director/president of museum/institute/etc. ,  head of branch of government",
+    "audio": "top2/191.mp3"
+  },
+  {
+    "key": "\u7fd2\u6163",
+    "alt": "x\u00edgu\u00e0n (\u7fd2\u6163, \u4e60\u60ef)",
+    "answer": "habit, custom",
+    "audio": "top2/192.mp3"
+  },
+  {
+    "key": "\u671f",
+    "alt": "q\u00ed (\u671f, \u671f)",
+    "answer": "m.[event]",
+    "audio": "top2/193.mp3"
+  },
+  {
+    "key": "\u74b0\u4fdd",
+    "alt": "hu\u00e1nb\u01ceo (\u74b0\u4fdd, \u73af\u4fdd)",
+    "answer": "environmental protection",
+    "audio": "top2/194.mp3"
+  },
+  {
+    "key": "\u4ea4\u6d41",
+    "alt": "ji\u0101oli\u00fa (\u4ea4\u6d41, \u4ea4\u6d41)",
+    "answer": "exchange, interflow, interchange",
+    "audio": "top2/195.mp3"
+  },
+  {
+    "key": "\u56f0\u96e3",
+    "alt": "k\u00f9nn\u00e1n (\u56f0\u96e3, \u56f0\u96be)",
+    "answer": "difficult",
+    "audio": "top2/196.mp3"
+  },
+  {
+    "key": "\u5b8c\u6574",
+    "alt": "w\u00e1nzh\u011bng (\u5b8c\u6574, \u5b8c\u6574)",
+    "answer": "complete, integrated, intact",
+    "audio": "top2/197.mp3"
+  },
+  {
+    "key": "\u8cbb\u7528",
+    "alt": "f\u00e8iy\u00f2ng (\u8cbb\u7528, \u8d39\u7528)",
+    "answer": "tax, cost, expense, expenditure, due, rate, exes, outlay, outgo, fee, terms, toll, price, disbursement, fare, expenses, disbursal, retainer, pay, damage, charge, monetary value, consideration, outgoing",
+    "audio": "top2/198.mp3"
+  },
+  {
+    "key": "\u4e0a\u8ff0",
+    "alt": "sh\u00e0ngsh\u00f9 (\u4e0a\u8ff0, \u4e0a\u8ff0)",
+    "answer": "above mentioned",
+    "audio": "top2/199.mp3"
+  },
+  {
+    "key": "\u5448\u73fe",
+    "alt": "ch\u00e9ngxi\u00e0n (\u5448\u73fe, \u5448\u73b0)",
+    "answer": "assume, crop out, dish, appearance, show, lay out, present, basset, appear, take_on, emergence, emerge, come forth",
+    "audio": "top2/200.mp3"
+  },
+  {
+    "key": "\u7167\u9867",
+    "alt": "zh\u00e0og\u00f9 (\u7167\u9867, \u7167\u987e)",
+    "answer": "look after, care for, attend to, patronize as customer",
+    "audio": "top2/201.mp3"
+  },
+  {
+    "key": "\u9054\u6210",
+    "alt": "d\u00e1ch\u00e9ng (\u9054\u6210, \u8fbe\u6210)",
+    "answer": "reach an agreement",
+    "audio": "top2/202.mp3"
+  },
+  {
+    "key": "\u6279",
+    "alt": "p\u012b (\u6279, \u6279)",
+    "answer": "m.[general]",
+    "audio": "top2/203.mp3"
+  },
+  {
+    "key": "\u57f9\u990a",
+    "alt": "p\u00e9iy\u01ceng (\u57f9\u990a, \u57f9\u517b)",
+    "answer": "foster, train, develop, culture",
+    "audio": "top2/204.mp3"
+  },
+  {
+    "key": "\u5783\u573e",
+    "alt": "l\u00e8s\u00e8 (\u5783\u573e, \u5783\u573e)",
+    "answer": "leavings, crap, sordes, trumpery, culch, garbage, filth, debris, cultch, sweeping, trashery, raffle, slush, truck, detritus, rubbish, trash, dirt, muck, litter, offscouring, offal, rubble, recrement, dust, rejectamenta, refuse, junk, gook",
+    "audio": "top2/205.mp3"
+  },
+  {
+    "key": "\u5716",
+    "alt": "t\u00fa (\u5716, \u56fe)",
+    "answer": "picture, drawing, chart, map",
+    "audio": "top2/206.mp3"
+  },
+  {
+    "key": "\u64f4\u5927",
+    "alt": "ku\u00f2d\u00e0 (\u64f4\u5927, \u6269\u5927)",
+    "answer": "enlarge, expand, extend, swell, dilate",
+    "audio": "top2/207.mp3"
+  },
+  {
+    "key": "\u7bc7",
+    "alt": "pi\u0101n (\u7bc7, \u7bc7)",
+    "answer": "m.[general]",
+    "audio": "top2/208.mp3"
+  },
+  {
+    "key": "\u6bd4\u4f8b",
+    "alt": "b\u01d0l\u00ec (\u6bd4\u4f8b, \u6bd4\u4f8b)",
+    "answer": "proportional, rate, proportionality, quotient, proportion, proportionment, scale, ratio, balance",
+    "audio": "top2/209.mp3"
+  },
+  {
+    "key": "\u98a8\u683c",
+    "alt": "f\u0113ngg\u00e9 (\u98a8\u683c, \u98ce\u683c)",
+    "answer": "plan, signature, idiom, kind, aroma, manner, idiosyncrasy, negligence, style, mode, tone, expressive style, artistic style, touch",
+    "audio": "top2/210.mp3"
+  },
+  {
+    "key": "\u96e3\u4ee5",
+    "alt": "n\u00e1ny\u01d0 (\u96e3\u4ee5, \u96be\u4ee5)",
+    "answer": "be difficult to",
+    "audio": "top2/211.mp3"
+  },
+  {
+    "key": "\u6a5f\u95dc",
+    "alt": "j\u012bgu\u0101n (\u6a5f\u95dc, \u673a\u5173)",
+    "answer": "mechanism, stratagem, scheme, intrigue",
+    "audio": "top2/212.mp3"
+  },
+  {
+    "key": "\u60c5\u7dd2",
+    "alt": "q\u00edngx\u00f9 (\u60c5\u7dd2, \u60c5\u7eea)",
+    "answer": "form, pulse, humor, depression, temper, feeling, spirits, monkey, emotion, sentiment, humour, soulfulness, mood, heartbeat, heartstrings, sulks, chord, vein, feelings, emotional state, spirit, frame_of_mind, sentiments, moodiness, emotions, steam, tune, soul",
+    "audio": "top2/213.mp3"
+  },
+  {
+    "key": "\u52de\u5de5",
+    "alt": "l\u00e1og\u014dng (\u52de\u5de5, \u52b3\u5de5)",
+    "answer": "work_force, navvy, galley slave, manual laborer, labor, mazdoor, peon, proletariat, working class, laborer, worker, workman, industrialist, labour, drudge, workingman, labourer",
+    "audio": "top2/214.mp3"
+  },
+  {
+    "key": "\u4e00\u65e6",
+    "alt": "y\u012bd\u00e0n (\u4e00\u65e6, \u4e00\u65e6)",
+    "answer": "conj.: once,  some time or other",
+    "audio": "top2/215.mp3"
+  },
+  {
+    "key": "\u591a\u5a92\u9ad4",
+    "alt": "du\u014dm\u00e9it\u01d0 (\u591a\u5a92\u9ad4, \u591a\u5a92\u4f53)",
+    "answer": "multi media",
+    "audio": "top2/216.mp3"
+  },
+  {
+    "key": "\u6c42",
+    "alt": "qi\u00fa (\u6c42, \u6c42)",
+    "answer": "seek, try, strive for",
+    "audio": "top2/217.mp3"
+  },
+  {
+    "key": "\u7d55\u5c0d",
+    "alt": "ju\u00e9du\u00ec (\u7d55\u5c0d, \u7edd\u5bf9)",
+    "answer": "absolutely, definitely",
+    "audio": "top2/218.mp3"
+  },
+  {
+    "key": "\u8cc7\u6599\u5eab",
+    "alt": "z\u012bli\u00e0ok\u00f9 (\u8cc7\u6599\u5eab, \u8d44\u6599\u5e93)",
+    "answer": "data bank, database, data base, databank",
+    "audio": "top2/219.mp3"
+  },
+  {
+    "key": "\u9078\u8209",
+    "alt": "xu\u01cenj\u01d4 (\u9078\u8209, \u9009\u4e3e)",
+    "answer": "election",
+    "audio": "top2/220.mp3"
+  },
+  {
+    "key": "\u4e0d\u53ef\u80fd",
+    "alt": "b\u00f9k\u011bn\u00e9ng (\u4e0d\u53ef\u80fd, \u4e0d\u53ef\u80fd)",
+    "answer": "impossibly",
+    "audio": "top2/221.mp3"
+  },
+  {
+    "key": "\u99ac\u4e0a",
+    "alt": "m\u01cesh\u00e0ng (\u99ac\u4e0a, \u9a6c\u4e0a)",
+    "answer": "in a short time, at_once, instantaneously, promptly, at once, incontinent, in the same breath, directively, instantly, slapbang, pronto, right_away, immediately, shortly, without delay, right away, tout de suite, forthwith, presently, in_no_time, at a time, soon, hereupon, in a few seconds, before long, at one time, outright, straightaway, in a minute, directly, momently, in a f",
+    "audio": "top2/222.mp3"
+  },
+  {
+    "key": "\u8aaa\u8a71",
+    "alt": "shu\u014dhu\u00e0 (\u8aaa\u8a71, \u8bf4\u8bdd)",
+    "answer": "philosophize, thrum, talk, peach, babble out, speech, articulate, chat, speak, babble, gossip, blab out, sing, address, tattle, blab, mouth, say",
+    "audio": "top2/223.mp3"
+  },
+  {
+    "key": "\u4eab\u53d7",
+    "alt": "xi\u01cengsh\u00f2u (\u4eab\u53d7, \u4eab\u53d7)",
+    "answer": "enjoy",
+    "audio": "top2/224.mp3"
+  },
+  {
+    "key": "\u5de5\u5ee0",
+    "alt": "g\u014dngch\u01ceng (\u5de5\u5ee0, \u5de5\u5382)",
+    "answer": "layout, mill, factory, remuneration, workshop, industrial plant, plant, hacienda, manufactory, works, shop",
+    "audio": "top2/225.mp3"
+  },
+  {
+    "key": "\u98df\u7269",
+    "alt": "sh\u00edw\u00f9 (\u98df\u7269, \u98df\u7269)",
+    "answer": "scran, board, ingesta, sustentation, provender, viand, chow, aliment, pabulum, edibles, prog, nurture, cheer, eatable, edible, alimentary, eatables, chowchow, nutrient, diet, bread, trencher, sustenance, nutriment, nosh, nutrition, victuals, cib., vivers, eating, toke, meat, cib, grub, peck, viands, comestible, nourishment, fare, victual, food, commons, fodder, scoff, victualage, muckamuck, ta",
+    "audio": "top2/226.mp3"
+  },
+  {
+    "key": "\u6d88\u606f",
+    "alt": "xi\u0101ox\u00ed (\u6d88\u606f, \u6d88\u606f)",
+    "answer": "communication, witting, message, item, news, peep, info, intelligence, notice, information, advertisement, tidings, advert, word",
+    "audio": "top2/227.mp3"
+  },
+  {
+    "key": "\u756a",
+    "alt": "f\u0101n (\u756a, \u756a)",
+    "answer": "m.[event]",
+    "audio": "top2/228.mp3"
+  },
+  {
+    "key": "\u8da8\u52e2",
+    "alt": "q\u016bsh\u00ec (\u8da8\u52e2, \u8d8b\u52bf)",
+    "answer": "stream, gravitation, tendency, wind, tide, drift, sequel, trend, current, direction, inclination, tendence, momentum, flow",
+    "audio": "top2/229.mp3"
+  },
+  {
+    "key": "\u623f\u5b50",
+    "alt": "f\u00e1ngzi (\u623f\u5b50, \u623f\u5b50)",
+    "answer": "building of less than three stories , room, building, property, house",
+    "audio": "top2/230.mp3"
+  },
+  {
+    "key": "\u89c0\u9ede",
+    "alt": "gu\u0101ndi\u01cen (\u89c0\u9ede, \u89c2\u70b9)",
+    "answer": "view, aspect, stand, point_of_view, light, eyes, framework, sentiment, bet, standpoint, point of view, eye, viewpoint, slant, perspective, position, angle",
+    "audio": "top2/231.mp3"
+  },
+  {
+    "key": "\u8cfc\u8cb7",
+    "alt": "g\u00f2um\u01cei (\u8cfc\u8cb7, \u8d2d\u4e70)",
+    "answer": "invest, take, buy, make purchases, go shopping, purchase",
+    "audio": "top2/232.mp3"
+  },
+  {
+    "key": "\u666e\u904d",
+    "alt": "p\u01d4bi\u00e0n (\u666e\u904d, \u666e\u904d)",
+    "answer": "universal, general, widespread, common",
+    "audio": "top2/233.mp3"
+  },
+  {
+    "key": "\u8a2d\u7acb",
+    "alt": "sh\u00e8l\u00ec (\u8a2d\u7acb, \u8bbe\u7acb)",
+    "answer": "establish, found",
+    "audio": "top2/234.mp3"
+  },
+  {
+    "key": "\u5dee\u7570",
+    "alt": "ch\u0101y\u00ec (\u5dee\u7570, \u5dee\u5f02)",
+    "answer": "gap, departure, spread, variance, divergence, difference, diversity, discrepancy, imparity, disparity, contrast, interval, differentia, distinction",
+    "audio": "top2/235.mp3"
+  },
+  {
+    "key": "\u5dee",
+    "alt": "ch\u0101 (\u5dee, \u5dee)",
+    "answer": "be short, lack",
+    "audio": "top2/236.mp3"
+  },
+  {
+    "key": "\u53e6\u5916",
+    "alt": "l\u00ecngw\u00e0i (\u53e6\u5916, \u53e6\u5916)",
+    "answer": "in addition, moreover, besides",
+    "audio": "top2/237.mp3"
+  },
+  {
+    "key": "\u7d71\u4e00",
+    "alt": "t\u01d2ngy\u012b (\u7d71\u4e00, \u7edf\u4e00)",
+    "answer": "unify, unite, integrate",
+    "audio": "top2/238.mp3"
+  },
+  {
+    "key": "\u9752\u5e74",
+    "alt": "q\u012bngni\u00e1n (\u9752\u5e74, \u9752\u5e74)",
+    "answer": "young people, adolescent, youngster, springal, boy, youth, youths, stripling, young, hobbledehoy, younker",
+    "audio": "top2/239.mp3"
+  },
+  {
+    "key": "\u884c\u653f\u9662",
+    "alt": "x\u00edngzh\u00e8ngyu\u00e0n (\u884c\u653f\u9662, \u884c\u653f\u9662)",
+    "answer": "Executive Yuan",
+    "audio": "top2/240.mp3"
+  },
+  {
+    "key": "\u898f\u6a21",
+    "alt": "gu\u012bm\u00f3 (\u898f\u6a21, \u89c4\u6a21)",
+    "answer": "magnitude, dimensions, extent, scale, scope",
+    "audio": "top2/241.mp3"
+  },
+  {
+    "key": "\u80a1",
+    "alt": "g\u01d4 (\u80a1, \u80a1)",
+    "answer": "m.[general]",
+    "audio": "top2/242.mp3"
+  },
+  {
+    "key": "\u7834\u58de",
+    "alt": "p\u00f2hu\u00e0i (\u7834\u58de, \u7834\u574f)",
+    "answer": "violate, destroy",
+    "audio": "top2/243.mp3"
+  },
+  {
+    "key": "\u60f3\u8981",
+    "alt": "xi\u01cengy\u00e0o (\u60f3\u8981, \u60f3\u8981)",
+    "answer": "please, wish, like, desire, desirable, desiderate, purport, feel_like, wish well, propose, desired, purpose, direct, want to, feel like, aim, want, calculate",
+    "audio": "top2/244.mp3"
+  },
+  {
+    "key": "\u63db",
+    "alt": "hu\u00e0n (\u63db, \u6362)",
+    "answer": "adjourn, barter, exchange, commute, reseat, trade, conversion, convert, change",
+    "audio": "top2/245.mp3"
+  },
+  {
+    "key": "\u9078",
+    "alt": "xu\u01cen (\u9078, \u9009)",
+    "answer": "select, pick, elect, choose, take, pick out, van",
+    "audio": "top2/246.mp3"
+  },
+  {
+    "key": "\u4eba\u529b",
+    "alt": "r\u00e9nl\u00ec (\u4eba\u529b, \u4eba\u529b)",
+    "answer": "strength, manpower, resources, manual labor",
+    "audio": "top2/247.mp3"
+  },
+  {
+    "key": "\u6c34\u6e96",
+    "alt": "shu\u01d0zh\u01d4n (\u6c34\u6e96, \u6c34\u51c6)",
+    "answer": "level, plane, standard",
+    "audio": "top2/248.mp3"
+  },
+  {
+    "key": "\u9996",
+    "alt": "sh\u01d2u (\u9996, \u9996)",
+    "answer": "m.[general]",
+    "audio": "top2/249.mp3"
+  },
+  {
+    "key": "\u6cb3\u5ddd",
+    "alt": "h\u00e9chu\u0101n (\u6cb3\u5ddd, \u6cb3\u5ddd)",
+    "answer": "river and creek, rivers, river",
+    "audio": "top2/250.mp3"
+  },
+  {
+    "key": "\u6587\u5b57",
+    "alt": "w\u00e9nz\u00ec (\u6587\u5b57, \u6587\u5b57)",
+    "answer": "writing, phraseology, writing style, language, endearment, script, written language, text, writing phraseology, writing style/phraseology, character, textual, characters, symbolic representation, version, word sign, literal, letter, word, literalness",
+    "audio": "top2/251.mp3"
+  },
+  {
+    "key": "\u7acb\u5373",
+    "alt": "l\u00ecj\u00ed (\u7acb\u5373, \u7acb\u5373)",
+    "answer": "at_once, off hand, promptly, at once, down, instantly, directively, straightway, herewith, thereupon, ex tempore, without_delay, pronto, right_away, instant, straight, immediately, in_short_order, right away, instanter, straightaway, in short order, off the",
+    "audio": "top2/252.mp3"
+  },
+  {
+    "key": "\u9069\u7576",
+    "alt": "sh\u00ecd\u00e0ng (\u9069\u7576, \u9002\u5f53)",
+    "answer": "beseem, proper, suitable, suit",
+    "audio": "top2/253.mp3"
+  },
+  {
+    "key": "\u91ab\u5e2b",
+    "alt": "y\u012bsh\u012b (\u91ab\u5e2b, \u533b\u5e08)",
+    "answer": "medico, MD, Aesculapius, physician, hakim, leech, Dr., powwow, medic, Aesculapian, doc, doctor",
+    "audio": "top2/254.mp3"
+  },
+  {
+    "key": "\u5c6c",
+    "alt": "sh\u01d4 (\u5c6c, \u5c5e)",
+    "answer": "belong, be born in the year of, belong to, be subordinate to, be",
+    "audio": "top2/255.mp3"
+  },
+  {
+    "key": "\u91cd",
+    "alt": "zh\u00f2ng (\u91cd, \u91cd)",
+    "answer": "heavy, weighty, important, considerable in amount/value",
+    "audio": "top2/256.mp3"
+  },
+  {
+    "key": "\u5c31\u662f\u8aaa",
+    "alt": "ji\u00f9sh\u00ecshu\u014d (\u5c31\u662f\u8aaa, \u5c31\u662f\u8bf4)",
+    "answer": "that is to say, in other words, namely",
+    "audio": "top2/257.mp3"
+  },
+  {
+    "key": "\u7d50\u5a5a",
+    "alt": "ji\u00e9h\u016bn (\u7d50\u5a5a, \u7ed3\u5a5a)",
+    "answer": "middle aisle, intermarry, mate, conjoin, get married, couple, married, espouse, pair, marry, unite, get_married, get hitched with, spouse, splice, hook up with, wed",
+    "audio": "top2/258.mp3"
+  },
+  {
+    "key": "\u6709",
+    "alt": "y\u01d2u (\u6709, \u6709)",
+    "answer": "be, exist, also",
+    "audio": "top2/259.mp3"
+  },
+  {
+    "key": "\u65e5\u5b50",
+    "alt": "r\u00eczi (\u65e5\u5b50, \u65e5\u5b50)",
+    "answer": "yom, day, a particular day, livelihood, life, date, days, time",
+    "audio": "top2/260.mp3"
+  },
+  {
+    "key": "\u975e",
+    "alt": "f\u0113i (\u975e, \u975e)",
+    "answer": "run counter to, not conform to",
+    "audio": "top2/261.mp3"
+  },
+  {
+    "key": "\u8cbf\u6613",
+    "alt": "m\u00e0oy\u00ec (\u8cbf\u6613, \u8d38\u6613)",
+    "answer": "deal, carriage trade, trade, business, commerce",
+    "audio": "top2/262.mp3"
+  },
+  {
+    "key": "\u76f8\u7576",
+    "alt": "xi\u0101ngd\u0101ng (\u76f8\u7576, \u76f8\u5f53)",
+    "answer": "match, balance, correspond to, be equal to",
+    "audio": "top2/263.mp3"
+  },
+  {
+    "key": "\u53c3\u89c0",
+    "alt": "c\u0101ngu\u0101n (\u53c3\u89c0, \u53c2\u89c2)",
+    "answer": "visit,  tour",
+    "audio": "top2/264.mp3"
+  },
+  {
+    "key": "\u516c\u958b",
+    "alt": "g\u014dngk\u0101i (\u516c\u958b, \u516c\u5f00)",
+    "answer": "bare, air, unclose, publish, come_out, make known to the public, publicize, divulgate, overt, publicise, public, disclosure, make known to public, unfurl, make public",
+    "audio": "top2/265.mp3"
+  },
+  {
+    "key": "\u9806\u5229",
+    "alt": "sh\u00f9nl\u00ec (\u9806\u5229, \u987a\u5229)",
+    "answer": "smooth, successful, without a hitch",
+    "audio": "top2/266.mp3"
+  },
+  {
+    "key": "\u7537",
+    "alt": "n\u00e1n (\u7537, \u7537)",
+    "answer": "baron, male, man, steady, mankind, male person, boy, chauvinism, creature, son",
+    "audio": "top2/267.mp3"
+  },
+  {
+    "key": "\u92b7\u552e",
+    "alt": "xi\u0101osh\u00f2u (\u92b7\u552e, \u9500\u552e)",
+    "answer": "sell, market",
+    "audio": "top2/268.mp3"
+  },
+  {
+    "key": "\u8fa6",
+    "alt": "b\u00e0n (\u8fa6, \u529e)",
+    "answer": "punish by law , manage, get ... ready, set_up, buy a fair amount of, set up, run, management, handle, tackle, attend to, do, punish, bring ... to justice",
+    "audio": "top2/269.mp3"
+  },
+  {
+    "key": "\u7dad\u8b77",
+    "alt": "w\u00e9ih\u00f9 (\u7dad\u8b77, \u7ef4\u62a4)",
+    "answer": "safeguard, defend, uphold",
+    "audio": "top2/270.mp3"
+  },
+  {
+    "key": "\u6295\u5165",
+    "alt": "t\u00f3ur\u00f9 (\u6295\u5165, \u6295\u5165)",
+    "answer": "throw/put into",
+    "audio": "top2/271.mp3"
+  },
+  {
+    "key": "\u7a31",
+    "alt": "ch\u0113ng (\u7a31, \u79f0)",
+    "answer": "call",
+    "audio": "top2/272.mp3"
+  },
+  {
+    "key": "\u52a0\u4e0a",
+    "alt": "ji\u0101sh\u00e0ng (\u52a0\u4e0a, \u52a0\u4e0a)",
+    "answer": "add into",
+    "audio": "top2/273.mp3"
+  },
+  {
+    "key": "\u6c11\u9032\u9ee8",
+    "alt": "m\u00ednj\u00ecnd\u01ceng (\u6c11\u9032\u9ee8, \u6c11\u8fdb\u515a)",
+    "answer": "Democratic Progressive Party",
+    "audio": "top2/274.mp3"
+  },
+  {
+    "key": "\u5fc5",
+    "alt": "b\u00ec (\u5fc5, \u5fc5)",
+    "answer": "surely, must, certainly, have to, necessarily",
+    "audio": "top2/275.mp3"
+  },
+  {
+    "key": "\u81ea\u7531",
+    "alt": "z\u00ecy\u00f3u (\u81ea\u7531, \u81ea\u7531)",
+    "answer": "freedom, liberty",
+    "audio": "top2/276.mp3"
+  },
+  {
+    "key": "\u6709\u9650",
+    "alt": "y\u01d2uxi\u00e0n (\u6709\u9650, \u6709\u9650)",
+    "answer": "limited, finite",
+    "audio": "top2/277.mp3"
+  },
+  {
+    "key": "\u9810\u7b97",
+    "alt": "y\u016bsu\u00e0n (\u9810\u7b97, \u9884\u7b97)",
+    "answer": "estimate, forethought, budget, estimation, budgetary",
+    "audio": "top2/278.mp3"
+  },
+  {
+    "key": "\u8a08\u7b97",
+    "alt": "j\u00ecsu\u00e0n (\u8a08\u7b97, \u8ba1\u7b97)",
+    "answer": "count, calculate, compute",
+    "audio": "top2/279.mp3"
+  },
+  {
+    "key": "\u6548\u7387",
+    "alt": "xi\u00e0ol\u00f9 (\u6548\u7387, \u6548\u7387)",
+    "answer": "sufficiency, effectualness, effectuality, productiveness, usefulness, efficiency, effectivity, effectiveness",
+    "audio": "top2/280.mp3"
+  },
+  {
+    "key": "\u6a23\u5b50",
+    "alt": "y\u00e0ngzi (\u6a23\u5b50, \u6837\u5b50)",
+    "answer": "tendency, pattern, form, manner, likelihood, way, resemblance, semblance, sample, guise, fashion, wise, model, air, mien, appearance, shape, suggestion, gesture, sort",
+    "audio": "top2/281.mp3"
+  },
+  {
+    "key": "\u8a2a\u554f",
+    "alt": "f\u01cengw\u00e8n (\u8a2a\u554f, \u8bbf\u95ee)",
+    "answer": "visit, call on, interview",
+    "audio": "top2/282.mp3"
+  },
+  {
+    "key": "\u4f4d\u65bc",
+    "alt": "w\u00e8iy\u00fa (\u4f4d\u65bc, \u4f4d\u4e8e)",
+    "answer": "be situated, situated, locate, precede, lie, come, nestle, subsist, underlie, sit, be located, skirt, rank",
+    "audio": "top2/283.mp3"
+  },
+  {
+    "key": "\u63a5\u89f8",
+    "alt": "ji\u0113ch\u00f9 (\u63a5\u89f8, \u63a5\u89e6)",
+    "answer": "come into contact with, get in touch with, engage, contact",
+    "audio": "top2/284.mp3"
+  },
+  {
+    "key": "\u6d41\u884c",
+    "alt": "li\u00fax\u00edng (\u6d41\u884c, \u6d41\u884c)",
+    "answer": "prevalent, popular, fashionable, in vogue, spread, rage of contagious disease",
+    "audio": "top2/285.mp3"
+  },
+  {
+    "key": "\u5594",
+    "alt": "w\u014d (\u5594, \u5594)",
+    "answer": "particle: indicating exclamation/suggestion/mild imperative/etc.",
+    "audio": "top2/286.mp3"
+  },
+  {
+    "key": "\u80a1\u5e02",
+    "alt": "g\u01d4sh\u00ec (\u80a1\u5e02, \u80a1\u5e02)",
+    "answer": "stock exchange, securities market, stock market, stock_market",
+    "audio": "top2/287.mp3"
+  },
+  {
+    "key": "\u53ec\u958b",
+    "alt": "zh\u00e0ok\u0101i (\u53ec\u958b, \u53ec\u5f00)",
+    "answer": "convene, convoke",
+    "audio": "top2/288.mp3"
+  },
+  {
+    "key": "\u904b\u4f5c",
+    "alt": "y\u00f9nzu\u00f2 (\u904b\u4f5c, \u8fd0\u4f5c)",
+    "answer": "operate, work",
+    "audio": "top2/289.mp3"
+  },
+  {
+    "key": "\u51fa\u7248",
+    "alt": "ch\u016bb\u01cen (\u51fa\u7248, \u51fa\u7248)",
+    "answer": "come off the press, publish, come out",
+    "audio": "top2/290.mp3"
+  },
+  {
+    "key": "\u85c9",
+    "alt": "ji\u00e8 (\u85c9, \u85c9)",
+    "answer": "depend/rely on",
+    "audio": "top2/291.mp3"
+  },
+  {
+    "key": "\u89c0\u5149",
+    "alt": "gu\u0101ngu\u0101ng (\u89c0\u5149, \u89c2\u5149)",
+    "answer": "rubberneck, take in, visit, sightsee, travel to, go sightseeing, tour",
+    "audio": "top2/292.mp3"
+  },
+  {
+    "key": "\u964d\u4f4e",
+    "alt": "ji\u00e0ngd\u012b (\u964d\u4f4e, \u964d\u4f4e)",
+    "answer": "reduce, cut down, drop, lower",
+    "audio": "top2/293.mp3"
+  },
+  {
+    "key": "\u5927\u7d04",
+    "alt": "d\u00e0yu\u0113 (\u5927\u7d04, \u5927\u7ea6)",
+    "answer": "about,  around,  probably,  likely",
+    "audio": "top2/294.mp3"
+  },
+  {
+    "key": "\u4f86\u6e90",
+    "alt": "l\u00e1iyu\u00e1n (\u4f86\u6e90, \u6765\u6e90)",
+    "answer": "resource, wellspring, origin, provenance, quarter, root, source, beginning, springhead, fodder, fount, quarry, fountain, mint, parentage, whence, paternity",
+    "audio": "top2/295.mp3"
+  },
+  {
+    "key": "\u7406\u7531",
+    "alt": "l\u01d0y\u00f3u (\u7406\u7531, \u7406\u7531)",
+    "answer": "excuse, reasoning, reason, wherefore, argument, meaning, account, cause, room, alibi, substance, warranty, matter, justification, occasion, score, warrant, ground, sake, why, grounds, consideration, self justification, skill",
+    "audio": "top2/296.mp3"
+  },
+  {
+    "key": "\u4e0d\u65b7",
+    "alt": "b\u00fadu\u00e0n (\u4e0d\u65b7, \u4e0d\u65ad)",
+    "answer": "unceasing, continuous",
+    "audio": "top2/297.mp3"
+  },
+  {
+    "key": "\u4e00\u9ede",
+    "alt": "y\u012bdi\u01cen (\u4e00\u9ede, \u4e00\u70b9)",
+    "answer": "a little, a bit",
+    "audio": "top2/298.mp3"
+  },
+  {
+    "key": "\u56de\u7b54",
+    "alt": "hu\u00edd\u00e1 (\u56de\u7b54, \u56de\u7b54)",
+    "answer": "answer, reply",
+    "audio": "top2/299.mp3"
+  },
+  {
+    "key": "\u9752\u5c11\u5e74",
+    "alt": "q\u012bngsh\u00e0oni\u00e1n (\u9752\u5c11\u5e74, \u9752\u5c11\u5e74)",
+    "answer": "adolescent, stilyaga, teens, young person, teenager, teenagers, young people and teenagers, youths, youth, stripling, hobbledehoy, youngsters, younker",
+    "audio": "top2/300.mp3"
+  },
+  {
+    "key": "\u57fa\u672c",
+    "alt": "j\u012bb\u011bn (\u57fa\u672c, \u57fa\u672c)",
+    "answer": "basic, elementary",
+    "audio": "top2/301.mp3"
+  },
+  {
+    "key": "\u4e00\u822c",
+    "alt": "y\u012bb\u0101n (\u4e00\u822c, \u4e00\u822c)",
+    "answer": "generally",
+    "audio": "top2/302.mp3"
+  },
+  {
+    "key": "\u770b\u770b",
+    "alt": "k\u00e0nk\u00e0n (\u770b\u770b, \u770b\u770b)",
+    "answer": "see, look at, watch, read, look upon, regard, call on, visit",
+    "audio": "top2/303.mp3"
+  },
+  {
+    "key": "\u5408\u7406",
+    "alt": "h\u00e9l\u01d0 (\u5408\u7406, \u5408\u7406)",
+    "answer": "plausible, rational, reasonable, legitimate, equitable, sensible",
+    "audio": "top2/304.mp3"
+  },
+  {
+    "key": "\u63a1",
+    "alt": "c\u01cei (\u63a1, \u91c7)",
+    "answer": "pick, gather",
+    "audio": "top2/305.mp3"
+  },
+  {
+    "key": "\u8ddf",
+    "alt": "g\u0113n (\u8ddf, \u8ddf)",
+    "answer": "conj.: and",
+    "audio": "top2/306.mp3"
+  },
+  {
+    "key": "\u751f\u7269",
+    "alt": "sh\u0113ngw\u00f9 (\u751f\u7269, \u751f\u7269)",
+    "answer": "living thing, organism",
+    "audio": "top2/307.mp3"
+  },
+  {
+    "key": "\u4e2d\u83ef\u6c11\u570b",
+    "alt": "zh\u014dnghu\u00e1m\u00edngu\u00f3 (\u4e2d\u83ef\u6c11\u570b, \u4e2d\u534e\u6c11\u56fd)",
+    "answer": "Republic_of_China, Republic of China",
+    "audio": "top2/308.mp3"
+  },
+  {
+    "key": "\u76f4\u5230",
+    "alt": "zh\u00edd\u00e0o (\u76f4\u5230, \u76f4\u5230)",
+    "answer": "until, up to",
+    "audio": "top2/309.mp3"
+  },
+  {
+    "key": "\u53eb",
+    "alt": "ji\u00e0o (\u53eb, \u53eb)",
+    "answer": "ask",
+    "audio": "top2/310.mp3"
+  },
+  {
+    "key": "\u6c23",
+    "alt": "q\u00ec (\u6c23, \u6c14)",
+    "answer": "air, gas, smell, atmosphere, spirit",
+    "audio": "top2/311.mp3"
+  },
+  {
+    "key": "\u7d66\u4e88",
+    "alt": "g\u011biy\u01d4 (\u7d66\u4e88, \u7ed9\u4e88)",
+    "answer": "bring, feed, offer, afford, hold_out, impart, adduce, lend, grant, contribute, given, concede, give to, give, bestow, add, put, render, deal, ladle, administer, assign, give_in, allow",
+    "audio": "top2/312.mp3"
+  },
+  {
+    "key": "\u4e2d\u6587",
+    "alt": "zh\u014dngw\u00e9n (\u4e2d\u6587, \u4e2d\u6587)",
+    "answer": "Chinese, Ch. written language, Ch. language, Sinitic",
+    "audio": "top2/313.mp3"
+  },
+  {
+    "key": "\u6cd5\u570b",
+    "alt": "f\u00e0gu\u00f3 (\u6cd5\u570b, \u6cd5\u56fd)",
+    "answer": "France",
+    "audio": "top2/314.mp3"
+  },
+  {
+    "key": "\u7b54\u6848",
+    "alt": "d\u00e1\u00e0n (\u7b54\u6848, \u7b54\u6848)",
+    "answer": "result, script, resolution, solution, answer, key",
+    "audio": "top2/315.mp3"
+  },
+  {
+    "key": "\u898f\u5b9a",
+    "alt": "gu\u012bd\u00ecng (\u898f\u5b9a, \u89c4\u5b9a)",
+    "answer": "provide, formulate, fix, set",
+    "audio": "top2/316.mp3"
+  },
+  {
+    "key": "\u91d1\u878d",
+    "alt": "j\u012bnr\u00f3ng (\u91d1\u878d, \u91d1\u878d)",
+    "answer": "finance, banking",
+    "audio": "top2/317.mp3"
+  },
+  {
+    "key": "\u9031",
+    "alt": "zh\u014du (\u9031, \u9031)",
+    "answer": "m.[standard]",
+    "audio": "top2/318.mp3"
+  },
+  {
+    "key": "\u4e0b",
+    "alt": "xi\u00e0 (\u4e0b, \u4e0b)",
+    "answer": "put sth. into, apply, form opinion/etc.",
+    "audio": "top2/319.mp3"
+  },
+  {
+    "key": "\u8fb2\u6c11",
+    "alt": "n\u00f3ngm\u00edn (\u8fb2\u6c11, \u519c\u6c11)",
+    "answer": "mujik, farmhand, granger, boor, farm worker, peasantry, countrymen, farmer, agriculture, husbandman, muzhik, peasant, fieldhand, moujik, fellah, muzjik",
+    "audio": "top2/320.mp3"
+  },
+  {
+    "key": "\u6cd5\u4ee4",
+    "alt": "f\u01cel\u00ecng (\u6cd5\u4ee4, \u6cd5\u4ee4)",
+    "answer": "constitution, laws, ordinance, rescript, act, law, decretal, legislation, enactment, edict, law and decrees, regulation, ukase, decrees, decree, doom, ordonnance, statute, fiat, prescript, assize, commandment, legislative act",
+    "audio": "top2/321.mp3"
+  },
+  {
+    "key": "\u8a0a\u606f",
+    "alt": "x\u00f9nx\u00ed (\u8a0a\u606f, \u8baf\u606f)",
+    "answer": "communication, message, news, signal, info, data, intelligence, dispatch, information, messages, tidings, word",
+    "audio": "top2/322.mp3"
+  },
+  {
+    "key": "\u516c\u91cc",
+    "alt": "g\u014dngl\u01d0 (\u516c\u91cc, \u516c\u91cc)",
+    "answer": "m.[standard]",
+    "audio": "top2/323.mp3"
+  },
+  {
+    "key": "\u525b\u525b",
+    "alt": "g\u0101ngg\u0101ng (\u525b\u525b, \u521a\u521a)",
+    "answer": "just now, scarcely, fresh, only, exactly, a moment ago, hardly, but, just",
+    "audio": "top2/324.mp3"
+  },
+  {
+    "key": "\u7d05",
+    "alt": "h\u00f3ng (\u7d05, \u7ea2)",
+    "answer": "in vogue, famous, redden, red, popular",
+    "audio": "top2/325.mp3"
+  },
+  {
+    "key": "\u8f03",
+    "alt": "ji\u00e0o (\u8f03, \u8f83)",
+    "answer": "compare",
+    "audio": "top2/326.mp3"
+  },
+  {
+    "key": "\u8072",
+    "alt": "sh\u0113ng (\u8072, \u58f0)",
+    "answer": "m.[activity]",
+    "audio": "top2/327.mp3"
+  },
+  {
+    "key": "\u500d",
+    "alt": "b\u00e8i (\u500d, \u500d)",
+    "answer": "fold, multiplication, diameter, double, times, twice as much",
+    "audio": "top2/328.mp3"
+  },
+  {
+    "key": "\u52a0",
+    "alt": "ji\u0101 (\u52a0, \u52a0)",
+    "answer": "dramatise, plant, embroider, intercalate, lard, put in, blow up, inflict, deliver, aggrandize, plus, dramatize, increase, augment, embellish, augmentation, confer, append, add, pad, summate",
+    "audio": "top2/329.mp3"
+  },
+  {
+    "key": "\u6c11\u4e3b",
+    "alt": "m\u00ednzh\u01d4 (\u6c11\u4e3b, \u6c11\u4e3b)",
+    "answer": "democracy, democratic rights",
+    "audio": "top2/330.mp3"
+  },
+  {
+    "key": "\u81fa\u5317",
+    "alt": "t\u00e1ib\u011bi (\u81fa\u5317, \u53f0\u5317)",
+    "answer": "Taibei, Taipei",
+    "audio": "top2/331.mp3"
+  },
+  {
+    "key": "\u7121\u8ad6",
+    "alt": "w\u00fal\u00f9n (\u7121\u8ad6, \u65e0\u8bba)",
+    "answer": "conj.: no matter what/how/etc., regardless",
+    "audio": "top2/332.mp3"
+  },
+  {
+    "key": "\u8fa6\u516c\u5ba4",
+    "alt": "b\u00e0ng\u014dngsh\u00ec (\u8fa6\u516c\u5ba4, \u529e\u516c\u5ba4)",
+    "answer": "agency, office, authority, government agency, bureau",
+    "audio": "top2/333.mp3"
+  },
+  {
+    "key": "\u4e00\u65b9\u9762",
+    "alt": "y\u012bf\u0101ngmi\u00e0n (\u4e00\u65b9\u9762, \u4e00\u65b9\u9762)",
+    "answer": "conj.: on one side,  on the one hand...,  on the other hand...,  for one thing...,  for another...",
+    "audio": "top2/334.mp3"
+  },
+  {
+    "key": "\u826f\u597d",
+    "alt": "li\u00e1ngh\u01ceo (\u826f\u597d, \u826f\u597d)",
+    "answer": "good, well",
+    "audio": "top2/335.mp3"
+  },
+  {
+    "key": "\u7d1a",
+    "alt": "j\u00ed (\u7d1a, \u7ea7)",
+    "answer": "level, rank, grade",
+    "audio": "top2/336.mp3"
+  },
+  {
+    "key": "\u904a\u6232",
+    "alt": "y\u00f3ux\u00ec (\u904a\u6232, \u904a\u620f)",
+    "answer": "recreation, game",
+    "audio": "top2/337.mp3"
+  },
+  {
+    "key": "\u9053",
+    "alt": "d\u00e0o (\u9053, \u9053)",
+    "answer": "doctrine, Daoism",
+    "audio": "top2/338.mp3"
+  },
+  {
+    "key": "\u9152",
+    "alt": "ji\u01d4 (\u9152, \u9152)",
+    "answer": "libation, bracer, plonk, wine, tipple, poison, pottle, spirits, creature, vin, cup, drink, hooch, arrack, medicine, alcohol, bottle, hootch, alcoholic drink, rum, bibble, potation, belly wash, alcoholic beverage, Bacchus, booze, liquor, juice, fortifier, inebriant, lotion, intoxicant",
+    "audio": "top2/339.mp3"
+  },
+  {
+    "key": "\u5f62\u8c61",
+    "alt": "x\u00edngxi\u00e0ng (\u5f62\u8c61, \u5f62\u8c61)",
+    "answer": "imagery, figure, form, picture, persona, image",
+    "audio": "top2/340.mp3"
+  },
+  {
+    "key": "\u8dd1",
+    "alt": "p\u01ceo (\u8dd1, \u8dd1)",
+    "answer": "travel, race, be away, escape, course, run errands, skirr, double, walk, be away/off, run away, be off, run about doing sth., run, drive, paw the earth, run about doing ..., ride, leg",
+    "audio": "top2/341.mp3"
+  },
+  {
+    "key": "\u9078\u64c7",
+    "alt": "xu\u01cenz\u00e9 (\u9078\u64c7, \u9009\u62e9)",
+    "answer": "choice",
+    "audio": "top2/342.mp3"
+  },
+  {
+    "key": "\u5c0e\u81f4",
+    "alt": "d\u01ceozh\u00ec (\u5c0e\u81f4, \u5bfc\u81f4)",
+    "answer": "bring, lead, bring_about, lead to, incite, result in, conduce, bring about, produce, bring_on, render, set off, spark_off, inspire, inflict, cause, land",
+    "audio": "top2/343.mp3"
+  },
+  {
+    "key": "\u63d0\u5230",
+    "alt": "t\u00edd\u00e0o (\u63d0\u5230, \u63d0\u5230)",
+    "answer": "mention, refer to",
+    "audio": "top2/344.mp3"
+  },
+  {
+    "key": "\u6c23\u6c1b",
+    "alt": "q\u00ecf\u0113n (\u6c23\u6c1b, \u6c14\u6c1b)",
+    "answer": "mood, air, look, feeling, aura, aurae, spirit, smell, genius loci, feel, flavor, atmosphere, tone, karma, ambiance, ambience",
+    "audio": "top2/345.mp3"
+  },
+  {
+    "key": "\u52d5",
+    "alt": "d\u00f2ng (\u52d5, \u52a8)",
+    "answer": "concuss, get moving, travel, go, use, eat or drink, act, arouse, stir, disturb, alter, touch, change, dynamic, locomote, move",
+    "audio": "top2/346.mp3"
+  },
+  {
+    "key": "\u9662\u58eb",
+    "alt": "yu\u00e0nsh\u00ec (\u9662\u58eb, \u9662\u58eb)",
+    "answer": "academician",
+    "audio": "top2/347.mp3"
+  },
+  {
+    "key": "\u6307",
+    "alt": "zh\u01d0 (\u6307, \u6307)",
+    "answer": "refer to",
+    "audio": "top2/348.mp3"
+  },
+  {
+    "key": "\u5145\u5206",
+    "alt": "ch\u014dngf\u00e8n (\u5145\u5206, \u5145\u5206)",
+    "answer": "full, ample, abundant",
+    "audio": "top2/349.mp3"
+  },
+  {
+    "key": "\u73fe\u4ee3",
+    "alt": "xi\u00e0nd\u00e0i (\u73fe\u4ee3, \u73b0\u4ee3)",
+    "answer": "modern",
+    "audio": "top2/350.mp3"
+  },
+  {
+    "key": "\u5fc5\u8981",
+    "alt": "b\u00ecy\u00e0o (\u5fc5\u8981, \u5fc5\u8981)",
+    "answer": "necessary, indispensable",
+    "audio": "top2/351.mp3"
+  },
+  {
+    "key": "\u751f\u614b",
+    "alt": "sh\u0113ngt\u00e0i (\u751f\u614b, \u751f\u6001)",
+    "answer": "ecological, ecosystem, biology, ecology, biota",
+    "audio": "top2/352.mp3"
+  },
+  {
+    "key": "\u6c7d\u8eca",
+    "alt": "q\u00ecch\u0113 (\u6c7d\u8eca, \u6c7d\u8f66)",
+    "answer": "automotive vehicle, machine, wheels, motorcar, motor vehicle, car, automotive, auto, wheel, autocar, motor, automobile, hoot, mobile, bus",
+    "audio": "top2/353.mp3"
+  },
+  {
+    "key": "\u4f8b\u5b50",
+    "alt": "l\u00eczi (\u4f8b\u5b50, \u4f8b\u5b50)",
+    "answer": "exemplification, example, representative, illustration, instance, piece, case",
+    "audio": "top2/354.mp3"
+  },
+  {
+    "key": "\u6709\u9ede",
+    "alt": "y\u01d2udi\u01cen (\u6709\u9ede, \u6709\u70b9)",
+    "answer": "kind_of, pretty, more or less, fairly, a_little, rather, something, somewhat, a bit, to some extent",
+    "audio": "top2/355.mp3"
+  },
+  {
+    "key": "\u535a\u7269\u9928",
+    "alt": "b\u00f3w\u00f9gu\u01cen (\u535a\u7269\u9928, \u535a\u7269\u9986)",
+    "answer": "museum",
+    "audio": "top2/356.mp3"
+  },
+  {
+    "key": "\u6b0a\u529b",
+    "alt": "qu\u00e1nl\u00ec (\u6b0a\u529b, \u6743\u529b)",
+    "answer": "influence, rod, authoritativeness, clutches, whip_hand, dominance, say so, reins, force, emirate, might, pretension, station, commission, grasp, leverage, danger, authority, place, power, arm, disposal, puissance",
+    "audio": "top2/357.mp3"
+  },
+  {
+    "key": "\u65cf\u7fa4",
+    "alt": "z\u00faq\u00fan (\u65cf\u7fa4, \u65cf\u7fa4)",
+    "answer": "clan, race, tribe, group",
+    "audio": "top2/358.mp3"
+  },
+  {
+    "key": "\u5abd",
+    "alt": "m\u0101 (\u5abd, \u5988)",
+    "answer": "a form of address for a married woman one generati, mummy, mum, mother, ma, mama, mam",
+    "audio": "top2/359.mp3"
+  },
+  {
+    "key": "\u7246",
+    "alt": "qi\u00e1ng (\u7246, \u5899)",
+    "answer": "wall",
+    "audio": "top2/360.mp3"
+  },
+  {
+    "key": "\u8239",
+    "alt": "chu\u00e1n (\u8239, \u8239)",
+    "answer": "bottom, body, ship, catcher, bow, bark, boat, shipboard, prow, watercraft, craft, drone, vessel, keel, sailer",
+    "audio": "top2/361.mp3"
+  },
+  {
+    "key": "\u57fa\u91d1\u6703",
+    "alt": "j\u012bj\u012bnhu\u00ec (\u57fa\u91d1\u6703, \u57fa\u91d1\u4f1a)",
+    "answer": "monetary fund, fundation, foundation, fund",
+    "audio": "top2/362.mp3"
+  },
+  {
+    "key": "\u8a69",
+    "alt": "sh\u012b (\u8a69, \u8bd7)",
+    "answer": "verse form, poem, canto, verse, rhyme, number, song, poesy, poetry",
+    "audio": "top2/363.mp3"
+  },
+  {
+    "key": "\u96dc\u8a8c",
+    "alt": "z\u00e1zh\u00ec (\u96dc\u8a8c, \u6742\u5fd7)",
+    "answer": "journal, bulletin, mag, magazine, periodical",
+    "audio": "top2/364.mp3"
+  },
+  {
+    "key": "\u751f\u5b58",
+    "alt": "sh\u0113ngc\u00fan (\u751f\u5b58, \u751f\u5b58)",
+    "answer": "live, exist",
+    "audio": "top2/365.mp3"
+  },
+  {
+    "key": "\u4e14",
+    "alt": "qi\u011b (\u4e14, \u4e14)",
+    "answer": "conj.:",
+    "audio": "top2/366.mp3"
+  },
+  {
+    "key": "\u5929",
+    "alt": "ti\u0101n (\u5929, \u5929)",
+    "answer": "sky, heaven",
+    "audio": "top2/367.mp3"
+  },
+  {
+    "key": "\u5c0f\u5b69\u5b50",
+    "alt": "xi\u01ceoh\u00e1izi (\u5c0f\u5b69\u5b50, \u5c0f\u5b69\u5b50)",
+    "answer": "dot, tyke, tiddler, pickaninny, child",
+    "audio": "top2/368.mp3"
+  },
+  {
+    "key": "\u5927\u6a13",
+    "alt": "d\u00e0l\u00f3u (\u5927\u6a13, \u5927\u697c)",
+    "answer": "mansion, massif, hall, block, manse, edifice, building, multi storied building, residence, mansion house",
+    "audio": "top2/369.mp3"
+  },
+  {
+    "key": "\u6700\u597d",
+    "alt": "zu\u00ech\u01ceo (\u6700\u597d, \u6700\u597d)",
+    "answer": "had better, it would be best",
+    "audio": "top2/370.mp3"
+  },
+  {
+    "key": "\u8b80\u66f8",
+    "alt": "d\u00fash\u016b (\u8b80\u66f8, \u8bfb\u4e66)",
+    "answer": "read, study, attend school",
+    "audio": "top2/371.mp3"
+  },
+  {
+    "key": "\u898b\u5230",
+    "alt": "ji\u00e0nd\u00e0o (\u898b\u5230, \u89c1\u5230)",
+    "answer": "see, meet, perceive",
+    "audio": "top2/372.mp3"
+  },
+  {
+    "key": "\u6700\u4f73",
+    "alt": "zu\u00ecji\u0101 (\u6700\u4f73, \u6700\u4f73)",
+    "answer": "first rate, best, superlative, optimum",
+    "audio": "top2/373.mp3"
+  },
+  {
+    "key": "\u51fa\u53bb",
+    "alt": "ch\u016bq\u00f9 (\u51fa\u53bb, \u51fa\u53bb)",
+    "answer": "go_out, go/get out, get_out, go out, get out, go, exit",
+    "audio": "top2/374.mp3"
+  },
+  {
+    "key": "\u60f3\u6cd5",
+    "alt": "xi\u01cengf\u01ce (\u60f3\u6cd5, \u60f3\u6cd5)",
+    "answer": "view, stance, mentality, idea, notion, sentiment, judgment, construct, thought, opinion, conception, viewpoint, judgement, belief, mind set, what one has in mind, persuasion, perspective, concept, mind, impression",
+    "audio": "top2/375.mp3"
+  },
+  {
+    "key": "\u5e6b",
+    "alt": "b\u0101ng (\u5e6b, \u5e2e)",
+    "answer": "help",
+    "audio": "top2/376.mp3"
+  },
+  {
+    "key": "\u91ab\u751f",
+    "alt": "y\u012bsh\u0113ng (\u91ab\u751f, \u533b\u751f)",
+    "answer": "Galen, MD, physician, Dr., medic, doc, hakeem, medico, Aesculapius, medical man, surgeon, leech, doctor",
+    "audio": "top2/377.mp3"
+  },
+  {
+    "key": "\u5805\u6301",
+    "alt": "ji\u0101nch\u00ed (\u5805\u6301, \u575a\u6301)",
+    "answer": "persist in, insist on",
+    "audio": "top2/378.mp3"
+  },
+  {
+    "key": "\u5275\u4f5c",
+    "alt": "chu\u00e0ngzu\u00f2 (\u5275\u4f5c, \u521b\u4f5c)",
+    "answer": "creative work, creation",
+    "audio": "top2/379.mp3"
+  },
+  {
+    "key": "\u5ee3\u5834",
+    "alt": "gu\u01cengch\u01ceng (\u5ee3\u5834, \u5e7f\u573a)",
+    "answer": "mews, agora, public square, concourse, carrefour, piazza, plaza, square, campus, place",
+    "audio": "top2/380.mp3"
+  },
+  {
+    "key": "\u6210\u54e1",
+    "alt": "ch\u00e9ngyu\u00e1n (\u6210\u54e1, \u6210\u5458)",
+    "answer": "member",
+    "audio": "top2/381.mp3"
+  },
+  {
+    "key": "\u7559\u4e0b",
+    "alt": "li\u00faxi\u00e0 (\u7559\u4e0b, \u7559\u4e0b)",
+    "answer": "stay, leave behind, leave, allocate, devote, entail, stick, stay behind, leave_behind, stay put, stick around, remain",
+    "audio": "top2/382.mp3"
+  },
+  {
+    "key": "\u68ee\u6797",
+    "alt": "s\u0113nl\u00edn (\u68ee\u6797, \u68ee\u6797)",
+    "answer": "woodsy, jungle, forest, sylva, woods, wood, timberland, woodland, bocage, forestry, timber, greenwood",
+    "audio": "top2/383.mp3"
+  },
+  {
+    "key": "\u7b97",
+    "alt": "su\u00e0n (\u7b97, \u7b97)",
+    "answer": "consider, regard/count as",
+    "audio": "top2/384.mp3"
+  },
+  {
+    "key": "\u9846",
+    "alt": "k\u0113 (\u9846, \u9897)",
+    "answer": "grain, m.[general], ",
+    "audio": "top2/385.mp3"
+  },
+  {
+    "key": "\u5404",
+    "alt": "g\u00e8 (\u5404, \u5404)",
+    "answer": "separately, differently",
+    "audio": "top2/386.mp3"
+  },
+  {
+    "key": "\u7537\u5973",
+    "alt": "n\u00e1nn\u01d4 (\u7537\u5973, \u7537\u5973)",
+    "answer": "men and women",
+    "audio": "top2/387.mp3"
+  },
+  {
+    "key": "\u7279\u6027",
+    "alt": "t\u00e8x\u00ecng (\u7279\u6027, \u7279\u6027)",
+    "answer": "attribute, distinctive feature, tang, a character, appanage, a characteristic, nature, trait, differentiation, data, habit, lineament, shtick, tone, distinction, identity, property, characteristic, specificity, ring, specialty, hair, character, cast, idiosyncrasy, specific, diagnosis, chemistry, feature, peculiarity, quality",
+    "audio": "top2/388.mp3"
+  },
+  {
+    "key": "\u5f71\u50cf",
+    "alt": "y\u01d0ngxi\u00e0ng (\u5f71\u50cf, \u5f71\u50cf)",
+    "answer": "simulacrum, blip, mental image, picture, portrait, video, image",
+    "audio": "top2/389.mp3"
+  },
+  {
+    "key": "\u906d",
+    "alt": "z\u0101o (\u906d, \u906d)",
+    "answer": "by",
+    "audio": "top2/390.mp3"
+  },
+  {
+    "key": "\u5f37\u70c8",
+    "alt": "qi\u00e1ngli\u00e8 (\u5f37\u70c8, \u5f3a\u70c8)",
+    "answer": "strong, intense, violent",
+    "audio": "top2/391.mp3"
+  },
+  {
+    "key": "\u6b38",
+    "alt": "\u00e8i (\u6b38, \u6b38)",
+    "answer": "mild exclamation/sigh",
+    "audio": "top2/392.mp3"
+  },
+  {
+    "key": "\u89e3\u91cb",
+    "alt": "ji\u011bsh\u00ec (\u89e3\u91cb, \u89e3\u91ca)",
+    "answer": "explain, interpret, analyze",
+    "audio": "top2/393.mp3"
+  },
+  {
+    "key": "\u5118\u7ba1",
+    "alt": "j\u01d0ngu\u01cen (\u5118\u7ba1, \u5c3d\u7ba1)",
+    "answer": "conj.: even though, despite",
+    "audio": "top2/394.mp3"
+  },
+  {
+    "key": "\u4e3b\u52d5",
+    "alt": "zh\u01d4d\u00f2ng (\u4e3b\u52d5, \u4e3b\u52a8)",
+    "answer": "on one's own initiative",
+    "audio": "top2/395.mp3"
+  },
+  {
+    "key": "\u6f14\u51fa",
+    "alt": "y\u01cench\u016b (\u6f14\u51fa, \u6f14\u51fa)",
+    "answer": "show, perform",
+    "audio": "top2/396.mp3"
+  },
+  {
+    "key": "\u6587\u7ae0",
+    "alt": "w\u00e9nzh\u0101ng (\u6587\u7ae0, \u6587\u7ae0)",
+    "answer": "nonsense, hidden meaning, writing, hidden, written material, article, implied meaning, essay, writings, literary works, patch, hidden/implied meaning",
+    "audio": "top2/397.mp3"
+  },
+  {
+    "key": "\u7406\u60f3",
+    "alt": "l\u01d0xi\u01ceng (\u7406\u60f3, \u7406\u60f3)",
+    "answer": "ideal, ",
+    "audio": "top2/398.mp3"
+  },
+  {
+    "key": "\u91cd\u5927",
+    "alt": "zh\u00f2ngd\u00e0 (\u91cd\u5927, \u91cd\u5927)",
+    "answer": "great, major, crucial, weighty, whang, fatal, significant, grave",
+    "audio": "top2/399.mp3"
+  },
+  {
+    "key": "\u8173",
+    "alt": "ji\u01ceo (\u8173, \u811a)",
+    "answer": "foot, leg, base",
+    "audio": "top2/400.mp3"
+  },
+  {
+    "key": "\u5371\u96aa",
+    "alt": "w\u00e9ixi\u01cen (\u5371\u96aa, \u5371\u9669)",
+    "answer": "dangerous, perilous",
+    "audio": "top2/401.mp3"
+  },
+  {
+    "key": "\u80cc\u666f",
+    "alt": "b\u00e8ij\u01d0ng (\u80cc\u666f, \u80cc\u666f)",
+    "answer": "context, circumstance, locale, background, ground, stage setting, mise en scene, groundwork, background knowledge, frame, milieu, backcloth, scene, setting, backdrop",
+    "audio": "top2/402.mp3"
+  },
+  {
+    "key": "\u4e0d\u5c11",
+    "alt": "b\u00f9sh\u01ceo (\u4e0d\u5c11, \u4e0d\u5c11)",
+    "answer": "not few, many",
+    "audio": "top2/403.mp3"
+  },
+  {
+    "key": "\u5531",
+    "alt": "ch\u00e0ng (\u5531, \u5531)",
+    "answer": "cry, chant, chirm, tune, vocalize, call, sing",
+    "audio": "top2/404.mp3"
+  },
+  {
+    "key": "\u5373\u5c07",
+    "alt": "j\u00edji\u0101ng (\u5373\u5c07, \u5373\u5c06)",
+    "answer": "in a short time, promptly, on the point of, at once, instantly, pronto, immediately, shortly, without delay, tout de suite, right away, forthwith, presently, soon, in a few seconds, before long, straightaway, in a minute, about to",
+    "audio": "top2/405.mp3"
+  },
+  {
+    "key": "\u5927\u90e8\u5206",
+    "alt": "d\u00e0b\u00f9f\u00e8n (\u5927\u90e8\u5206, \u5927\u90e8\u5206)",
+    "answer": "det.: most of,  the majority of",
+    "audio": "top2/406.mp3"
+  },
+  {
+    "key": "\u901a\u8a0a",
+    "alt": "t\u014dngx\u00f9n (\u901a\u8a0a, \u901a\u8baf)",
+    "answer": "communication, news report, newsletter",
+    "audio": "top2/407.mp3"
+  },
+  {
+    "key": "\u8d8a\u4f86\u8d8a",
+    "alt": "yu\u00e8l\u00e1iyu\u00e8 (\u8d8a\u4f86\u8d8a, \u8d8a\u6765\u8d8a)",
+    "answer": "more_and_more, more and more",
+    "audio": "top2/408.mp3"
+  },
+  {
+    "key": "\u8003\u8a66",
+    "alt": "k\u01ceosh\u00ec (\u8003\u8a66, \u8003\u8bd5)",
+    "answer": "examination, test",
+    "audio": "top2/409.mp3"
+  },
+  {
+    "key": "\u5b78\u671f",
+    "alt": "xu\u00e9q\u00ed (\u5b78\u671f, \u5b66\u671f)",
+    "answer": "school term, semester",
+    "audio": "top2/410.mp3"
+  },
+  {
+    "key": "\u53cd",
+    "alt": "f\u01cen (\u53cd, \u53cd)",
+    "answer": "counter, revolt, rebel, oppose, combat",
+    "audio": "top2/411.mp3"
+  },
+  {
+    "key": "\u5fc3\u9748",
+    "alt": "x\u012bnl\u00edng (\u5fc3\u9748, \u5fc3\u7075)",
+    "answer": "psychical, mind, psyche, soul, spirit, mens, heart",
+    "audio": "top2/412.mp3"
+  },
+  {
+    "key": "\u7372",
+    "alt": "hu\u00f2 (\u7372, \u83b7)",
+    "answer": "harvest, capture, obtain, get, catch, poll, be able to, reap, gather in, win",
+    "audio": "top2/413.mp3"
+  },
+  {
+    "key": "\u65e2\u7136",
+    "alt": "j\u00ecr\u00e1n (\u65e2\u7136, \u65e2\u7136)",
+    "answer": "conj.: since, as, now that",
+    "audio": "top2/414.mp3"
+  },
+  {
+    "key": "\u8a2d",
+    "alt": "sh\u00e8 (\u8a2d, \u8bbe)",
+    "answer": "set up, found",
+    "audio": "top2/415.mp3"
+  },
+  {
+    "key": "\u9867\u5ba2",
+    "alt": "g\u00f9k\u00e8 (\u9867\u5ba2, \u987e\u5ba2)",
+    "answer": "chap, client, shopper, correspondent, constituency, patronage, trade, market, guest, clientele, newspaperman, newspaperwoman, newswriter, pressman, customer agent, customer, business",
+    "audio": "top2/416.mp3"
+  },
+  {
+    "key": "\u5bb6\u4eba",
+    "alt": "ji\u0101r\u00e9n (\u5bb6\u4eba, \u5bb6\u4eba)",
+    "answer": "relation, homefolk, inmate, kindred, household, relative, people, folks, kin, family members, family, kinsfolk, house",
+    "audio": "top2/417.mp3"
+  },
+  {
+    "key": "\u7d44",
+    "alt": "z\u01d4 (\u7d44, \u7ec4)",
+    "answer": "m.[general]",
+    "audio": "top2/418.mp3"
+  },
+  {
+    "key": "\u7d1b\u7d1b",
+    "alt": "f\u0113nf\u0113n (\u7d1b\u7d1b, \u7eb7\u7eb7)",
+    "answer": "in droves, one_after_another, numerous and in great confusion",
+    "audio": "top2/419.mp3"
+  },
+  {
+    "key": "\u63d0\u5347",
+    "alt": "t\u00edsh\u0113ng (\u63d0\u5347, \u63d0\u5347)",
+    "answer": "promote, hoist, elevate",
+    "audio": "top2/420.mp3"
+  },
+  {
+    "key": "\u641e",
+    "alt": "g\u01ceo (\u641e, \u641e)",
+    "answer": "work, set up, work out, organize, cause, etc., produce a certain effect, secure, manage, get hold of, carry, produce, organization, generalized doing: do, start, get, do, be engaged in, generalized doing: work/manage/etc., make, generalized doing: do/work/manage/etc.",
+    "audio": "top2/421.mp3"
+  },
+  {
+    "key": "\u96a8\u6642",
+    "alt": "su\u00edsh\u00ed (\u96a8\u6642, \u968f\u65f6)",
+    "answer": "whenever, whene'er, always, readily, whenever necessary, at all times, as occasion demands, at any time",
+    "audio": "top2/422.mp3"
+  },
+  {
+    "key": "\u8b6c\u5982",
+    "alt": "p\u00ecr\u00fa (\u8b6c\u5982, \u8b6c\u5982)",
+    "answer": "for example, such as",
+    "audio": "top2/423.mp3"
+  },
+  {
+    "key": "\u5b50\u5973",
+    "alt": "z\u01d0n\u01d4 (\u5b50\u5973, \u5b50\u5973)",
+    "answer": "sons and daughters, children",
+    "audio": "top2/424.mp3"
+  },
+  {
+    "key": "\u78ba\u5b9a",
+    "alt": "qu\u00e8d\u00ecng (\u78ba\u5b9a, \u786e\u5b9a)",
+    "answer": "find, determination, make a point, pin down, narrow down, corroborate, prove, jell, settle, express, ensure, clench, assure, confirm, decide firmly, see, certain, define, clinch, nail_down, ascertain, determinate, guarantee, nail down, insure, fix, nail, peg, sustain, state, stipulate, secure, make_sure, seal, make sure, verify, find out, affirm, determine",
+    "audio": "top2/425.mp3"
+  },
+  {
+    "key": "\u516c\u5e73",
+    "alt": "g\u014dngp\u00edng (\u516c\u5e73, \u516c\u5e73)",
+    "answer": "fair, just, impartial",
+    "audio": "top2/426.mp3"
+  },
+  {
+    "key": "\u8996\u70ba",
+    "alt": "sh\u00ecw\u00e9i (\u8996\u70ba, \u89c6\u4e3a)",
+    "answer": "regard_as, deem, count, regard as, consider as, repute, look_on, regard/consider as, look_at, call, regard",
+    "audio": "top2/427.mp3"
+  },
+  {
+    "key": "\u6280\u5de7",
+    "alt": "j\u00ecqi\u01ceo (\u6280\u5de7, \u6280\u5de7)",
+    "answer": "technics, artifice, superior skill, acquisition, acquirement, cunning, trick, dexterity, accomplishment, mechanism, craft, craftsmanship, technique, artistry, handiwork, mastery, handicraft, finesse, attainment, sleight, skill, implement, execution, prowess, ingenuity, art, method, dish, mechanics, knack, cup of tea, management, bag, proficiency, address, facility, virtuosity, workman",
+    "audio": "top2/428.mp3"
+  },
+  {
+    "key": "\u63a5\u8457",
+    "alt": "ji\u0113zhe (\u63a5\u8457, \u63a5\u7740)",
+    "answer": "next, immediately after",
+    "audio": "top2/429.mp3"
+  },
+  {
+    "key": "\u756b",
+    "alt": "hu\u00e0 (\u756b, \u753b)",
+    "answer": "painting, pictures",
+    "audio": "top2/430.mp3"
+  },
+  {
+    "key": "\u9818\u5c0e",
+    "alt": "l\u01d0ngd\u01ceo (\u9818\u5c0e, \u9886\u5bfc)",
+    "answer": "lead, exercise leadership",
+    "audio": "top2/431.mp3"
+  },
+  {
+    "key": "\u5c0f\u5fc3",
+    "alt": "xi\u01ceox\u012bn (\u5c0f\u5fc3, \u5c0f\u5fc3)",
+    "answer": "beware, watch_out, keep one's eyes skinned, keep one's eyes peeled, careful, cautious, be careful, see, watch, guard, ware, cautionary, keep one's eyes open, take care, look_out, look out",
+    "audio": "top2/432.mp3"
+  },
+  {
+    "key": "\u4e3b\u8fa6",
+    "alt": "zh\u01d4b\u00e0n (\u4e3b\u8fa6, \u4e3b\u529e)",
+    "answer": "sponsor, direct, direction, host, give",
+    "audio": "top2/433.mp3"
+  },
+  {
+    "key": "\u63a2\u8a0e",
+    "alt": "t\u00e0nt\u01ceo (\u63a2\u8a0e, \u63a2\u8ba8)",
+    "answer": "inquire into, explore",
+    "audio": "top2/434.mp3"
+  },
+  {
+    "key": "\u8d74",
+    "alt": "f\u00f9 (\u8d74, \u8d74)",
+    "answer": "repair, attendance, go, go to, come, seek, attend, betake",
+    "audio": "top2/435.mp3"
+  },
+  {
+    "key": "\u56de\u53bb",
+    "alt": "hu\u00edq\u00f9 (\u56de\u53bb, \u56de\u53bb)",
+    "answer": "go_home, go_back, retrocede, go back, be back, go, return",
+    "audio": "top2/436.mp3"
+  },
+  {
+    "key": "\u5f1f\u5f1f",
+    "alt": "d\u00ecd\u00ec (\u5f1f\u5f1f, \u5f1f\u5f1f)",
+    "answer": "brother, little brother, younger brother, cadet, little_brother, viscount",
+    "audio": "top2/437.mp3"
+  },
+  {
+    "key": "\u98a8",
+    "alt": "f\u0113ng (\u98a8, \u98ce)",
+    "answer": "wind, common practice, custom, general mood, style, news, information",
+    "audio": "top2/438.mp3"
+  },
+  {
+    "key": "\u5c0f\u5b78",
+    "alt": "xi\u01ceoxu\u00e9 (\u5c0f\u5b78, \u5c0f\u5b66)",
+    "answer": "primary school, elementary school",
+    "audio": "top2/439.mp3"
+  },
+  {
+    "key": "\u8208\u5efa",
+    "alt": "x\u012bngji\u00e0n (\u8208\u5efa, \u5174\u5efa)",
+    "answer": "build, construct",
+    "audio": "top2/440.mp3"
+  },
+  {
+    "key": "\u72c0\u614b",
+    "alt": "zhu\u00e0ngt\u00e0i (\u72c0\u614b, \u72b6\u6001)",
+    "answer": "repair, form, lie, state of affairs , state of affairs, fix, status, going, plight, phase, condition, state, trimness, attitude, trim, shape, situation, posture, position, fettle, mode, predicament",
+    "audio": "top2/441.mp3"
+  },
+  {
+    "key": "\u652f\u63f4",
+    "alt": "zh\u012byu\u00e1n (\u652f\u63f4, \u652f\u63f4)",
+    "answer": "backstop, support, side, help, patronize, root, stand by, bear, angel, hold out, back, see through, assist, assistance, sustain, back up",
+    "audio": "top2/442.mp3"
+  },
+  {
+    "key": "\u9084\u662f",
+    "alt": "h\u00e1ish\u00ec (\u9084\u662f, \u8fd8\u662f)",
+    "answer": "conj.: or",
+    "audio": "top2/443.mp3"
+  },
+  {
+    "key": "\u6cbb\u7642",
+    "alt": "zh\u00ecli\u00e1o (\u6cbb\u7642, \u6cbb\u7597)",
+    "answer": "treatment, cure",
+    "audio": "top2/444.mp3"
+  },
+  {
+    "key": "\u8863\u670d",
+    "alt": "y\u012bf\u00fa (\u8863\u670d, \u8863\u670d)",
+    "answer": "clothes, wearing apparel, toggery, gear, tog, wear, bib and tucker, drapery, thing, dress, duds, vestment, wardrobe, clout, apparel, clothing, dud, wrapping, vesture, clobber, habit, robe, togs, livery, habilimentation, array, hull, garb, attire, attirement, stitch, rig, garment, raiment, wearable, dressing",
+    "audio": "top2/445.mp3"
+  },
+  {
+    "key": "\u540d\u5b57",
+    "alt": "m\u00edngzi (\u540d\u5b57, \u540d\u5b57)",
+    "answer": "first_name, forename, moniker, monaker, first name, monicker, cognomen, given name, name, patronymic, appellation",
+    "audio": "top2/446.mp3"
+  },
+  {
+    "key": "\u53c3\u8003",
+    "alt": "c\u0101nk\u01ceo (\u53c3\u8003, \u53c2\u8003)",
+    "answer": "consult, refer to",
+    "audio": "top2/447.mp3"
+  },
+  {
+    "key": "\u5973\u5b69",
+    "alt": "n\u01d4h\u00e1i (\u5973\u5b69, \u5973\u5b69)",
+    "answer": "babe, damosel, quiff, number, young lady, damoiselle, gal, little girl, missy, young woman, demoiselle, damsel, fille, baby, girl, miss, petticoat, child, female child, mouse, she, colleen, daughter, damozel, moppet",
+    "audio": "top2/448.mp3"
+  },
+  {
+    "key": "\u7537\u6027",
+    "alt": "n\u00e1nx\u00ecng (\u7537\u6027, \u7537\u6027)",
+    "answer": "brother, male, him, man, male sex, adult male, mankind, masculine, mother's son, masculinity",
+    "audio": "top2/449.mp3"
+  },
+  {
+    "key": "\u6559\u5ba4",
+    "alt": "ji\u00e0osh\u00ec (\u6559\u5ba4, \u6559\u5ba4)",
+    "answer": "classroom, schoolroom",
+    "audio": "top2/450.mp3"
+  },
+  {
+    "key": "\u592a\u967d",
+    "alt": "t\u00e0iy\u00e1ng (\u592a\u967d, \u592a\u9633)",
+    "answer": "Apollo, luminary, daystar, digit, sunlight, solar, sunshine, Phoebus, lamp, sun, Sol, fireball",
+    "audio": "top2/451.mp3"
+  },
+  {
+    "key": "\u5728",
+    "alt": "z\u00e0i (\u5728, \u5728)",
+    "answer": "be at/in/on",
+    "audio": "top2/452.mp3"
+  },
+  {
+    "key": "\u53e3",
+    "alt": "k\u01d2u (\u53e3, \u53e3)",
+    "answer": "m.[general]",
+    "audio": "top2/453.mp3"
+  },
+  {
+    "key": "\u9673",
+    "alt": "ch\u00e9n (\u9673, \u9648)",
+    "answer": "Surname",
+    "audio": "top2/454.mp3"
+  },
+  {
+    "key": "\u7a31\u70ba",
+    "alt": "ch\u0113ngw\u00e9i (\u7a31\u70ba, \u79f0\u4e3a)",
+    "answer": "call as",
+    "audio": "top2/455.mp3"
+  },
+  {
+    "key": "\u570b\u6c11",
+    "alt": "gu\u00f3m\u00edn (\u570b\u6c11, \u56fd\u6c11)",
+    "answer": "citizen, country, citizenry, a people, nationality, nation, folk, subject, people, nationals, national, commonwealth, son, land",
+    "audio": "top2/456.mp3"
+  },
+  {
+    "key": "\u7814\u8a0e\u6703",
+    "alt": "y\u00e1nt\u01ceohu\u00ec (\u7814\u8a0e\u6703, \u7814\u8ba8\u4f1a)",
+    "answer": "workshop, seminar, symposium",
+    "audio": "top2/457.mp3"
+  },
+  {
+    "key": "\u98db\u6a5f",
+    "alt": "f\u0113ij\u012b (\u98db\u6a5f, \u98de\u673a)",
+    "answer": "aerocraft, airplane, machine, craft, aeroplane, ship, aero, avion, aeronef, plane, aircraft",
+    "audio": "top2/458.mp3"
+  },
+  {
+    "key": "\u5efa\u7bc9\u5e2b",
+    "alt": "ji\u00e0nzh\u00fash\u012b (\u5efa\u7bc9\u5e2b, \u5efa\u7b51\u5e08)",
+    "answer": "surveyor, architect",
+    "audio": "top2/459.mp3"
+  },
+  {
+    "key": "\u738b",
+    "alt": "w\u00e1ng (\u738b, \u738b)",
+    "answer": "Rex, ameer, king, prince, emeer, monarch, shah, emir, amir, Surname, sovereign, Wang",
+    "audio": "top2/460.mp3"
+  },
+  {
+    "key": "\u7a76\u7adf",
+    "alt": "ji\u00f9j\u00ecng (\u7a76\u7adf, \u7a76\u7adf)",
+    "answer": "actually, exactly, after all, in the end",
+    "audio": "top2/461.mp3"
+  },
+  {
+    "key": "\u78ba\u5be6",
+    "alt": "qu\u00e8sh\u00ed (\u78ba\u5be6, \u786e\u5b9e)",
+    "answer": "really, certainly, truly, indeed",
+    "audio": "top2/462.mp3"
+  },
+  {
+    "key": "\u516c\u8def",
+    "alt": "g\u014dngl\u00f9 (\u516c\u8def, \u516c\u8def)",
+    "answer": "trunk road, calzada, route, main road, highroad, highway, road, thoroughfare, causeway, chaussee",
+    "audio": "top2/463.mp3"
+  },
+  {
+    "key": "\u81f3\u4eca",
+    "alt": "zh\u00ecj\u012bn (\u81f3\u4eca, \u81f3\u4eca)",
+    "answer": "thus_far, up_to_now, until_now, so far, to this day, up to now, to date, hitherto, erenow",
+    "audio": "top2/464.mp3"
+  },
+  {
+    "key": "\u5929\u4e0b",
+    "alt": "ti\u0101nxi\u00e0 (\u5929\u4e0b, \u5929\u4e0b)",
+    "answer": "rule, world, China, domination, everywhere under heaven",
+    "audio": "top2/465.mp3"
+  },
+  {
+    "key": "\u8003\u91cf",
+    "alt": "k\u01ceoli\u00e1ng (\u8003\u91cf, \u8003\u91cf)",
+    "answer": "consider, think",
+    "audio": "top2/466.mp3"
+  },
+  {
+    "key": "\u7ba1",
+    "alt": "gu\u01cen (\u7ba1, \u7ba1)",
+    "answer": "run, manage, administer, have charge of, subject to discipline, bother about",
+    "audio": "top2/467.mp3"
+  },
+  {
+    "key": "\u5c11\u6578",
+    "alt": "sh\u01ceosh\u00f9 (\u5c11\u6578, \u5c11\u6570)",
+    "answer": "det.: a few",
+    "audio": "top2/468.mp3"
+  },
+  {
+    "key": "\u5224\u65b7",
+    "alt": "p\u00e0ndu\u00e0n (\u5224\u65b7, \u5224\u65ad)",
+    "answer": "judge, determine",
+    "audio": "top2/469.mp3"
+  },
+  {
+    "key": "\u5feb",
+    "alt": "ku\u00e0i (\u5feb, \u5feb)",
+    "answer": "soon, quickly",
+    "audio": "top2/470.mp3"
+  },
+  {
+    "key": "\u626e\u6f14",
+    "alt": "b\u00e0ny\u01cen (\u626e\u6f14, \u626e\u6f14)",
+    "answer": "play part of, play part of",
+    "audio": "top2/471.mp3"
+  },
+  {
+    "key": "\u76f8\u5c0d",
+    "alt": "xi\u0101ngdu\u00ec (\u76f8\u5c0d, \u76f8\u5bf9)",
+    "answer": "be opposite, be face to face",
+    "audio": "top2/472.mp3"
+  },
+  {
+    "key": "\u6821\u65b9",
+    "alt": "xi\u00e0of\u0101ng (\u6821\u65b9, \u6821\u65b9)",
+    "answer": "school authorities",
+    "audio": "top2/473.mp3"
+  },
+  {
+    "key": "\u65e9\u5df2",
+    "alt": "z\u01ceoy\u01d0 (\u65e9\u5df2, \u65e9\u5df2)",
+    "answer": "already, since, long ago, long ago/since, long since",
+    "audio": "top2/474.mp3"
+  },
+  {
+    "key": "\u8b80\u8005",
+    "alt": "d\u00fazh\u011b (\u8b80\u8005, \u8bfb\u8005)",
+    "answer": "audience, subscriber, reader",
+    "audio": "top2/475.mp3"
+  },
+  {
+    "key": "\u5927\u6703",
+    "alt": "d\u00e0hu\u00ec (\u5927\u6703, \u5927\u4f1a)",
+    "answer": "synod, moot, conference, plenary meeting, congress, rally, plenum, mass meeting, plenary session",
+    "audio": "top2/476.mp3"
+  },
+  {
+    "key": "\u5de5\u4eba",
+    "alt": "g\u014dngr\u00e9n (\u5de5\u4eba, \u5de5\u4eba)",
+    "answer": "navvy, hired man, operative, working person, laborer, shopworker, esne, working man, hired hand, worker, workpeople, workman, hand",
+    "audio": "top2/477.mp3"
+  },
+  {
+    "key": "\u6578\u91cf",
+    "alt": "sh\u00f9li\u00e0ng (\u6578\u91cf, \u6570\u91cf)",
+    "answer": "magnitude, scalar, aggregate, deal, measure, numerical quantity, measurement, sum, worth, amount, quantity, number",
+    "audio": "top2/478.mp3"
+  },
+  {
+    "key": "\u6750\u6599",
+    "alt": "c\u00e1ili\u00e0o (\u6750\u6599, \u6750\u6599)",
+    "answer": "making, aggregate, stuff, ingredients, food, ingredient, data, fodder, material, datum, stock, makings, data point, timber",
+    "audio": "top2/479.mp3"
+  },
+  {
+    "key": "\u5efa\u8b70",
+    "alt": "ji\u00e0ny\u00ec (\u5efa\u8b70, \u5efa\u8bae)",
+    "answer": "proposal, suggestion",
+    "audio": "top2/480.mp3"
+  },
+  {
+    "key": "\u7279\u5fb5",
+    "alt": "t\u00e8zh\u0113ng (\u7279\u5fb5, \u7279\u5f81)",
+    "answer": "impress, trait, hallmark, cachet, stamp, characteristic, speciality, cast, feature, characteristic marks, features, artistic style, touch, trademark, earmark, particularity, nature, genius, imprint, lineament, mold, shtick, distinction, specificity, physiognomy, idiom, signature, character, salience, diagnosis, syndrome, stigma, stylemark, signalment",
+    "audio": "top2/481.mp3"
+  },
+  {
+    "key": "\u6bba",
+    "alt": "sh\u0101 (\u6bba, \u6740)",
+    "answer": "abatement, fight at close quarters, killing, go into battle, burn, reduction, slaughter, burn of medicine , fight, smite, abate, massacre, diddle, reduce, weaken, liquidate, smash, kill, slay, smart",
+    "audio": "top2/482.mp3"
+  },
+  {
+    "key": "\u7b97\u662f",
+    "alt": "su\u00e0nsh\u00ec (\u7b97\u662f, \u7b97\u662f)",
+    "answer": "regard_as, considered to be",
+    "audio": "top2/483.mp3"
+  },
+  {
+    "key": "\u9769\u547d",
+    "alt": "g\u00e9m\u00ecng (\u9769\u547d, \u9769\u547d)",
+    "answer": "revolt",
+    "audio": "top2/484.mp3"
+  },
+  {
+    "key": "\u570b\u4eba",
+    "alt": "gu\u00f3r\u00e9n (\u570b\u4eba, \u56fd\u4eba)",
+    "answer": "landsman, fellow countrymen, countryman, countrymen, compatriots",
+    "audio": "top2/485.mp3"
+  },
+  {
+    "key": "\u9b5a",
+    "alt": "y\u016b (\u9b5a, \u9c7c)",
+    "answer": "paella, variegated carp, gudgeon, bighead, Yu, Surname, Argonaut, salmon, fish, catfish",
+    "audio": "top2/486.mp3"
+  },
+  {
+    "key": "\u64cd\u4f5c",
+    "alt": "c\u0101ozu\u00f2 (\u64cd\u4f5c, \u64cd\u4f5c)",
+    "answer": "operate, manipulate",
+    "audio": "top2/487.mp3"
+  },
+  {
+    "key": "\u7d71\u8a08",
+    "alt": "t\u01d2ngj\u00ec (\u7d71\u8a08, \u7edf\u8ba1)",
+    "answer": "statistics",
+    "audio": "top2/488.mp3"
+  },
+  {
+    "key": "\u5fb7\u570b",
+    "alt": "d\u00e9gu\u00f3 (\u5fb7\u570b, \u5fb7\u56fd)",
+    "answer": "Deutschland, autobahn, FRG, Germany, German, Reich, Federal Republic of Germany",
+    "audio": "top2/489.mp3"
+  },
+  {
+    "key": "\u986f\u7136",
+    "alt": "xi\u01cenr\u00e1n (\u986f\u7136, \u663e\u7136)",
+    "answer": "evidently, manifestly, clear, visibly, plainly, plain, distinctly, clearly, patently, apparently, obviously",
+    "audio": "top2/490.mp3"
+  },
+  {
+    "key": "\u4fe1\u5fc3",
+    "alt": "x\u00ecnx\u012bn (\u4fe1\u5fc3, \u4fe1\u5fc3)",
+    "answer": "trustfulness, trustingness, confidence, belief, affiance, religion, feeling, fay, trust, positiveness, notion, reliance, religious belief, faith, hope, impression",
+    "audio": "top2/491.mp3"
+  },
+  {
+    "key": "\u653e\u68c4",
+    "alt": "f\u00e0ngq\u00ec (\u653e\u68c4, \u653e\u5f03)",
+    "answer": "depart, chuck up the sponge, scuttle, dispense with, throw in the towel, abort, throw in, flunk, foreswear, abnegate, pass, free, lay_down, abandonment, disclaim, part_with, pass_up, abdicate, release, ditch, abjure, jettison, waive, surrender, leave, give, recant, desert, give up, divest, yield, forswear, break, abandon, unguard, back_down, yield up, demit, relinquish, break_with, drop",
+    "audio": "top2/492.mp3"
+  },
+  {
+    "key": "\u61c2",
+    "alt": "d\u01d2ng (\u61c2, \u61c2)",
+    "answer": "have, comprehend, understanding, understand, compass, grasp, get the picture, glom, know, apprehend, twig, savvy, follow, make out, dig",
+    "audio": "top2/493.mp3"
+  },
+  {
+    "key": "\u751f\u6d3b",
+    "alt": "sh\u0113nghu\u00f3 (\u751f\u6d3b, \u751f\u6d3b)",
+    "answer": "live",
+    "audio": "top2/494.mp3"
+  },
+  {
+    "key": "\u5206\u6790",
+    "alt": "f\u0113nx\u012b (\u5206\u6790, \u5206\u6790)",
+    "answer": "analysis",
+    "audio": "top2/495.mp3"
+  },
+  {
+    "key": "\u5fd9",
+    "alt": "m\u00e1ng (\u5fd9, \u5fd9)",
+    "answer": "hurry, hasten",
+    "audio": "top2/496.mp3"
+  },
+  {
+    "key": "\u5efa",
+    "alt": "ji\u00e0n (\u5efa, \u5efa)",
+    "answer": "establishment, erection, build, proposal, propose, set up, establish, found, advocate, erect, construction, construct",
+    "audio": "top2/497.mp3"
+  },
+  {
+    "key": "\u4e00\u751f",
+    "alt": "y\u012bsh\u0113ng (\u4e00\u751f, \u4e00\u751f)",
+    "answer": "lifetime, all, existence, life, throughout one's life, all one's life, career, all/throughout one's life",
+    "audio": "top2/498.mp3"
+  },
+  {
+    "key": "\u9ed1",
+    "alt": "h\u0113i (\u9ed1, \u9ed1)",
+    "answer": "black, dark, wicked, sinister, vicious, be greedy, extort",
+    "audio": "top2/499.mp3"
+  },
+  {
+    "key": "\u5c0f\u8aaa",
+    "alt": "xi\u01ceoshu\u014d (\u5c0f\u8aaa, \u5c0f\u8bf4)",
+    "answer": "novel, offprint, fiction",
+    "audio": "top2/500.mp3"
+  },
+  {
+    "key": "\u4e3b\u5e2d",
+    "alt": "zh\u01d4x\u00ed (\u4e3b\u5e2d, \u4e3b\u5e2d)",
+    "answer": "chairwoman, presiding officer, president of organization, chair, chair of meeting",
+    "audio": "top2/501.mp3"
+  },
+  {
+    "key": "\u653f\u5927",
+    "alt": "zh\u00e8ngd\u00e0 (\u653f\u5927, \u653f\u5927)",
+    "answer": "National Chengchi University",
+    "audio": "top2/502.mp3"
+  },
+  {
+    "key": "\u96c6\u5718",
+    "alt": "j\u00edtu\u00e1n (\u96c6\u5718, \u96c6\u56e2)",
+    "answer": "population, aggregate, circle, clique, grouping, bloc, phalanx, group, knot, aggregation",
+    "audio": "top2/503.mp3"
+  },
+  {
+    "key": "\u5831\u540d",
+    "alt": "b\u00e0om\u00edng (\u5831\u540d, \u62a5\u540d)",
+    "answer": "register, inscribe, enter, enroll, enrol, enter one's name, sign up, recruit",
+    "audio": "top2/504.mp3"
+  },
+  {
+    "key": "\u8457\u540d",
+    "alt": "zh\u00f9m\u00edng (\u8457\u540d, \u7740\u540d)",
+    "answer": "famous, celebrated",
+    "audio": "top2/505.mp3"
+  },
+  {
+    "key": "\u9053\u5fb7",
+    "alt": "d\u00e0od\u00e9 (\u9053\u5fb7, \u9053\u5fb7)",
+    "answer": "value orientation, value system, moral, code, moral principle, morals, morale, ethical motive, ethic, virtue, morality_play, morality, ethics, virtuousness, moral excellence",
+    "audio": "top2/506.mp3"
+  },
+  {
+    "key": "\u54ea\u88e1",
+    "alt": "n\u01cel\u01d0 (\u54ea\u88e1, \u54ea\u91cc)",
+    "answer": "where",
+    "audio": "top2/507.mp3"
+  },
+  {
+    "key": "\u6d88\u5931",
+    "alt": "xi\u0101osh\u012b (\u6d88\u5931, \u6d88\u5931)",
+    "answer": "disappear, vanish, dissolve",
+    "audio": "top2/508.mp3"
+  },
+  {
+    "key": "\u7d93\u7531",
+    "alt": "j\u012bngy\u00f3u (\u7d93\u7531, \u7ecf\u7531)",
+    "answer": "via, by way of",
+    "audio": "top2/509.mp3"
+  },
+  {
+    "key": "\u524d\u9762",
+    "alt": "qi\u00e1nmi\u00e0n (\u524d\u9762, \u524d\u9762)",
+    "answer": "front end, face, forepart, front, in front, ahead, preceding, above, fore, forgoing, frontage, obverse",
+    "audio": "top2/510.mp3"
+  },
+  {
+    "key": "\u9047\u5230",
+    "alt": "y\u016bd\u00e0o (\u9047\u5230, \u9047\u5230)",
+    "answer": "come across, run_into, receive, meet with, encounter, run into, meet, befall",
+    "audio": "top2/511.mp3"
+  },
+  {
+    "key": "\u63d0",
+    "alt": "t\u00ed (\u63d0, \u63d0)",
+    "answer": "mention, refer to, promote, bring up",
+    "audio": "top2/512.mp3"
+  },
+  {
+    "key": "\u5fc3\u614b",
+    "alt": "x\u012bnt\u00e0i (\u5fc3\u614b, \u5fc3\u6001)",
+    "answer": "state_of_mind, state of mind, psychology",
+    "audio": "top2/513.mp3"
+  },
+  {
+    "key": "\u96c6\u4e2d",
+    "alt": "j\u00edzh\u014dng (\u96c6\u4e2d, \u96c6\u4e2d)",
+    "answer": "concentrate, centralize, focus, put together",
+    "audio": "top2/514.mp3"
+  },
+  {
+    "key": "\u5efa\u7bc9\u7269",
+    "alt": "ji\u00e0nzh\u00faw\u00f9 (\u5efa\u7bc9\u7269, \u5efa\u7b51\u7269)",
+    "answer": "foundation, shebang, erection, superstructure, buildup, architecture, construct, construction, edifice, building, structure, place, tenement, property, house, fabric",
+    "audio": "top2/515.mp3"
+  },
+  {
+    "key": "\u756b\u9762",
+    "alt": "hu\u00e0mi\u00e0n (\u756b\u9762, \u753b\u9762)",
+    "answer": "frame, tableau, picture plane, picture, general appearance of a picture, picture_plane, appearance, TV screen, video",
+    "audio": "top2/516.mp3"
+  },
+  {
+    "key": "\u5b9a",
+    "alt": "d\u00ecng (\u5b9a, \u5b9a)",
+    "answer": "decide",
+    "audio": "top2/517.mp3"
+  },
+  {
+    "key": "\u751a",
+    "alt": "sh\u00e8n (\u751a, \u751a)",
+    "answer": "muchly, extremely, very, bally, assai, more, what, more than , molto, greatly",
+    "audio": "top2/518.mp3"
+  },
+  {
+    "key": "\u53ef\u60dc",
+    "alt": "k\u011bx\u00ed (\u53ef\u60dc, \u53ef\u60dc)",
+    "answer": "it's a pity, unfortunately, it's too bad",
+    "audio": "top2/519.mp3"
+  },
+  {
+    "key": "\u628a",
+    "alt": "b\u01ce (\u628a, \u628a)",
+    "answer": "m.[general]",
+    "audio": "top2/520.mp3"
+  },
+  {
+    "key": "\u91ab\u5b78",
+    "alt": "y\u012bxu\u00e9 (\u91ab\u5b78, \u533b\u5b66)",
+    "answer": "medicine, practice of medicine, medical science, leechcraft, physic, iatrology, medical",
+    "audio": "top2/521.mp3"
+  },
+  {
+    "key": "\u8f38\u5165",
+    "alt": "sh\u016br\u00f9 (\u8f38\u5165, \u8f93\u5165)",
+    "answer": "import, input",
+    "audio": "top2/522.mp3"
+  },
+  {
+    "key": "\u767e",
+    "alt": "b\u01cei (\u767e, \u767e)",
+    "answer": "cent, centum, century, hundred, det.: hundred",
+    "audio": "top2/523.mp3"
+  },
+  {
+    "key": "\u578b\u614b",
+    "alt": "x\u00edngt\u00e0i (\u578b\u614b, \u578b\u6001)",
+    "answer": "format",
+    "audio": "top2/524.mp3"
+  },
+  {
+    "key": "\u9053\u7406",
+    "alt": "d\u00e0ol\u01d0 (\u9053\u7406, \u9053\u7406)",
+    "answer": "thread, principle, the right way, theory, reason, argument, sense, order, truth, rationality",
+    "audio": "top2/525.mp3"
+  },
+  {
+    "key": "\u6108\u4f86\u6108",
+    "alt": "y\u016bl\u00e1iy\u016b (\u6108\u4f86\u6108, \u6108\u6765\u6108)",
+    "answer": "even more, more_and_more, more and more",
+    "audio": "top2/526.mp3"
+  },
+  {
+    "key": "\u8272\u5f69",
+    "alt": "s\u00e8c\u01cei (\u8272\u5f69, \u8272\u5f69)",
+    "answer": "hue, tincture, palette, tint, blazonry, leavening, tinct, grain, color, shade",
+    "audio": "top2/527.mp3"
+  },
+  {
+    "key": "\u6b4c",
+    "alt": "g\u0113 (\u6b4c, \u6b4c)",
+    "answer": "song",
+    "audio": "top2/528.mp3"
+  },
+  {
+    "key": "\u73fe\u5be6",
+    "alt": "xi\u00e0nsh\u00ed (\u73fe\u5be6, \u73b0\u5b9e)",
+    "answer": "reality, actuality",
+    "audio": "top2/529.mp3"
+  },
+  {
+    "key": "\u5a5a\u59fb",
+    "alt": "h\u016bny\u012bn (\u5a5a\u59fb, \u5a5a\u59fb)",
+    "answer": "connubiality, wedlock, marital, union, marriage, married couple, matrimonial, match, man and wife, matrimony",
+    "audio": "top2/530.mp3"
+  },
+  {
+    "key": "\u5730\u7403",
+    "alt": "d\u00ecqi\u00fa (\u5730\u7403, \u5730\u7403)",
+    "answer": "the earth/globe, globe, world, Earth, ball, terrene, earth, the globe, the earth",
+    "audio": "top2/531.mp3"
+  },
+  {
+    "key": "\u6307\u5c0e",
+    "alt": "zh\u01d0d\u01ceo (\u6307\u5c0e, \u6307\u5bfc)",
+    "answer": "guide, direct",
+    "audio": "top2/532.mp3"
+  },
+  {
+    "key": "\u67b6\u69cb",
+    "alt": "ji\u00e0g\u00f2u (\u67b6\u69cb, \u67b6\u6784)",
+    "answer": "construction, framework",
+    "audio": "top2/533.mp3"
+  },
+  {
+    "key": "\u9032\u53e3",
+    "alt": "j\u00ecnk\u01d2u (\u9032\u53e3, \u8fdb\u53e3)",
+    "answer": "import",
+    "audio": "top2/534.mp3"
+  },
+  {
+    "key": "\u8ad6\u6587",
+    "alt": "l\u00f9nw\u00e9n (\u8ad6\u6587, \u8bba\u6587)",
+    "answer": "disquisition, memoir, paper, discourse, theme, treatise, thesis, article, tractate, dissertation",
+    "audio": "top2/535.mp3"
+  },
+  {
+    "key": "\u51fa\u570b",
+    "alt": "ch\u016bgu\u00f3 (\u51fa\u570b, \u51fa\u56fd)",
+    "answer": "go abroad from one's own country",
+    "audio": "top2/536.mp3"
+  },
+  {
+    "key": "\u5546\u54c1",
+    "alt": "sh\u0101ngp\u01d0n (\u5546\u54c1, \u5546\u54c1)",
+    "answer": "article, product, merchandise, commodity, wares, ware, goods",
+    "audio": "top2/537.mp3"
+  },
+  {
+    "key": "\u5e02\u9577",
+    "alt": "sh\u00eczh\u01ceng (\u5e02\u9577, \u5e02\u957f)",
+    "answer": "alcalde, city manager, mayor, portreeve, mayoral, civic leader, provost, civil leader, burgomaster",
+    "audio": "top2/538.mp3"
+  },
+  {
+    "key": "\u5206\u70ba",
+    "alt": "f\u0113nw\u00e9i (\u5206\u70ba, \u5206\u4e3a)",
+    "answer": "divide ... into, fall_into, divide into",
+    "audio": "top2/539.mp3"
+  },
+  {
+    "key": "\u5922",
+    "alt": "m\u00e8ng (\u5922, \u68a6)",
+    "answer": "dream",
+    "audio": "top2/540.mp3"
+  },
+  {
+    "key": "\u4ee5\u524d",
+    "alt": "y\u01d0qi\u00e1n (\u4ee5\u524d, \u4ee5\u524d)",
+    "answer": "langsyne, ago, in the past, formerly, prevenient, before, previously",
+    "audio": "top2/541.mp3"
+  },
+  {
+    "key": "\u6050\u6015",
+    "alt": "k\u01d2ngp\u00e0 (\u6050\u6015, \u6050\u6015)",
+    "answer": "perhaps",
+    "audio": "top2/542.mp3"
+  },
+  {
+    "key": "\u6b7b\u4ea1",
+    "alt": "s\u01d0w\u00e1ng (\u6b7b\u4ea1, \u6b7b\u4ea1)",
+    "answer": "be dead/doomed",
+    "audio": "top2/543.mp3"
+  },
+  {
+    "key": "\u54e5\u54e5",
+    "alt": "g\u0113g\u0113 (\u54e5\u54e5, \u54e5\u54e5)",
+    "answer": "big brother, elder brother, big_brother",
+    "audio": "top2/544.mp3"
+  },
+  {
+    "key": "\u6a94\u6848",
+    "alt": "d\u01ceng\u00e0n (\u6a94\u6848, \u6863\u6848)",
+    "answer": "data file, documentation, record, archive, archives, file, dossier",
+    "audio": "top2/545.mp3"
+  },
+  {
+    "key": "\u6eff\u610f",
+    "alt": "m\u01ceny\u00ec (\u6eff\u610f, \u6ee1\u610f)",
+    "answer": "satisfy, well pleasing, pleased, satisfied",
+    "audio": "top2/546.mp3"
+  },
+  {
+    "key": "\u6eff",
+    "alt": "m\u01cen (\u6eff, \u6ee1)",
+    "answer": "det.: entirely,  wholly",
+    "audio": "top2/547.mp3"
+  },
+  {
+    "key": "\u53ef\u611b",
+    "alt": "k\u011b\u00e0i (\u53ef\u611b, \u53ef\u7231)",
+    "answer": "lovable, likeable, lovely",
+    "audio": "top2/548.mp3"
+  },
+  {
+    "key": "\u4e0a\u6d77",
+    "alt": "sh\u00e0ngh\u01cei (\u4e0a\u6d77, \u4e0a\u6d77)",
+    "answer": "Shanghai",
+    "audio": "top2/549.mp3"
+  },
+  {
+    "key": "\u4f11\u9592",
+    "alt": "xi\u016bxi\u00e1n (\u4f11\u9592, \u4f11\u9592)",
+    "answer": "lie fallow",
+    "audio": "top2/550.mp3"
+  },
+  {
+    "key": "\u6709\u8da3",
+    "alt": "y\u01d2uq\u00f9 (\u6709\u8da3, \u6709\u8da3)",
+    "answer": "merry, fascinating, interesting, fun, amusive, comic, amusing",
+    "audio": "top2/551.mp3"
+  },
+  {
+    "key": "\u8077\u696d",
+    "alt": "zh\u00edy\u00e8 (\u8077\u696d, \u804c\u4e1a)",
+    "answer": "metier, vocation, iceman, mystery, engagement, work, walk of life, employment, job, occupational group, ploy, craft, trade, avocation, employ, racket, pursuit, profession, situation, line, occupation, position, calling, walk_of_life, career, billet, duty, living, shop",
+    "audio": "top2/552.mp3"
+  },
+  {
+    "key": "\u8aaa\u6cd5",
+    "alt": "shu\u014df\u01ce (\u8aaa\u6cd5, \u8bf4\u6cd5)",
+    "answer": "way of saying sth., wording, formulation, statement, version, argument",
+    "audio": "top2/553.mp3"
+  },
+  {
+    "key": "\u82f1\u6587",
+    "alt": "y\u012bngw\u00e9n (\u82f1\u6587, \u82f1\u6587)",
+    "answer": "English, English language , English language, English_language",
+    "audio": "top2/554.mp3"
+  },
+  {
+    "key": "\u7dca\u5f35",
+    "alt": "j\u01d0nzh\u0101ng (\u7dca\u5f35, \u7d27\u5f20)",
+    "answer": "be nervous",
+    "audio": "top2/555.mp3"
+  },
+  {
+    "key": "\u9810\u8a08",
+    "alt": "y\u016bj\u00ec (\u9810\u8a08, \u9884\u8ba1)",
+    "answer": "estimate, view, predict, expect, calculate in advance, anticipate",
+    "audio": "top2/556.mp3"
+  },
+  {
+    "key": "\u5144\u5f1f",
+    "alt": "xi\u014dngd\u00ec (\u5144\u5f1f, \u5144\u5f1f)",
+    "answer": "brothers",
+    "audio": "top2/557.mp3"
+  },
+  {
+    "key": "\u9ad4\u7cfb",
+    "alt": "t\u01d0x\u00ec (\u9ad4\u7cfb, \u4f53\u7cfb)",
+    "answer": "scheme, setup, system of rules, system, superstructure, cosmos, schema",
+    "audio": "top2/558.mp3"
+  },
+  {
+    "key": "\u5c08\u6848",
+    "alt": "zhu\u0101n\u00e0n (\u5c08\u6848, \u4e13\u6848)",
+    "answer": "case, special case for investigation",
+    "audio": "top2/559.mp3"
+  },
+  {
+    "key": "\u5b54\u5b50",
+    "alt": "k\u01d2ngz\u01d0 (\u5b54\u5b50, \u5b54\u5b50)",
+    "answer": "Confucius",
+    "audio": "top2/560.mp3"
+  },
+  {
+    "key": "\u5831\u5c0e",
+    "alt": "b\u00e0od\u01ceo (\u5831\u5c0e, \u62a5\u5bfc)",
+    "answer": "report",
+    "audio": "top2/561.mp3"
+  },
+  {
+    "key": "\u4e00\u534a",
+    "alt": "y\u00edb\u00e0n (\u4e00\u534a, \u4e00\u534a)",
+    "answer": "det.: one half,  in part,  half",
+    "audio": "top2/562.mp3"
+  },
+  {
+    "key": "\u75be\u75c5",
+    "alt": "j\u00edb\u00ecng (\u75be\u75c5, \u75be\u75c5)",
+    "answer": "trouble, attack, evil, ailment, affection, misery, malfunction, complaint, infirmity, disease, ill, illness, malady, decline, sickness, condition",
+    "audio": "top2/563.mp3"
+  },
+  {
+    "key": "\u5176\u5b83",
+    "alt": "q\u00edt\u0101 (\u5176\u5b83, \u5176\u5b83)",
+    "answer": "det.: others, the rest, other, else",
+    "audio": "top2/564.mp3"
+  },
+  {
+    "key": "\u5916\u570b",
+    "alt": "w\u00e0igu\u00f3 (\u5916\u570b, \u5916\u56fd)",
+    "answer": "foreign, foreign country, outland, outremer",
+    "audio": "top2/565.mp3"
+  },
+  {
+    "key": "\u7260\u5011",
+    "alt": "t\u0101men (\u7260\u5011, \u7260\u4eec)",
+    "answer": "they animal",
+    "audio": "top2/566.mp3"
+  },
+  {
+    "key": "\u5831\u7d19",
+    "alt": "b\u00e0ozh\u01d0 (\u5831\u7d19, \u62a5\u7eb8)",
+    "answer": "paper, headliner, newspaper publisher, tabloid, copyreader, newspaper, rag, courant, newsprint, sheet, gazette, dailies",
+    "audio": "top2/567.mp3"
+  },
+  {
+    "key": "\u72d7",
+    "alt": "g\u01d2u (\u72d7, \u72d7)",
+    "answer": "dog",
+    "audio": "top2/568.mp3"
+  },
+  {
+    "key": "\u5354\u8abf",
+    "alt": "xi\u00e9ti\u00e1o (\u5354\u8abf, \u534f\u8c03)",
+    "answer": "coordinate, harmonize, bring into line",
+    "audio": "top2/569.mp3"
+  },
+  {
+    "key": "\u5ff5",
+    "alt": "ni\u00e0n (\u5ff5, \u5ff5)",
+    "answer": "study, read, attend school, think_of, read aloud, think of, miss",
+    "audio": "top2/570.mp3"
+  },
+  {
+    "key": "\u54f2\u5b78",
+    "alt": "zh\u00e9xu\u00e9 (\u54f2\u5b78, \u54f2\u5b66)",
+    "answer": "ism, philosophic, philosophical, philosophy, school of thought, doctrine",
+    "audio": "top2/571.mp3"
+  },
+  {
+    "key": "\u78b0\u5230",
+    "alt": "p\u00e8ngd\u00e0o (\u78b0\u5230, \u78b0\u5230)",
+    "answer": "come across, run_into, encounter, come_across, run into, touch, run_across, meet",
+    "audio": "top2/572.mp3"
+  },
+  {
+    "key": "\u63d0\u6607",
+    "alt": "t\u00edsh\u0113ng (\u63d0\u6607, \u63d0\u6607)",
+    "answer": "promote, hoist, elevate",
+    "audio": "top2/573.mp3"
+  },
+  {
+    "key": "\u95dc\u65bc",
+    "alt": "gu\u0101ny\u00fa (\u95dc\u65bc, \u5173\u4e8e)",
+    "answer": "about, with regard to, concerning",
+    "audio": "top2/574.mp3"
+  },
+  {
+    "key": "\u540c\u4ec1",
+    "alt": "t\u00f3ngr\u00e9n (\u540c\u4ec1, \u540c\u4ec1)",
+    "answer": "fraternity, fellow worker, confrere, brotherhood, colleague",
+    "audio": "top2/575.mp3"
+  },
+  {
+    "key": "\u6df1\u5165",
+    "alt": "sh\u0113nr\u00f9 (\u6df1\u5165, \u6df1\u5165)",
+    "answer": "thorough, deep going",
+    "audio": "top2/576.mp3"
+  },
+  {
+    "key": "\u6f2b\u756b",
+    "alt": "m\u00e0nhu\u00e0 (\u6f2b\u756b, \u6f2b\u753b)",
+    "answer": "takeoff, cartoon, caricature",
+    "audio": "top2/577.mp3"
+  },
+  {
+    "key": "\u8cc7\u91d1",
+    "alt": "z\u012bj\u012bn (\u8cc7\u91d1, \u8d44\u91d1)",
+    "answer": "principal_sum, fund, bankroll, finance, coffer, ante, grubstake, munition, wherewithal, capital, working capital",
+    "audio": "top2/578.mp3"
+  },
+  {
+    "key": "\u6bd4\u8f03",
+    "alt": "b\u01d0ji\u01ceo (\u6bd4\u8f03, \u6bd4\u8f83)",
+    "answer": "compare, contrast",
+    "audio": "top2/579.mp3"
+  },
+  {
+    "key": "\u4f5c\u696d",
+    "alt": "zu\u00f2y\u00e8 (\u4f5c\u696d, \u4f5c\u4e1a)",
+    "answer": "work",
+    "audio": "top2/580.mp3"
+  },
+  {
+    "key": "\u60f3\u50cf",
+    "alt": "xi\u01cengxi\u00e0ng (\u60f3\u50cf, \u60f3\u50cf)",
+    "answer": "imagine, ideate, suppose, picture, image, trow, envision, figure, dream, conceit, woolgather, conceive of, project, see, daydream, think, presume, envisage, stargaze, depicture, visualize, vision, feign, fancy, conceive, conjure_up, fantasy",
+    "audio": "top2/581.mp3"
+  },
+  {
+    "key": "\u77ed",
+    "alt": "du\u01cen (\u77ed, \u77ed)",
+    "answer": "short, brief",
+    "audio": "top2/582.mp3"
+  },
+  {
+    "key": "\u5373\u53ef",
+    "alt": "j\u00edk\u011b (\u5373\u53ef, \u5373\u53ef)",
+    "answer": "then could do something",
+    "audio": "top2/583.mp3"
+  },
+  {
+    "key": "\u897f",
+    "alt": "x\u012b (\u897f, \u897f)",
+    "answer": "W, Spain, west, occident, due west, western",
+    "audio": "top2/584.mp3"
+  },
+  {
+    "key": "\u76f8",
+    "alt": "xi\u0101ng (\u76f8, \u76f8)",
+    "answer": "each other, mutually",
+    "audio": "top2/585.mp3"
+  },
+  {
+    "key": "\u4f4d\u7f6e",
+    "alt": "w\u00e8izh\u00ec (\u4f4d\u7f6e, \u4f4d\u7f6e)",
+    "answer": "positioning, site, stand, stance, about face, lie, locality, spatial relation, setting, situs, locus, slot, ubiety, station, location, emplacement, ubication, situation, niche, positional, position, place, seat",
+    "audio": "top2/586.mp3"
+  },
+  {
+    "key": "\u932f",
+    "alt": "cu\u00f2 (\u932f, \u9519)",
+    "answer": "wrong, mistaken, bad, poor, confused, complex",
+    "audio": "top2/587.mp3"
+  },
+  {
+    "key": "\u7a69\u5b9a",
+    "alt": "w\u011bnd\u00ecng (\u7a69\u5b9a, \u7a33\u5b9a)",
+    "answer": "stable, steady",
+    "audio": "top2/588.mp3"
+  },
+  {
+    "key": "\u5c0b\u627e",
+    "alt": "x\u00fanzh\u01ceo (\u5c0b\u627e, \u5bfb\u627e)",
+    "answer": "comb, locate, quest, search, scout, chase, reconnoiter, look_around, look_for, look, look for, find_out, pick, reconnoitre, prospect, hunt, seek, rummage, shop",
+    "audio": "top2/589.mp3"
+  },
+  {
+    "key": "\u9ce5",
+    "alt": "ni\u01ceo (\u9ce5, \u9e1f)",
+    "answer": "beak, caprimulgiform bird, jay, carinate bird, birdie, bird, carinate, chaffinch, flying bird, fowl",
+    "audio": "top2/590.mp3"
+  },
+  {
+    "key": "\u7cfb",
+    "alt": "x\u00ec (\u7cfb, \u7cfb)",
+    "answer": "department in a college",
+    "audio": "top2/591.mp3"
+  },
+  {
+    "key": "\u5982\u6b64",
+    "alt": "r\u00fac\u01d0 (\u5982\u6b64, \u5982\u6b64)",
+    "answer": "so, such",
+    "audio": "top2/592.mp3"
+  },
+  {
+    "key": "\u9577\u5927",
+    "alt": "zh\u01cengd\u00e0 (\u9577\u5927, \u957f\u5927)",
+    "answer": "vegetate, be brought up, grow_up, maturate, grow, grow up, bulk, age, mature",
+    "audio": "top2/593.mp3"
+  },
+  {
+    "key": "\u4fc3\u9032",
+    "alt": "c\u00f9j\u00ecn (\u4fc3\u9032, \u4fc3\u8fdb)",
+    "answer": "rush, help, step_up, advancement, progress, acceleration, subserve, encourage, facilitate, anticipate, accelerate, assist, fillip, expedite, advance, promotive, boost, further, provoke, hurry, redound, cultivate, induce, hasten, catalyze, speed, promote, contribute, impel, promotion, push, forward, stimulate, whet",
+    "audio": "top2/594.mp3"
+  },
+  {
+    "key": "\u4eba\u6587",
+    "alt": "r\u00e9nw\u00e9n (\u4eba\u6587, \u4eba\u6587)",
+    "answer": "letters, humanity, humanities",
+    "audio": "top2/595.mp3"
+  },
+  {
+    "key": "\u885d\u7a81",
+    "alt": "ch\u014dngt\u00fa (\u885d\u7a81, \u51b2\u7a81)",
+    "answer": "conflict, clash",
+    "audio": "top2/596.mp3"
+  },
+  {
+    "key": "\u5eda\u623f",
+    "alt": "ch\u00faf\u00e1ng (\u5eda\u623f, \u53a8\u623f)",
+    "answer": "office, cookery, cookhouse, kitchen, cookroom, but, caboose",
+    "audio": "top2/597.mp3"
+  },
+  {
+    "key": "\u6d77\u5916",
+    "alt": "h\u01ceiw\u00e0i (\u6d77\u5916, \u6d77\u5916)",
+    "answer": "oversea, overseas, abroad",
+    "audio": "top2/598.mp3"
+  },
+  {
+    "key": "\u8868\u6f14",
+    "alt": "bi\u01ceoy\u01cen (\u8868\u6f14, \u8868\u6f14)",
+    "answer": "perform, act, play, demonstrate",
+    "audio": "top2/599.mp3"
+  },
+  {
+    "key": "\u518d\u5ea6",
+    "alt": "z\u00e0id\u00f9 (\u518d\u5ea6, \u518d\u5ea6)",
+    "answer": "once again, anew, eftsoons, second time, again, a second time, once more/again, once more",
+    "audio": "top2/600.mp3"
+  },
+  {
+    "key": "\u96fb\u4fe1",
+    "alt": "di\u00e0nx\u00ecn (\u96fb\u4fe1, \u7535\u4fe1)",
+    "answer": "telegraphy, telecommunications, telecommunication, telecom",
+    "audio": "top2/601.mp3"
+  },
+  {
+    "key": "\u53cd\u6620",
+    "alt": "f\u01ceny\u00ecng (\u53cd\u6620, \u53cd\u6620)",
+    "answer": "reflect, mirror, make known",
+    "audio": "top2/602.mp3"
+  },
+  {
+    "key": "\u5317",
+    "alt": "b\u011bi (\u5317, \u5317)",
+    "answer": "atomic number 97, northward, north, berkelium, Bk, northern",
+    "audio": "top2/603.mp3"
+  },
+  {
+    "key": "\u7b46",
+    "alt": "b\u01d0 (\u7b46, \u7b14)",
+    "answer": "m.[general]",
+    "audio": "top2/604.mp3"
+  },
+  {
+    "key": "\u8fd1",
+    "alt": "j\u00ecn (\u8fd1, \u8fd1)",
+    "answer": "almost",
+    "audio": "top2/605.mp3"
+  },
+  {
+    "key": "\u969c\u7919",
+    "alt": "zh\u00e0ng\u00e0i (\u969c\u7919, \u969c\u788d)",
+    "answer": "discouragement, bottleneck, clog, bar, encumbrance, embarrassment, malfunction, jam up, baffle, impediment, obstruction, rub, roadblock, stay, rubber, disturbance, balk, holdback, bunker, stymy, remora, obstacle, barrier, stumbling_block, hitch, handicap, lesion, hedge, snag, drawback, let, wall, crab, difficulty, penalty, hang up, facer, hindrance, hurdle",
+    "audio": "top2/606.mp3"
+  },
+  {
+    "key": "\u7126\u9ede",
+    "alt": "ji\u0101odi\u01cen (\u7126\u9ede, \u7126\u70b9)",
+    "answer": "focal point, point at issue, focal, focus, focal_point, central issue",
+    "audio": "top2/607.mp3"
+  },
+  {
+    "key": "\u5ffd\u7136",
+    "alt": "h\u016br\u00e1n (\u5ffd\u7136, \u5ffd\u7136)",
+    "answer": "suddenly",
+    "audio": "top2/608.mp3"
+  },
+  {
+    "key": "\u5230\u8655",
+    "alt": "d\u00e0och\u00f9 (\u5230\u8655, \u5230\u5904)",
+    "answer": "universally, everywhere, everyplace, far and near, about, around, far and wide, all_over, high_and_low, all over, throughout, high and low, far_and_near, passim, abroad, at all places",
+    "audio": "top2/609.mp3"
+  },
+  {
+    "key": "\u690d\u7269",
+    "alt": "zh\u00edw\u00f9 (\u690d\u7269, \u690d\u7269)",
+    "answer": "vegetal, flora, herb, plant, grower, vegetable, plant life, vegetation, botanical, vegetive, dwarf, vegetative",
+    "audio": "top2/610.mp3"
+  },
+  {
+    "key": "\u986f\u5f97",
+    "alt": "xi\u01cende (\u986f\u5f97, \u663e\u5f97)",
+    "answer": "seem, look, appear",
+    "audio": "top2/611.mp3"
+  },
+  {
+    "key": "\u4e0d\u4e00\u5b9a",
+    "alt": "b\u00f9y\u012bd\u00ecng (\u4e0d\u4e00\u5b9a, \u4e0d\u4e00\u5b9a)",
+    "answer": "not sure, maybe",
+    "audio": "top2/612.mp3"
+  },
+  {
+    "key": "\u651d\u5f71",
+    "alt": "sh\u00e8y\u01d0ng (\u651d\u5f71, \u6444\u5f71)",
+    "answer": "photography",
+    "audio": "top2/613.mp3"
+  },
+  {
+    "key": "\u96a8",
+    "alt": "su\u00ed (\u96a8, \u968f)",
+    "answer": "v.2 right after v.1",
+    "audio": "top2/614.mp3"
+  },
+  {
+    "key": "\u6982\u5ff5",
+    "alt": "g\u00e0ini\u00e0n (\u6982\u5ff5, \u6982\u5ff5)",
+    "answer": "estimate, conception, view, intention, image, estimation, idea, notion, concept, construct, paradox, approximation, impression",
+    "audio": "top2/615.mp3"
+  },
+  {
+    "key": "\u9762\u7a4d",
+    "alt": "mi\u00e0nj\u012b (\u9762\u7a4d, \u9762\u79ef)",
+    "answer": "area unit, area, superficies, superficial, acreage, expanse, surface_area, square_measure, surface area, content, space, square measure",
+    "audio": "top2/616.mp3"
+  },
+  {
+    "key": "\u70ba\u4f55",
+    "alt": "w\u00e8ih\u00e9 (\u70ba\u4f55, \u4e3a\u4f55)",
+    "answer": "why, for what reason",
+    "audio": "top2/617.mp3"
+  },
+  {
+    "key": "\u9ad8\u9054",
+    "alt": "g\u0101od\u00e1 (\u9ad8\u9054, \u9ad8\u8fbe)",
+    "answer": "reach up to",
+    "audio": "top2/618.mp3"
+  },
+  {
+    "key": "\u95dc\u9375",
+    "alt": "gu\u0101nji\u00e0n (\u95dc\u9375, \u5173\u952e)",
+    "answer": "nub, turning_point, issue, crux, anchor, crux of the matter, juncture, hinge, mainstay, linchpin, lynchpin, key, backbone",
+    "audio": "top2/619.mp3"
+  },
+  {
+    "key": "\u4f5c\u6cd5",
+    "alt": "zu\u00f2f\u01ce (\u4f5c\u6cd5, \u4f5c\u6cd5)",
+    "answer": "course of action, technique of writing, way of doing things, mode, practice, course, model",
+    "audio": "top2/620.mp3"
+  },
+  {
+    "key": "\u4f86\u5230",
+    "alt": "l\u00e1id\u00e0o (\u4f86\u5230, \u6765\u5230)",
+    "answer": "arrive, come",
+    "audio": "top2/621.mp3"
+  },
+  {
+    "key": "\u5982\u4f55",
+    "alt": "r\u00fah\u00e9 (\u5982\u4f55, \u5982\u4f55)",
+    "answer": "how about it",
+    "audio": "top2/622.mp3"
+  },
+  {
+    "key": "\u80e1\u9069",
+    "alt": "h\u00fash\u00ec (\u80e1\u9069, \u80e1\u9002)",
+    "answer": "philosopher, leading intellectual, leading intellectual,  philosopher,  exponent of vernacular writing, leading intellectual,  philosopher,  expon, exponent of vernacular writing",
+    "audio": "top2/623.mp3"
+  },
+  {
+    "key": "\u5012",
+    "alt": "d\u00e0o (\u5012, \u5012)",
+    "answer": "actually",
+    "audio": "top2/624.mp3"
+  },
+  {
+    "key": "\u4eba\u4eba",
+    "alt": "r\u00e9nr\u00e9n (\u4eba\u4eba, \u4eba\u4eba)",
+    "answer": "everybody",
+    "audio": "top2/625.mp3"
+  },
+  {
+    "key": "\u4ed4\u7d30",
+    "alt": "z\u01d0x\u00ec (\u4ed4\u7d30, \u4ed4\u7ec6)",
+    "answer": "careful, be careful, look out",
+    "audio": "top2/626.mp3"
+  },
+  {
+    "key": "\u539f",
+    "alt": "yu\u00e1n (\u539f, \u539f)",
+    "answer": "originally, formerly",
+    "audio": "top2/627.mp3"
+  },
+  {
+    "key": "\u6210\u5c31",
+    "alt": "ch\u00e9ngji\u00f9 (\u6210\u5c31, \u6210\u5c31)",
+    "answer": "achievement, accomplishment, success",
+    "audio": "top2/628.mp3"
+  },
+  {
+    "key": "\u8996",
+    "alt": "sh\u00ec (\u8996, \u89c6)",
+    "answer": "depend",
+    "audio": "top2/629.mp3"
+  },
+  {
+    "key": "\u884c\u92b7",
+    "alt": "x\u00edngxi\u0101o (\u884c\u92b7, \u884c\u9500)",
+    "answer": "sell",
+    "audio": "top2/630.mp3"
+  },
+  {
+    "key": "\u597d\u5e7e",
+    "alt": "h\u01ceoj\u01d0 (\u597d\u5e7e, \u597d\u51e0)",
+    "answer": "det.: several",
+    "audio": "top2/631.mp3"
+  },
+  {
+    "key": "\u8f9b\u82e6",
+    "alt": "x\u012bnk\u01d4 (\u8f9b\u82e6, \u8f9b\u82e6)",
+    "answer": "try, endure hardship, work hard, tug, tote, lug",
+    "audio": "top2/632.mp3"
+  },
+  {
+    "key": "\u5e74\u8f15\u4eba",
+    "alt": "ni\u00e1nq\u012bngr\u00e9n (\u5e74\u8f15\u4eba, \u5e74\u8f7b\u4eba)",
+    "answer": "kid, sapling, young people, youngster, jack, young, young buck, chicken, kipper, youngling, punk, laddie, young_man, loon, young man, youth, stripling, shaveling, junior, sprat, whiffet, cub, springald, younker",
+    "audio": "top2/633.mp3"
+  },
+  {
+    "key": "\u4fe1",
+    "alt": "x\u00ecn (\u4fe1, \u4fe1)",
+    "answer": "letter, mail, message",
+    "audio": "top2/634.mp3"
+  },
+  {
+    "key": "\u6f38\u6f38",
+    "alt": "ji\u00e0nji\u00e0n (\u6f38\u6f38, \u6e10\u6e10)",
+    "answer": "gradually, by degrees, little by little",
+    "audio": "top2/635.mp3"
+  },
+  {
+    "key": "\u771f",
+    "alt": "zh\u0113n (\u771f, \u771f)",
+    "answer": "real, true",
+    "audio": "top2/636.mp3"
+  },
+  {
+    "key": "\u6559\u6750",
+    "alt": "ji\u00e0oc\u00e1i (\u6559\u6750, \u6559\u6750)",
+    "answer": "textbook, teaching material",
+    "audio": "top2/637.mp3"
+  },
+  {
+    "key": "\u81ea\u7136",
+    "alt": "z\u00ecr\u00e1n (\u81ea\u7136, \u81ea\u7136)",
+    "answer": "natural, free from affectation",
+    "audio": "top2/638.mp3"
+  },
+  {
+    "key": "\u52d5\u8a5e",
+    "alt": "d\u00f2ngc\u00ed (\u52d5\u8a5e, \u52a8\u8bcd)",
+    "answer": "verb",
+    "audio": "top2/639.mp3"
+  },
+  {
+    "key": "\u6574\u7406",
+    "alt": "zh\u011bngl\u01d0 (\u6574\u7406, \u6574\u7406)",
+    "answer": "put in order, arrange",
+    "audio": "top2/640.mp3"
+  },
+  {
+    "key": "\u7537\u751f",
+    "alt": "n\u00e1nsh\u0113ng (\u7537\u751f, \u7537\u751f)",
+    "answer": "brother, sonny boy, man, male, laddie, lad, boy student, male student, boy, schoolboy, sonny, cub, man student",
+    "audio": "top2/641.mp3"
+  },
+  {
+    "key": "\u904a\u5ba2",
+    "alt": "y\u00f3uk\u00e8 (\u904a\u5ba2, \u904a\u5ba2)",
+    "answer": "traveler, holidaymaker, tourist, traveller, visitor, pilgrim, sightseer, tourism",
+    "audio": "top2/642.mp3"
+  },
+  {
+    "key": "\u7b49",
+    "alt": "d\u011bng (\u7b49, \u7b49)",
+    "answer": "till",
+    "audio": "top2/643.mp3"
+  },
+  {
+    "key": "\u5973\u751f",
+    "alt": "n\u01d4sh\u0113ng (\u5973\u751f, \u5973\u751f)",
+    "answer": "schoolgirl, girl student, female student, female, girl, woman student, co ed",
+    "audio": "top2/644.mp3"
+  },
+  {
+    "key": "\u5c0d",
+    "alt": "du\u00ec (\u5c0d, \u5bf9)",
+    "answer": "m.[general]",
+    "audio": "top2/645.mp3"
+  },
+  {
+    "key": "\u61f7\u7591",
+    "alt": "hu\u00e1iy\u00ed (\u61f7\u7591, \u6000\u7591)",
+    "answer": "suspect, doubt",
+    "audio": "top2/646.mp3"
+  },
+  {
+    "key": "\u75db\u82e6",
+    "alt": "t\u00f2ngk\u01d4 (\u75db\u82e6, \u75db\u82e6)",
+    "answer": "be painful; pain",
+    "audio": "top2/647.mp3"
+  },
+  {
+    "key": "\u4ea4\u63db",
+    "alt": "ji\u0101ohu\u00e0n (\u4ea4\u63db, \u4ea4\u6362)",
+    "answer": "reciprocate, switching, barter, exchange, commute, switch, communicate, interchange, bandy, shift, trade, batter, truck, swop, change, counterchange, swap, clear, buy, transpose, change over, commune, turn around",
+    "audio": "top2/648.mp3"
+  },
+  {
+    "key": "\u4e92\u52d5",
+    "alt": "h\u00f9d\u00f2ng (\u4e92\u52d5, \u4e92\u52a8)",
+    "answer": "relate",
+    "audio": "top2/649.mp3"
+  },
+  {
+    "key": "\u8a2d\u7f6e",
+    "alt": "sh\u00e8zh\u00ec (\u8a2d\u7f6e, \u8bbe\u7f6e)",
+    "answer": "set/put up, install",
+    "audio": "top2/650.mp3"
+  },
+  {
+    "key": "\u5f35",
+    "alt": "zh\u0101ng (\u5f35, \u5f20)",
+    "answer": "Surname",
+    "audio": "top2/651.mp3"
+  },
+  {
+    "key": "\u7559",
+    "alt": "li\u00fa (\u7559, \u7559)",
+    "answer": "continue, stay, keep, leave behind, leave, grow, accept,  let grow, leave",
+    "audio": "top2/652.mp3"
+  },
+  {
+    "key": "\u5c45\u4f4f",
+    "alt": "j\u016bzh\u00f9 (\u5c45\u4f4f, \u5c45\u4f4f)",
+    "answer": "inhabit, occupy, shack_up, locate, domicile, shack, abide, subsist, settle, live, howff, reside, indwell, populate, lodge in, quarter, dwell, people, belong, bide, hang_out, house, residence",
+    "audio": "top2/653.mp3"
+  },
+  {
+    "key": "\u56e0\u61c9",
+    "alt": "y\u012bny\u00ecng (\u56e0\u61c9, \u56e0\u5e94)",
+    "answer": "in response to",
+    "audio": "top2/654.mp3"
+  },
+  {
+    "key": "\u4e08\u592b",
+    "alt": "zh\u00e0ngf\u016b (\u4e08\u592b, \u4e08\u592b)",
+    "answer": "masterman, man, papa, manliness, mister, goodman, married man, husband, hub, hubby",
+    "audio": "top2/655.mp3"
+  },
+  {
+    "key": "\u7d00\u9304",
+    "alt": "j\u00ecl\u00f9 (\u7d00\u9304, \u7eaa\u5f55)",
+    "answer": "minutes, notes, record, record",
+    "audio": "top2/656.mp3"
+  },
+  {
+    "key": "\u7b54",
+    "alt": "d\u00e1 (\u7b54, \u7b54)",
+    "answer": "answer, reply, return a call/etc. , reciprocate",
+    "audio": "top2/657.mp3"
+  },
+  {
+    "key": "\u611b",
+    "alt": "\u00e0i (\u611b, \u7231)",
+    "answer": "love",
+    "audio": "top2/658.mp3"
+  },
+  {
+    "key": "\u756b\u5bb6",
+    "alt": "hu\u00e0ji\u0101 (\u756b\u5bb6, \u753b\u5bb6)",
+    "answer": "painterly, creative person, artist, painter, penman, artists",
+    "audio": "top2/659.mp3"
+  },
+  {
+    "key": "\u6578\u5b57",
+    "alt": "sh\u00f9z\u00ec (\u6578\u5b57, \u6570\u5b57)",
+    "answer": "numeral, numerical, digit, amount, number, numeric, figure, digital, quantity",
+    "audio": "top2/660.mp3"
+  },
+  {
+    "key": "\u4e00\u5411",
+    "alt": "y\u012bxi\u00e0ng (\u4e00\u5411, \u4e00\u5411)",
+    "answer": "typically, all_along, up to now, always, consistently, all along, usually, forever",
+    "audio": "top2/661.mp3"
+  },
+  {
+    "key": "\u9023\u7dda",
+    "alt": "li\u00e1nxi\u00e0n (\u9023\u7dda, \u8fde\u7ebf)",
+    "answer": "connect",
+    "audio": "top2/662.mp3"
+  },
+  {
+    "key": "\u4ee5\u514d",
+    "alt": "y\u01d0mi\u01cen (\u4ee5\u514d, \u4ee5\u514d)",
+    "answer": "conj.: in order to avoid,  so as not to",
+    "audio": "top2/663.mp3"
+  },
+  {
+    "key": "\u56fa\u5b9a",
+    "alt": "g\u00f9d\u00ecng (\u56fa\u5b9a, \u56fa\u5b9a)",
+    "answer": "set, plant, imbed, fix, strap, jell, fixed, affix, peg, stick, clench, rivet, regularization, rigidify, embed, infix, anchor, fixate, hold, regularize, implant, stitch, stabile, engraft, fasten, immobilize, moor, peg down, flat",
+    "audio": "top2/664.mp3"
+  },
+  {
+    "key": "\u901a\u4fe1",
+    "alt": "t\u014dngx\u00ecn (\u901a\u4fe1, \u901a\u4fe1)",
+    "answer": "communicate by letter, correspond",
+    "audio": "top2/665.mp3"
+  },
+  {
+    "key": "\u6062\u5fa9",
+    "alt": "hu\u012bf\u00f9 (\u6062\u5fa9, \u6062\u590d)",
+    "answer": "resume, renew, recover, regain, restore, reinstate, rehabilitate",
+    "audio": "top2/666.mp3"
+  },
+  {
+    "key": "\u4fee\u6b63",
+    "alt": "xi\u016bzh\u00e8ng (\u4fee\u6b63, \u4fee\u6b63)",
+    "answer": "revise, amend, correct",
+    "audio": "top2/667.mp3"
+  },
+  {
+    "key": "\u666f\u89c0",
+    "alt": "j\u01d0nggu\u0101n (\u666f\u89c0, \u666f\u89c2)",
+    "answer": "view, perspective, aspect, scene, prospect, vista, panorama, landscape",
+    "audio": "top2/668.mp3"
+  },
+  {
+    "key": "\u7dda",
+    "alt": "xi\u00e0n (\u7dda, \u7ebf)",
+    "answer": "thread, string, wire",
+    "audio": "top2/669.mp3"
+  },
+  {
+    "key": "\u7e23\u5e02",
+    "alt": "xi\u00e0nsh\u00ec (\u7e23\u5e02, \u53bf\u5e02)",
+    "answer": "county and city",
+    "audio": "top2/670.mp3"
+  },
+  {
+    "key": "\u4ed6\u4eba",
+    "alt": "t\u0101r\u00e9n (\u4ed6\u4eba, \u4ed6\u4eba)",
+    "answer": "others, another person",
+    "audio": "top2/671.mp3"
+  },
+  {
+    "key": "\u57fa\u65bc",
+    "alt": "j\u012by\u00fa (\u57fa\u65bc, \u57fa\u4e8e)",
+    "answer": "on the basis of, in view of, because of",
+    "audio": "top2/672.mp3"
+  },
+  {
+    "key": "\u53ea\u662f",
+    "alt": "zh\u01d0sh\u00ec (\u53ea\u662f, \u53ea\u662f)",
+    "answer": "conj.: however, but then",
+    "audio": "top2/673.mp3"
+  },
+  {
+    "key": "\u5be6\u73fe",
+    "alt": "sh\u00edxi\u00e0n (\u5be6\u73fe, \u5b9e\u73b0)",
+    "answer": "realize, achieve, bring about",
+    "audio": "top2/674.mp3"
+  },
+  {
+    "key": "\u6f14\u8b1b",
+    "alt": "y\u01cenji\u01ceng (\u6f14\u8b1b, \u6f14\u8bb2)",
+    "answer": "lecture, speech",
+    "audio": "top2/675.mp3"
+  },
+  {
+    "key": "\u7537\u5b50",
+    "alt": "n\u00e1nz\u01d0 (\u7537\u5b50, \u7537\u5b50)",
+    "answer": "man, male",
+    "audio": "top2/676.mp3"
+  },
+  {
+    "key": "\u5177\u5099",
+    "alt": "j\u00f9b\u00e8i (\u5177\u5099, \u5177\u5907)",
+    "answer": "be provided with, supply, render, have, furnish, possess, provide, possession",
+    "audio": "top2/677.mp3"
+  },
+  {
+    "key": "\u5947\u602a",
+    "alt": "q\u00edgu\u00e0i (\u5947\u602a, \u5947\u602a)",
+    "answer": "wonder",
+    "audio": "top2/678.mp3"
+  },
+  {
+    "key": "\u7a7a\u6c23",
+    "alt": "k\u014dngq\u00ec (\u7a7a\u6c23, \u7a7a\u6c14)",
+    "answer": "air, airspace, atmosphere, aerial, deflector, atmospherics",
+    "audio": "top2/679.mp3"
+  },
+  {
+    "key": "\u6703\u54e1",
+    "alt": "hu\u00ecyu\u00e1n (\u6703\u54e1, \u4f1a\u5458)",
+    "answer": "member",
+    "audio": "top2/680.mp3"
+  },
+  {
+    "key": "\u53d6",
+    "alt": "q\u01d4 (\u53d6, \u53d6)",
+    "answer": "have, withdraw, choose, assume, take away, adopt, assumption, select, draw_out, withdrawal, obtain, remove, take, fetch, get, aim at, pick_up, sponge, adoption",
+    "audio": "top2/681.mp3"
+  },
+  {
+    "key": "\u6df1\u523b",
+    "alt": "sh\u0113nk\u00e8 (\u6df1\u523b, \u6df1\u523b)",
+    "answer": "deep, profound",
+    "audio": "top2/682.mp3"
+  },
+  {
+    "key": "\u6f02\u4eae",
+    "alt": "pi\u00e0oli\u00e0ng (\u6f02\u4eae, \u6f02\u4eae)",
+    "answer": "posh, handsome, brilliant, remarkable, splendid, beautiful, smart",
+    "audio": "top2/683.mp3"
+  },
+  {
+    "key": "\u83dc",
+    "alt": "c\u00e0i (\u83dc, \u83dc)",
+    "answer": "vegetable, greens, dish, course, food",
+    "audio": "top2/684.mp3"
+  },
+  {
+    "key": "\u5e0c\u671b",
+    "alt": "x\u012bw\u00e0ng (\u5e0c\u671b, \u5e0c\u671b)",
+    "answer": "hope",
+    "audio": "top2/685.mp3"
+  },
+  {
+    "key": "\u76f8\u4e92",
+    "alt": "xi\u0101ngh\u00f9 (\u76f8\u4e92, \u76f8\u4e92)",
+    "answer": "each other, mutually, one another, in return, reciprocally",
+    "audio": "top2/686.mp3"
+  },
+  {
+    "key": "\u591a\u6578",
+    "alt": "du\u014dsh\u00f9 (\u591a\u6578, \u591a\u6570)",
+    "answer": "trillions, millions, mort, relative majority, throng, det : majority, prevalence, multitude, lac, Host, host, bulk, horde, raft, million, lakh, rimption, pack, skit, strength, acre, generality, ruck, chunk, number, shoal, multiplicity, billions, preponderance, jillions, zillions, grist, world, majority, meiny, regiment, legion, mass, plurality",
+    "audio": "top2/687.mp3"
+  },
+  {
+    "key": "\u7e3d\u7d93\u7406",
+    "alt": "z\u01d2ngj\u012bngl\u01d0 (\u7e3d\u7d93\u7406, \u603b\u7ecf\u7406)",
+    "answer": "CEO, general_manager, chief executive officer, chief operating officer, executive, managing director, general manager, president",
+    "audio": "top2/688.mp3"
+  },
+  {
+    "key": "\u5f88\u591a",
+    "alt": "h\u011bndu\u014d (\u5f88\u591a, \u5f88\u591a)",
+    "answer": "many, much",
+    "audio": "top2/689.mp3"
+  },
+  {
+    "key": "\u6536",
+    "alt": "sh\u014du (\u6536, \u6536)",
+    "answer": "receive, accept, take in/back, gather in, conclude, stop",
+    "audio": "top2/690.mp3"
+  },
+  {
+    "key": "\u6b0a\u5229",
+    "alt": "qu\u00e1nl\u00ec (\u6b0a\u5229, \u6743\u5229)",
+    "answer": "privilege, claim, merit, title, entitlements, escheatage, right, dib, authority, competency, obligation, pretension, prescription, dibs",
+    "audio": "top2/691.mp3"
+  },
+  {
+    "key": "\u7167\u7247",
+    "alt": "zh\u00e0opi\u00e0n (\u7167\u7247, \u7167\u7247)",
+    "answer": "snapshot, shot, likeness, picture, photo, icon, image, caption, exposure, photograph, pic, ikon",
+    "audio": "top2/692.mp3"
+  },
+  {
+    "key": "\u75c5",
+    "alt": "b\u00ecng (\u75c5, \u75c5)",
+    "answer": "disease",
+    "audio": "top2/693.mp3"
+  },
+  {
+    "key": "\u7269\u8cea",
+    "alt": "w\u00f9zh\u00ed (\u7269\u8cea, \u7269\u8d28)",
+    "answer": "stuff, material, substance, materiality, matter",
+    "audio": "top2/694.mp3"
+  },
+  {
+    "key": "\u5bbf\u820d",
+    "alt": "s\u00f9sh\u00e8 (\u5bbf\u820d, \u5bbf\u820d)",
+    "answer": "berth, serai, hall, dorm room, lodging_house, dormitory room, dorm, hostel, billet, dormitory, living quarters, house",
+    "audio": "top2/695.mp3"
+  },
+  {
+    "key": "\u5373",
+    "alt": "j\u00ed (\u5373, \u5373)",
+    "answer": "be, mean",
+    "audio": "top2/696.mp3"
+  },
+  {
+    "key": "\u6559\u7df4",
+    "alt": "ji\u00e0oli\u00e0n (\u6559\u7df4, \u6559\u7ec3)",
+    "answer": "training, drillmaster, wise man, tutor, drilling, handler, coacher, coach, instructor, private instructor, trainer, mentor",
+    "audio": "top2/697.mp3"
+  },
+  {
+    "key": "\u5b87\u5b99",
+    "alt": "y\u01d4zh\u00f2u (\u5b87\u5b99, \u5b87\u5b99)",
+    "answer": "all, cosmic, existence, world, creation, system, macrocosm, metagalactic, nature, cosmos, universal, universe",
+    "audio": "top2/698.mp3"
+  },
+  {
+    "key": "\u66f4\u52a0",
+    "alt": "g\u00e8ngji\u0101 (\u66f4\u52a0, \u66f4\u52a0)",
+    "answer": "even more",
+    "audio": "top2/699.mp3"
+  },
+  {
+    "key": "\u4f4f\u5b85",
+    "alt": "zh\u00f9zh\u00e1i (\u4f4f\u5b85, \u4f4f\u5b85)",
+    "answer": "shebang, dwelling_house, dwelling, roof, abode, residential, home, toft, howff, housing, habitation, homesite, tenement, place, residence, house, property",
+    "audio": "top2/700.mp3"
+  },
+  {
+    "key": "\u660e\u767d",
+    "alt": "m\u00edngb\u00e1i (\u660e\u767d, \u660e\u767d)",
+    "answer": "clarify, downright, recognize, agnize, tumble, follow, make out, catch, understand, discern, think, know, seize, agnise, twig, realize, get, realization",
+    "audio": "top2/701.mp3"
+  },
+  {
+    "key": "\u7adf\u7136",
+    "alt": "j\u00ecngr\u00e1n (\u7adf\u7136, \u7adf\u7136)",
+    "answer": "unexpectedly, to one's surprise",
+    "audio": "top2/702.mp3"
+  },
+  {
+    "key": "\u5149",
+    "alt": "gu\u0101ng (\u5149, \u5149)",
+    "answer": "light, ray, brightness, honor, glory, luster",
+    "audio": "top2/703.mp3"
+  },
+  {
+    "key": "\u8fc5\u901f",
+    "alt": "x\u00f9ns\u00f9 (\u8fc5\u901f, \u8fc5\u901f)",
+    "answer": "fast, speedy, rapid, prompt",
+    "audio": "top2/704.mp3"
+  },
+  {
+    "key": "\u7761",
+    "alt": "shu\u00ec (\u7761, \u7761)",
+    "answer": "sleep",
+    "audio": "top2/705.mp3"
+  },
+  {
+    "key": "\u5927\u591a\u6578",
+    "alt": "d\u00e0du\u014dsh\u00f9 (\u5927\u591a\u6578, \u5927\u591a\u6570)",
+    "answer": "det.: most of,  the majority of",
+    "audio": "top2/706.mp3"
+  },
+  {
+    "key": "\u4e0d\u826f",
+    "alt": "b\u00f9li\u00e1ng (\u4e0d\u826f, \u4e0d\u826f)",
+    "answer": "unhealthy, harmful, bad",
+    "audio": "top2/707.mp3"
+  },
+  {
+    "key": "\u81ea\u52d5",
+    "alt": "z\u00ecd\u00f2ng (\u81ea\u52d5, \u81ea\u52a8)",
+    "answer": "automatic",
+    "audio": "top2/708.mp3"
+  },
+  {
+    "key": "\u54e6",
+    "alt": "\u00f3 (\u54e6, \u54e6)",
+    "answer": "particle: used when informing sb. of st. to draw people's attention ; indicating mild imperative/suggestion/exclamation/guess/etc.",
+    "audio": "top2/709.mp3"
+  },
+  {
+    "key": "\u7a81\u7834",
+    "alt": "t\u00fap\u00f2 (\u7a81\u7834, \u7a81\u7834)",
+    "answer": "make a breakthrough, surmount",
+    "audio": "top2/710.mp3"
+  },
+  {
+    "key": "\u5f8c\u9762",
+    "alt": "h\u00f2umi\u00e0n (\u5f8c\u9762, \u540e\u9762)",
+    "answer": "rear, back, in the rear, latter, behind, rearward, at the back",
+    "audio": "top2/711.mp3"
+  },
+  {
+    "key": "\u6c61\u67d3",
+    "alt": "w\u016br\u01cen (\u6c61\u67d3, \u6c61\u67d3)",
+    "answer": "pollute, contaminate",
+    "audio": "top2/712.mp3"
+  },
+  {
+    "key": "\u9678\u7e8c",
+    "alt": "l\u00f9x\u00f9 (\u9678\u7e8c, \u9646\u7eed)",
+    "answer": "continuously, one after another, in succession",
+    "audio": "top2/713.mp3"
+  },
+  {
+    "key": "\u98db",
+    "alt": "f\u0113i (\u98db, \u98de)",
+    "answer": "hover in the air, flight, hover, volatilize, wing, disappear through volatilization, flutter, skip, hover/flutter in the air, fly, blow, flutter in the air, flit",
+    "audio": "top2/714.mp3"
+  },
+  {
+    "key": "\u5167\u5fc3",
+    "alt": "n\u00e8ix\u012bn (\u5167\u5fc3, \u5185\u5fc3)",
+    "answer": "interior, inner being, conscience, inside, breast, bosom, innermost being, incenter, heart",
+    "audio": "top2/715.mp3"
+  },
+  {
+    "key": "\u5973\u5b50",
+    "alt": "n\u01d4z\u01d0 (\u5973\u5b50, \u5973\u5b50)",
+    "answer": "lady, female, femme, young lady, adult female, missy, young woman, fem, moll, womankind, fille, damsel, girl, miss, woman, wren, blade",
+    "audio": "top2/716.mp3"
+  },
+  {
+    "key": "\u73bb\u7483",
+    "alt": "b\u014dl\u00ed (\u73bb\u7483, \u73bb\u7483)",
+    "answer": "plastic, vitrum, putty, vitreous, nylon, window, windowpane, cutter, glass",
+    "audio": "top2/717.mp3"
+  },
+  {
+    "key": "\u795e",
+    "alt": "sh\u00e9n (\u795e, \u795e)",
+    "answer": "god, supreme, architect, Thor, superpersonality, Providence, providence, Deus, immortal, energy, numen, Being, divine, being, Surname, maker, Allah, vitality, look, deity, spirit, gum, omnipotent, anthropomorphism, expression, mind, soul, omniscience, immortality, omniscient, kami, Elohim, divinity",
+    "audio": "top2/718.mp3"
+  },
+  {
+    "key": "\u4e2d",
+    "alt": "zh\u014dng (\u4e2d, \u4e2d)",
+    "answer": "China",
+    "audio": "top2/719.mp3"
+  },
+  {
+    "key": "\u5e02\u6c11",
+    "alt": "sh\u00ecm\u00edn (\u5e02\u6c11, \u5e02\u6c11)",
+    "answer": "citizen, burgess, citizenry, metropolitan, townsman, townsfolk, town, towner, civic, residents of a city, townee, burgher, townspeople",
+    "audio": "top2/720.mp3"
+  },
+  {
+    "key": "\u627f\u8a8d",
+    "alt": "ch\u00e9ngr\u00e8n (\u627f\u8a8d, \u627f\u8ba4)",
+    "answer": "receive, acknowledge, okay, approbate, validate, recognize, avow, admittance, count, confess, sanctify, grant, countersign, avouch, admit, acknowledgement, reckon, own, sanction, give diplomatic recognition, concede, cede, give, ratify, agree, recognise, accept, recognition, yield, allow, endorse, profess",
+    "audio": "top2/721.mp3"
+  },
+  {
+    "key": "\u4e0d\u6eff",
+    "alt": "b\u00f9m\u01cen (\u4e0d\u6eff, \u4e0d\u6ee1)",
+    "answer": "resentful, dissatisfied",
+    "audio": "top2/722.mp3"
+  },
+  {
+    "key": "\u5e74\u9f61",
+    "alt": "ni\u00e1nl\u00edng (\u5e74\u9f61, \u5e74\u9f84)",
+    "answer": "summer, age",
+    "audio": "top2/723.mp3"
+  },
+  {
+    "key": "\u8a18\u61b6",
+    "alt": "j\u00ecy\u00ec (\u8a18\u61b6, \u8bb0\u5fc6)",
+    "answer": "memory",
+    "audio": "top2/724.mp3"
+  },
+  {
+    "key": "\u6253\u7b97",
+    "alt": "d\u01cesu\u00e0n (\u6253\u7b97, \u6253\u7b97)",
+    "answer": "mean, specify, plan, think, intention, propose, design, purpose, contemplate, allot, destine, calculate, intend, designate, be after",
+    "audio": "top2/725.mp3"
+  },
+  {
+    "key": "\u61c9\u7528",
+    "alt": "y\u00ecngy\u00f2ng (\u61c9\u7528, \u5e94\u7528)",
+    "answer": "apply, use",
+    "audio": "top2/726.mp3"
+  },
+  {
+    "key": "\u8001\u95c6",
+    "alt": "l\u01ceob\u01cen (\u8001\u95c6, \u8001\u677f)",
+    "answer": "proprietor, chief, shopkeeper, Tuan, baas, honcho, hirer, storekeeper, milord, bwana, mugwump, cit, market keeper, buckra, governor, boss, joss, tradesman, employer, guv",
+    "audio": "top2/727.mp3"
+  },
+  {
+    "key": "\u6210\u719f",
+    "alt": "ch\u00e9ngsh\u00fa (\u6210\u719f, \u6210\u719f)",
+    "answer": "ripe, mature",
+    "audio": "top2/728.mp3"
+  },
+  {
+    "key": "\u9032",
+    "alt": "j\u00ecn (\u9032, \u8fdb)",
+    "answer": "enter, come/go into, advance",
+    "audio": "top2/729.mp3"
+  },
+  {
+    "key": "\u8b49\u660e",
+    "alt": "zh\u00e8ngm\u00edng (\u8b49\u660e, \u8bc1\u660e)",
+    "answer": "prove, testify, bear out",
+    "audio": "top2/730.mp3"
+  },
+  {
+    "key": "\u570b\u7acb",
+    "alt": "gu\u00f3l\u00ec (\u570b\u7acb, \u56fd\u7acb)",
+    "answer": "run, state, state maintained, national, state run, state maintained, national run, state/national maintained/run, national maintained",
+    "audio": "top2/731.mp3"
+  },
+  {
+    "key": "\u65bd\u5de5",
+    "alt": "sh\u012bg\u014dng (\u65bd\u5de5, \u65bd\u5de5)",
+    "answer": "work on of construction",
+    "audio": "top2/732.mp3"
+  },
+  {
+    "key": "\u540d",
+    "alt": "m\u00edng (\u540d, \u540d)",
+    "answer": "name, fame, reputation",
+    "audio": "top2/733.mp3"
+  },
+  {
+    "key": "\u53eb\u505a",
+    "alt": "ji\u00e0ozu\u00f2 (\u53eb\u505a, \u53eb\u505a)",
+    "answer": "clepe, be known as, be called, call",
+    "audio": "top2/734.mp3"
+  },
+  {
+    "key": "\u5165",
+    "alt": "r\u00f9 (\u5165, \u5165)",
+    "answer": "agree with, set of sun , set, take in, join, receive, be admitted into, become a member of, enter, descend, infiltrate, conform with, conform to, interlard",
+    "audio": "top2/735.mp3"
+  },
+  {
+    "key": "\u5305\u542b",
+    "alt": "b\u0101oh\u00e1n (\u5305\u542b, \u5305\u542b)",
+    "answer": "comprehend, consist of, subtend, imply, boast, go, colligate, include, hold, encompass, embrace, bear, carry, comprise, incorporate, cover, embody, connote, consist in, house, subsume, contain",
+    "audio": "top2/736.mp3"
+  },
+  {
+    "key": "\u5834\u6240",
+    "alt": "ch\u00e1ngsu\u01d2 (\u5834\u6240, \u573a\u6240)",
+    "answer": "site, digging, terrain, locality, point, arena, scene, room, locus, location, locale, stead, scene of action, lieu, amenity, meridian, where, spot, space, land site, place, seat",
+    "audio": "top2/737.mp3"
+  },
+  {
+    "key": "\u5f8c",
+    "alt": "h\u00f2u (\u5f8c, \u540e)",
+    "answer": "rear, back, behind",
+    "audio": "top2/738.mp3"
+  },
+  {
+    "key": "\u884c",
+    "alt": "x\u00edng (\u884c, \u884c)",
+    "answer": "go, travel, prevail, circulate, be current",
+    "audio": "top2/739.mp3"
+  },
+  {
+    "key": "\u4f11\u606f",
+    "alt": "xi\u016bx\u00ed (\u4f11\u606f, \u4f11\u606f)",
+    "answer": "repose, have, lie dormant, respire, take time off, have a rest, take a rest, take off, relax, take_time_off, have/take a rest, rest",
+    "audio": "top2/740.mp3"
+  },
+  {
+    "key": "\u5f9e\u4f86",
+    "alt": "c\u00f3ngl\u00e1i (\u5f9e\u4f86, \u4ece\u6765)",
+    "answer": "all along, at all times, always",
+    "audio": "top2/741.mp3"
+  },
+  {
+    "key": "\u6771",
+    "alt": "d\u014dng (\u6771, \u4e1c)",
+    "answer": "east",
+    "audio": "top2/742.mp3"
+  },
+  {
+    "key": "\u8981\u662f",
+    "alt": "y\u00e0osh\u00ec (\u8981\u662f, \u8981\u662f)",
+    "answer": "conj.: if, suppose, in case",
+    "audio": "top2/743.mp3"
+  },
+  {
+    "key": "\u9069\u61c9",
+    "alt": "sh\u00ecy\u00ecng (\u9069\u61c9, \u9002\u5e94)",
+    "answer": "be accustomed to, conform, be used to, fit, humor, gear, orient, phase, adjust, accommodate, be accustomed, be inure to, get used to, adaptation, adapt, suit",
+    "audio": "top2/744.mp3"
+  },
+  {
+    "key": "\u5de5\u6703",
+    "alt": "g\u014dnghu\u00ec (\u5de5\u6703, \u5de5\u4f1a)",
+    "answer": "trade/labor union",
+    "audio": "top2/745.mp3"
+  },
+  {
+    "key": "\u807d\u8aaa",
+    "alt": "t\u012bngshu\u014d (\u807d\u8aaa, \u542c\u8bf4)",
+    "answer": "hear, understand, learn, rumor, hear that..., hear/understand that..., be told, understand that..., hear of",
+    "audio": "top2/746.mp3"
+  },
+  {
+    "key": "\u9ad8\u7d1a",
+    "alt": "g\u0101oj\u00ed (\u9ad8\u7d1a, \u9ad8\u7ea7)",
+    "answer": "high level,  high class,  quality",
+    "audio": "top2/747.mp3"
+  },
+  {
+    "key": "\u8ddd\u96e2",
+    "alt": "j\u00f9l\u00ed (\u8ddd\u96e2, \u8ddd\u79bb)",
+    "answer": "distance",
+    "audio": "top2/748.mp3"
+  },
+  {
+    "key": "\u4e0d\u6613",
+    "alt": "b\u00fay\u00ec (\u4e0d\u6613, \u4e0d\u6613)",
+    "answer": "uneasy",
+    "audio": "top2/749.mp3"
+  },
+  {
+    "key": "\u6709\u6c92\u6709",
+    "alt": "y\u01d2um\u00e9iy\u01d2u (\u6709\u6c92\u6709, \u6709\u6ca1\u6709)",
+    "answer": "have or not have",
+    "audio": "top2/750.mp3"
+  },
+  {
+    "key": "\u4eba\u6027",
+    "alt": "r\u00e9nx\u00ecng (\u4eba\u6027, \u4eba\u6027)",
+    "answer": "reason, hypostasis, humanitarianism, normal human feelings, humanness, humanity, humanism, human nature, flesh, humanistic, manhood",
+    "audio": "top2/751.mp3"
+  },
+  {
+    "key": "\u8d70\u5230",
+    "alt": "z\u01d2ud\u00e0o (\u8d70\u5230, \u8d70\u5230)",
+    "answer": "go to",
+    "audio": "top2/752.mp3"
+  },
+  {
+    "key": "\u62cd",
+    "alt": "p\u0101i (\u62cd, \u62cd)",
+    "answer": "clap, pat, lick sb.'s boots",
+    "audio": "top2/753.mp3"
+  },
+  {
+    "key": "\u99ac",
+    "alt": "m\u01ce (\u99ac, \u9a6c)",
+    "answer": "horse",
+    "audio": "top2/754.mp3"
+  },
+  {
+    "key": "\u898f\u5247",
+    "alt": "gu\u012bz\u00e9 (\u898f\u5247, \u89c4\u5219)",
+    "answer": "rule, regulation",
+    "audio": "top2/755.mp3"
+  },
+  {
+    "key": "\u4ee5\u5916",
+    "alt": "y\u01d0w\u00e0i (\u4ee5\u5916, \u4ee5\u5916)",
+    "answer": "other than, except, beyond, outside",
+    "audio": "top2/756.mp3"
+  },
+  {
+    "key": "\u95dc\u61f7",
+    "alt": "gu\u0101nhu\u00e1i (\u95dc\u61f7, \u5173\u6000)",
+    "answer": "show loving care/concern for",
+    "audio": "top2/757.mp3"
+  },
+  {
+    "key": "\u53e6\u4e00\u65b9\u9762",
+    "alt": "l\u00ecngy\u012bf\u0101ngmi\u00e0n (\u53e6\u4e00\u65b9\u9762, \u53e6\u4e00\u65b9\u9762)",
+    "answer": "conj.: on the other hand",
+    "audio": "top2/758.mp3"
+  },
+  {
+    "key": "\u5be6\u529b",
+    "alt": "sh\u00edl\u00ec (\u5be6\u529b, \u5b9e\u529b)",
+    "answer": "strength, actual strength, efficiency",
+    "audio": "top2/759.mp3"
+  },
+  {
+    "key": "\u5047\u5982",
+    "alt": "ji\u01cer\u00fa (\u5047\u5982, \u5047\u5982)",
+    "answer": "conj.: if, supposing, in case",
+    "audio": "top2/760.mp3"
+  },
+  {
+    "key": "\u7814\u767c",
+    "alt": "y\u00e1nf\u0101 (\u7814\u767c, \u7814\u53d1)",
+    "answer": "research and develop, R&D, research and develop something, research and development",
+    "audio": "top2/761.mp3"
+  },
+  {
+    "key": "\u653b\u64ca",
+    "alt": "g\u014dngj\u00ed (\u653b\u64ca, \u653b\u51fb)",
+    "answer": "attack, assault, accuse, vilify",
+    "audio": "top2/762.mp3"
+  },
+  {
+    "key": "\u5e79\u90e8",
+    "alt": "g\u00e0nb\u00f9 (\u5e79\u90e8, \u5e72\u90e8)",
+    "answer": "organizer, staff, cadre",
+    "audio": "top2/763.mp3"
+  },
+  {
+    "key": "\u8cc7\u683c",
+    "alt": "z\u012bg\u00e9 (\u8cc7\u683c, \u8d44\u683c)",
+    "answer": "claim, credential, prerequisite, character, capability, qualifications, requirement, qualification, capacity, root/basis part of a character, status, sufficiency, seniority, competence, fitness, competency, condition",
+    "audio": "top2/764.mp3"
+  },
+  {
+    "key": "\u5f15\u9032",
+    "alt": "y\u01d0nj\u00ecn (\u5f15\u9032, \u5f15\u8fdb)",
+    "answer": "recommend, introduce from elsewhere",
+    "audio": "top2/765.mp3"
+  },
+  {
+    "key": "\u505a\u5230",
+    "alt": "zu\u00f2d\u00e0o (\u505a\u5230, \u505a\u5230)",
+    "answer": "achievement, accomplishment, achieve, accomplish",
+    "audio": "top2/766.mp3"
+  },
+  {
+    "key": "\u5403\u98ef",
+    "alt": "ch\u012bf\u00e0n (\u5403\u98ef, \u5403\u996d)",
+    "answer": "feed, dine, make a living, keep alive, have a meal, eat",
+    "audio": "top2/767.mp3"
+  },
+  {
+    "key": "\u4fdd\u96aa",
+    "alt": "b\u01ceoxi\u01cen (\u4fdd\u96aa, \u4fdd\u9669)",
+    "answer": "insurance",
+    "audio": "top2/768.mp3"
+  },
+  {
+    "key": "\u767c\u884c",
+    "alt": "f\u0101x\u00edng (\u767c\u884c, \u53d1\u884c)",
+    "answer": "issue, publish, distribute, put on sale",
+    "audio": "top2/769.mp3"
+  },
+  {
+    "key": "\u58de",
+    "alt": "hu\u00e0i (\u58de, \u574f)",
+    "answer": "spoiled",
+    "audio": "top2/770.mp3"
+  },
+  {
+    "key": "\u8b49\u5238",
+    "alt": "zh\u00e8ngqu\u00e0n (\u8b49\u5238, \u8bc1\u5238)",
+    "answer": "document, bond, bill, stock certificate, security, certificate, portfolio, bond certificate, negotiable securities, stock",
+    "audio": "top2/771.mp3"
+  },
+  {
+    "key": "\u5927\u5e45",
+    "alt": "d\u00e0f\u00fa (\u5927\u5e45, \u5927\u5e45)",
+    "answer": "to a great extent",
+    "audio": "top2/772.mp3"
+  },
+  {
+    "key": "\u9084\u6709",
+    "alt": "h\u00e1iy\u01d2u (\u9084\u6709, \u8fd8\u6709)",
+    "answer": "conj.: furthermore, in addition",
+    "audio": "top2/773.mp3"
+  },
+  {
+    "key": "\u516c\u65a4",
+    "alt": "g\u014dngj\u012bn (\u516c\u65a4, \u516c\u65a4)",
+    "answer": "m.[standard]",
+    "audio": "top2/774.mp3"
+  },
+  {
+    "key": "\u6027\u8cea",
+    "alt": "x\u00ecngzh\u00ed (\u6027\u8cea, \u6027\u8d28)",
+    "answer": "kidney, attribute, fibre, description, affection, temper, nature, self, mold, temperament, property, composition, character, hair, bent, kind, disposition, habitude, meridian, dimension, quality, note, sort",
+    "audio": "top2/775.mp3"
+  },
+  {
+    "key": "\u67d0\u4e9b",
+    "alt": "m\u01d2uxi\u0113 (\u67d0\u4e9b, \u67d0\u4e9b)",
+    "answer": "little, some, det.: come",
+    "audio": "top2/776.mp3"
+  },
+  {
+    "key": "\u5e78\u798f",
+    "alt": "x\u00ecngf\u00fa (\u5e78\u798f, \u5e78\u798f)",
+    "answer": "happy",
+    "audio": "top2/777.mp3"
+  },
+  {
+    "key": "\u4ee5\u4e0a",
+    "alt": "y\u01d0sh\u00e0ng (\u4ee5\u4e0a, \u4ee5\u4e0a)",
+    "answer": "the above/foregoing/above mentioned",
+    "audio": "top2/778.mp3"
+  },
+  {
+    "key": "\u660e\u78ba",
+    "alt": "m\u00edngqu\u00e8 (\u660e\u78ba, \u660e\u786e)",
+    "answer": "define, make clear/definite, make definite, definite, make clear",
+    "audio": "top2/779.mp3"
+  },
+  {
+    "key": "\u806f\u76df",
+    "alt": "li\u00e1nm\u00e9ng (\u806f\u76df, \u8054\u76df)",
+    "answer": "conference, alliance, coalition, hookup, ally, Verein, confederacy, federacy, circuit, combination, Bund, confederation, federation, union, bloc, league, axis",
+    "audio": "top2/780.mp3"
+  },
+  {
+    "key": "\u4e3b\u6301",
+    "alt": "zh\u01d4ch\u00ed (\u4e3b\u6301, \u4e3b\u6301)",
+    "answer": "preside, head, care of, take care of, preside over, chair, minister, sponsor, direct, uphold, direction, take charge/care of, take charge of, moderate, emcee, celebrate, manage, host, mastermind, officiate, stand for, managment, run, take charge, compere",
+    "audio": "top2/781.mp3"
+  },
+  {
+    "key": "\u4e00\u518d",
+    "alt": "y\u012bz\u00e0i (\u4e00\u518d, \u4e00\u518d)",
+    "answer": "repeatedly, again and again, time and again, over_and_over",
+    "audio": "top2/782.mp3"
+  },
+  {
+    "key": "\u4fdd\u80b2",
+    "alt": "b\u01ceoy\u016b (\u4fdd\u80b2, \u4fdd\u80b2)",
+    "answer": "child care",
+    "audio": "top2/783.mp3"
+  },
+  {
+    "key": "\u5e2b\u751f",
+    "alt": "sh\u012bsh\u0113ng (\u5e2b\u751f, \u5e08\u751f)",
+    "answer": "teacher and student",
+    "audio": "top2/784.mp3"
+  },
+  {
+    "key": "\u7acb\u59d4",
+    "alt": "l\u00ecw\u011bi (\u7acb\u59d4, \u7acb\u59d4)",
+    "answer": "legislator",
+    "audio": "top2/785.mp3"
+  },
+  {
+    "key": "\u6539",
+    "alt": "g\u01cei (\u6539, \u6539)",
+    "answer": "alteration, rectification, transformation, change, correct, put ... right, transform, rectify, revision, switch over to, ameliorate, revise, put right, amend, correction, gybe, alter",
+    "audio": "top2/786.mp3"
+  },
+  {
+    "key": "\u5e74",
+    "alt": "ni\u00e1n (\u5e74, \u5e74)",
+    "answer": "age, New Year, a period in one's life, a period in history, harvest",
+    "audio": "top2/787.mp3"
+  },
+  {
+    "key": "\u591a\u534a",
+    "alt": "du\u014db\u00e0n (\u591a\u534a, \u591a\u534a)",
+    "answer": "det : the greater part",
+    "audio": "top2/788.mp3"
+  },
+  {
+    "key": "\u7ba1\u9053",
+    "alt": "gu\u01cend\u00e0o (\u7ba1\u9053, \u7ba1\u9053)",
+    "answer": "pipeline, conduit, piping, channel for communication/etc.",
+    "audio": "top2/789.mp3"
+  },
+  {
+    "key": "\u7d55\u4e0d",
+    "alt": "ju\u00e9b\u00f9 (\u7d55\u4e0d, \u7edd\u4e0d)",
+    "answer": "to no degree, by no means, scarcely, nowise, not by a long sight, not by a blame sight, never, ne'er, hardly",
+    "audio": "top2/790.mp3"
+  },
+  {
+    "key": "\u5831",
+    "alt": "b\u00e0o (\u5831, \u62a5)",
+    "answer": "newspaper, periodical, bulletin, telegram",
+    "audio": "top2/791.mp3"
+  },
+  {
+    "key": "\u8a8d\u540c",
+    "alt": "r\u00e8nt\u00f3ng (\u8a8d\u540c, \u8ba4\u540c)",
+    "answer": "identify,  have meeting of the minds",
+    "audio": "top2/792.mp3"
+  },
+  {
+    "key": "\u4e00\u81f4",
+    "alt": "y\u012bzh\u00ec (\u4e00\u81f4, \u4e00\u81f4)",
+    "answer": "symphonize, coheiress, identical, quadrate, accord, coincide, equate, homologize, answer, comport, concur, consist, unanimous, chime_in, agree, jibe, unite, square, correspond, consort",
+    "audio": "top2/793.mp3"
+  },
+  {
+    "key": "\u6700\u591a",
+    "alt": "zu\u00ecdu\u014d (\u6700\u591a, \u6700\u591a)",
+    "answer": "the majority",
+    "audio": "top2/794.mp3"
+  },
+  {
+    "key": "\u80a1\u7968",
+    "alt": "g\u01d4pi\u00e0o (\u80a1\u7968, \u80a1\u7968)",
+    "answer": "capital stock, share, stock certificate, security, share certificate, stock",
+    "audio": "top2/795.mp3"
+  },
+  {
+    "key": "\u4f5c\u8005",
+    "alt": "zu\u00f2zh\u011b (\u4f5c\u8005, \u4f5c\u8005)",
+    "answer": "composer, author, writer, wright, paragrapher, auteur, paternity",
+    "audio": "top2/796.mp3"
+  },
+  {
+    "key": "\u5cf6",
+    "alt": "d\u01ceo (\u5cf6, \u5c9b)",
+    "answer": "island, isle",
+    "audio": "top2/797.mp3"
+  },
+  {
+    "key": "\u7d30\u80de",
+    "alt": "x\u00ecb\u0101o (\u7d30\u80de, \u7ec6\u80de)",
+    "answer": "cell",
+    "audio": "top2/798.mp3"
+  },
+  {
+    "key": "\u75c5\u6bd2",
+    "alt": "b\u00ecngd\u00fa (\u75c5\u6bd2, \u75c5\u6bd2)",
+    "answer": "worm, viral, virus",
+    "audio": "top2/799.mp3"
+  },
+  {
+    "key": "\u885b\u751f",
+    "alt": "w\u00e8ish\u0113ng (\u885b\u751f, \u536b\u751f)",
+    "answer": "hygiene, health, sanitation",
+    "audio": "top2/800.mp3"
+  },
+  {
+    "key": "\u6613",
+    "alt": "y\u00ec (\u6613, \u6613)",
+    "answer": "easy",
+    "audio": "top2/801.mp3"
+  },
+  {
+    "key": "\u6297\u8b70",
+    "alt": "k\u00e0ngy\u00ec (\u6297\u8b70, \u6297\u8bae)",
+    "answer": "protest",
+    "audio": "top2/802.mp3"
+  },
+  {
+    "key": "\u514d\u8cbb",
+    "alt": "mi\u01cenf\u00e8i (\u514d\u8cbb, \u514d\u8d39)",
+    "answer": "be free of charge, free_of_charge, gratuitous, gratis",
+    "audio": "top2/803.mp3"
+  },
+  {
+    "key": "\u6559\u80b2\u5c40",
+    "alt": "ji\u00e0oy\u016bj\u00fa (\u6559\u80b2\u5c40, \u6559\u80b2\u5c40)",
+    "answer": "Bureau of Education",
+    "audio": "top2/804.mp3"
+  },
+  {
+    "key": "\u54ea",
+    "alt": "na (\u54ea, \u54ea)",
+    "answer": "particle: formed by linking syllable ending in n with particle a",
+    "audio": "top2/805.mp3"
+  },
+  {
+    "key": "\u8fb2\u696d",
+    "alt": "n\u00f3ngy\u00e8 (\u8fb2\u696d, \u519c\u4e1a)",
+    "answer": "farm, farming, geoponics, husbandry, agricultural, plow, agriculture",
+    "audio": "top2/806.mp3"
+  },
+  {
+    "key": "\u7ba1\u5236",
+    "alt": "gu\u01cenzh\u00ec (\u7ba1\u5236, \u7ba1\u5236)",
+    "answer": "regulate, govern, guard, break_in, tie_up, tutor, regularize, put under surveillance, order, control",
+    "audio": "top2/807.mp3"
+  },
+  {
+    "key": "\u4e00\u5b9a",
+    "alt": "y\u012bd\u00ecng (\u4e00\u5b9a, \u4e00\u5b9a)",
+    "answer": "certain",
+    "audio": "top2/808.mp3"
+  },
+  {
+    "key": "\u81ea\u52d5\u5316",
+    "alt": "z\u00ecd\u00f2nghu\u00e0 (\u81ea\u52d5\u5316, \u81ea\u52a8\u5316)",
+    "answer": "automation",
+    "audio": "top2/809.mp3"
+  },
+  {
+    "key": "\u5c55\u793a",
+    "alt": "zh\u01censh\u00ec (\u5c55\u793a, \u5c55\u793a)",
+    "answer": "reveal, lay bare",
+    "audio": "top2/810.mp3"
+  },
+  {
+    "key": "\u60c5\u611f",
+    "alt": "q\u00edngg\u01cen (\u60c5\u611f, \u60c5\u611f)",
+    "answer": "affect, friendship, sensibility, bond, emotion, bosom, breast, sentiment, emotional, chasm, feeling, feelings",
+    "audio": "top2/811.mp3"
+  },
+  {
+    "key": "\u71b1",
+    "alt": "r\u00e8 (\u71b1, \u70ed)",
+    "answer": "hot",
+    "audio": "top2/812.mp3"
+  },
+  {
+    "key": "\u4e00\u908a",
+    "alt": "y\u012bbi\u0101n (\u4e00\u908a, \u4e00\u8fb9)",
+    "answer": "at the same time, simultaneously;on the one/other hand",
+    "audio": "top2/813.mp3"
+  },
+  {
+    "key": "\u5fd8",
+    "alt": "w\u00e0ng (\u5fd8, \u5fd8)",
+    "answer": "forget, overlook, neglect",
+    "audio": "top2/814.mp3"
+  },
+  {
+    "key": "\u62d2\u7d55",
+    "alt": "j\u00f9ju\u00e9 (\u62d2\u7d55, \u62d2\u7edd)",
+    "answer": "deny, rebut, bar, repel, naysay, scout, abnegate, overrule, reject, decline, disclaim, eliminate, refusal, deduct, turn away, snub, shut, thumb, debar, abjure, override, exclude, recant, turndown, withhold, renunciate, retract, repudiate, forswear, turn_down, turn down, nill, kick, brush_off, repulse, rule out, brush off, recoup, pass up, rebuff, rejection, renounce, refuse, nix, foreclose",
+    "audio": "top2/815.mp3"
+  },
+  {
+    "key": "\u53ea\u6709",
+    "alt": "zh\u01d0y\u01d2u (\u53ea\u6709, \u53ea\u6709)",
+    "answer": "conj.: only,  alone",
+    "audio": "top2/816.mp3"
+  },
+  {
+    "key": "\u59bb\u5b50",
+    "alt": "q\u012bz\u01d0 (\u59bb\u5b50, \u59bb\u5b50)",
+    "answer": "frow, feme, married woman, wifelike, wife, woman, femme, missis, squaw",
+    "audio": "top2/817.mp3"
+  },
+  {
+    "key": "\u884c\u696d",
+    "alt": "h\u00e1ngy\u00e8 (\u884c\u696d, \u884c\u4e1a)",
+    "answer": "metier, mystery, profession, line, game, craft, calling, trade, industry, biz, walk_of_life, racket, living",
+    "audio": "top2/818.mp3"
+  },
+  {
+    "key": "\u7d93\u7406",
+    "alt": "j\u012bngl\u01d0 (\u7d93\u7406, \u7ecf\u7406)",
+    "answer": "amaldar, intendant, manager, steward, executive, managing director, exec, director, skipper, syndic, executive director",
+    "audio": "top2/819.mp3"
+  },
+  {
+    "key": "\u90a3\u6a23",
+    "alt": "n\u00e0y\u00e0ng (\u90a3\u6a23, \u90a3\u6837)",
+    "answer": "that kind of, like that",
+    "audio": "top2/820.mp3"
+  },
+  {
+    "key": "\u548c\u5e73",
+    "alt": "h\u00e9p\u00edng (\u548c\u5e73, \u548c\u5e73)",
+    "answer": "mild, peaceful",
+    "audio": "top2/821.mp3"
+  },
+  {
+    "key": "\u54ed",
+    "alt": "k\u016b (\u54ed, \u54ed)",
+    "answer": "greet, cry, weep",
+    "audio": "top2/822.mp3"
+  },
+  {
+    "key": "\u57ce",
+    "alt": "ch\u00e9ng (\u57ce, \u57ce)",
+    "answer": "wall, city wall, city, kasbah, town, township, burgh, castle, burg",
+    "audio": "top2/823.mp3"
+  },
+  {
+    "key": "\u6839",
+    "alt": "g\u0113n (\u6839, \u6839)",
+    "answer": "m.[general]",
+    "audio": "top2/824.mp3"
+  },
+  {
+    "key": "\u4e3b\u4eba",
+    "alt": "zh\u01d4r\u00e9n (\u4e3b\u4eba, \u4e3b\u4eba)",
+    "answer": "lord, housemaster, host, symposiarch, marse, bwana, padrone, boss, master, baas, provider, mast, owner, landlord",
+    "audio": "top2/825.mp3"
+  },
+  {
+    "key": "\u5ee0",
+    "alt": "ch\u01ceng (\u5ee0, \u5382)",
+    "answer": "factory, mill, plant, works, yard, depot",
+    "audio": "top2/826.mp3"
+  },
+  {
+    "key": "\u5927\u4eba",
+    "alt": "d\u00e0r\u00e9n (\u5927\u4eba, \u5927\u4eba)",
+    "answer": "grownup, adult, milord, respectful salutation for one's seniors/, grown up, respectful salutation for one's parents, Your Excellency, panjandrum, Highness, respectful salutation for one's parents/seniors/etc., Tuan, Bahadur, bahadur, sahib",
+    "audio": "top2/827.mp3"
+  },
+  {
+    "key": "\u6a5f\u5668",
+    "alt": "j\u012bq\u00ec (\u6a5f\u5668, \u673a\u5668)",
+    "answer": "enginery, life, machinery, machine, plant, apparatus, engine, gizmo",
+    "audio": "top2/828.mp3"
+  },
+  {
+    "key": "\u4e0d\u5f97",
+    "alt": "b\u00f9d\u00e9 (\u4e0d\u5f97, \u4e0d\u5f97)",
+    "answer": "must/may not, not be allowed",
+    "audio": "top2/829.mp3"
+  },
+  {
+    "key": "\u6a4b",
+    "alt": "qi\u00e1o (\u6a4b, \u6865)",
+    "answer": "backbend, fret, span, pons, pier arch, bridge, spar",
+    "audio": "top2/830.mp3"
+  },
+  {
+    "key": "\u4ee5\u4e0b",
+    "alt": "y\u01d0xi\u00e0 (\u4ee5\u4e0b, \u4ee5\u4e0b)",
+    "answer": "the following",
+    "audio": "top2/831.mp3"
+  },
+  {
+    "key": "\u5e45",
+    "alt": "f\u00fa (\u5e45, \u5e45)",
+    "answer": "vector, width of cloth, size, piece, m.[general], ",
+    "audio": "top2/832.mp3"
+  },
+  {
+    "key": "\u516c\u5206",
+    "alt": "g\u014dngf\u0113n (\u516c\u5206, \u516c\u5206)",
+    "answer": "m.[standard]",
+    "audio": "top2/833.mp3"
+  },
+  {
+    "key": "\u5931\u6557",
+    "alt": "sh\u012bb\u00e0i (\u5931\u6557, \u5931\u8d25)",
+    "answer": "be defeated, fail, lose",
+    "audio": "top2/834.mp3"
+  },
+  {
+    "key": "\u771f\u5be6",
+    "alt": "zh\u0113nsh\u00ed (\u771f\u5be6, \u771f\u5b9e)",
+    "answer": "true, real, authentic, factual",
+    "audio": "top2/835.mp3"
+  },
+  {
+    "key": "\u4e3b\u5f35",
+    "alt": "zh\u01d4zh\u0101ng (\u4e3b\u5f35, \u4e3b\u5f20)",
+    "answer": "advocate, stand for, maintain, hold",
+    "audio": "top2/836.mp3"
+  },
+  {
+    "key": "\u5916\u9762",
+    "alt": "w\u00e0imi\u00e0n (\u5916\u9762, \u5916\u9762)",
+    "answer": "surface, outward appearance, without, outside, exterior",
+    "audio": "top2/837.mp3"
+  },
+  {
+    "key": "\u76f4",
+    "alt": "zh\u00ed (\u76f4, \u76f4)",
+    "answer": "directly, straight, continuously, just, simply",
+    "audio": "top2/838.mp3"
+  },
+  {
+    "key": "\u8eca\u5b50",
+    "alt": "ch\u0113zi (\u8eca\u5b50, \u8f66\u5b50)",
+    "answer": "vehicle",
+    "audio": "top2/839.mp3"
+  },
+  {
+    "key": "\u661f\u671f",
+    "alt": "x\u012bngq\u00ed (\u661f\u671f, \u661f\u671f)",
+    "answer": "Sunday, week",
+    "audio": "top2/840.mp3"
+  },
+  {
+    "key": "\u8868\u9762",
+    "alt": "bi\u01ceomi\u00e0n (\u8868\u9762, \u8868\u9762)",
+    "answer": "crust, superficial, facing, show, exterior, obverse, rind, face, superficies, top, outside, appearance, facade, surface, bosom, window dressing",
+    "audio": "top2/841.mp3"
+  },
+  {
+    "key": "\u7d10\u7d04",
+    "alt": "ni\u01d2uyu\u0113 (\u7d10\u7d04, \u7ebd\u7ea6)",
+    "answer": "New York city in American",
+    "audio": "top2/842.mp3"
+  },
+  {
+    "key": "\u505a\u6cd5",
+    "alt": "zu\u00f2f\u01ce (\u505a\u6cd5, \u505a\u6cd5)",
+    "answer": "way of doing sth., modus_operandi, practice, manner, method, making sth., way of making sth., shtick, way, way of doing, way of doing/making sth., personal manner",
+    "audio": "top2/843.mp3"
+  },
+  {
+    "key": "\u5275\u610f",
+    "alt": "chu\u00e0ngy\u00ec (\u5275\u610f, \u521b\u610f)",
+    "answer": "create new meanings, get up and",
+    "audio": "top2/844.mp3"
+  },
+  {
+    "key": "\u53f0\u4e2d",
+    "alt": "t\u00e1izh\u014dng (\u53f0\u4e2d, \u53f0\u4e2d)",
+    "answer": "Taichung big city in Taiwan",
+    "audio": "top2/845.mp3"
+  },
+  {
+    "key": "\u4e43",
+    "alt": "n\u01cei (\u4e43, \u4e43)",
+    "answer": "therefore",
+    "audio": "top2/846.mp3"
+  },
+  {
+    "key": "\u69cb\u6210",
+    "alt": "g\u00f2uch\u00e9ng (\u69cb\u6210, \u6784\u6210)",
+    "answer": "constitute, form, compose, make up",
+    "audio": "top2/847.mp3"
+  },
+  {
+    "key": "\u7db2\u969b",
+    "alt": "w\u01cengj\u00ec (\u7db2\u969b, \u7f51\u9645)",
+    "answer": "internet",
+    "audio": "top2/848.mp3"
+  },
+  {
+    "key": "\u600e\u9ebc\u8fa6",
+    "alt": "z\u011bnmeb\u00e0n (\u600e\u9ebc\u8fa6, \u600e\u4e48\u529e)",
+    "answer": "what should someone do?",
+    "audio": "top2/849.mp3"
+  },
+  {
+    "key": "\u4e8b\u52d9",
+    "alt": "sh\u00ecw\u00f9 (\u4e8b\u52d9, \u4e8b\u52a1)",
+    "answer": "pursuit, shebang, routine, affair, work, concern, general affairs, desk, business, matter, transaction",
+    "audio": "top2/850.mp3"
+  },
+  {
+    "key": "\u773c\u524d",
+    "alt": "y\u01cenqi\u00e1n (\u773c\u524d, \u773c\u524d)",
+    "answer": "before one's eyes",
+    "audio": "top2/851.mp3"
+  },
+  {
+    "key": "\u8b66\u5bdf",
+    "alt": "j\u01d0ngch\u00e1 (\u8b66\u5bdf, \u8b66\u5bdf)",
+    "answer": "police officer, cop, trooper, bluecoat, finest, jack, peon, policeman, police force, constable, policemen, flattie, fuzz, constabulary, shamus, bull, bobby, robert, copper, tipstaff, rozzer, flatfoot, john, peeler, Vopo, law, runner, officer, gumshoe, pig, police, the police, beetle crusher, flic",
+    "audio": "top2/852.mp3"
+  },
+  {
+    "key": "\u500b\u6027",
+    "alt": "g\u00e8x\u00ecng (\u500b\u6027, \u4e2a\u6027)",
+    "answer": "kidney, specific property, personalism, fibre, individuation, personhood, particularity, fiber, character, individual character, self identity, mentality, idiosyncrasy, spirit, individuality, individualism, selfhood, personality",
+    "audio": "top2/853.mp3"
+  },
+  {
+    "key": "\u7814\u7a76\u9662",
+    "alt": "y\u00e1nji\u00f9yu\u00e0n (\u7814\u7a76\u9662, \u7814\u7a76\u9662)",
+    "answer": "research institute, academy",
+    "audio": "top2/854.mp3"
+  },
+  {
+    "key": "\u610f\u9858",
+    "alt": "y\u00ecyu\u00e0n (\u610f\u9858, \u610f\u613f)",
+    "answer": "will, wish, desire, inclination, aspiration, request, pleasure",
+    "audio": "top2/855.mp3"
+  },
+  {
+    "key": "\u8996\u8a0a",
+    "alt": "sh\u00ecx\u00f9n (\u8996\u8a0a, \u89c6\u8baf)",
+    "answer": "visual signal, video, display",
+    "audio": "top2/856.mp3"
+  },
+  {
+    "key": "\u9ad4\u5236",
+    "alt": "t\u01d0zh\u00ec (\u9ad4\u5236, \u4f53\u5236)",
+    "answer": "frame, organization, system of organization, framework, system, apparatus, framing, organisation",
+    "audio": "top2/857.mp3"
+  },
+  {
+    "key": "\u7d93\u6fdf\u90e8",
+    "alt": "j\u012bngj\u00ecb\u00f9 (\u7d93\u6fdf\u90e8, \u7ecf\u6d4e\u90e8)",
+    "answer": "Ministry of Economic Affairs",
+    "audio": "top2/858.mp3"
+  },
+  {
+    "key": "\u611f\u53d7",
+    "alt": "g\u01censh\u00f2u (\u611f\u53d7, \u611f\u53d7)",
+    "answer": "perception, sentiment, mood",
+    "audio": "top2/859.mp3"
+  },
+  {
+    "key": "\u8ca0\u8cac\u4eba",
+    "alt": "f\u00f9z\u00e9r\u00e9n (\u8ca0\u8cac\u4eba, \u8d1f\u8d23\u4eba)",
+    "answer": "sponsor, point man, leading cadre, person in charge, undertaker, keeper",
+    "audio": "top2/860.mp3"
+  }
+]
