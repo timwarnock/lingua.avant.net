@@ -251,4 +251,4 @@
   border-top-color: rgba(0, 0, 0, 0.82);
 }
 
-.md-typeset [title] { cursor: help; }
+.md-typeset span { cursor: help; }
