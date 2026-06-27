@@ -22,10 +22,10 @@ We will use [Zensical](https://zensical.org/) to manage all content.
 Zensical project set up in `ora/`. Special preview at `/ora/site/`. Migrated old /v/ content organized directly in language/topic sections under docs/. Dev server on :7007.
 
 Language sections present: chinese, espanol, vietnamese, tips.
+WP site references cleaned (no links to old /v/ or wp-content); PDFs and poem audio copied locally; poem player + format updated.
 
 ## TODO
 
-+ [ ] Zensical tooltip, migrate tooltip content from old wordpress site (https://lingua.avant.net/v/) to the new zensical site in `ora/`
-+ [ ] Organize new language sections, each focused on learning the Rosary in that language
-+ [ ] Plan and execute the cutover
++ Plan and execute the cutover
++ Organize new language sections, each focused on learning the Rosary in that language
 

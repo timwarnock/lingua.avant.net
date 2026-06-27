@@ -4,7 +4,7 @@ icon: lucide/bar-chart
 
 # FSI difficulty ranking
 
-The US Foreign Service Institute ( [FSI](fsi.md) ) created a [list](http://lingua.avant.net/wp-content/uploads/2018/01/247092.pdf) estimating the length of time required to learn each of the languages taught by the FSI. The estimates are based on native English speakers with no prior knowledge of the language.
+The US Foreign Service Institute ( [FSI](fsi.md) ) created a [list](/assets/pdf/247092.pdf) estimating the length of time required to learn each of the languages taught by the FSI. The estimates are based on native English speakers with no prior knowledge of the language.
 
 Here is an overview:
 
@@ -42,4 +42,4 @@ Arabic, Chinese (Cantonese and Madarin), Japanese, and Korean
 
 ---
 
-What’s fascinating is that the [document](http://lingua.avant.net/wp-content/uploads/2018/01/247092.pdf) includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).
+What’s fascinating is that the [document](/assets/pdf/247092.pdf) includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).

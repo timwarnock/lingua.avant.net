@@ -4,158 +4,126 @@ icon: lucide/quote
 
 # <span title="Shuōhuà - Speaking">說話</span>
 
-*a poem by <span title="Sòngshàngwěi">宋尚緯</span> *
+*a poem by 宋尚緯*
 
-[Audio](http://lingua.avant.net/wp-content/uploads/2018/12/說話.m4a)
+<audio controls src="/assets/audio/shuohua.m4a" style="margin: 0.5em 0 1em; max-width: 100%;"></audio>
 
-<span title="nǐ yuàn yì hàn wǒ shuō xiē huà ma">你願意和我說些話嗎</span> 
-
+你願意和我說些話嗎  
 （are you willing to speak with me?）
 
-<span title="shuō xiē wēn róu de huà">說些溫柔的話</span> 
-
+說些溫柔的話  
 （speak warm and gentle words）
 
-<span title="ràng wǒ wàng jì sǐ wáng">讓我忘記死亡</span> 
-
+讓我忘記死亡  
 （Let me forget about death）
 
-<span title="wàng jì rì cháng de guǐ mèi">忘記日常的鬼魅</span> 
-
+忘記日常的鬼魅  
 （Forget the ghosts of everyday life）
 
-<span title="zài wǒ shēn biān yóu dàng">在我身邊遊蕩</span> 
-
+在我身邊遊蕩  
 （Waiting beside my body）
 
-<span title="kàn jiàn tǎng xià de yàng zǐ xiàng zì">看見躺下的樣子像字</span> 
-
+看見躺下的樣子像字  
 （Lying down like a written word）
 
-<span title="zhú jiàn biàn xiǎo ，cái xiǎng qǐ">逐漸變小，才想起</span> 
-
+逐漸變小，才想起  
 （Slowly shrinking, it comes to me）
 
-<span title="wèn nǐ shì fǒu yuàn yì">問你是否願意</span> 
-
+問你是否願意  
 （To ask you if you’re willing）
 
-<span title="xiě xiē zì gěi wǒ xiàng zài tài kōng">寫些字給我像在太空</span> 
-
+寫些字給我像在太空  
 （To write some words to me, as if in outer space）
 
-<span title="měi gè bǐ huà dōu shì yǎng qì">每個筆畫都是氧氣</span> 
-
+每個筆畫都是氧氣  
 （Every stroke is oxygen）
 
-<span title="nǐ zài de dì fāng xià yǔ le ma">你在的地方下雨了嗎</span> 
+* * *
 
+你在的地方下雨了嗎  
 （Is there rain where you are?）
 
-<span title="xiàng wǒ zhè biān yī yàng">像我這邊一樣</span> 
-
+像我這邊一樣  
 （Same as where I am）
 
-<span title="luò xià de yǔ dōu shì zhēn">落下的雨都是針</span> 
-
+落下的雨都是針  
 （The falling drops are like needles）
 
-<span title="jiāng rì zǐ féng qǐ">將日子縫起</span> 
-
+將日子縫起  
 （Sewing up the day）
 
-<span title="shāng xīn jiù bù huì bèi kàn jiàn">傷心就不會被看見</span> 
-
+傷心就不會被看見  
 （Sadness will not be seen）
 
-<span title="hǎo xiǎng wèn wèn nǐ nà lǐ">好想問問你那裡</span> 
-
+好想問問你那裡  
 （I really want to ask where you are）
 
-<span title="shì fǒu yǒu xuě luò xià shí de jìng mì">是否有雪落下時靜謐</span> 
-
+是否有雪落下時靜謐  
 （If there is the silence of snow falling）
 
-<span title="kōng qì zhōng yě chōng mǎn shén mì">空氣中也充滿神秘</span> 
-
+空氣中也充滿神秘  
 （and the air is full of mystery）
 
-<span title="nà nǐ yuàn yì tīng wǒ chàng gē ma">那你願意聽我唱歌嗎</span> 
+* * *
 
+那你願意聽我唱歌嗎  
 （Then, are you willing to hear me sing）
 
-<span title="yuàn yì kàn wǒ zuò xiē">願意看我做些</span> 
-
+願意看我做些  
 （Willing to watch me do something）
 
-<span title="bèn yě méi yǒu guān xì de shì ma">笨也沒有關係的事嗎</span> 
-
+笨也沒有關係的事嗎  
 （Silly and that’s fine）
 
-<span title="wǒ kàn dào yǔ huì jù chéng yī piàn shuǐ wā">我看到雨匯聚成一片水窪</span> 
-
+我看到雨匯聚成一片水窪  
 （I see the raindrops gather in a puddle）
 
-<span title="mò mò dì xiǎng nǐ">默默地想你</span> 
-
+默默地想你  
 （Quietly think of you）
 
-<span title="huì xiàng shuǐ nà yàng ma">會像水那樣嗎</span> 
-
+會像水那樣嗎  
 （Will you be like water?）
 
-<span title="xiàng shuǐ nà yàng liú guò wǒ">像水那樣流過我</span> 
-
+像水那樣流過我  
 （Like water flowing past me）
 
-<span title="wēn róu xiàng yǔ máo fú zài dà qì zhī shàng">溫柔像羽毛浮在大氣之上</span> 
-
+溫柔像羽毛浮在大氣之上  
 （Like feathers floating upon the air）
 
-<span title="xiàng wǒ réng zài yáng shuǐ shí">像我仍在羊水時</span> 
-
+像我仍在羊水時  
 （Like when I was still in amniotic fluid）
 
-<span title="chén mò dì kàn zhe shì jiè">沉默看著世界</span> 
-
+沉默看著世界  
 （Look at the world silently）
 
-<span title="duì yú yī qiē réng wèi gǎn dào kǒng jù">對於一切仍未感到恐懼</span> 
-
+對於一切仍未感到恐懼  
 （Still not afraid of anything）
 
-<span title="réng wèi jué wàng de yàng zǐ">仍未絕望的樣子</span> 
-
+仍未絕望的樣子  
 （And not hopeless）
 
-<span title="rú guǒ nǐ yuàn yì">如果你願意</span> 
+* * *
 
+如果你願意  
 （If you’re willing to）
 
-<span title="rú guǒ nǐ yuàn yì">如果你願意</span> 
-
+如果你願意  
 （If you’re willing to）
 
-<span title="rú guǒ shēng huó xiàng nǐ">如果生活像你</span> 
-
+如果生活像你  
 （If life is like you）
 
-<span title="rú guǒ wǒ xiàng hé xǔ de rì guāng">如果我像和煦的日光</span> 
-
+如果我像和煦的日光  
 （If I’m like the balmy sunlight）
 
-<span title="rú guǒ wǒ xiàng hé huǎn de dà qì">如果我像和緩的大氣</span> 
-
+如果我像和緩的大氣  
 （If I’m like the gentle wind）
 
-<span title="rú guǒ nǐ zài">如果你在</span> 
-
+如果你在  
 （If you are）
 
-<span title="rú guǒ wǒ zài">如果我在</span> 
-
+如果我在  
 （If I am）
 
-<span title="nà wǒ yuàn yì ，wǒ yuàn yì">那我願意，我願意</span> 
-
+那我願意，我願意  
 （Then I’m willing to, I’m willing to）
