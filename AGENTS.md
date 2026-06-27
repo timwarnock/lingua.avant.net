@@ -21,8 +21,11 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 We will use [Zensical](https://zensical.org/) to manage all content.
 Dev server on :7007 for local dev (user will run, DO NOT RUN THIS YOURSELF).
 
-Zensical project set up in `ora/`. Special preview at `/ora/site/`. 
-Migrated old /v/ content organized directly in language/topic sections under docs/. 
+Zensical project set up in `ora/`. 
+All content (and style and javascript and assets) go into `ora/docs/`.
+Generated output lands in `ora/site/` (DO NOT EDIT IN HERE). 
+
+Migrated old /v/ content organized directly in language/topic sections under `ora/docs/`. 
 
 
 ## Site Organization
@@ -51,4 +54,6 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 + Create per-language rosary pages (language index.md, e.g., latin/index.md)
 + Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
 + Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
+
+
 
