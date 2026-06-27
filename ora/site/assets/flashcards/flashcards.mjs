@@ -5,7 +5,7 @@
  * pause modal with stats + resets, etc.
  */
 
-const BASE = '/assets/flashcards';
+const BASE = new URL('.', import.meta.url).href.replace(/\/$/, '');
 
 // GLOBALS (kept similar to original for fidelity)
 let MAX_WAIT = 20;
