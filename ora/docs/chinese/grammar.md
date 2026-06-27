@@ -2,7 +2,7 @@
 icon: lucide/book
 ---
 
-# 語法
+# <span title="Yǔfǎ - grammar">語法</span>
 
 **Note:** This page was left as a to-do on the original site.
 

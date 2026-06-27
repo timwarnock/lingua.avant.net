@@ -2,7 +2,7 @@
 icon: lucide/languages
 ---
 
-# Español
+# <span title="Spanish">Español</span>
 
 My goal is to read and write in Spanish, and converse well enough to have a basic conversation with a native speaker.
 
@@ -10,13 +10,13 @@ My goal is to read and write in Spanish, and converse well enough to have a basi
 
 ---
 
-## lista de quehaceres
+## <span title="to do list">lista de quehaceres</span>
 
 + *currently deferring study*
 
 ---
 
-## recomendaciones
+## <span title="recommendations">recomendaciones</span>
 
 *These are approaches that I have found the most useful, and would recommend to anyone learning Spanish.*
 
@@ -32,15 +32,15 @@ Afterall, it is a romance language: everything has a [gender](http://www.e-spany
 
 Spanish is a cognate language to English. There are tens of thousands of similar words between English and Spanish. Most English speakers have encountered many of these words already. Get to know the [cognates](/espanol/cognados/) , as well as the false cognates.
 
-**4. Escribe un diario en español, cada día .**
+**4. <span title="Write Spanish diary, daily">Escribe un diario en español, cada día</span> .**
 
 Write to yourself daily, this was painful at first because there was little I knew how to write, but eventually I started journaling in Spanish.
 
-**5. Leer en español .**
+**5. <span title="Read in Spanish">Leer en español</span> .**
 
 Read in Spanish daily; comic books, novels, newspapers, whatever you find the most interesting. The Spanish translation of Harry Potter is particularly popular amongst language learners.
 
-**6. Música y películas en español .**
+**6. <span title="Music and Movies in Spanish">Música y películas en español</span> .**
 
 Watch and listen to as much as you can. Dubbed movies can be fun, and listen to music that you enjoy (Zoé es fabuloso). I found Netflix somewhat helpful for Spanish dubbing (e.g., Guerra do los Clones). Here are some other resources:
 
@@ -80,7 +80,7 @@ Other
 
 ---
 
-## no recomendado
+## <span title="not recommended">no recomendado</span>
 
 *These are resources that I tried, but either didn’t enjoy or didn’t find useful.*
 

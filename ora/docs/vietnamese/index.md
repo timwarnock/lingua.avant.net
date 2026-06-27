@@ -2,7 +2,7 @@
 icon: lucide/languages
 ---
 
-# Tiếng Việt
+# <span title="Vietnamese">Tiếng Việt</span>
 
 My goal is to read and write in Vietnamese, understand native speakers, and speak well enough to have meaningful conversations with native speakers.
 
@@ -10,7 +10,7 @@ My goal is to read and write in Vietnamese, understand native speakers, and spea
 
 ---
 
-## Những Việc Cần Làm
+## <span title="To Do List">Những Việc Cần Làm</span>
 
 + *currently deferring study*
 
@@ -20,7 +20,7 @@ My goal is to read and write in Vietnamese, understand native speakers, and spea
 
 ---
 
-## Khuyến Nghịm
+## <span title="Recommendations">Khuyến Nghịm</span>
 
 *These are approaches that I have found the most useful, and would recommend to anyone learning Vietnamese.*
 
@@ -66,7 +66,7 @@ I recommend practicing reading to a native speaker until you can be understood (
 
 ---
 
-## Không Được Khuyến Khích
+## <span title="Not Recommended">Không Được Khuyến Khích</span>
 
 *These are resources that I tried, but either didn’t enjoy or didn’t find useful.*
 

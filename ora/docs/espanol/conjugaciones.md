@@ -2,7 +2,7 @@
 icon: lucide/languages
 ---
 
-# conjugaciones
+# <span title="conjugations">conjugaciones</span>
 
 Conjugations are sexy. The word “conjugation” shares the same latin origin as “conjugal” (as in “conjugal visit”), which in turn was a loan word from ancient Greek, meaning “to join” (or “to yoke”) together.
 

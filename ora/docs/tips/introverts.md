@@ -17,3 +17,21 @@ But let’s be clear: language learning requires practicing mundane and simple c
 ### Zone of Proximal Development
 
 This is similar to the concept of a [comfort zone](https://en.wikipedia.org/wiki/Comfort_zone), and it is the psychological state just beyond the comfort zone, sometimes referred to as the [zone of proximal development](https://en.wikipedia.org/wiki/Zone_of_proximal_development). This is where learning actually happens; for clarity I call this the Learning Zone. Beyond this is the danger zone, where you have no idea what’s happening, and you’re not actually learning anything.
+
+### Danger Zone Navigation
+
+I do not understand => <span title="Wǒ bù míngbái">我不明白</span><br />
+can you say again? => <span title="nǐ kěyǐ zàishuō yīcì ma">你可以再說一次嗎?</span><br />
+can you speak slowly please? => <span title="qǐng nǐ màn man de shuō?">請你慢慢地說?</span><br />
+I do not know how to say => <span title="Wǒ bù zhīdào zěnme shuō">我不知道怎麼說</span><br />
+let me think => <span title="Ràng wǒ xiǎng xiǎng">讓我想想</span><br />
+help me to learn => <span title="Bāngzhù wǒ xuéxí">幫助我學習</span><br />
+
+You can do this in any language. Basically, every time you find yourself in a danger zone, take that as an opportunity for learning. Practice these kind of simple phrases until you gain automaticity with each of them.
+
+### Learning Zone Navigation
+
+how do you say … in Chinese? => <span title="... de zhōngwén zěnme shuō">…的中文怎麼說?</span><br />
+what is this? => <span title="zhè shì shénme">這是什麼?</span><br />
+what is that? => <span title="nà shì shénme">那是什麼?</span><br />
+what does that mean? => <span title="Nà shì shénme yìsi?">那是什麼意思？</span><br />

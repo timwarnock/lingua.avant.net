@@ -26,7 +26,7 @@ Like Arnold working out, we will be motivated to learn proportionally to the deg
 
 ---
 
-## 2. 活到老學到老
+## 2. <span title="huó dào lǎo xué dào lǎo - live till old, learn till old">活到老學到老</span>
 
 Learning a language is like climbing an endless mountain. And I don’t mean the inspirational kind of cliche “mountain”. I mean you’ll never reach the top. You may see what you think is the top, you can reach for it, and you may pull yourself up, but you’ll find there’s another summit above the current one. It goes on like that forever.
 

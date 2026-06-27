@@ -2,7 +2,7 @@
 icon: lucide/file-text
 ---
 
-# Traditional (繁體字) vs Simplified (简体字)
+# Traditional (<span title="Fántǐ zì - traditional characters">繁體字</span>) vs Simplified (<span title="Jiǎntǐ zì - simplified characters">简体字</span>)
 
 **Note:** This page was left as a to-do on the original site.
 

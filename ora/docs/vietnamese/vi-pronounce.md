@@ -2,7 +2,7 @@
 icon: lucide/mic
 ---
 
-# Phát Âm Tiếng Việt
+# <span title="Vietnamese Pronunciation">Phát Âm Tiếng Việt</span>
 
 + alphabet
 

@@ -2,7 +2,7 @@
 icon: lucide/languages
 ---
 
-# cognados
+# <span title="cognates">cognados</span>
 
 cognados
 

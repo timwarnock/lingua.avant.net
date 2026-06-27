@@ -6,9 +6,9 @@ icon: lucide/type
 
 ## ㄓㄨˋㄧㄣ | pīn yīn
 
-Zhuyin, aka [bopomofo](https://en.wikipedia.org/wiki/Bopomofo), and [pinyin](https://en.wikipedia.org/wiki/Pinyin) are phonetic alphabets for Mandarin Chinese. While there are many other phonetic systems for Chinese, pinyin is the de-facto [romanization](https://en.wikipedia.org/wiki/Romanization) standard for Mandarin Chinese, and zhuyin is widely popular in Taiwan where it remains a default input method on smartphones and computers.
+Zhuyin, aka <span title="bopomofo">bopomofo</span>, and <span title="pīnyīn - pinyin">pinyin</span> are phonetic alphabets for Mandarin Chinese. While there are many other phonetic systems for Chinese, pinyin is the de-facto [romanization](https://en.wikipedia.org/wiki/Romanization) standard for Mandarin Chinese, and zhuyin is widely popular in Taiwan where it remains a default input method on smartphones and computers.
 
-## 注音 或 拼音?
+## <span title="zhùyīn huò pīnyīn - zhuyin or pinyin?">注音 或 拼音</span>?
 
 If you’re a native English speaker you almost have no choice but to learn pinyin. If you can type well on a Latin-keyboard, you’ll be able to type Chinese well using pinyin. I love zhuyin, but I still type much faster in pinyin.
 
@@ -22,13 +22,13 @@ Before the romanization of English, there were writing systems such as [Anglo-Sa
 
 Chinese, like English, has more than 5 vowel sounds and is a poor match to a Latin alphabet. Personally, I recommend learning BOTH zhuyin and pinyin. I’d actually recommend learning pinyin from zhuyin in order to properly focus on the Chinese phonemes and not get them confused with English phonemes.
 
-## 注音 / ㄅㄆㄇㄈ
+## <span title="zhùyīn - zhuyin">注音</span> / <span title="bopomofo">ㄅㄆㄇㄈ</span>
 
-The primary advantage for learning zhuyin is because it’s perfectly phonetic to spoken Mandarin. Chinese phonemes are very different than, say, English or Spanish phonemes, and zhuyin provides you with an entirely foreign set of symbols for a foreign sounding language. In fact, zhuyin symbols are based on traditional Chinese writing, and learning these symbols helps your brain to avoid the collisions that happens with pinyin.
+The primary advantage for learning <span title="zhùyīn - zhuyin">zhuyin</span> is because it’s perfectly phonetic to spoken Mandarin. Chinese phonemes are very different than, say, English or Spanish phonemes, and zhuyin provides you with an entirely foreign set of symbols for a foreign sounding language. In fact, zhuyin symbols are based on traditional Chinese writing, and learning these symbols helps your brain to avoid the collisions that happens with pinyin.
 
 E.g., the pinyin “u” sometimes sounds like “oo” in cartoon, but other times sounds like a German ü, which sometimes will be written as yu, or v, or ü.
 
-In zhuyin, there are no such ambiguities. The German-sounding ü is always ㄩ
+In zhuyin, there are no such ambiguities. The German-sounding ü is always <span title="bopomofo">ㄩ</span>
 
 There’s only one way to write tones in zhuyin. The zhuyin tone markers are intuitive and easy (literally just ˊ ˇ ˋ ˙).
 
@@ -42,7 +42,7 @@ There’s only one way to write tones in zhuyin. The zhuyin tone markers are int
 
 + https://en.wikipedia.org/wiki/Zhuyin_table
 
-## 拼音
+## <span title="pīnyīn - pinyin">拼音</span>
 
 The main advantage to pinyin is that it’s the official phonetic alphabet in mainland China. Every Chinese schoolkid learns pinyin. Throughout China you’ll see signs written in pinyin. Even if you don’t speak Chinese, learning pinyin can be useful if you’re traveling in China. Taiwan has also increased their use of pinyin (mostly as an aid to international visitors).
 

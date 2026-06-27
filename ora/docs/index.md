@@ -1,7 +1,8 @@
 ---
-title: 語言學習
 icon: lucide/languages
 ---
+
+# <span title="yǔyán xuéxí - language learning">語言學習</span>
 
 apprentissage des langues  
 aprendizaje de idiomas  
@@ -15,7 +16,7 @@ học ngôn ngữ
 
 ## Languages
 
-- [español](espanol/index.md)
-- [Tiếng Việt](vietnamese/index.md)
-- [中文](chinese/index.md)
+- [<span title="Spanish">español</span>](espanol/index.md)
+- [<span title="Vietnamese">Tiếng Việt</span>](vietnamese/index.md)
+- [<span title="Zhōngwén - Chinese">中文</span>](chinese/index.md)
 - [ advice ](tips/advice.md)

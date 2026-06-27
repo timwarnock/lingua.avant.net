@@ -2,7 +2,7 @@
 icon: lucide/brush
 ---
 
-# 書法
+# <span title="Shūfǎ - Calligraphy">書法</span>
 
 **Note:** This page was left as a to-do on the original site.
 

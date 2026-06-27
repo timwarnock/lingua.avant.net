@@ -2,7 +2,7 @@
 icon: lucide/music
 ---
 
-# 漢語 tones
+# <span title="Zhōngwén - Chinese">漢語</span> tones
 
 Tones in Mandarin are easy, except when they’re not, which is every time a native Chinese speaker talks or tries to understand what you’re saying.
 
@@ -31,7 +31,7 @@ Tone change rules, or [Tone sandhi](https://en.wikipedia.org/wiki/Standard_Chine
 
 #### 3rd tone to 2nd
 
-3rd tone followed by another 3rd tone becomes a 2nd tone. 老 + 鼠 = 老鼠 
+3rd tone followed by another 3rd tone becomes a 2nd tone. <span title="Lǎo - old">老</span> + <span title="shǔ">鼠</span> = <span title="láoshǔ - mouse">老鼠</span> 
 
 That’s pretty easy. But then there’s also,
 
@@ -45,21 +45,21 @@ There are other rules, like,
 
 #### 2nd tone becomes 1st
 
-2nd tone after a 1st or 2nd tone becomes a 1st tone unless it’s spoken in isolation. This is kind of what happened in the example at the top of this page, notice that 來 was more like a first tone (although not as high).
+2nd tone after a 1st or 2nd tone becomes a 1st tone unless it’s spoken in isolation. This is kind of what happened in the example at the top of this page, notice that <span title="Lái - come">來</span> was more like a first tone (although not as high).
 
 There are also tone sandhi rules for specific characters, most commonly,
 
-#### 一 (one) 
+#### <span title="yī - one">一 (one)</span> 
 
-The number one, yī, is 1st tone in isolation and it becomes 2nd tone if it precedes a 4th tone ( 一定 ); and it becomes a 4th tone if it precedes a 1st, 2nd, or 3rd tone ( 一天 , 一年 , 一起 ).
+The number one, yī, is 1st tone in isolation and it becomes 2nd tone if it precedes a 4th tone ( <span title="yídìng - for sure">一定</span> ); and it becomes a 4th tone if it precedes a 1st, 2nd, or 3rd tone ( <span title="yìtiān - a day">一天</span> , <span title="yìnián - a year">一年</span> , <span title="yìqǐ - together">一起</span> ).
 
-However, this rule did not apply to the example at the top of this page. That is, 一次 should have been a 2nd tone followed by a 4th tone. But the native speaker emphasized the first tone in 第一次 , this is because any number following 第 is spoken in its original tone (even though it connects seamless to the 次 ).
+However, this rule did not apply to the example at the top of this page. That is, <span title="yīcì - once">一次</span> should have been a 2nd tone followed by a 4th tone. But the native speaker emphasized the first tone in <span title="dì yī cì - first time">第一次</span> , this is because any number following <span title="dì - ordinal number prefix">第</span> is spoken in its original tone (even though it connects seamless to the <span title="cì - times">次</span> ).
 
-#### 不 (do not) 
+#### <span title="bù - do not">不 (do not)</span> 
 
- 不 becomes 2nd tone when it is followed by a 4th tone. Most commonly, 不是 
+ <span title="bù - do not">不</span> becomes 2nd tone when it is followed by a 4th tone. Most commonly, <span title="bú shì - is not">不是</span> 
 
- 不 can become a neutral tone when it’s part of the 是不是 pattern. Similarly, 沒 can become neutral in 有沒有 .
+ <span title="bù - do not">不</span> can become a neutral tone when it’s part of the <span title="shìbushì - yes or no?">是不是</span> pattern. Similarly, <span title="méi - not have">沒</span> can become neutral in <span title="yǒumeiyǒu - have or not have?">有沒有</span> .
 
 Importantly, you may never find an exhaustive list of all of the tone change rules, and you may find that the rules don’t always apply (especially across all native speakers). And like spelling rules in English, there are exceptions to the exceptions.
 

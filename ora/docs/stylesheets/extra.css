@@ -218,3 +218,35 @@
 .flashcard-green:hover {
   background-color: #5c6;
 }
+
+/* Make Zensical native tooltips (title=) look like the old site's word bubble */
+.md-tooltip__inner,
+.md-tooltip2__inner {
+  background: rgba(0, 0, 0, 0.82);
+  color: #fff;
+  font-size: 18px !important;
+  font-weight: normal;
+  line-height: 1.25;
+  padding: 6px 14px;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+  white-space: nowrap;
+}
+
+/* Ensure inline tooltips (common for title= on content) are also bumped */
+.md-tooltip--inline .md-tooltip__inner {
+  font-size: 18px !important;
+}
+
+/* Triangle pointer to match old bubble style */
+.md-tooltip2:before {
+  border-color: transparent;
+}
+
+.md-tooltip2--bottom:before {
+  border-bottom-color: rgba(0, 0, 0, 0.82);
+}
+
+.md-tooltip2--top:before {
+  border-top-color: rgba(0, 0, 0, 0.82);
+}
