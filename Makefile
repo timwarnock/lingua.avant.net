@@ -22,7 +22,7 @@ build:
 	cd ora && uvx zensical build
 
 deploy:
-	git add . && git commit -am updates && git push && ssh avant 'cd lingua.avant.net; git pull'
+	git push && ssh avant 'cd lingua.avant.net; git pull'
 
 serve:
 	cd ora && uvx zensical serve -a localhost:7007
