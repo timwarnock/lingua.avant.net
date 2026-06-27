@@ -66,7 +66,21 @@
   margin-bottom: 0.8em;
 }
 
-.md-nav__link.md-nav__container .md-nav__link {
+.md-nav__link.md-nav__container .md-nav__link:not(.md-nav__link--active) {
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+
+/* Active blue for section title containers (mirrors hover) */
+.md-nav__link.md-nav__container:has(.md-nav__link--active) {
+  background-color: rgba(64, 81, 181, 0.12) !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link.md-nav__container:has(.md-nav__link--active) {
+  background-color: rgba(64, 81, 181, 0.12) !important;
+}
+
+.md-nav__link.md-nav__container:has(.md-nav__link--active) .md-nav__link {
   background-color: transparent !important;
   padding: 0 !important;
 }
