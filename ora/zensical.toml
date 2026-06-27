@@ -47,19 +47,23 @@ copyright = "Copyleft 2019-2026"
 nav = [
   { "English" = [
       "english/index.md",
-      "english/extras/advice.md",
-      "english/extras/bad-advice.md",
-      "english/extras/fsi.md",
-      "english/extras/fsi-diff.md",
-      "english/extras/islands.md",
-      "english/extras/introverts.md",
-      "english/extras/multilingual.md",
-      "english/extras/ipa.md"
+      { "Extras" = [
+          "english/extras/advice.md",
+          "english/extras/bad-advice.md",
+          "english/extras/fsi.md",
+          "english/extras/fsi-diff.md",
+          "english/extras/islands.md",
+          "english/extras/introverts.md",
+          "english/extras/multilingual.md",
+          "english/extras/ipa.md"
+        ] }
     ] },
   { "Español" = [
       "espanol/index.md",
-      "espanol/extras/cognates.md",
-      "espanol/extras/conjugations.md"
+      { "[ Adicionales ]" = [
+          "espanol/extras/cognates.md",
+          "espanol/extras/conjugations.md"
+        ] }
     ] },
   { "Français" = [
       "francais/index.md"
@@ -73,8 +77,10 @@ nav = [
       "latin/glory-be.md",
       "latin/fatima-prayer.md",
       "latin/salve-regina.md",
-      "latin/extras/pronunciation.md",
-      "latin/extras/notes.md"
+      { "[ Additamenta ]" = [
+          "latin/extras/pronunciation.md",
+          "latin/extras/notes.md"
+        ] }
     ] },
   { "Polski" = [
       "polski/index.md"
@@ -84,22 +90,26 @@ nav = [
     ] },
   { "Tiếng Việt" = [
       "vietnamese/index.md",
-      "vietnamese/extras/pronunciation.md",
-      "vietnamese/extras/typing.md",
-      "vietnamese/extras/progress.md"
+      { "[ Bổ sung ]" = [
+          "vietnamese/extras/pronunciation.md",
+          "vietnamese/extras/typing.md",
+          "vietnamese/extras/progress.md"
+        ] }
     ] },
   { "Ἑλληνικά" = [
       "greek/index.md"
     ] },
   { "中文" = [
       "chinese/index.md",
-      "chinese/extras/calligraphy.md",
-      "chinese/extras/comfort-zones.md",
-      "chinese/extras/grammar.md",
-      "chinese/extras/speaking-poem.md",
-      "chinese/extras/traditional-vs-simplified.md",
-      "chinese/extras/zhuyin.md",
-      "chinese/extras/tones/index.md"
+      { "[ 附加 ]" = [
+          "chinese/extras/calligraphy.md",
+          "chinese/extras/comfort-zones.md",
+          "chinese/extras/grammar.md",
+          "chinese/extras/speaking-poem.md",
+          "chinese/extras/traditional-vs-simplified.md",
+          "chinese/extras/zhuyin.md",
+          "chinese/extras/tones/index.md"
+        ] }
     ] },
   { "日本語" = [
       "japanese/index.md"
