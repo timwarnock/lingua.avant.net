@@ -1,5 +1,5 @@
 ---
-icon: lucide/cross
+icon: material/cross
 ---
 
 # Credo de los Apóstoles

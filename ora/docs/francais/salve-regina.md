@@ -1,5 +1,5 @@
 ---
-icon: lucide/cross
+icon: material/cross
 ---
 
 # Je vous salue, Reine

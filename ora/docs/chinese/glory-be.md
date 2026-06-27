@@ -1,5 +1,5 @@
 ---
-icon: lucide/cross
+icon: material/cross
 ---
 
 # 聖三光榮經

@@ -6,11 +6,36 @@
   padding-bottom: 0.3em;
 }
 
-/* Mute Lucide icons in nav (except active). Use theme muted color + thinner stroke. */
+/* Non-active nav link text uses full strength color */
+.md-nav .md-nav__link:not(.md-nav__link--active) {
+  color: var(--md-default-fg-color) !important;
+}
+
+/* Icons in non-active nav items get reduced opacity so they are slightly less pronounced
+   than the link text. Applies to both Lucide and material icons (crosses etc.).
+   Works the same in light and dark mode. */
+.md-nav .md-nav__link:not(.md-nav__link--active) svg,
+.md-nav .md-nav__link:not(.md-nav__link--active) .md-icon {
+  opacity: 0.4 !important;
+}
+
+/* Keep Lucide thin stroke style (opacity from above applies) */
 .md-nav .md-nav__link:not(.md-nav__link--active) svg.lucide {
-  color: var(--md-default-fg-color--light) !important;
+  color: currentColor !important;
   stroke: currentColor !important;
   stroke-width: 1.5 !important;
+}
+
+/* Active nav items: full opacity for the current page's icon */
+.md-nav__link--active svg,
+.md-nav__link--active .md-icon {
+  opacity: 1 !important;
+}
+
+/* Hover: full visibility */
+.md-nav .md-nav__link:hover svg,
+.md-nav .md-nav__link:hover .md-icon {
+  opacity: 1 !important;
 }
 
 /* Sidebar nav hover and active states for cleaner UI/UX */
@@ -35,11 +60,6 @@
   background-color: rgba(64, 81, 181, 0.12); /* slight tint of primary */
   color: var(--md-primary-fg-color);
   font-weight: 600;
-}
-
-.md-nav__link--active svg.lucide {
-  color: var(--md-primary-fg-color) !important;
-  stroke: currentColor !important;
 }
 
 /* Better color for links, warmer tone */
@@ -99,6 +119,15 @@
    Only set color for visibility over the custom banner background. */
 .md-header__option {
   color: #f5f0e6;
+}
+
+/* Style the top-left header logo icon to match the light title text color.
+   Use slightly lower opacity so the icon is less pronounced than the "Ora Pro Nobis" text. */
+.md-header__button.md-logo svg,
+.md-nav__button.md-logo svg {
+  color: #f5f0e6 !important;
+  fill: currentColor !important;
+  opacity: 0.8 !important;
 }
 
 /* Flashcards - integrated modal styles using site theme */

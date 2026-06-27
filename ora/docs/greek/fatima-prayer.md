@@ -1,5 +1,5 @@
 ---
-icon: lucide/cross
+icon: material/cross
 ---
 
 # Ἡ Προσευχὴ τῆς Φατίμας
