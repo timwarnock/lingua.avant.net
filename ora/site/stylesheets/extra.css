@@ -20,6 +20,45 @@
   font-size: 0.9rem;
 }
 
+/* Icons next to text in the sidebar nav — make lighter/less bold than link text (like Zensical docs).
+   Use the theme's --md-default-fg-color--light for a solid but muted color (adapts to light/dark).
+   Thinner stroke for less bold. Strong selector + !important.
+   Exclude active/selected pages so they keep the blue accent color. */
+.md-nav .md-nav__link:not(.md-nav__link--active) svg.lucide {
+  color: var(--md-default-fg-color--light) !important;
+  stroke: currentColor !important;
+  stroke-width: 1.5 !important;
+}
+
+/* Sidebar nav hover and active states for cleaner UI/UX */
+.md-nav__link {
+  border-radius: 4px;
+  transition: background-color 120ms ease, color 120ms ease;
+  padding: 0.4em 0.5em;   /* more vertical padding so bg forms a nice box around text+icon */
+  margin-top: 0.08em;     /* small gap between the padded boxes */
+}
+
+.md-nav .md-nav__link:hover {
+  background-color: rgba(0, 0, 0, 0.06);
+  color: inherit !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav .md-nav__link:hover {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+  color: inherit !important;
+}
+
+.md-nav__link--active {
+  background-color: rgba(64, 81, 181, 0.12); /* slight blue */
+  color: #4051b5; /* bold primary blue */
+  font-weight: 600;
+}
+
+.md-nav__link--active svg.lucide {
+  color: #4051b5 !important;
+  stroke: currentColor !important;
+}
+
 /* Better color for links, warmer tone */
 .md-typeset a {
   color: #2a5f8f;
@@ -75,6 +114,12 @@
 /* Subtle dark treatment on tabs so they blend with the banner */
 .md-tabs {
   background: rgba(0,0,0,0.3);
+}
+
+/* Keep the light/dark mode toggle in the header at full prominence.
+   Only set color for visibility over the custom banner background. */
+.md-header__option {
+  color: #f5f0e6;
 }
 
 /* Flashcards - integrated modal styles using site theme */

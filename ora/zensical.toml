@@ -67,7 +67,18 @@ nav = [
       "francais/index.md"
     ] },
   { "Latina" = [
-      "latin/index.md"
+      "latin/index.md",
+      "latin/sign-of-the-cross.md",
+      "latin/apostles-creed.md",
+      "latin/our-father.md",
+      "latin/hail-mary.md",
+      "latin/glory-be.md",
+      "latin/fatima-prayer.md",
+      "latin/salve-regina.md",
+      { "[ Additamenta ]" = [
+          "latin/pronunciation.md",
+          "latin/notes.md"
+        ] }
     ] },
   { "Polski" = [
       "polski/index.md"
@@ -318,27 +329,23 @@ features = [
 text = "Inter"
 code = "JetBrains Mono"
 
-# Custom palette for a warmer, less generic look
-[[project.theme.palette]]
-primary = "indigo"
-accent = "teal"
-scheme = "default"
-
 # ----------------------------------------------------------------------------
-# In the "palette" subsection you can configure options for the color scheme.
-# You can configure different color schemes, e.g., to turn on dark mode,
-# that the user can switch between. Each color scheme can be further
-# customized.
+# Color palettes with light/dark mode toggle.
+# The toggle icons appear in the header.
 #
 # Read more:
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
+primary = "indigo"
+accent = "teal"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
+primary = "indigo"
+accent = "teal"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"

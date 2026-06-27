@@ -36,6 +36,7 @@ So in English something like:
 + Hail Mary
 + Glory Be
 + Fatima Prayer
++ Hail Holy Queen (should also include "Let us pray...")
 
 Every language should have pages for those, every one.
 The landing page in each language will explain the rosary, the mysteries and dates, minimal text and more of a guide (so each language would have sufficient information to say the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation...", and then it links to the specific prayer pages.
