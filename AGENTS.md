@@ -9,10 +9,9 @@ Revive lingua.avant.net to focus on traditional Christian prayers such as the Ro
 - Confirm alignment before any action.
 - Never use the ask_user_question tool.
 - Keep everything simple and direct.
-- Document decisions here.
 - Human directs the order of work.
-- Keep the TODO section at the bottom of AGENTS.md. Do not add new sections or slop to this document.
 - Never document or reference what not to do, avoided steps, or negative instructions (context poison).
+- This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
 
 
 ## Current Status
@@ -29,5 +28,4 @@ Language sections present: chinese, espanol, vietnamese, tips.
 ## TODO
 
 + Organize new language sections, each focused on learning the Rosary in that language
-+ Restored root index.php (redirect to /v/) and removed .htaccess per user direction
 
