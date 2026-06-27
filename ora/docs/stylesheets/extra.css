@@ -1,23 +1,9 @@
 /* Custom styles - less generic docs feel, more content focused */
 
-/* Content typography. 
-   Theme default: .md-typeset { font-size: .8rem; } (very small).
-   Original site body text was effectively ~15-16px (100% of 16px) with line-height:1.4 and condensed sans.
-*/
-.md-typeset {
-  font-size: 0.85rem;  /* 13.6px at 16px root - compact like original */
-  line-height: 1.45;
-}
-
 .md-typeset h1 {
   font-weight: 600;
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 0.3em;
-}
-
-/* Make navigation feel more like old site */
-.md-nav__link {
-  font-size: 0.9rem;
 }
 
 /* Icons next to text in the sidebar nav — make lighter/less bold than link text (like Zensical docs).

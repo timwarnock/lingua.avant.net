@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Revive lingua.avant.net to focus on traditional Christian prayers such as the Rosary for language learning.
+Develop lingua.avant.net to focus on traditional Christian prayers, specifically the Rosary, for language learning.
 
 
 ## Ground Rules for Agents
@@ -40,13 +40,15 @@ So in English something like:
 + Fatima Prayer
 + Hail Holy Queen (should also include "Let us pray...")
 
-Every language should have pages for those, every one.
-The landing page in each language will explain the rosary, the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have sufficient information to say the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation...", and then it links to the specific prayer pages.
+Every language should have those exact pages, with icon: lucide/cross
+The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation...", and then links to the specific prayer pages.
 
 All other non-rosary pages will be in a language specific [ extras ] section, which will map to a subdirectory in that language, e.g., english/extras/
 
 
 ## TODO
 
-+ Create rosary pages (per language) and stub pages for extras section, similar to Latin
++ Create per-language rosary pages (language index.md, e.g., latin/index.md)
++ Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
++ Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
 
