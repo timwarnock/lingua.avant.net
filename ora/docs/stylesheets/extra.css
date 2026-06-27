@@ -340,4 +340,13 @@
 /* Show help cursor on elements with title= (used for inline language/word tooltips) */
 .md-typeset [title] { cursor: help; }
 
+/* Minimal styles for the dynamic rosary guide on language landing pages */
+.mystery-set {
+  cursor: pointer;
+}
+.mystery-set.active {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 
