@@ -22,15 +22,15 @@ My goal is to read and write in Spanish, and converse well enough to have a basi
 
 **1. Study for at least 600 hours.**
 
-Whether you study a little bit every day for many years, or you cram for 10-hours a day for 60 days, you’ll do well after [600 hours](../tips/fsi-diff.md) of [immersion](../tips/advice.md#6-immersion-undivided-attention-while-learning) .
+Whether you study a little bit every day for many years, or you cram for 10-hours a day for 60 days, you’ll do well after [600 hours](../english/extras/fsi-diff.md) of [immersion](../english/extras/advice.md#6-immersion-undivided-attention-while-learning) .
 
 **2. Embrace the Sexiness of Spanish.**
 
-Afterall, it is a romance language: everything has a [gender](http://www.e-spanyol.hu/en/grammar/gender.php) , it sounds sexy, and [conjugations](conjugaciones.md) are basically verbs making love to pronouns. Learn with sexual metaphors, everything will be more memorable.
+Afterall, it is a romance language: everything has a [gender](http://www.e-spanyol.hu/en/grammar/gender.php) , it sounds sexy, and [conjugations](extras/conjugations.md) are basically verbs making love to pronouns. Learn with sexual metaphors, everything will be more memorable.
 
 **3. Get to know the Cognates .**
 
-Spanish is a cognate language to English. There are tens of thousands of similar words between English and Spanish. Most English speakers have encountered many of these words already. Get to know the [cognates](cognados.md) , as well as the false cognates.
+Spanish is a cognate language to English. There are tens of thousands of similar words between English and Spanish. Most English speakers have encountered many of these words already. Get to know the [cognates](extras/cognates.md) , as well as the false cognates.
 
 **4. <span title="Write Spanish diary, daily">Escribe un diario en español, cada día</span> .**
 
@@ -58,7 +58,7 @@ Resources
 
 Michel Thomas; the Spanish beginner course is fantastic, and it helped me with the most difficult parts of Spanish.
 
-[Memrise](https://www.memrise.com/) ; good for vocabulary, although like most spaced repetition approaches, it’s not good for building [automaticity](../tips/advice.md#4-automaticity-and-disruption) .
+[Memrise](https://www.memrise.com/) ; good for vocabulary, although like most spaced repetition approaches, it’s not good for building [automaticity](../english/extras/advice.md#4-automaticity-and-disruption) .
 
 [Duolingo](https://www.duolingo.com/) ; it’s fun, and gives a sense of accomplishment, although I achieved “fluency” without any fluency in real life conversations.
 
@@ -72,7 +72,7 @@ Verbs <button class="flashcard-green" onclick="Flashcards.open('es/verbos')">fla
 
 Other
 
-+ [How to Improve Your Foreign Language Immediately](../tips/islands.md) , by Boris Shekhtman
++ [How to Improve Your Foreign Language Immediately](../english/extras/islands.md) , by Boris Shekhtman
 
 + [Direct and Indirect Objects](http://personal.colby.edu/~bknelson/SLC/DO_IO.php)
 

@@ -6,7 +6,7 @@ icon: lucide/languages
 
 My goal is to read and write in Vietnamese, understand native speakers, and speak well enough to have meaningful conversations with native speakers.
 
-[Tiếng Việt Progress](vi-progress.md)
+[Tiếng Việt Progress](extras/progress.md)
 
 ---
 
@@ -28,7 +28,7 @@ My goal is to read and write in Vietnamese, understand native speakers, and spea
 
 ### 1. Study for 1100 hours.
 
-According to research, you’ll do well after [1100 hours](../tips/fsi-diff.md) of [immersive](../tips/advice.md#6-immersion-undivided-attention-while-learning) study in Vietnamese. If you average one-hour of immersive study per day, then it should take 3 years. At three hours per day, then it should take one year. If only ten minutes per day, then it will take 18 years.
+According to research, you’ll do well after [1100 hours](../english/extras/fsi-diff.md) of [immersive](../english/extras/advice.md#6-immersion-undivided-attention-while-learning) study in Vietnamese. If you average one-hour of immersive study per day, then it should take 3 years. At three hours per day, then it should take one year. If only ten minutes per day, then it will take 18 years.
 
 This can be broken down, e.g.,
 
@@ -40,13 +40,13 @@ This can be broken down, e.g.,
 
 *300 hours,* Conversation
 
-This assumes the goal is to achieve basic fluency, in other words, to have a meaningful conversation with a native speaker. I recommend keeping a [Tiếng Việt Progress](vi-progress.md) to keep track of your learning (as it’s easy to get overwhelmed).
+This assumes the goal is to achieve basic fluency, in other words, to have a meaningful conversation with a native speaker. I recommend keeping a [Tiếng Việt Progress](extras/progress.md) to keep track of your learning (as it’s easy to get overwhelmed).
 
 ---
 
 ### 2. Learn to read and pronounce.
 
-Fortunately, modern Vietnamese uses a phonetic writing system, using the latin alphabet with diacritics. This means that you’ll be able to read out loud before you even know what you’re saying. Unfortunately, Vietnamese pronunciation is extremely difficult, and rather unforgiving to minor mistakes. You can learn to [write and type](vi-typing.md) easily, although the [phonemes and tones](vi-pronounce.md) will take a lot practice.
+Fortunately, modern Vietnamese uses a phonetic writing system, using the latin alphabet with diacritics. This means that you’ll be able to read out loud before you even know what you’re saying. Unfortunately, Vietnamese pronunciation is extremely difficult, and rather unforgiving to minor mistakes. You can learn to [write and type](extras/typing.md) easily, although the [phonemes and tones](extras/pronunciation.md) will take a lot practice.
 
 I recommend practicing reading to a native speaker until you can be understood (even if you don’t know what you’re reading).
 
@@ -72,6 +72,6 @@ I recommend practicing reading to a native speaker until you can be understood (
 
 + duolingo, not very useful, the complexities of Vietnamese are not well captured with duolingo.
 
-+ anki, too much [accidental complexity](../tips/advice.md#6-immersion-undivided-attention-while-learning) to be useful.
++ anki, too much [accidental complexity](../english/extras/advice.md#6-immersion-undivided-attention-while-learning) to be useful.
 
 + https://123vietnamese.com/, poor quality, bad audio
