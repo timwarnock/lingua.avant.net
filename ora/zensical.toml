@@ -33,7 +33,7 @@ site_author = "lingua.avant.net"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = "Copyright &copy; 2026"
+copyright = "Copyleft &#x1F12F; 2026"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # We define a top-level nav so the major sections appear as tabs in the header.
