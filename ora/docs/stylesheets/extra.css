@@ -250,3 +250,5 @@
 .md-tooltip2--top:before {
   border-top-color: rgba(0, 0, 0, 0.82);
 }
+
+.md-typeset [title] { cursor: help; }
