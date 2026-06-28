@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "english",
+  "title": "Hail Mary",
+  "tts": {
+    "voice": "en-US-JennyNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Hail Mary,", "phonetic": "Hail Mary," },
+        { "passage_segment_id": "1b", "text": "full of grace,", "phonetic": "full of grace," },
+        { "passage_segment_id": "1c", "text": "the Lord is with thee.", "phonetic": "the Lord is with thee." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Blessed art thou among women,", "phonetic": "blessid art thou among women," },
+        { "passage_segment_id": "2b", "text": "and blessed is the fruit of thy womb,", "phonetic": "and blessid is the fruit of thy womb," },
+        { "passage_segment_id": "2c", "text": "Jesus.", "phonetic": "Jesus." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Holy Mary,", "phonetic": "Holy Mary," },
+        { "passage_segment_id": "3b", "text": "Mother of God,", "phonetic": "Mother of God," },
+        { "passage_segment_id": "3c", "text": "pray for us sinners,", "phonetic": "pray for us sinners," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "now and at the hour of our death.", "phonetic": "now and at the hour of our death," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}
