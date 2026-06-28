@@ -106,6 +106,15 @@
   color: #1a4a70;
 }
 
+/* Dark mode: brighter blue for readability on dark background */
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #7eb8ff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #a3ccff;
+}
+
 /* Subtle section headers */
 .md-nav__title {
   font-weight: 600;
