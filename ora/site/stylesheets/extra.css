@@ -340,13 +340,40 @@
 /* Show help cursor on elements with title= (used for inline language/word tooltips) */
 .md-typeset [title] { cursor: help; }
 
-/* Minimal styles for the dynamic rosary guide on language landing pages */
-.mystery-set {
+/* Vertical stacked button/pill style for mystery chooser (restored from earlier option) */
+.mystery-chooser {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin: 0.75rem 0 1.25rem;
+}
+.mystery-chooser .mystery-set {
+  display: inline-block;
+  padding: 0.3em 0.75em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 9999px;
+  font-size: 0.92rem;
   cursor: pointer;
+  user-select: none;
+  transition: background-color 120ms ease, border-color 120ms ease;
+  white-space: nowrap;
 }
-.mystery-set.active {
-  text-decoration: underline;
-  text-underline-offset: 3px;
+.mystery-chooser .mystery-set:hover {
+  background-color: rgba(0, 0, 0, 0.04);
 }
+[data-md-color-scheme="slate"] .mystery-chooser .mystery-set:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+.mystery-chooser .mystery-set.active {
+  background-color: rgba(64, 81, 181, 0.12);
+  border-color: var(--md-primary-fg-color, #4051b5);
+  font-weight: 600;
+}
+[data-md-color-scheme="slate"] .mystery-chooser .mystery-set.active {
+  background-color: rgba(64, 81, 181, 0.18);
+}
+
+
+
 
 

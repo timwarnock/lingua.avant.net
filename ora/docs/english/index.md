@@ -4,99 +4,80 @@ icon: lucide/languages
 
 # English
 
-[Sign of the Cross](sign-of-the-cross.md)
+<div class="mystery-chooser">
+<span class="mystery-set" data-set="joyful">Joyful Mysteries</span>
+<span class="mystery-set" data-set="sorrowful">Sorrowful Mysteries</span>
+<span class="mystery-set" data-set="glorious">Glorious Mysteries</span>
+<span class="mystery-set" data-set="luminous">Luminous Mysteries</span>
+</div>
 
-[Apostles' Creed](apostles-creed.md)
+---
 
-[Our Father](our-father.md)
+???+ quote "<span class='mystery-set-title'>Joyful Mysteries</span>"
+    
+    [Sign of the Cross](sign-of-the-cross.md)
+    
+    [Apostles' Creed](apostles-creed.md)
+    
+    [Our Father](our-father.md)
+    
+    3 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
-3 x [Hail Mary](hail-mary.md)
 
-[Glory Be](glory-be.md)
+???+ quote "<span class='decade-label'>First Decade</span>"
+    
+    [Our Father](our-father.md)
+    
+    10 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
-[Fatima Prayer](fatima-prayer.md)
 
-**<span class="mystery-set" data-set="joyful">Joyful Mysteries (Monday and Saturday)</span>**
+???+ quote "<span class='decade-label'>Second Decade</span>"
+    
+    [Our Father](our-father.md)
+    
+    10 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
-1. The First Joyful Mystery, the Annunciation
-2. The Second Joyful Mystery, the Visitation
-3. The Third Joyful Mystery, the Nativity
-4. The Fourth Joyful Mystery, the Presentation
-5. The Fifth Joyful Mystery, the Finding of Jesus in the Temple
+???+ quote "<span class='decade-label'>Third Decade</span>"
+    
+    [Our Father](our-father.md)
+    
+    10 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
-**<span class="mystery-set" data-set="sorrowful">Sorrowful Mysteries (Tuesday and Friday (every day during Lent))</span>**
+???+ quote "<span class='decade-label'>Fourth Decade</span>"
+    
+    [Our Father](our-father.md)
+    
+    10 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
-1. The First Sorrowful Mystery, the Agony in the Garden
-2. The Second Sorrowful Mystery, the Scourging at the Pillar
-3. The Third Sorrowful Mystery, the Crowning with Thorns
-4. The Fourth Sorrowful Mystery, the Carrying of the Cross
-5. The Fifth Sorrowful Mystery, the Crucifixion
-
-**<span class="mystery-set" data-set="glorious">Glorious Mysteries (Wednesday and Sunday)</span>**
-
-1. The First Glorious Mystery, the Resurrection
-2. The Second Glorious Mystery, the Ascension
-3. The Third Glorious Mystery, the Descent of the Holy Spirit
-4. The Fourth Glorious Mystery, the Assumption
-5. The Fifth Glorious Mystery, the Coronation of Mary
-
-**<span class="mystery-set" data-set="luminous">Luminous Mysteries (Thursday)</span>**
-
-1. The First Luminous Mystery, the Baptism of Jesus
-2. The Second Luminous Mystery, the Wedding at Cana
-3. The Third Luminous Mystery, the Proclamation of the Kingdom
-4. The Fourth Luminous Mystery, the Transfiguration
-5. The Fifth Luminous Mystery, the Institution of the Eucharist
-
-**<span class="decade-label">First Decade</span>**
-
-[Our Father](our-father.md)
-
-10 x [Hail Mary](hail-mary.md)
-
-[Glory Be](glory-be.md)
-
-[Fatima Prayer](fatima-prayer.md)
-
-**<span class="decade-label">Second Decade</span>**
-
-[Our Father](our-father.md)
-
-10 x [Hail Mary](hail-mary.md)
-
-[Glory Be](glory-be.md)
-
-[Fatima Prayer](fatima-prayer.md)
-
-**<span class="decade-label">Third Decade</span>**
-
-[Our Father](our-father.md)
-
-10 x [Hail Mary](hail-mary.md)
-
-[Glory Be](glory-be.md)
-
-[Fatima Prayer](fatima-prayer.md)
-
-**<span class="decade-label">Fourth Decade</span>**
-
-[Our Father](our-father.md)
-
-10 x [Hail Mary](hail-mary.md)
-
-[Glory Be](glory-be.md)
-
-[Fatima Prayer](fatima-prayer.md)
-
-**<span class="decade-label">Fifth Decade</span>**
-
-[Our Father](our-father.md)
-
-10 x [Hail Mary](hail-mary.md)
-
-[Glory Be](glory-be.md)
-
-[Fatima Prayer](fatima-prayer.md)
+???+ quote "<span class='decade-label'>Fifth Decade</span>"
+    
+    [Our Father](our-father.md)
+    
+    10 x [Hail Mary](hail-mary.md)
+    
+    [Glory Be](glory-be.md)
+    
+    [Fatima Prayer](fatima-prayer.md)
 
 [Hail, Holy Queen](salve-regina.md)
 
@@ -145,6 +126,16 @@ function activate(set) {
   document.querySelectorAll('.mystery-set').forEach(el => {
     el.classList.toggle('active', el.dataset.set === set);
   });
+  const setTitleEl = document.querySelector('.mystery-set-title');
+  if (setTitleEl) {
+    const setTitles = {
+      joyful: "Joyful Mysteries",
+      sorrowful: "Sorrowful Mysteries",
+      glorious: "Glorious Mysteries",
+      luminous: "Luminous Mysteries"
+    };
+    setTitleEl.textContent = setTitles[set] || setTitles.joyful;
+  }
   const names = MYSTERIES[set] || MYSTERIES.joyful;
   document.querySelectorAll('.decade-label').forEach((el, i) => {
     if (names[i]) el.textContent = names[i];
