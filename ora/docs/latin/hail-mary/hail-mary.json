@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "latin",
+  "title": "Ave Maria",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
+        { "passage_segment_id": "1b", "text": "gratia plena,", "phonetic": "gratia plena," },
+        { "passage_segment_id": "1c", "text": "Dominus tecum.", "phonetic": "Dominus tecum." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Benedicta tu in mulieribus,", "phonetic": "Benedicta tu in mulieribus," },
+        { "passage_segment_id": "2b", "text": "et benedictus fructus ventris tui,", "phonetic": "et benedictus fructus ventris tui," },
+        { "passage_segment_id": "2c", "text": "Iesus.", "phonetic": "Iesus." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Sancta Maria,", "phonetic": "Sancta Maria," },
+        { "passage_segment_id": "3b", "text": "Mater Dei,", "phonetic": "Mater Dei," },
+        { "passage_segment_id": "3c", "text": "ora pro nobis peccatoribus,", "phonetic": "ora pro nobis peccatoribus," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "nunc et in hora mortis nostrae.", "phonetic": "nunc et in hora mortis nostrae," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

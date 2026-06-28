@@ -1,0 +1,34 @@
+{
+  "id": "glory-be",
+  "lang": "latin",
+  "title": "Gloria Patri",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Gloria Patri,", "phonetic": "Gloria Patri," },
+        { "passage_segment_id": "1b", "text": "et Filio,", "phonetic": "et Filio," },
+        { "passage_segment_id": "1c", "text": "et Spiritui Sancto.", "phonetic": "et Spiritui Sancto." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Sicut erat in principio,", "phonetic": "Sicut erat in principio," },
+        { "passage_segment_id": "2b", "text": "et nunc, et semper,", "phonetic": "et nunc, et semper," },
+        { "passage_segment_id": "2c", "text": "et in saecula saeculorum.", "phonetic": "et in saecula saeculorum," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

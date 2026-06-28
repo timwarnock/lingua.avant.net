@@ -14,6 +14,7 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 - Never document or reference what not to do, avoided steps, or negative instructions (context poison).
 - This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
 - User (human) will run the dev server, DO NOT RUN `make build` or any `make` commands unless instructed to by the user.
+- Chinese should use traditional and not simplified characters!
 
 
 ## Current Status
@@ -51,8 +52,10 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 
 ## TODO
 
-+ Create per-language rosary pages (language index.md, e.g., latin/index.md)
-+ Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
++ IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
+++ English next, set the standard for passage and segment breaks, align Latin to match
+++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
+++ after every new language, compare each prayer to all other languages and verify that the passages align perfectly (segments may be different but aim for equal count at least, might be different orde)).
 + Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
 
 

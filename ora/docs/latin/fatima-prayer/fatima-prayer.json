@@ -1,0 +1,42 @@
+{
+  "id": "fatima-prayer",
+  "lang": "latin",
+  "title": "Oratio Fatimae",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "O mi Iesu, dimitte nobis peccata nostra,", "phonetic": "O mi Iesu, dimitte nobis peccata nostra," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "libera nos ab igne inferni,", "phonetic": "libera nos ab igne inferni," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "perduc omnes ad caelum,", "phonetic": "perduc omnes ad caelum," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "praesertim eos qui maxime indigent misericordia tua.", "phonetic": "praesertim eos qui maxime indigent misericordia tua," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

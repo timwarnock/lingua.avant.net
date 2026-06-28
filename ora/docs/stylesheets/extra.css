@@ -382,6 +382,148 @@
   background-color: rgba(64, 81, 181, 0.18);
 }
 
+/* Prayer interactive (audio + per-passage/sub formatting) - minimal & integrated */
+.prayer-interactive {
+  margin: 1rem 0 1.5rem;
+  /* use page's normal text size; children control their own */
+  font-size: inherit;
+  line-height: 1.45;
+}
+
+.prayer-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* When we repurpose the original H1 for the player title */
+h1.prayer-with-player {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.prayer-title {
+  /* inherit whatever the page H1 uses */
+}
+
+.prayer-header .play-btn,
+.prayer-line .play-btn,
+h1.prayer-with-player .play-btn {
+  font-size: 0.85rem;
+  line-height: 1;
+  padding: 0.1em 0.35em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+  color: inherit;
+}
+
+.prayer-header .play-btn:hover,
+.prayer-line .play-btn:hover,
+h1.prayer-with-player .play-btn:hover {
+  background: rgba(0,0,0,0.04);
+}
+[data-md-color-scheme="slate"] .prayer-header .play-btn:hover,
+[data-md-color-scheme="slate"] .prayer-line .play-btn:hover,
+[data-md-color-scheme="slate"] h1.prayer-with-player .play-btn:hover {
+  background: rgba(255,255,255,0.08);
+}
+
+.prayer-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  margin: 0.35rem 0 0.1rem;
+  font-size: 1em;
+}
+
+.prayer-text {
+  /* real prayer text at normal size */
+  font-size: 1em;
+}
+
+.prayer-phonetic {
+  cursor: pointer;
+  font-style: italic;
+  opacity: 0.72;
+  font-size: 0.96em;
+}
+
+.prayer-subs {
+  margin-left: 1.8rem;
+  margin-top: 0.1rem;
+  font-size: 0.78rem;
+  opacity: 0.82;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.45rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light, #555);
+}
+
+[data-md-color-scheme="slate"] .prayer-subs {
+  color: var(--md-default-fg-color--light, #aaa);
+}
+
+.prayer-chunk {
+  cursor: pointer;
+  padding: 0.02em 0.15em;
+  border-radius: 2px;
+  transition: background 80ms ease;
+  border-bottom: 1px dotted currentColor;
+  opacity: 0.9;
+  font-size: inherit;
+}
+
+.prayer-chunk:hover {
+  background: rgba(64, 81, 181, 0.08);
+  opacity: 1;
+}
+[data-md-color-scheme="slate"] .prayer-chunk:hover {
+  background: rgba(64, 81, 181, 0.18);
+}
+
+.prayer-chunk.playing,
+.prayer-phonetic.playing {
+  background: rgba(64, 81, 181, 0.15);
+  border-radius: 3px;
+  border-bottom-color: transparent;
+}
+[data-md-color-scheme="slate"] .prayer-chunk.playing,
+[data-md-color-scheme="slate"] .prayer-phonetic.playing {
+  background: rgba(64, 81, 181, 0.28);
+}
+
+.prayer-passage {
+  margin-bottom: 0.55rem;
+}
+
+/* Fallback content (plain text). Visible by default for graceful degradation.
+   The player hides it only after successful render.
+   Use markdown="1" on the div in source so inner Markdown parses correctly. */
+.prayer-fallback {
+  margin-top: 1.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest, #ddd);
+}
+
+/* Make labels and text inside fallback look clean and normal */
+.prayer-fallback strong {
+  display: block;
+  margin: 0.75rem 0 0.25rem;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.prayer-fallback p {
+  margin: 0.25rem 0;
+}
+
 
 
 

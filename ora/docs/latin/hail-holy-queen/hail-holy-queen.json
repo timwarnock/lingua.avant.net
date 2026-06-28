@@ -1,0 +1,54 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "latin",
+  "title": "Salve Regina",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Salve, Regina, mater misericordiae;", "phonetic": "Salve, Regina, mater misericordiae;" },
+        { "passage_segment_id": "1b", "text": "vita, dulcedo et spes nostra, salve.", "phonetic": "vita, dulcedo et spes nostra, salve." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Ad te clamamus exsules filii Hevae.", "phonetic": "Ad te clamamus exsules filii Hevae." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Ad te suspiramus gementes et flentes", "phonetic": "Ad te suspiramus gementes et flentes" },
+        { "passage_segment_id": "3b", "text": "in hac lacrimarum valle.", "phonetic": "in hac lacrimarum valle." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Eia ergo, advocata nostra,", "phonetic": "Eia ergo, advocata nostra," },
+        { "passage_segment_id": "4b", "text": "illos tuos misericordes oculos ad nos converte.", "phonetic": "illos tuos misericordes oculos ad nos converte." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Et Iesum, benedictum fructum ventris tui,", "phonetic": "Et Iesum, benedictum fructum ventris tui," },
+        { "passage_segment_id": "5b", "text": "nobis post hoc exsilium ostende.", "phonetic": "nobis post hoc exsilium ostende." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "O clemens,", "phonetic": "O clemens," },
+        { "passage_segment_id": "6b", "text": "o pia,", "phonetic": "o pia," },
+        { "passage_segment_id": "6c", "text": "o dulcis Virgo Maria.", "phonetic": "o dulcis Virgo Maria." }
+      ]
+    }
+  ]
+}
