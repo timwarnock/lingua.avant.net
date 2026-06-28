@@ -19,14 +19,12 @@ We use **Microsoft Edge TTS** via the free `edge-tts` Python package.
 
 This makes playback trivial in the web player (just `new Audio(src).play()` per segment) and avoids having to maintain precise timestamps in JSON.
 
-### Text Smoothing for Audio
-Some punctuation is adjusted during generation for better flow and rhythm (especially important for Latin prayers).
+### Text vs Phonetic for Audio
+The JSON distinguishes roles clearly:
+- "text": proper written/display form (spelling, grammar, traditional punctuation). Used for the main lines in the player.
+- "phonetic": the form passed to TTS (and shown in clickable chunks). This may differ from "text" to achieve correct pronunciation and natural flow (e.g. "blessid" for two-syllable "blessed"). Note: "bless-ed" does not work (produces "bless Ed"). Punctuation tweaks like commas for pauses before "Amen" in the phonetic only.
 
-Example for Hail Mary:
-- Display / JSON text: "Ave Maria, gratia plena..."
-- Audio generation text: "Ave Maria, gratia plena..." (comma after "Ave" removed)
-
-The traditional punctuation is kept in the JSON `phonetic` fields and the Markdown fallback so the learner sees the proper written form.
+Adjustments for better TTS prosody go in the "phonetic" field. "text" keeps the proper traditional written form for display.
 
 ## Setup
 
@@ -49,15 +47,9 @@ The generator is now a simple app driven entirely by the JSON (the single source
 python audio-utils/generate-rosary-audio.py ora/docs/latin/hail-mary/hail-mary.json
 ```
 
-The JSON must contain:
-- `voice`
-- `rate`
-- `full` (text for the complete prayer audio)
-- `passages` (each with required `phonetic`)
-- `audio` (map of segment id → filename)
-
-All audio files (full + per passage/sub) are written next to the JSON.
-No text copies live in the Python code.
+The JSON (current model) contains passages/segments with "text" (proper display) and "phonetic" (TTS/pronunciation form, which may differ).
+The generator derives full/passage/segment audio texts from the "phonetic" fields (or "text" per tts.input) and writes all MP3s next to the JSON.
+No "full", "audio" map, or other legacy fields are used.
 
 After generation, commit the new `.mp3` files.
 
@@ -97,30 +89,22 @@ Recommendation order for Latin right now (2026-06-28):
 Latest test: en-US-AndrewMultilingualNeural (generated 2026-06-28).
 
 ### Other Languages
-See the `VOICE_MAP` in `generate-rosary-audio.py`. These were chosen as high-quality, natural-sounding neural voices.
+Voice is specified per-prayer in the JSON under `tts.voice` (see current English examples). Choose natural neural voices per language.
 
-## Adding a New Prayer
+## Adding a New Prayer (current JSON-driven model)
 
-1. Add an entry to the `PRAYERS` dict in this script.
-   - `"full"`: the complete text.
-   - `"segments"`: exact breaks that match the JSON (stable IDs across languages).
-2. Run the generator for each language.
-3. Update the prayer's JSON `audio` section with the new filenames.
-4. Update the language's Markdown fallback if desired (it is only shown if JS fails).
-5. **"phonetic" is required on every passage** in the .json (and on subs when present). Example leaf passage:
+No changes needed in the generator script. Create the prayer's .md + companion folder + JSON with proper passages/segments ("text" for display, "phonetic" for TTS — they may differ).
 
-```json
-{ "n": 2, "phonetic": "Adveniat regnum tuum." }
-```
+Run the generator on the JSON. It derives everything from the segment "phonetic" (or "text") fields.
 
-This guarantees a phonetic line is always rendered. (Will matter more when we have cleaner phonetics for Latin too.)
+Update Markdown fallback if desired.
 
 ## Adding a New Language
 
-1. Add the language directory name and a good voice to `VOICE_MAP`.
-2. Create the prayer Markdown + JSON (copy structure from an existing language).
-3. Generate audio.
-4. Fill in the phonetic text in the JSON (this is what the player displays and makes clickable).
+1. Create the language directory.
+2. For each core prayer, create the .md + companion folder + JSON (using same passage_ids and segment counts as the English reference where possible).
+3. In the JSON, specify `tts.voice` and populate "text" (proper display form) + "phonetic" (may differ for pronunciation).
+4. Generate audio using the script on the JSON.
 
 ## File Layout
 
@@ -149,7 +133,7 @@ ora/docs/assets/prayer.mjs   ← the player that uses the audio
   - No need to maintain or debug timing data.
   - Learners can easily repeat tiny phrases.
 
-- The comma after "Ave" in "Ave, Maria" consistently produced an awkward pause in every Italian voice tested. We therefore generate that segment (and the full text) without it for audio, while keeping the comma in the visible text.
+- Adjustments for TTS (e.g. punctuation or respelling for prosody) are placed only in the "phonetic" field of the segment. The "text" field always keeps the proper traditional written form for display in the player. See current English Hail Mary for examples of differences (e.g. "blessid" works for two-syllable "blessed"; "bless-ed" does not). Comma before Amen in phonetic only.
 
 - Early testing showed that simply changing voices often gave bigger quality jumps than tweaking text or rate.
 
@@ -170,4 +154,4 @@ ora/docs/assets/prayer.mjs   ← the player that uses the audio
 
 ---
 
-Last updated: 2026-06-28
+Last updated: 2026-06-28 (text vs phonetic roles clarified per English standard)

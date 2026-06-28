@@ -29,7 +29,9 @@ Segments are the lowest-level, atomic, uniquely addressable units of text.
 
 - Every segment has a unique "passage_segment_id" within the prayer (e.g. "1a", "1b", "2"). These are unique across all segments.
 - Segments within a passage are lettered (a, b, c...); the full passage_segment_id combines passage and segment letter for clarity and uniqueness.
-- Each segment carries "text" (the actual written form in the language's script) and "phonetic" (the pronunciation form for display and/or TTS).
+- Each segment carries two distinct fields:
+  - "text": the proper written form for display — correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer (used to assemble the main passage text lines in the player).
+  - "phonetic": the pronunciation form. This is fed to TTS for audio generation (default tts.input="phonetic") and displayed in the clickable sub-segments/chunks. It may (and frequently will for better learning audio) differ from "text" to achieve correct pronunciation (e.g. "blessid" for two-syllable "blessed", adjusted punctuation for prosody such as commas before "Amen", etc.). Proper display spelling/grammar lives in "text"; phonetic prioritizes how it should sound.
 - The number and ordering of segments within a passage can differ between languages due to grammar and linguistic structure.
 - Given the full list of segments (with their passage_segment_ids), the passages and the full prayer text can be reconstructed.
 
@@ -38,10 +40,9 @@ There is no independent content on a passage object itself — passages are only
 ### JSON as the source of truth for interactivity
 Each prayer page loads a sibling JSON file that describes:
 - Passages (by numeric ID for cross-language alignment)
-- Segments under each passage (atomic units with unique id, text, and phonetic)
-- Audio file references (per-segment MP3s keyed by segment id)
+- Segments under each passage (atomic units with unique id, "text" for proper display form, and "phonetic" for pronunciation/TTS form)
 
-The Markdown file remains human-readable and contains the traditional plain text only as fallback.
+Audio is derived automatically from the segment structure (no separate audio map in JSON). Filenames follow convention. The Markdown file remains human-readable and contains the traditional plain text only as fallback.
 
 ### Companion directory layout
 For a prayer page `latin/hail-mary.md`, assets live in a matching companion directory:
@@ -73,7 +74,7 @@ No separate "audio" map exists in the JSON. Filenames are derived by convention 
 The generator walks the passages/segments directly and derives content for full and passages by concatenation. Only segments hold the actual text and phonetic.
 
 - Files live in the companion directory next to the JSON (e.g. `latin/hail-mary/hail-mary.mp3`, `latin/hail-mary/hail-mary-1a.mp3`, etc.)
-- JSON references them directly under `audio` (e.g. `"full": "hail-mary.mp3"`, `"1a": "hail-mary-1a.mp3"`)
+- Filenames are derived by convention (e.g. `hail-mary.mp3` for full, `hail-mary-1a.mp3` for segment); no "audio" map in the JSON.
 - No timing offsets are stored or needed — the player simply plays the appropriate file for each segment.
 
 Audio is produced using Microsoft Edge TTS via the `edge-tts` Python package (see `audio-utils/` for the generation script and notes). This approach was chosen for simplicity, reliability, and to avoid manual timing work.
@@ -81,13 +82,30 @@ Audio is produced using Microsoft Edge TTS via the `edge-tts` Python package (se
 The canonical generation tooling lives in `audio-utils/` (not inside `ora/` or the Zensical content tree).
 
 ### Text and Phonetic on segments
-Every segment has both:
-- "text": the actual written form of the prayer in that language (e.g. Latin text, traditional Chinese characters).
-- "phonetic": the pronunciation representation (e.g. pinyin for Chinese; for Latin, a version tuned for TTS if needed).
+Every segment has both, with clearly distinct purposes:
+- "text": the proper written form for display — correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer. This is used to assemble the main passage text lines shown in the player (and can be used in fallbacks).
+- "phonetic": the pronunciation form for TTS and learning. This is the string passed to the TTS engine (when tts.input="phonetic", the default) and what appears in the clickable phonetic chunks below each passage. It is explicitly allowed (and expected for English and similar) to differ from "text" to achieve correct pronunciation (e.g. "blessid" instead of "Blessed"), or "...death," in phonetic only to produce natural "death, Amen" flow in audio while "text" keeps proper "death.".
 
-Both are displayed in the player. TTS uses the field specified in tts.input ("phonetic" by default, or "text").
+TTS uses the field specified in tts.input ("phonetic" by default, or "text" for languages like Chinese where the written form is sufficient).
+
+The main passage lines in the UI use "text". The phonetic sub-chunks are the clickable units using "phonetic".
 
 Segments are the units that are clickable for playback.
+
+### Actionable Steps for Phonetic Spellings with edge-tts (English reference)
+edge-tts (Microsoft Edge TTS backend) does not support custom <phoneme> SSML or IPA input. Pronunciation control is achieved exclusively through plain-text respelling in the string passed to TTS.
+
+When the default written form does not produce the desired liturgical or natural pronunciation:
+1. Edit **only** the "phonetic" value for the segment (never alter "text" for display purposes).
+2. Apply a respelled version of the word/phrase. Verified working pattern for the two-syllable liturgical "blessed":
+   - Glued spelling: "blessid"
+   Note: "bless-ed" does not work (produces "bless Ed" or similar).
+3. Include any needed punctuation inside the phonetic string for better prosody/flow (e.g. comma before "Amen" in phonetic only).
+4. Run `python audio-utils/generate-rosary-audio.py <path-to-json>` to rebuild the affected segment, passage, and full audio files.
+5. Test the specific segment audio (and full prayer) with the target voice.
+6. Iterate on the spelling string until the output matches the intended pronunciation. Document the final respelling in the English JSON.
+
+Use English as the reference standard. For new prayers or languages, first match passage and segment counts, then tune the "phonetic" values (using the same respelling techniques where needed) to align with the English liturgical delivery.
 
 ## Markdown Page Structure
 
@@ -164,7 +182,7 @@ Amen is always placed in its own final passage (for better readability in the UI
 
 - Title area has a small play button → plays the full prayer.
 - Each passage shows its segments.
-- Segments are displayed with text and phonetic; segments are clickable to play their audio.
+- Main passage lines use the proper "text" (display form). Phonetic pronunciation chunks (using "phonetic") are shown below and are clickable to play their audio segment.
 - Light visual highlight on the currently playing unit.
 - Very minimal buttons. The content itself is the main interaction surface.
 - Designed to be mobile-friendly and non-intrusive.
@@ -184,16 +202,16 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 1. Create the Markdown page following the structure above (title + interactive div + fallback div).
 2. Create the companion folder and `prayer-slug.json` with the same passage_id used in other languages.
    - Group segments under each passage_id.
-   - Every segment has a unique "passage_segment_id", "text", and "phonetic".
-3. Use the script in `audio-utils/generate-rosary-audio.py` to generate the MP3s (full + per passage + per passage_segment). The generator walks the structure directly.
+   - Every segment has a unique "passage_segment_id", "text" (proper display form), and "phonetic" (pronunciation/TTS form; may differ from text for correct audio).
+3. Use the script in `audio-utils/generate-rosary-audio.py` to generate the MP3s (full + per passage + per passage_segment). The generator walks the structure directly. For any needed pronunciation adjustments in English (the reference), follow the "Actionable Steps for Phonetic Spellings with edge-tts" section.
 4. Add the page to navigation in `zensical.toml` if needed.
 
 ### New language
 1. Create the language directory (e.g. `polski/`).
 2. For each core prayer, create the `.md` + companion `prayer-slug/` folder + JSON.
-3. For each passage (by passage_id), provide the segments (unique "passage_segment_id", "text", and "phonetic"). Segment structure can vary for linguistic reasons.
+3. For each passage (by passage_id), provide the segments (unique "passage_segment_id", "text" for proper display, and "phonetic" for pronunciation/TTS which may differ to achieve correct spoken form). Segment structure can vary for linguistic reasons.
 4. Use the exact same passage_id as the reference language.
-5. Run `audio-utils/generate-rosary-audio.py` with the appropriate voice for that language (respecting tts.input).
+5. Run `audio-utils/generate-rosary-audio.py` with the appropriate voice for that language (respecting tts.input). Tune "phonetic" values to align with English reference using the respelling steps in the dedicated section above.
 
 ## Pilot Status (as of 2026-06-28)
 - Latin Hail Mary (`latin/hail-mary.md`) is the first implemented prayer.
@@ -216,7 +234,14 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 - When adding new features to `prayer.mjs`, keep the UI minimal and the controls integrated into the segment text and phonetic.
 - Test that the fallback still appears when the module fails (temporarily break the JSON path to verify).
 - Every segment must have both "text" and "phonetic". Content lives on segments.
+- For edge-tts pronunciation fixes (English reference), follow the actionable steps in the "Actionable Steps for Phonetic Spellings with edge-tts" section above: edit only "phonetic" with respelling, regenerate, test, iterate.
 - Audio generation code and notes live in `audio-utils/`. Do not put Python/generation scripts inside the `ora/` (Zensical) content tree.
 - `ora/scripts/` has been removed.
 
 This document (plan-player-mjs.md) should be kept up to date as the implementation evolves.
+
+**Clarification on fields (as of English Hail Mary work):**  
+"text" = proper written form for display (spelling, grammar, traditional presentation).  
+"phonetic" = pronunciation form for TTS input + clickable chunks (may differ from text for correct liturgical audio and learning).  
+
+Follow the "Actionable Steps for Phonetic Spellings with edge-tts" section for respelling techniques when tuning English (the reference). Any prior notes suggesting text and phonetic must match or that adjustments go in "text" have been removed.

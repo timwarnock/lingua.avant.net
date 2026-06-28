@@ -4,7 +4,7 @@
  * - Loads <lang>/<prayer>.json from companion folder
  * - Full play in header
  * - Play button per passage
- * - Segments show real text + phonetic (phonetic clickable for playback)
+ * - Main lines use "text" (proper display). Phonetic chunks (using "phonetic") are clickable for playback. "phonetic" may differ from "text" for pronunciation.
  * - Audio filenames derived from JSON id + passage_id / passage_segment_id
  * - One shared audio per container; stops at segment end
  */
