@@ -79,7 +79,7 @@ icon: lucide/languages
     
     [Fatima Prayer](fatima-prayer.md)
 
-[Hail, Holy Queen](salve-regina.md)
+[Hail, Holy Queen](hail-holy-queen.md)
 
 <script>
 const MYSTERIES = {

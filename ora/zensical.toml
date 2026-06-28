@@ -53,7 +53,7 @@ nav = [
       "english/hail-mary.md",
       "english/glory-be.md",
       "english/fatima-prayer.md",
-      "english/salve-regina.md",
+      "english/hail-holy-queen.md",
       { "Extras" = [
           "english/extras/pronunciation.md",
           "english/extras/advice.md",
@@ -74,7 +74,7 @@ nav = [
       "espanol/hail-mary.md",
       "espanol/glory-be.md",
       "espanol/fatima-prayer.md",
-      "espanol/salve-regina.md",
+      "espanol/hail-holy-queen.md",
       { "[ Adicionales ]" = [
           "espanol/extras/pronunciation.md",
           "espanol/extras/notes.md",
@@ -90,7 +90,7 @@ nav = [
       "francais/hail-mary.md",
       "francais/glory-be.md",
       "francais/fatima-prayer.md",
-      "francais/salve-regina.md",
+      "francais/hail-holy-queen.md",
       { "[ Suppléments ]" = [
           "francais/extras/pronunciation.md"
         ] }
@@ -103,7 +103,7 @@ nav = [
       "latin/hail-mary.md",
       "latin/glory-be.md",
       "latin/fatima-prayer.md",
-      "latin/salve-regina.md",
+      "latin/hail-holy-queen.md",
       { "[ Additamenta ]" = [
           "latin/extras/pronunciation.md",
           "latin/extras/notes.md"
@@ -117,7 +117,7 @@ nav = [
       "polski/hail-mary.md",
       "polski/glory-be.md",
       "polski/fatima-prayer.md",
-      "polski/salve-regina.md",
+      "polski/hail-holy-queen.md",
       { "[ Dodatki ]" = [
           "polski/extras/pronunciation.md"
         ] }
@@ -130,7 +130,7 @@ nav = [
       "portugues/hail-mary.md",
       "portugues/glory-be.md",
       "portugues/fatima-prayer.md",
-      "portugues/salve-regina.md",
+      "portugues/hail-holy-queen.md",
       { "[ Adicionais ]" = [
           "portugues/extras/pronunciation.md"
         ] }
@@ -143,7 +143,7 @@ nav = [
       "vietnamese/hail-mary.md",
       "vietnamese/glory-be.md",
       "vietnamese/fatima-prayer.md",
-      "vietnamese/salve-regina.md",
+      "vietnamese/hail-holy-queen.md",
       { "[ Bổ sung ]" = [
           "vietnamese/extras/pronunciation.md",
           "vietnamese/extras/notes.md",
@@ -159,7 +159,7 @@ nav = [
       "greek/hail-mary.md",
       "greek/glory-be.md",
       "greek/fatima-prayer.md",
-      "greek/salve-regina.md",
+      "greek/hail-holy-queen.md",
       { "[ Πρόσθετα ]" = [
           "greek/extras/pronunciation.md"
         ] }
@@ -172,7 +172,7 @@ nav = [
       "chinese/hail-mary.md",
       "chinese/glory-be.md",
       "chinese/fatima-prayer.md",
-      "chinese/salve-regina.md",
+      "chinese/hail-holy-queen.md",
       { "[ 附加 ]" = [
           "chinese/extras/pronunciation.md",
           "chinese/extras/notes.md",
@@ -193,7 +193,7 @@ nav = [
       "japanese/hail-mary.md",
       "japanese/glory-be.md",
       "japanese/fatima-prayer.md",
-      "japanese/salve-regina.md",
+      "japanese/hail-holy-queen.md",
       { "[ 追加 ]" = [
           "japanese/extras/pronunciation.md"
         ] }
