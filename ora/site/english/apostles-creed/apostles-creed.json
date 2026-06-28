@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "english",
+  "title": "Apostles' Creed",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "I believe in God,", "phonetic": "I believe in God," },
+        { "passage_segment_id": "1b", "text": "the Father almighty,", "phonetic": "the Father almighty," },
+        { "passage_segment_id": "1c", "text": "Creator of heaven and earth.", "phonetic": "Creator of heaven and earth." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "and in Jesus Christ,", "phonetic": "and in Jesus Christ," },
+        { "passage_segment_id": "2b", "text": "his only Son,", "phonetic": "his only Son," },
+        { "passage_segment_id": "2c", "text": "our Lord,", "phonetic": "our Lord," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "who was conceived by the Holy Spirit,", "phonetic": "who was conceived by the Holy Spirit," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "born of the Virgin Mary,", "phonetic": "born of the Virgin Mary," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "suffered under Pontius Pilate,", "phonetic": "suffered under Pontius Pilate," },
+        { "passage_segment_id": "5b", "text": "was crucified,", "phonetic": "was crucified," },
+        { "passage_segment_id": "5c", "text": "died and was buried;", "phonetic": "died and was buried;" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "he descended into hell;", "phonetic": "he descended into hell;" }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "on the third day he rose again from the dead;", "phonetic": "on the third day he rose again from the dead;" }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "he ascended into heaven,", "phonetic": "he ascended into heaven," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "and is seated at the right hand of God the Father almighty;", "phonetic": "and is seated at the right hand of God the Father almighty;" }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "from there he will come to judge the living and the dead.", "phonetic": "from there he will come to judge the living and the dead." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "I believe in the Holy Spirit,", "phonetic": "I believe in the Holy Spirit," },
+        { "passage_segment_id": "11b", "text": "the holy catholic Church,", "phonetic": "the holy catholic Church," },
+        { "passage_segment_id": "11c", "text": "the communion of saints,", "phonetic": "the communion of saints," },
+        { "passage_segment_id": "11d", "text": "the forgiveness of sins,", "phonetic": "the forgiveness of sins," },
+        { "passage_segment_id": "11e", "text": "the resurrection of the body,", "phonetic": "the resurrection of the body," },
+        { "passage_segment_id": "11f", "text": "and life everlasting.", "phonetic": "and life everlasting," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

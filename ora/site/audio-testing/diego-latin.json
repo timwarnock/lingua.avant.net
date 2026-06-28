@@ -1,0 +1,19 @@
+{
+  "id": "diego-latin",
+  "lang": "latin",
+  "title": "Ave Maria - Diego",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Hail Mary, full of grace, the Lord is with thee.", "phonetic": "Hail Mary, full of grace, the Lord is with thee." },
+        { "passage_segment_id": "1b", "text": "Ave Maria, gratia plena, Dominus tecum.", "phonetic": "Ave Maria, gratia plena, Dominus tecum." }
+      ]
+    }
+  ]
+}

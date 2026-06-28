@@ -10,7 +10,7 @@ The player turns each rosary prayer into a rich, audio-enabled, per-passage lear
 - Static Markdown text serves only as a **fallback** (no-JS, JS error, or very old browsers).
 - Content is data-driven via JSON so it can power future features (side-by-side languages, top-level multi-lingual app, etc.).
 - Passages are aligned 1:1 across every language.
-- Sub-passages are mostly aligned (best-effort for grammar/order differences in languages like Chinese or Vietnamese).
+- Segments follow the alignment rule below.
 - Keep everything simple, direct, and co-located with the prayer content.
 - Use full lowercase English directory names (e.g. `latin/`, not `la/`).
 - Do not centralize everything under `assets/`.
@@ -18,7 +18,7 @@ The player turns each rosary prayer into a rich, audio-enabled, per-passage lear
 ## Core Concepts
 
 ### Passages (1:1 across languages)
-Every prayer is broken into passages identified by passage_id (numeric). These passages have direct semantic equivalents across languages for 1:1 alignment.
+Every prayer is broken into passages identified by passage_id (numeric). English defines the specific passages and breaks for each prayer. Other languages use the same passage_ids for 1:1 alignment.
 
 The passage_id ensures the high-level structure matches exactly between languages.
 
@@ -32,24 +32,27 @@ Segments are the lowest-level, atomic, uniquely addressable units of text.
 - Each segment carries two distinct fields:
   - "text": the proper written form for display — correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer (used to assemble the main passage text lines in the player).
   - "phonetic": the pronunciation form. This is fed to TTS for audio generation (default tts.input="phonetic") and displayed in the clickable sub-segments/chunks. It may (and frequently will for better learning audio) differ from "text" to achieve correct pronunciation (e.g. "blessid" for two-syllable "blessed", adjusted punctuation for prosody such as commas before "Amen", etc.). Proper display spelling/grammar lives in "text"; phonetic prioritizes how it should sound.
-- The number and ordering of segments within a passage can differ between languages due to grammar and linguistic structure.
 - Given the full list of segments (with their passage_segment_ids), the passages and the full prayer text can be reconstructed.
+
+Alignment rule (English is the source of truth):
+Passages are the hard 1:1 rule across languages (via numeric passage_id).
+Segments should match the English reference. Due to linguistic and grammatical differences they may not match perfectly. Aim to match English. When not a perfect match, aim for equal segment counts. Different segment counts are rare and require explicit approval (as it violates the goal of matching segments perfectly).
 
 There is no independent content on a passage object itself — passages are only groupings of their segments under the passage_id. passage_id is kept explicitly for clarity and self-documenting even if derivable from the passage_segment_ids.
 
 ### JSON as the source of truth for interactivity
 Each prayer page loads a sibling JSON file that describes:
-- Passages (by numeric ID for cross-language alignment)
-- Segments under each passage (atomic units with unique id, "text" for proper display form, and "phonetic" for pronunciation/TTS form)
+- Passages (by numeric ID; English defines the structure)
+- Segments under each passage (atomic units with unique passage_segment_id, "text" for proper display form, and "phonetic" for pronunciation/TTS form)
 
 Audio is derived automatically from the segment structure (no separate audio map in JSON). Filenames follow convention. The Markdown file remains human-readable and contains the traditional plain text only as fallback.
 
 ### Companion directory layout
-For a prayer page `latin/hail-mary.md`, assets live in a matching companion directory:
+For a prayer page `english/hail-mary.md`, assets live in a matching companion directory:
 
 ```
-ora/docs/latin/hail-mary.md
-ora/docs/latin/hail-mary/
+ora/docs/english/hail-mary.md
+ora/docs/english/hail-mary/
   hail-mary.json
   hail-mary.mp3          (when recorded)
 ```
@@ -58,7 +61,7 @@ This keeps data next to the content that owns it. Relative references are straig
 
 The same pattern will be used for every prayer in every language:
 - `english/our-father/our-father.json`
-- `chinese/hail-mary/hail-mary.json`
+- `latin/hail-mary/hail-mary.json`
 - etc.
 
 ### Audio model (per-segment files)
@@ -73,7 +76,7 @@ No separate "audio" map exists in the JSON. Filenames are derived by convention 
 
 The generator walks the passages/segments directly and derives content for full and passages by concatenation. Only segments hold the actual text and phonetic.
 
-- Files live in the companion directory next to the JSON (e.g. `latin/hail-mary/hail-mary.mp3`, `latin/hail-mary/hail-mary-1a.mp3`, etc.)
+- Files live in the companion directory next to the JSON (e.g. `english/hail-mary/hail-mary.mp3`, `english/hail-mary/hail-mary-1a.mp3`, etc.)
 - Filenames are derived by convention (e.g. `hail-mary.mp3` for full, `hail-mary-1a.mp3` for segment); no "audio" map in the JSON.
 - No timing offsets are stored or needed — the player simply plays the appropriate file for each segment.
 
@@ -105,7 +108,9 @@ When the default written form does not produce the desired liturgical or natural
 5. Test the specific segment audio (and full prayer) with the target voice.
 6. Iterate on the spelling string until the output matches the intended pronunciation. Document the final respelling in the English JSON.
 
-Use English as the reference standard. For new prayers or languages, first match passage and segment counts, then tune the "phonetic" values (using the same respelling techniques where needed) to align with the English liturgical delivery.
+If the issue is the voice itself rather than specific words, use `ora/docs/audio-testing/` to quickly compare multiple voices (including cross-language tests) instead of editing main content.
+
+Use English as the reference standard for passage and segment structure. For English prayers, tune the "phonetic" values using the respelling techniques below for natural liturgical delivery. For other languages, follow the alignment rule in Core Concepts, then tune their own "phonetic" values.
 
 ## Markdown Page Structure
 
@@ -114,19 +119,18 @@ Use English as the reference standard. For new prayers or languages, first match
 icon: material/cross
 ---
 
-# Ave Maria
+# Hail Mary
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
      data-json="hail-mary.json"></div>
 
-<div class="prayer-fallback">
-  <!-- Traditional plain text goes here -->
-  **Latin**
-  ...
+<div class="prayer-fallback" markdown="1">
 
-  **English**
-  ...
+**English**
+
+Hail Mary, full of grace, the Lord is with thee. Blessed art thou amongst women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.
+
 </div>
 ```
 
@@ -138,45 +142,47 @@ icon: material/cross
 
 ## Data Model (JSON)
 
-Passages use a numeric ID for 1:1 cross-language alignment.
+Passages use a numeric ID for 1:1 cross-language alignment. English defines the actual passage and segment structure for each prayer.
 
 Each passage groups one or more segments.
 
-Segments are the atomic units and carry unique "id", plus "text" and "phonetic".
+Segments are the atomic units and carry unique "passage_segment_id", plus "text" and "phonetic".
 
-Minimal example structure:
+Minimal example structure (English Hail Mary):
 
 ```json
 {
   "id": "hail-mary",
-  "lang": "latin",
-  "title": "Ave Maria",
+  "lang": "english",
+  "title": "Hail Mary",
   "tts": {
-    "voice": "it-IT-DiegoNeural",
-    "rate": "-15%",
+    "voice": "en-US-AvaNeural",
+    "rate": "-5%",
     "input": "phonetic"
   },
   "passages": [
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
-        { "passage_segment_id": "1b", "text": "gratia plena,", "phonetic": "gratia plena," },
-        { "passage_segment_id": "1c", "text": "Dominus tecum.", "phonetic": "Dominus tecum." }
+        { "passage_segment_id": "1a", "text": "Hail Mary,", "phonetic": "Hail Mary," },
+        { "passage_segment_id": "1b", "text": "full of grace,", "phonetic": "full of grace," },
+        { "passage_segment_id": "1c", "text": "the Lord is with thee.", "phonetic": "the Lord is with thee." }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.", "phonetic": "..." }
+        { "passage_segment_id": "2a", "text": "Blessed art thou amongst women,", "phonetic": "blessid art thou amongst women," },
+        { "passage_segment_id": "2b", "text": "and blessed is the fruit of thy womb,", "phonetic": "and blessid is the fruit of thy womb," },
+        { "passage_segment_id": "2c", "text": "Jesus.", "phonetic": "Jesus." }
       ]
     }
   ]
 }
 ```
 
-Every passage has one or more segments. segment ids always use letter suffix (e.g. "2a" even for single-segment passages). No special cases. The structure itself drives audio generation and playback.
-Amen is always placed in its own final passage (for better readability in the UI).
+Every passage has one or more segments. passage_segment_id always uses letter suffix (e.g. "2a" even for single-segment passages). No special cases. The structure itself drives audio generation and playback.
+Amen is placed in its own final passage (for better readability in the UI). The actual passages and breaks for each prayer are defined in the English JSON.
 
 ## UX (as implemented)
 
@@ -200,26 +206,24 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 
 ### New prayer in an existing language
 1. Create the Markdown page following the structure above (title + interactive div + fallback div).
-2. Create the companion folder and `prayer-slug.json` with the same passage_id used in other languages.
+2. Create the companion folder and `prayer-slug.json`. Use the exact passage_ids from the English version of that prayer (English is the source of truth). Use segment counts per the alignment rule in Core Concepts.
    - Group segments under each passage_id.
    - Every segment has a unique "passage_segment_id", "text" (proper display form), and "phonetic" (pronunciation/TTS form; may differ from text for correct audio).
-3. Use the script in `audio-utils/generate-rosary-audio.py` to generate the MP3s (full + per passage + per passage_segment). The generator walks the structure directly. For any needed pronunciation adjustments in English (the reference), follow the "Actionable Steps for Phonetic Spellings with edge-tts" section.
+3. Use the script in `audio-utils/generate-rosary-audio.py` to generate the MP3s (full + per passage + per passage_segment). The generator walks the structure directly. For any needed pronunciation adjustments in English, follow the "Actionable Steps for Phonetic Spellings with edge-tts" section.
 4. Add the page to navigation in `zensical.toml` if needed.
 
 ### New language
 1. Create the language directory (e.g. `polski/`).
 2. For each core prayer, create the `.md` + companion `prayer-slug/` folder + JSON.
-3. For each passage (by passage_id), provide the segments (unique "passage_segment_id", "text" for proper display, and "phonetic" for pronunciation/TTS which may differ to achieve correct spoken form). Segment structure can vary for linguistic reasons.
-4. Use the exact same passage_id as the reference language.
-5. Run `audio-utils/generate-rosary-audio.py` with the appropriate voice for that language (respecting tts.input). Tune "phonetic" values to align with English reference using the respelling steps in the dedicated section above.
+3. Copy the exact passage_ids from the English version of that prayer (English is the source of truth for the structure). Provide the language-specific "text" and "phonetic" for each segment, following the alignment rule in Core Concepts.
+4. Run `audio-utils/generate-rosary-audio.py` with the appropriate voice for that language (respecting tts.input). Tune "phonetic" values using the respelling steps in the dedicated section above.
 
 ## Pilot Status (as of 2026-06-28)
-- Latin Hail Mary (`latin/hail-mary.md`) is the first implemented prayer.
+- English Hail Mary is implemented as the reference (structure and phonetics).
 - Audio is generated with Microsoft Edge TTS (see `audio-utils/`).
-- Multiple voices have been tested for Latin (primarily Italian proxies; also multilingual and other Romance languages).
-- Static bilingual text is preserved inside `.prayer-fallback` (hidden on successful player render).
+- Other languages follow the passage and segment structure from the corresponding English JSON.
+- Static text is preserved inside `.prayer-fallback` (hidden on successful player render).
 - Audio generation tooling lives in `audio-utils/` (outside the Zensical `ora/` tree).
-- Restructuring in progress to match the correct model: passages by passage_id, segments as atomic units with unique passage_segment_id + text + phonetic.
 
 ## Future Work (from original TODOs)
 - Enhance all rosary prayers with this structure.
@@ -227,18 +231,18 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 - Build the top-level multi-lingual rosary app on the home page that can switch languages while using the same JSON-driven passages.
 
 ## Notes for Future Sessions
-- Always keep passage_id stable across languages for 1:1 alignment. passage_segment_id values (e.g. "1a", "1b") are unique within a prayer but can differ in count and order between languages. Segments within a passage use a, b, c... letters.
+- English defines the passage_ids and segment structure for each prayer. Other languages follow the alignment rule in Core Concepts. passage_segment_id values (e.g. "1a", "1b") are unique within a prayer. Segments within a passage use a, b, c... letters.
 - The companion directory pattern (`lang/prayer/`) is preferred over centralizing in `assets/`.
 - Do not introduce two-letter language codes in paths or data unless explicitly decided later.
 - The Markdown static text should not be presented as the main view — it is fallback only.
 - When adding new features to `prayer.mjs`, keep the UI minimal and the controls integrated into the segment text and phonetic.
 - Test that the fallback still appears when the module fails (temporarily break the JSON path to verify).
 - Every segment must have both "text" and "phonetic". Content lives on segments.
-- For edge-tts pronunciation fixes (English reference), follow the actionable steps in the "Actionable Steps for Phonetic Spellings with edge-tts" section above: edit only "phonetic" with respelling, regenerate, test, iterate.
+- For edge-tts pronunciation fixes in English (the reference), follow the actionable steps in the "Actionable Steps for Phonetic Spellings with edge-tts" section above: edit only "phonetic" with respelling, regenerate, test, iterate.
 - Audio generation code and notes live in `audio-utils/`. Do not put Python/generation scripts inside the `ora/` (Zensical) content tree.
 - `ora/scripts/` has been removed.
 
-This document (plan-player-mjs.md) should be kept up to date as the implementation evolves.
+This document (plan-prayer-mjs.md) should be kept up to date as the implementation evolves.
 
 **Clarification on fields (as of English Hail Mary work):**  
 "text" = proper written form for display (spelling, grammar, traditional presentation).  

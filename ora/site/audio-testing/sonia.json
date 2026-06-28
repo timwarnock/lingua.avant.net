@@ -1,0 +1,28 @@
+{
+  "id": "sonia",
+  "lang": "test",
+  "title": "en-GB-SoniaNeural -5%",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Hail Mary,", "phonetic": "Hail Mary," },
+        { "passage_segment_id": "1b", "text": "full of grace,", "phonetic": "full of grace," },
+        { "passage_segment_id": "1c", "text": "the Lord is with thee.", "phonetic": "the Lord is with thee." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
+        { "passage_segment_id": "2b", "text": "gratia plena,", "phonetic": "gratia plena," },
+        { "passage_segment_id": "2c", "text": "Dominus tecum.", "phonetic": "Dominus tecum." }
+      ]
+    }
+  ]
+}

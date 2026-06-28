@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "english",
+  "title": "Sign of the Cross",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "In the name of the Father,", "phonetic": "In the name of the Father," },
+        { "passage_segment_id": "1b", "text": "and of the Son,", "phonetic": "and of the Son," },
+        { "passage_segment_id": "1c", "text": "and of the Holy Spirit.", "phonetic": "and of the Holy Spirit," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

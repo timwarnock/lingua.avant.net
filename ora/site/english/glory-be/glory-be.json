@@ -1,0 +1,35 @@
+{
+  "id": "glory-be",
+  "lang": "english",
+  "title": "Glory Be",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Glory be to the Father,", "phonetic": "Glory be to the Father," },
+        { "passage_segment_id": "1b", "text": "and to the Son,", "phonetic": "and to the Son," },
+        { "passage_segment_id": "1c", "text": "and to the Holy Spirit.", "phonetic": "and to the Holy Spirit." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "As it was in the beginning,", "phonetic": "As it was in the beginning," },
+        { "passage_segment_id": "2b", "text": "is now,", "phonetic": "is now," },
+        { "passage_segment_id": "2c", "text": "and ever shall be,", "phonetic": "and ever shall be," },
+        { "passage_segment_id": "2d", "text": "world without end.", "phonetic": "world without end," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

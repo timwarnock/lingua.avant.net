@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "english",
+  "title": "Fatima Prayer",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "O my Jesus,", "phonetic": "Oh my Jesus" },
+        { "passage_segment_id": "1b", "text": "forgive us our sins,", "phonetic": "forgive us our sins," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "save us from the fires of hell,", "phonetic": "save us from the fires of hell," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "lead all souls to heaven,", "phonetic": "lead all souls to heaven," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "especially those who are most in need of thy mercy.", "phonetic": "especially those who are most in need of thy mercy," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

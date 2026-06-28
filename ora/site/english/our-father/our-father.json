@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "english",
+  "title": "Our Father",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Our Father,", "phonetic": "Our Father," },
+        { "passage_segment_id": "1b", "text": "who art in heaven,", "phonetic": "who art in heaven," },
+        { "passage_segment_id": "1c", "text": "hallowed be thy name.", "phonetic": "hallowed be thy name." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Thy kingdom come.", "phonetic": "Thy kingdom come." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Thy will be done on earth as it is in heaven.", "phonetic": "Thy will be done on earth as it is in heaven." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Give us this day our daily bread.", "phonetic": "Give us this day our daily bread." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "and forgive us our trespasses,", "phonetic": "and forgive us our trespasses," },
+        { "passage_segment_id": "5b", "text": "as we forgive those who trespass against us.", "phonetic": "as we forgive those who trespass against us." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "And lead us not into temptation,", "phonetic": "And lead us not into temptation," },
+        { "passage_segment_id": "6b", "text": "but deliver us from evil.", "phonetic": "but deliver us from evil," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}
