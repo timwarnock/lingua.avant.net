@@ -104,11 +104,11 @@ function render(container, data, jsonUrl) {
   // Build UI
   container.innerHTML = '';
 
-  // Replace the original page <h1> (so the title uses the exact same styling as # heading)
-  const originalH1 = container.previousElementSibling;
-  if (originalH1 && originalH1.tagName === 'H1') {
-    originalH1.innerHTML = '';
-    originalH1.classList.add('prayer-with-player');
+  // Replace the original page heading (H1 or H2 for multi-prayer pages) so the title + play button uses the exact same heading styling as the page
+  const originalHeading = container.previousElementSibling;
+  if (originalHeading && (originalHeading.tagName === 'H1' || originalHeading.tagName === 'H2')) {
+    originalHeading.innerHTML = '';
+    originalHeading.classList.add('prayer-with-player');
 
     const title = document.createElement('span');
     title.className = 'prayer-title';
@@ -120,8 +120,8 @@ function render(container, data, jsonUrl) {
     fullBtn.title = 'Play full prayer';
     fullBtn.addEventListener('click', () => playSegment('full'));
 
-    originalH1.appendChild(title);
-    originalH1.appendChild(fullBtn);
+    originalHeading.appendChild(title);
+    originalHeading.appendChild(fullBtn);
   } else {
     // Fallback: build a header if no h1 found
     const header = document.createElement('div');
@@ -143,10 +143,10 @@ function render(container, data, jsonUrl) {
   }
 
   // Hide any leftover original title if we didn't repurpose it
-  // (in case the h1 wasn't immediately before)
-  const prevH1 = container.previousElementSibling;
-  if (prevH1 && prevH1.tagName === 'H1' && !prevH1.classList.contains('prayer-with-player')) {
-    prevH1.style.display = 'none';
+  // (in case the heading wasn't immediately before)
+  const prevHeading = container.previousElementSibling;
+  if (prevHeading && (prevHeading.tagName === 'H1' || prevHeading.tagName === 'H2') && !prevHeading.classList.contains('prayer-with-player')) {
+    prevHeading.style.display = 'none';
   }
 
   const passagesWrap = document.createElement('div');

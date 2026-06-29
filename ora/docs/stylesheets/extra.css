@@ -398,20 +398,22 @@
   font-weight: 600;
 }
 
-/* When we repurpose the original H1 for the player title */
-h1.prayer-with-player {
+/* When we repurpose the original heading (H1 or H2) for the player title + button */
+h1.prayer-with-player,
+h2.prayer-with-player {
   display: flex;
   align-items: center;
   gap: 0.5rem;
 }
 
 .prayer-title {
-  /* inherit whatever the page H1 uses */
+  /* inherit whatever the page heading uses */
 }
 
 .prayer-header .play-btn,
 .prayer-line .play-btn,
-h1.prayer-with-player .play-btn {
+h1.prayer-with-player .play-btn,
+h2.prayer-with-player .play-btn {
   font-size: 0.85rem;
   line-height: 1;
   padding: 0.1em 0.35em;
@@ -425,12 +427,14 @@ h1.prayer-with-player .play-btn {
 
 .prayer-header .play-btn:hover,
 .prayer-line .play-btn:hover,
-h1.prayer-with-player .play-btn:hover {
+h1.prayer-with-player .play-btn:hover,
+h2.prayer-with-player .play-btn:hover {
   background: rgba(0,0,0,0.04);
 }
 [data-md-color-scheme="slate"] .prayer-header .play-btn:hover,
 [data-md-color-scheme="slate"] .prayer-line .play-btn:hover,
-[data-md-color-scheme="slate"] h1.prayer-with-player .play-btn:hover {
+[data-md-color-scheme="slate"] h1.prayer-with-player .play-btn:hover,
+[data-md-color-scheme="slate"] h2.prayer-with-player .play-btn:hover {
   background: rgba(255,255,255,0.08);
 }
 

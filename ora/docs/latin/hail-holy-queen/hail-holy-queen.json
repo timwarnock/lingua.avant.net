@@ -49,6 +49,19 @@
         { "passage_segment_id": "6b", "text": "o pia,", "phonetic": "o pia," },
         { "passage_segment_id": "6c", "text": "o dulcis Virgo Maria.", "phonetic": "o dulcis Virgo Maria." }
       ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Ora pro nobis,", "phonetic": "Ora pro nobis," },
+        { "passage_segment_id": "7b", "text": "sancta Dei Genitrix.", "phonetic": "sancta Dei Genitrix." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Ut digni efficiamur promissionibus Christi.", "phonetic": "Ut digni efficiamur promissionibus Christi." }
+      ]
     }
   ]
 }
