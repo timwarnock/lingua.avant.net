@@ -67,19 +67,19 @@ nav = [
         ] }
     ] },
   { "Español" = [
-      "espanol/index.md",
-      "espanol/sign-of-the-cross.md",
-      "espanol/apostles-creed.md",
-      "espanol/our-father.md",
-      "espanol/hail-mary.md",
-      "espanol/glory-be.md",
-      "espanol/fatima-prayer.md",
-      "espanol/hail-holy-queen.md",
+      "spanish/index.md",
+      "spanish/sign-of-the-cross.md",
+      "spanish/apostles-creed.md",
+      "spanish/our-father.md",
+      "spanish/hail-mary.md",
+      "spanish/glory-be.md",
+      "spanish/fatima-prayer.md",
+      "spanish/hail-holy-queen.md",
       { "[ Adicionales ]" = [
-          "espanol/extras/pronunciation.md",
-          "espanol/extras/notes.md",
-          "espanol/extras/cognates.md",
-          "espanol/extras/conjugations.md"
+          "spanish/extras/pronunciation.md",
+          "spanish/extras/notes.md",
+          "spanish/extras/cognates.md",
+          "spanish/extras/conjugations.md"
         ] }
     ] },
   { "Français" = [

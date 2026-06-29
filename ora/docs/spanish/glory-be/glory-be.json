@@ -1,0 +1,35 @@
+{
+  "id": "glory-be",
+  "lang": "spanish",
+  "title": "Gloria al Padre",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Gloria al Padre,", "phonetic": "Gloria al Padre," },
+        { "passage_segment_id": "1b", "text": "al Hijo,", "phonetic": "al Hijo," },
+        { "passage_segment_id": "1c", "text": "y al Espíritu Santo.", "phonetic": "y al Espíritu Santo," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Como era en el principio,", "phonetic": "Como era en el principio," },
+        { "passage_segment_id": "2b", "text": "ahora", "phonetic": "ahora," },
+        { "passage_segment_id": "2c", "text": "y siempre,", "phonetic": "y siempre," },
+        { "passage_segment_id": "2d", "text": "por los siglos de los siglos.", "phonetic": "por los siglos de los siglos," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    }
+  ]
+}

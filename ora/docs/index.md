@@ -18,7 +18,7 @@ học ngôn ngữ
 ## Languages
 
 - [<span title="English">English</span>](english/index.md)
-- [<span title="Spanish">Español</span>](espanol/index.md)
+- [<span title="Spanish">Español</span>](spanish/index.md)
 - [<span title="French">Français</span>](francais/index.md)
 - [<span title="Latin">Latina</span>](latin/index.md)
 - [<span title="Polish">Polski</span>](polski/index.md)

@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "spanish",
+  "title": "Ave María",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Dios te salve, María,", "phonetic": "Dios te salve María," },
+        { "passage_segment_id": "1b", "text": "llena eres de gracia,", "phonetic": "llena eres de gracia," },
+        { "passage_segment_id": "1c", "text": "el Señor es contigo.", "phonetic": "el Señor es contigo," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Bendita tú eres entre todas las mujeres,", "phonetic": "Bendita tú eres entre todas las mujeres," },
+        { "passage_segment_id": "2b", "text": "y bendito es el fruto de tu vientre,", "phonetic": "y bendito es el fruto de tu vientre," },
+        { "passage_segment_id": "2c", "text": "Jesús.", "phonetic": "Jesús," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Santa María,", "phonetic": "Santa María," },
+        { "passage_segment_id": "3b", "text": "Madre de Dios,", "phonetic": "Madre de Dios," },
+        { "passage_segment_id": "3c", "text": "ruega por nosotros pecadores,", "phonetic": "ruega por nosotros pecadores," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "ahora y en la hora de nuestra muerte.", "phonetic": "ahora y en la hora de nuestra muerte," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    }
+  ]
+}

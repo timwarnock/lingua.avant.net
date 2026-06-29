@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "spanish",
+  "title": "Oración de Fátima",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Oh mi Jesús,", "phonetic": "Oh mi Jesús," },
+        { "passage_segment_id": "1b", "text": "perdónanos nuestros pecados,", "phonetic": "perdónanos nuestros pecados," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "líbranos del fuego del infierno,", "phonetic": "líbranos del fuego del infierno," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "lleva todas las almas al cielo,", "phonetic": "lleva todas las almas al cielo," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "especialmente las más necesitadas de tu misericordia.", "phonetic": "especialmente las más necesitadas de tu misericordia," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    }
+  ]
+}

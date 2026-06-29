@@ -1,0 +1,70 @@
+{
+  "id": "rosary-prayer",
+  "lang": "spanish",
+  "title": "Oración del Rosario",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Oremos.", "phonetic": "Oremos," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Oh Dios,", "phonetic": "Oh Dios," },
+        { "passage_segment_id": "2b", "text": "cuyo Hijo unigénito,", "phonetic": "cuyo Hijo unigénito," },
+        { "passage_segment_id": "2c", "text": "por su vida,", "phonetic": "por su vida," },
+        { "passage_segment_id": "2d", "text": "muerte y resurrección,", "phonetic": "muerte y resurrección," },
+        { "passage_segment_id": "2e", "text": "nos ha obtenido los premios", "phonetic": "nos ha obtenido los premios," },
+        { "passage_segment_id": "2f", "text": "de la vida eterna,", "phonetic": "de la vida eterna," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "concédenos, te rogamos,", "phonetic": "concédenos, te rogamos," },
+        { "passage_segment_id": "3b", "text": "que al meditar los misterios", "phonetic": "que al meditar los misterios," },
+        { "passage_segment_id": "3c", "text": "del Santísimo Rosario de la Bienaventurada Virgen María,", "phonetic": "del Santísimo Rosario de la Bienaventurada Virgen María," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "imitemos lo que contienen", "phonetic": "imitemos lo que contienen," },
+        { "passage_segment_id": "4b", "text": "y alcancemos lo que prometen,", "phonetic": "y alcancemos lo que prometen," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "por el mismo Jesucristo, Señor nuestro.", "phonetic": "por el mismo Jesucristo, Señor nuestro," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Sagrado Corazón de Jesús,", "phonetic": "Sagrado Corazón de Jesús," },
+        { "passage_segment_id": "7b", "text": "ten misericordia de nosotros.", "phonetic": "ten misericordia de nosotros," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Corazón Inmaculado de María,", "phonetic": "Corazón Inmaculado de María," },
+        { "passage_segment_id": "8b", "text": "ruega por nosotros.", "phonetic": "ruega por nosotros," }
+      ]
+    }
+  ]
+}

@@ -56,6 +56,7 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 
 ## TODO
 
++ make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
 + IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
 ++ finalize English for official passage+segment source of truth, then generate spanish prayers+audio (matching to the English passages and segments).
 ++ carefully tweak latin phonetics for better audio (italian to liturgical latin)

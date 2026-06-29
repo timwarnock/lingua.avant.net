@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "spanish",
+  "title": "Padre Nuestro",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Padre nuestro,", "phonetic": "Padre nuestro," },
+        { "passage_segment_id": "1b", "text": "que estás en el cielo,", "phonetic": "que estás en el cielo," },
+        { "passage_segment_id": "1c", "text": "santificado sea tu nombre.", "phonetic": "santificado sea tu nombre," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Venga tu reino.", "phonetic": "Venga tu reino," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Hágase tu voluntad en la tierra como en el cielo.", "phonetic": "Hágase tu voluntad en la tierra como en el cielo," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Danos hoy nuestro pan de cada día,", "phonetic": "Danos hoy nuestro pan de cada día," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Perdona nuestras ofensas,", "phonetic": "Perdona nuestras ofensas," },
+        { "passage_segment_id": "5b", "text": "como también nosotros perdonamos a los que nos ofenden.", "phonetic": "como también nosotros perdonamos a los que nos ofenden," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "No nos dejes caer en tentación,", "phonetic": "No nos dejes caer en tentación," },
+        { "passage_segment_id": "6b", "text": "y líbranos del mal.", "phonetic": "y líbranos del mal," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    }
+  ]
+}

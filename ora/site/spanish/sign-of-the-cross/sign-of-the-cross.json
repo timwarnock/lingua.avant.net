@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "spanish",
+  "title": "Señal de la Cruz",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "En el nombre del Padre,", "phonetic": "En el nombre del Padre," },
+        { "passage_segment_id": "1b", "text": "y del Hijo,", "phonetic": "y del Hijo," },
+        { "passage_segment_id": "1c", "text": "y del Espíritu Santo.", "phonetic": "y del Espíritu Santo," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Amén.", "phonetic": "Amén." }
+      ]
+    }
+  ]
+}
