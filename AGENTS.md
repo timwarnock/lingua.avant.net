@@ -35,7 +35,7 @@ Migrated old /v/ content organized directly in language/topic sections under `or
 
 ## Site Organization
 
-Directories and files should use simple English names, e.g. chinese/extras/calligraphy.md and the content title will use proper Chinese (書法), and this means all URLs will follow simple english names, e.g., /ora/site/chinese/extras/calligraphy/ but the content (titles and text) will be in that language.
+Directories and files should use simple English names for all lanuages, e.g. chinese/extras/calligraphy.md and the content title will use proper Chinese (書法), and this means all URLs will follow simple english names, e.g., /ora/site/chinese/extras/calligraphy/ but the content (titles and text) will be in that language.
 
 Each language section should have subsections orgranized around the rosary.
 
@@ -57,7 +57,7 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 ## TODO
 
 + IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
-++ finalize English for official passage+segment source of truth.
+++ finalize English for official passage+segment source of truth, then generate spanish prayers+audio (matching to the English passages and segments).
 ++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 ++ after every new language, compare each prayer to all other languages and verify that the passages align perfectly (segments may be different but aim for equal count at least, might be different orde)).
 + Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
