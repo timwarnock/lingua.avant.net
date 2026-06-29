@@ -459,9 +459,6 @@ h1.prayer-with-player .play-btn:hover {
   margin-top: 0.1rem;
   font-size: 0.78rem;
   opacity: 0.82;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.2rem 0.45rem;
   font-style: italic;
   color: var(--md-default-fg-color--light, #555);
 }
@@ -478,6 +475,8 @@ h1.prayer-with-player .play-btn:hover {
   border-bottom: 1px dotted currentColor;
   opacity: 0.9;
   font-size: inherit;
+  display: inline;
+  margin: 0 0.45rem 0.1rem 0;
 }
 
 .prayer-chunk:hover {
