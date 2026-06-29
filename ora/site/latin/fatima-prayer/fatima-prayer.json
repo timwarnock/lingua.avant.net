@@ -11,7 +11,8 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "O mi Iesu, dimitte nobis peccata nostra,", "phonetic": "O mi Iesu, dimitte nobis peccata nostra," }
+        { "passage_segment_id": "1a", "text": "O mi Iesu,", "phonetic": "O mi Iesu," },
+        { "passage_segment_id": "1b", "text": "dimitte nobis peccata nostra,", "phonetic": "dimitte nobis peccata nostra," }
       ]
     },
     {

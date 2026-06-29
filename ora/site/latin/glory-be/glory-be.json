@@ -20,8 +20,9 @@
       "passage_id": 2,
       "segments": [
         { "passage_segment_id": "2a", "text": "Sicut erat in principio,", "phonetic": "Sicut erat in principio," },
-        { "passage_segment_id": "2b", "text": "et nunc, et semper,", "phonetic": "et nunc, et semper," },
-        { "passage_segment_id": "2c", "text": "et in saecula saeculorum.", "phonetic": "et in saecula saeculorum," }
+        { "passage_segment_id": "2b", "text": "et nunc,", "phonetic": "et nunc," },
+        { "passage_segment_id": "2c", "text": "et semper,", "phonetic": "et semper," },
+        { "passage_segment_id": "2d", "text": "et in saecula saeculorum.", "phonetic": "et in saecula saeculorum." }
       ]
     },
     {

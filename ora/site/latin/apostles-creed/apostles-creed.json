@@ -12,7 +12,8 @@
       "passage_id": 1,
       "segments": [
         { "passage_segment_id": "1a", "text": "Credo in Deum Patrem omnipotentem,", "phonetic": "Credo in Deum Patrem omnipotentem," },
-        { "passage_segment_id": "1b", "text": "Creatorem caeli et terrae,", "phonetic": "Creatorem caeli et terrae," }
+        { "passage_segment_id": "1b", "text": "Creatorem caeli", "phonetic": "Creatorem caeli" },
+        { "passage_segment_id": "1c", "text": "et terrae.", "phonetic": "et terrae." }
       ]
     },
     {
@@ -20,39 +21,74 @@
       "segments": [
         { "passage_segment_id": "2a", "text": "et in Iesum Christum,", "phonetic": "et in Iesum Christum," },
         { "passage_segment_id": "2b", "text": "Filium eius unicum,", "phonetic": "Filium eius unicum," },
-        { "passage_segment_id": "2c", "text": "Dominum nostrum,", "phonetic": "Dominum nostrum," },
-        { "passage_segment_id": "2d", "text": "qui conceptus est de Spiritu Sancto,", "phonetic": "qui conceptus est de Spiritu Sancto," },
-        { "passage_segment_id": "2e", "text": "natus ex Maria Virgine,", "phonetic": "natus ex Maria Virgine," }
+        { "passage_segment_id": "2c", "text": "Dominum nostrum,", "phonetic": "Dominum nostrum," }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "passus sub Pontio Pilato,", "phonetic": "passus sub Pontio Pilato," },
-        { "passage_segment_id": "3b", "text": "crucifixus,", "phonetic": "crucifixus," },
-        { "passage_segment_id": "3c", "text": "mortuus, et sepultus,", "phonetic": "mortuus, et sepultus," },
-        { "passage_segment_id": "3d", "text": "descendit ad inferos,", "phonetic": "descendit ad inferos," },
-        { "passage_segment_id": "3e", "text": "tertia die resurrexit a mortuis,", "phonetic": "tertia die resurrexit a mortuis," },
-        { "passage_segment_id": "3f", "text": "ascendit ad caelos,", "phonetic": "ascendit ad caelos," },
-        { "passage_segment_id": "3g", "text": "sedet ad dexteram Dei Patris omnipotentis,", "phonetic": "sedet ad dexteram Dei Patris omnipotentis," },
-        { "passage_segment_id": "3h", "text": "inde venturus est iudicare vivos et mortuos.", "phonetic": "inde venturus est iudicare vivos et mortuos." }
+        { "passage_segment_id": "3a", "text": "qui conceptus est de Spiritu Sancto,", "phonetic": "qui conceptus est de Spiritu Sancto," }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Credo in Spiritum Sanctum,", "phonetic": "Credo in Spiritum Sanctum," },
-        { "passage_segment_id": "4b", "text": "sanctam Ecclesiam catholicam,", "phonetic": "sanctam Ecclesiam catholicam," },
-        { "passage_segment_id": "4c", "text": "sanctorum communionem,", "phonetic": "sanctorum communionem," },
-        { "passage_segment_id": "4d", "text": "remissionem peccatorum,", "phonetic": "remissionem peccatorum," },
-        { "passage_segment_id": "4e", "text": "carnis resurrectionem,", "phonetic": "carnis resurrectionem," },
-        { "passage_segment_id": "4f", "text": "vitam aeternam.", "phonetic": "vitam aeternam," }
+        { "passage_segment_id": "4a", "text": "natus ex Maria Virgine,", "phonetic": "natus ex Maria Virgine," }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        { "passage_segment_id": "5a", "text": "passus sub Pontio Pilato,", "phonetic": "passus sub Pontio Pilato," },
+        { "passage_segment_id": "5b", "text": "crucifixus,", "phonetic": "crucifixus," },
+        { "passage_segment_id": "5c", "text": "mortuus, et sepultus,", "phonetic": "mortuus, et sepultus," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "descendit ad inferos,", "phonetic": "descendit ad inferos," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "tertia die resurrexit a mortuis,", "phonetic": "tertia die resurrexit a mortuis," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "ascendit ad caelos,", "phonetic": "ascendit ad caelos," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "sedet ad dexteram Dei Patris omnipotentis,", "phonetic": "sedet ad dexteram Dei Patris omnipotentis," }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "inde venturus est iudicare vivos et mortuos.", "phonetic": "inde venturus est iudicare vivos et mortuos." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Credo in Spiritum Sanctum,", "phonetic": "Credo in Spiritum Sanctum," },
+        { "passage_segment_id": "11b", "text": "sanctam Ecclesiam catholicam,", "phonetic": "sanctam Ecclesiam catholicam," },
+        { "passage_segment_id": "11c", "text": "sanctorum communionem,", "phonetic": "sanctorum communionem," },
+        { "passage_segment_id": "11d", "text": "remissionem peccatorum,", "phonetic": "remissionem peccatorum," },
+        { "passage_segment_id": "11e", "text": "carnis resurrectionem,", "phonetic": "carnis resurrectionem," },
+        { "passage_segment_id": "11f", "text": "vitam aeternam.", "phonetic": "vitam aeternam." }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
       ]
     }
   ]

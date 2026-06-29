@@ -11,35 +11,43 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Salve, Regina, mater misericordiae;", "phonetic": "Salve, Regina, mater misericordiae;" },
-        { "passage_segment_id": "1b", "text": "vita, dulcedo et spes nostra, salve.", "phonetic": "vita, dulcedo et spes nostra, salve." }
+        { "passage_segment_id": "1a", "text": "Salve, Regina,", "phonetic": "Salve, Regina," },
+        { "passage_segment_id": "1b", "text": "mater misericordiae;", "phonetic": "mater misericordiae;" },
+        { "passage_segment_id": "1c", "text": "vita, dulcedo", "phonetic": "vita, dulcedo" },
+        { "passage_segment_id": "1d", "text": "et spes nostra,", "phonetic": "et spes nostra," },
+        { "passage_segment_id": "1e", "text": "salve.", "phonetic": "salve." }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Ad te clamamus exsules filii Hevae.", "phonetic": "Ad te clamamus exsules filii Hevae." }
+        { "passage_segment_id": "2a", "text": "Ad te clamamus", "phonetic": "Ad te clamamus" },
+        { "passage_segment_id": "2b", "text": "exsules filii Hevae.", "phonetic": "exsules filii Hevae." }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Ad te suspiramus gementes et flentes", "phonetic": "Ad te suspiramus gementes et flentes" },
-        { "passage_segment_id": "3b", "text": "in hac lacrimarum valle.", "phonetic": "in hac lacrimarum valle." }
+        { "passage_segment_id": "3a", "text": "Ad te suspiramus", "phonetic": "Ad te suspiramus" },
+        { "passage_segment_id": "3b", "text": "gementes et flentes", "phonetic": "gementes et flentes" },
+        { "passage_segment_id": "3c", "text": "in hac lacrimarum valle.", "phonetic": "in hac lacrimarum valle." }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Eia ergo, advocata nostra,", "phonetic": "Eia ergo, advocata nostra," },
-        { "passage_segment_id": "4b", "text": "illos tuos misericordes oculos ad nos converte.", "phonetic": "illos tuos misericordes oculos ad nos converte." }
+        { "passage_segment_id": "4a", "text": "Eia ergo,", "phonetic": "Eia ergo," },
+        { "passage_segment_id": "4b", "text": "advocata nostra,", "phonetic": "advocata nostra," },
+        { "passage_segment_id": "4c", "text": "illos tuos misericordes oculos ad nos converte.", "phonetic": "illos tuos misericordes oculos ad nos converte." }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Et Iesum, benedictum fructum ventris tui,", "phonetic": "Et Iesum, benedictum fructum ventris tui," },
-        { "passage_segment_id": "5b", "text": "nobis post hoc exsilium ostende.", "phonetic": "nobis post hoc exsilium ostende." }
+        { "passage_segment_id": "5a", "text": "Et Iesum,", "phonetic": "Et Iesum," },
+        { "passage_segment_id": "5b", "text": "benedictum fructum ventris tui,", "phonetic": "benedictum fructum ventris tui," },
+        { "passage_segment_id": "5c", "text": "nobis post hoc exsilium", "phonetic": "nobis post hoc exsilium" },
+        { "passage_segment_id": "5d", "text": "ostende.", "phonetic": "ostende." }
       ]
     },
     {

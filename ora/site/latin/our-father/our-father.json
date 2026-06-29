@@ -11,8 +11,9 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Pater noster, qui es in caelis,", "phonetic": "Pater noster, qui es in caelis," },
-        { "passage_segment_id": "1b", "text": "sanctificetur nomen tuum.", "phonetic": "sanctificetur nomen tuum." }
+        { "passage_segment_id": "1a", "text": "Pater noster,", "phonetic": "Pater noster," },
+        { "passage_segment_id": "1b", "text": "qui es in caelis,", "phonetic": "qui es in caelis," },
+        { "passage_segment_id": "1c", "text": "sanctificetur nomen tuum.", "phonetic": "sanctificetur nomen tuum." }
       ]
     },
     {
@@ -24,29 +25,33 @@
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Fiat voluntas tua,", "phonetic": "Fiat voluntas tua," },
-        { "passage_segment_id": "3b", "text": "sicut in caelo et in terra.", "phonetic": "sicut in chae-lo et in terra." }
+        { "passage_segment_id": "3a", "text": "Fiat voluntas tua, sicut in caelo et in terra.", "phonetic": "Fiat voluntas tua, sicut in caelo et in terra." }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Panem nostrum quotidianum da nobis hodie,", "phonetic": "Panem nostrum quotidianum da nobis hodie," },
-        { "passage_segment_id": "4b", "text": "et dimitte nobis debita nostra", "phonetic": "et dimitte nobis debita nostra" },
-        { "passage_segment_id": "4c", "text": "sicut et nos dimittimus debitoribus nostris.", "phonetic": "sicut et nos dimittimus debitoribus nostris." }
+        { "passage_segment_id": "4a", "text": "Panem nostrum quotidianum da nobis hodie,", "phonetic": "Panem nostrum quotidianum da nobis hodie," }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Et ne nos inducas in tentationem,", "phonetic": "Et ne nos inducas in tentationem," },
-        { "passage_segment_id": "5b", "text": "sed libera nos a malo.", "phonetic": "sed libera nos a malo," }
+        { "passage_segment_id": "5a", "text": "et dimitte nobis debita nostra,", "phonetic": "et dimitte nobis debita nostra," },
+        { "passage_segment_id": "5b", "text": "sicut et nos dimittimus debitoribus nostris.", "phonetic": "sicut et nos dimittimus debitoribus nostris." }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+        { "passage_segment_id": "6a", "text": "Et ne nos inducas in tentationem,", "phonetic": "Et ne nos inducas in tentationem," },
+        { "passage_segment_id": "6b", "text": "sed libera nos a malo.", "phonetic": "sed libera nos a malo," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
       ]
     }
   ]
