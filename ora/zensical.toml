@@ -83,16 +83,16 @@ nav = [
         ] }
     ] },
   { "Français" = [
-      "francais/index.md",
-      "francais/sign-of-the-cross.md",
-      "francais/apostles-creed.md",
-      "francais/our-father.md",
-      "francais/hail-mary.md",
-      "francais/glory-be.md",
-      "francais/fatima-prayer.md",
-      "francais/hail-holy-queen.md",
+      "french/index.md",
+      "french/sign-of-the-cross.md",
+      "french/apostles-creed.md",
+      "french/our-father.md",
+      "french/hail-mary.md",
+      "french/glory-be.md",
+      "french/fatima-prayer.md",
+      "french/hail-holy-queen.md",
       { "[ Suppléments ]" = [
-          "francais/extras/pronunciation.md"
+          "french/extras/pronunciation.md"
         ] }
     ] },
   { "Latina" = [
@@ -110,29 +110,29 @@ nav = [
         ] }
     ] },
   { "Polski" = [
-      "polski/index.md",
-      "polski/sign-of-the-cross.md",
-      "polski/apostles-creed.md",
-      "polski/our-father.md",
-      "polski/hail-mary.md",
-      "polski/glory-be.md",
-      "polski/fatima-prayer.md",
-      "polski/hail-holy-queen.md",
+      "polish/index.md",
+      "polish/sign-of-the-cross.md",
+      "polish/apostles-creed.md",
+      "polish/our-father.md",
+      "polish/hail-mary.md",
+      "polish/glory-be.md",
+      "polish/fatima-prayer.md",
+      "polish/hail-holy-queen.md",
       { "[ Dodatki ]" = [
-          "polski/extras/pronunciation.md"
+          "polish/extras/pronunciation.md"
         ] }
     ] },
   { "Português" = [
-      "portugues/index.md",
-      "portugues/sign-of-the-cross.md",
-      "portugues/apostles-creed.md",
-      "portugues/our-father.md",
-      "portugues/hail-mary.md",
-      "portugues/glory-be.md",
-      "portugues/fatima-prayer.md",
-      "portugues/hail-holy-queen.md",
+      "portuguese/index.md",
+      "portuguese/sign-of-the-cross.md",
+      "portuguese/apostles-creed.md",
+      "portuguese/our-father.md",
+      "portuguese/hail-mary.md",
+      "portuguese/glory-be.md",
+      "portuguese/fatima-prayer.md",
+      "portuguese/hail-holy-queen.md",
       { "[ Adicionais ]" = [
-          "portugues/extras/pronunciation.md"
+          "portuguese/extras/pronunciation.md"
         ] }
     ] },
   { "Tiếng Việt" = [
