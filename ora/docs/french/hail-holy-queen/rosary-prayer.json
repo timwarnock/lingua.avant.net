@@ -1,0 +1,70 @@
+{
+  "id": "rosary-prayer",
+  "lang": "french",
+  "title": "Prière du Rosaire",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Prions.", "phonetic": "Prions," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Dieu,", "phonetic": "Dieu," },
+        { "passage_segment_id": "2b", "text": "dont le Fils unique,", "phonetic": "dont le Fils unique," },
+        { "passage_segment_id": "2c", "text": "par sa vie,", "phonetic": "par sa vie," },
+        { "passage_segment_id": "2d", "text": "sa mort et sa résurrection,", "phonetic": "sa mort et sa résurrection," },
+        { "passage_segment_id": "2e", "text": "nous a acquis le prix", "phonetic": "nous a acquis le prix," },
+        { "passage_segment_id": "2f", "text": "de la vie éternelle,", "phonetic": "de la vie éternelle," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "accordez-nous, nous vous en prions,", "phonetic": "accordez-nous, nous vous en prions," },
+        { "passage_segment_id": "3b", "text": "qu'en méditant les mystères", "phonetic": "qu'en méditant les mystères," },
+        { "passage_segment_id": "3c", "text": "du très saint Rosaire de la bienheureuse Vierge Marie,", "phonetic": "du très saint Rosaire de la bienheureuse Vierge Marie," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "nous imitions ce qu'ils contiennent", "phonetic": "nous imitions ce qu'ils contiennent," },
+        { "passage_segment_id": "4b", "text": "et obtenions ce qu'ils promettent,", "phonetic": "et obtenions ce qu'ils promettent," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Par le même Jésus-Christ notre Seigneur.", "phonetic": "Par le même Jésus-Christ notre Seigneur," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Sacré-Cœur de Jésus,", "phonetic": "Sacré-Cœur de Jésus," },
+        { "passage_segment_id": "7b", "text": "ayez pitié de nous.", "phonetic": "ayez pitié de nous," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Cœur immaculé de Marie,", "phonetic": "Cœur immaculé de Marie," },
+        { "passage_segment_id": "8b", "text": "priez pour nous.", "phonetic": "priez pour nous," }
+      ]
+    }
+  ]
+}

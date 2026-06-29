@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "french",
+  "title": "Je vous salue, Marie",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Je vous salue, Marie,", "phonetic": "Je vous salue, Marie," },
+        { "passage_segment_id": "1b", "text": "pleine de grâces,", "phonetic": "pleine de grâces," },
+        { "passage_segment_id": "1c", "text": "le Seigneur est avec vous;", "phonetic": "le Seigneur est avec vous," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "vous êtes bénie entre toutes les femmes,", "phonetic": "vous êtes bénie entre toutes les femmes," },
+        { "passage_segment_id": "2b", "text": "et Jésus le fruit de vos entrailles,", "phonetic": "et Jésus le fruit de vos entrailles," },
+        { "passage_segment_id": "2c", "text": "est béni.", "phonetic": "est béni," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Sainte Marie,", "phonetic": "Sainte Marie," },
+        { "passage_segment_id": "3b", "text": "Mère de Dieu,", "phonetic": "Mère de Dieu," },
+        { "passage_segment_id": "3c", "text": "priez pour nous pécheurs,", "phonetic": "priez pour nous pécheurs," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "maintenant, et à l'heure de notre mort.", "phonetic": "maintenant, et à l'heure de notre mort," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

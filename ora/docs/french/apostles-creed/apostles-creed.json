@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "french",
+  "title": "Je crois en Dieu",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Je crois en Dieu,", "phonetic": "Je crois en Dieu," },
+        { "passage_segment_id": "1b", "text": "le Père tout-puissant,", "phonetic": "le Père tout-puissant," },
+        { "passage_segment_id": "1c", "text": "créateur du ciel et de la terre.", "phonetic": "créateur du ciel et de la terre," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Et en Jésus Christ,", "phonetic": "Et en Jésus Christ," },
+        { "passage_segment_id": "2b", "text": "son Fils unique,", "phonetic": "son Fils unique," },
+        { "passage_segment_id": "2c", "text": "notre Seigneur", "phonetic": "notre Seigneur" }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "qui a été conçu du Saint-Esprit,", "phonetic": "qui a été conçu du Saint-Esprit," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "est né de la Vierge Marie,", "phonetic": "est né de la Vierge Marie," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "a souffert sous Ponce Pilate,", "phonetic": "a souffert sous Ponce Pilate," },
+        { "passage_segment_id": "5b", "text": "a été crucifié,", "phonetic": "a été crucifié," },
+        { "passage_segment_id": "5c", "text": "est mort et a été enseveli,", "phonetic": "est mort et a été enseveli," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "est descendu aux enfers,", "phonetic": "est descendu aux enfers," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "le troisième jour est ressuscité des morts,", "phonetic": "le troisième jour est ressuscité des morts," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "est monté aux cieux,", "phonetic": "est monté aux cieux," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "est assis à la droite de Dieu le Père tout-puissant", "phonetic": "est assis à la droite de Dieu le Père tout-puissant" }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "d'où Il viendra juger les vivants et les morts.", "phonetic": "d'où Il viendra juger les vivants et les morts," }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Je crois en l'Esprit-Saint,", "phonetic": "Je crois en l'Esprit-Saint," },
+        { "passage_segment_id": "11b", "text": "à la sainte Eglise catholique,", "phonetic": "à la sainte Eglise catholique," },
+        { "passage_segment_id": "11c", "text": "à la communion des saints,", "phonetic": "à la communion des saints," },
+        { "passage_segment_id": "11d", "text": "à la rémission des péchés,", "phonetic": "à la rémission des péchés," },
+        { "passage_segment_id": "11e", "text": "à la résurrection de la chair,", "phonetic": "à la résurrection de la chair," },
+        { "passage_segment_id": "11f", "text": "à la vie éternelle.", "phonetic": "à la vie éternelle," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

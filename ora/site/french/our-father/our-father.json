@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "french",
+  "title": "Notre Père",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Notre Père,", "phonetic": "Notre Père," },
+        { "passage_segment_id": "1b", "text": "qui es aux cieux,", "phonetic": "qui es aux cieux," },
+        { "passage_segment_id": "1c", "text": "que ton nom soit sanctifié.", "phonetic": "que ton nom soit sanctifié," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "que ton règne vienne.", "phonetic": "que ton règne vienne," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "que ta volonté soit faite sur la terre comme au ciel.", "phonetic": "que ta volonté soit faite sur la terre comme au ciel," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Donne-nous aujourd'hui notre pain quotidien.", "phonetic": "Donne-nous aujourd'hui notre pain quotidien," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Pardonne-nous nos offenses,", "phonetic": "Pardonne-nous nos offenses," },
+        { "passage_segment_id": "5b", "text": "comme nous pardonnons aussi à ceux qui nous ont offensés.", "phonetic": "comme nous pardonnons aussi à ceux qui nous ont offensés," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Et ne nous soumets pas à la tentation,", "phonetic": "Et ne nous soumets pas à la tentation," },
+        { "passage_segment_id": "6b", "text": "mais délivre-nous du mal.", "phonetic": "mais délivre-nous du mal," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

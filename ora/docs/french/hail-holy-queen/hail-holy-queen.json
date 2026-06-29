@@ -1,0 +1,75 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "french",
+  "title": "Je vous salue, Reine",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Nous vous saluons, Reine,", "phonetic": "Nous vous saluons, Reine," },
+        { "passage_segment_id": "1b", "text": "Mère de miséricorde,", "phonetic": "Mère de miséricorde," },
+        { "passage_segment_id": "1c", "text": "notre vie,", "phonetic": "notre vie," },
+        { "passage_segment_id": "1d", "text": "notre joie,", "phonetic": "notre joie," },
+        { "passage_segment_id": "1e", "text": "notre espérance, salut.", "phonetic": "notre espérance, salut," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Enfants d'Ève,", "phonetic": "Enfants d'Ève," },
+        { "passage_segment_id": "2b", "text": "nous crions vers vous du fond de notre exil.", "phonetic": "nous crions vers vous du fond de notre exil," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Nous soupirons vers vous,", "phonetic": "Nous soupirons vers vous," },
+        { "passage_segment_id": "3b", "text": "gémissant et pleurant", "phonetic": "gémissant et pleurant," },
+        { "passage_segment_id": "3c", "text": "dans cette vallée de larmes.", "phonetic": "dans cette vallée de larmes," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Ô vous notre avocate,", "phonetic": "Ô vous notre avocate," },
+        { "passage_segment_id": "4b", "text": "tournez vers nous", "phonetic": "tournez vers nous," },
+        { "passage_segment_id": "4c", "text": "vos regards miséricordieux.", "phonetic": "vos regards miséricordieux," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Et après l'exil de cette vie,", "phonetic": "Et après l'exil de cette vie," },
+        { "passage_segment_id": "5b", "text": "montrez-nous", "phonetic": "montrez-nous," },
+        { "passage_segment_id": "5c", "text": "Jésus, le fruit béni de vos entrailles,", "phonetic": "Jésus, le fruit béni de vos entrailles," },
+        { "passage_segment_id": "5d", "text": "tendre, aimante, douce Vierge Marie.", "phonetic": "tendre, aimante, douce Vierge Marie," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "tendre,", "phonetic": "tendre," },
+        { "passage_segment_id": "6b", "text": "aimante,", "phonetic": "aimante," },
+        { "passage_segment_id": "6c", "text": "douce Vierge Marie.", "phonetic": "douce Vierge Marie," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Priez pour nous,", "phonetic": "Priez pour nous," },
+        { "passage_segment_id": "7b", "text": "sainte Mère de Dieu.", "phonetic": "sainte Mère de Dieu," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Afin que nous soyons dignes des promesses de Jésus Christ.", "phonetic": "Afin que nous soyons dignes des promesses de Jésus Christ," }
+      ]
+    }
+  ]
+}
