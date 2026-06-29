@@ -1,0 +1,119 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "english",
+  "title": "Hail, Holy Queen",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Hail, Holy Queen,", "phonetic": "Hail, Holy Queen," },
+        { "passage_segment_id": "1b", "text": "Mother of mercy,", "phonetic": "Mother of mercy," },
+        { "passage_segment_id": "1c", "text": "our life,", "phonetic": "our life," },
+        { "passage_segment_id": "1d", "text": "our sweetness", "phonetic": "our sweetness" },
+        { "passage_segment_id": "1e", "text": "and our hope.", "phonetic": "and our hope." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "To thee do we cry,", "phonetic": "To thee do we cry," },
+        { "passage_segment_id": "2b", "text": "poor banished children of Eve.", "phonetic": "poor banished children of Eve." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "To thee do we send up our sighs,", "phonetic": "To thee do we send up our sighs," },
+        { "passage_segment_id": "3b", "text": "mourning and weeping", "phonetic": "mourning and weeping" },
+        { "passage_segment_id": "3c", "text": "in this valley of tears.", "phonetic": "in this valley of tears." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Turn then,", "phonetic": "Turn then," },
+        { "passage_segment_id": "4b", "text": "most gracious advocate,", "phonetic": "most gracious advocate," },
+        { "passage_segment_id": "4c", "text": "thine eyes of mercy toward us.", "phonetic": "thine eyes of mercy toward us." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "And after this our exile,", "phonetic": "And after this our exile," },
+        { "passage_segment_id": "5b", "text": "show unto us", "phonetic": "show unto us" },
+        { "passage_segment_id": "5c", "text": "the blessed fruit of thy womb,", "phonetic": "the blessid fruit of thy womb," },
+        { "passage_segment_id": "5d", "text": "Jesus.", "phonetic": "Jesus." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "O clement,", "phonetic": "O clement," },
+        { "passage_segment_id": "6b", "text": "O loving,", "phonetic": "O loving," },
+        { "passage_segment_id": "6c", "text": "O sweet Virgin Mary.", "phonetic": "O sweet Virgin Mary." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Pray for us,", "phonetic": "Pray for us," },
+        { "passage_segment_id": "7b", "text": "O holy Mother of God.", "phonetic": "O holy Mother of God." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "That we may be made worthy of the promises of Christ.", "phonetic": "That we may be made worthy of the promises of Christ." }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "Let us pray.", "phonetic": "Let us pray." }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "O God,", "phonetic": "O God," },
+        { "passage_segment_id": "10b", "text": "whose only-begotten Son,", "phonetic": "whose only-begotten Son," },
+        { "passage_segment_id": "10c", "text": "by his life,", "phonetic": "by his life," },
+        { "passage_segment_id": "10d", "text": "death and resurrection,", "phonetic": "death and resurrection," },
+        { "passage_segment_id": "10e", "text": "has purchased for us the rewards", "phonetic": "has purchased for us the rewards" },
+        { "passage_segment_id": "10f", "text": "of eternal life,", "phonetic": "of eternal life," }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "grant, we beseech thee,", "phonetic": "grant, we beseech thee," },
+        { "passage_segment_id": "11b", "text": "that while meditating on these mysteries", "phonetic": "that while meditating on these mysteries" },
+        { "passage_segment_id": "11c", "text": "of the most holy Rosary of the Blessed Virgin Mary,", "phonetic": "of the most holy Rosary of the Blessed Virgin Mary," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "we may imitate what they contain", "phonetic": "we may imitate what they contain" },
+        { "passage_segment_id": "12b", "text": "and obtain what they promise,", "phonetic": "and obtain what they promise," }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        { "passage_segment_id": "13a", "text": "through the same Christ our Lord.", "phonetic": "through the same Christ our Lord." }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        { "passage_segment_id": "14a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

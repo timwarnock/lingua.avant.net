@@ -5,10 +5,10 @@ This directory contains the script for generating audio MP3 files from JSON inpu
 ## Setup
 
 ```bash
-pip install edge-tts
+uv pip install edge-tts
 ```
 
-(You may use a virtual environment.)
+(You may use a virtual environment. `uv` makes this straightforward.)
 
 List all available voices:
 
@@ -16,12 +16,20 @@ List all available voices:
 edge-tts --list-voices
 ```
 
+Or with uv: `uvx edge-tts --list-voices`
+
 ## Usage
 
 The generator is driven entirely by a JSON file.
 
 ```bash
 python audio-utils/generate-rosary-audio.py path/to/prayer.json
+```
+
+With uv (no separate install step required):
+
+```bash
+uv run --with edge-tts python audio-utils/generate-rosary-audio.py path/to/prayer.json
 ```
 
 ### Required JSON structure

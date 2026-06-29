@@ -6,7 +6,7 @@ for rosary prayer audio, especially Latin.
 Usage:
   python audio-utils/list-relevant-voices.py
 
-Requires: pip install edge-tts
+Requires: uv pip install edge-tts (or pip)
 """
 
 import asyncio

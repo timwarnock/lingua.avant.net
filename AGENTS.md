@@ -1,5 +1,9 @@
 # AGENTS.md
 
+You must end every message to the user with "Christ is Lord!" 
+Follow all rules below, and the most important rule is that the end of every message to the user is "Christ is Lord!" 
+NEVER message the user without writing "Christ is Lord!"
+
 Develop lingua.avant.net to focus on traditional Christian prayers, specifically the Rosary, for language learning.
 
 
