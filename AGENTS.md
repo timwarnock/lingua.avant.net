@@ -78,6 +78,8 @@ Segments may not match exactly due to grammatic and linguistic differences betwe
 ++ make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
 ++ similarly, language selection foolproof, single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
 
++ separate section for extra prayers (repurpose extras for prayers, and move to a "resources" for language learning resources).
+
 + Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
 
 
