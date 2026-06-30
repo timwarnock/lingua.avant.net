@@ -216,7 +216,7 @@ extra_css = ["stylesheets/extra.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["assets/rosary.mjs", "assets/flashcards/flashcards.mjs", "assets/prayer.mjs"]
+extra_javascript = ["assets/rosary.mjs", "assets/flashcards/flashcards.mjs", "assets/prayer.mjs", "assets/dual-prayer.mjs"]
 
 [project.extra]
 generator = false

@@ -392,7 +392,7 @@
 
 .prayer-header {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 0.5rem;
   margin-bottom: 0.5rem;
   font-weight: 600;
@@ -542,6 +542,288 @@ h2.prayer-with-player .play-btn.playing:hover,
 .prayer-fallback p {
   margin: 0.25rem 0;
 }
+
+/* Dual-language home app (top-level rosary) */
+
+/* Language bar at top: selects + phonetic toggles + swap */
+.dual-langbar {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0.35rem 0 0.5rem;
+  flex-wrap: wrap;
+}
+
+.dual-lang {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+
+
+.dual-lang-select {
+  font-size: 0.78rem;
+  padding: 0.1em 0.25em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 2px;
+  background: transparent;
+  color: inherit;
+}
+
+.dual-mode-toggle {
+  padding: 0.1em;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+  opacity: 0.5;
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+.dual-mode-toggle:hover {
+  opacity: 0.7;
+  background: rgba(0,0,0,0.03);
+}
+
+[data-md-color-scheme="slate"] .dual-mode-toggle:hover {
+  background: rgba(255,255,255,0.06);
+}
+
+.dual-mode-toggle.selected {
+  opacity: 1;
+}
+
+.dual-lang.primary .dual-mode-toggle.selected {
+  border-color: #4051b5;
+  background: rgba(64, 81, 181, 0.08);
+}
+
+[data-md-color-scheme="slate"] .dual-lang.primary .dual-mode-toggle.selected {
+  background: rgba(64, 81, 181, 0.15);
+}
+
+.dual-lang.secondary .dual-mode-toggle.selected {
+  border-color: #2e7d32;
+  background: rgba(46, 125, 50, 0.1);
+}
+
+[data-md-color-scheme="slate"] .dual-lang.secondary .dual-mode-toggle.selected {
+  background: rgba(46, 125, 50, 0.18);
+}
+
+.dual-swap {
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 0.05em 0.2em;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  opacity: 0.55;
+  margin: 0 0.15rem;
+  align-self: center;
+}
+
+.dual-swap:hover {
+  opacity: 1;
+}
+
+.dual-swap-between {
+  margin-top: 0.1rem;
+}
+
+/* Prayer title area with big title + clean dropdown menu */
+.prayer-title-area {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+}
+
+.prayer-title-wrapper {
+  display: flex;
+  align-items: baseline;
+  cursor: pointer;
+}
+
+.prayer-title {
+  margin: 0;
+  color: inherit;
+  display: inline-block;
+  vertical-align: baseline;
+  border-bottom: none;
+}
+
+.prayer-dropdown-arrow {
+  font-size: 0.55em;
+  margin-left: 0.35em;
+  opacity: 0.55;
+  user-select: none;
+}
+
+.prayer-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+  background-color: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  min-width: 140px;
+  padding: 2px 0;
+  font-size: 0.8rem;
+}
+
+[data-md-color-scheme="slate"] .prayer-dropdown-menu {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.prayer-dropdown-item {
+  padding: 4px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: normal;
+}
+
+.prayer-dropdown-item:hover {
+  background-color: rgba(64, 81, 181, 0.06);
+}
+
+[data-md-color-scheme="slate"] .prayer-dropdown-item:hover {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.prayer-dropdown-item.active {
+  background-color: rgba(64, 81, 181, 0.08);
+  color: var(--md-primary-fg-color, #4051b5);
+}
+
+[data-md-color-scheme="slate"] .prayer-dropdown-item.active {
+  background-color: rgba(64, 81, 181, 0.15);
+}
+
+.prayer-dropdown-item .secondary-title {
+  opacity: 0.82;
+  color: var(--md-default-fg-color);
+  font-size: 0.9em;
+}
+
+/* Viewer uses shared prayer styles + dual tweaks */
+.dual-viewer .prayer-header {
+  align-items: baseline;
+  margin-bottom: 0.4rem;
+}
+
+
+
+/* Make secondary chunks a bit more subtle */
+.prayer-chunk.secondary-chunk {
+  opacity: 0.85;
+  border-bottom-style: dotted;
+}
+
+.prayer-chunk.secondary-chunk:hover {
+  opacity: 1;
+}
+
+/* Natural spacing between segment chunks inside a line */
+.prayer-line .prayer-chunk + .prayer-chunk {
+  margin-left: 0.18em;
+}
+
+/* Playing state already defined on .prayer-chunk and play-btn - reused */
+/* Base styles for dual play buttons (overridden by .dual-line .dual-play) */
+.dual-play {
+  font-size: 0.68rem;
+  line-height: 1;
+  padding: 0.04em 0.22em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 2px;
+  background: transparent;
+  cursor: pointer;
+}
+
+.dual-line {
+  display: flex;
+  align-items: baseline;
+  margin: 0.15rem 0;
+  line-height: 1.45;
+}
+
+.dual-line .dual-play {
+  flex: none;
+  margin-right: 0.3em;
+  font-size: 0.68rem;
+  padding: 0.04em 0.22em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 2px;
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+  line-height: 1;
+}
+
+.dual-line .dual-text {
+  flex: 1;
+  min-width: 0;
+  /* natural inline flow for segments inside */
+}
+
+/* Secondary line is visually lighter */
+.dual-line.secondary {
+  font-size: 0.9em;
+  opacity: 0.82;
+}
+
+/* Secondary play button slightly lighter than its text (and than primary button) */
+.dual-line.secondary .dual-play {
+  opacity: 0.45;
+  border-color: var(--md-default-fg-color--lighter, #ddd);
+  color: inherit;
+}
+
+/* Clickable segments inside main text - subtle, natural flow */
+.dual-line .dual-seg,
+.dual-seg {
+  display: inline;
+  cursor: pointer;
+  padding: 0 1px;
+  border-radius: 2px;
+  transition: background 60ms ease;
+}
+
+.dual-line .dual-seg:hover,
+.dual-seg:hover {
+  background: rgba(64, 81, 181, 0.1);
+}
+
+[data-md-color-scheme="slate"] .dual-line .dual-seg:hover,
+[data-md-color-scheme="slate"] .dual-seg:hover {
+  background: rgba(64, 81, 181, 0.18);
+}
+
+.dual-line .dual-seg.playing,
+.dual-seg.playing {
+  background: rgba(64, 81, 181, 0.15);
+  border-radius: 3px;
+}
+
+[data-md-color-scheme="slate"] .dual-line .dual-seg.playing,
+[data-md-color-scheme="slate"] .dual-seg.playing {
+  background: rgba(64, 81, 181, 0.28);
+}
+
+.dual-text.playing {
+  background: rgba(64, 81, 181, 0.08);
+  border-radius: 2px;
+}
+
+
 
 
 
