@@ -713,6 +713,13 @@ h2.prayer-with-player .play-btn.playing:hover,
   font-size: 0.9em;
 }
 
+.prayer-dropdown-separator {
+  height: 1px;
+  background-color: var(--md-default-fg-color--lighter);
+  margin: 4px 8px;
+  opacity: 0.6;
+}
+
 /* Viewer uses shared prayer styles + dual tweaks */
 .dual-viewer .prayer-header {
   align-items: baseline;

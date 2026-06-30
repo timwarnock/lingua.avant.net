@@ -14,7 +14,9 @@ const PRAYERS = [
   { id: 'hail-mary', label: 'Hail Mary' },
   { id: 'glory-be', label: 'Glory Be' },
   { id: 'fatima-prayer', label: 'Fatima Prayer' },
-  { id: 'hail-holy-queen', label: 'Hail Holy Queen' }
+  { id: 'hail-holy-queen', label: 'Hail Holy Queen' },
+  { separator: true },
+  { id: 'jesus-prayer', label: 'Jesus Prayer', subdir: 'extras' }
 ];
 
 const LANGS = [
@@ -110,8 +112,10 @@ function createApp(container) {
     if (titlesCache[lang]) return titlesCache[lang];
     titlesCache[lang] = {};
     await Promise.all(PRAYERS.map(async p => {
+      if (p.separator || !p.id) return;
       try {
-        const url = `${lang}/${p.id}/${p.id}.json`;
+        const dir = p.subdir ? `${p.subdir}/${p.id}` : p.id;
+        const url = `${lang}/${dir}/${p.id}.json`;
         const r = await fetch(url);
         if (r.ok) {
           const data = await r.json();
@@ -219,8 +223,11 @@ function createApp(container) {
     container.appendChild(viewer);
 
     const pid = state.prayerId;
-    const url1 = `${state.primaryLang}/${pid}/${pid}.json`;
-    const url2 = `${state.secondaryLang}/${pid}/${pid}.json`;
+    const pdef = PRAYERS.find(pp => pp.id === pid) || {};
+    const dir1 = pdef.subdir ? `${pdef.subdir}/${pid}` : pid;
+    const url1 = `${state.primaryLang}/${dir1}/${pid}.json`;
+    const dir2 = pdef.subdir ? `${pdef.subdir}/${pid}` : pid;
+    const url2 = `${state.secondaryLang}/${dir2}/${pid}.json`;
 
     Promise.all([
       loadTitles(state.primaryLang),
@@ -329,6 +336,12 @@ function createApp(container) {
     menu.style.display = 'none';
 
     PRAYERS.forEach(p => {
+      if (p.separator) {
+        const sepEl = document.createElement('div');
+        sepEl.className = 'prayer-dropdown-separator';
+        menu.appendChild(sepEl);
+        return;
+      }
       const item = document.createElement('div');
       item.className = 'prayer-dropdown-item' + (p.id === state.prayerId ? ' active' : '');
       const l1 = titlesPrimary[p.id] || (p.id === prayerId && d1 ? d1.title : p.label);
