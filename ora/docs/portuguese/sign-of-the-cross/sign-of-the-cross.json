@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "portuguese",
+  "title": "Sinal da Cruz",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Em nome do Pai,", "phonetic": "Em nome do Pai," },
+        { "passage_segment_id": "1b", "text": "e do Filho,", "phonetic": "e do Filho," },
+        { "passage_segment_id": "1c", "text": "e do Espírito Santo,", "phonetic": "e do Espírito Santo," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Amém.", "phonetic": "Amém." }
+      ]
+    }
+  ]
+}

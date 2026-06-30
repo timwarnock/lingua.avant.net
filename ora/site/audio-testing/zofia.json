@@ -1,0 +1,20 @@
+{
+  "id": "zofia",
+  "lang": "test",
+  "title": "pl-PL-ZofiaNeural -5%",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Zdrowaś Maryjo,", "phonetic": "Zdrowaś Maryjo," },
+        { "passage_segment_id": "1b", "text": "łaski pełna,", "phonetic": "łaski pełna," },
+        { "passage_segment_id": "1c", "text": "Pan z Tobą.", "phonetic": "Pan z Tobą." }
+      ]
+    }
+  ]
+}

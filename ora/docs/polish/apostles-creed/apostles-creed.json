@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "polish",
+  "title": "Wierzę w Boga",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Wierzę w Boga,", "phonetic": "Wierzę w Boga," },
+        { "passage_segment_id": "1b", "text": "Ojca wszechmogącego,", "phonetic": "Ojca wszechmogącego," },
+        { "passage_segment_id": "1c", "text": "Stworzyciela nieba i ziemi,", "phonetic": "Stworzyciela nieba i ziemi," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "i w Jezusa Chrystusa,", "phonetic": "i w Jezusa Chrystusa," },
+        { "passage_segment_id": "2b", "text": "Syna Jego jedynego,", "phonetic": "Syna Jego jedynego," },
+        { "passage_segment_id": "2c", "text": "Pana naszego,", "phonetic": "Pana naszego," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "który się począł z Ducha Świętego,", "phonetic": "który się począł z Ducha Świętego," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "narodził się z Maryi Panny,", "phonetic": "narodził się z Maryi Panny," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "umęczon pod Ponckim Piłatem,", "phonetic": "umęczon pod Ponckim Piłatem," },
+        { "passage_segment_id": "5b", "text": "ukrzyżowan,", "phonetic": "ukrzyżowan," },
+        { "passage_segment_id": "5c", "text": "umarł i pogrzebion;", "phonetic": "umarł i pogrzebion;" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Zstąpił do piekieł;", "phonetic": "Zstąpił do piekieł;" }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "trzeciego dnia zmartwychwstał;", "phonetic": "trzeciego dnia zmartwychwstał;" }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Wstąpił na niebiosa,", "phonetic": "Wstąpił na niebiosa," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "siedzi po prawicy Boga Ojca wszechmogącego;", "phonetic": "siedzi po prawicy Boga Ojca wszechmogącego;" }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "stamtąd przyjdzie sądzić żywych i umarłych.", "phonetic": "stamtąd przyjdzie sądzić żywych i umarłych." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Wierzę w Ducha Świętego,", "phonetic": "Wierzę w Ducha Świętego," },
+        { "passage_segment_id": "11b", "text": "święty Kościół powszechny,", "phonetic": "święty Kościół powszechny," },
+        { "passage_segment_id": "11c", "text": "świętych obcowanie,", "phonetic": "świętych obcowanie," },
+        { "passage_segment_id": "11d", "text": "grzechów odpuszczenie,", "phonetic": "grzechów odpuszczenie," },
+        { "passage_segment_id": "11e", "text": "ciała zmartwychwstanie,", "phonetic": "ciała zmartwychwstanie," },
+        { "passage_segment_id": "11f", "text": "żywot wieczny,", "phonetic": "żywot wieczny," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

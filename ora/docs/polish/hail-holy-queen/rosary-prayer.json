@@ -1,0 +1,69 @@
+{
+  "id": "rosary-prayer",
+  "lang": "polish",
+  "title": "Modlitwa Różańcowa",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Módlmy się.", "phonetic": "Módlmy się." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Boże,", "phonetic": "Boże," },
+        { "passage_segment_id": "2b", "text": "którego Jednorodzony Syn przez życie,", "phonetic": "którego Jednorodzony Syn przez życie," },
+        { "passage_segment_id": "2c", "text": "śmierć i zmartwychwstanie,", "phonetic": "śmierć i zmartwychwstanie," },
+        { "passage_segment_id": "2d", "text": "wysłużył nam nagrodę życia wiecznego,", "phonetic": "wysłużył nam nagrodę życia wiecznego," },
+        { "passage_segment_id": "2e", "text": "daj nam, prosimy Cię,", "phonetic": "daj nam, prosimy Cię," },
+        { "passage_segment_id": "2f", "text": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny,", "phonetic": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "daj nam, prosimy Cię,", "phonetic": "daj nam, prosimy Cię," },
+        { "passage_segment_id": "3b", "text": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny,", "phonetic": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny," },
+        { "passage_segment_id": "3c", "text": "naśladowali to, co one zawierają,", "phonetic": "naśladowali to, co one zawierają," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "i otrzymali to, co obiecują,", "phonetic": "i otrzymali to, co obiecują," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Przez Chrystusa Pana naszego,", "phonetic": "Przez Chrystusa Pana naszego," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Najświętsze Serce Jezusa,", "phonetic": "Najświętsze Serce Jezusa," },
+        { "passage_segment_id": "7b", "text": "zmiłuj się nad nami.", "phonetic": "zmiłuj się nad nami." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Niepokalane Serce Maryi,", "phonetic": "Niepokalane Serce Maryi," },
+        { "passage_segment_id": "8b", "text": "módl się za nami.", "phonetic": "módl się za nami." }
+      ]
+    }
+  ]
+}

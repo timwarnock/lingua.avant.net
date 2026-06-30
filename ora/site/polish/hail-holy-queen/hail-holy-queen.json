@@ -1,0 +1,71 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "polish",
+  "title": "Zdrowaś, Królowo",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Zdrowaś, Królowo,", "phonetic": "Zdrowaś, Królowo," },
+        { "passage_segment_id": "1b", "text": "Matko miłosierdzia,", "phonetic": "Matko miłosierdzia," },
+        { "passage_segment_id": "1c", "text": "życie,", "phonetic": "życie," },
+        { "passage_segment_id": "1d", "text": "słodyczy i nadziejo nasza,", "phonetic": "słodyczy i nadziejo nasza," },
+        { "passage_segment_id": "1e", "text": "witaj!", "phonetic": "witaj!" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Do Ciebie wołamy wygnańcy, dzieci Ewy.", "phonetic": "Do Ciebie wołamy wygnańcy, dzieci Ewy." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Do Ciebie wzdychamy,", "phonetic": "Do Ciebie wzdychamy," },
+        { "passage_segment_id": "3b", "text": "jęcząc i płacząc na tym łez padole.", "phonetic": "jęcząc i płacząc na tym łez padole." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Przeto, Orędowniczko nasza,", "phonetic": "Przeto, Orędowniczko nasza," },
+        { "passage_segment_id": "4b", "text": "one miłosierne oczy Twoje na nas zwróć.", "phonetic": "one miłosierne oczy Twoje na nas zwróć." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "A Jezusa,", "phonetic": "A Jezusa," },
+        { "passage_segment_id": "5b", "text": "błogosławiony owoc żywota Twego,", "phonetic": "błogosławiony owoc żywota Twego," },
+        { "passage_segment_id": "5c", "text": "po tym wygnaniu nam okaż.", "phonetic": "po tym wygnaniu nam okaż." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "O łaskawa,", "phonetic": "O łaskawa," },
+        { "passage_segment_id": "6b", "text": "o litościwa,", "phonetic": "o litościwa," },
+        { "passage_segment_id": "6c", "text": "o słodka Panno Maryjo.", "phonetic": "o słodka Panno Maryjo." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Módl się za nami,", "phonetic": "Módl się za nami," },
+        { "passage_segment_id": "7b", "text": "Święta Boża Rodzicielko.", "phonetic": "Święta Boża Rodzicielko." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Abyśmy się stali godnymi obietnic Chrystusowych.", "phonetic": "Abyśmy się stali godnymi obietnic Chrystusowych." }
+      ]
+    }
+  ]
+}

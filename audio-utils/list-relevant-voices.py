@@ -14,10 +14,16 @@ import edge_tts
 
 async def main():
     voices = await edge_tts.list_voices()
-    print("=== Current recommended voices for rosary audio (2026-06-28) ===\n")
+    print("=== Current recommended voices for rosary audio (2026-06-30) ===\n")
+
+    # Polish
+    print("Polish:")
+    pl = [v for v in voices if v["Locale"] == "pl-PL"]
+    for v in sorted(pl, key=lambda x: x["ShortName"]):
+        print(f"  {v['ShortName']} ({v['Gender']})")
 
     # Latin / Italian
-    print("Latin (using Italian voices as ecclesiastical proxy):")
+    print("\nLatin (using Italian voices as ecclesiastical proxy):")
     italian = [v for v in voices if v["Locale"].startswith("it-")]
     for v in sorted(italian, key=lambda x: x["ShortName"]):
         print(f"  {v['ShortName']} ({v['Gender']})")

@@ -1,0 +1,20 @@
+{
+  "id": "raquel",
+  "lang": "test",
+  "title": "pt-PT-RaquelNeural -5%",
+  "tts": {
+    "voice": "pt-PT-RaquelNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
+        { "passage_segment_id": "1b", "text": "cheia de graça,", "phonetic": "cheia de graça," },
+        { "passage_segment_id": "1c", "text": "o Senhor é convosco.", "phonetic": "o Senhor é convosco." }
+      ]
+    }
+  ]
+}

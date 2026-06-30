@@ -114,7 +114,7 @@ Greek uses Koine Greek (the ancient form from the New Testament and early Church
 - Example for Hail Mary opening:
   - text: "Χαῖρε, Μαρία, κεχαριτωμένη,"
   - phonetic: "Ché-re, Ma-rí-a, ke-cha-ri-to-mé-ni,"
-- Follow the same segment alignment and passage structure as English (1:1 passages; best-effort equal segment counts).
+- Follow the same passage structure as English (1:1 passages with identical meaning per passage_id; English defines the breakdown). Segments follow the alignment rule in Core Concepts.
 - Source the Koine text from official Catholic Greek sources (e.g. traditional Byzantine/Greek Catholic liturgical forms of the prayers).
 - When generating audio, use an appropriate el-GR voice with input="text". Tune only the "phonetic" display values for learner clarity; do not alter "text".
 
@@ -231,7 +231,7 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 
 ### New prayer in an existing language
 1. Create the Markdown page following the structure above (title + interactive div + fallback div).
-2. Create the companion folder and `prayer-slug.json`. Use the exact passage_ids from the English version of that prayer (English is the source of truth). Use segment counts per the alignment rule in Core Concepts.
+2. Create the companion folder and `prayer-slug.json`. Use the exact passage_ids from the English version of that prayer (English is the source of truth for the passage breakdown and meaning). Follow the alignment rule in Core Concepts for segments.
    - Group segments under each passage_id.
    - Every segment has a unique "passage_segment_id", "text" (proper display form), and "phonetic" (pronunciation/TTS form; may differ from text for correct audio).
 3. Use the script in `audio-utils/generate-rosary-audio.py` to generate the MP3s (full + per passage + per passage_segment). The generator walks the structure directly. For any needed pronunciation adjustments in English, follow the "Actionable Steps for Phonetic Spellings with edge-tts" section.

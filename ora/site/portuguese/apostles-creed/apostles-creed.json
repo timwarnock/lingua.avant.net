@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "portuguese",
+  "title": "Credo dos Apóstolos",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Creio em Deus,", "phonetic": "Creio em Deus," },
+        { "passage_segment_id": "1b", "text": "Pai todo-poderoso,", "phonetic": "Pai todo-poderoso," },
+        { "passage_segment_id": "1c", "text": "criador do Céu e da Terra,", "phonetic": "criador do Céu e da Terra," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "E em Jesus Cristo,", "phonetic": "E em Jesus Cristo," },
+        { "passage_segment_id": "2b", "text": "seu único Filho,", "phonetic": "seu único Filho," },
+        { "passage_segment_id": "2c", "text": "nosso Senhor,", "phonetic": "nosso Senhor," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "que foi concebido pelo poder do Espírito Santo,", "phonetic": "que foi concebido pelo poder do Espírito Santo," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "nasceu da Virgem Maria,", "phonetic": "nasceu da Virgem Maria," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "padeceu sob Pôncio Pilatos,", "phonetic": "padeceu sob Pôncio Pilatos," },
+        { "passage_segment_id": "5b", "text": "foi crucificado,", "phonetic": "foi crucificado," },
+        { "passage_segment_id": "5c", "text": "morto e sepultado;", "phonetic": "morto e sepultado;" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "desceu aos infernos;", "phonetic": "desceu aos infernos;" }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "ressuscitou ao terceiro dia,", "phonetic": "ressuscitou ao terceiro dia," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "subiu aos Céus,", "phonetic": "subiu aos Céus," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "está sentado à direita de Deus Pai todo-poderoso;", "phonetic": "está sentado à direita de Deus Pai todo-poderoso;" }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "de onde virá julgar os vivos e os mortos.", "phonetic": "de onde virá julgar os vivos e os mortos." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Creio no Espírito Santo,", "phonetic": "Creio no Espírito Santo," },
+        { "passage_segment_id": "11b", "text": "na Santa Igreja Católica,", "phonetic": "na Santa Igreja Católica," },
+        { "passage_segment_id": "11c", "text": "na comunhão dos Santos,", "phonetic": "na comunhão dos Santos," },
+        { "passage_segment_id": "11d", "text": "na remissão dos pecados,", "phonetic": "na remissão dos pecados," },
+        { "passage_segment_id": "11e", "text": "na ressurreição da carne,", "phonetic": "na ressurreição da carne," },
+        { "passage_segment_id": "11f", "text": "na vida eterna,", "phonetic": "na vida eterna," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amém.", "phonetic": "Amém." }
+      ]
+    }
+  ]
+}

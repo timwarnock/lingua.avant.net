@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "portuguese",
+  "title": "Pai Nosso",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Pai nosso,", "phonetic": "Pai nosso," },
+        { "passage_segment_id": "1b", "text": "que estais nos céus,", "phonetic": "que estais nos céus," },
+        { "passage_segment_id": "1c", "text": "santificado seja o vosso nome;", "phonetic": "santificado seja o vosso nome;" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "venha a nós o vosso reino.", "phonetic": "venha a nós o vosso reino." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "seja feita a vossa vontade, assim na terra como no céu.", "phonetic": "seja feita a vossa vontade, assim na terra como no céu." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "O pão nosso de cada dia nos dai hoje,", "phonetic": "O pão nosso de cada dia nos dai hoje," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "perdoai-nos as nossas ofensas,", "phonetic": "perdoai-nos as nossas ofensas," },
+        { "passage_segment_id": "5b", "text": "assim como nós perdoamos a quem nos tem ofendido;", "phonetic": "assim como nós perdoamos a quem nos tem ofendido;" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "e não nos deixeis cair em tentação,", "phonetic": "e não nos deixeis cair em tentação," },
+        { "passage_segment_id": "6b", "text": "mas livrai-nos do mal,", "phonetic": "mas livrai-nos do mal," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amém.", "phonetic": "Amém." }
+      ]
+    }
+  ]
+}

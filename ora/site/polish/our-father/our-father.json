@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "polish",
+  "title": "Ojcze nasz",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Ojcze nasz,", "phonetic": "Ojcze nasz," },
+        { "passage_segment_id": "1b", "text": "któryś jest w niebie,", "phonetic": "któryś jest w niebie," },
+        { "passage_segment_id": "1c", "text": "święć się imię Twoje.", "phonetic": "święć się imię Twoje." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Przyjdź królestwo Twoje.", "phonetic": "Przyjdź królestwo Twoje." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Bądź wola Twoja jako w niebie, tak i na ziemi.", "phonetic": "Bądź wola Twoja jako w niebie, tak i na ziemi." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Chleba naszego powszedniego daj nam dzisiaj,", "phonetic": "Chleba naszego powszedniego daj nam dzisiaj," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "i odpuść nam nasze winy,", "phonetic": "i odpuść nam nasze winy," },
+        { "passage_segment_id": "5b", "text": "jako i my odpuszczamy naszym winowajcom.", "phonetic": "jako i my odpuszczamy naszym winowajcom." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "I nie wódź nas na pokuszenie,", "phonetic": "I nie wódź nas na pokuszenie," },
+        { "passage_segment_id": "6b", "text": "ale nas zbaw od złego,", "phonetic": "ale nas zbaw od złego," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "portuguese",
+  "title": "Salve Rainha",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Salve, Rainha,", "phonetic": "Salve, Rainha," },
+        { "passage_segment_id": "1b", "text": "Mãe de misericórdia,", "phonetic": "Mãe de misericórdia," },
+        { "passage_segment_id": "1c", "text": "vida, doçura e esperança nossa,", "phonetic": "vida, doçura e esperança nossa," },
+        { "passage_segment_id": "1d", "text": "salve.", "phonetic": "salve." },
+        { "passage_segment_id": "1e", "text": "A vós bradamos os degredados filhos de Eva;", "phonetic": "A vós bradamos os degredados filhos de Eva;" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "a vós suspiramos,", "phonetic": "a vós suspiramos," },
+        { "passage_segment_id": "2b", "text": "gemendo e chorando neste vale de lágrimas.", "phonetic": "gemendo e chorando neste vale de lágrimas." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Eia, pois, advogada nossa,", "phonetic": "Eia, pois, advogada nossa," },
+        { "passage_segment_id": "3b", "text": "esses vossos olhos misericordiosos a nós volvei.", "phonetic": "esses vossos olhos misericordiosos a nós volvei." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Eia, pois, advogada nossa,", "phonetic": "Eia, pois, advogada nossa," },
+        { "passage_segment_id": "4b", "text": "esses vossos olhos misericordiosos a nós volvei.", "phonetic": "esses vossos olhos misericordiosos a nós volvei." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "E, depois deste desterro,", "phonetic": "E, depois deste desterro," },
+        { "passage_segment_id": "5b", "text": "nos mostrai Jesus,", "phonetic": "nos mostrai Jesus," },
+        { "passage_segment_id": "5c", "text": "bendito fruto do vosso ventre.", "phonetic": "bendito fruto do vosso ventre." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Ó clemente,", "phonetic": "Ó clemente," },
+        { "passage_segment_id": "6b", "text": "ó piedosa,", "phonetic": "ó piedosa," },
+        { "passage_segment_id": "6c", "text": "ó doce Virgem Maria.", "phonetic": "ó doce Virgem Maria." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Rogai por nós,", "phonetic": "Rogai por nós," },
+        { "passage_segment_id": "7b", "text": "Santa Mãe de Deus.", "phonetic": "Santa Mãe de Deus." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Para que sejamos dignos das promessas de Cristo.", "phonetic": "Para que sejamos dignos das promessas de Cristo." }
+      ]
+    }
+  ]
+}

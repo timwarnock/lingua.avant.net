@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "polish",
+  "title": "Zdrowaś Maryjo",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Zdrowaś Maryjo,", "phonetic": "Zdrowaś Maryjo," },
+        { "passage_segment_id": "1b", "text": "łaski pełna,", "phonetic": "łaski pełna," },
+        { "passage_segment_id": "1c", "text": "Pan z Tobą.", "phonetic": "Pan z Tobą." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Błogosławionaś Ty między niewiastami,", "phonetic": "Błogosławionaś Ty między niewiastami," },
+        { "passage_segment_id": "2b", "text": "i błogosławiony owoc żywota Twego,", "phonetic": "i błogosławiony owoc żywota Twego," },
+        { "passage_segment_id": "2c", "text": "Jezus.", "phonetic": "Jezus." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Święta Maryjo,", "phonetic": "Święta Maryjo," },
+        { "passage_segment_id": "3b", "text": "Matko Boża,", "phonetic": "Matko Boża," },
+        { "passage_segment_id": "3c", "text": "módl się za nami grzesznymi,", "phonetic": "módl się za nami grzesznymi," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "teraz i w godzinę śmierci naszej,", "phonetic": "teraz i w godzinę śmierci naszej," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

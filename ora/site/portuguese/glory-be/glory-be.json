@@ -1,0 +1,34 @@
+{
+  "id": "glory-be",
+  "lang": "portuguese",
+  "title": "Glória ao Pai",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Glória ao Pai,", "phonetic": "Glória ao Pai," },
+        { "passage_segment_id": "1b", "text": "ao Filho,", "phonetic": "ao Filho," },
+        { "passage_segment_id": "1c", "text": "e ao Espírito Santo.", "phonetic": "e ao Espírito Santo." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Como era no princípio,", "phonetic": "Como era no princípio," },
+        { "passage_segment_id": "2b", "text": "agora e sempre,", "phonetic": "agora e sempre," },
+        { "passage_segment_id": "2c", "text": "pelos séculos dos séculos,", "phonetic": "pelos séculos dos séculos," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amém.", "phonetic": "Amém." }
+      ]
+    }
+  ]
+}

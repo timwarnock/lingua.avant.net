@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "polish",
+  "title": "Znak Krzyża",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "W imię Ojca,", "phonetic": "W imię Ojca," },
+        { "passage_segment_id": "1b", "text": "i Syna,", "phonetic": "i Syna," },
+        { "passage_segment_id": "1c", "text": "i Ducha Świętego,", "phonetic": "i Ducha Świętego," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

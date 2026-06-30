@@ -2,44 +2,52 @@
 
 This is for TTS testing. These are not real prayers. Each voice has sample passages and segments where we can qualitatively evaluate the sound.
 
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="athina.json"></div>
+All 2 Polish and 5 Portuguese voices (Hail Mary passage 1 only).
 
 ---
 
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="athina0.json"></div>
-
----
+Polish
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="athina10.json"></div>
+     data-json="marek.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="nestoras.json"></div>
+     data-json="zofia.json"></div>
+
+---
+
+Portuguese (pt-PT)
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="duarte.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="nestoras0.json"></div>
+     data-json="raquel.json"></div>
+
+---
+
+Portuguese (pt-BR)
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="antonio.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="nestoras5.json"></div>
+     data-json="francisca.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="nestoras10.json"></div>
+     data-json="thalita.json"></div>

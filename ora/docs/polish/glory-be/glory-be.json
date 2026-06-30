@@ -1,0 +1,33 @@
+{
+  "id": "glory-be",
+  "lang": "polish",
+  "title": "Chwała Ojcu",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Chwała Ojcu i Synowi,", "phonetic": "Chwała Ojcu i Synowi," },
+        { "passage_segment_id": "1b", "text": "i Duchowi Świętemu.", "phonetic": "i Duchowi Świętemu." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Jak była na początku,", "phonetic": "Jak była na początku," },
+        { "passage_segment_id": "2b", "text": "teraz i zawsze,", "phonetic": "teraz i zawsze," },
+        { "passage_segment_id": "2c", "text": "i na wieki wieków,", "phonetic": "i na wieki wieków," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

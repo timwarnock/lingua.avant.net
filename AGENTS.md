@@ -56,7 +56,7 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 
 ## Passages and Segments for audio alignment
 
-Every prayer will be broken down into passages that must match 1:1 across all languages, such that tooling can be built which will index any given passage across any given language.
+Every prayer will be broken down into passages that must match 1:1 across all languages (same literal meaning across all languages), such that tooling can be built which will index any given passage across any given language.
 
 For example, hail-mary passage 1 is "Hail Mary, full of grace, the Lord is with thee."
 and thus in Latin passage 1 is "Ave Maria, gratia plena, Dominus tecum."
@@ -64,7 +64,7 @@ and this in Vietnamese passage 1 is "Kính mừng Maria, đầy ơn phúc, Đứ
 
 Each passage is broken into segments identified with letters after the passage number (e.g., 1a, 1b, etc); these are the shortest grammatical unit for that language, hail-mary passage 1 has three segment, 1a:"Ave Maria,"  1b:"gratia plena," 1c:"Dominus tecum."
 
-All languages MUST align on passages literally and exactly! The exact meaning for a given passage should match across all languages!
+All languages MUST align on passages literally and exactly! The exact meaning for a given passage MUST match across all languages!
 
 Segments may not match exactly due to grammatic and linguistic differences between laguages, but a best effort should be made to match them (such as matching a similar count of segments).
 
