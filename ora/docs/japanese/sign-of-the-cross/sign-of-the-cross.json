@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "japanese",
+  "title": "十字架のしるし",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "父と", "phonetic": "Chichi to" },
+        { "passage_segment_id": "1b", "text": "子と", "phonetic": "Ko to" },
+        { "passage_segment_id": "1c", "text": "聖霊の御名によって,", "phonetic": "Seirei no mina ni yotte," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

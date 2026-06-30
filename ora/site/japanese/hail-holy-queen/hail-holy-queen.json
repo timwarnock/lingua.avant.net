@@ -1,0 +1,75 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "japanese",
+  "title": "サルベ・レジーナ",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "あわれみの母なる元后、", "phonetic": "Awaremi no haha naru genkō," },
+        { "passage_segment_id": "1b", "text": "生命、喜び、", "phonetic": "seimei, yorokobi," },
+        { "passage_segment_id": "1c", "text": "希望なるマリアよ、", "phonetic": "kibō naru Maria yo," },
+        { "passage_segment_id": "1d", "text": "さようなら。", "phonetic": "sayōnara." },
+        { "passage_segment_id": "1e", "text": "エヴァの子らなるわれら捕らわれの者は汝に呼ばわり、", "phonetic": "Eva no kora naru warera toraware no mono wa nanji ni yobawari," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "ためいき悲しみ泣きつつこの涙の谷にあり。", "phonetic": "tameiki kanashimi naki tsutsu kono namida no tani ni ari." },
+        { "passage_segment_id": "2b", "text": "さればわれらの弁護者なる聖マリアよ、", "phonetic": "sareba warera no bengosha naru sei Maria yo," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "汝のいつくしみのまなざしをわれらに向けたまえ。", "phonetic": "nanji no itsukushimi no manazashi o warera ni muketamae." },
+        { "passage_segment_id": "3b", "text": "この捕らわれののち、", "phonetic": "kono toraware no nochi," },
+        { "passage_segment_id": "3c", "text": "イエスを示したまえ。", "phonetic": "Iesu o shimeshita mae." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "幸いなる御胎の実。", "phonetic": "saiwai naru ontai no mi." },
+        { "passage_segment_id": "4b", "text": "憐れみ深き聖母マリアよ、", "phonetic": "awaremi fukaki seibo Maria yo," },
+        { "passage_segment_id": "4c", "text": "おお優しく、", "phonetic": "ō yasashiku," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "おお慈しみ深く、", "phonetic": "ō itsukushimi fukaku," },
+        { "passage_segment_id": "5b", "text": "おお甘美なる聖母マリアよ。", "phonetic": "ō kanbi naru seibo Maria yo." },
+        { "passage_segment_id": "5c", "text": "聖マリア、神の母、", "phonetic": "Sei Maria, Kami no haha," },
+        { "passage_segment_id": "5d", "text": "わたしたちのために祈ってください。", "phonetic": "watashitachi no tame ni inotte kudasai." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "キリストの約束にあずかれるように。", "phonetic": "Kirisuto no yakusoku ni azukareru yō ni." },
+        { "passage_segment_id": "6b", "text": "祈りましょう。", "phonetic": "Inorimashō." },
+        { "passage_segment_id": "6c", "text": "神よ、あなたの独り子は、", "phonetic": "Kami yo, anata no hitoriko wa," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "その生涯、死、復活によって、", "phonetic": "sono shōgai, shi, fukkatsu ni yotte," },
+        { "passage_segment_id": "7b", "text": "わたしたちに永遠の命の報いを得させてくださいました。", "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "どうか、至聖なるマリアのロザリオの神秘を黙想するわたしたちが、その中に含まれることをまね、約束されたものを得ることができますように。主イエス・キリストによって、アーメン。", "phonetic": "Dōka, shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga, sono naka ni fukumareru koto o mane, yakusoku sareta mono o eru koto ga dekimasu yō ni. Shu Iesu Kirisuto ni yotte, Āmen." }
+      ]
+    }
+  ]
+}

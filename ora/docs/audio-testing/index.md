@@ -54,3 +54,33 @@ This is for TTS testing. These are not real prayers. Each voice has sample passa
 <div class="prayer-interactive"
      data-prayer="hail-mary"
      data-json="namminh0.json"></div>
+
+---
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="nanami.json"></div>
+
+---
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="nanami0.json"></div>
+
+---
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="nanami10.json"></div>
+
+---
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="keita.json"></div>
+
+---
+
+<div class="prayer-interactive"
+     data-prayer="hail-mary"
+     data-json="keita0.json"></div>

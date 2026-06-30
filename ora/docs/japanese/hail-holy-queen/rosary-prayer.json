@@ -1,0 +1,70 @@
+{
+  "id": "rosary-prayer",
+  "lang": "japanese",
+  "title": "ロザリオの祈り",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "祈りましょう。", "phonetic": "Inorimashō." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "神よ、", "phonetic": "Kami yo," },
+        { "passage_segment_id": "2b", "text": "あなたの独り子は、", "phonetic": "anata no hitoriko wa," },
+        { "passage_segment_id": "2c", "text": "その生涯、死、", "phonetic": "sono shōgai, shi," },
+        { "passage_segment_id": "2d", "text": "復活によって、", "phonetic": "fukkatsu ni yotte," },
+        { "passage_segment_id": "2e", "text": "わたしたちに永遠の命の報いを得させてくださいました。", "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita." },
+        { "passage_segment_id": "2f", "text": "どうか、", "phonetic": "dōka," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "至聖なるマリアのロザリオの神秘を黙想するわたしたちが、", "phonetic": "shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga," },
+        { "passage_segment_id": "3b", "text": "その中に含まれることをまね、", "phonetic": "sono naka ni fukumareru koto o mane," },
+        { "passage_segment_id": "3c", "text": "約束されたものを得ることができますように。", "phonetic": "yakusoku sareta mono o eru koto ga dekimasu yō ni." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "主イエス・キリストによって,", "phonetic": "Shu Iesu Kirisuto ni yotte," },
+        { "passage_segment_id": "4b", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "主イエス・キリストによって,", "phonetic": "Shu Iesu Kirisuto ni yotte," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "イエスのみ心よ、", "phonetic": "Iesu no mikokoro yo," },
+        { "passage_segment_id": "7b", "text": "わたしたちを憐れんでください。", "phonetic": "watashitachi o awarende kudasai." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "マリアのみ心よ、", "phonetic": "Maria no mikokoro yo," },
+        { "passage_segment_id": "8b", "text": "わたしたちのために祈ってください。", "phonetic": "watashitachi no tame ni inotte kudasai." }
+      ]
+    }
+  ]
+}

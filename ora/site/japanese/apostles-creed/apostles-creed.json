@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "japanese",
+  "title": "使徒信条",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "天地の創造主、", "phonetic": "Tenchi no sōzōshu," },
+        { "passage_segment_id": "1b", "text": "全能の父である神を", "phonetic": "zen'nō no chichi de aru Kami o" },
+        { "passage_segment_id": "1c", "text": "信じます。", "phonetic": "shinjimasu." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "父のひとり子、", "phonetic": "Chichi no hitoriko," },
+        { "passage_segment_id": "2b", "text": "わたしたちの主", "phonetic": "watashitachi no Shu" },
+        { "passage_segment_id": "2c", "text": "イエス・キリストを信じます。", "phonetic": "Iesu Kirisuto o shinjimasu." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "主は聖霊によってやどり、", "phonetic": "Shu wa Seirei ni yotte yadori," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "おとめマリアから生まれ、", "phonetic": "otome Maria kara umare," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "ポンティオ・ピラトのもとで苦しみを受け、", "phonetic": "Pontio Pirato no moto de kurushimi o uke," },
+        { "passage_segment_id": "5b", "text": "十字架につけられ、", "phonetic": "jūjika ni tsukerare," },
+        { "passage_segment_id": "5c", "text": "死んで葬られ、", "phonetic": "shinde hōmurare," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "陰府にくだり、", "phonetic": "infu ni kudari," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "三日目に死者のうちから復活し、", "phonetic": "mikka me ni shisha no uchi kara fukkatsu shi," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "天に昇って、", "phonetic": "ten ni nobotte," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "全能の父である神の右に座り、", "phonetic": "zen'nō no chichi de aru Kami no migi ni zawari," }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "そこから生者と死者を裁くために来られます。", "phonetic": "soko kara seisha to shisha o sabaku tame ni koraremasu." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "聖霊を信じます。", "phonetic": "Seirei o shinjimasu." },
+        { "passage_segment_id": "11b", "text": "聖なる普遍の教会、", "phonetic": "seinaru fuhen no kyōkai," },
+        { "passage_segment_id": "11c", "text": "聖徒の交わり、", "phonetic": "seito no majiwari," },
+        { "passage_segment_id": "11d", "text": "罪の赦し、", "phonetic": "tsumi no yurushi," },
+        { "passage_segment_id": "11e", "text": "肉体の復活、", "phonetic": "nikutai no fukkatsu," },
+        { "passage_segment_id": "11f", "text": "永遠のいのちを信じます,", "phonetic": "eien no inochi o shinjimasu," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

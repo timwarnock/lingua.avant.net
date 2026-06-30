@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "japanese",
+  "title": "ファティマの祈り",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "おお、私のイエスよ、", "phonetic": "Ō, watashi no Iesu yo," },
+        { "passage_segment_id": "1b", "text": "私たちの罪をお赦しください。", "phonetic": "watashitachi no tsumi o yurushite kudasai." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "私たちを地獄の火からお救いください。", "phonetic": "watashitachi o jigoku no hi kara o suikudasai." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "すべての魂を天国に導いてください。", "phonetic": "subete no tamashii o tengoku ni michibiite kudasai." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "特にあなたの憐れみを最も必要とする魂を,", "phonetic": "toku ni anata no awaremi o mottomo hitsuyō to suru tamashii o," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

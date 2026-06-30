@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "japanese",
+  "title": "主の祈り",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "天におられる", "phonetic": "Ten ni orareru" },
+        { "passage_segment_id": "1b", "text": "わたしたちの父よ、", "phonetic": "watashitachi no chichi yo," },
+        { "passage_segment_id": "1c", "text": "み名が聖とされますように。", "phonetic": "mina ga sei to saremasu yō ni." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "み国が来ますように。", "phonetic": "Mikuni ga kimasu yō ni." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "みこころが天に行われるとおり地にも行われますように。", "phonetic": "Mikokoro ga ten ni okonawareru tōri chi ni mo okonawaremasu yō ni." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "わたしたちの日ごとの糧を今日もお与えください。", "phonetic": "Watashitachi no higoto no kate o kyō mo oataekudasai." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "わたしたちの罪をおゆるしください。", "phonetic": "Watashitachi no tsumi o oyurushikudasai." },
+        { "passage_segment_id": "5b", "text": "わたしたちも人をゆるします。", "phonetic": "Watashitachi mo hito o yurushimasu." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "わたしたちを誘惑におちいらせず、", "phonetic": "Watashitachi o yūwaku ni ochiirasezu," },
+        { "passage_segment_id": "6b", "text": "悪からお救いください,", "phonetic": "aku kara o suikudasai," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

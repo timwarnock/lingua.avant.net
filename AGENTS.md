@@ -56,16 +56,15 @@ All other non-rosary pages will be in a language specific [ extras ] section, wh
 
 ## TODO
 
-+ verify all prayer text with official Catholic sources (from the vatican or similar).
-++ separate tool to take official sources (e.g., Vietnamese prayer) and match to English passage+segments to find proper 1:1 on passages and best effort on segments (LLM is fucking this up, and this is ultiamtely a deterministic procedure, at least for passages).
-+ align Chinese segments carefully to English segments.
-+ prayer player stop\pause button!
-+ make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
-+ similarly, language selection foolproof, single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
 + IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
-++ finalize English for official passage+segment source of truth, then generate spanish prayers+audio (matching to the English passages and segments).
 ++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 ++ after every new language, compare each prayer to all other languages and verify that the passages align perfectly (segments may be different but aim for equal count at least, might be different orde)).
+++ verify all prayer text with official Catholic sources (from the vatican or similar).
+++ align Chinese segments carefully to English segments.
+++ prayer player stop\pause button!
+++ make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
+++ similarly, language selection foolproof, single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
+
 + Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
 
 

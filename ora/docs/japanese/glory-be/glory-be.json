@@ -1,0 +1,35 @@
+{
+  "id": "glory-be",
+  "lang": "japanese",
+  "title": "栄唱",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "父と子と", "phonetic": "Chichi to Ko to" },
+        { "passage_segment_id": "1b", "text": "聖霊に", "phonetic": "Seirei ni" },
+        { "passage_segment_id": "1c", "text": "栄光あれ。", "phonetic": "eikō are." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "初めのように、", "phonetic": "Hajime no yō ni," },
+        { "passage_segment_id": "2b", "text": "今も、", "phonetic": "ima mo," },
+        { "passage_segment_id": "2c", "text": "いつも、", "phonetic": "itsumo," },
+        { "passage_segment_id": "2d", "text": "世々に,", "phonetic": "yoyo ni," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

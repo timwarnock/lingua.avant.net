@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "japanese",
+  "title": "アヴェ・マリアの祈り",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "アヴェ・マリア、", "phonetic": "Ave Maria," },
+        { "passage_segment_id": "1b", "text": "恵みに満ちた方、", "phonetic": "megumi ni michita kata," },
+        { "passage_segment_id": "1c", "text": "主はあなたとともにおられます。", "phonetic": "Shu wa anata to tomo ni oraremasu." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "あなたは女のうちで祝福され、", "phonetic": "Anata wa onna no uchi de shukufuku sare," },
+        { "passage_segment_id": "2b", "text": "ご胎内の御子イエスも", "phonetic": "go tainai no onko Iesu mo" },
+        { "passage_segment_id": "2c", "text": "祝福されています。", "phonetic": "shukufuku sarete imasu." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "神の母聖マリア、", "phonetic": "Kami no haha sei Maria," },
+        { "passage_segment_id": "3b", "text": "わたしたち罪びとのために、", "phonetic": "watashitachi tsumibito no tame ni," },
+        { "passage_segment_id": "3c", "text": "お祈りください。", "phonetic": "o inori kudasai." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "今も、死を迎える時も,", "phonetic": "Ima mo, shi o mukaeru toki mo," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "アーメン。", "phonetic": "Āmen." }
+      ]
+    }
+  ]
+}

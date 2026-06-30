@@ -1,0 +1,20 @@
+{
+  "id": "keita",
+  "lang": "test",
+  "title": "ja-JP-KeitaNeural -5%",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "恵みに満ちた", "phonetic": "Megumi ni michita" },
+        { "passage_segment_id": "1b", "text": "アヴェ・マリア、", "phonetic": "Ave Maria," },
+        { "passage_segment_id": "1c", "text": "主はあなたと共におられます。", "phonetic": "Shu wa anata to tomo ni oraremasu." }
+      ]
+    }
+  ]
+}
