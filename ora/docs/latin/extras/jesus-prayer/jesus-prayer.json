@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "latin",
+  "title": "Oratio Iesu",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Domine Iesu Christe,", "phonetic": "Domine Iesu Christe," },
+        { "passage_segment_id": "1b", "text": "Fili Dei,", "phonetic": "Fili Dei," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "miserere mei,", "phonetic": "miserere mei," },
+        { "passage_segment_id": "2b", "text": "peccatoris.", "phonetic": "peccatoris." }
+      ]
+    }
+  ]
+}

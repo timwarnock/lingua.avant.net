@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "french",
+  "title": "Prière de Jésus",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Seigneur Jésus Christ,", "phonetic": "Seigneur Jésus Christ," },
+        { "passage_segment_id": "1b", "text": "Fils de Dieu,", "phonetic": "Fils de Dieu," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "aie pitié de moi,", "phonetic": "aie pitié de moi," },
+        { "passage_segment_id": "2b", "text": "pécheur.", "phonetic": "pécheur." }
+      ]
+    }
+  ]
+}

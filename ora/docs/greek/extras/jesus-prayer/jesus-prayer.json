@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "greek",
+  "title": "Προσευχὴ τοῦ Ἰησοῦ",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Κύριε Ἰησοῦ Χριστέ,", "phonetic": "Ký-rie I-ē-soû Chris-té," },
+        { "passage_segment_id": "1b", "text": "Υἱὲ τοῦ Θεοῦ,", "phonetic": "Yi-é tou The-oú," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "ἐλέησόν με,", "phonetic": "e-lé-i-són me," },
+        { "passage_segment_id": "2b", "text": "τὸν ἁμαρτωλόν.", "phonetic": "ton ha-mar-to-lón." }
+      ]
+    }
+  ]
+}

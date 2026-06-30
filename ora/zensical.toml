@@ -55,15 +55,18 @@ nav = [
       "english/fatima-prayer.md",
       "english/hail-holy-queen.md",
       { "Extras" = [
-          "english/extras/pronunciation.md",
-          "english/extras/advice.md",
-          "english/extras/bad-advice.md",
-          "english/extras/fsi.md",
-          "english/extras/fsi-diff.md",
-          "english/extras/islands.md",
-          "english/extras/introverts.md",
-          "english/extras/multilingual.md",
-          "english/extras/ipa.md"
+          "english/extras/jesus-prayer.md"
+        ] },
+      { "Resources" = [
+          "english/resources/pronunciation.md",
+          "english/resources/advice.md",
+          "english/resources/bad-advice.md",
+          "english/resources/fsi.md",
+          "english/resources/fsi-diff.md",
+          "english/resources/islands.md",
+          "english/resources/introverts.md",
+          "english/resources/multilingual.md",
+          "english/resources/ipa.md"
         ] }
     ] },
   { "Español" = [
@@ -75,11 +78,14 @@ nav = [
       "spanish/glory-be.md",
       "spanish/fatima-prayer.md",
       "spanish/hail-holy-queen.md",
-      { "[ Adicionales ]" = [
-          "spanish/extras/pronunciation.md",
-          "spanish/extras/notes.md",
-          "spanish/extras/cognates.md",
-          "spanish/extras/conjugations.md"
+      { "[ Extras ]" = [
+          "spanish/extras/jesus-prayer.md"
+        ] },
+      { "[ Recursos ]" = [
+          "spanish/resources/pronunciation.md",
+          "spanish/resources/notes.md",
+          "spanish/resources/cognates.md",
+          "spanish/resources/conjugations.md"
         ] }
     ] },
   { "Français" = [
@@ -91,8 +97,11 @@ nav = [
       "french/glory-be.md",
       "french/fatima-prayer.md",
       "french/hail-holy-queen.md",
-      { "[ Suppléments ]" = [
-          "french/extras/pronunciation.md"
+      { "[ Extras ]" = [
+          "french/extras/jesus-prayer.md"
+        ] },
+      { "[ Ressources ]" = [
+          "french/resources/pronunciation.md"
         ] }
     ] },
   { "Latina" = [
@@ -104,9 +113,12 @@ nav = [
       "latin/glory-be.md",
       "latin/fatima-prayer.md",
       "latin/hail-holy-queen.md",
-      { "[ Additamenta ]" = [
-          "latin/extras/pronunciation.md",
-          "latin/extras/notes.md"
+      { "[ Extras ]" = [
+          "latin/extras/jesus-prayer.md"
+        ] },
+      { "[ Opes ]" = [
+          "latin/resources/pronunciation.md",
+          "latin/resources/notes.md"
         ] }
     ] },
   { "Polski" = [
@@ -118,8 +130,11 @@ nav = [
       "polish/glory-be.md",
       "polish/fatima-prayer.md",
       "polish/hail-holy-queen.md",
-      { "[ Dodatki ]" = [
-          "polish/extras/pronunciation.md"
+      { "[ Extras ]" = [
+          "polish/extras/jesus-prayer.md"
+        ] },
+      { "[ Zasoby ]" = [
+          "polish/resources/pronunciation.md"
         ] }
     ] },
   { "Português" = [
@@ -131,8 +146,11 @@ nav = [
       "portuguese/glory-be.md",
       "portuguese/fatima-prayer.md",
       "portuguese/hail-holy-queen.md",
-      { "[ Adicionais ]" = [
-          "portuguese/extras/pronunciation.md"
+      { "[ Extras ]" = [
+          "portuguese/extras/jesus-prayer.md"
+        ] },
+      { "[ Recursos ]" = [
+          "portuguese/resources/pronunciation.md"
         ] }
     ] },
   { "Tiếng Việt" = [
@@ -144,11 +162,14 @@ nav = [
       "vietnamese/glory-be.md",
       "vietnamese/fatima-prayer.md",
       "vietnamese/hail-holy-queen.md",
-      { "[ Bổ sung ]" = [
-          "vietnamese/extras/pronunciation.md",
-          "vietnamese/extras/notes.md",
-          "vietnamese/extras/typing.md",
-          "vietnamese/extras/progress.md"
+      { "[ Extras ]" = [
+          "vietnamese/extras/jesus-prayer.md"
+        ] },
+      { "[ Tài nguyên ]" = [
+          "vietnamese/resources/pronunciation.md",
+          "vietnamese/resources/notes.md",
+          "vietnamese/resources/typing.md",
+          "vietnamese/resources/progress.md"
         ] }
     ] },
   { "Ἑλληνικά" = [
@@ -160,8 +181,11 @@ nav = [
       "greek/glory-be.md",
       "greek/fatima-prayer.md",
       "greek/hail-holy-queen.md",
-      { "[ Πρόσθετα ]" = [
-          "greek/extras/pronunciation.md"
+      { "[ Extras ]" = [
+          "greek/extras/jesus-prayer.md"
+        ] },
+      { "[ Πόροι ]" = [
+          "greek/resources/pronunciation.md"
         ] }
     ] },
   { "中文" = [
@@ -173,16 +197,19 @@ nav = [
       "chinese/glory-be.md",
       "chinese/fatima-prayer.md",
       "chinese/hail-holy-queen.md",
-      { "[ 附加 ]" = [
-          "chinese/extras/pronunciation.md",
-          "chinese/extras/notes.md",
-          "chinese/extras/calligraphy.md",
-          "chinese/extras/comfort-zones.md",
-          "chinese/extras/grammar.md",
-          "chinese/extras/speaking-poem.md",
-          "chinese/extras/traditional-vs-simplified.md",
-          "chinese/extras/zhuyin.md",
-          "chinese/extras/tones.md"
+      { "[ 額外 ]" = [
+          "chinese/extras/jesus-prayer.md"
+        ] },
+      { "[ 資源 ]" = [
+          "chinese/resources/pronunciation.md",
+          "chinese/resources/notes.md",
+          "chinese/resources/calligraphy.md",
+          "chinese/resources/comfort-zones.md",
+          "chinese/resources/grammar.md",
+          "chinese/resources/speaking-poem.md",
+          "chinese/resources/traditional-vs-simplified.md",
+          "chinese/resources/zhuyin.md",
+          "chinese/resources/tones.md"
         ] }
     ] },
   { "日本語" = [
@@ -195,7 +222,10 @@ nav = [
       "japanese/fatima-prayer.md",
       "japanese/hail-holy-queen.md",
       { "[ 追加 ]" = [
-          "japanese/extras/pronunciation.md"
+          "japanese/extras/jesus-prayer.md"
+        ] },
+      { "[ 資料 ]" = [
+          "japanese/resources/pronunciation.md"
         ] }
     ] },
 ]

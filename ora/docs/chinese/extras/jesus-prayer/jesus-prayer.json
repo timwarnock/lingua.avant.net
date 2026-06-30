@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "chinese",
+  "title": "耶穌禱文",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "主耶穌基督，", "phonetic": "Zhǔ Yē sū Jī dū," },
+        { "passage_segment_id": "1b", "text": "天主之子，", "phonetic": "Tiān zhǔ zhī zǐ," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "求你垂憐我，", "phonetic": "Qiú nǐ chuí lián wǒ," },
+        { "passage_segment_id": "2b", "text": "罪人。", "phonetic": "zuì rén." }
+      ]
+    }
+  ]
+}

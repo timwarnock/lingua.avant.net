@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "polish",
+  "title": "Modlitwa Jezusowa",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Panie Jezu Chryste,", "phonetic": "Panie Jezu Chryste," },
+        { "passage_segment_id": "1b", "text": "Synu Boży,", "phonetic": "Synu Boży," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "zmiłuj się nade mną,", "phonetic": "zmiłuj się nade mną," },
+        { "passage_segment_id": "2b", "text": "grzesznikiem.", "phonetic": "grzesznikiem." }
+      ]
+    }
+  ]
+}

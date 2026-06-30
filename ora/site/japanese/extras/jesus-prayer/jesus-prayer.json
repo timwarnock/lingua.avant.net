@@ -1,0 +1,25 @@
+{
+  "id": "jesus-prayer",
+  "lang": "japanese",
+  "title": "イエスの祈り",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "主イエス・キリスト、", "phonetic": "Shu Iesu Kirisuto," },
+        { "passage_segment_id": "1b", "text": "神の子よ、", "phonetic": "Kami no ko yo," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "罪人なる我を憐れみ給え。", "phonetic": "Tsumibito naru ware o awaremi tamae." }
+      ]
+    }
+  ]
+}

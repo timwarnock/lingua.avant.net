@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "vietnamese",
+  "title": "Lời Nguyện Giêsu",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Lạy Chúa Giêsu Kitô,", "phonetic": "Lạy Chúa Giêsu Kitô," },
+        { "passage_segment_id": "1b", "text": "Con Thiên Chúa,", "phonetic": "Con Thiên Chúa," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "xin thương xót con,", "phonetic": "xin thương xót con," },
+        { "passage_segment_id": "2b", "text": "là kẻ tội lỗi.", "phonetic": "là kẻ tội lỗi." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "jesus-prayer",
+  "lang": "english",
+  "title": "Jesus Prayer",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Lord Jesus Christ,", "phonetic": "Lord Jesus Christ," },
+        { "passage_segment_id": "1b", "text": "Son of God,", "phonetic": "Son of God," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "have mercy on me,", "phonetic": "have mercy on me," },
+        { "passage_segment_id": "2b", "text": "a sinner.", "phonetic": "a sinner." }
+      ]
+    }
+  ]
+}
