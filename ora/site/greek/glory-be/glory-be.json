@@ -1,0 +1,35 @@
+{
+  "id": "glory-be",
+  "lang": "greek",
+  "title": "Δόξα Πατρί",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Δόξα Πατρὶ", "phonetic": "Dó-xa Pa-trí" },
+        { "passage_segment_id": "1b", "text": "καὶ Υἱῷ", "phonetic": "kai Yi-ṓ" },
+        { "passage_segment_id": "1c", "text": "καὶ Ἁγίῳ Πνεύματι,", "phonetic": "kai Ha-gí-ō Pneú-ma-ti," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "καὶ νῦν", "phonetic": "kai nŷn" },
+        { "passage_segment_id": "2b", "text": "καὶ ἀεὶ", "phonetic": "kai a-eí" },
+        { "passage_segment_id": "2c", "text": "καὶ εἰς τοὺς αἰῶνας", "phonetic": "kai eis toùs ai-ṓ-nas" },
+        { "passage_segment_id": "2d", "text": "τῶν αἰώνων,", "phonetic": "tōn ai-ṓ-nōn," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}

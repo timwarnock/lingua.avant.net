@@ -1,0 +1,75 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "greek",
+  "title": "Χαῖρε, Βασίλισσα",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Χαῖρε, Βασίλισσα,", "phonetic": "Ché-re, Ba-sí-lis-sa," },
+        { "passage_segment_id": "1b", "text": "μήτηρ ἐλέους,", "phonetic": "mḗ-tēr e-lé-ous," },
+        { "passage_segment_id": "1c", "text": "ζωὴ γλυκύτης", "phonetic": "zō-ḗ gly-ký-tēs" },
+        { "passage_segment_id": "1d", "text": "καὶ ἐλπὶς ἡμῶν,", "phonetic": "kai el-pìs hē-mṓn," },
+        { "passage_segment_id": "1e", "text": "χαῖρε.", "phonetic": "ché-re." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Πρὸς σὲ βοῶμεν", "phonetic": "Pròs sè bo-ṓ-men" },
+        { "passage_segment_id": "2b", "text": "οἱ ἐξόριστοι υἱοὶ τῆς Εὔας.", "phonetic": "hoi e-xó-ris-toi hyi-oì tēs Eú-as." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Πρὸς σὲ στενάζομεν θρηνοῦντες", "phonetic": "Pròs sè ste-ná-zo-men thrē-noún-tes" },
+        { "passage_segment_id": "3b", "text": "καὶ κλαίοντες", "phonetic": "kai klaí-on-tes" },
+        { "passage_segment_id": "3c", "text": "ἐν τῇ κοιλάδι ταύτῃ τῶν δακρύων.", "phonetic": "en tē koi-lá-di taú-tē tōn da-krý-ōn." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Ἄγε οὖν, ἡ παράκλητος ἡμῶν,", "phonetic": "Á-ge oún, hē pa-rá-klē-tos hē-mṓn," },
+        { "passage_segment_id": "4b", "text": "τοὺς ἐλεήμονας ὀφθαλμούς σου", "phonetic": "toùs e-le-ḗ-mo-nas o-phthal-moús sou" },
+        { "passage_segment_id": "4c", "text": "πρὸς ἡμᾶς ἐπίστρεψον.", "phonetic": "pròs hē-mâs e-pís-tre-pson." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Καὶ τὸν Ἰησοῦν,", "phonetic": "Kai tòn I-ē-soûn," },
+        { "passage_segment_id": "5b", "text": "τὸν εὐλογημένον καρπὸν τῆς κοιλίας σου,", "phonetic": "tòn eu-lo-gē-mé-non kar-pòn tēs koi-lí-as sou," },
+        { "passage_segment_id": "5c", "text": "ἡμῖν μετὰ τὴν ἐξορίαν ταύτην", "phonetic": "hē-mîn me-tà tḕn e-xo-rí-an taú-tēn" },
+        { "passage_segment_id": "5d", "text": "δεῖξον.", "phonetic": "deí-xon." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Ὦ ἐλεήμων,", "phonetic": "Ō e-le-ḗ-mōn," },
+        { "passage_segment_id": "6b", "text": "ὦ φιλεύσπλαγχνος,", "phonetic": "ō phi-leús-plan-chnos," },
+        { "passage_segment_id": "6c", "text": "ὦ γλυκεῖα Παρθένε Μαρία.", "phonetic": "ō gly-keî-a Par-thé-ne Ma-rí-a." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Πρέσβευε ὑπὲρ ἡμῶν,", "phonetic": "Prés-beu-e hy-pèr hē-mṓn," },
+        { "passage_segment_id": "7b", "text": "ἁγία Θεοτόκε.", "phonetic": "ha-gí-a The-o-tó-ke." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Ἵνα ἀξιωθῶμεν τῶν ἐπαγγελιῶν τοῦ Χριστοῦ.", "phonetic": "Hí-na a-xi-ō-thṓ-men tōn e-pag-ge-lí-ōn tou Chris-toû." }
+      ]
+    }
+  ]
+}

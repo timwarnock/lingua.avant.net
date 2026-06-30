@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "greek",
+  "title": "Τὸ Σημεῖον τοῦ Σταυροῦ",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Ἐν ὀνόματι τοῦ Πατρὸς", "phonetic": "En o-nó-ma-ti tou Pa-trós" },
+        { "passage_segment_id": "1b", "text": "καὶ τοῦ Υἱοῦ", "phonetic": "kai tou Yi-oú" },
+        { "passage_segment_id": "1c", "text": "καὶ τοῦ Ἁγίου Πνεύματος,", "phonetic": "kai tou Ha-gí-ou Pneú-ma-tos," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}

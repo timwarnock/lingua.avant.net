@@ -1,0 +1,20 @@
+{
+  "id": "nestoras5",
+  "lang": "test",
+  "title": "el-GR-NestorasNeural -5%",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Χαῖρε Μαρία,", "phonetic": "Ché-re Ma-rí-a," },
+        { "passage_segment_id": "1b", "text": "κεχαριτωμένη,", "phonetic": "ke-cha-ri-to-mé-ni," },
+        { "passage_segment_id": "1c", "text": "ὁ Κύριος μετὰ σοῦ.", "phonetic": "o Ký-ri-os me-tá soú." }
+      ]
+    }
+  ]
+}

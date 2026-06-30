@@ -46,12 +46,27 @@ So in English something like:
 + Hail Mary
 + Glory Be
 + Fatima Prayer
-+ Hail Holy Queen (should also include "Let us pray...")
++ Hail Holy Queen (should also include "Let us pray..." Rosary Prayer)
 
 Every language should have those exact pages, with icon: material/cross
 The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation...", and then links to the specific prayer pages.
 
 All other non-rosary pages will be in a language specific [ extras ] section, which will map to a subdirectory in that language, e.g., english/extras/
+
+
+## Passages and Segments for audio alignment
+
+Every prayer will be broken down into passages that must match 1:1 across all languages, such that tooling can be built which will index any given passage across any given language.
+
+For example, hail-mary passage 1 is "Hail Mary, full of grace, the Lord is with thee."
+and thus in Latin passage 1 is "Ave Maria, gratia plena, Dominus tecum."
+and this in Vietnamese passage 1 is "Kính mừng Maria, đầy ơn phúc, Đức Chúa Trời ở cùng Bà."
+
+Each passage is broken into segments identified with letters after the passage number (e.g., 1a, 1b, etc); these are the shortest grammatical unit for that language, hail-mary passage 1 has three segment, 1a:"Ave Maria,"  1b:"gratia plena," 1c:"Dominus tecum."
+
+All languages MUST align on passages literally and exactly! The exact meaning for a given passage should match across all languages!
+
+Segments may not match exactly due to grammatic and linguistic differences between laguages, but a best effort should be made to match them (such as matching a similar count of segments).
 
 
 ## TODO

@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "greek",
+  "title": "Πάτερ ἡμῶν",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Πάτερ ἡμῶν", "phonetic": "Pá-ter i-món" },
+        { "passage_segment_id": "1b", "text": "ὁ ἐν τοῖς οὐρανοῖς·", "phonetic": "o en toís ou-ra-nís" },
+        { "passage_segment_id": "1c", "text": "ἁγιασθήτω τὸ ὄνομά σου·", "phonetic": "ha-gi-as-thḗ-tō to ó-no-má sou" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "ἐλθέτω ἡ βασιλεία σου·", "phonetic": "el-thé-tō hē ba-si-leí-a sou" }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς·", "phonetic": "ge-nē-thḗ-tō to thé-lē-má sou, hōs en ou-ra-nṓ kai e-pí tēs gēs" }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον·", "phonetic": "ton ár-ton hē-mṓn ton e-pi-oú-si-on dós hē-mîn sḗ-me-ron" }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν,", "phonetic": "kai á-phes hē-mîn ta o-phei-lḗ-ma-ta hē-mṓn" },
+        { "passage_segment_id": "5b", "text": "ὡς καὶ ἡμεῖς ἀφίεμεν τοῖς ὀφειλέταις ἡμῶν·", "phonetic": "hōs kai hē-meîs a-phí-e-men toîs o-phei-lé-tais hē-mṓn" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν,", "phonetic": "kai mē ei-sen-én-gkēs hē-mâs eis pei-ras-món" },
+        { "passage_segment_id": "6b", "text": "ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ,", "phonetic": "al-là rhŷ-sai hē-mâs a-pò tou po-nē-roû," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}

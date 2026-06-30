@@ -95,6 +95,31 @@ The main passage lines in the UI use "text". The phonetic sub-chunks are the cli
 
 Segments are the units that are clickable for playback.
 
+### Text and Phonetic for Koine Greek
+Greek uses Koine Greek (the ancient form from the New Testament and early Church, as used in official Catholic/Byzantine Greek liturgical sources).
+
+- "text": authentic Koine Greek script (polytonic where traditional for the source text). This is the proper display form and the input sent to TTS.
+- "phonetic": practical learner-friendly pronunciation guide in Latin script using **modern Greek pronunciation** applied to the Koine text (how the prayers are actually recited today in Greek Catholic and Orthodox traditions).
+
+**tts.input setting:** Always set `"input": "text"` for Greek (so edge-tts receives the native Greek script for natural audio, exactly as done for Chinese and Japanese).
+
+**Custom phonetic guide rules (use these explicitly and consistently):**
+- Base spelling on modern Greek sound values for Koine letters:
+  - α = a, ε = e, η/ι/υ/ει/οι = ee (or i), ο/ω = o, ου = oo, υ before consonants sometimes y.
+  - β = v, γ = g (or y before e/i sounds), δ = th (as in "this"), θ = th (as in "thin"), χ = ch (as in Scottish "loch").
+  - ζ = z, ξ = ks, ψ = ps.
+- Indicate primary stress with acute accent on the stressed syllable (e.g. Pá-ter, Ma-rí-a).
+- Use hyphens sparingly only for clarity on long words if needed; prefer space-separated syllables where it aids learners.
+- Preserve punctuation from the "text" only when it helps prosody (e.g. commas before "Amen" in some cases).
+- Example for Hail Mary opening:
+  - text: "Χαῖρε, Μαρία, κεχαριτωμένη,"
+  - phonetic: "Ché-re, Ma-rí-a, ke-cha-ri-to-mé-ni,"
+- Follow the same segment alignment and passage structure as English (1:1 passages; best-effort equal segment counts).
+- Source the Koine text from official Catholic Greek sources (e.g. traditional Byzantine/Greek Catholic liturgical forms of the prayers).
+- When generating audio, use an appropriate el-GR voice with input="text". Tune only the "phonetic" display values for learner clarity; do not alter "text".
+
+This keeps consistency across languages: non-Latin scripts use native script in "text" + pronunciation aid in "phonetic".
+
 ### Actionable Steps for Phonetic Spellings with edge-tts (English reference)
 edge-tts (Microsoft Edge TTS backend) does not support custom <phoneme> SSML or IPA input. Pronunciation control is achieved exclusively through plain-text respelling in the string passed to TTS.
 

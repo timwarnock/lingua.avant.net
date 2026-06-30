@@ -6,81 +6,40 @@ This is for TTS testing. These are not real prayers. Each voice has sample passa
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="andrew.json"></div>
+     data-json="athina.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="sonia.json"></div>
+     data-json="athina0.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="ava.json"></div>
+     data-json="athina10.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="diego.json"></div>
-
----
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="hoaimy.json"></div>
+     data-json="nestoras.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="hoaimy0.json"></div>
+     data-json="nestoras0.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="hoaimy10.json"></div>
+     data-json="nestoras5.json"></div>
 
 ---
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="namminh.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="namminh0.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="nanami.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="nanami0.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="nanami10.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="keita.json"></div>
-
----
-
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="keita0.json"></div>
+     data-json="nestoras10.json"></div>

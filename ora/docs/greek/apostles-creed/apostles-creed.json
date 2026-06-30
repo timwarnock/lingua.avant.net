@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "greek",
+  "title": "Σύμβολον τῶν Ἀποστόλων",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Πιστεύω εἰς Θεὸν Πατέρα παντοκράτορα,", "phonetic": "Pis-teú-ō eis The-òn Pa-té-ra pan-to-krá-to-ra," },
+        { "passage_segment_id": "1b", "text": "ποιητὴν οὐρανοῦ", "phonetic": "poi-ē-tḗn ou-ra-noû" },
+        { "passage_segment_id": "1c", "text": "καὶ γῆς.", "phonetic": "kai gēs." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Καὶ εἰς Ἰησοῦν Χριστόν,", "phonetic": "Kai eis I-ē-soûn Chris-tón," },
+        { "passage_segment_id": "2b", "text": "υἱὸν αὐτοῦ τὸν μονογενῆ,", "phonetic": "hyi-òn au-toû ton mo-no-ge-nḗ," },
+        { "passage_segment_id": "2c", "text": "τὸν Κύριον ἡμῶν,", "phonetic": "ton Ký-ri-on hē-mṓn," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "τὸν συλληφθέντα ἐκ Πνεύματος Ἁγίου,", "phonetic": "ton syl-lēph-thén-ta ek Pneú-ma-tos Ha-gí-ou," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "γεννηθέντα ἐκ Μαρίας τῆς παρθένου,", "phonetic": "gen-nē-thén-ta ek Ma-rí-as tēs par-thé-nou," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "παθόντα ἐπὶ Ποντίου Πιλάτου,", "phonetic": "pa-thón-ta e-pí Pon-tí-ou Pi-lá-tou," },
+        { "passage_segment_id": "5b", "text": "σταυρωθέντα,", "phonetic": "stau-rō-thén-ta," },
+        { "passage_segment_id": "5c", "text": "θανόντα, καὶ ταφέντα,", "phonetic": "tha-nón-ta, kai ta-phén-ta," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "κατελθόντα εἰς τὰ κατώτατα,", "phonetic": "ka-te-lthón-ta eis ta ka-tṓ-ta-ta," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "τῇ τρίτῃ ἡμέρᾳ ἀναστάντα ἐκ τῶν νεκρῶν,", "phonetic": "tē trí-tē hē-mé-rā a-na-stán-ta ek tōn ne-krṓn," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "ἀνελθόντα εἰς τοὺς οὐρανούς,", "phonetic": "a-ne-lthón-ta eis toùs ou-ra-noús," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "καθεζόμενον ἐν δεξιᾷ Θεοῦ Πατρὸς παντοκράτορος,", "phonetic": "ka-the-zó-me-non en de-xi-á The-oû Pa-tròs pan-to-krá-to-ros," }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "ἐκεῖθεν ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.", "phonetic": "e-keí-then er-chó-me-non krí-nai zṓn-tas kai ne-króus." }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Πιστεύω εἰς τὸ Πνεῦμα τὸ Ἅγιον,", "phonetic": "Pis-teú-ō eis to Pneú-ma to Há-gi-on," },
+        { "passage_segment_id": "11b", "text": "ἁγίαν καθολικὴν ἐκκλησίαν,", "phonetic": "ha-gí-an ka-tho-li-kḗn ek-klē-sí-an," },
+        { "passage_segment_id": "11c", "text": "ἁγίων κοινωνίαν,", "phonetic": "ha-gí-ōn koi-nō-ní-an," },
+        { "passage_segment_id": "11d", "text": "ἄφεσιν ἁμαρτιῶν,", "phonetic": "á-fe-sin ha-mar-tí-ōn," },
+        { "passage_segment_id": "11e", "text": "σαρκὸς ἀνάστασιν,", "phonetic": "sar-kòs a-ná-sta-sin," },
+        { "passage_segment_id": "11f", "text": "ζωὴν αἰώνιον,", "phonetic": "zō-ḗn ai-ṓ-ni-on," }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}

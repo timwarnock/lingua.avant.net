@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "greek",
+  "title": "Χαῖρε Μαρία",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Χαῖρε Μαρία,", "phonetic": "Ché-re Ma-rí-a," },
+        { "passage_segment_id": "1b", "text": "κεχαριτωμένη,", "phonetic": "ke-cha-ri-to-mé-ni," },
+        { "passage_segment_id": "1c", "text": "ὁ Κύριος μετὰ σοῦ·", "phonetic": "o Ký-ri-os me-tá soú·" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "εὐλογημένη σὺ ἐν γυναιξί,", "phonetic": "eu-lo-gē-mé-nē sỳ en gy-nai-xí," },
+        { "passage_segment_id": "2b", "text": "καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου", "phonetic": "kai eu-lo-gē-mé-nos ho kar-pòs tēs koi-lí-as sou" },
+        { "passage_segment_id": "2c", "text": "Ἰησοῦς.", "phonetic": "I-ē-soûs." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Ἁγία Μαρία, Θεοτόκε,", "phonetic": "Ha-gí-a Ma-rí-a, The-o-tó-ke," },
+        { "passage_segment_id": "3b", "text": "πρέσβευε ὑπὲρ ἡμῶν", "phonetic": "prés-beu-e hy-pèr hē-mṓn" },
+        { "passage_segment_id": "3c", "text": "τῶν ἁμαρτωλῶν,", "phonetic": "tōn ha-mar-tō-lṓn," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "νῦν καὶ ἐν τῇ ὥρᾳ τοῦ θανάτου ἡμῶν,", "phonetic": "nŷn kai en tē hṓ-rā tou tha-ná-tou hē-mṓn," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}

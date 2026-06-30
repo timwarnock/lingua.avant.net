@@ -1,0 +1,70 @@
+{
+  "id": "rosary-prayer",
+  "lang": "greek",
+  "title": "Προσευχὴ τοῦ Ροδαρίου",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Εὐχώμεθα.", "phonetic": "Eu-chṓ-me-tha." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Ὁ Θεός,", "phonetic": "Ho The-ós," },
+        { "passage_segment_id": "2b", "text": "οὗ ὁ μονογενὴς Υἱός,", "phonetic": "hoû ho mo-no-ge-nḕs Hyi-ós," },
+        { "passage_segment_id": "2c", "text": "διὰ τοῦ βίου,", "phonetic": "di-ὰ tou bí-ou," },
+        { "passage_segment_id": "2d", "text": "τοῦ θανάτου καὶ τῆς ἀναστάσεως αὐτοῦ,", "phonetic": "tou tha-ná-tou kai tēs a-na-stá-se-ōs au-toû," },
+        { "passage_segment_id": "2e", "text": "ἐκτήσατο ἡμῖν τὸν μισθὸν", "phonetic": "ek-tḗ-sa-to hē-mîn tòn mis-thòn" },
+        { "passage_segment_id": "2f", "text": "τῆς αἰωνίου ζωῆς,", "phonetic": "tēs ai-ō-ní-ou zō-ῆς," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "δός ἡμῖν, δεόμεθα,", "phonetic": "dós hē-mîn, de-ó-me-tha," },
+        { "passage_segment_id": "3b", "text": "ἵνα μελετῶντες τὰ μυστήρια", "phonetic": "hí-na me-le-tṓn-tes tà mys-tḗ-ri-a" },
+        { "passage_segment_id": "3c", "text": "τοῦ ἁγιωτάτου Ροδαρίου τῆς Μακαρίας Παρθένου Μαρίας,", "phonetic": "tou ha-gi-ō-tá-tou Ro-da-rí-ou tēs Ma-ka-rí-as Par-thé-nou Ma-rí-as," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "μιμώμεθα τὰ ἐν αὐτοῖς περιεχόμενα", "phonetic": "mi-mṓ-me-tha tà en au-toîs pe-ri-e-chó-me-na" },
+        { "passage_segment_id": "4b", "text": "καὶ λαμβάνωμεν τὰ ἐπηγγελμένα.", "phonetic": "kai lam-bá-nō-men tà e-pēg-ge-lé-me-na." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Διὰ τοῦ αὐτοῦ Χριστοῦ τοῦ Κυρίου ἡμῶν,", "phonetic": "Di-ὰ tou au-toû Chris-toû tou Ky-rí-ou hē-mṓn," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Ἱερώτατε Καρδία τοῦ Ἰησοῦ,", "phonetic": "Hi-e-rṓ-ta-te Kar-dí-a tou I-ē-soû," },
+        { "passage_segment_id": "7b", "text": "ἐλέησον ἡμᾶς.", "phonetic": "e-lé-ē-son hē-mâs." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Ἀμόλυντε Καρδία τῆς Μαρίας,", "phonetic": "A-mó-lyn-te Kar-dí-a tēs Ma-rí-as," },
+        { "passage_segment_id": "8b", "text": "πρέσβευε ὑπὲρ ἡμῶν.", "phonetic": "prés-beu-e hy-pèr hē-mṓn." }
+      ]
+    }
+  ]
+}

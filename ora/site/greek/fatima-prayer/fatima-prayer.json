@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "greek",
+  "title": "Ἡ Προσευχὴ τῆς Φατίμας",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Ὦ Ἰησοῦ μου,", "phonetic": "Ō I-ē-soû mou," },
+        { "passage_segment_id": "1b", "text": "συγχώρησον ἡμῖν τὰς ἁμαρτίας ἡμῶν,", "phonetic": "syn-chṓ-rē-son hē-mîn tas ha-mar-tí-as hē-mṓn," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "ῥῦσαι ἡμᾶς ἀπὸ τοῦ πυρὸς τῆς γεέννης,", "phonetic": "rhŷ-sai hē-mâs a-pò tou py-ròs tēs ge-én-nēs," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "ὁδήγησον εἰς τὸν οὐρανὸν πάσας τὰς ψυχάς,", "phonetic": "ho-dḗ-gē-son eis ton ou-ra-nòn pá-sas tas psy-chás," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "ἰδίως δὲ ἐκείνας αἵτινες μάλιστα δέονται τοῦ ἐλέους σου,", "phonetic": "i-dí-ōs dè e-keí-nas hai-ti-nes má-lis-ta dé-on-tai tou e-lé-ous sou," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+      ]
+    }
+  ]
+}
