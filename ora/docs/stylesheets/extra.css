@@ -438,6 +438,22 @@ h2.prayer-with-player .play-btn:hover {
   background: rgba(255,255,255,0.08);
 }
 
+/* Main button (pause state only) gets solid primary fill for visibility.
+   Normal play button stays subtle. */
+h1.prayer-with-player .play-btn.playing,
+h2.prayer-with-player .play-btn.playing,
+.prayer-header .play-btn.playing {
+  background: #4051b5;
+  color: #fff;
+  border-color: #4051b5;
+}
+h1.prayer-with-player .play-btn.playing:hover,
+h2.prayer-with-player .play-btn.playing:hover,
+.prayer-header .play-btn.playing:hover {
+  background: #303f8f;
+  border-color: #303f8f;
+}
+
 .prayer-line {
   display: flex;
   align-items: baseline;

@@ -36,6 +36,36 @@ function render(container, data, jsonUrl) {
 
   // Derive audio sources from structure (no audio map in JSON)
   const audioMap = {};
+  let mainPlayBtn = null;
+
+  function setMainPlaying(playing) {
+    if (!mainPlayBtn) return;
+    mainPlayBtn.classList.toggle('playing', playing);
+    if (playing) {
+      mainPlayBtn.textContent = '⏸';
+      mainPlayBtn.title = 'Stop';
+    } else {
+      mainPlayBtn.textContent = '▶';
+      mainPlayBtn.title = 'Play full prayer';
+    }
+  }
+
+  function maybeRevertMain() {
+    const anyActive = Object.values(audioMap).some(aa => !aa.paused && aa.currentTime > 0);
+    if (!anyActive) {
+      setMainPlaying(false);
+    }
+  }
+
+  function stopAll() {
+    Object.values(audioMap).forEach(aa => {
+      aa.pause();
+      aa.currentTime = 0;
+    });
+    clearActive();
+    setMainPlaying(false);
+  }
+
   function addAudio(key) {
     if (audioMap[key]) return;
     const a = new Audio();
@@ -45,6 +75,9 @@ function render(container, data, jsonUrl) {
       a.src = audioDir + `${prayerId}-${key}.mp3`;
     }
     a.preload = 'auto';
+    a.addEventListener('play', () => setMainPlaying(true));
+    a.addEventListener('ended', maybeRevertMain);
+    a.addEventListener('pause', maybeRevertMain);
     audioMap[key] = a;
   }
 
@@ -95,6 +128,8 @@ function render(container, data, jsonUrl) {
     const target = container.querySelector(`[data-segment="${id}"]`);
     if (target) setActive(target);
 
+    setMainPlaying(true);
+
     a.currentTime = 0;
     a.play().catch(() => {
       // may fail if file missing; UI still works
@@ -118,7 +153,14 @@ function render(container, data, jsonUrl) {
     fullBtn.className = 'play-btn';
     fullBtn.textContent = '▶';
     fullBtn.title = 'Play full prayer';
-    fullBtn.addEventListener('click', () => playSegment('full'));
+    mainPlayBtn = fullBtn;
+    fullBtn.addEventListener('click', () => {
+      if (mainPlayBtn && mainPlayBtn.textContent === '⏸') {
+        stopAll();
+      } else {
+        playSegment('full');
+      }
+    });
 
     originalHeading.appendChild(title);
     originalHeading.appendChild(fullBtn);
@@ -135,7 +177,14 @@ function render(container, data, jsonUrl) {
     fullBtn.className = 'play-btn';
     fullBtn.textContent = '▶';
     fullBtn.title = 'Play full prayer';
-    fullBtn.addEventListener('click', () => playSegment('full'));
+    mainPlayBtn = fullBtn;
+    fullBtn.addEventListener('click', () => {
+      if (mainPlayBtn && mainPlayBtn.textContent === '⏸') {
+        stopAll();
+      } else {
+        playSegment('full');
+      }
+    });
 
     header.appendChild(title);
     header.appendChild(fullBtn);
