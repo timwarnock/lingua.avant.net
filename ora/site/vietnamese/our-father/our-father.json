@@ -1,0 +1,57 @@
+{
+  "id": "our-father",
+  "lang": "vietnamese",
+  "title": "Kinh Lạy Cha",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Lạy Cha chúng con ở trên trời,", "phonetic": "Lạy Cha chúng con ở trên trời," },
+        { "passage_segment_id": "1b", "text": "chúng con nguyện Danh Cha cả sáng;", "phonetic": "chúng con nguyện Danh Cha cả sáng;" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "nước Cha trị đến,", "phonetic": "nước Cha trị đến," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "ý Cha thể hiện dưới đất cũng như trên trời.", "phonetic": "ý Cha thể hiện dưới đất cũng như trên trời." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,", "phonetic": "Xin Cha cho chúng con hôm nay lương thực hàng ngày," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "và tha nợ chúng con,", "phonetic": "và tha nợ chúng con," },
+        { "passage_segment_id": "5b", "text": "như chúng con cũng tha kẻ có nợ chúng con,", "phonetic": "như chúng con cũng tha kẻ có nợ chúng con," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "xin chớ để chúng con sa chước cám dỗ,", "phonetic": "xin chớ để chúng con sa chước cám dỗ," },
+        { "passage_segment_id": "6b", "text": "nhưng cứu chúng con cho khỏi sự dữ.", "phonetic": "nhưng cứu chúng con cho khỏi sự dữ." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

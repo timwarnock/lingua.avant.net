@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "chinese",
+  "title": "聖母經",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "萬福瑪利亞，", "phonetic": "Wàn fú Mǎ lì yà," },
+        { "passage_segment_id": "1b", "text": "妳充滿聖寵。", "phonetic": "Nǐ chōng mǎn shèng chǒng." },
+        { "passage_segment_id": "1c", "text": "主與妳同在。", "phonetic": "Zhǔ yǔ nǐ tóng zài." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "妳在婦女中受讚頌，", "phonetic": "Nǐ zài fù nǚ zhōng shòu zàn sòng," },
+        { "passage_segment_id": "2b", "text": "妳的親子耶穌", "phonetic": "Nǐ de qīn zǐ Yē sū" },
+        { "passage_segment_id": "2c", "text": "同受讚頌。", "phonetic": "Tóng shòu zàn sòng." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "天主聖母瑪利亞，", "phonetic": "Tiān zhǔ shèng mǔ Mǎ lì yà," },
+        { "passage_segment_id": "3b", "text": "為我們罪人，", "phonetic": "Wèi wǒ men zuì rén," },
+        { "passage_segment_id": "3c", "text": "求妳祈求天主。", "phonetic": "Qiú nǐ qí qiú tiān zhǔ." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "現在和我們臨終時。", "phonetic": "Xiàn zài hé wǒ men lín zhōng shí." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "阿門。", "phonetic": "Ā men." }
+      ]
+    }
+  ]
+}

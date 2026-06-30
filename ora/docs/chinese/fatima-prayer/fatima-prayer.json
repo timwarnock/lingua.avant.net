@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "chinese",
+  "title": "花地瑪聖母禱詞",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "我的耶穌，", "phonetic": "Wǒ de Yē sū," },
+        { "passage_segment_id": "1b", "text": "請寬恕我們的罪過，", "phonetic": "qǐng kuān shù wǒ men de zuì guò," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "救我們免地獄永火。", "phonetic": "jiù wǒ men miǎn dì yù yǒng huǒ." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "求祢把眾人的靈魂，", "phonetic": "qiú nǐ bǎ zhòng rén de líng hún," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "特別是那些最需要祢憐憫的靈魂，領到天國裏去。", "phonetic": "tè bié shì nà xiē zuì xū yào nǐ lián mǐn de líng hún, lǐng dào tiān guó lǐ qù." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    }
+  ]
+}

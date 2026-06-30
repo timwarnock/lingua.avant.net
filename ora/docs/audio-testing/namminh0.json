@@ -1,0 +1,20 @@
+{
+  "id": "namminh0",
+  "lang": "test",
+  "title": "vi-VN-NamMinhNeural 0%",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Kính mừng Maria,", "phonetic": "Kính mừng Maria," },
+        { "passage_segment_id": "1b", "text": "đầy ơn phúc,", "phonetic": "đầy ơn phúc," },
+        { "passage_segment_id": "1c", "text": "Đức Chúa Trời ở cùng Bà.", "phonetic": "Đức Chúa Trời ở cùng Bà." }
+      ]
+    }
+  ]
+}

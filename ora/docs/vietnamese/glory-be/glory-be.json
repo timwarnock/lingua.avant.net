@@ -1,0 +1,35 @@
+{
+  "id": "glory-be",
+  "lang": "vietnamese",
+  "title": "Kinh Sáng Danh",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Sáng danh Đức Chúa Cha,", "phonetic": "Sáng danh Đức Chúa Cha," },
+        { "passage_segment_id": "1b", "text": "và Đức Chúa Con,", "phonetic": "và Đức Chúa Con," },
+        { "passage_segment_id": "1c", "text": "và Đức Chúa Thánh Thần.", "phonetic": "và Đức Chúa Thánh Thần." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Như đã có trước vô cùng,", "phonetic": "Như đã có trước vô cùng," },
+        { "passage_segment_id": "2b", "text": "và bây giờ,", "phonetic": "và bây giờ," },
+        { "passage_segment_id": "2c", "text": "và hằng có,", "phonetic": "và hằng có," },
+        { "passage_segment_id": "2d", "text": "và đời đời chẳng cùng.", "phonetic": "và đời đời chẳng cùng." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "rosary-prayer",
+  "lang": "chinese",
+  "title": "玫瑰經禱文",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "請大家祈禱。", "phonetic": "Qǐng dà jiā qí dǎo." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "天主，", "phonetic": "Tiān zhǔ," },
+        { "passage_segment_id": "2b", "text": "祢的獨生子藉著他的生、死和復活，", "phonetic": "nǐ de dú shēng zǐ jí zhe tā de shēng, sǐ hé fù huó," },
+        { "passage_segment_id": "2c", "text": "給我們贏得了永生的賞報；", "phonetic": "gěi wǒ men yíng dé le yǒng shēng de shǎng bào;" },
+        { "passage_segment_id": "2d", "text": "求祢賞賜我們，", "phonetic": "qiú nǐ shǎng cì wǒ men," },
+        { "passage_segment_id": "2e", "text": "當我們默想聖母玫瑰經的奧蹟時，", "phonetic": "dāng wǒ men mò xiǎng shèng mǔ méi guī jīng de ào jī shí," },
+        { "passage_segment_id": "2f", "text": "能夠效法這些奧蹟的內容，", "phonetic": "néng gòu xiào fǎ zhè xiē ào jī de nèi róng," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "並獲得它們所許諾的恩寵。", "phonetic": "bìng huò dé tā men suǒ xǔ nuò de ēn chǒng." },
+        { "passage_segment_id": "3b", "text": "因我們的主基督。", "phonetic": "yīn wǒ men de zhǔ Jī dū." },
+        { "passage_segment_id": "3c", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "耶穌聖心，", "phonetic": "Yē sū shèng xīn," },
+        { "passage_segment_id": "4b", "text": "求祢垂憐我們。", "phonetic": "qiú nǐ chuí lián wǒ men." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "瑪利亞無玷聖心，", "phonetic": "Mǎ lì yà wú diàn shèng xīn," },
+        { "passage_segment_id": "5b", "text": "為我們祈禱。", "phonetic": "wèi wǒ men qí dǎo." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "耶穌聖心，", "phonetic": "Yē sū shèng xīn," },
+        { "passage_segment_id": "7b", "text": "求祢垂憐我們。", "phonetic": "qiú nǐ chuí lián wǒ men." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "瑪利亞無玷聖心，", "phonetic": "Mǎ lì yà wú diàn shèng xīn," },
+        { "passage_segment_id": "8b", "text": "為我們祈禱。", "phonetic": "wèi wǒ men qí dǎo." }
+      ]
+    }
+  ]
+}

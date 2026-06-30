@@ -1,0 +1,95 @@
+{
+  "id": "apostles-creed",
+  "lang": "vietnamese",
+  "title": "Kinh Tin Kính",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Tôi tin kính Đức Chúa Trời,", "phonetic": "Tôi tin kính Đức Chúa Trời," },
+        { "passage_segment_id": "1b", "text": "là Cha phép tắc vô cùng,", "phonetic": "là Cha phép tắc vô cùng," },
+        { "passage_segment_id": "1c", "text": "dựng nên trời đất.", "phonetic": "dựng nên trời đất." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Tôi tin kính Đức Chúa Giê-su Ki-tô,", "phonetic": "Tôi tin kính Đức Chúa Giê-su Ki-tô," },
+        { "passage_segment_id": "2b", "text": "là Con Một Đức Chúa Cha,", "phonetic": "là Con Một Đức Chúa Cha," },
+        { "passage_segment_id": "2c", "text": "cùng là Chúa chúng tôi.", "phonetic": "cùng là Chúa chúng tôi." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Bởi phép Đức Chúa Thánh Thần mà Người xuống thai,", "phonetic": "Bởi phép Đức Chúa Thánh Thần mà Người xuống thai," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "sinh bởi Bà Ma-ri-a đồng trinh,", "phonetic": "sinh bởi Bà Ma-ri-a đồng trinh," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "chịu nạn đời quan Phong-xi-ô Phi-la-tô,", "phonetic": "chịu nạn đời quan Phong-xi-ô Phi-la-tô," },
+        { "passage_segment_id": "5b", "text": "chịu đóng đinh trên cây Thánh Giá,", "phonetic": "chịu đóng đinh trên cây Thánh Giá," },
+        { "passage_segment_id": "5c", "text": "chết và táng xác,", "phonetic": "chết và táng xác," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "xuống ngục tổ tông,", "phonetic": "xuống ngục tổ tông," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "ngày thứ ba bởi trong kẻ chết mà sống lại,", "phonetic": "ngày thứ ba bởi trong kẻ chết mà sống lại," }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng,", "phonetic": "lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng," }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        { "passage_segment_id": "9a", "text": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.", "phonetic": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết." }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        { "passage_segment_id": "10a", "text": "Tôi tin kính Đức Chúa Thánh Thần,", "phonetic": "Tôi tin kính Đức Chúa Thánh Thần," }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        { "passage_segment_id": "11a", "text": "Tôi tin có Hội Thánh hằng có ở khắp thế này,", "phonetic": "Tôi tin có Hội Thánh hằng có ở khắp thế này," },
+        { "passage_segment_id": "11b", "text": "các Thánh thông công,", "phonetic": "các Thánh thông công," },
+        { "passage_segment_id": "11c", "text": "tôi tin phép tha tội,", "phonetic": "tôi tin phép tha tội," },
+        { "passage_segment_id": "11d", "text": "tôi tin xác loài người ngày sau sống lại,", "phonetic": "tôi tin xác loài người ngày sau sống lại," },
+        { "passage_segment_id": "11e", "text": "tôi tin", "phonetic": "tôi tin" },
+        { "passage_segment_id": "11f", "text": "hằng sống vậy.", "phonetic": "hằng sống vậy." }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

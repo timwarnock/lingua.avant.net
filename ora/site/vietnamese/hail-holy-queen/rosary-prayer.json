@@ -1,0 +1,70 @@
+{
+  "id": "rosary-prayer",
+  "lang": "vietnamese",
+  "title": "Lời Nguyện Mân Côi",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Chúng ta hãy cầu nguyện.", "phonetic": "Chúng ta hãy cầu nguyện." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Lạy Chúa,", "phonetic": "Lạy Chúa," },
+        { "passage_segment_id": "2b", "text": "Chúa đã dùng Con Một Chúa là Đức Giêsu Kitô,", "phonetic": "Chúa đã dùng Con Một Chúa là Đức Giê-su Ki-tô," },
+        { "passage_segment_id": "2c", "text": "nhờ sự sống,", "phonetic": "nhờ sự sống," },
+        { "passage_segment_id": "2d", "text": "sự chết và sự sống lại của Người,", "phonetic": "sự chết và sự sống lại của Người," },
+        { "passage_segment_id": "2e", "text": "đã mua chuộc cho chúng con", "phonetic": "đã mua chuộc cho chúng con" },
+        { "passage_segment_id": "2f", "text": "phần thưởng sự sống đời đời;", "phonetic": "phần thưởng sự sống đời đời;" }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "xin cho chúng con,", "phonetic": "xin cho chúng con," },
+        { "passage_segment_id": "3b", "text": "khi suy gẫm những mầu nhiệm", "phonetic": "khi suy gẫm những mầu nhiệm" },
+        { "passage_segment_id": "3c", "text": "Rất Thánh Mân Côi của Đức Trinh Nữ Maria,", "phonetic": "Rất Thánh Mân Côi của Đức Trinh Nữ Maria," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "được bắt chước những điều chúng chứa đựng", "phonetic": "được bắt chước những điều chúng chứa đựng" },
+        { "passage_segment_id": "4b", "text": "và được lãnh nhận những điều chúng hứa ban,", "phonetic": "và được lãnh nhận những điều chúng hứa ban," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "nhờ Đức Kitô Chúa chúng con.", "phonetic": "nhờ Đức Kitô Chúa chúng con." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Trái Tim Cực Thánh Đức Chúa Giêsu,", "phonetic": "Trái Tim Cực Thánh Đức Chúa Giê-su," },
+        { "passage_segment_id": "7b", "text": "xin thương xót chúng con.", "phonetic": "xin thương xót chúng con." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Trái Tim Vô Nhiễm Đức Mẹ Maria,", "phonetic": "Trái Tim Vô Nhiễm Đức Mẹ Maria," },
+        { "passage_segment_id": "8b", "text": "xin cầu cho chúng con.", "phonetic": "xin cầu cho chúng con." }
+      ]
+    }
+  ]
+}

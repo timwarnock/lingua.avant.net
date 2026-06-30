@@ -1,0 +1,48 @@
+{
+  "id": "hail-mary",
+  "lang": "vietnamese",
+  "title": "Kinh Kính Mừng",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Kính mừng Maria,", "phonetic": "Kính mừng Maria," },
+        { "passage_segment_id": "1b", "text": "đầy ơn phúc,", "phonetic": "đầy ơn phúc," },
+        { "passage_segment_id": "1c", "text": "Đức Chúa Trời ở cùng Bà.", "phonetic": "Đức Chúa Trời ở cùng Bà." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Bà có phúc lạ hơn mọi người nữ,", "phonetic": "Bà có phúc lạ hơn mọi người nữ," },
+        { "passage_segment_id": "2b", "text": "và Giêsu", "phonetic": "và Giê-su" },
+        { "passage_segment_id": "2c", "text": "con lòng Bà gồm phúc lạ.", "phonetic": "con lòng Bà gồm phúc lạ." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Thánh Maria,", "phonetic": "Thánh Maria," },
+        { "passage_segment_id": "3b", "text": "Đức Mẹ Chúa Trời,", "phonetic": "Đức Mẹ Chúa Trời," },
+        { "passage_segment_id": "3c", "text": "cầu cho chúng con là kẻ có tội,", "phonetic": "cầu cho chúng con là kẻ có tội," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "khi nay và trong giờ lâm tử.", "phonetic": "khi nay và trong giờ lâm tử." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

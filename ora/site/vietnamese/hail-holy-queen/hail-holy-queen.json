@@ -1,0 +1,75 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "vietnamese",
+  "title": "Kinh Lạy Nữ Vương",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Lạy Nữ Vương,", "phonetic": "Lạy Nữ Vương," },
+        { "passage_segment_id": "1b", "text": "Mẹ nhân lành,", "phonetic": "Mẹ nhân lành," },
+        { "passage_segment_id": "1c", "text": "làm cho chúng con được sống,", "phonetic": "làm cho chúng con được sống," },
+        { "passage_segment_id": "1d", "text": "được vui,", "phonetic": "được vui," },
+        { "passage_segment_id": "1e", "text": "được cậy, thân lạy Mẹ.", "phonetic": "được cậy, thân lạy Mẹ." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Chúng con, con cháu E-và,", "phonetic": "Chúng con, con cháu E-và," },
+        { "passage_segment_id": "2b", "text": "ở chốn khách đầy, kêu đến cùng Bà.", "phonetic": "ở chốn khách đầy, kêu đến cùng Bà." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "Chúng con ở nơi khóc lóc than thở,", "phonetic": "Chúng con ở nơi khóc lóc than thở," },
+        { "passage_segment_id": "3b", "text": "kêu khẩn Bà thương.", "phonetic": "kêu khẩn Bà thương." },
+        { "passage_segment_id": "3c", "text": "Hỡi ôi!", "phonetic": "Hỡi ôi!" }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "Bà là Chúa bầu chúng con,", "phonetic": "Bà là Chúa bầu chúng con," },
+        { "passage_segment_id": "4b", "text": "xin ghé mặt thương", "phonetic": "xin ghé mặt thương" },
+        { "passage_segment_id": "4c", "text": "xem chúng con.", "phonetic": "xem chúng con." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Đến sau khỏi đày,", "phonetic": "Đến sau khỏi đày," },
+        { "passage_segment_id": "5b", "text": "xin cho chúng con được thấy", "phonetic": "xin cho chúng con được thấy" },
+        { "passage_segment_id": "5c", "text": "Đức Chúa Giêsu,", "phonetic": "Đức Chúa Giê-su," },
+        { "passage_segment_id": "5d", "text": "Con lòng Bà gồm phúc lạ.", "phonetic": "Con lòng Bà gồm phúc lạ." }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "Ôi khoan thay!", "phonetic": "Ôi khoan thay!" },
+        { "passage_segment_id": "6b", "text": "Nhân thay!", "phonetic": "Nhân thay!" },
+        { "passage_segment_id": "6c", "text": "Dịu thay! Thánh Maria trọn đời đồng trinh.", "phonetic": "Dịu thay! Thánh Maria trọn đời đồng trinh." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "Thánh Maria, Đức Mẹ Chúa Trời,", "phonetic": "Thánh Maria, Đức Mẹ Chúa Trời," },
+        { "passage_segment_id": "7b", "text": "cầu cho chúng con là kẻ có tội.", "phonetic": "cầu cho chúng con là kẻ có tội." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "Để chúng con đáng được những lời hứa của Đức Kitô.", "phonetic": "Để chúng con đáng được những lời hứa của Đức Kitô." }
+      ]
+    }
+  ]
+}

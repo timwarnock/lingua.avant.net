@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "chinese",
+  "title": "聖號經",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "因父", "phonetic": "Yīn fù" },
+        { "passage_segment_id": "1b", "text": "及子", "phonetic": "jí zǐ" },
+        { "passage_segment_id": "1c", "text": "及聖神之名。", "phonetic": "jí shèng shén zhī míng." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    }
+  ]
+}

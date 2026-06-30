@@ -1,0 +1,26 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "vietnamese",
+  "title": "Dấu Thánh Giá",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Nhân danh Cha,", "phonetic": "Nhân danh Cha," },
+        { "passage_segment_id": "1b", "text": "và Con,", "phonetic": "và Con," },
+        { "passage_segment_id": "1c", "text": "và Thánh Thần.", "phonetic": "và Thánh Thần." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

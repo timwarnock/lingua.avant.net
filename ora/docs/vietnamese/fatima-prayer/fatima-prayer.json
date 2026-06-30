@@ -1,0 +1,43 @@
+{
+  "id": "fatima-prayer",
+  "lang": "vietnamese",
+  "title": "Lời Nguyện Fatima",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "Lạy Chúa Giêsu,", "phonetic": "Lạy Chúa Giê-su," },
+        { "passage_segment_id": "1b", "text": "xin tha tội chúng con,", "phonetic": "xin tha tội chúng con," }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "xin cứu chúng con khỏi lửa hỏa ngục,", "phonetic": "xin cứu chúng con khỏi lửa hỏa ngục," }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "xin đưa các linh hồn lên thiên đàng,", "phonetic": "xin đưa các linh hồn lên thiên đàng," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "nhất là những linh hồn cần đến lòng thương xót của Chúa hơn hết.", "phonetic": "nhất là những linh hồn cần đến lòng thương xót của Chúa hơn hết." }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+      ]
+    }
+  ]
+}

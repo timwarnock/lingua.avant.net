@@ -1,0 +1,75 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "chinese",
+  "title": "又聖母經",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "母后萬福！", "phonetic": "Mǔ hòu wàn fú!" },
+        { "passage_segment_id": "1b", "text": "仁慈的母親，", "phonetic": "rén cí de mǔ qīn," },
+        { "passage_segment_id": "1c", "text": "我們的生命，", "phonetic": "wǒ men de shēng mìng," },
+        { "passage_segment_id": "1d", "text": "我們的甘貽，", "phonetic": "wǒ men de gān yí," },
+        { "passage_segment_id": "1e", "text": "我們的希望。", "phonetic": "wǒ men de xī wàng." }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "厄娃子孫，在此塵世，", "phonetic": "È wá zǐ sūn, zài cǐ chén shì," },
+        { "passage_segment_id": "2b", "text": "向妳哀呼。", "phonetic": "xiàng nǐ āi hū." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "在這涕泣之谷，", "phonetic": "Zài zhè tì qì zhī gǔ," },
+        { "passage_segment_id": "3b", "text": "向妳歎息哭求。", "phonetic": "xiàng nǐ tàn xī kū qiú." },
+        { "passage_segment_id": "3c", "text": "我們的主保，", "phonetic": "wǒ men de zhǔ bǎo," }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "求妳回顧，", "phonetic": "Qiú nǐ huí gù," },
+        { "passage_segment_id": "4b", "text": "憐視我們。", "phonetic": "lián shì wǒ men." },
+        { "passage_segment_id": "4c", "text": "一旦流亡期滿，", "phonetic": "yī dàn liú wáng qī mǎn," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "使我們得見妳的聖子、", "phonetic": "Shǐ wǒ men dé jiàn nǐ de shèng zǐ," },
+        { "passage_segment_id": "5b", "text": "萬民稱頌的耶穌。", "phonetic": "wàn mín chēng sòng de Yē sū." },
+        { "passage_segment_id": "5c", "text": "童貞瑪利亞，", "phonetic": "tóng zhēn Mǎ lì yà," },
+        { "passage_segment_id": "5d", "text": "妳是寬仁的、", "phonetic": "nǐ shì kuān rén de," }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "慈悲的、", "phonetic": "cí bēi de," },
+        { "passage_segment_id": "6b", "text": "甘飴的。", "phonetic": "gān yí de." },
+        { "passage_segment_id": "6c", "text": "天主聖母，", "phonetic": "tiān zhǔ shèng mǔ," }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "請為我們祈求，", "phonetic": "Qǐng wèi wǒ men qí qiú," },
+        { "passage_segment_id": "7b", "text": "使我們堪受基督的恩許。", "phonetic": "shǐ wǒ men kān shòu Jī dū de ēn xǔ." }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        { "passage_segment_id": "8a", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    }
+  ]
+}

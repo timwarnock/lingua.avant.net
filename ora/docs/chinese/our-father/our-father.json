@@ -1,0 +1,58 @@
+{
+  "id": "our-father",
+  "lang": "chinese",
+  "title": "天主經",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "我們的天父，", "phonetic": "Wǒ men de tiān fù," },
+        { "passage_segment_id": "1b", "text": "願祢的名受顯揚；", "phonetic": "yuàn nǐ de míng shòu xiǎn yáng;" },
+        { "passage_segment_id": "1c", "text": "願祢的國來臨；", "phonetic": "yuàn nǐ de guó lái lín;" }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        { "passage_segment_id": "2a", "text": "願祢的旨意奉行在人間，如同在天上。", "phonetic": "yuàn nǐ de zhǐ yì fèng xíng zài rén jiān, rú tóng zài tiān shàng." }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        { "passage_segment_id": "3a", "text": "求祢今天賞給我們日用的食糧；", "phonetic": "qiú nǐ jīn tiān shǎng gěi wǒ men rì yòng de shí liáng;" }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        { "passage_segment_id": "4a", "text": "求祢寬恕我們的罪過，", "phonetic": "qiú nǐ kuān shù wǒ men de zuì guò," }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        { "passage_segment_id": "5a", "text": "如同我們寬恕別人一樣；", "phonetic": "rú tóng wǒ men kuān shù bié rén yī yàng;" },
+        { "passage_segment_id": "5b", "text": "不要讓我們陷於誘惑；", "phonetic": "bù yào ràng wǒ men xiàn yú yòu huò;" }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        { "passage_segment_id": "6a", "text": "但救我們", "phonetic": "dàn jiù wǒ men" },
+        { "passage_segment_id": "6b", "text": "免於凶惡。", "phonetic": "miǎn yú xiōng è." }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        { "passage_segment_id": "7a", "text": "阿們。", "phonetic": "Ā men." }
+      ]
+    }
+  ]
+}
