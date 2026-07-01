@@ -79,7 +79,3 @@ Segments may not match exactly due to grammatic and linguistic differences betwe
 + make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
 + similarly, language selection foolproof, a single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
 
-+ Top-level (home page) app (mobile friendly) for multi-lingual rosary (choose a language, see rosary prayers, switch languages easily, with audio and per-passage prayer formatting).
-++ consolidate prayer.mjs so that we have a single mjs and not two seemingly duplicated packages. That is, every language page can probably use the same functionality as dual-prayer.mjs (just needs to lock in the primary and secondary language settings and the prayer, and display only what is needed on the prayer pages). The prayer pages can be a proper subset of functionality, and we should unify the UX, the dual-prayer UX seems better for this and can be applied to all prayer pages across languages.
-
-

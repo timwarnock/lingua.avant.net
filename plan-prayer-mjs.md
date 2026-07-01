@@ -211,9 +211,8 @@ Amen is placed in its own final passage (for better readability in the UI). The 
 
 ## UX (as implemented)
 
-- Title area has a small play button → plays the full prayer.
-- Each passage shows its segments.
-- Main passage lines use the proper "text" (display form). Phonetic pronunciation chunks (using "phonetic") are shown below and are clickable to play their audio segment.
+- Locked (per-prayer pages): Title (repurposed H1/H2) + play button for full prayer. Each passage has two lines using dual-line style: primary shows "text", secondary shows "phonetic". Play buttons per passage and per segment (clickable chunks). Same data source.
+- Full (home): Language selects + mode toggles (text/phonetic) per side, swap, prayer dropdown with bilingual titles, dual side-by-side passages.
 - Light visual highlight on the currently playing unit.
 - Very minimal buttons. The content itself is the main interaction surface.
 - Designed to be mobile-friendly and non-intrusive.
@@ -222,10 +221,18 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 
 ## Implementation Files
 
-- `ora/docs/assets/prayer.mjs` — the player logic (auto-inits on `.prayer-interactive` elements; derives audio filenames from structure)
-- `ora/docs/stylesheets/extra.css` — minimal supporting styles (`.prayer-interactive`, `.play-btn`, `.prayer-chunk`, `.playing`, etc.)
+- `ora/docs/assets/prayer.mjs` — unified player module with `createApp(container, opts = {})`:
+  - Locked mode (triggered by `opts.jsonPath` or `data-json`): for per-prayer pages and audio-testing. Loads sibling JSON; forces text (primary) + phonetic (secondary) dual-line view from same data; no choosers; supports heading repurposing (H1/H2) + hides `.prayer-fallback`.
+  - Full mode (no json): for home page (and explicit cases). Supports lang/prayer choosers, swap, per-side modes when flags enabled. Hard-codes sensible defaults + choosers=true for the home `#dual-rosary`.
+  - Auto-init supports legacy (`.prayer-interactive`, `#dual-rosary`) + `.prayer-app` for zero markdown changes.
+  - Always uses dual-line viewer style for locked (text primary + phonetic secondary lines with per-passage/segment play).
+  - PRAYERS and LANGS registries only when choosers active.
+  - Audio co-located with JSON; derives from id + passage/segment ids.
+- `ora/docs/stylesheets/extra.css` — styles for `.prayer-interactive`, `.dual-*` (langbar, viewer, lines, segs, play), `.play-btn`, `.playing`, etc.
 - `ora/zensical.toml` — lists `assets/prayer.mjs` in `extra_javascript`
 - Per-prayer JSON (passages + segments define everything; no audio map) + generated MP3s in the companion folder
+
+(The prior separate dual-prayer logic was consolidated into the single module.)
 
 ## How to Add Content
 
@@ -243,17 +250,18 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 3. Copy the exact passage_ids from the English version of that prayer (English is the source of truth for the structure). Provide the language-specific "text" and "phonetic" for each segment, following the alignment rule in Core Concepts.
 4. Run `audio-utils/generate-rosary-audio.py` with the appropriate voice for that language (respecting tts.input). Tune "phonetic" values using the respelling steps in the dedicated section above.
 
-## Pilot Status (as of 2026-06-28)
+## Pilot Status (as of 2026-06-30)
 - English Hail Mary is implemented as the reference (structure and phonetics).
 - Audio is generated with Microsoft Edge TTS (see `audio-utils/`).
 - Other languages follow the passage and segment structure from the corresponding English JSON.
 - Static text is preserved inside `.prayer-fallback` (hidden on successful player render).
+- Unified single `prayer.mjs` (createApp with locked/full modes) now powers all pages + home; prior dual module consolidated and removed.
 - Audio generation tooling lives in `audio-utils/` (outside the Zensical `ora/` tree).
 
 ## Future Work (from original TODOs)
 - Enhance all rosary prayers with this structure.
 - Add audio for the entire set of prayers.
-- Build the top-level multi-lingual rosary app on the home page that can switch languages while using the same JSON-driven passages.
+- (Home multi-lingual rosary now uses the full mode of unified player; can evolve further.)
 
 ## Notes for Future Sessions
 - English defines the passage_ids and segment structure for each prayer. Other languages follow the alignment rule in Core Concepts. passage_segment_id values (e.g. "1a", "1b") are unique within a prayer. Segments within a passage use a, b, c... letters.
@@ -274,3 +282,5 @@ This document (plan-prayer-mjs.md) should be kept up to date as the implementati
 "phonetic" = pronunciation form for TTS input + clickable chunks (may differ from text for correct liturgical audio and learning).  
 
 Follow the "Actionable Steps for Phonetic Spellings with edge-tts" section for respelling techniques when tuning English (the reference). Any prior notes suggesting text and phonetic must match or that adjustments go in "text" have been removed.
+
+The player JS is now a single unified module (createApp with locked mode for prayer pages using dual-line text/phonetic, full mode for home).
