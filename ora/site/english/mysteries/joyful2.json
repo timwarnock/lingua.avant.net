@@ -1,0 +1,18 @@
+{
+  "id": "joyful2",
+  "lang": "english",
+  "title": "The Second Joyful Mystery, the Visitation",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "The Second Joyful Mystery, the Visitation.", "phonetic": "The Second Joyful Mystery, the Visitation." }
+      ]
+    }
+  ]
+}

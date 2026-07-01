@@ -1,0 +1,18 @@
+{
+  "id": "luminous5",
+  "lang": "english",
+  "title": "The Fifth Luminous Mystery, the Institution of the Eucharist",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "The Fifth Luminous Mystery, the Institution of the Eucharist.", "phonetic": "The Fifth Luminous Mystery, the Institution of the Eucharist." }
+      ]
+    }
+  ]
+}

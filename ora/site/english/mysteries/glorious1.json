@@ -1,0 +1,18 @@
+{
+  "id": "glorious1",
+  "lang": "english",
+  "title": "The First Glorious Mystery, the Resurrection",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "The First Glorious Mystery, the Resurrection.", "phonetic": "The First Glorious Mystery, the Resurrection." }
+      ]
+    }
+  ]
+}

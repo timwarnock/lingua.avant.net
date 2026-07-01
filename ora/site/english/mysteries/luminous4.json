@@ -1,0 +1,18 @@
+{
+  "id": "luminous4",
+  "lang": "english",
+  "title": "The Fourth Luminous Mystery, the Transfiguration",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "The Fourth Luminous Mystery, the Transfiguration.", "phonetic": "The Fourth Luminous Mystery, the Transfiguration." }
+      ]
+    }
+  ]
+}

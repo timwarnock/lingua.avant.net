@@ -1,0 +1,18 @@
+{
+  "id": "glorious5",
+  "lang": "english",
+  "title": "The Fifth Glorious Mystery, the Coronation of Mary",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        { "passage_segment_id": "1a", "text": "The Fifth Glorious Mystery, the Coronation of Mary.", "phonetic": "The Fifth Glorious Mystery, the Coronation of Mary." }
+      ]
+    }
+  ]
+}
