@@ -59,6 +59,10 @@ function createApp(container, opts = {}) {
   const audioMap = {};
   let mainPlayBtn = null;
   let activeEl = null;
+  let loadedData = null;
+  let currentViewer = null;
+  let primaryToggleBtn = null;
+  let secondaryToggleBtn = null;
 
   function audioKey(tag, key) {
     return `${tag || 'local'}:${key}`;
@@ -170,6 +174,9 @@ function createApp(container, opts = {}) {
     container.innerHTML = '';
     mainPlayBtn = null;
     activeEl = null;
+    currentViewer = null;
+    primaryToggleBtn = null;
+    secondaryToggleBtn = null;
     if (locked) {
       renderLocked();
     } else {
@@ -254,79 +261,118 @@ function createApp(container, opts = {}) {
     document.querySelectorAll('.prayer-fallback').forEach(el => el.style.display = 'none');
   }
 
+  function buildDualPassages(psgs1, psgs2, base1, base2, lang1, lang2, mode1, mode2, pid) {
+    const wrap = document.createElement('div');
+    wrap.className = 'prayer-passages dual-passages';
+
+    psgs1.forEach((p, i) => {
+      const sp = psgs2[i] || p;
+      const ps = String(p.passage_id);
+      const el = document.createElement('div');
+      el.className = 'prayer-passage';
+
+      // primary line
+      const lp = document.createElement('div');
+      lp.className = 'dual-line primary';
+      const bp = document.createElement('button');
+      bp.className = 'dual-play';
+      bp.textContent = '▶';
+      bp.title = 'Play passage (primary)';
+      lp.appendChild(bp);
+      const tp1 = document.createElement('span');
+      tp1.className = 'dual-text primary-text';
+      (p.segments || []).forEach((s, j) => {
+        const seg = document.createElement('span');
+        seg.className = 'dual-seg';
+        seg.textContent = (mode1 === 'text' ? (s.text || '') : (s.phonetic || ''));
+        seg.dataset.sid = s.passage_segment_id;
+        const sid = s.passage_segment_id;
+        seg.addEventListener('click', () => play(lang1, sid, base1, pid, seg));
+        tp1.appendChild(seg);
+        if (j < (p.segments || []).length - 1) tp1.appendChild(document.createTextNode(' '));
+      });
+      lp.appendChild(tp1);
+      bp.addEventListener('click', () => play(lang1, ps, base1, pid, tp1));
+      tp1.addEventListener('click', e => {
+        if (e.target.classList.contains('dual-seg')) return;
+        play(lang1, ps, base1, pid, tp1);
+      });
+
+      // secondary line
+      const ls = document.createElement('div');
+      ls.className = 'dual-line secondary';
+      const bs = document.createElement('button');
+      bs.className = 'dual-play';
+      bs.textContent = '▶';
+      bs.title = 'Play passage (secondary)';
+      ls.appendChild(bs);
+      const tp2 = document.createElement('span');
+      tp2.className = 'dual-text secondary-text';
+      (sp.segments || []).forEach((s, j) => {
+        const seg = document.createElement('span');
+        seg.className = 'dual-seg';
+        seg.textContent = (mode2 === 'text' ? (s.text || '') : (s.phonetic || ''));
+        seg.dataset.sid = s.passage_segment_id;
+        const sid = s.passage_segment_id;
+        seg.addEventListener('click', () => play(lang2, sid, base2, pid, seg));
+        tp2.appendChild(seg);
+        if (j < (sp.segments || []).length - 1) tp2.appendChild(document.createTextNode(' '));
+      });
+      ls.appendChild(tp2);
+      bs.addEventListener('click', () => play(lang2, ps, base2, pid, bs));
+      tp2.addEventListener('click', e => {
+        if (e.target.classList.contains('dual-seg')) return;
+        play(lang2, ps, base2, pid, tp2);
+      });
+
+      el.appendChild(lp);
+      el.appendChild(ls);
+      wrap.appendChild(el);
+    });
+
+    return wrap;
+  }
+
   function renderLockedLines(cont, data, base, pid) {
     const view = document.createElement('div');
     view.className = 'dual-viewer';
     cont.appendChild(view);
 
-    const wrap = document.createElement('div');
-    wrap.className = 'prayer-passages dual-passages';
-
-    (data.passages || []).forEach(p => {
-      const ps = String(p.passage_id);
-      const el = document.createElement('div');
-      el.className = 'prayer-passage';
-
-      // text line (primary)
-      const l1 = document.createElement('div');
-      l1.className = 'dual-line primary';
-      const b1 = document.createElement('button');
-      b1.className = 'dual-play';
-      b1.textContent = '▶';
-      b1.title = `Play passage ${ps}`;
-      l1.appendChild(b1);
-      const tx1 = document.createElement('span');
-      tx1.className = 'dual-text primary-text';
-      (p.segments || []).forEach((s, i) => {
-        const seg = document.createElement('span');
-        seg.className = 'dual-seg';
-        seg.textContent = s.text || '';
-        seg.dataset.sid = s.passage_segment_id;
-        const sid = s.passage_segment_id;
-        seg.addEventListener('click', () => play('local', sid, base, pid, seg));
-        tx1.appendChild(seg);
-        if (i < (p.segments || []).length - 1) tx1.appendChild(document.createTextNode(' '));
-      });
-      l1.appendChild(tx1);
-      b1.addEventListener('click', () => play('local', ps, base, pid, tx1));
-      tx1.addEventListener('click', e => {
-        if (e.target.classList.contains('dual-seg')) return;
-        play('local', ps, base, pid, tx1);
-      });
-
-      // phonetic line (secondary)
-      const l2 = document.createElement('div');
-      l2.className = 'dual-line secondary';
-      const b2 = document.createElement('button');
-      b2.className = 'dual-play';
-      b2.textContent = '▶';
-      b2.title = `Play passage ${ps} (phonetic)`;
-      l2.appendChild(b2);
-      const tx2 = document.createElement('span');
-      tx2.className = 'dual-text secondary-text';
-      (p.segments || []).forEach((s, i) => {
-        const seg = document.createElement('span');
-        seg.className = 'dual-seg';
-        seg.textContent = s.phonetic || '';
-        seg.dataset.sid = s.passage_segment_id;
-        const sid = s.passage_segment_id;
-        seg.addEventListener('click', () => play('local', sid, base, pid, seg));
-        tx2.appendChild(seg);
-        if (i < (p.segments || []).length - 1) tx2.appendChild(document.createTextNode(' '));
-      });
-      l2.appendChild(tx2);
-      b2.addEventListener('click', () => play('local', ps, base, pid, b2));
-      tx2.addEventListener('click', e => {
-        if (e.target.classList.contains('dual-seg')) return;
-        play('local', ps, base, pid, tx2);
-      });
-
-      el.appendChild(l1);
-      el.appendChild(l2);
-      wrap.appendChild(el);
-    });
-
+    const wrap = buildDualPassages(data.passages, data.passages, base, base, 'local', 'local', 'text', 'phonetic', pid);
     view.appendChild(wrap);
+  }
+
+  function updateModesOnly() {
+    if (!currentViewer || !loadedData) {
+      render();
+      return;
+    }
+    const oldWrap = currentViewer.querySelector('.prayer-passages');
+    if (oldWrap) oldWrap.remove();
+    const newWrap = buildDualPassages(
+      loadedData.d1.passages || [],
+      loadedData.d2.passages || [],
+      loadedData.b1,
+      loadedData.b2,
+      state.primaryLang,
+      state.secondaryLang,
+      state.primaryMode,
+      state.secondaryMode,
+      loadedData.pid
+    );
+    currentViewer.appendChild(newWrap);
+
+    // sync toggle visuals (since we didn't full re-render the langbar)
+    if (primaryToggleBtn) {
+      const isPh = state.primaryMode === 'phonetic';
+      primaryToggleBtn.className = 'dual-mode-toggle' + (isPh ? ' selected' : '');
+      primaryToggleBtn.title = isPh ? 'Showing phonetic' : 'Showing text';
+    }
+    if (secondaryToggleBtn) {
+      const isPh = state.secondaryMode === 'phonetic';
+      secondaryToggleBtn.className = 'dual-mode-toggle' + (isPh ? ' selected' : '');
+      secondaryToggleBtn.title = isPh ? 'Showing phonetic' : 'Showing text';
+    }
   }
 
   function renderFull() {
@@ -340,12 +386,18 @@ function createApp(container, opts = {}) {
         state.primaryLang = v;
         stopAll();
         resetAudios();
+        loadedData = null;
+        currentViewer = null;
+        primaryToggleBtn = null;
+        secondaryToggleBtn = null;
         render();
       }));
-      pWrap.appendChild(makeModeToggle(state.primaryMode, m => {
+      const tog1 = makeModeToggle(state.primaryMode, m => {
         state.primaryMode = m;
-        render();
-      }));
+        updateModesOnly();
+      });
+      pWrap.appendChild(tog1);
+      primaryToggleBtn = tog1;
 
       const sw = document.createElement('button');
       sw.className = 'dual-swap dual-swap-between';
@@ -368,12 +420,18 @@ function createApp(container, opts = {}) {
         state.secondaryLang = v;
         stopAll();
         resetAudios();
+        loadedData = null;
+        currentViewer = null;
+        primaryToggleBtn = null;
+        secondaryToggleBtn = null;
         render();
       }));
-      sWrap.appendChild(makeModeToggle(state.secondaryMode, m => {
+      const tog2 = makeModeToggle(state.secondaryMode, m => {
         state.secondaryMode = m;
-        render();
-      }));
+        updateModesOnly();
+      });
+      sWrap.appendChild(tog2);
+      secondaryToggleBtn = tog2;
 
       bar.appendChild(pWrap);
       bar.appendChild(sw);
@@ -384,6 +442,7 @@ function createApp(container, opts = {}) {
     const view = document.createElement('div');
     view.className = 'dual-viewer';
     container.appendChild(view);
+    currentViewer = view;
 
     const pid = state.prayerId;
     const pd = getPdef(pid);
@@ -415,6 +474,7 @@ function createApp(container, opts = {}) {
         (p.segments || []).forEach(s => s.passage_segment_id && addAudio(state.secondaryLang, s.passage_segment_id, b2, pid));
       });
 
+      loadedData = {d1: dat1, d2: dat2, b1, b2, pid, t1, t2};
       renderFullViewer(view, dat1, dat2, b1, b2, pid, t1, t2);
     }).catch(() => {
       view.innerHTML = '<em style="opacity:0.6">Unable to load prayer.</em>';
@@ -452,7 +512,12 @@ function createApp(container, opts = {}) {
     svg.setAttribute('class', 'lucide lucide-languages');
     svg.innerHTML = '<path d="m5 8 6 6M4 14l6-6 2-3M2 5h12M7 2h1M22 22l-5-10-5 10M14 18h6"/>';
     btn.appendChild(svg);
-    btn.addEventListener('click', () => onCh(cur === 'text' ? 'phonetic' : 'text'));
+    btn.addEventListener('click', () => {
+      // use live class to compute next (works even if button not recreated on mode updates)
+      const isPhonetic = btn.classList.contains('selected');
+      const next = isPhonetic ? 'text' : 'phonetic';
+      onCh(next);
+    });
     return btn;
   }
 
@@ -553,77 +618,9 @@ function createApp(container, opts = {}) {
     hdr.appendChild(fb);
     view.appendChild(hdr);
 
-    const wrap = document.createElement('div');
-    wrap.className = 'prayer-passages dual-passages';
-
     const ps1 = (d1 && d1.passages) || [];
     const ps2 = (d2 && d2.passages) || [];
-
-    ps1.forEach((p, i) => {
-      const sp = ps2[i] || p;
-      const ps = String(p.passage_id);
-      const el = document.createElement('div');
-      el.className = 'prayer-passage';
-
-      // primary
-      const lp = document.createElement('div');
-      lp.className = 'dual-line primary';
-      const bp = document.createElement('button');
-      bp.className = 'dual-play';
-      bp.textContent = '▶';
-      bp.title = 'Play passage (primary)';
-      lp.appendChild(bp);
-      const tp1 = document.createElement('span');
-      tp1.className = 'dual-text primary-text';
-      (p.segments || []).forEach((s, j) => {
-        const seg = document.createElement('span');
-        seg.className = 'dual-seg';
-        seg.textContent = state.primaryMode === 'text' ? (s.text || '') : (s.phonetic || '');
-        seg.dataset.sid = s.passage_segment_id;
-        const sid = s.passage_segment_id;
-        seg.addEventListener('click', () => play(state.primaryLang, sid, b1, pid, seg));
-        tp1.appendChild(seg);
-        if (j < (p.segments || []).length - 1) tp1.appendChild(document.createTextNode(' '));
-      });
-      lp.appendChild(tp1);
-      bp.addEventListener('click', () => play(state.primaryLang, ps, b1, pid, tp1));
-      tp1.addEventListener('click', e => {
-        if (e.target.classList.contains('dual-seg')) return;
-        play(state.primaryLang, ps, b1, pid, tp1);
-      });
-
-      // secondary
-      const ls = document.createElement('div');
-      ls.className = 'dual-line secondary';
-      const bs = document.createElement('button');
-      bs.className = 'dual-play';
-      bs.textContent = '▶';
-      bs.title = `Play passage ${ps} (secondary)`;
-      ls.appendChild(bs);
-      const tp2 = document.createElement('span');
-      tp2.className = 'dual-text secondary-text';
-      (sp.segments || []).forEach((s, j) => {
-        const seg = document.createElement('span');
-        seg.className = 'dual-seg';
-        seg.textContent = state.secondaryMode === 'text' ? (s.text || '') : (s.phonetic || '');
-        seg.dataset.sid = s.passage_segment_id;
-        const sid = s.passage_segment_id;
-        seg.addEventListener('click', () => play(state.secondaryLang, sid, b2, pid, seg));
-        tp2.appendChild(seg);
-        if (j < (sp.segments || []).length - 1) tp2.appendChild(document.createTextNode(' '));
-      });
-      ls.appendChild(tp2);
-      bs.addEventListener('click', () => play(state.secondaryLang, ps, b2, pid, bs));
-      tp2.addEventListener('click', e => {
-        if (e.target.classList.contains('dual-seg')) return;
-        play(state.secondaryLang, ps, b2, pid, tp2);
-      });
-
-      el.appendChild(lp);
-      el.appendChild(ls);
-      wrap.appendChild(el);
-    });
-
+    const wrap = buildDualPassages(ps1, ps2, b1, b2, state.primaryLang, state.secondaryLang, state.primaryMode, state.secondaryMode, pid);
     view.appendChild(wrap);
   }
 

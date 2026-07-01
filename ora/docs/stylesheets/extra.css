@@ -411,7 +411,6 @@ h2.prayer-with-player {
 }
 
 .prayer-header .play-btn,
-.prayer-line .play-btn,
 h1.prayer-with-player .play-btn,
 h2.prayer-with-player .play-btn {
   font-size: 0.85rem;
@@ -426,13 +425,11 @@ h2.prayer-with-player .play-btn {
 }
 
 .prayer-header .play-btn:hover,
-.prayer-line .play-btn:hover,
 h1.prayer-with-player .play-btn:hover,
 h2.prayer-with-player .play-btn:hover {
   background: rgba(0,0,0,0.04);
 }
 [data-md-color-scheme="slate"] .prayer-header .play-btn:hover,
-[data-md-color-scheme="slate"] .prayer-line .play-btn:hover,
 [data-md-color-scheme="slate"] h1.prayer-with-player .play-btn:hover,
 [data-md-color-scheme="slate"] h2.prayer-with-player .play-btn:hover {
   background: rgba(255,255,255,0.08);
@@ -452,70 +449,6 @@ h2.prayer-with-player .play-btn.playing:hover,
 .prayer-header .play-btn.playing:hover {
   background: #303f8f;
   border-color: #303f8f;
-}
-
-.prayer-line {
-  display: flex;
-  align-items: baseline;
-  gap: 0.4rem;
-  margin: 0.35rem 0 0.1rem;
-  font-size: 1em;
-}
-
-.prayer-text {
-  /* real prayer text at normal size */
-  font-size: 1em;
-}
-
-.prayer-phonetic {
-  cursor: pointer;
-  font-style: italic;
-  opacity: 0.72;
-  font-size: 0.96em;
-}
-
-.prayer-subs {
-  margin-left: 1.8rem;
-  margin-top: 0.1rem;
-  font-size: 0.78rem;
-  opacity: 0.82;
-  font-style: italic;
-  color: var(--md-default-fg-color--light, #555);
-}
-
-[data-md-color-scheme="slate"] .prayer-subs {
-  color: var(--md-default-fg-color--light, #aaa);
-}
-
-.prayer-chunk {
-  cursor: pointer;
-  padding: 0.02em 0.15em;
-  border-radius: 2px;
-  transition: background 80ms ease;
-  border-bottom: 1px dotted currentColor;
-  opacity: 0.9;
-  font-size: inherit;
-  display: inline;
-  margin: 0 0.45rem 0.1rem 0;
-}
-
-.prayer-chunk:hover {
-  background: rgba(64, 81, 181, 0.08);
-  opacity: 1;
-}
-[data-md-color-scheme="slate"] .prayer-chunk:hover {
-  background: rgba(64, 81, 181, 0.18);
-}
-
-.prayer-chunk.playing,
-.prayer-phonetic.playing {
-  background: rgba(64, 81, 181, 0.15);
-  border-radius: 3px;
-  border-bottom-color: transparent;
-}
-[data-md-color-scheme="slate"] .prayer-chunk.playing,
-[data-md-color-scheme="slate"] .prayer-phonetic.playing {
-  background: rgba(64, 81, 181, 0.28);
 }
 
 .prayer-passage {
@@ -559,8 +492,6 @@ h2.prayer-with-player .play-btn.playing:hover,
   align-items: center;
   gap: 0.3rem;
 }
-
-
 
 .dual-lang-select {
   font-size: 0.78rem;
@@ -726,24 +657,6 @@ h2.prayer-with-player .play-btn.playing:hover,
   margin-bottom: 0.4rem;
 }
 
-
-
-/* Make secondary chunks a bit more subtle */
-.prayer-chunk.secondary-chunk {
-  opacity: 0.85;
-  border-bottom-style: dotted;
-}
-
-.prayer-chunk.secondary-chunk:hover {
-  opacity: 1;
-}
-
-/* Natural spacing between segment chunks inside a line */
-.prayer-line .prayer-chunk + .prayer-chunk {
-  margin-left: 0.18em;
-}
-
-/* Playing state already defined on .prayer-chunk and play-btn - reused */
 /* Base styles for dual play buttons (overridden by .dual-line .dual-play) */
 .dual-play {
   font-size: 0.68rem;
@@ -829,10 +742,5 @@ h2.prayer-with-player .play-btn.playing:hover,
   background: rgba(64, 81, 181, 0.08);
   border-radius: 2px;
 }
-
-
-
-
-
 
 

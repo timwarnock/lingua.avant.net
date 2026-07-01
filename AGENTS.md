@@ -35,7 +35,7 @@ Migrated old /v/ content organized directly in language/topic sections under `or
 
 ## Site Organization
 
-Directories and files should use simple English names for all lanuages, e.g. chinese/extras/calligraphy.md and the content title will use proper Chinese (書法), and this means all URLs will follow simple english names, e.g., /ora/site/chinese/extras/calligraphy/ but the content (titles and text) will be in that language.
+Directories and files should use simple English names for all lanuages, e.g. chinese/resources/calligraphy.md and the content title will use proper Chinese (書法), and this means all URLs will follow simple english names, e.g., /ora/site/chinese/extras/calligraphy/ but the content (titles and text) will be in that language.
 
 Each language section should have subsections orgranized around the rosary.
 
@@ -49,9 +49,9 @@ So in English something like:
 + Hail Holy Queen (should also include "Let us pray..." Rosary Prayer)
 
 Every language should have those exact pages, with icon: material/cross
-The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation...", and then links to the specific prayer pages.
+The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation..."
 
-All other non-rosary pages will be in a language specific [ extras ] section, which will map to a subdirectory in that language, e.g., english/extras/
+All other non-rosary pages will be in a language specific [ Resources ] section, which will map to a subdirectory in that language, e.g., english/resources/
 
 
 ## Passages and Segments for audio alignment
@@ -66,7 +66,7 @@ Each passage is broken into segments identified with letters after the passage n
 
 All languages MUST align on passages literally and exactly! The exact meaning for a given passage MUST match across all languages!
 
-Segments may not match exactly due to grammatic and linguistic differences between laguages, but a best effort should be made to match them (such as matching a similar count of segments).
+Segments might not always match exactly due to grammatic and linguistic differences between laguages, but a best effort should be made to match them (such as matching a similar count of segments).
 
 
 ## TODO
