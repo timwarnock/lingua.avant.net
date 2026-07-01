@@ -45,6 +45,7 @@ function createApp(container, opts = {}) {
   const secondaryMode = locked ? 'phonetic' : (opts.secondaryMode || 'text');
   const langChoosers = !locked && (opts.langChoosers !== false);
   const prayerChooser = !locked && (opts.prayerChooser !== false);
+  const embedded = !!opts.embedded;
 
   const state = {
     prayerId: prayer,
@@ -131,6 +132,10 @@ function createApp(container, opts = {}) {
         aa.currentTime = 0;
       }
     });
+    // If rosary player autoplay is active, stop it on any manual play
+    if (typeof window !== 'undefined' && typeof window.stopRosaryAuto === 'function') {
+      window.stopRosaryAuto();
+    }
     clearActive();
     if (targetEl) setActive(targetEl);
     setMainPlaying(true);
@@ -204,14 +209,16 @@ function createApp(container, opts = {}) {
           });
         });
 
-        // Locked always reuses heading + play button (old prayer behavior)
-        doRepurposeHeading(data.title || pid, () => {
-          if (mainPlayBtn && mainPlayBtn.textContent === '⏸') stopAll();
-          else play('local', 'full', base, pid);
-        });
+        if (!embedded) {
+          // Locked always reuses heading + play button (old prayer behavior)
+          doRepurposeHeading(data.title || pid, () => {
+            if (mainPlayBtn && mainPlayBtn.textContent === '⏸') stopAll();
+            else play('local', 'full', base, pid);
+          });
+        }
 
         renderLockedLines(container, data, base, pid);
-        hideFallbacks();
+        if (!embedded) hideFallbacks();
       })
       .catch(err => {
         console.warn('[prayer]', err);
@@ -668,3 +675,7 @@ if (typeof document !== 'undefined') {
 }
 
 export { createApp, PRAYERS, LANGS };
+
+if (typeof window !== 'undefined') {
+  window.createPrayerApp = createApp;
+}

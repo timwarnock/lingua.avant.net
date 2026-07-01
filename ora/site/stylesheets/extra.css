@@ -743,4 +743,118 @@ h2.prayer-with-player .play-btn.playing:hover,
   border-radius: 2px;
 }
 
+/* Rosary player: 7 rows of dots + 3-button controls + viewer (English landing) */
+#rosary-player {
+  margin: 1rem 0 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 4px;
+}
+
+.rosary-indicators {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.rosary-row {
+  display: flex;
+  justify-content: center;
+  margin: 1px 0;
+}
+
+.rosary-dots {
+  display: flex;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+}
+
+.rosary-dot {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  border: 1px solid var(--md-default-fg-color--lighter, #aaa);
+  background: #ccc;
+  padding: 0;
+  cursor: pointer;
+  transition: background 120ms ease, transform 80ms ease;
+}
+
+.rosary-dot.done {
+  background: #d4af37; /* golden yellow */
+  border-color: #b8860b;
+}
+
+.rosary-dot.current {
+  outline: 2px solid #4051b5;
+  outline-offset: 1px;
+  background: #d4af37;
+}
+
+.rosary-dot:hover {
+  transform: scale(1.15);
+}
+
+.rosary-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+
+.rosary-btn {
+  font-size: 0.95rem;
+  line-height: 1;
+  padding: 0.15em 0.45em;
+  border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+  user-select: none;
+  color: inherit;
+}
+
+.rosary-btn:hover {
+  background: rgba(0,0,0,0.04);
+}
+
+[data-md-color-scheme="slate"] .rosary-btn:hover {
+  background: rgba(255,255,255,0.08);
+}
+
+/* Play/pause is the main action - make it much larger and prominent */
+#rosary-play {
+  font-size: 1.9rem;
+  padding: 0.2em 0.55em;
+  border: 2px solid var(--md-primary-fg-color, #4051b5);
+  border-radius: 4px;
+  background: rgba(64, 81, 181, 0.1);
+  font-weight: 600;
+  min-width: 2.2em;
+  text-align: center;
+}
+
+#rosary-play:hover {
+  background: rgba(64, 81, 181, 0.2);
+}
+
+[data-md-color-scheme="slate"] #rosary-play {
+  background: rgba(64, 81, 181, 0.2);
+}
+
+[data-md-color-scheme="slate"] #rosary-play:hover {
+  background: rgba(64, 81, 181, 0.35);
+}
+
+#rosary-viewer {
+  margin-top: 0.25rem;
+}
+
+.rosary-prayer-view {
+  /* reuses .dual-viewer etc from prayer styles */
+}
+
 
