@@ -4,7 +4,7 @@
  * 7 rows of indicator dots (simple linear tracking).
  * 3-button controls (prev / play-pause / next) above viewer.
  * Auto mode: play full current then auto-advance.
- * Reuses prayer.mjs view (embedded, text+phonetic) for prayers and mysteries.
+ * Reuses prayer.mjs view (embedded; secondary/phonetic optional via hideSecondary) for prayers and mysteries.
  * Mysteries use dedicated JSONs under english/mysteries/.
  * Direct sequence, manual nav or auto.
  */
@@ -50,6 +50,7 @@ let autoPlaying = false;
 let autoTimeout = null;
 let viewerApp = null;
 let activeSet = 'joyful';
+let showPhonetic = false; // default to hide secondary/phonetic (toggleable)
 
 // Mystery helpers (reuse page data if present)
 function getRosaryData() {
@@ -144,8 +145,13 @@ function renderIndicators(container) {
       const dot = document.createElement('button');
       dot.className = 'rosary-dot';
       dot.type = 'button';
-      dot.title = getStepInfo(idx).label;
+      const info = getStepInfo(idx);
+      dot.title = info.label;
       dot.dataset.idx = idx;
+
+      if (info.label === 'Hail Mary') {
+        dot.classList.add('hail-mary');
+      }
 
       if (idx <= progress) dot.classList.add('done');
       if (idx === current) dot.classList.add('current');
@@ -197,7 +203,7 @@ function loadCurrentViewer() {
   const create = window.createPrayerApp || (window.createApp); // fallback if any
   if (typeof create === 'function' && info.jsonPath) {
     try {
-      create(v, { jsonPath: info.jsonPath, embedded: true });
+      create(v, { jsonPath: info.jsonPath, embedded: true, hideSecondary: !showPhonetic });
     } catch (e) {
       v.innerHTML = `<em>Unable to load view for ${info.label}.</em>`;
     }
@@ -276,7 +282,25 @@ function stopFullAudio() {
 
 function updatePlayBtn(btn) {
   if (!btn) return;
-  btn.textContent = autoPlaying ? '⏸' : '▶';
+  btn.innerHTML = '';
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+  svg.setAttribute('fill', 'none');
+  svg.setAttribute('stroke', 'currentColor');
+  svg.setAttribute('stroke-linecap', 'round');
+  svg.setAttribute('stroke-linejoin', 'round');
+  svg.setAttribute('stroke-width', '2');
+  svg.setAttribute('viewBox', '0 0 24 24');
+  svg.setAttribute('width', '1em');
+  svg.setAttribute('height', '1em');
+  if (autoPlaying) {
+    // pause: two bars
+    svg.innerHTML = '<rect x="6" y="4" width="4" height="16" fill="currentColor" stroke="none"/><rect x="14" y="4" width="4" height="16" fill="currentColor" stroke="none"/>';
+  } else {
+    // play: triangle
+    svg.innerHTML = '<path d="M5 3v18l15-9z" fill="currentColor" stroke="none"/>';
+  }
+  btn.appendChild(svg);
   btn.title = autoPlaying ? 'Pause auto' : 'Auto play from here';
 }
 
@@ -319,6 +343,7 @@ function advance() {
 function setupControls() {
   const prev = document.getElementById('rosary-prev');
   const play = document.getElementById('rosary-play');
+  const phonetic = document.getElementById('rosary-phonetic');
   const next = document.getElementById('rosary-next');
 
   if (prev) prev.addEventListener('click', () => {
@@ -340,6 +365,34 @@ function setupControls() {
       }
     });
     updatePlayBtn(play);
+  }
+
+  if (phonetic) {
+    // use lucide languages icon (same as language landing pages)
+    phonetic.innerHTML = '';
+    const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+    svg.setAttribute('fill', 'none');
+    svg.setAttribute('stroke', 'currentColor');
+    svg.setAttribute('stroke-linecap', 'round');
+    svg.setAttribute('stroke-linejoin', 'round');
+    svg.setAttribute('stroke-width', '2');
+    svg.setAttribute('viewBox', '0 0 24 24');
+    svg.style.width = '0.95em';
+    svg.style.height = '0.95em';
+    svg.setAttribute('class', 'lucide lucide-languages');
+    svg.innerHTML = '<path d="m5 8 6 6M4 14l6-6 2-3M2 5h12M7 2h1M22 22l-5-10-5 10M14 18h6"/>';
+    phonetic.appendChild(svg);
+
+    phonetic.addEventListener('click', () => {
+      showPhonetic = !showPhonetic;
+      phonetic.classList.toggle('active', showPhonetic);
+      phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
+      loadCurrentViewer();
+    });
+    // initial state (default hidden)
+    phonetic.classList.toggle('active', showPhonetic);
+    phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
   }
 }
 

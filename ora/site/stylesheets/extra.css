@@ -797,6 +797,20 @@ h2.prayer-with-player .play-btn.playing:hover,
   transform: scale(1.15);
 }
 
+/* Hail Mary dots get slight transparency for visual distinction (repeats in intro and per decade)
+   works in light/dark and when .done (yellow) or .current */
+.rosary-dot.hail-mary {
+  opacity: 0.55;
+}
+
+.rosary-dot.hail-mary.done {
+  opacity: 0.8;
+}
+
+.rosary-dot.hail-mary.current {
+  opacity: 1;
+}
+
 .rosary-controls {
   display: flex;
   align-items: center;
@@ -834,7 +848,9 @@ h2.prayer-with-player .play-btn.playing:hover,
   background: rgba(64, 81, 181, 0.1);
   font-weight: 600;
   min-width: 2.2em;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #rosary-play:hover {
@@ -847,6 +863,31 @@ h2.prayer-with-player .play-btn.playing:hover,
 
 [data-md-color-scheme="slate"] #rosary-play:hover {
   background: rgba(64, 81, 181, 0.35);
+}
+
+#rosary-play span,
+#rosary-play {
+  line-height: 1;
+}
+
+/* Phonetic toggle (same size as prev/next buttons) */
+#rosary-phonetic {
+  padding: 0.15em 0.45em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+#rosary-phonetic.active {
+  background: rgba(64, 81, 181, 0.15);
+  border-color: var(--md-primary-fg-color, #4051b5);
+  color: var(--md-primary-fg-color, #4051b5);
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] #rosary-phonetic.active {
+  background: rgba(64, 81, 181, 0.25);
 }
 
 #rosary-viewer {

@@ -16,80 +16,11 @@ icon: lucide/languages
   <div class="rosary-controls">
     <button id="rosary-prev" class="rosary-btn" title="Previous">◀◀</button>
     <button id="rosary-play" class="rosary-btn" title="Play / pause auto">▶</button>
+    <button id="rosary-phonetic" class="rosary-btn" title="Toggle phonetic"></button>
     <button id="rosary-next" class="rosary-btn" title="Next">▶▶</button>
   </div>
   <div id="rosary-viewer"></div>
 </div>
-
----
-
-???+ quote "<span class='mystery-set-title'>Joyful Mysteries</span>"
-    
-    [Sign of the Cross](sign-of-the-cross.md)
-    
-    [Apostles' Creed](apostles-creed.md)
-    
-    [Our Father](our-father.md)
-    
-    3 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-
-???+ quote "<span class='decade-label'>First Decade</span>"
-    
-    [Our Father](our-father.md)
-    
-    10 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-
-???+ quote "<span class='decade-label'>Second Decade</span>"
-    
-    [Our Father](our-father.md)
-    
-    10 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-???+ quote "<span class='decade-label'>Third Decade</span>"
-    
-    [Our Father](our-father.md)
-    
-    10 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-???+ quote "<span class='decade-label'>Fourth Decade</span>"
-    
-    [Our Father](our-father.md)
-    
-    10 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-???+ quote "<span class='decade-label'>Fifth Decade</span>"
-    
-    [Our Father](our-father.md)
-    
-    10 x [Hail Mary](hail-mary.md)
-    
-    [Glory Be](glory-be.md)
-    
-    [Fatima Prayer](fatima-prayer.md)
-
-[Hail, Holy Queen](hail-holy-queen.md)
 
 <script type="application/json" id="rosary-mysteries">
 {
