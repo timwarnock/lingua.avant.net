@@ -2,7 +2,7 @@
 icon: lucide/help-circle
 ---
 
-# advice
+# Good Advice
 
 I’ve read more than I care to admit on the subject of language learning. I’ve experimented with every tip and trick I can find. Most of what I’ve tried has admittedly been [bad advice](bad-advice.md), but there are bits of wisdom.
 
@@ -12,22 +12,25 @@ Here is the best advice I’ve found. This is all general advice, there’s also
 
 ## 1. Study in a way that makes you want to study tomorrow
 
-Here is a quote from the former Governor of California, Arnold Schwarzenegger, back in his Pumping Iron days:
+Discipline shares its root with “disciple” -- both refer to learning and training through consistent practice.
 
-> It’s as satisfying to me as, uh, coming is, you know? As, ah, having sex with a woman and coming. And so can you believe how much I am in heaven? I am like, uh, getting the feeling of coming in a gym, I’m getting the feeling of coming at home, I’m getting the feeling of coming backstage when I pump up, when I pose in front of 5,000 people, I get the same feeling, so I am coming day and night. I mean, it’s terrific. Right? So you know, I am in heaven.
+!!! quote "St. Seraphim of Sarov"
 
-~ Arnold Schwarzenegger
+    When mind and heart are united in prayer and the soul is wholly concentrated in a single desire for God, then the heart grows warm and the light of Christ begins to shine and fills the inward man with peace and joy.
 
-Yes, that is the same person that went on to be the Governor of California. If language learning felt like this, I think I’d speak dozens of languages.
+When you commit to the steady repetition in language learning -- daily drills, phrases, and conversations -- the hard work either becomes a drag, or something you want to return to tomorrow, because the practice (the discipline) becomes a source of joy.
 
-In my experience we will fail to learn and inevitably quit if we aren’t somehow enjoying the process of learning. If that happens, don’t quit the language, find a way to make it fun.
+This is why repeating the Rosary prayers in another language can become such an effective daily practice, building [automaticity](fsi.md#7-automaticity-is-critical) in a way that is spiritually enriching.
 
-Like Arnold working out, we will be motivated to learn proportionally to the degree that we are enjoying the activity of learning. If this means music, then listen to music. If this means gaming ourselves with a system of rewards, then do it. Make it fun.
+In my experience we will fail to learn, and inevitably quit, if we aren’t filled with that ineffible joy of learning. If you're not looking forward to practicing tomorrow, don’t quit the language, orient yourself to God through prayer.
+
+As with any kind of discipline, we will be motivated only to the degree that we experience the spiritual fruits of our work. When the light of Christ fills your work, you will find ample fruit.
 
 ---
 
 ## 2. <span title="huó dào lǎo xué dào lǎo - live till old, learn till old">活到老學到老</span>
 
+"Live till old, Learn till old".  
 Learning a language is like climbing an endless mountain. And I don’t mean the inspirational kind of cliche “mountain”. I mean you’ll never reach the top. You may see what you think is the top, you can reach for it, and you may pull yourself up, but you’ll find there’s another summit above the current one. It goes on like that forever.
 
 Think of the difficulty of the mountain as the *learning curve*. When you begin a new language, it’s like starting at the base of the mountain, and you’re not acclimated to the altitude. You’ll huff and puff at first, trudging along at the base. You won’t feel like you’re making any progress, but eventually, you’ll reach the first summit.
