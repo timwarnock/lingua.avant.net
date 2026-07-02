@@ -6,7 +6,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"
-     data-json="apostles-creed.json"></div>
+     data-json="apostles-creed.json"
+     data-show-phonetic="true"></div>
 
 <div class="prayer-fallback" markdown="1">
 

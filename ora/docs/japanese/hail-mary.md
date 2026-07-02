@@ -6,7 +6,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"
-     data-json="hail-mary.json"></div>
+     data-json="hail-mary.json"
+     data-show-phonetic="true"></div>
 
 <div class="prayer-fallback" markdown="1">
 

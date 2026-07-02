@@ -6,7 +6,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
-     data-json="hail-holy-queen.json"></div>
+     data-json="hail-holy-queen.json"
+     data-show-phonetic="true"></div>
 
 ---
 
@@ -14,7 +15,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"
-     data-json="rosary-prayer.json"></div>
+     data-json="rosary-prayer.json"
+     data-show-phonetic="true"></div>
 
 <div class="prayer-fallback" markdown="1">
 

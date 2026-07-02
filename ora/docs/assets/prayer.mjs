@@ -47,6 +47,7 @@ function createApp(container, opts = {}) {
   const prayerChooser = !locked && (opts.prayerChooser !== false);
   const embedded = !!opts.embedded;
   const hideSecondary = !!opts.hideSecondary;
+  const defaultShowPhonetic = opts.showPhonetic !== undefined ? !!opts.showPhonetic : (container.dataset.showPhonetic === 'true');
 
   const state = {
     prayerId: prayer,
@@ -216,10 +217,22 @@ function createApp(container, opts = {}) {
             if (mainPlayBtn && mainPlayBtn.textContent === '⏸') stopAll();
             else play('local', 'full', base, pid);
           });
-        }
 
-        renderLockedLines(container, data, base, pid, hideSecondary);
-        if (!embedded) hideFallbacks();
+          // Phonetics toggle for this prayer page. Default is off unless data-show-phonetic="true" on the div (or opts.showPhonetic).
+          let showPhonetic = defaultShowPhonetic;
+          const tog = makePhoneticToggle(showPhonetic, (val) => {
+            showPhonetic = val;
+            container.querySelectorAll('.dual-viewer').forEach(el => el.remove());
+            renderLockedLines(container, data, base, pid, !showPhonetic);
+          });
+          if (mainPlayBtn && mainPlayBtn.parentNode) {
+            mainPlayBtn.insertAdjacentElement('afterend', tog);
+          }
+          renderLockedLines(container, data, base, pid, !showPhonetic);
+          hideFallbacks();
+        } else {
+          renderLockedLines(container, data, base, pid, hideSecondary);
+        }
       })
       .catch(err => {
         console.warn('[prayer]', err);
@@ -571,6 +584,32 @@ function createApp(container, opts = {}) {
     return btn;
   }
 
+  function makePhoneticToggle(initialShow, onChange) {
+    const btn = document.createElement('button');
+    btn.className = 'dual-mode-toggle' + (initialShow ? ' selected' : '');
+    btn.title = initialShow ? 'Hide phonetic' : 'Show phonetic';
+    const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
+    svg.setAttribute('fill', 'none');
+    svg.setAttribute('stroke', 'currentColor');
+    svg.setAttribute('stroke-linecap', 'round');
+    svg.setAttribute('stroke-linejoin', 'round');
+    svg.setAttribute('stroke-width', '2');
+    svg.setAttribute('viewBox', '0 0 24 24');
+    svg.setAttribute('width', '14');
+    svg.setAttribute('height', '14');
+    svg.setAttribute('class', 'lucide lucide-languages');
+    svg.innerHTML = '<path d="m5 8 6 6M4 14l6-6 2-3M2 5h12M7 2h1M22 22l-5-10-5 10M14 18h6"/>';
+    btn.appendChild(svg);
+    btn.addEventListener('click', () => {
+      const nowShow = !btn.classList.contains('selected');
+      btn.classList.toggle('selected', nowShow);
+      btn.title = nowShow ? 'Hide phonetic' : 'Show phonetic';
+      onChange(nowShow);
+    });
+    return btn;
+  }
+
   function renderFullViewer(view, d1, d2, b1, b2, pid, tp = {}, ts = {}) {
     view.innerHTML = '';
     mainPlayBtn = null;
@@ -681,7 +720,9 @@ function initAll() {
   // Locked mode via existing .prayer-interactive (data-json preferred; minimal md impact)
   document.querySelectorAll('.prayer-interactive').forEach(el => {
     if (el.dataset.json || el.dataset.prayer) {
-      createApp(el, el.dataset.json ? { jsonPath: el.dataset.json } : {});
+      const initOpts = el.dataset.json ? { jsonPath: el.dataset.json } : {};
+      if (el.dataset.showPhonetic) initOpts.showPhonetic = el.dataset.showPhonetic === 'true';
+      createApp(el, initOpts);
     }
   });
 

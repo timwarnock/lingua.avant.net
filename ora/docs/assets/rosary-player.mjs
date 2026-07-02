@@ -50,7 +50,7 @@ let autoPlaying = false;
 let autoTimeout = null;
 let viewerApp = null;
 let activeSet = 'joyful';
-let showPhonetic = false; // default to hide secondary/phonetic (toggleable)
+let showPhonetic; // default from data-show-phonetic on #rosary-player div (no language hardcode in js)
 
 let titlesCache = {};
 
@@ -414,7 +414,7 @@ function setupControls() {
       phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
       loadCurrentViewer();
     });
-    // initial state (default hidden)
+    // initial state from data attr
     phonetic.classList.toggle('active', showPhonetic);
     phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
   }
@@ -449,6 +449,9 @@ function init() {
   const indContainer = document.getElementById('rosary-indicators');
   const viewer = document.getElementById('rosary-viewer');
   if (!indContainer || !viewer) return;
+
+  const playerEl = document.getElementById('rosary-player');
+  showPhonetic = playerEl && playerEl.dataset.showPhonetic === 'true';
 
   steps = buildSteps();
   current = 0;

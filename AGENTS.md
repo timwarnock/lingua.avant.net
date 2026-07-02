@@ -75,11 +75,11 @@ Segments might not always match exactly due to grammatic and linguistic differen
 ++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 ++ compare each prayer to all other languages and verify that the passages align perfectly (literal meaning of a given passage is the same across all languages).
 ++ verify all prayer text with official Catholic sources (from the vatican or similar).
+++ segment highlight to match voice! can add in start/stop times per segment based on the full audio, playing full or a passage should highlight sections during that window and advance to always highlight what is being spoken. creating the start/stop times should be derivable from the existing audio, that is, a given json will be used as input to create audio, but then a secondary process needs to derive the start/stop offsets and update the JSON. Need to brainstorm this and arrive at a solution.
 
 + make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
 + similarly, language selection foolproof, a single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
 
-+ segment highlight to match voice! can add in start/stop times per segment based on the full audio, playing full or a passage should highlight sections during that window and advance to always highlight what is being spoken. creating the start/stop times should be derivable from the existing audio, that is, a given json will be used as input to create audio, but then a secondary process needs to derive the start/stop offsets and update the JSON.
 
 
 

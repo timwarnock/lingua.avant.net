@@ -6,7 +6,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"
-     data-json="fatima-prayer.json"></div>
+     data-json="fatima-prayer.json"
+     data-show-phonetic="true"></div>
 
 <div class="prayer-fallback" markdown="1">
 

@@ -11,7 +11,7 @@ icon: lucide/languages
 <span class="mystery-set" data-set="luminous">光明奧蹟</span>
 </div>
 
-<div id="rosary-player">
+<div id="rosary-player" data-show-phonetic="true">
   <div id="rosary-indicators" class="rosary-indicators"></div>
   <div class="rosary-controls">
     <button id="rosary-prev" class="rosary-btn" title="Previous">◀◀</button>

@@ -529,12 +529,16 @@ h2.prayer-with-player .play-btn.playing:hover,
   opacity: 1;
 }
 
-.dual-lang.primary .dual-mode-toggle.selected {
+.dual-lang.primary .dual-mode-toggle.selected,
+h1.prayer-with-player .dual-mode-toggle.selected,
+.prayer-header .dual-mode-toggle.selected {
   border-color: #4051b5;
   background: rgba(64, 81, 181, 0.08);
 }
 
-[data-md-color-scheme="slate"] .dual-lang.primary .dual-mode-toggle.selected {
+[data-md-color-scheme="slate"] .dual-lang.primary .dual-mode-toggle.selected,
+[data-md-color-scheme="slate"] h1.prayer-with-player .dual-mode-toggle.selected,
+[data-md-color-scheme="slate"] .prayer-header .dual-mode-toggle.selected {
   background: rgba(64, 81, 181, 0.15);
 }
 
