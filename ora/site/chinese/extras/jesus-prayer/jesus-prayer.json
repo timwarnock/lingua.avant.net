@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "主耶穌基督，", "phonetic": "Zhǔ Yē sū Jī dū," },
-        { "passage_segment_id": "1b", "text": "天主之子，", "phonetic": "Tiān zhǔ zhī zǐ," }
+        {
+          "passage_segment_id": "1a",
+          "text": "主耶穌基督，",
+          "phonetic": "Zhǔ Yē sū Jī dū,",
+          "timing": {
+            "full": [
+              0.0,
+              1.393
+            ],
+            "passage": [
+              0.0,
+              1.351
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "天主之子，",
+          "phonetic": "Tiān zhǔ zhī zǐ,",
+          "timing": {
+            "full": [
+              1.393,
+              2.508
+            ],
+            "passage": [
+              1.351,
+              2.432
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "求你垂憐我，", "phonetic": "Qiú nǐ chuí lián wǒ," },
-        { "passage_segment_id": "2b", "text": "罪人。", "phonetic": "zuì rén." }
+        {
+          "passage_segment_id": "2a",
+          "text": "求你垂憐我，",
+          "phonetic": "Qiú nǐ chuí lián wǒ,",
+          "timing": {
+            "full": [
+              2.508,
+              3.901
+            ],
+            "passage": [
+              0.0,
+              1.408
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "罪人。",
+          "phonetic": "zuì rén.",
+          "timing": {
+            "full": [
+              3.901,
+              4.458
+            ],
+            "passage": [
+              1.408,
+              1.971
+            ]
+          }
+        }
       ]
     }
   ]

@@ -11,84 +11,406 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "I believe in God,", "phonetic": "I believe in God," },
-        { "passage_segment_id": "1b", "text": "the Father almighty,", "phonetic": "the Father almighty," },
-        { "passage_segment_id": "1c", "text": "Creator of heaven and earth,", "phonetic": "Creator of heaven and earth," }
+        {
+          "passage_segment_id": "1a",
+          "text": "I believe in God,",
+          "phonetic": "I believe in God,",
+          "timing": {
+            "full": [
+              0.142,
+              1.208
+            ],
+            "passage": [
+              0.142,
+              1.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "the Father almighty,",
+          "phonetic": "the Father almighty,",
+          "timing": {
+            "full": [
+              1.418,
+              2.589
+            ],
+            "passage": [
+              1.589,
+              2.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Creator of heaven and earth,",
+          "phonetic": "Creator of heaven and earth,",
+          "timing": {
+            "full": [
+              2.8,
+              4.313
+            ],
+            "passage": [
+              3.103,
+              4.813
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "and in Jesus Christ,", "phonetic": "and in Jesus Christ," },
-        { "passage_segment_id": "2b", "text": "his only Son,", "phonetic": "his only Son," },
-        { "passage_segment_id": "2c", "text": "our Lord,", "phonetic": "our Lord," }
+        {
+          "passage_segment_id": "2a",
+          "text": "and in Jesus Christ,",
+          "phonetic": "and in Jesus Christ,",
+          "timing": {
+            "full": [
+              4.55,
+              5.708
+            ],
+            "passage": [
+              0.142,
+              1.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "his only Son,",
+          "phonetic": "his only Son,",
+          "timing": {
+            "full": [
+              5.958,
+              6.826
+            ],
+            "passage": [
+              1.774,
+              2.695
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "our Lord,",
+          "phonetic": "our Lord,",
+          "timing": {
+            "full": [
+              6.997,
+              7.563
+            ],
+            "passage": [
+              2.905,
+              3.616
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "who was conceived by the Holy Spirit,", "phonetic": "who was conceived by the Holy Spirit," }
+        {
+          "passage_segment_id": "3a",
+          "text": "who was conceived by the Holy Spirit,",
+          "phonetic": "who was conceived by the Holy Spirit,",
+          "timing": {
+            "full": [
+              7.853,
+              9.853
+            ],
+            "passage": [
+              0.129,
+              2.629
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "born of the Virgin Mary,", "phonetic": "born of the Virgin Mary," }
+        {
+          "passage_segment_id": "4a",
+          "text": "born of the Virgin Mary,",
+          "phonetic": "born of the Virgin Mary,",
+          "timing": {
+            "full": [
+              10.089,
+              11.405
+            ],
+            "passage": [
+              0.142,
+              1.747
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "suffered under Pontius Pilate,", "phonetic": "suffered under Pontius Pilate," },
-        { "passage_segment_id": "5b", "text": "was crucified,", "phonetic": "was crucified," },
-        { "passage_segment_id": "5c", "text": "died and was buried;", "phonetic": "died and was buried;" }
+        {
+          "passage_segment_id": "5a",
+          "text": "suffered under Pontius Pilate,",
+          "phonetic": "suffered under Pontius Pilate,",
+          "timing": {
+            "full": [
+              11.695,
+              13.313
+            ],
+            "passage": [
+              0.129,
+              2.037
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "was crucified,",
+          "phonetic": "was crucified,",
+          "timing": {
+            "full": [
+              13.55,
+              14.51
+            ],
+            "passage": [
+              2.287,
+              3.313
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "died and was buried;",
+          "phonetic": "died and was buried;",
+          "timing": {
+            "full": [
+              14.761,
+              15.932
+            ],
+            "passage": [
+              3.603,
+              4.971
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "he descended into hell;", "phonetic": "he descended into hell;" }
+        {
+          "passage_segment_id": "6a",
+          "text": "he descended into hell;",
+          "phonetic": "he descended into hell;",
+          "timing": {
+            "full": [
+              16.274,
+              17.576
+            ],
+            "passage": [
+              0.142,
+              1.787
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "on the third day he rose again from the dead;", "phonetic": "on the third day he rose again from the dead;" }
+        {
+          "passage_segment_id": "7a",
+          "text": "on the third day he rose again from the dead;",
+          "phonetic": "on the third day he rose again from the dead;",
+          "timing": {
+            "full": [
+              17.789,
+              20.132
+            ],
+            "passage": [
+              0.116,
+              2.8
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "he ascended into heaven,", "phonetic": "he ascended into heaven," }
+        {
+          "passage_segment_id": "8a",
+          "text": "he ascended into heaven,",
+          "phonetic": "he ascended into heaven,",
+          "timing": {
+            "full": [
+              20.447,
+              21.75
+            ],
+            "passage": [
+              0.142,
+              1.853
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 9,
       "segments": [
-        { "passage_segment_id": "9a", "text": "and is seated at the right hand of God the Father almighty;", "phonetic": "and is seated at the right hand of God the Father almighty;" }
+        {
+          "passage_segment_id": "9a",
+          "text": "and is seated at the right hand of God the Father almighty;",
+          "phonetic": "and is seated at the right hand of God the Father almighty;",
+          "timing": {
+            "full": [
+              22.0,
+              24.947
+            ],
+            "passage": [
+              0.142,
+              3.629
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 10,
       "segments": [
-        { "passage_segment_id": "10a", "text": "from there he will come to judge the living and the dead.", "phonetic": "from there he will come to judge the living and the dead." }
+        {
+          "passage_segment_id": "10a",
+          "text": "from there he will come to judge the living and the dead.",
+          "phonetic": "from there he will come to judge the living and the dead.",
+          "timing": {
+            "full": [
+              25.289,
+              28.079
+            ],
+            "passage": [
+              0.129,
+              3.313
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 11,
       "segments": [
-        { "passage_segment_id": "11a", "text": "I believe in the Holy Spirit,", "phonetic": "I believe in the Holy Spirit," },
-        { "passage_segment_id": "11b", "text": "the holy catholic Church,", "phonetic": "the holy catholic Church," },
-        { "passage_segment_id": "11c", "text": "the communion of saints,", "phonetic": "the communion of saints," },
-        { "passage_segment_id": "11d", "text": "the forgiveness of sins,", "phonetic": "the forgiveness of sins," },
-        { "passage_segment_id": "11e", "text": "the resurrection of the body,", "phonetic": "the resurrection of the body," },
-        { "passage_segment_id": "11f", "text": "and life everlasting.", "phonetic": "and life everlasting," }
+        {
+          "passage_segment_id": "11a",
+          "text": "I believe in the Holy Spirit,",
+          "phonetic": "I believe in the Holy Spirit,",
+          "timing": {
+            "full": [
+              28.5,
+              30.184
+            ],
+            "passage": [
+              0.142,
+              1.826
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "the holy catholic Church,",
+          "phonetic": "the holy catholic Church,",
+          "timing": {
+            "full": [
+              30.395,
+              31.855
+            ],
+            "passage": [
+              2.063,
+              3.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "the communion of saints,",
+          "phonetic": "the communion of saints,",
+          "timing": {
+            "full": [
+              32.105,
+              33.421
+            ],
+            "passage": [
+              3.787,
+              5.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "the forgiveness of sins,",
+          "phonetic": "the forgiveness of sins,",
+          "timing": {
+            "full": [
+              33.697,
+              35.0
+            ],
+            "passage": [
+              5.379,
+              6.682
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "the resurrection of the body,",
+          "phonetic": "the resurrection of the body,",
+          "timing": {
+            "full": [
+              35.303,
+              36.737
+            ],
+            "passage": [
+              6.984,
+              8.405
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "and life everlasting.",
+          "phonetic": "and life everlasting,",
+          "timing": {
+            "full": [
+              36.987,
+              38.276
+            ],
+            "passage": [
+              8.642,
+              9.971
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 12,
       "segments": [
-        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "12a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              38.487,
+              39.0
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Cuarto Misterio Doloroso, el Camino del Calvario.",
-          "phonetic": "El Cuarto Misterio Doloroso, el Camino del Calvario."
+          "phonetic": "El Cuarto Misterio Doloroso, el Camino del Calvario.",
+          "timing": {
+            "full": [
+              0.101,
+              3.365
+            ],
+            "passage": [
+              0.101,
+              3.365
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第三端光明奧蹟，耶穌宣佈天國來臨.",
-          "phonetic": "Dì sān duān guāng míng ào jì, Yē sū xuān bù tiān guó lái lín."
+          "phonetic": "Dì sān duān guāng míng ào jì, Yē sū xuān bù tiān guó lái lín.",
+          "timing": {
+            "full": [
+              0.0,
+              3.589
+            ],
+            "passage": [
+              0.0,
+              3.589
+            ]
+          }
         }
       ]
     }

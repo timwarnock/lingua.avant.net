@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Sáng Thứ Nhất, Sống Lại.",
-          "phonetic": "Mầu Nhiệm Sáng Thứ Nhất, Sống Lại."
+          "phonetic": "Mầu Nhiệm Sáng Thứ Nhất, Sống Lại.",
+          "timing": {
+            "full": [
+              0.1,
+              2.561
+            ],
+            "passage": [
+              0.1,
+              2.561
+            ]
+          }
         }
       ]
     }

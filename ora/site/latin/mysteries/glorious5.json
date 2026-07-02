@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quintum Mysterium Gloriosum, Coronatio Beatae Mariae Virginis.",
-          "phonetic": "Quintum Mysterium Gloriosum, Coronatio Beatae Mariae Virginis."
+          "phonetic": "Quintum Mysterium Gloriosum, Coronatio Beatae Mariae Virginis.",
+          "timing": {
+            "full": [
+              0.103,
+              4.261
+            ],
+            "passage": [
+              0.103,
+              4.261
+            ]
+          }
         }
       ]
     }

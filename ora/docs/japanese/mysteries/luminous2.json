@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第二の光の玄義、カナの婚宴.",
-          "phonetic": "Dai ni no hikari no gen'i, kana no kon'en."
+          "phonetic": "Dai ni no hikari no gen'i, kana no kon'en.",
+          "timing": {
+            "full": [
+              0.103,
+              2.813
+            ],
+            "passage": [
+              0.103,
+              2.813
+            ]
+          }
         }
       ]
     }

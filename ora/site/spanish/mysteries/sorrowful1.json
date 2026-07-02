@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Primer Misterio Doloroso, la Agonía en el Huerto.",
-          "phonetic": "El Primer Misterio Doloroso, la Agonía en el Huerto."
+          "phonetic": "El Primer Misterio Doloroso, la Agonía en el Huerto.",
+          "timing": {
+            "full": [
+              0.101,
+              3.141
+            ],
+            "passage": [
+              0.101,
+              3.141
+            ]
+          }
         }
       ]
     }

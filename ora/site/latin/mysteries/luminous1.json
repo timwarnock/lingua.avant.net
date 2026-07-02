@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Primum Mysterium Luminosum, Baptisma Iesu.",
-          "phonetic": "Primum Mysterium Luminosum, Baptisma Iesu."
+          "phonetic": "Primum Mysterium Luminosum, Baptisma Iesu.",
+          "timing": {
+            "full": [
+              0.103,
+              3.339
+            ],
+            "passage": [
+              0.103,
+              3.339
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Secundum Mysterium Dolorosum, Flagellatio.",
-          "phonetic": "Secundum Mysterium Dolorosum, Flagellatio."
+          "phonetic": "Secundum Mysterium Dolorosum, Flagellatio.",
+          "timing": {
+            "full": [
+              0.103,
+              3.313
+            ],
+            "passage": [
+              0.103,
+              3.313
+            ]
+          }
         }
       ]
     }

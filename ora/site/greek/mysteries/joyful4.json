@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Τέταρτο Χαροποιό Μυστήριο, η Παρουσίαση στον Ναό.",
-          "phonetic": "Té-tar-to Cha-ro-pi-ó Mys-tí-rio, i Pa-rou-sía-si ston Na-ó."
+          "phonetic": "Té-tar-to Cha-ro-pi-ó Mys-tí-rio, i Pa-rou-sía-si ston Na-ó.",
+          "timing": {
+            "full": [
+              0.1,
+              3.258
+            ],
+            "passage": [
+              0.1,
+              3.258
+            ]
+          }
         }
       ]
     }

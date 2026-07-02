@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Third Luminous Mystery, the Proclamation of the Kingdom.", "phonetic": "The Third Luminous Mystery, the Proclamation of the Kingdom." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Third Luminous Mystery, the Proclamation of the Kingdom.",
+          "phonetic": "The Third Luminous Mystery, the Proclamation of the Kingdom.",
+          "timing": {
+            "full": [
+              0.142,
+              3.853
+            ],
+            "passage": [
+              0.142,
+              3.853
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Terceiro Mistério Doloroso, a Coroação de Espinhos.",
-          "phonetic": "Terceiro Mistério Doloroso, a Coroação de Espinhos."
+          "phonetic": "Terceiro Mistério Doloroso, a Coroação de Espinhos.",
+          "timing": {
+            "full": [
+              0.103,
+              3.168
+            ],
+            "passage": [
+              0.103,
+              3.168
+            ]
+          }
         }
       ]
     }

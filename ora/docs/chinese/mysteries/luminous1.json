@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一端光明奧蹟，耶穌在約旦河受洗.",
-          "phonetic": "Dì yī duān guāng míng ào jì, Yē sū zài yuē dàn hé shòu xǐ."
+          "phonetic": "Dì yī duān guāng míng ào jì, Yē sū zài yuē dàn hé shòu xǐ.",
+          "timing": {
+            "full": [
+              0.0,
+              3.563
+            ],
+            "passage": [
+              0.0,
+              3.563
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Segundo Mistério Luminoso, as Bodas de Caná.",
-          "phonetic": "Segundo Mistério Luminoso, as Bodas de Caná."
+          "phonetic": "Segundo Mistério Luminoso, as Bodas de Caná.",
+          "timing": {
+            "full": [
+              0.103,
+              2.892
+            ],
+            "passage": [
+              0.103,
+              2.892
+            ]
+          }
         }
       ]
     }

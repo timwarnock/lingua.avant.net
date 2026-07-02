@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Mừng Thứ Năm, Thiết Lập Bí Tích Thánh Thể.",
-          "phonetic": "Mầu Nhiệm Mừng Thứ Năm, Thiết Lập Bí Tích Thánh Thể."
+          "phonetic": "Mầu Nhiệm Mừng Thứ Năm, Thiết Lập Bí Tích Thánh Thể.",
+          "timing": {
+            "full": [
+              0.1,
+              3.429
+            ],
+            "passage": [
+              0.1,
+              3.429
+            ]
+          }
         }
       ]
     }

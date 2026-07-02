@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fifth Glorious Mystery, the Coronation of Mary.", "phonetic": "The Fifth Glorious Mystery, the Coronation of Mary." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fifth Glorious Mystery, the Coronation of Mary.",
+          "phonetic": "The Fifth Glorious Mystery, the Coronation of Mary.",
+          "timing": {
+            "full": [
+              0.142,
+              3.497
+            ],
+            "passage": [
+              0.142,
+              3.497
+            ]
+          }
+        }
       ]
     }
   ]

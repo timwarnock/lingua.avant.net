@@ -11,59 +11,311 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Let us pray.", "phonetic": "Let us pray." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Let us pray.",
+          "phonetic": "Let us pray.",
+          "timing": {
+            "full": [
+              0.116,
+              1.142
+            ],
+            "passage": [
+              0.116,
+              1.142
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "O God,", "phonetic": "O God," },
-        { "passage_segment_id": "2b", "text": "whose only-begotten Son,", "phonetic": "whose only-begotten Son," },
-        { "passage_segment_id": "2c", "text": "by his life,", "phonetic": "by his life," },
-        { "passage_segment_id": "2d", "text": "death and resurrection,", "phonetic": "death and resurrection," },
-        { "passage_segment_id": "2e", "text": "has purchased for us the rewards", "phonetic": "has purchased for us the rewards" },
-        { "passage_segment_id": "2f", "text": "of eternal life,", "phonetic": "of eternal life," }
+        {
+          "passage_segment_id": "2a",
+          "text": "O God,",
+          "phonetic": "O God,",
+          "timing": {
+            "full": [
+              1.539,
+              2.132
+            ],
+            "passage": [
+              0.116,
+              0.734
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "whose only-begotten Son,",
+          "phonetic": "whose only-begotten Son,",
+          "timing": {
+            "full": [
+              2.342,
+              3.71
+            ],
+            "passage": [
+              0.971,
+              2.418
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "by his life,",
+          "phonetic": "by his life,",
+          "timing": {
+            "full": [
+              3.908,
+              4.737
+            ],
+            "passage": [
+              2.629,
+              3.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "death and resurrection,",
+          "phonetic": "death and resurrection,",
+          "timing": {
+            "full": [
+              4.921,
+              6.21
+            ],
+            "passage": [
+              3.734,
+              5.063
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2e",
+          "text": "has purchased for us the rewards",
+          "phonetic": "has purchased for us the rewards",
+          "timing": {
+            "full": [
+              6.513,
+              8.105
+            ],
+            "passage": [
+              5.405,
+              7.116
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2f",
+          "text": "of eternal life,",
+          "phonetic": "of eternal life,",
+          "timing": {
+            "full": [
+              8.118,
+              9.105
+            ],
+            "passage": [
+              7.129,
+              8.234
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "grant, we beseech thee,", "phonetic": "grant, we beseech thee," },
-        { "passage_segment_id": "3b", "text": "that while meditating on these mysteries", "phonetic": "that while meditating on these mysteries" },
-        { "passage_segment_id": "3c", "text": "of the most holy Rosary of the Blessed Virgin Mary,", "phonetic": "of the most holy Rosary of the blessid Virgin Mary," }
+        {
+          "passage_segment_id": "3a",
+          "text": "grant, we beseech thee,",
+          "phonetic": "grant, we beseech thee,",
+          "timing": {
+            "full": [
+              9.382,
+              10.974
+            ],
+            "passage": [
+              0.116,
+              1.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "that while meditating on these mysteries",
+          "phonetic": "that while meditating on these mysteries",
+          "timing": {
+            "full": [
+              11.276,
+              13.145
+            ],
+            "passage": [
+              2.103,
+              4.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "of the most holy Rosary of the Blessed Virgin Mary,",
+          "phonetic": "of the most holy Rosary of the blessid Virgin Mary,",
+          "timing": {
+            "full": [
+              13.158,
+              15.908
+            ],
+            "passage": [
+              4.116,
+              7.182
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "we may imitate what they contain", "phonetic": "we may imitate what they contain" },
-        { "passage_segment_id": "4b", "text": "and obtain what they promise,", "phonetic": "and obtain what they promise," }
+        {
+          "passage_segment_id": "4a",
+          "text": "we may imitate what they contain",
+          "phonetic": "we may imitate what they contain",
+          "timing": {
+            "full": [
+              16.237,
+              18.013
+            ],
+            "passage": [
+              0.129,
+              2.274
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "and obtain what they promise,",
+          "phonetic": "and obtain what they promise,",
+          "timing": {
+            "full": [
+              18.026,
+              19.513
+            ],
+            "passage": [
+              2.287,
+              3.997
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "through the same Christ our Lord.", "phonetic": "through the same Christ our Lord," }
+        {
+          "passage_segment_id": "5a",
+          "text": "through the same Christ our Lord.",
+          "phonetic": "through the same Christ our Lord,",
+          "timing": {
+            "full": [
+              19.789,
+              21.658
+            ],
+            "passage": [
+              0.129,
+              2.182
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "6a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              21.921,
+              22.447
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Most Sacred Heart of Jesus,", "phonetic": "Most Sacred Heart of Jesus," },
-        { "passage_segment_id": "7b", "text": "have mercy on us.", "phonetic": "have mercy on us." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Most Sacred Heart of Jesus,",
+          "phonetic": "Most Sacred Heart of Jesus,",
+          "timing": {
+            "full": [
+              22.842,
+              24.776
+            ],
+            "passage": [
+              0.116,
+              2.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "have mercy on us.",
+          "phonetic": "have mercy on us.",
+          "timing": {
+            "full": [
+              25.039,
+              26.237
+            ],
+            "passage": [
+              2.313,
+              3.51
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "Immaculate Heart of Mary,", "phonetic": "Immaculate Heart of Mary," },
-        { "passage_segment_id": "8b", "text": "pray for us.", "phonetic": "pray for us." }
+        {
+          "passage_segment_id": "8a",
+          "text": "Immaculate Heart of Mary,",
+          "phonetic": "Immaculate Heart of Mary,",
+          "timing": {
+            "full": [
+              26.658,
+              28.263
+            ],
+            "passage": [
+              0.142,
+              1.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "pray for us.",
+          "phonetic": "pray for us.",
+          "timing": {
+            "full": [
+              28.526,
+              29.474
+            ],
+            "passage": [
+              2.024,
+              2.971
+            ]
+          }
+        }
       ]
     }
   ]

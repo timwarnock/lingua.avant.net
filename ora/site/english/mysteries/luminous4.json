@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fourth Luminous Mystery, the Transfiguration.", "phonetic": "The Fourth Luminous Mystery, the Transfiguration." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fourth Luminous Mystery, the Transfiguration.",
+          "phonetic": "The Fourth Luminous Mystery, the Transfiguration.",
+          "timing": {
+            "full": [
+              0.142,
+              3.379
+            ],
+            "passage": [
+              0.142,
+              3.379
+            ]
+          }
+        }
       ]
     }
   ]

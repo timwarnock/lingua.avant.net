@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fourth Joyful Mystery, the Presentation.", "phonetic": "The Fourth Joyful Mystery, the Presentation." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fourth Joyful Mystery, the Presentation.",
+          "phonetic": "The Fourth Joyful Mystery, the Presentation.",
+          "timing": {
+            "full": [
+              0.142,
+              3.076
+            ],
+            "passage": [
+              0.142,
+              3.076
+            ]
+          }
+        }
       ]
     }
   ]

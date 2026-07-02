@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Czwarta Tajemnica Radosna, Ofiarowanie Jezusa w Świątyni.",
-          "phonetic": "Czwarta Tajemnica Radosna, Ofiarowanie Jezusa w Świątyni."
+          "phonetic": "Czwarta Tajemnica Radosna, Ofiarowanie Jezusa w Świątyni.",
+          "timing": {
+            "full": [
+              0.103,
+              3.511
+            ],
+            "passage": [
+              0.103,
+              3.511
+            ]
+          }
         }
       ]
     }

@@ -11,24 +11,136 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Gloire au Père,", "phonetic": "Gloire au Père," },
-        { "passage_segment_id": "1b", "text": "au Fils,", "phonetic": "au Fils," },
-        { "passage_segment_id": "1c", "text": "et au Saint-Esprit.", "phonetic": "et au Saint-Esprit," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Gloire au Père,",
+          "phonetic": "Gloire au Père,",
+          "timing": {
+            "full": [
+              0.103,
+              0.984
+            ],
+            "passage": [
+              0.103,
+              0.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "au Fils,",
+          "phonetic": "au Fils,",
+          "timing": {
+            "full": [
+              1.234,
+              1.721
+            ],
+            "passage": [
+              1.208,
+              1.708
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "et au Saint-Esprit.",
+          "phonetic": "et au Saint-Esprit,",
+          "timing": {
+            "full": [
+              2.024,
+              2.932
+            ],
+            "passage": [
+              2.011,
+              2.918
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Comme il était au commencement,", "phonetic": "Comme il était au commencement," },
-        { "passage_segment_id": "2b", "text": "maintenant,", "phonetic": "maintenant," },
-        { "passage_segment_id": "2c", "text": "et toujours,", "phonetic": "et toujours," },
-        { "passage_segment_id": "2d", "text": "pour les siècles des siècles.", "phonetic": "pour les siècles des siècles," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Comme il était au commencement,",
+          "phonetic": "Comme il était au commencement,",
+          "timing": {
+            "full": [
+              3.261,
+              4.603
+            ],
+            "passage": [
+              0.103,
+              1.458
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "maintenant,",
+          "phonetic": "maintenant,",
+          "timing": {
+            "full": [
+              4.984,
+              5.497
+            ],
+            "passage": [
+              1.839,
+              2.353
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "et toujours,",
+          "phonetic": "et toujours,",
+          "timing": {
+            "full": [
+              5.813,
+              6.445
+            ],
+            "passage": [
+              2.642,
+              3.274
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "pour les siècles des siècles.",
+          "phonetic": "pour les siècles des siècles,",
+          "timing": {
+            "full": [
+              6.761,
+              7.932
+            ],
+            "passage": [
+              3.55,
+              4.813
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              8.234,
+              8.695
+            ],
+            "passage": [
+              0.101,
+              0.641
+            ]
+          }
+        }
       ]
     }
   ]

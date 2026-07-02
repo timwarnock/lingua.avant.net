@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The First Sorrowful Mystery, the Agony in the Garden.", "phonetic": "The First Sorrowful Mystery, the Agony in the Garden." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The First Sorrowful Mystery, the Agony in the Garden.",
+          "phonetic": "The First Sorrowful Mystery, the Agony in the Garden.",
+          "timing": {
+            "full": [
+              0.142,
+              3.576
+            ],
+            "passage": [
+              0.142,
+              3.576
+            ]
+          }
+        }
       ]
     }
   ]

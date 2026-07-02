@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "O mi Iesu,", "phonetic": "O mi Iesu," },
-        { "passage_segment_id": "1b", "text": "dimitte nobis peccata nostra,", "phonetic": "dimitte nobis peccata nostra," }
+        {
+          "passage_segment_id": "1a",
+          "text": "O mi Iesu,",
+          "phonetic": "O mi Iesu,",
+          "timing": {
+            "full": [
+              0.107,
+              0.842
+            ],
+            "passage": [
+              0.107,
+              0.857
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "dimitte nobis peccata nostra,",
+          "phonetic": "dimitte nobis peccata nostra,",
+          "timing": {
+            "full": [
+              1.136,
+              3.195
+            ],
+            "passage": [
+              1.165,
+              3.342
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "libera nos ab igne inferni,", "phonetic": "libera nos ab igne inferni," }
+        {
+          "passage_segment_id": "2a",
+          "text": "libera nos ab igne inferni,",
+          "phonetic": "libera nos ab igne inferni,",
+          "timing": {
+            "full": [
+              3.46,
+              5.445
+            ],
+            "passage": [
+              0.109,
+              2.153
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "perduc omnes ad caelum,", "phonetic": "perduc omnes ad caelum," }
+        {
+          "passage_segment_id": "3a",
+          "text": "perduc omnes ad caelum,",
+          "phonetic": "perduc omnes ad caelum,",
+          "timing": {
+            "full": [
+              5.577,
+              7.224
+            ],
+            "passage": [
+              0.109,
+              1.962
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "praesertim eos qui maxime indigent misericordia tua.", "phonetic": "praesertim eos qui maxime indigent misericordia tua," }
+        {
+          "passage_segment_id": "4a",
+          "text": "praesertim eos qui maxime indigent misericordia tua.",
+          "phonetic": "praesertim eos qui maxime indigent misericordia tua,",
+          "timing": {
+            "full": [
+              7.544,
+              11.353
+            ],
+            "passage": [
+              0.109,
+              3.844
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              11.647,
+              12.132
+            ],
+            "passage": [
+              0.109,
+              0.859
+            ]
+          }
+        }
       ]
     }
   ]

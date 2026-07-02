@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fifth Joyful Mystery, the Finding of Jesus in the Temple.", "phonetic": "The Fifth Joyful Mystery, the Finding of Jesus in the Temple." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fifth Joyful Mystery, the Finding of Jesus in the Temple.",
+          "phonetic": "The Fifth Joyful Mystery, the Finding of Jesus in the Temple.",
+          "timing": {
+            "full": [
+              0.142,
+              4.063
+            ],
+            "passage": [
+              0.142,
+              4.063
+            ]
+          }
+        }
       ]
     }
   ]

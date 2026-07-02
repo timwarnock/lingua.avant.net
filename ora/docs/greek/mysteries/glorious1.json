@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Πρώτο Ένδοξο Μυστήριο, η Ανάσταση.",
-          "phonetic": "Pró-to Én-do-xo Mys-tí-rio, i A-ná-sta-si."
+          "phonetic": "Pró-to Én-do-xo Mys-tí-rio, i A-ná-sta-si.",
+          "timing": {
+            "full": [
+              0.1,
+              2.613
+            ],
+            "passage": [
+              0.1,
+              2.613
+            ]
+          }
         }
       ]
     }

@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Third Joyful Mystery, the Nativity.", "phonetic": "The Third Joyful Mystery, the Nativity." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Third Joyful Mystery, the Nativity.",
+          "phonetic": "The Third Joyful Mystery, the Nativity.",
+          "timing": {
+            "full": [
+              0.142,
+              2.866
+            ],
+            "passage": [
+              0.142,
+              2.866
+            ]
+          }
+        }
       ]
     }
   ]

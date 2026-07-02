@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Second Glorious Mystery, the Ascension.", "phonetic": "The Second Glorious Mystery, the Ascension." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Second Glorious Mystery, the Ascension.",
+          "phonetic": "The Second Glorious Mystery, the Ascension.",
+          "timing": {
+            "full": [
+              0.142,
+              3.05
+            ],
+            "passage": [
+              0.142,
+              3.05
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Thương Thứ Nhất, Đau Thương trong Vườn Cây Dầu.",
-          "phonetic": "Mầu Nhiệm Thương Thứ Nhất, Đau Thương trong Vườn Cây Dầu."
+          "phonetic": "Mầu Nhiệm Thương Thứ Nhất, Đau Thương trong Vườn Cây Dầu.",
+          "timing": {
+            "full": [
+              0.1,
+              3.403
+            ],
+            "passage": [
+              0.1,
+              3.403
+            ]
+          }
         }
       ]
     }

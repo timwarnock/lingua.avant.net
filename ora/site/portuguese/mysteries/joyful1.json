@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Primeiro Mistério Gozoso, a Anunciação.",
-          "phonetic": "Primeiro Mistério Gozoso, a Anunciação."
+          "phonetic": "Primeiro Mistério Gozoso, a Anunciação.",
+          "timing": {
+            "full": [
+              0.103,
+              2.537
+            ],
+            "passage": [
+              0.103,
+              2.537
+            ]
+          }
         }
       ]
     }

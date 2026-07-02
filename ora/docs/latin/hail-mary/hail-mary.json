@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
-        { "passage_segment_id": "1b", "text": "gratia plena,", "phonetic": "gratia plena," },
-        { "passage_segment_id": "1c", "text": "Dominus tecum.", "phonetic": "Dominus tecum." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ave Maria,",
+          "phonetic": "Ave Maria,",
+          "timing": {
+            "full": [
+              0.109,
+              0.962
+            ],
+            "passage": [
+              0.109,
+              0.962
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "gratia plena,",
+          "phonetic": "gratia plena,",
+          "timing": {
+            "full": [
+              1.285,
+              2.271
+            ],
+            "passage": [
+              1.285,
+              2.271
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Dominus tecum.",
+          "phonetic": "Dominus tecum.",
+          "timing": {
+            "full": [
+              2.653,
+              3.991
+            ],
+            "passage": [
+              2.653,
+              3.991
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Benedicta tu in mulieribus,", "phonetic": "Benedicta tu in mulieribus," },
-        { "passage_segment_id": "2b", "text": "et benedictus fructus ventris tui,", "phonetic": "et benedictus fructus ventris tui," },
-        { "passage_segment_id": "2c", "text": "Iesus.", "phonetic": "Iesus." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Benedicta tu in mulieribus,",
+          "phonetic": "Benedicta tu in mulieribus,",
+          "timing": {
+            "full": [
+              5.029,
+              6.971
+            ],
+            "passage": [
+              0.109,
+              2.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "et benedictus fructus ventris tui,",
+          "phonetic": "et benedictus fructus ventris tui,",
+          "timing": {
+            "full": [
+              7.324,
+              9.956
+            ],
+            "passage": [
+              2.403,
+              5.035
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Iesus.",
+          "phonetic": "Iesus.",
+          "timing": {
+            "full": [
+              10.103,
+              10.926
+            ],
+            "passage": [
+              5.182,
+              6.006
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Sancta Maria,", "phonetic": "Sancta Maria," },
-        { "passage_segment_id": "3b", "text": "Mater Dei,", "phonetic": "Mater Dei," },
-        { "passage_segment_id": "3c", "text": "ora pro nobis peccatoribus,", "phonetic": "ora pro nobis peccatoribus," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Sancta Maria,",
+          "phonetic": "Sancta Maria,",
+          "timing": {
+            "full": [
+              11.971,
+              12.912
+            ],
+            "passage": [
+              0.109,
+              1.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Mater Dei,",
+          "phonetic": "Mater Dei,",
+          "timing": {
+            "full": [
+              13.206,
+              14.132
+            ],
+            "passage": [
+              1.374,
+              2.315
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "ora pro nobis peccatoribus,",
+          "phonetic": "ora pro nobis peccatoribus,",
+          "timing": {
+            "full": [
+              14.485,
+              16.426
+            ],
+            "passage": [
+              2.682,
+              4.815
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "nunc et in hora mortis nostrae.", "phonetic": "nunc et in hora mortis nostrae," }
+        {
+          "passage_segment_id": "4a",
+          "text": "nunc et in hora mortis nostrae.",
+          "phonetic": "nunc et in hora mortis nostrae,",
+          "timing": {
+            "full": [
+              16.794,
+              18.75
+            ],
+            "passage": [
+              0.109,
+              2.168
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              18.912,
+              19.368
+            ],
+            "passage": [
+              0.109,
+              0.859
+            ]
+          }
+        }
       ]
     }
   ]

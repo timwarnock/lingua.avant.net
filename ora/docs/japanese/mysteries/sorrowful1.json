@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一の苦しみの玄義、ゲッセマネの祈り.",
-          "phonetic": "Dai ichi no kurushimi no gen'i, ges semane no inori."
+          "phonetic": "Dai ichi no kurushimi no gen'i, ges semane no inori.",
+          "timing": {
+            "full": [
+              0.103,
+              3.247
+            ],
+            "passage": [
+              0.103,
+              3.247
+            ]
+          }
         }
       ]
     }

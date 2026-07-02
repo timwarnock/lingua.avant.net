@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers.",
-          "phonetic": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers."
+          "phonetic": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers.",
+          "timing": {
+            "full": [
+              0.103,
+              3.682
+            ],
+            "passage": [
+              0.103,
+              3.682
+            ]
+          }
         }
       ]
     }

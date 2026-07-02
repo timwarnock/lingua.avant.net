@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Em nome do Pai,", "phonetic": "Em nome do Pai," },
-        { "passage_segment_id": "1b", "text": "e do Filho,", "phonetic": "e do Filho," },
-        { "passage_segment_id": "1c", "text": "e do Espírito Santo,", "phonetic": "e do Espírito Santo," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Em nome do Pai,",
+          "phonetic": "Em nome do Pai,",
+          "timing": {
+            "full": [
+              0.103,
+              0.997
+            ],
+            "passage": [
+              0.103,
+              0.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "e do Filho,",
+          "phonetic": "e do Filho,",
+          "timing": {
+            "full": [
+              1.168,
+              1.839
+            ],
+            "passage": [
+              1.142,
+              1.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "e do Espírito Santo,",
+          "phonetic": "e do Espírito Santo,",
+          "timing": {
+            "full": [
+              1.879,
+              3.116
+            ],
+            "passage": [
+              1.853,
+              3.063
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amém.", "phonetic": "Amém." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amém.",
+          "phonetic": "Amém.",
+          "timing": {
+            "full": [
+              3.168,
+              3.537
+            ],
+            "passage": [
+              0.103,
+              0.563
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Terceiro Mistério Luminoso, o Anúncio do Reino.",
-          "phonetic": "Terceiro Mistério Luminoso, o Anúncio do Reino."
+          "phonetic": "Terceiro Mistério Luminoso, o Anúncio do Reino.",
+          "timing": {
+            "full": [
+              0.103,
+              2.84
+            ],
+            "passage": [
+              0.103,
+              2.84
+            ]
+          }
         }
       ]
     }

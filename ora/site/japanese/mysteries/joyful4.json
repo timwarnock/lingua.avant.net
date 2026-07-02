@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第四の喜びの玄義、献呈.",
-          "phonetic": "Dai yon no yorokobi no gen'i, kentei."
+          "phonetic": "Dai yon no yorokobi no gen'i, kentei.",
+          "timing": {
+            "full": [
+              0.103,
+              2.747
+            ],
+            "passage": [
+              0.103,
+              2.747
+            ]
+          }
         }
       ]
     }

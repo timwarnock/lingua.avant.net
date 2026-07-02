@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fourth Glorious Mystery, the Assumption.", "phonetic": "The Fourth Glorious Mystery, the Assumption." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fourth Glorious Mystery, the Assumption.",
+          "phonetic": "The Fourth Glorious Mystery, the Assumption.",
+          "timing": {
+            "full": [
+              0.142,
+              2.945
+            ],
+            "passage": [
+              0.142,
+              2.945
+            ]
+          }
+        }
       ]
     }
   ]

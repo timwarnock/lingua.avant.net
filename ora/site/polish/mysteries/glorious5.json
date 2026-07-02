@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny.",
-          "phonetic": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny."
+          "phonetic": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny.",
+          "timing": {
+            "full": [
+              0.103,
+              3.892
+            ],
+            "passage": [
+              0.103,
+              3.892
+            ]
+          }
         }
       ]
     }

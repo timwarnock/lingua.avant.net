@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Primeiro Mistério Doloroso, a Agonia no Horto.",
-          "phonetic": "Primeiro Mistério Doloroso, a Agonia no Horto."
+          "phonetic": "Primeiro Mistério Doloroso, a Agonia no Horto.",
+          "timing": {
+            "full": [
+              0.103,
+              2.958
+            ],
+            "passage": [
+              0.103,
+              2.958
+            ]
+          }
         }
       ]
     }

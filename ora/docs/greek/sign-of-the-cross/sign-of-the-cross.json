@@ -11,15 +11,67 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ἐν ὀνόματι τοῦ Πατρὸς", "phonetic": "En o-nó-ma-ti tou Pa-trós" },
-        { "passage_segment_id": "1b", "text": "καὶ τοῦ Υἱοῦ", "phonetic": "kai tou Yi-oú" },
-        { "passage_segment_id": "1c", "text": "καὶ τοῦ Ἁγίου Πνεύματος,", "phonetic": "kai tou Ha-gí-ou Pneú-ma-tos," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Εν ονόματι του Πατρος",
+          "phonetic": "En o-nó-ma-ti tou Pa-trós",
+          "timing": {
+            "full": [
+              0.1,
+              3.692
+            ],
+            "passage": [
+              0.1,
+              2.968
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "και του Υιου",
+          "phonetic": "kai tou Yi-oú",
+          "timing": {
+            "full": [
+              1.113,
+              2.376
+            ],
+            "passage": [
+              1.113,
+              2.389
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "και του Αγίου Πνεύματος,",
+          "phonetic": "kai tou Ha-gí-ou Pneú-ma-tos,",
+          "timing": {
+            "full": [
+              2.376,
+              3.942
+            ],
+            "passage": [
+              2.389,
+              4.008
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Αμήν.",
+          "phonetic": "A-mḗn.",
+          "timing": {
+            "passage": [
+              0.1,
+              0.903
+            ]
+          }
+        }
       ]
     }
   ]

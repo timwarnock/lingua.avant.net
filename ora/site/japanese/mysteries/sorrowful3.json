@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第三の苦しみの玄義、いばらの冠.",
-          "phonetic": "Dai san no kurushimi no gen'i, ibara no kanmuri."
+          "phonetic": "Dai san no kurushimi no gen'i, ibara no kanmuri.",
+          "timing": {
+            "full": [
+              0.103,
+              2.932
+            ],
+            "passage": [
+              0.103,
+              2.932
+            ]
+          }
         }
       ]
     }

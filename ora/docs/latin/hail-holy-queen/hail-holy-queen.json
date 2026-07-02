@@ -11,64 +11,386 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Salve, Regina,", "phonetic": "Salve, Regina," },
-        { "passage_segment_id": "1b", "text": "mater misericordiae;", "phonetic": "mater misericordiae;" },
-        { "passage_segment_id": "1c", "text": "vita, dulcedo", "phonetic": "vita, dulcedo" },
-        { "passage_segment_id": "1d", "text": "et spes nostra,", "phonetic": "et spes nostra," },
-        { "passage_segment_id": "1e", "text": "salve.", "phonetic": "salve." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Salve, Regina,",
+          "phonetic": "Salve, Regina,",
+          "timing": {
+            "full": [
+              0.109,
+              1.682
+            ],
+            "passage": [
+              0.109,
+              1.682
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "mater misericordiae;",
+          "phonetic": "mater misericordiae;",
+          "timing": {
+            "full": [
+              2.035,
+              3.535
+            ],
+            "passage": [
+              2.035,
+              3.535
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "vita, dulcedo",
+          "phonetic": "vita, dulcedo",
+          "timing": {
+            "full": [
+              3.844,
+              5.55
+            ],
+            "passage": [
+              3.844,
+              5.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "et spes nostra,",
+          "phonetic": "et spes nostra,",
+          "timing": {
+            "full": [
+              5.565,
+              6.726
+            ],
+            "passage": [
+              5.565,
+              6.726
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1e",
+          "text": "salve.",
+          "phonetic": "salve.",
+          "timing": {
+            "full": [
+              6.962,
+              7.609
+            ],
+            "passage": [
+              6.962,
+              7.609
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Ad te clamamus", "phonetic": "Ad te clamamus" },
-        { "passage_segment_id": "2b", "text": "exsules filii Hevae.", "phonetic": "exsules filii Hevae." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Ad te clamamus",
+          "phonetic": "Ad te clamamus",
+          "timing": {
+            "full": [
+              8.662,
+              9.735
+            ],
+            "passage": [
+              0.109,
+              1.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "exsules filii Hevae.",
+          "phonetic": "exsules filii Hevae.",
+          "timing": {
+            "full": [
+              9.75,
+              11.323
+            ],
+            "passage": [
+              1.197,
+              2.771
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Ad te suspiramus", "phonetic": "Ad te suspiramus" },
-        { "passage_segment_id": "3b", "text": "gementes et flentes", "phonetic": "gementes et flentes" },
-        { "passage_segment_id": "3c", "text": "in hac lacrimarum valle.", "phonetic": "in hac lacrimarum valle." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Ad te suspiramus",
+          "phonetic": "Ad te suspiramus",
+          "timing": {
+            "full": [
+              12.368,
+              13.588
+            ],
+            "passage": [
+              0.109,
+              1.329
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "gementes et flentes",
+          "phonetic": "gementes et flentes",
+          "timing": {
+            "full": [
+              13.603,
+              15.162
+            ],
+            "passage": [
+              1.344,
+              2.903
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "in hac lacrimarum valle.",
+          "phonetic": "in hac lacrimarum valle.",
+          "timing": {
+            "full": [
+              15.176,
+              16.779
+            ],
+            "passage": [
+              2.918,
+              4.521
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Eia ergo,", "phonetic": "Eia ergo," },
-        { "passage_segment_id": "4b", "text": "advocata nostra,", "phonetic": "advocata nostra," },
-        { "passage_segment_id": "4c", "text": "illos tuos misericordes oculos ad nos converte.", "phonetic": "illos tuos misericordes oculos ad nos converte." }
+        {
+          "passage_segment_id": "4a",
+          "text": "Eia ergo,",
+          "phonetic": "Eia ergo,",
+          "timing": {
+            "full": [
+              17.824,
+              18.691
+            ],
+            "passage": [
+              0.109,
+              0.976
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "advocata nostra,",
+          "phonetic": "advocata nostra,",
+          "timing": {
+            "full": [
+              18.868,
+              20.103
+            ],
+            "passage": [
+              1.153,
+              2.388
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "illos tuos misericordes oculos ad nos converte.",
+          "phonetic": "illos tuos misericordes oculos ad nos converte.",
+          "timing": {
+            "full": [
+              20.265,
+              23.941
+            ],
+            "passage": [
+              2.55,
+              6.226
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Et Iesum,", "phonetic": "Et Iesum," },
-        { "passage_segment_id": "5b", "text": "benedictum fructum ventris tui,", "phonetic": "benedictum fructum ventris tui," },
-        { "passage_segment_id": "5c", "text": "nobis post hoc exsilium", "phonetic": "nobis post hoc exsilium" },
-        { "passage_segment_id": "5d", "text": "ostende.", "phonetic": "ostende." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Et Iesum,",
+          "phonetic": "Et Iesum,",
+          "timing": {
+            "full": [
+              24.985,
+              25.765
+            ],
+            "passage": [
+              0.109,
+              0.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "benedictum fructum ventris tui,",
+          "phonetic": "benedictum fructum ventris tui,",
+          "timing": {
+            "full": [
+              26.044,
+              28.441
+            ],
+            "passage": [
+              1.168,
+              3.565
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "nobis post hoc exsilium",
+          "phonetic": "nobis post hoc exsilium",
+          "timing": {
+            "full": [
+              28.603,
+              30.353
+            ],
+            "passage": [
+              3.726,
+              5.476
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5d",
+          "text": "ostende.",
+          "phonetic": "ostende.",
+          "timing": {
+            "full": [
+              30.368,
+              31.103
+            ],
+            "passage": [
+              5.491,
+              6.226
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "O clemens,", "phonetic": "O clemens," },
-        { "passage_segment_id": "6b", "text": "o pia,", "phonetic": "o pia," },
-        { "passage_segment_id": "6c", "text": "o dulcis Virgo Maria.", "phonetic": "o dulcis Virgo Maria." }
+        {
+          "passage_segment_id": "6a",
+          "text": "O clemens,",
+          "phonetic": "O clemens,",
+          "timing": {
+            "full": [
+              32.13,
+              33.057
+            ],
+            "passage": [
+              0.107,
+              1.033
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "o pia,",
+          "phonetic": "o pia,",
+          "timing": {
+            "full": [
+              33.41,
+              34.057
+            ],
+            "passage": [
+              1.386,
+              2.033
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "o dulcis Virgo Maria.",
+          "phonetic": "o dulcis Virgo Maria.",
+          "timing": {
+            "full": [
+              34.38,
+              36.189
+            ],
+            "passage": [
+              2.357,
+              4.165
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Ora pro nobis,", "phonetic": "Ora pro nobis," },
-        { "passage_segment_id": "7b", "text": "sancta Dei Genitrix.", "phonetic": "sancta Dei Genitrix." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Ora pro nobis,",
+          "phonetic": "Ora pro nobis,",
+          "timing": {
+            "full": [
+              37.221,
+              38.323
+            ],
+            "passage": [
+              0.109,
+              1.212
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "sancta Dei Genitrix.",
+          "phonetic": "sancta Dei Genitrix.",
+          "timing": {
+            "full": [
+              38.618,
+              40.294
+            ],
+            "passage": [
+              1.506,
+              3.182
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "Ut digni efficiamur promissionibus Christi.", "phonetic": "Ut digni efficiamur promissionibus Christi." }
+        {
+          "passage_segment_id": "8a",
+          "text": "Ut digni efficiamur promissionibus Christi.",
+          "phonetic": "Ut digni efficiamur promissionibus Christi.",
+          "timing": {
+            "full": [
+              41.324,
+              44.353
+            ],
+            "passage": [
+              0.109,
+              3.138
+            ]
+          }
+        }
       ]
     }
   ]

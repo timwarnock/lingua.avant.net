@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "En el nombre del Padre,", "phonetic": "En el nombre del Padre," },
-        { "passage_segment_id": "1b", "text": "y del Hijo,", "phonetic": "y del Hijo," },
-        { "passage_segment_id": "1c", "text": "y del Espíritu Santo.", "phonetic": "y del Espíritu Santo," }
+        {
+          "passage_segment_id": "1a",
+          "text": "En el nombre del Padre,",
+          "phonetic": "En el nombre del Padre,",
+          "timing": {
+            "full": [
+              0.102,
+              1.325
+            ],
+            "passage": [
+              0.102,
+              1.312
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "y del Hijo,",
+          "phonetic": "y del Hijo,",
+          "timing": {
+            "full": [
+              1.551,
+              2.136
+            ],
+            "passage": [
+              1.524,
+              2.083
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "y del Espíritu Santo.",
+          "phonetic": "y del Espíritu Santo,",
+          "timing": {
+            "full": [
+              2.469,
+              3.652
+            ],
+            "passage": [
+              2.402,
+              3.679
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amén.", "phonetic": "Amén." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amén.",
+          "phonetic": "Amén.",
+          "timing": {
+            "full": [
+              3.852,
+              4.383
+            ],
+            "passage": [
+              0.1,
+              0.592
+            ]
+          }
+        }
       ]
     }
   ]

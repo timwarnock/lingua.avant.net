@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Δεύτερο Χαροποιό Μυστήριο, η Επίσκεψη.",
-          "phonetic": "Déf-te-ro Cha-ro-pi-ó Mys-tí-rio, i E-pí-ske-psi."
+          "phonetic": "Déf-te-ro Cha-ro-pi-ó Mys-tí-rio, i E-pí-ske-psi.",
+          "timing": {
+            "full": [
+              0.1,
+              2.863
+            ],
+            "passage": [
+              0.1,
+              2.863
+            ]
+          }
         }
       ]
     }

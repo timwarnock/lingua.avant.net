@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Lord Jesus Christ,", "phonetic": "Lord Jesus Christ," },
-        { "passage_segment_id": "1b", "text": "Son of God,", "phonetic": "Son of God," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Lord Jesus Christ,",
+          "phonetic": "Lord Jesus Christ,",
+          "timing": {
+            "full": [
+              0.116,
+              1.524
+            ],
+            "passage": [
+              0.116,
+              1.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Son of God,",
+          "phonetic": "Son of God,",
+          "timing": {
+            "full": [
+              1.787,
+              2.524
+            ],
+            "passage": [
+              1.826,
+              2.668
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "have mercy on me,", "phonetic": "have mercy on me," },
-        { "passage_segment_id": "2b", "text": "a sinner.", "phonetic": "a sinner." }
+        {
+          "passage_segment_id": "2a",
+          "text": "have mercy on me,",
+          "phonetic": "have mercy on me,",
+          "timing": {
+            "full": [
+              2.839,
+              3.853
+            ],
+            "passage": [
+              0.116,
+              1.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "a sinner.",
+          "phonetic": "a sinner.",
+          "timing": {
+            "full": [
+              4.116,
+              4.655
+            ],
+            "passage": [
+              1.589,
+              2.155
+            ]
+          }
+        }
       ]
     }
   ]

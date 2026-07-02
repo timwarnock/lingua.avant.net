@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Troisième Mystère Douloureux, le Couronnement d'épines.",
-          "phonetic": "Troisième Mystère Douloureux, le Couronnement d'épines."
+          "phonetic": "Troisième Mystère Douloureux, le Couronnement d'épines.",
+          "timing": {
+            "full": [
+              0.103,
+              3.195
+            ],
+            "passage": [
+              0.103,
+              3.195
+            ]
+          }
         }
       ]
     }

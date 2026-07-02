@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Segundo Misterio Gozoso, la Visitación.",
-          "phonetic": "El Segundo Misterio Gozoso, la Visitación."
+          "phonetic": "El Segundo Misterio Gozoso, la Visitación.",
+          "timing": {
+            "full": [
+              0.101,
+              2.943
+            ],
+            "passage": [
+              0.101,
+              2.943
+            ]
+          }
         }
       ]
     }

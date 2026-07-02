@@ -11,64 +11,386 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Dios te salve, Reina y Madre de misericordia,", "phonetic": "Dios te salve, Reina y Madre de misericordia," },
-        { "passage_segment_id": "1b", "text": "vida,", "phonetic": "vida," },
-        { "passage_segment_id": "1c", "text": "dulzura", "phonetic": "dulzura" },
-        { "passage_segment_id": "1d", "text": "y esperanza nuestra,", "phonetic": "y esperanza nuestra," },
-        { "passage_segment_id": "1e", "text": "Dios te salve.", "phonetic": "Dios te salve," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Dios te salve, Reina y Madre de misericordia,",
+          "phonetic": "Dios te salve, Reina y Madre de misericordia,",
+          "timing": {
+            "full": [
+              0.1,
+              2.866
+            ],
+            "passage": [
+              0.1,
+              2.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "vida,",
+          "phonetic": "vida,",
+          "timing": {
+            "full": [
+              3.159,
+              3.478
+            ],
+            "passage": [
+              3.132,
+              3.438
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "dulzura",
+          "phonetic": "dulzura",
+          "timing": {
+            "full": [
+              3.784,
+              4.249
+            ],
+            "passage": [
+              3.744,
+              4.222
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "y esperanza nuestra,",
+          "phonetic": "y esperanza nuestra,",
+          "timing": {
+            "full": [
+              4.262,
+              5.246
+            ],
+            "passage": [
+              4.236,
+              5.206
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1e",
+          "text": "Dios te salve.",
+          "phonetic": "Dios te salve,",
+          "timing": {
+            "full": [
+              5.565,
+              6.39
+            ],
+            "passage": [
+              5.539,
+              6.43
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "A ti clamamos", "phonetic": "A ti clamamos," },
-        { "passage_segment_id": "2b", "text": "los desterrados hijos de Eva.", "phonetic": "los desterrados hijos de Eva," }
+        {
+          "passage_segment_id": "2a",
+          "text": "A ti clamamos",
+          "phonetic": "A ti clamamos,",
+          "timing": {
+            "full": [
+              6.656,
+              7.48
+            ],
+            "passage": [
+              0.102,
+              1.019
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "los desterrados hijos de Eva.",
+          "phonetic": "los desterrados hijos de Eva,",
+          "timing": {
+            "full": [
+              7.789,
+              9.478
+            ],
+            "passage": [
+              1.245,
+              2.894
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "A ti suspiramos,", "phonetic": "A ti suspiramos," },
-        { "passage_segment_id": "3b", "text": "gimiendo y llorando", "phonetic": "gimiendo y llorando," },
-        { "passage_segment_id": "3c", "text": "en este valle de lágrimas.", "phonetic": "en este valle de lágrimas," }
+        {
+          "passage_segment_id": "3a",
+          "text": "A ti suspiramos,",
+          "phonetic": "A ti suspiramos,",
+          "timing": {
+            "full": [
+              9.797,
+              10.821
+            ],
+            "passage": [
+              0.1,
+              1.23
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "gimiendo y llorando",
+          "phonetic": "gimiendo y llorando,",
+          "timing": {
+            "full": [
+              11.114,
+              12.164
+            ],
+            "passage": [
+              1.496,
+              2.534
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "en este valle de lágrimas.",
+          "phonetic": "en este valle de lágrimas,",
+          "timing": {
+            "full": [
+              12.47,
+              13.787
+            ],
+            "passage": [
+              2.826,
+              4.289
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Ea, pues, Señora,", "phonetic": "Ea, pues, Señora," },
-        { "passage_segment_id": "4b", "text": "abogada nuestra,", "phonetic": "abogada nuestra," },
-        { "passage_segment_id": "4c", "text": "vuelve a nosotros esos tus ojos misericordiosos.", "phonetic": "vuelve a nosotros esos tus ojos misericordiosos," }
+        {
+          "passage_segment_id": "4a",
+          "text": "Ea, pues, Señora,",
+          "phonetic": "Ea, pues, Señora,",
+          "timing": {
+            "full": [
+              13.973,
+              15.874
+            ],
+            "passage": [
+              0.102,
+              1.844
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "abogada nuestra,",
+          "phonetic": "abogada nuestra,",
+          "timing": {
+            "full": [
+              16.207,
+              17.085
+            ],
+            "passage": [
+              2.163,
+              3.014
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "vuelve a nosotros esos tus ojos misericordiosos.",
+          "phonetic": "vuelve a nosotros esos tus ojos misericordiosos,",
+          "timing": {
+            "full": [
+              17.404,
+              19.983
+            ],
+            "passage": [
+              3.333,
+              6.072
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Y después de este destierro,", "phonetic": "Y después de este destierro," },
-        { "passage_segment_id": "5b", "text": "muéstranos", "phonetic": "muéstranos," },
-        { "passage_segment_id": "5c", "text": "a Jesús,", "phonetic": "a Jesús," },
-        { "passage_segment_id": "5d", "text": "fruto bendito de tu vientre.", "phonetic": "fruto bendito de tu vientre," }
+        {
+          "passage_segment_id": "5a",
+          "text": "Y después de este destierro,",
+          "phonetic": "Y después de este destierro,",
+          "timing": {
+            "full": [
+              20.236,
+              21.659
+            ],
+            "passage": [
+              0.102,
+              1.578
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "muéstranos",
+          "phonetic": "muéstranos,",
+          "timing": {
+            "full": [
+              21.938,
+              22.776
+            ],
+            "passage": [
+              1.91,
+              2.588
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "a Jesús,",
+          "phonetic": "a Jesús,",
+          "timing": {
+            "full": [
+              22.976,
+              23.521
+            ],
+            "passage": [
+              2.841,
+              3.386
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5d",
+          "text": "fruto bendito de tu vientre.",
+          "phonetic": "fruto bendito de tu vientre,",
+          "timing": {
+            "full": [
+              23.76,
+              25.17
+            ],
+            "passage": [
+              3.652,
+              5.141
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "Oh clemente,", "phonetic": "Oh clemente," },
-        { "passage_segment_id": "6b", "text": "oh piadosa,", "phonetic": "oh piadosa," },
-        { "passage_segment_id": "6c", "text": "oh dulce Virgen María.", "phonetic": "oh dulce Virgen María," }
+        {
+          "passage_segment_id": "6a",
+          "text": "Oh clemente,",
+          "phonetic": "Oh clemente,",
+          "timing": {
+            "full": [
+              25.422,
+              26.061
+            ],
+            "passage": [
+              0.1,
+              0.924
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "oh piadosa,",
+          "phonetic": "oh piadosa,",
+          "timing": {
+            "full": [
+              26.327,
+              26.925
+            ],
+            "passage": [
+              1.204,
+              1.815
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "oh dulce Virgen María.",
+          "phonetic": "oh dulce Virgen María,",
+          "timing": {
+            "full": [
+              27.231,
+              28.428
+            ],
+            "passage": [
+              2.095,
+              3.424
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Ruega por nosotros,", "phonetic": "Ruega por nosotros," },
-        { "passage_segment_id": "7b", "text": "Santa Madre de Dios.", "phonetic": "Santa Madre de Dios," }
+        {
+          "passage_segment_id": "7a",
+          "text": "Ruega por nosotros,",
+          "phonetic": "Ruega por nosotros,",
+          "timing": {
+            "full": [
+              28.733,
+              29.97
+            ],
+            "passage": [
+              0.1,
+              1.35
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "Santa Madre de Dios.",
+          "phonetic": "Santa Madre de Dios,",
+          "timing": {
+            "full": [
+              30.196,
+              31.38
+            ],
+            "passage": [
+              1.549,
+              2.866
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "Para que seamos dignos de las promesas de Cristo.", "phonetic": "Para que seamos dignos de las promesas de Cristo," }
+        {
+          "passage_segment_id": "8a",
+          "text": "Para que seamos dignos de las promesas de Cristo.",
+          "phonetic": "Para que seamos dignos de las promesas de Cristo,",
+          "timing": {
+            "full": [
+              31.632,
+              35.369
+            ],
+            "passage": [
+              0.1,
+              2.666
+            ]
+          }
+        }
       ]
     }
   ]

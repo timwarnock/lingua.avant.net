@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Sáng Thứ Tư, Đức Mẹ Lên Trời.",
-          "phonetic": "Mầu Nhiệm Sáng Thứ Tư, Đức Mẹ Lên Trời."
+          "phonetic": "Mầu Nhiệm Sáng Thứ Tư, Đức Mẹ Lên Trời.",
+          "timing": {
+            "full": [
+              0.1,
+              2.929
+            ],
+            "passage": [
+              0.1,
+              2.929
+            ]
+          }
         }
       ]
     }

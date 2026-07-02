@@ -11,24 +11,136 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Gloria Patri,", "phonetic": "Gloria Patri," },
-        { "passage_segment_id": "1b", "text": "et Filio,", "phonetic": "et Filio," },
-        { "passage_segment_id": "1c", "text": "et Spiritui Sancto.", "phonetic": "et Spiritui Sancto." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Gloria Patri,",
+          "phonetic": "Gloria Patri,",
+          "timing": {
+            "full": [
+              0.109,
+              1.153
+            ],
+            "passage": [
+              0.109,
+              1.153
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "et Filio,",
+          "phonetic": "et Filio,",
+          "timing": {
+            "full": [
+              1.329,
+              2.153
+            ],
+            "passage": [
+              1.329,
+              2.153
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "et Spiritui Sancto.",
+          "phonetic": "et Spiritui Sancto.",
+          "timing": {
+            "full": [
+              2.462,
+              3.976
+            ],
+            "passage": [
+              2.462,
+              3.976
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Sicut erat in principio,", "phonetic": "Sicut erat in principio," },
-        { "passage_segment_id": "2b", "text": "et nunc,", "phonetic": "et nunc," },
-        { "passage_segment_id": "2c", "text": "et semper,", "phonetic": "et semper," },
-        { "passage_segment_id": "2d", "text": "et in saecula saeculorum.", "phonetic": "et in saecula saeculorum." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Sicut erat in principio,",
+          "phonetic": "Sicut erat in principio,",
+          "timing": {
+            "full": [
+              5.015,
+              6.779
+            ],
+            "passage": [
+              0.109,
+              1.874
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "et nunc,",
+          "phonetic": "et nunc,",
+          "timing": {
+            "full": [
+              7.074,
+              7.735
+            ],
+            "passage": [
+              2.168,
+              2.829
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "et semper,",
+          "phonetic": "et semper,",
+          "timing": {
+            "full": [
+              8.029,
+              8.868
+            ],
+            "passage": [
+              3.124,
+              3.962
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "et in saecula saeculorum.",
+          "phonetic": "et in saecula saeculorum.",
+          "timing": {
+            "full": [
+              9.162,
+              11.059
+            ],
+            "passage": [
+              4.256,
+              6.153
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              12.103,
+              12.853
+            ],
+            "passage": [
+              0.109,
+              0.859
+            ]
+          }
+        }
       ]
     }
   ]

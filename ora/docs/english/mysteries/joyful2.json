@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Second Joyful Mystery, the Visitation.", "phonetic": "The Second Joyful Mystery, the Visitation." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Second Joyful Mystery, the Visitation.",
+          "phonetic": "The Second Joyful Mystery, the Visitation.",
+          "timing": {
+            "full": [
+              0.142,
+              3.142
+            ],
+            "passage": [
+              0.142,
+              3.142
+            ]
+          }
+        }
       ]
     }
   ]

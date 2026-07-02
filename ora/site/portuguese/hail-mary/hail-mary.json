@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
-        { "passage_segment_id": "1b", "text": "cheia de graça,", "phonetic": "cheia de graça," },
-        { "passage_segment_id": "1c", "text": "o Senhor é convosco.", "phonetic": "o Senhor é convosco." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ave Maria,",
+          "phonetic": "Ave Maria,",
+          "timing": {
+            "full": [
+              0.103,
+              0.853
+            ],
+            "passage": [
+              0.103,
+              0.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "cheia de graça,",
+          "phonetic": "cheia de graça,",
+          "timing": {
+            "full": [
+              0.905,
+              1.853
+            ],
+            "passage": [
+              0.905,
+              1.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "o Senhor é convosco.",
+          "phonetic": "o Senhor é convosco.",
+          "timing": {
+            "full": [
+              1.932,
+              3.116
+            ],
+            "passage": [
+              1.932,
+              3.116
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Bendita sois vós entre as mulheres,", "phonetic": "Bendita sois vós entre as mulheres," },
-        { "passage_segment_id": "2b", "text": "e bendito é o fruto do vosso ventre,", "phonetic": "e bendito é o fruto do vosso ventre," },
-        { "passage_segment_id": "2c", "text": "Jesus.", "phonetic": "Jesus." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Bendita sois vós entre as mulheres,",
+          "phonetic": "Bendita sois vós entre as mulheres,",
+          "timing": {
+            "full": [
+              3.395,
+              5.579
+            ],
+            "passage": [
+              0.103,
+              2.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "e bendito é o fruto do vosso ventre,",
+          "phonetic": "e bendito é o fruto do vosso ventre,",
+          "timing": {
+            "full": [
+              5.763,
+              7.816
+            ],
+            "passage": [
+              2.471,
+              4.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Jesus.",
+          "phonetic": "Jesus.",
+          "timing": {
+            "full": [
+              7.842,
+              8.461
+            ],
+            "passage": [
+              4.55,
+              5.168
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Santa Maria,", "phonetic": "Santa Maria," },
-        { "passage_segment_id": "3b", "text": "Mãe de Deus,", "phonetic": "Mãe de Deus," },
-        { "passage_segment_id": "3c", "text": "rogai por nós pecadores,", "phonetic": "rogai por nós pecadores," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Santa Maria,",
+          "phonetic": "Santa Maria,",
+          "timing": {
+            "full": [
+              8.737,
+              9.605
+            ],
+            "passage": [
+              0.103,
+              0.984
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Mãe de Deus,",
+          "phonetic": "Mãe de Deus,",
+          "timing": {
+            "full": [
+              9.632,
+              10.382
+            ],
+            "passage": [
+              1.037,
+              1.774
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "rogai por nós pecadores,",
+          "phonetic": "rogai por nós pecadores,",
+          "timing": {
+            "full": [
+              10.434,
+              11.908
+            ],
+            "passage": [
+              1.839,
+              3.392
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "agora e na hora de nossa morte,", "phonetic": "agora e na hora de nossa morte," }
+        {
+          "passage_segment_id": "4a",
+          "text": "agora e na hora de nossa morte,",
+          "phonetic": "agora e na hora de nossa morte,",
+          "timing": {
+            "full": [
+              12.066,
+              13.934
+            ],
+            "passage": [
+              0.103,
+              2.063
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amém.", "phonetic": "Amém." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amém.",
+          "phonetic": "Amém.",
+          "timing": {
+            "full": [
+              14.013,
+              14.368
+            ],
+            "passage": [
+              0.103,
+              0.563
+            ]
+          }
+        }
       ]
     }
   ]

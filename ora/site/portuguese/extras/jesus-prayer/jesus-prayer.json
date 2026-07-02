@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Senhor Jesus Cristo,", "phonetic": "Senhor Jesus Cristo," },
-        { "passage_segment_id": "1b", "text": "Filho de Deus,", "phonetic": "Filho de Deus," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Senhor Jesus Cristo,",
+          "phonetic": "Senhor Jesus Cristo,",
+          "timing": {
+            "full": [
+              0.103,
+              1.471
+            ],
+            "passage": [
+              0.103,
+              1.471
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Filho de Deus,",
+          "phonetic": "Filho de Deus,",
+          "timing": {
+            "full": [
+              1.576,
+              2.458
+            ],
+            "passage": [
+              1.603,
+              2.576
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "tende piedade de mim,", "phonetic": "tende piedade de mim," },
-        { "passage_segment_id": "2b", "text": "pecador.", "phonetic": "pecador." }
+        {
+          "passage_segment_id": "2a",
+          "text": "tende piedade de mim,",
+          "phonetic": "tende piedade de mim,",
+          "timing": {
+            "full": [
+              2.629,
+              3.866
+            ],
+            "passage": [
+              0.103,
+              1.392
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "pecador.",
+          "phonetic": "pecador.",
+          "timing": {
+            "full": [
+              3.918,
+              4.497
+            ],
+            "passage": [
+              1.458,
+              2.05
+            ]
+          }
+        }
       ]
     }
   ]

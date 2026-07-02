@@ -11,9 +11,51 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Zdrowaś Maryjo,", "phonetic": "Zdrowaś Maryjo," },
-        { "passage_segment_id": "1b", "text": "łaski pełna,", "phonetic": "łaski pełna," },
-        { "passage_segment_id": "1c", "text": "Pan z Tobą.", "phonetic": "Pan z Tobą." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Zdrowaś Maryjo,",
+          "phonetic": "Zdrowaś Maryjo,",
+          "timing": {
+            "full": [
+              0.102,
+              1.207
+            ],
+            "passage": [
+              0.102,
+              1.207
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "łaski pełna,",
+          "phonetic": "łaski pełna,",
+          "timing": {
+            "full": [
+              1.365,
+              2.168
+            ],
+            "passage": [
+              1.365,
+              2.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Pan z Tobą.",
+          "phonetic": "Pan z Tobą.",
+          "timing": {
+            "full": [
+              2.26,
+              2.997
+            ],
+            "passage": [
+              2.26,
+              2.997
+            ]
+          }
+        }
       ]
     }
   ]

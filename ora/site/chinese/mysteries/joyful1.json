@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一端歡喜奧蹟，聖母領報.",
-          "phonetic": "Dì yī duān huān xǐ ào jì, Shèng mǔ lǐng bào."
+          "phonetic": "Dì yī duān huān xǐ ào jì, Shèng mǔ lǐng bào.",
+          "timing": {
+            "full": [
+              0.0,
+              2.589
+            ],
+            "passage": [
+              0.0,
+              2.589
+            ]
+          }
         }
       ]
     }

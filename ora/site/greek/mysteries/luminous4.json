@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Τέταρτο Φωτεινό Μυστήριο, η Μεταμόρφωση.",
-          "phonetic": "Té-tar-to Fo-tei-nó Mys-tí-rio, i Me-ta-mór-fo-si."
+          "phonetic": "Té-tar-to Fo-tei-nó Mys-tí-rio, i Me-ta-mór-fo-si.",
+          "timing": {
+            "full": [
+              0.1,
+              2.876
+            ],
+            "passage": [
+              0.1,
+              2.876
+            ]
+          }
         }
       ]
     }

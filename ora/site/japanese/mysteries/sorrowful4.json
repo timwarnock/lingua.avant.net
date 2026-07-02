@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第四の苦しみの玄義、十字架を担う.",
-          "phonetic": "Dai yon no kurushimi no gen'i, jūji ka o ninau."
+          "phonetic": "Dai yon no kurushimi no gen'i, jūji ka o ninau.",
+          "timing": {
+            "full": [
+              0.103,
+              3.168
+            ],
+            "passage": [
+              0.103,
+              3.168
+            ]
+          }
         }
       ]
     }

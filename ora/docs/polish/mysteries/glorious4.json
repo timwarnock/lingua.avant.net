@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Czwarta Tajemnica Chwalebna, Wniebowzięcie Najświętszej Maryi Panny.",
-          "phonetic": "Czwarta Tajemnica Chwalebna, Wniebowzięcie Najświętszej Maryi Panny."
+          "phonetic": "Czwarta Tajemnica Chwalebna, Wniebowzięcie Najświętszej Maryi Panny.",
+          "timing": {
+            "full": [
+              0.103,
+              3.945
+            ],
+            "passage": [
+              0.103,
+              3.945
+            ]
+          }
         }
       ]
     }

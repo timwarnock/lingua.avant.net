@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Τρίτο Ένδοξο Μυστήριο, η Κάθοδος του Αγίου Πνεύματος.",
-          "phonetic": "Trí-to Én-do-xo Mys-tí-rio, i Ká-tho-dos tou A-gí-ou Pnév-ma-tos."
+          "phonetic": "Trí-to Én-do-xo Mys-tí-rio, i Ká-tho-dos tou A-gí-ou Pnév-ma-tos.",
+          "timing": {
+            "full": [
+              0.1,
+              3.363
+            ],
+            "passage": [
+              0.1,
+              3.363
+            ]
+          }
         }
       ]
     }

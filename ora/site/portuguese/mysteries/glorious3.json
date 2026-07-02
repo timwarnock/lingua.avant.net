@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Terceiro Mistério Glorioso, a Descida do Espírito Santo.",
-          "phonetic": "Terceiro Mistério Glorioso, a Descida do Espírito Santo."
+          "phonetic": "Terceiro Mistério Glorioso, a Descida do Espírito Santo.",
+          "timing": {
+            "full": [
+              0.103,
+              3.445
+            ],
+            "passage": [
+              0.103,
+              3.445
+            ]
+          }
         }
       ]
     }

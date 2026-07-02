@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần.",
-          "phonetic": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần."
+          "phonetic": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần.",
+          "timing": {
+            "full": [
+              0.1,
+              3.429
+            ],
+            "passage": [
+              0.1,
+              3.429
+            ]
+          }
         }
       ]
     }

@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "O my Jesus,", "phonetic": "Oh my Jesus" },
-        { "passage_segment_id": "1b", "text": "forgive us our sins,", "phonetic": "forgive us our sins," }
+        {
+          "passage_segment_id": "1a",
+          "text": "O my Jesus,",
+          "phonetic": "Oh my Jesus",
+          "timing": {
+            "full": [
+              0.116,
+              1.024
+            ],
+            "passage": [
+              0.116,
+              1.063
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "forgive us our sins,",
+          "phonetic": "forgive us our sins,",
+          "timing": {
+            "full": [
+              1.037,
+              2.195
+            ],
+            "passage": [
+              1.076,
+              2.471
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "save us from the fires of hell,", "phonetic": "save us from the fires of hell," }
+        {
+          "passage_segment_id": "2a",
+          "text": "save us from the fires of hell,",
+          "phonetic": "save us from the fires of hell,",
+          "timing": {
+            "full": [
+              2.484,
+              4.168
+            ],
+            "passage": [
+              0.129,
+              2.261
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "lead all souls to heaven,", "phonetic": "lead all souls to heaven," }
+        {
+          "passage_segment_id": "3a",
+          "text": "lead all souls to heaven,",
+          "phonetic": "lead all souls to heaven,",
+          "timing": {
+            "full": [
+              4.484,
+              5.853
+            ],
+            "passage": [
+              0.103,
+              1.866
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "especially those who are most in need of thy mercy.", "phonetic": "especially those who are most in need of thy mercy," }
+        {
+          "passage_segment_id": "4a",
+          "text": "especially those who are most in need of thy mercy.",
+          "phonetic": "especially those who are most in need of thy mercy,",
+          "timing": {
+            "full": [
+              6.168,
+              8.708
+            ],
+            "passage": [
+              0.142,
+              3.168
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              8.905,
+              9.432
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     }
   ]

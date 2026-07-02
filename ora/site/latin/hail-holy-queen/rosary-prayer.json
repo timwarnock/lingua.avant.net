@@ -11,59 +11,311 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Oremus.", "phonetic": "Oremus." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Oremus.",
+          "phonetic": "Oremus.",
+          "timing": {
+            "full": [
+              0.107,
+              1.018
+            ],
+            "passage": [
+              0.107,
+              1.018
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Deus, cuius Unigenitus,", "phonetic": "Deus, cuius Unigenitus," },
-        { "passage_segment_id": "2b", "text": "per vitam,", "phonetic": "per vitam," },
-        { "passage_segment_id": "2c", "text": "mortem et resurrectionem suam,", "phonetic": "mortem et resurrectionem suam," },
-        { "passage_segment_id": "2d", "text": "nobis salutis aeternae", "phonetic": "nobis salutis aeternae" },
-        { "passage_segment_id": "2e", "text": "praemia comparavit,", "phonetic": "praemia comparavit," },
-        { "passage_segment_id": "2f", "text": "concede, quaesumus,", "phonetic": "concede, quaesumus," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Deus, cuius Unigenitus,",
+          "phonetic": "Deus, cuius Unigenitus,",
+          "timing": {
+            "full": [
+              2.059,
+              4.265
+            ],
+            "passage": [
+              0.109,
+              2.315
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "per vitam,",
+          "phonetic": "per vitam,",
+          "timing": {
+            "full": [
+              4.471,
+              5.191
+            ],
+            "passage": [
+              2.521,
+              3.241
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "mortem et resurrectionem suam,",
+          "phonetic": "mortem et resurrectionem suam,",
+          "timing": {
+            "full": [
+              5.515,
+              7.765
+            ],
+            "passage": [
+              3.565,
+              5.815
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "nobis salutis aeternae",
+          "phonetic": "nobis salutis aeternae",
+          "timing": {
+            "full": [
+              8.088,
+              9.794
+            ],
+            "passage": [
+              6.138,
+              7.844
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2e",
+          "text": "praemia comparavit,",
+          "phonetic": "praemia comparavit,",
+          "timing": {
+            "full": [
+              9.809,
+              11.118
+            ],
+            "passage": [
+              7.859,
+              9.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2f",
+          "text": "concede, quaesumus,",
+          "phonetic": "concede, quaesumus,",
+          "timing": {
+            "full": [
+              11.456,
+              13.162
+            ],
+            "passage": [
+              9.515,
+              11.838
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "ut haec mysteria", "phonetic": "ut haec mysteria" },
-        { "passage_segment_id": "3b", "text": "sanctissimo beatae Mariae Virginis", "phonetic": "sanctissimo beatae Mariae Virginis" },
-        { "passage_segment_id": "3c", "text": "Rosario recolentes,", "phonetic": "Rosario recolentes," }
+        {
+          "passage_segment_id": "3a",
+          "text": "ut haec mysteria",
+          "phonetic": "ut haec mysteria",
+          "timing": {
+            "full": [
+              13.485,
+              14.632
+            ],
+            "passage": [
+              0.109,
+              1.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "sanctissimo beatae Mariae Virginis",
+          "phonetic": "sanctissimo beatae Mariae Virginis",
+          "timing": {
+            "full": [
+              14.647,
+              17.074
+            ],
+            "passage": [
+              1.315,
+              3.668
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "Rosario recolentes,",
+          "phonetic": "Rosario recolentes,",
+          "timing": {
+            "full": [
+              17.088,
+              18.515
+            ],
+            "passage": [
+              3.682,
+              5.212
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "et imitemur quod continent", "phonetic": "et imitemur quod continent" },
-        { "passage_segment_id": "4b", "text": "et quod promittunt assequamur.", "phonetic": "et quod promittunt assequamur." }
+        {
+          "passage_segment_id": "4a",
+          "text": "et imitemur quod continent",
+          "phonetic": "et imitemur quod continent",
+          "timing": {
+            "full": [
+              18.838,
+              20.868
+            ],
+            "passage": [
+              0.109,
+              2.138
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "et quod promittunt assequamur.",
+          "phonetic": "et quod promittunt assequamur.",
+          "timing": {
+            "full": [
+              20.882,
+              22.956
+            ],
+            "passage": [
+              2.153,
+              4.226
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Per eundem Christum Dominum nostrum.", "phonetic": "Per eundem Christum Dominum nostrum." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Per eundem Christum Dominum nostrum.",
+          "phonetic": "Per eundem Christum Dominum nostrum.",
+          "timing": {
+            "full": [
+              23.985,
+              26.397
+            ],
+            "passage": [
+              0.109,
+              2.521
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "6a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              27.441,
+              28.191
+            ],
+            "passage": [
+              0.109,
+              0.859
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Cor Iesu sacratissimum,", "phonetic": "Cor Iesu sacratissimum," },
-        { "passage_segment_id": "7b", "text": "miserere nobis.", "phonetic": "miserere nobis." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Cor Iesu sacratissimum,",
+          "phonetic": "Cor Iesu sacratissimum,",
+          "timing": {
+            "full": [
+              29.235,
+              30.971
+            ],
+            "passage": [
+              0.109,
+              1.844
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "miserere nobis.",
+          "phonetic": "miserere nobis.",
+          "timing": {
+            "full": [
+              31.294,
+              32.647
+            ],
+            "passage": [
+              2.168,
+              3.521
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "Cor Mariae immaculatum,", "phonetic": "Cor Mariae immaculatum," },
-        { "passage_segment_id": "8b", "text": "ora pro nobis.", "phonetic": "ora pro nobis." }
+        {
+          "passage_segment_id": "8a",
+          "text": "Cor Mariae immaculatum,",
+          "phonetic": "Cor Mariae immaculatum,",
+          "timing": {
+            "full": [
+              33.676,
+              35.294
+            ],
+            "passage": [
+              0.109,
+              1.726
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "ora pro nobis.",
+          "phonetic": "ora pro nobis.",
+          "timing": {
+            "full": [
+              35.588,
+              36.779
+            ],
+            "passage": [
+              2.021,
+              3.212
+            ]
+          }
+        }
       ]
     }
   ]

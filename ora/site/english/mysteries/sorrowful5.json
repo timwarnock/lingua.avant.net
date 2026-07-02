@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fifth Sorrowful Mystery, the Crucifixion.", "phonetic": "The Fifth Sorrowful Mystery, the Crucifixion." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fifth Sorrowful Mystery, the Crucifixion.",
+          "phonetic": "The Fifth Sorrowful Mystery, the Crucifixion.",
+          "timing": {
+            "full": [
+              0.142,
+              3.155
+            ],
+            "passage": [
+              0.142,
+              3.155
+            ]
+          }
+        }
       ]
     }
   ]

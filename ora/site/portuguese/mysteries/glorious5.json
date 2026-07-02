@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora.",
-          "phonetic": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora."
+          "phonetic": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora.",
+          "timing": {
+            "full": [
+              0.103,
+              3.261
+            ],
+            "passage": [
+              0.103,
+              3.261
+            ]
+          }
         }
       ]
     }

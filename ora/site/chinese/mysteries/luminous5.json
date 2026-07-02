@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第五端光明奧蹟，耶穌建立聖體聖事.",
-          "phonetic": "Dì wǔ duān guāng míng ào jì, Yē sū jiàn lì shèng tǐ shèng shì."
+          "phonetic": "Dì wǔ duān guāng míng ào jì, Yē sū jiàn lì shèng tǐ shèng shì.",
+          "timing": {
+            "full": [
+              0.0,
+              3.537
+            ],
+            "passage": [
+              0.0,
+              3.537
+            ]
+          }
         }
       ]
     }

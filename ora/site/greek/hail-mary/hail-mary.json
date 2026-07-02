@@ -11,37 +11,163 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Χαῖρε Μαρία,", "phonetic": "Ché-re Ma-rí-a," },
-        { "passage_segment_id": "1b", "text": "κεχαριτωμένη,", "phonetic": "ke-cha-ri-to-mé-ni," },
-        { "passage_segment_id": "1c", "text": "ὁ Κύριος μετὰ σοῦ·", "phonetic": "o Ký-ri-os me-tá soú·" }
+        {
+          "passage_segment_id": "1a",
+          "text": "Χαιρε Μαρία,",
+          "phonetic": "Ché-re Ma-rí-a,",
+          "timing": {
+            "full": [
+              0.1,
+              4.508
+            ],
+            "passage": [
+              0.1,
+              3.534
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "κεχαριτωμένη,",
+          "phonetic": "ke-cha-ri-to-mé-ni,",
+          "timing": {
+            "full": [
+              4.508,
+              10.511
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "ο Κύριος μετα σου·",
+          "phonetic": "o Ký-ri-os me-tá soú·",
+          "timing": {
+            "full": [
+              10.668,
+              14.853
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "εὐλογημένη σὺ ἐν γυναιξί,", "phonetic": "eu-lo-gē-mé-nē sỳ en gy-nai-xí," },
-        { "passage_segment_id": "2b", "text": "καὶ εὐλογημένος ὁ καρπὸς τῆς κοιλίας σου", "phonetic": "kai eu-lo-gē-mé-nos ho kar-pòs tēs koi-lí-as sou" },
-        { "passage_segment_id": "2c", "text": "Ἰησοῦς.", "phonetic": "I-ē-soûs." }
+        {
+          "passage_segment_id": "2a",
+          "text": "ευλογημένη συ εν γυναιξί,",
+          "phonetic": "eu-lo-gē-mé-nē sỳ en gy-nai-xí,",
+          "timing": {
+            "passage": [
+              0.1,
+              4.245
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "και ευλογημένος ο καρπος της κοιλίας σου",
+          "phonetic": "kai eu-lo-gē-mé-nos ho kar-pòs tēs koi-lí-as sou",
+          "timing": {
+            "full": [
+              5.587,
+              9.287
+            ],
+            "passage": [
+              1.968,
+              4.561
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Ιησους.",
+          "phonetic": "I-ē-soûs.",
+          "timing": {
+            "full": [
+              9.287,
+              9.853
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Ἁγία Μαρία, Θεοτόκε,", "phonetic": "Ha-gí-a Ma-rí-a, The-o-tó-ke," },
-        { "passage_segment_id": "3b", "text": "πρέσβευε ὑπὲρ ἡμῶν", "phonetic": "prés-beu-e hy-pèr hē-mṓn" },
-        { "passage_segment_id": "3c", "text": "τῶν ἁμαρτωλῶν,", "phonetic": "tōn ha-mar-tō-lṓn," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Αγία Μαρία, Θεοτόκε,",
+          "phonetic": "Ha-gí-a Ma-rí-a, The-o-tó-ke,",
+          "timing": {
+            "passage": [
+              0.1,
+              4.034
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "πρέσβευε υπερ ημων",
+          "phonetic": "prés-beu-e hy-pèr hē-mṓn",
+          "timing": {
+            "full": [
+              11.655,
+              12.8
+            ],
+            "passage": [
+              2.468,
+              3.389
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "των αμαρτωλων,",
+          "phonetic": "tōn ha-mar-tō-lṓn,",
+          "timing": {
+            "full": [
+              12.984,
+              13.616
+            ],
+            "passage": [
+              3.389,
+              4.363
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "νῦν καὶ ἐν τῇ ὥρᾳ τοῦ θανάτου ἡμῶν,", "phonetic": "nŷn kai en tē hṓ-rā tou tha-ná-tou hē-mṓn," }
+        {
+          "passage_segment_id": "4a",
+          "text": "νυν και εν τη ώρα του θανάτου ημων,",
+          "phonetic": "nŷn kai en tē hṓ-rā tou tha-ná-tou hē-mṓn,",
+          "timing": {
+            "passage": [
+              0.1,
+              1.916
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Αμήν.",
+          "phonetic": "A-mḗn.",
+          "timing": {
+            "passage": [
+              0.1,
+              0.903
+            ]
+          }
+        }
       ]
     }
   ]

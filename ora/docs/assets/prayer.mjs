@@ -67,6 +67,121 @@ function createApp(container, opts = {}) {
   let primaryToggleBtn = null;
   let secondaryToggleBtn = null;
 
+  // Optional per-segment timing support for karaoke-style highlighting.
+  // If absent in JSON, we fully degrade to the original static highlight behavior.
+  let timingMapsByTag = {};
+  const syncListeners = new Map();
+
+  // Support for external audio (e.g. rosary-player auto full playback)
+  // so the embedded viewer can still drive segment .playing highlights
+  let externalSyncAudio = null;
+  let externalSyncHandler = null;
+
+  function buildTimingMaps(data) {
+    const full = {};
+    const byPassage = {};
+    (data.passages || []).forEach(p => {
+      const pid = String(p.passage_id);
+      byPassage[pid] = byPassage[pid] || {};
+      (p.segments || []).forEach(s => {
+        const sid = s.passage_segment_id;
+        if (s.timing && sid) {
+          if (Array.isArray(s.timing.full)) full[sid] = s.timing.full;
+          if (Array.isArray(s.timing.passage)) byPassage[pid][sid] = s.timing.passage;
+        }
+      });
+    });
+    return { full, byPassage };
+  }
+
+  function clearAllSegmentHighlights() {
+    container.querySelectorAll('.dual-seg.playing').forEach(el => el.classList.remove('playing'));
+  }
+
+  function detachSync(audio) {
+    if (syncListeners.has(audio)) {
+      const h = syncListeners.get(audio);
+      audio.removeEventListener('timeupdate', h);
+      syncListeners.delete(audio);
+    }
+  }
+
+  function attachSync(audio, rangeMap, lang = null) {
+    detachSync(audio);
+    if (!rangeMap || Object.keys(rangeMap).length === 0) return;
+    const handler = (ev) => {
+      const t = ev.target.currentTime;
+      let sid = null;
+      for (const [s, rng] of Object.entries(rangeMap)) {
+        if (rng && t >= rng[0] && t <= rng[1]) {
+          sid = s;
+          break;
+        }
+      }
+      clearAllSegmentHighlights();
+      if (sid) {
+        const selector = lang
+          ? `.dual-seg[data-sid="${sid}"][data-lang="${lang}"]`
+          : `.dual-seg[data-sid="${sid}"]`;
+        container.querySelectorAll(selector).forEach(el => {
+          el.classList.add('playing');
+        });
+      }
+    };
+    audio.addEventListener('timeupdate', handler);
+    syncListeners.set(audio, handler);
+    audio.addEventListener('ended', () => {
+      clearAllSegmentHighlights();
+      detachSync(audio);
+    }, { once: true });
+  }
+
+  function clearExternalSync() {
+    if (externalSyncAudio && externalSyncHandler) {
+      try { externalSyncAudio.removeEventListener('timeupdate', externalSyncHandler); } catch (e) {}
+      externalSyncAudio = null;
+      externalSyncHandler = null;
+    }
+  }
+
+  function syncFromAudio(audio, useFull = true, lang = null) {
+    clearExternalSync();
+    if (!audio) return;
+    // embedded locked uses 'local' tag; fall back to first available
+    const maps = timingMapsByTag['local'] ||
+                 (Object.keys(timingMapsByTag).length ? timingMapsByTag[Object.keys(timingMapsByTag)[0]] : null);
+    if (!maps) return;
+    const rangeMap = (useFull ? maps.full : maps.full) || {};
+    if (Object.keys(rangeMap).length === 0) return;
+
+    const handler = (ev) => {
+      const t = ev.target.currentTime;
+      let sid = null;
+      for (const [s, rng] of Object.entries(rangeMap)) {
+        if (rng && t >= rng[0] && t <= rng[1]) {
+          sid = s;
+          break;
+        }
+      }
+      clearAllSegmentHighlights();
+      if (sid) {
+        const selector = lang
+          ? `.dual-seg[data-sid="${sid}"][data-lang="${lang}"]`
+          : `.dual-seg[data-sid="${sid}"]`;
+        container.querySelectorAll(selector).forEach(el => {
+          el.classList.add('playing');
+        });
+      }
+    };
+    audio.addEventListener('timeupdate', handler);
+    externalSyncAudio = audio;
+    externalSyncHandler = handler;
+    audio.addEventListener('ended', () => {
+      clearAllSegmentHighlights();
+      clearExternalSync();
+    }, { once: true });
+  }
+
   function audioKey(tag, key) {
     return `${tag || 'local'}:${key}`;
   }
@@ -95,10 +210,13 @@ function createApp(container, opts = {}) {
 
   function stopAll() {
     Object.values(audioMap).forEach(a => {
+      detachSync(a);
       a.pause();
       a.currentTime = 0;
     });
+    clearExternalSync();
     clearActive();
+    clearAllSegmentHighlights();
     setMainPlaying(false);
   }
 
@@ -123,13 +241,17 @@ function createApp(container, opts = {}) {
 
   function maybeRevertMain() {
     const any = Object.values(audioMap).some(a => !a.paused && a.currentTime > 0);
-    if (!any) setMainPlaying(false);
+    if (!any) {
+      setMainPlaying(false);
+      clearAllSegmentHighlights();
+    }
   }
 
   function play(tag, key, base, pid, targetEl = null) {
     const a = audioMap[audioKey(tag, key)] || getAudio(tag, key, base, pid);
     Object.values(audioMap).forEach(aa => {
       if (aa !== a) {
+        detachSync(aa);
         aa.pause();
         aa.currentTime = 0;
       }
@@ -138,8 +260,30 @@ function createApp(container, opts = {}) {
     if (typeof window !== 'undefined' && typeof window.stopRosaryAuto === 'function') {
       window.stopRosaryAuto();
     }
-    clearActive();
-    if (targetEl) setActive(targetEl);
+
+    clearAllSegmentHighlights();
+
+    const maps = timingMapsByTag[tag] || null;
+    const keyStr = String(key);
+    const isTimedContext = (keyStr === 'full') || /^\d+$/.test(keyStr);
+
+    let didLiveSync = false;
+    if (maps && isTimedContext) {
+      const rangeMap = (keyStr === 'full')
+        ? maps.full
+        : (maps.byPassage[keyStr] || {});
+      if (rangeMap && Object.keys(rangeMap).length > 0) {
+        attachSync(a, rangeMap, tag);
+        didLiveSync = true;
+        // live segment highlighting will be driven by timeupdate; skip static line highlight
+      }
+    }
+
+    if (!didLiveSync) {
+      clearActive();
+      if (targetEl) setActive(targetEl);
+    }
+
     setMainPlaying(true);
     a.currentTime = 0;
     a.play().catch(() => {});
@@ -184,6 +328,15 @@ function createApp(container, opts = {}) {
     currentViewer = null;
     primaryToggleBtn = null;
     secondaryToggleBtn = null;
+
+    // reset optional timing state (graceful when absent)
+    syncListeners.forEach((h, audio) => {
+      try { audio.removeEventListener('timeupdate', h); } catch (e) {}
+    });
+    syncListeners.clear();
+    clearExternalSync();
+    timingMapsByTag = {};
+
     if (locked) {
       renderLocked();
     } else {
@@ -201,6 +354,9 @@ function createApp(container, opts = {}) {
       .then(data => {
         const base = jsonUrl.href.substring(0, jsonUrl.href.lastIndexOf('/') + 1);
         const pid = data.id || state.prayerId;
+
+        // Build timing maps if present (graceful degrade if missing)
+        timingMapsByTag['local'] = buildTimingMaps(data);
 
         addAudio('local', 'full', base, pid);
         (data.passages || []).forEach(p => {
@@ -307,6 +463,7 @@ function createApp(container, opts = {}) {
         seg.className = 'dual-seg';
         seg.textContent = (mode1 === 'text' ? (s.text || '') : (s.phonetic || ''));
         seg.dataset.sid = s.passage_segment_id;
+        seg.dataset.lang = lang1;
         const sid = s.passage_segment_id;
         seg.addEventListener('click', () => play(lang1, sid, base1, pid, seg));
         tp1.appendChild(seg);
@@ -334,6 +491,7 @@ function createApp(container, opts = {}) {
         seg.className = 'dual-seg';
         seg.textContent = (mode2 === 'text' ? (s.text || '') : (s.phonetic || ''));
         seg.dataset.sid = s.passage_segment_id;
+        seg.dataset.lang = lang2;
         const sid = s.passage_segment_id;
         seg.addEventListener('click', () => play(lang2, sid, base2, pid, seg));
         tp2.appendChild(seg);
@@ -382,6 +540,7 @@ function createApp(container, opts = {}) {
           seg.className = 'dual-seg';
           seg.textContent = (s.text || '');
           seg.dataset.sid = s.passage_segment_id;
+          seg.dataset.lang = 'local';
           const sid = s.passage_segment_id;
           seg.addEventListener('click', () => play('local', sid, base, pid, seg));
           tp.appendChild(seg);
@@ -536,6 +695,10 @@ function createApp(container, opts = {}) {
         addAudio(state.secondaryLang, ps, b2, pid);
         (p.segments || []).forEach(s => s.passage_segment_id && addAudio(state.secondaryLang, s.passage_segment_id, b2, pid));
       });
+
+      // Build timing maps per language side (if the JSONs contain "timing" on segments)
+      timingMapsByTag[state.primaryLang] = buildTimingMaps(dat1);
+      timingMapsByTag[state.secondaryLang] = buildTimingMaps(dat2);
 
       loadedData = {d1: dat1, d2: dat2, b1, b2, pid, t1, t2};
       renderFullViewer(view, dat1, dat2, b1, b2, pid, t1, t2);
@@ -714,6 +877,13 @@ function createApp(container, opts = {}) {
   }
 
   render();
+
+  // API for external consumers (e.g. rosary-player to drive highlights from its full audio)
+  return {
+    syncFromAudio,
+    clearSync: clearExternalSync,
+    stop: stopAll
+  };
 }
 
 function initAll() {

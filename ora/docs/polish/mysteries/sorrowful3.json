@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie.",
-          "phonetic": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie."
+          "phonetic": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie.",
+          "timing": {
+            "full": [
+              0.103,
+              2.997
+            ],
+            "passage": [
+              0.103,
+              2.997
+            ]
+          }
         }
       ]
     }

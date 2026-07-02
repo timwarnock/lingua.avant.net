@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Seigneur Jésus Christ,", "phonetic": "Seigneur Jésus Christ," },
-        { "passage_segment_id": "1b", "text": "Fils de Dieu,", "phonetic": "Fils de Dieu," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Seigneur Jésus Christ,",
+          "phonetic": "Seigneur Jésus Christ,",
+          "timing": {
+            "full": [
+              0.103,
+              1.418
+            ],
+            "passage": [
+              0.103,
+              1.392
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Fils de Dieu,",
+          "phonetic": "Fils de Dieu,",
+          "timing": {
+            "full": [
+              1.682,
+              2.339
+            ],
+            "passage": [
+              1.642,
+              2.3
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "aie pitié de moi,", "phonetic": "aie pitié de moi," },
-        { "passage_segment_id": "2b", "text": "pécheur.", "phonetic": "pécheur." }
+        {
+          "passage_segment_id": "2a",
+          "text": "aie pitié de moi,",
+          "phonetic": "aie pitié de moi,",
+          "timing": {
+            "full": [
+              2.695,
+              3.471
+            ],
+            "passage": [
+              0.103,
+              1.024
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "pécheur.",
+          "phonetic": "pécheur.",
+          "timing": {
+            "full": [
+              3.708,
+              4.287
+            ],
+            "passage": [
+              1.261,
+              1.866
+            ]
+          }
+        }
       ]
     }
   ]

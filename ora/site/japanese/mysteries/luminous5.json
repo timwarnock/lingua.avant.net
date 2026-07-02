@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第五の光の玄義、聖体の制定.",
-          "phonetic": "Dai go no hikari no gen'i, seita i no seitei."
+          "phonetic": "Dai go no hikari no gen'i, seita i no seitei.",
+          "timing": {
+            "full": [
+              0.103,
+              3.142
+            ],
+            "passage": [
+              0.103,
+              3.142
+            ]
+          }
         }
       ]
     }

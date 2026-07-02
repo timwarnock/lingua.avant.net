@@ -11,84 +11,354 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Πιστεύω εἰς Θεὸν Πατέρα παντοκράτορα,", "phonetic": "Pis-teú-ō eis The-òn Pa-té-ra pan-to-krá-to-ra," },
-        { "passage_segment_id": "1b", "text": "ποιητὴν οὐρανοῦ", "phonetic": "poi-ē-tḗn ou-ra-noû" },
-        { "passage_segment_id": "1c", "text": "καὶ γῆς.", "phonetic": "kai gēs." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Πιστεύω εις Θεον Πατέρα παντοκράτορα,",
+          "phonetic": "Pis-teú-ō eis The-òn Pa-té-ra pan-to-krá-to-ra,",
+          "timing": {
+            "full": [
+              0.1,
+              12.787
+            ],
+            "passage": [
+              0.1,
+              3.534
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "ποιητην ουρανου",
+          "phonetic": "poi-ē-tḗn ou-ra-noû",
+          "timing": {
+            "full": [
+              12.787,
+              19.458
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "και γης.",
+          "phonetic": "kai gēs.",
+          "timing": {
+            "full": [
+              19.458,
+              21.142
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Καὶ εἰς Ἰησοῦν Χριστόν,", "phonetic": "Kai eis I-ē-soûn Chris-tón," },
-        { "passage_segment_id": "2b", "text": "υἱὸν αὐτοῦ τὸν μονογενῆ,", "phonetic": "hyi-òn au-toû ton mo-no-ge-nḗ," },
-        { "passage_segment_id": "2c", "text": "τὸν Κύριον ἡμῶν,", "phonetic": "ton Ký-ri-on hē-mṓn," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Και εις Ιησουν Χριστόν,",
+          "phonetic": "Kai eis I-ē-soûn Chris-tón,",
+          "timing": {
+            "full": [
+              21.142,
+              29.063
+            ],
+            "passage": [
+              0.1,
+              4.179
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "υιον αυτου τον μονογενη,",
+          "phonetic": "hyi-òn au-toû ton mo-no-ge-nḗ,",
+          "timing": {
+            "full": [
+              29.247,
+              36.642
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "τον Κύριον ημων,",
+          "phonetic": "ton Ký-ri-on hē-mṓn,",
+          "timing": {
+            "full": [
+              7.642,
+              8.866
+            ],
+            "passage": [
+              3.1,
+              4.376
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "τὸν συλληφθέντα ἐκ Πνεύματος Ἁγίου,", "phonetic": "ton syl-lēph-thén-ta ek Pneú-ma-tos Ha-gí-ou," }
+        {
+          "passage_segment_id": "3a",
+          "text": "τον συλληφθέντα εκ Πνεύματος Αγίου,",
+          "phonetic": "ton syl-lēph-thén-ta ek Pneú-ma-tos Ha-gí-ou,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.1
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "γεννηθέντα ἐκ Μαρίας τῆς παρθένου,", "phonetic": "gen-nē-thén-ta ek Ma-rí-as tēs par-thé-nou," }
+        {
+          "passage_segment_id": "4a",
+          "text": "γεννηθέντα εκ Μαρίας της παρθένου,",
+          "phonetic": "gen-nē-thén-ta ek Ma-rí-as tēs par-thé-nou,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.113
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "παθόντα ἐπὶ Ποντίου Πιλάτου,", "phonetic": "pa-thón-ta e-pí Pon-tí-ou Pi-lá-tou," },
-        { "passage_segment_id": "5b", "text": "σταυρωθέντα,", "phonetic": "stau-rō-thén-ta," },
-        { "passage_segment_id": "5c", "text": "θανόντα, καὶ ταφέντα,", "phonetic": "tha-nón-ta, kai ta-phén-ta," }
+        {
+          "passage_segment_id": "5a",
+          "text": "παθόντα επι Ποντίου Πιλάτου,",
+          "phonetic": "pa-thón-ta e-pí Pon-tí-ou Pi-lá-tou,",
+          "timing": {
+            "passage": [
+              0.1,
+              4.771
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "σταυρωθέντα,",
+          "phonetic": "stau-rō-thén-ta,",
+          "timing": {
+            "full": [
+              15.221,
+              16.142
+            ],
+            "passage": [
+              1.824,
+              2.784
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "θανόντα, και ταφέντα,",
+          "phonetic": "tha-nón-ta, kai ta-phén-ta,",
+          "timing": {
+            "full": [
+              16.287,
+              18.195
+            ],
+            "passage": [
+              2.929,
+              4.916
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "κατελθόντα εἰς τὰ κατώτατα,", "phonetic": "ka-te-lthón-ta eis ta ka-tṓ-ta-ta," }
+        {
+          "passage_segment_id": "6a",
+          "text": "κατελθόντα εις τα κατώτατα,",
+          "phonetic": "ka-te-lthón-ta eis ta ka-tṓ-ta-ta,",
+          "timing": {
+            "passage": [
+              0.1,
+              1.732
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "τῇ τρίτῃ ἡμέρᾳ ἀναστάντα ἐκ τῶν νεκρῶν,", "phonetic": "tē trí-tē hē-mé-rā a-na-stán-ta ek tōn ne-krṓn," }
+        {
+          "passage_segment_id": "7a",
+          "text": "τη τρίτη ημέρα αναστάντα εκ των νεκρων,",
+          "phonetic": "tē trí-tē hē-mé-rā a-na-stán-ta ek tōn ne-krṓn,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.1
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "ἀνελθόντα εἰς τοὺς οὐρανούς,", "phonetic": "a-ne-lthón-ta eis toùs ou-ra-noús," }
+        {
+          "passage_segment_id": "8a",
+          "text": "ανελθόντα εις τους ουρανούς,",
+          "phonetic": "a-ne-lthón-ta eis toùs ou-ra-noús,",
+          "timing": {
+            "passage": [
+              0.1,
+              1.639
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 9,
       "segments": [
-        { "passage_segment_id": "9a", "text": "καθεζόμενον ἐν δεξιᾷ Θεοῦ Πατρὸς παντοκράτορος,", "phonetic": "ka-the-zó-me-non en de-xi-á The-oû Pa-tròs pan-to-krá-to-ros," }
+        {
+          "passage_segment_id": "9a",
+          "text": "καθεζόμενον εν δεξια Θεου Πατρος παντοκράτορος,",
+          "phonetic": "ka-the-zó-me-non en de-xi-á The-oû Pa-tròs pan-to-krá-to-ros,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.679
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 10,
       "segments": [
-        { "passage_segment_id": "10a", "text": "ἐκεῖθεν ἐρχόμενον κρῖναι ζῶντας καὶ νεκρούς.", "phonetic": "e-keí-then er-chó-me-non krí-nai zṓn-tas kai ne-króus." }
+        {
+          "passage_segment_id": "10a",
+          "text": "εκειθεν ερχόμενον κριναι ζωντας και νεκρούς.",
+          "phonetic": "e-keí-then er-chó-me-non krí-nai zṓn-tas kai ne-króus.",
+          "timing": {
+            "passage": [
+              0.1,
+              2.482
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 11,
       "segments": [
-        { "passage_segment_id": "11a", "text": "Πιστεύω εἰς τὸ Πνεῦμα τὸ Ἅγιον,", "phonetic": "Pis-teú-ō eis to Pneú-ma to Há-gi-on," },
-        { "passage_segment_id": "11b", "text": "ἁγίαν καθολικὴν ἐκκλησίαν,", "phonetic": "ha-gí-an ka-tho-li-kḗn ek-klē-sí-an," },
-        { "passage_segment_id": "11c", "text": "ἁγίων κοινωνίαν,", "phonetic": "ha-gí-ōn koi-nō-ní-an," },
-        { "passage_segment_id": "11d", "text": "ἄφεσιν ἁμαρτιῶν,", "phonetic": "á-fe-sin ha-mar-tí-ōn," },
-        { "passage_segment_id": "11e", "text": "σαρκὸς ἀνάστασιν,", "phonetic": "sar-kòs a-ná-sta-sin," },
-        { "passage_segment_id": "11f", "text": "ζωὴν αἰώνιον,", "phonetic": "zō-ḗn ai-ṓ-ni-on," }
+        {
+          "passage_segment_id": "11a",
+          "text": "Πιστεύω εις το Πνευμα το Άγιον,",
+          "phonetic": "Pis-teú-ō eis to Pneú-ma to Há-gi-on,",
+          "timing": {
+            "passage": [
+              0.1,
+              8.626
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "αγίαν καθολικην εκκλησίαν,",
+          "phonetic": "ha-gí-an ka-tho-li-kḗn ek-klē-sí-an,",
+          "timing": {
+            "full": [
+              31.024,
+              32.708
+            ],
+            "passage": [
+              1.982,
+              3.692
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "αγίων κοινωνίαν,",
+          "phonetic": "ha-gí-ōn koi-nō-ní-an,",
+          "timing": {
+            "full": [
+              32.879,
+              34.116
+            ],
+            "passage": [
+              3.863,
+              5.126
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "άφεσιν αμαρτιων,",
+          "phonetic": "á-fe-sin ha-mar-tí-ōn,",
+          "timing": {
+            "full": [
+              34.274,
+              35.182
+            ],
+            "passage": [
+              5.297,
+              6.232
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "σαρκος ανάστασιν,",
+          "phonetic": "sar-kòs a-ná-sta-sin,",
+          "timing": {
+            "full": [
+              35.339,
+              36.418
+            ],
+            "passage": [
+              6.389,
+              7.468
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "ζωην αιώνιον,",
+          "phonetic": "zō-ḗn ai-ṓ-ni-on,",
+          "timing": {
+            "full": [
+              36.576,
+              37.445
+            ],
+            "passage": [
+              7.626,
+              8.495
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 12,
       "segments": [
-        { "passage_segment_id": "12a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+        {
+          "passage_segment_id": "12a",
+          "text": "Αμήν.",
+          "phonetic": "A-mḗn.",
+          "timing": {
+            "passage": [
+              0.1,
+              0.903
+            ]
+          }
+        }
       ]
     }
   ]

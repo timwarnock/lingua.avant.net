@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quintum Mysterium Luminosum, Institutio Eucharistiae.",
-          "phonetic": "Quintum Mysterium Luminosum, Institutio Eucharistiae."
+          "phonetic": "Quintum Mysterium Luminosum, Institutio Eucharistiae.",
+          "timing": {
+            "full": [
+              0.103,
+              3.839
+            ],
+            "passage": [
+              0.103,
+              3.839
+            ]
+          }
         }
       ]
     }

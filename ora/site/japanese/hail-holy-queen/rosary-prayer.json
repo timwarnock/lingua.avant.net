@@ -11,59 +11,311 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "祈りましょう。", "phonetic": "Inorimashō." }
+        {
+          "passage_segment_id": "1a",
+          "text": "祈りましょう。",
+          "phonetic": "Inorimashō.",
+          "timing": {
+            "full": [
+              0.103,
+              0.458
+            ],
+            "passage": [
+              0.103,
+              1.01
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "神よ、", "phonetic": "Kami yo," },
-        { "passage_segment_id": "2b", "text": "あなたの独り子は、", "phonetic": "anata no hitoriko wa," },
-        { "passage_segment_id": "2c", "text": "その生涯、死、", "phonetic": "sono shōgai, shi," },
-        { "passage_segment_id": "2d", "text": "復活によって、", "phonetic": "fukkatsu ni yotte," },
-        { "passage_segment_id": "2e", "text": "わたしたちに永遠の命の報いを得させてくださいました。", "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita." },
-        { "passage_segment_id": "2f", "text": "どうか、", "phonetic": "dōka," }
+        {
+          "passage_segment_id": "2a",
+          "text": "神よ、",
+          "phonetic": "Kami yo,",
+          "timing": {
+            "full": [
+              0.458,
+              1.01
+            ],
+            "passage": [
+              0.103,
+              0.366
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "あなたの独り子は、",
+          "phonetic": "anata no hitoriko wa,",
+          "timing": {
+            "full": [
+              1.829,
+              2.092
+            ],
+            "passage": [
+              0.366,
+              0.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "その生涯、死、",
+          "phonetic": "sono shōgai, shi,",
+          "timing": {
+            "full": [
+              2.092,
+              2.303
+            ],
+            "passage": [
+              0.958,
+              1.326
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "復活によって、",
+          "phonetic": "fukkatsu ni yotte,",
+          "timing": {
+            "full": [
+              2.684,
+              3.053
+            ],
+            "passage": [
+              1.326,
+              1.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2e",
+          "text": "わたしたちに永遠の命の報いを得させてくださいました。",
+          "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita.",
+          "timing": {
+            "full": [
+              3.053,
+              3.171
+            ],
+            "passage": [
+              1.445,
+              1.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2f",
+          "text": "どうか、",
+          "phonetic": "dōka,",
+          "timing": {
+            "full": [
+              3.171,
+              3.579
+            ],
+            "passage": [
+              1.853,
+              10.487
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "至聖なるマリアのロザリオの神秘を黙想するわたしたちが、", "phonetic": "shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga," },
-        { "passage_segment_id": "3b", "text": "その中に含まれることをまね、", "phonetic": "sono naka ni fukumareru koto o mane," },
-        { "passage_segment_id": "3c", "text": "約束されたものを得ることができますように。", "phonetic": "yakusoku sareta mono o eru koto ga dekimasu yō ni." }
+        {
+          "passage_segment_id": "3a",
+          "text": "至聖なるマリアのロザリオの神秘を黙想するわたしたちが、",
+          "phonetic": "shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga,",
+          "timing": {
+            "full": [
+              3.579,
+              3.75
+            ],
+            "passage": [
+              0.103,
+              0.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "その中に含まれることをまね、",
+          "phonetic": "sono naka ni fukumareru koto o mane,",
+          "timing": {
+            "full": [
+              4.237,
+              4.487
+            ],
+            "passage": [
+              0.497,
+              0.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "約束されたものを得ることができますように。",
+          "phonetic": "yakusoku sareta mono o eru koto ga dekimasu yō ni.",
+          "timing": {
+            "full": [
+              4.487,
+              5.013
+            ],
+            "passage": [
+              0.721,
+              9.024
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "主イエス・キリストによって,", "phonetic": "Shu Iesu Kirisuto ni yotte," },
-        { "passage_segment_id": "4b", "text": "アーメン。", "phonetic": "Āmen." }
+        {
+          "passage_segment_id": "4a",
+          "text": "主イエス・キリストによって,",
+          "phonetic": "Shu Iesu Kirisuto ni yotte,",
+          "timing": {
+            "full": [
+              5.263,
+              5.592
+            ],
+            "passage": [
+              0.103,
+              0.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "アーメン。",
+          "phonetic": "Āmen.",
+          "timing": {
+            "full": [
+              5.934,
+              6.421
+            ],
+            "passage": [
+              0.313,
+              2.655
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "主イエス・キリストによって,", "phonetic": "Shu Iesu Kirisuto ni yotte," }
+        {
+          "passage_segment_id": "5a",
+          "text": "主イエス・キリストによって,",
+          "phonetic": "Shu Iesu Kirisuto ni yotte,",
+          "timing": {
+            "full": [
+              6.421,
+              6.526
+            ],
+            "passage": [
+              0.103,
+              1.8
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "アーメン。", "phonetic": "Āmen." }
+        {
+          "passage_segment_id": "6a",
+          "text": "アーメン。",
+          "phonetic": "Āmen.",
+          "timing": {
+            "full": [
+              6.526,
+              6.724
+            ],
+            "passage": [
+              0.103,
+              0.695
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "イエスのみ心よ、", "phonetic": "Iesu no mikokoro yo," },
-        { "passage_segment_id": "7b", "text": "わたしたちを憐れんでください。", "phonetic": "watashitachi o awarende kudasai." }
+        {
+          "passage_segment_id": "7a",
+          "text": "イエスのみ心よ、",
+          "phonetic": "Iesu no mikokoro yo,",
+          "timing": {
+            "full": [
+              6.724,
+              6.974
+            ],
+            "passage": [
+              0.103,
+              0.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "わたしたちを憐れんでください。",
+          "phonetic": "watashitachi o awarende kudasai.",
+          "timing": {
+            "full": [
+              7.408,
+              7.789
+            ],
+            "passage": [
+              0.445,
+              3.339
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "マリアのみ心よ、", "phonetic": "Maria no mikokoro yo," },
-        { "passage_segment_id": "8b", "text": "わたしたちのために祈ってください。", "phonetic": "watashitachi no tame ni inotte kudasai." }
+        {
+          "passage_segment_id": "8a",
+          "text": "マリアのみ心よ、",
+          "phonetic": "Maria no mikokoro yo,",
+          "timing": {
+            "full": [
+              7.789,
+              8.026
+            ],
+            "passage": [
+              0.103,
+              0.458
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "わたしたちのために祈ってください。",
+          "phonetic": "watashitachi no tame ni inotte kudasai.",
+          "timing": {
+            "full": [
+              8.026,
+              36.526
+            ],
+            "passage": [
+              0.458,
+              3.537
+            ]
+          }
+        }
       ]
     }
   ]

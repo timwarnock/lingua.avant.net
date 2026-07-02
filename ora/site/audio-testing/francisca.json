@@ -11,9 +11,51 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ave Maria,", "phonetic": "Ave Maria," },
-        { "passage_segment_id": "1b", "text": "cheia de graça,", "phonetic": "cheia de graça," },
-        { "passage_segment_id": "1c", "text": "o Senhor é convosco.", "phonetic": "o Senhor é convosco." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ave Maria,",
+          "phonetic": "Ave Maria,",
+          "timing": {
+            "full": [
+              0.103,
+              0.853
+            ],
+            "passage": [
+              0.103,
+              0.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "cheia de graça,",
+          "phonetic": "cheia de graça,",
+          "timing": {
+            "full": [
+              0.905,
+              1.853
+            ],
+            "passage": [
+              0.905,
+              1.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "o Senhor é convosco.",
+          "phonetic": "o Senhor é convosco.",
+          "timing": {
+            "full": [
+              1.932,
+              3.116
+            ],
+            "passage": [
+              1.932,
+              3.116
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Τέταρτο Θλιβερό Μυστήριο, ο Βαστάζος του Σταυρού.",
-          "phonetic": "Té-tar-to Thli-ve-ró Mys-tí-rio, o Vas-tá-zos tou Sta-vroú."
+          "phonetic": "Té-tar-to Thli-ve-ró Mys-tí-rio, o Vas-tá-zos tou Sta-vroú.",
+          "timing": {
+            "full": [
+              0.1,
+              3.113
+            ],
+            "passage": [
+              0.1,
+              3.113
+            ]
+          }
         }
       ]
     }

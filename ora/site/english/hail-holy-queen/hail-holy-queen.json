@@ -11,64 +11,386 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Hail, Holy Queen,", "phonetic": "Hail, Holy Queen," },
-        { "passage_segment_id": "1b", "text": "Mother of mercy,", "phonetic": "Mother of mercy," },
-        { "passage_segment_id": "1c", "text": "our life,", "phonetic": "our life," },
-        { "passage_segment_id": "1d", "text": "our sweetness", "phonetic": "our sweetness" },
-        { "passage_segment_id": "1e", "text": "and our hope.", "phonetic": "and our hope." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Hail, Holy Queen,",
+          "phonetic": "Hail, Holy Queen,",
+          "timing": {
+            "full": [
+              0.142,
+              1.629
+            ],
+            "passage": [
+              0.142,
+              1.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Mother of mercy,",
+          "phonetic": "Mother of mercy,",
+          "timing": {
+            "full": [
+              1.932,
+              2.866
+            ],
+            "passage": [
+              1.958,
+              2.892
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "our life,",
+          "phonetic": "our life,",
+          "timing": {
+            "full": [
+              3.129,
+              3.8
+            ],
+            "passage": [
+              3.168,
+              3.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "our sweetness",
+          "phonetic": "our sweetness",
+          "timing": {
+            "full": [
+              4.076,
+              4.918
+            ],
+            "passage": [
+              4.116,
+              4.958
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1e",
+          "text": "and our hope.",
+          "phonetic": "and our hope.",
+          "timing": {
+            "full": [
+              5.011,
+              5.8
+            ],
+            "passage": [
+              5.05,
+              5.839
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "To thee do we cry,", "phonetic": "To thee do we cry," },
-        { "passage_segment_id": "2b", "text": "poor banished children of Eve.", "phonetic": "poor banished children of Eve." }
+        {
+          "passage_segment_id": "2a",
+          "text": "To thee do we cry,",
+          "phonetic": "To thee do we cry,",
+          "timing": {
+            "full": [
+              6.197,
+              7.368
+            ],
+            "passage": [
+              0.116,
+              1.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "poor banished children of Eve.",
+          "phonetic": "poor banished children of Eve.",
+          "timing": {
+            "full": [
+              7.671,
+              9.368
+            ],
+            "passage": [
+              1.603,
+              3.3
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "To thee do we send up our sighs,", "phonetic": "To thee do we send up our sighs," },
-        { "passage_segment_id": "3b", "text": "mourning and weeping", "phonetic": "mourning and weeping" },
-        { "passage_segment_id": "3c", "text": "in this valley of tears.", "phonetic": "in this valley of tears." }
+        {
+          "passage_segment_id": "3a",
+          "text": "To thee do we send up our sighs,",
+          "phonetic": "To thee do we send up our sighs,",
+          "timing": {
+            "full": [
+              9.763,
+              11.724
+            ],
+            "passage": [
+              0.116,
+              2.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "mourning and weeping",
+          "phonetic": "mourning and weeping",
+          "timing": {
+            "full": [
+              12.013,
+              13.118
+            ],
+            "passage": [
+              2.405,
+              3.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "in this valley of tears.",
+          "phonetic": "in this valley of tears.",
+          "timing": {
+            "full": [
+              13.132,
+              14.5
+            ],
+            "passage": [
+              3.511,
+              4.892
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Turn then,", "phonetic": "Turn then," },
-        { "passage_segment_id": "4b", "text": "most gracious advocate,", "phonetic": "most gracious advocate," },
-        { "passage_segment_id": "4c", "text": "thine eyes of mercy toward us.", "phonetic": "thine eyes of mercy toward us." }
+        {
+          "passage_segment_id": "4a",
+          "text": "Turn then,",
+          "phonetic": "Turn then,",
+          "timing": {
+            "full": [
+              14.88,
+              15.604
+            ],
+            "passage": [
+              0.101,
+              0.838
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "most gracious advocate,",
+          "phonetic": "most gracious advocate,",
+          "timing": {
+            "full": [
+              15.828,
+              17.301
+            ],
+            "passage": [
+              1.088,
+              2.536
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "thine eyes of mercy toward us.",
+          "phonetic": "thine eyes of mercy toward us.",
+          "timing": {
+            "full": [
+              17.564,
+              19.512
+            ],
+            "passage": [
+              2.812,
+              4.772
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "And after this our exile,", "phonetic": "And after this our exile," },
-        { "passage_segment_id": "5b", "text": "show unto us", "phonetic": "show unto us" },
-        { "passage_segment_id": "5c", "text": "the blessed fruit of thy womb,", "phonetic": "the blessid fruit of thy womb," },
-        { "passage_segment_id": "5d", "text": "Jesus.", "phonetic": "Jesus." }
+        {
+          "passage_segment_id": "5a",
+          "text": "And after this our exile,",
+          "phonetic": "And after this our exile,",
+          "timing": {
+            "full": [
+              19.934,
+              21.46
+            ],
+            "passage": [
+              0.142,
+              1.695
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "show unto us",
+          "phonetic": "show unto us",
+          "timing": {
+            "full": [
+              21.75,
+              22.553
+            ],
+            "passage": [
+              1.984,
+              2.787
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "the blessed fruit of thy womb,",
+          "phonetic": "the blessid fruit of thy womb,",
+          "timing": {
+            "full": [
+              22.566,
+              24.263
+            ],
+            "passage": [
+              2.8,
+              4.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5d",
+          "text": "Jesus.",
+          "phonetic": "Jesus.",
+          "timing": {
+            "full": [
+              24.474,
+              25.171
+            ],
+            "passage": [
+              4.721,
+              5.432
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "O clement,", "phonetic": "O clement," },
-        { "passage_segment_id": "6b", "text": "O loving,", "phonetic": "O loving," },
-        { "passage_segment_id": "6c", "text": "O sweet Virgin Mary.", "phonetic": "O sweet Virgin Mary." }
+        {
+          "passage_segment_id": "6a",
+          "text": "O clement,",
+          "phonetic": "O clement,",
+          "timing": {
+            "full": [
+              25.566,
+              26.355
+            ],
+            "passage": [
+              0.116,
+              0.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "O loving,",
+          "phonetic": "O loving,",
+          "timing": {
+            "full": [
+              26.618,
+              27.211
+            ],
+            "passage": [
+              1.195,
+              1.774
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "O sweet Virgin Mary.",
+          "phonetic": "O sweet Virgin Mary.",
+          "timing": {
+            "full": [
+              27.474,
+              28.895
+            ],
+            "passage": [
+              2.063,
+              3.458
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Pray for us,", "phonetic": "Pray for us," },
-        { "passage_segment_id": "7b", "text": "O holy Mother of God.", "phonetic": "O holy Mother of God." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Pray for us,",
+          "phonetic": "Pray for us,",
+          "timing": {
+            "full": [
+              29.274,
+              30.248
+            ],
+            "passage": [
+              0.101,
+              1.061
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "O holy Mother of God.",
+          "phonetic": "O holy Mother of God.",
+          "timing": {
+            "full": [
+              30.498,
+              31.985
+            ],
+            "passage": [
+              1.311,
+              2.798
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "That we may be made worthy of the promises of Christ.", "phonetic": "That we may be made worthy of the promises of Christ." }
+        {
+          "passage_segment_id": "8a",
+          "text": "That we may be made worthy of the promises of Christ.",
+          "phonetic": "That we may be made worthy of the promises of Christ.",
+          "timing": {
+            "full": [
+              32.408,
+              35.71
+            ],
+            "passage": [
+              0.142,
+              3.418
+            ]
+          }
+        }
       ]
     }
   ]

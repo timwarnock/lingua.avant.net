@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一の光の玄義、洗礼.",
-          "phonetic": "Dai ichi no hikari no gen'i, senrei."
+          "phonetic": "Dai ichi no hikari no gen'i, senrei.",
+          "timing": {
+            "full": [
+              0.103,
+              2.695
+            ],
+            "passage": [
+              0.103,
+              2.695
+            ]
+          }
         }
       ]
     }

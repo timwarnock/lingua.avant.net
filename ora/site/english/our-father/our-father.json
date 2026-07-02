@@ -11,47 +11,201 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Our Father,", "phonetic": "Our Father," },
-        { "passage_segment_id": "1b", "text": "who art in heaven,", "phonetic": "who art in heaven," },
-        { "passage_segment_id": "1c", "text": "hallowed be thy name.", "phonetic": "hallowed be thy name." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Our Father,",
+          "phonetic": "Our Father,",
+          "timing": {
+            "full": [
+              0.129,
+              0.918
+            ],
+            "passage": [
+              0.129,
+              0.932
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "who art in heaven,",
+          "phonetic": "who art in heaven,",
+          "timing": {
+            "full": [
+              1.155,
+              2.195
+            ],
+            "passage": [
+              1.168,
+              2.208
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "hallowed be thy name.",
+          "phonetic": "hallowed be thy name.",
+          "timing": {
+            "full": [
+              2.471,
+              3.708
+            ],
+            "passage": [
+              2.484,
+              3.708
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Thy kingdom come.", "phonetic": "Thy kingdom come." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Thy kingdom come.",
+          "phonetic": "Thy kingdom come.",
+          "timing": {
+            "full": [
+              4.132,
+              5.329
+            ],
+            "passage": [
+              0.142,
+              1.313
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Thy will be done on earth as it is in heaven.", "phonetic": "Thy will be done on earth as it is in heaven." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Thy will be done on earth as it is in heaven.",
+          "phonetic": "Thy will be done on earth as it is in heaven.",
+          "timing": {
+            "full": [
+              5.75,
+              8.329
+            ],
+            "passage": [
+              0.142,
+              2.747
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Give us this day our daily bread,", "phonetic": "Give us this day our daily bread," }
+        {
+          "passage_segment_id": "4a",
+          "text": "Give us this day our daily bread,",
+          "phonetic": "Give us this day our daily bread,",
+          "timing": {
+            "full": [
+              8.724,
+              10.658
+            ],
+            "passage": [
+              0.116,
+              2.353
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "and forgive us our trespasses,", "phonetic": "and forgive us our trespasses," },
-        { "passage_segment_id": "5b", "text": "as we forgive those who trespass against us.", "phonetic": "as we forgive those who trespass against us." }
+        {
+          "passage_segment_id": "5a",
+          "text": "and forgive us our trespasses,",
+          "phonetic": "and forgive us our trespasses,",
+          "timing": {
+            "full": [
+              10.947,
+              12.539
+            ],
+            "passage": [
+              0.142,
+              1.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "as we forgive those who trespass against us.",
+          "phonetic": "as we forgive those who trespass against us.",
+          "timing": {
+            "full": [
+              12.816,
+              15.434
+            ],
+            "passage": [
+              2.142,
+              4.958
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "And lead us not into temptation,", "phonetic": "And lead us not into temptation," },
-        { "passage_segment_id": "6b", "text": "but deliver us from evil.", "phonetic": "but deliver us from evil," }
+        {
+          "passage_segment_id": "6a",
+          "text": "And lead us not into temptation,",
+          "phonetic": "And lead us not into temptation,",
+          "timing": {
+            "full": [
+              15.855,
+              17.803
+            ],
+            "passage": [
+              0.116,
+              2.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "but deliver us from evil.",
+          "phonetic": "but deliver us from evil,",
+          "timing": {
+            "full": [
+              18.092,
+              19.566
+            ],
+            "passage": [
+              2.379,
+              3.997
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              19.763,
+              20.276
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     }
   ]

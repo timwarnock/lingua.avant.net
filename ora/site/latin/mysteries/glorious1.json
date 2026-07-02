@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Primum Mysterium Gloriosum, Resurrectio.",
-          "phonetic": "Primum Mysterium Gloriosum, Resurrectio."
+          "phonetic": "Primum Mysterium Gloriosum, Resurrectio.",
+          "timing": {
+            "full": [
+              0.103,
+              3.103
+            ],
+            "passage": [
+              0.103,
+              3.103
+            ]
+          }
         }
       ]
     }

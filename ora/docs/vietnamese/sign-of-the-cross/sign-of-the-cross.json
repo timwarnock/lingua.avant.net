@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Nhân danh Cha,", "phonetic": "Nhân danh Cha," },
-        { "passage_segment_id": "1b", "text": "và Con,", "phonetic": "và Con," },
-        { "passage_segment_id": "1c", "text": "và Thánh Thần.", "phonetic": "và Thánh Thần." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Nhân danh Cha,",
+          "phonetic": "Nhân danh Cha,",
+          "timing": {
+            "full": [
+              0.1,
+              1.1
+            ],
+            "passage": [
+              0.1,
+              1.087
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "và Con,",
+          "phonetic": "và Con,",
+          "timing": {
+            "full": [
+              1.262,
+              1.975
+            ],
+            "passage": [
+              1.25,
+              1.962
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "và Thánh Thần.",
+          "phonetic": "và Thánh Thần.",
+          "timing": {
+            "full": [
+              2.125,
+              2.925
+            ],
+            "passage": [
+              2.112,
+              2.925
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              3.763,
+              4.325
+            ],
+            "passage": [
+              0.1,
+              0.675
+            ]
+          }
+        }
       ]
     }
   ]

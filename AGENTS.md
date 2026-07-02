@@ -28,7 +28,8 @@ Dev server on :7007 for local dev (user will run, DO NOT RUN THIS YOURSELF).
 
 Zensical project set up in `ora/`. 
 All content (and style and javascript and assets) go into `ora/docs/`.
-Generated output lands in `ora/site/` (DO NOT EDIT IN HERE). 
+Generated output lands in `ora/site/` (DO NOT EDIT IN HERE).
+DO NOT write logs or plan docs anywhere in `ora/docs/`, webapp content only!
 
 Migrated old /v/ content organized directly in language/topic sections under `ora/docs/`. 
 
@@ -71,11 +72,12 @@ Segments might not always match exactly due to grammatic and linguistic differen
 
 ## TODO
 
++ revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
+
 + IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
 ++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 ++ compare each prayer to all other languages and verify that the passages align perfectly (literal meaning of a given passage is the same across all languages).
 ++ verify all prayer text with official Catholic sources (from the vatican or similar).
-++ segment highlight to match voice! can add in start/stop times per segment based on the full audio, playing full or a passage should highlight sections during that window and advance to always highlight what is being spoken. creating the start/stop times should be derivable from the existing audio, that is, a given json will be used as input to create audio, but then a secondary process needs to derive the start/stop offsets and update the JSON. Need to brainstorm this and arrive at a solution.
 
 + make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
 + similarly, language selection foolproof, a single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.

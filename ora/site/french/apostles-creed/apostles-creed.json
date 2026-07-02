@@ -11,84 +11,406 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Je crois en Dieu,", "phonetic": "Je crois en Dieu," },
-        { "passage_segment_id": "1b", "text": "le Père tout-puissant,", "phonetic": "le Père tout-puissant," },
-        { "passage_segment_id": "1c", "text": "créateur du ciel et de la terre.", "phonetic": "créateur du ciel et de la terre," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Je crois en Dieu,",
+          "phonetic": "Je crois en Dieu,",
+          "timing": {
+            "full": [
+              0.103,
+              0.971
+            ],
+            "passage": [
+              0.103,
+              1.011
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "le Père tout-puissant,",
+          "phonetic": "le Père tout-puissant,",
+          "timing": {
+            "full": [
+              1.339,
+              2.247
+            ],
+            "passage": [
+              1.379,
+              2.313
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "créateur du ciel et de la terre.",
+          "phonetic": "créateur du ciel et de la terre,",
+          "timing": {
+            "full": [
+              2.484,
+              4.103
+            ],
+            "passage": [
+              2.55,
+              4.26
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Et en Jésus Christ,", "phonetic": "Et en Jésus Christ," },
-        { "passage_segment_id": "2b", "text": "son Fils unique,", "phonetic": "son Fils unique," },
-        { "passage_segment_id": "2c", "text": "notre Seigneur", "phonetic": "notre Seigneur" }
+        {
+          "passage_segment_id": "2a",
+          "text": "Et en Jésus Christ,",
+          "phonetic": "Et en Jésus Christ,",
+          "timing": {
+            "full": [
+              4.497,
+              5.432
+            ],
+            "passage": [
+              0.101,
+              1.167
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "son Fils unique,",
+          "phonetic": "son Fils unique,",
+          "timing": {
+            "full": [
+              5.708,
+              6.537
+            ],
+            "passage": [
+              1.43,
+              2.286
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "notre Seigneur",
+          "phonetic": "notre Seigneur",
+          "timing": {
+            "full": [
+              6.918,
+              7.747
+            ],
+            "passage": [
+              2.601,
+              3.588
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "qui a été conçu du Saint-Esprit,", "phonetic": "qui a été conçu du Saint-Esprit," }
+        {
+          "passage_segment_id": "3a",
+          "text": "qui a été conçu du Saint-Esprit,",
+          "phonetic": "qui a été conçu du Saint-Esprit,",
+          "timing": {
+            "full": [
+              7.761,
+              9.379
+            ],
+            "passage": [
+              0.103,
+              1.826
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "est né de la Vierge Marie,", "phonetic": "est né de la Vierge Marie," }
+        {
+          "passage_segment_id": "4a",
+          "text": "est né de la Vierge Marie,",
+          "phonetic": "est né de la Vierge Marie,",
+          "timing": {
+            "full": [
+              9.734,
+              10.866
+            ],
+            "passage": [
+              0.103,
+              1.432
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "a souffert sous Ponce Pilate,", "phonetic": "a souffert sous Ponce Pilate," },
-        { "passage_segment_id": "5b", "text": "a été crucifié,", "phonetic": "a été crucifié," },
-        { "passage_segment_id": "5c", "text": "est mort et a été enseveli,", "phonetic": "est mort et a été enseveli," }
+        {
+          "passage_segment_id": "5a",
+          "text": "a souffert sous Ponce Pilate,",
+          "phonetic": "a souffert sous Ponce Pilate,",
+          "timing": {
+            "full": [
+              11.247,
+              12.629
+            ],
+            "passage": [
+              0.103,
+              1.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "a été crucifié,",
+          "phonetic": "a été crucifié,",
+          "timing": {
+            "full": [
+              12.879,
+              13.8
+            ],
+            "passage": [
+              1.853,
+              2.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "est mort et a été enseveli,",
+          "phonetic": "est mort et a été enseveli,",
+          "timing": {
+            "full": [
+              14.195,
+              15.405
+            ],
+            "passage": [
+              3.168,
+              4.445
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "est descendu aux enfers,", "phonetic": "est descendu aux enfers," }
+        {
+          "passage_segment_id": "6a",
+          "text": "est descendu aux enfers,",
+          "phonetic": "est descendu aux enfers,",
+          "timing": {
+            "full": [
+              15.708,
+              16.958
+            ],
+            "passage": [
+              0.101,
+              1.562
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "le troisième jour est ressuscité des morts,", "phonetic": "le troisième jour est ressuscité des morts," }
+        {
+          "passage_segment_id": "7a",
+          "text": "le troisième jour est ressuscité des morts,",
+          "phonetic": "le troisième jour est ressuscité des morts,",
+          "timing": {
+            "full": [
+              17.368,
+              19.487
+            ],
+            "passage": [
+              0.103,
+              2.326
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "est monté aux cieux,", "phonetic": "est monté aux cieux," }
+        {
+          "passage_segment_id": "8a",
+          "text": "est monté aux cieux,",
+          "phonetic": "est monté aux cieux,",
+          "timing": {
+            "full": [
+              19.842,
+              20.658
+            ],
+            "passage": [
+              0.103,
+              1.116
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 9,
       "segments": [
-        { "passage_segment_id": "9a", "text": "est assis à la droite de Dieu le Père tout-puissant", "phonetic": "est assis à la droite de Dieu le Père tout-puissant" }
+        {
+          "passage_segment_id": "9a",
+          "text": "est assis à la droite de Dieu le Père tout-puissant",
+          "phonetic": "est assis à la droite de Dieu le Père tout-puissant",
+          "timing": {
+            "full": [
+              21.013,
+              23.329
+            ],
+            "passage": [
+              0.101,
+              2.522
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 10,
       "segments": [
-        { "passage_segment_id": "10a", "text": "d'où Il viendra juger les vivants et les morts.", "phonetic": "d'où Il viendra juger les vivants et les morts," }
+        {
+          "passage_segment_id": "10a",
+          "text": "d'où Il viendra juger les vivants et les morts.",
+          "phonetic": "d'où Il viendra juger les vivants et les morts,",
+          "timing": {
+            "full": [
+              23.342,
+              25.382
+            ],
+            "passage": [
+              0.103,
+              2.287
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 11,
       "segments": [
-        { "passage_segment_id": "11a", "text": "Je crois en l'Esprit-Saint,", "phonetic": "Je crois en l'Esprit-Saint," },
-        { "passage_segment_id": "11b", "text": "à la sainte Eglise catholique,", "phonetic": "à la sainte Eglise catholique," },
-        { "passage_segment_id": "11c", "text": "à la communion des saints,", "phonetic": "à la communion des saints," },
-        { "passage_segment_id": "11d", "text": "à la rémission des péchés,", "phonetic": "à la rémission des péchés," },
-        { "passage_segment_id": "11e", "text": "à la résurrection de la chair,", "phonetic": "à la résurrection de la chair," },
-        { "passage_segment_id": "11f", "text": "à la vie éternelle.", "phonetic": "à la vie éternelle," }
+        {
+          "passage_segment_id": "11a",
+          "text": "Je crois en l'Esprit-Saint,",
+          "phonetic": "Je crois en l'Esprit-Saint,",
+          "timing": {
+            "full": [
+              25.737,
+              26.895
+            ],
+            "passage": [
+              0.103,
+              1.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "à la sainte Eglise catholique,",
+          "phonetic": "à la sainte Eglise catholique,",
+          "timing": {
+            "full": [
+              27.184,
+              29.724
+            ],
+            "passage": [
+              1.734,
+              3.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "à la communion des saints,",
+          "phonetic": "à la communion des saints,",
+          "timing": {
+            "full": [
+              30.053,
+              31.184
+            ],
+            "passage": [
+              3.458,
+              4.563
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "à la rémission des péchés,",
+          "phonetic": "à la rémission des péchés,",
+          "timing": {
+            "full": [
+              31.487,
+              32.75
+            ],
+            "passage": [
+              4.879,
+              6.142
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "à la résurrection de la chair,",
+          "phonetic": "à la résurrection de la chair,",
+          "timing": {
+            "full": [
+              33.132,
+              34.645
+            ],
+            "passage": [
+              6.511,
+              7.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "à la vie éternelle.",
+          "phonetic": "à la vie éternelle,",
+          "timing": {
+            "full": [
+              35.066,
+              35.974
+            ],
+            "passage": [
+              8.392,
+              9.458
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 12,
       "segments": [
-        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "12a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              36.276,
+              36.724
+            ],
+            "passage": [
+              0.101,
+              0.641
+            ]
+          }
+        }
       ]
     }
   ]

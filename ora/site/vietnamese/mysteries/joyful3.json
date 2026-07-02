@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Vui Thứ Ba, Giáng Sinh.",
-          "phonetic": "Mầu Nhiệm Vui Thứ Ba, Giáng Sinh."
+          "phonetic": "Mầu Nhiệm Vui Thứ Ba, Giáng Sinh.",
+          "timing": {
+            "full": [
+              0.1,
+              2.468
+            ],
+            "passage": [
+              0.1,
+              2.468
+            ]
+          }
         }
       ]
     }

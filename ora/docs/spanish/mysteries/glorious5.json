@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Quinto Misterio Glorioso, la Coronación de María.",
-          "phonetic": "El Quinto Misterio Glorioso, la Coronación de María."
+          "phonetic": "El Quinto Misterio Glorioso, la Coronación de María.",
+          "timing": {
+            "full": [
+              0.101,
+              3.272
+            ],
+            "passage": [
+              0.101,
+              3.272
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第二端歡喜奧蹟，聖母訪依撒伯爾.",
-          "phonetic": "Dì èr duān huān xǐ ào jì, Shèng mǔ fǎng yī sǎ bó ěr."
+          "phonetic": "Dì èr duān huān xǐ ào jì, Shèng mǔ fǎng yī sǎ bó ěr.",
+          "timing": {
+            "full": [
+              0.0,
+              3.247
+            ],
+            "passage": [
+              0.0,
+              3.247
+            ]
+          }
         }
       ]
     }

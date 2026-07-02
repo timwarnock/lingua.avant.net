@@ -11,15 +11,67 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Κύριε Ἰησοῦ Χριστέ,", "phonetic": "Ký-rie I-ē-soû Chris-té," },
-        { "passage_segment_id": "1b", "text": "Υἱὲ τοῦ Θεοῦ,", "phonetic": "Yi-é tou The-oú," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Κύριε Ιησου Χριστέ,",
+          "phonetic": "Ký-rie I-ē-soû Chris-té,",
+          "timing": {
+            "full": [
+              0.1,
+              4.916
+            ],
+            "passage": [
+              0.1,
+              2.811
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Υιέ του Θεου,",
+          "phonetic": "Yi-é tou The-oú,",
+          "timing": {
+            "full": [
+              1.429,
+              2.429
+            ],
+            "passage": [
+              1.495,
+              2.587
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "ἐλέησόν με,", "phonetic": "e-lé-i-són me," },
-        { "passage_segment_id": "2b", "text": "τὸν ἁμαρτωλόν.", "phonetic": "ton ha-mar-to-lón." }
+        {
+          "passage_segment_id": "2a",
+          "text": "ελέησόν με,",
+          "phonetic": "e-lé-i-són me,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.337
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "τον αμαρτωλόν.",
+          "phonetic": "ton ha-mar-to-lón.",
+          "timing": {
+            "full": [
+              3.758,
+              4.758
+            ],
+            "passage": [
+              1.337,
+              2.363
+            ]
+          }
+        }
       ]
     }
   ]

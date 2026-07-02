@@ -11,32 +11,96 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ὦ Ἰησοῦ μου,", "phonetic": "Ō I-ē-soû mou," },
-        { "passage_segment_id": "1b", "text": "συγχώρησον ἡμῖν τὰς ἁμαρτίας ἡμῶν,", "phonetic": "syn-chṓ-rē-son hē-mîn tas ha-mar-tí-as hē-mṓn," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ω Ιησου μου,",
+          "phonetic": "Ō I-ē-soû mou,",
+          "timing": {
+            "full": [
+              0.1,
+              3.482
+            ],
+            "passage": [
+              0.1,
+              3.166
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "συγχώρησον ημιν τας αμαρτίας ημων,",
+          "phonetic": "syn-chṓ-rē-son hē-mîn tas ha-mar-tí-as hē-mṓn,",
+          "timing": {
+            "full": [
+              3.482,
+              10.968
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "ῥῦσαι ἡμᾶς ἀπὸ τοῦ πυρὸς τῆς γεέννης,", "phonetic": "rhŷ-sai hē-mâs a-pò tou py-ròs tēs ge-én-nēs," }
+        {
+          "passage_segment_id": "2a",
+          "text": "ρυσαι ημας απο του πυρος της γεέννης,",
+          "phonetic": "rhŷ-sai hē-mâs a-pò tou py-ròs tēs ge-én-nēs,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.113
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "ὁδήγησον εἰς τὸν οὐρανὸν πάσας τὰς ψυχάς,", "phonetic": "ho-dḗ-gē-son eis ton ou-ra-nòn pá-sas tas psy-chás," }
+        {
+          "passage_segment_id": "3a",
+          "text": "οδήγησον εις τον ουρανον πάσας τας ψυχάς,",
+          "phonetic": "ho-dḗ-gē-son eis ton ou-ra-nòn pá-sas tas psy-chás,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.521
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "ἰδίως δὲ ἐκείνας αἵτινες μάλιστα δέονται τοῦ ἐλέους σου,", "phonetic": "i-dí-ōs dè e-keí-nas hai-ti-nes má-lis-ta dé-on-tai tou e-lé-ous sou," }
+        {
+          "passage_segment_id": "4a",
+          "text": "ιδίως δε εκείνας αίτινες μάλιστα δέονται του ελέους σου,",
+          "phonetic": "i-dí-ōs dè e-keí-nas hai-ti-nes má-lis-ta dé-on-tai tou e-lé-ous sou,",
+          "timing": {
+            "passage": [
+              0.1,
+              2.982
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Αμήν.",
+          "phonetic": "A-mḗn.",
+          "timing": {
+            "passage": [
+              0.1,
+              0.903
+            ]
+          }
+        }
       ]
     }
   ]

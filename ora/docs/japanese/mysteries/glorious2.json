@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第二の栄光の玄義、昇天.",
-          "phonetic": "Dai ni no eikō no gen'i, shōten."
+          "phonetic": "Dai ni no eikō no gen'i, shōten.",
+          "timing": {
+            "full": [
+              0.103,
+              2.603
+            ],
+            "passage": [
+              0.103,
+              2.603
+            ]
+          }
         }
       ]
     }

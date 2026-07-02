@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Third Glorious Mystery, the Descent of the Holy Spirit.", "phonetic": "The Third Glorious Mystery, the Descent of the Holy Spirit." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Third Glorious Mystery, the Descent of the Holy Spirit.",
+          "phonetic": "The Third Glorious Mystery, the Descent of the Holy Spirit.",
+          "timing": {
+            "full": [
+              0.142,
+              3.945
+            ],
+            "passage": [
+              0.142,
+              3.945
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Terceiro Mistério Gozoso, o Nascimento de Jesus.",
-          "phonetic": "Terceiro Mistério Gozoso, o Nascimento de Jesus."
+          "phonetic": "Terceiro Mistério Gozoso, o Nascimento de Jesus.",
+          "timing": {
+            "full": [
+              0.103,
+              3.168
+            ],
+            "passage": [
+              0.103,
+              3.168
+            ]
+          }
         }
       ]
     }

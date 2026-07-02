@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第五の栄光の玄義、戴冠.",
-          "phonetic": "Dai go no eikō no gen'i, taikan."
+          "phonetic": "Dai go no eikō no gen'i, taikan.",
+          "timing": {
+            "full": [
+              0.103,
+              2.55
+            ],
+            "passage": [
+              0.103,
+              2.55
+            ]
+          }
         }
       ]
     }

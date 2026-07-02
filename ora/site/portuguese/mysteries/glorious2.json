@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Segundo Mistério Glorioso, a Ascensão.",
-          "phonetic": "Segundo Mistério Glorioso, a Ascensão."
+          "phonetic": "Segundo Mistério Glorioso, a Ascensão.",
+          "timing": {
+            "full": [
+              0.103,
+              2.603
+            ],
+            "passage": [
+              0.103,
+              2.603
+            ]
+          }
         }
       ]
     }

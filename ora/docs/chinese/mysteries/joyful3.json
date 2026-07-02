@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第三端歡喜奧蹟，耶穌誕生.",
-          "phonetic": "Dì sān duān huān xǐ ào jì, Yē sū dàn shēng."
+          "phonetic": "Dì sān duān huān xǐ ào jì, Yē sū dàn shēng.",
+          "timing": {
+            "full": [
+              0.0,
+              2.747
+            ],
+            "passage": [
+              0.0,
+              2.747
+            ]
+          }
         }
       ]
     }

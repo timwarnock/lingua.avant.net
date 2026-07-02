@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Fourth Sorrowful Mystery, the Carrying of the Cross.", "phonetic": "The Fourth Sorrowful Mystery, the Carrying of the Cross." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Fourth Sorrowful Mystery, the Carrying of the Cross.",
+          "phonetic": "The Fourth Sorrowful Mystery, the Carrying of the Cross.",
+          "timing": {
+            "full": [
+              0.142,
+              3.497
+            ],
+            "passage": [
+              0.142,
+              3.497
+            ]
+          }
+        }
       ]
     }
   ]

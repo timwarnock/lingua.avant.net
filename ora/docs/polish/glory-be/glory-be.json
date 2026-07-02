@@ -11,22 +11,106 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Chwała Ojcu i Synowi,", "phonetic": "Chwała Ojcu i Synowi," },
-        { "passage_segment_id": "1b", "text": "i Duchowi Świętemu.", "phonetic": "i Duchowi Świętemu." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Chwała Ojcu i Synowi,",
+          "phonetic": "Chwała Ojcu i Synowi,",
+          "timing": {
+            "full": [
+              0.103,
+              1.603
+            ],
+            "passage": [
+              0.103,
+              1.603
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "i Duchowi Świętemu.",
+          "phonetic": "i Duchowi Świętemu.",
+          "timing": {
+            "full": [
+              1.708,
+              2.839
+            ],
+            "passage": [
+              1.708,
+              2.839
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Jak była na początku,", "phonetic": "Jak była na początku," },
-        { "passage_segment_id": "2b", "text": "teraz i zawsze,", "phonetic": "teraz i zawsze," },
-        { "passage_segment_id": "2c", "text": "i na wieki wieków,", "phonetic": "i na wieki wieków," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Jak była na początku,",
+          "phonetic": "Jak była na początku,",
+          "timing": {
+            "full": [
+              3.802,
+              5.052
+            ],
+            "passage": [
+              0.102,
+              1.352
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "teraz i zawsze,",
+          "phonetic": "teraz i zawsze,",
+          "timing": {
+            "full": [
+              5.118,
+              6.078
+            ],
+            "passage": [
+              1.444,
+              2.418
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "i na wieki wieków,",
+          "phonetic": "i na wieki wieków,",
+          "timing": {
+            "full": [
+              6.184,
+              7.197
+            ],
+            "passage": [
+              2.562,
+              3.641
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              7.341,
+              7.776
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

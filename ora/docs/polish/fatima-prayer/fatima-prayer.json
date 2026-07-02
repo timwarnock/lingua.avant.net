@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "O mój Jezu,", "phonetic": "O mój Jezu," },
-        { "passage_segment_id": "1b", "text": "przebacz nam nasze grzechy,", "phonetic": "przebacz nam nasze grzechy," }
+        {
+          "passage_segment_id": "1a",
+          "text": "O mój Jezu,",
+          "phonetic": "O mój Jezu,",
+          "timing": {
+            "full": [
+              0.103,
+              0.761
+            ],
+            "passage": [
+              0.102,
+              0.812
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "przebacz nam nasze grzechy,",
+          "phonetic": "przebacz nam nasze grzechy,",
+          "timing": {
+            "full": [
+              0.774,
+              2.142
+            ],
+            "passage": [
+              0.826,
+              2.26
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "zachowaj nas od ognia piekielnego,", "phonetic": "zachowaj nas od ognia piekielnego," }
+        {
+          "passage_segment_id": "2a",
+          "text": "zachowaj nas od ognia piekielnego,",
+          "phonetic": "zachowaj nas od ognia piekielnego,",
+          "timing": {
+            "full": [
+              2.182,
+              4.09
+            ],
+            "passage": [
+              0.102,
+              2.22
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "zaprowadź do nieba wszystkie dusze,", "phonetic": "zaprowadź do nieba wszystkie dusze," }
+        {
+          "passage_segment_id": "3a",
+          "text": "zaprowadź do nieba wszystkie dusze,",
+          "phonetic": "zaprowadź do nieba wszystkie dusze,",
+          "timing": {
+            "full": [
+              4.484,
+              6.182
+            ],
+            "passage": [
+              0.102,
+              1.957
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,", "phonetic": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia," }
+        {
+          "passage_segment_id": "4a",
+          "text": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,",
+          "phonetic": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,",
+          "timing": {
+            "full": [
+              6.379,
+              9.879
+            ],
+            "passage": [
+              0.102,
+              3.562
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              10.063,
+              10.484
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

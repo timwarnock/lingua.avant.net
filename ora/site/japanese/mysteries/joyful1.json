@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一の喜びの玄義、お告げ.",
-          "phonetic": "Dai ichi no yorokobi no gen'i, o tsuge."
+          "phonetic": "Dai ichi no yorokobi no gen'i, o tsuge.",
+          "timing": {
+            "full": [
+              0.103,
+              2.55
+            ],
+            "passage": [
+              0.103,
+              2.55
+            ]
+          }
         }
       ]
     }

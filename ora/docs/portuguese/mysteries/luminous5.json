@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quinto Mistério Luminoso, a Instituição da Eucaristia.",
-          "phonetic": "Quinto Mistério Luminoso, a Instituição da Eucaristia."
+          "phonetic": "Quinto Mistério Luminoso, a Instituição da Eucaristia.",
+          "timing": {
+            "full": [
+              0.103,
+              3.234
+            ],
+            "passage": [
+              0.103,
+              3.234
+            ]
+          }
         }
       ]
     }

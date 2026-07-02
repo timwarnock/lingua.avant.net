@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Señor Jesucristo,", "phonetic": "Señor Jesucristo," },
-        { "passage_segment_id": "1b", "text": "Hijo de Dios,", "phonetic": "Hijo de Dios," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Señor Jesucristo,",
+          "phonetic": "Señor Jesucristo,",
+          "timing": {
+            "full": [
+              0.1,
+              1.337
+            ],
+            "passage": [
+              0.102,
+              1.298
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Hijo de Dios,",
+          "phonetic": "Hijo de Dios,",
+          "timing": {
+            "full": [
+              1.669,
+              2.387
+            ],
+            "passage": [
+              1.604,
+              2.415
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "ten piedad de mí,", "phonetic": "ten piedad de mí," },
-        { "passage_segment_id": "2b", "text": "que soy un pecador.", "phonetic": "que soy un pecador." }
+        {
+          "passage_segment_id": "2a",
+          "text": "ten piedad de mí,",
+          "phonetic": "ten piedad de mí,",
+          "timing": {
+            "full": [
+              2.653,
+              3.531
+            ],
+            "passage": [
+              0.1,
+              1.071
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "que soy un pecador.",
+          "phonetic": "que soy un pecador.",
+          "timing": {
+            "full": [
+              3.77,
+              4.834
+            ],
+            "passage": [
+              1.337,
+              2.427
+            ]
+          }
+        }
       ]
     }
   ]

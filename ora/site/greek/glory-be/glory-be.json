@@ -11,24 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Δόξα Πατρὶ", "phonetic": "Dó-xa Pa-trí" },
-        { "passage_segment_id": "1b", "text": "καὶ Υἱῷ", "phonetic": "kai Yi-ṓ" },
-        { "passage_segment_id": "1c", "text": "καὶ Ἁγίῳ Πνεύματι,", "phonetic": "kai Ha-gí-ō Pneú-ma-ti," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Δόξα Πατρι",
+          "phonetic": "Dó-xa Pa-trí",
+          "timing": {
+            "full": [
+              0.1,
+              2.679
+            ],
+            "passage": [
+              0.1,
+              2.337
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "και Υιω",
+          "phonetic": "kai Yi-ṓ",
+          "timing": {
+            "full": [
+              2.679,
+              3.718
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "και Αγίω Πνεύματι,",
+          "phonetic": "kai Ha-gí-ō Pneú-ma-ti,",
+          "timing": {
+            "full": [
+              3.718,
+              5.126
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "καὶ νῦν", "phonetic": "kai nŷn" },
-        { "passage_segment_id": "2b", "text": "καὶ ἀεὶ", "phonetic": "kai a-eí" },
-        { "passage_segment_id": "2c", "text": "καὶ εἰς τοὺς αἰῶνας", "phonetic": "kai eis toùs ai-ṓ-nas" },
-        { "passage_segment_id": "2d", "text": "τῶν αἰώνων,", "phonetic": "tōn ai-ṓ-nōn," }
+        {
+          "passage_segment_id": "2a",
+          "text": "και νυν",
+          "phonetic": "kai nŷn",
+          "timing": {
+            "passage": [
+              0.1,
+              1.139
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "και αει",
+          "phonetic": "kai a-eí",
+          "timing": {
+            "passage": [
+              1.139,
+              2.258
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "και εις τους αιωνας",
+          "phonetic": "kai eis toùs ai-ṓ-nas",
+          "timing": {
+            "full": [
+              4.284,
+              5.061
+            ],
+            "passage": [
+              1.534,
+              2.35
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "των αιώνων,",
+          "phonetic": "tōn ai-ṓ-nōn,",
+          "timing": {
+            "full": [
+              5.061,
+              5.982
+            ],
+            "passage": [
+              2.35,
+              3.245
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Ἀμήν.", "phonetic": "A-mḗn." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Αμήν.",
+          "phonetic": "A-mḗn.",
+          "timing": {
+            "passage": [
+              0.1,
+              0.903
+            ]
+          }
+        }
       ]
     }
   ]

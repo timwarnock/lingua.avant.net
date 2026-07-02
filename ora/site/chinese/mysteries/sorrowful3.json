@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第三端痛苦奧蹟，耶穌戴茨冕.",
-          "phonetic": "Dì sān duān tòng kǔ ào jì, Yē sū dài cì miǎn."
+          "phonetic": "Dì sān duān tòng kǔ ào jì, Yē sū dài cì miǎn.",
+          "timing": {
+            "full": [
+              0.0,
+              2.984
+            ],
+            "passage": [
+              0.0,
+              2.984
+            ]
+          }
         }
       ]
     }

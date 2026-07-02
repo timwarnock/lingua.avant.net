@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一の栄光の玄義、復活.",
-          "phonetic": "Dai ichi no eikō no gen'i, fukkatsu."
+          "phonetic": "Dai ichi no eikō no gen'i, fukkatsu.",
+          "timing": {
+            "full": [
+              0.103,
+              2.747
+            ],
+            "passage": [
+              0.103,
+              2.747
+            ]
+          }
         }
       ]
     }

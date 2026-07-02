@@ -11,47 +11,201 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ojcze nasz,", "phonetic": "Ojcze nasz," },
-        { "passage_segment_id": "1b", "text": "któryś jest w niebie,", "phonetic": "któryś jest w niebie," },
-        { "passage_segment_id": "1c", "text": "święć się imię Twoje.", "phonetic": "święć się imię Twoje." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ojcze nasz,",
+          "phonetic": "Ojcze nasz,",
+          "timing": {
+            "full": [
+              0.103,
+              0.629
+            ],
+            "passage": [
+              0.103,
+              0.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "któryś jest w niebie,",
+          "phonetic": "któryś jest w niebie,",
+          "timing": {
+            "full": [
+              0.668,
+              1.708
+            ],
+            "passage": [
+              0.668,
+              1.708
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "święć się imię Twoje.",
+          "phonetic": "święć się imię Twoje.",
+          "timing": {
+            "full": [
+              1.813,
+              3.063
+            ],
+            "passage": [
+              1.813,
+              3.063
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Przyjdź królestwo Twoje.", "phonetic": "Przyjdź królestwo Twoje." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Przyjdź królestwo Twoje.",
+          "phonetic": "Przyjdź królestwo Twoje.",
+          "timing": {
+            "full": [
+              4.066,
+              5.434
+            ],
+            "passage": [
+              0.103,
+              1.471
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Bądź wola Twoja jako w niebie, tak i na ziemi.", "phonetic": "Bądź wola Twoja jako w niebie, tak i na ziemi." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Bądź wola Twoja jako w niebie, tak i na ziemi.",
+          "phonetic": "Bądź wola Twoja jako w niebie, tak i na ziemi.",
+          "timing": {
+            "full": [
+              6.434,
+              9.105
+            ],
+            "passage": [
+              0.102,
+              2.773
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Chleba naszego powszedniego daj nam dzisiaj,", "phonetic": "Chleba naszego powszedniego daj nam dzisiaj," }
+        {
+          "passage_segment_id": "4a",
+          "text": "Chleba naszego powszedniego daj nam dzisiaj,",
+          "phonetic": "Chleba naszego powszedniego daj nam dzisiaj,",
+          "timing": {
+            "full": [
+              10.132,
+              12.289
+            ],
+            "passage": [
+              0.102,
+              2.365
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "i odpuść nam nasze winy,", "phonetic": "i odpuść nam nasze winy," },
-        { "passage_segment_id": "5b", "text": "jako i my odpuszczamy naszym winowajcom.", "phonetic": "jako i my odpuszczamy naszym winowajcom." }
+        {
+          "passage_segment_id": "5a",
+          "text": "i odpuść nam nasze winy,",
+          "phonetic": "i odpuść nam nasze winy,",
+          "timing": {
+            "full": [
+              12.382,
+              13.829
+            ],
+            "passage": [
+              0.102,
+              1.589
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "jako i my odpuszczamy naszym winowajcom.",
+          "phonetic": "jako i my odpuszczamy naszym winowajcom.",
+          "timing": {
+            "full": [
+              13.961,
+              16.5
+            ],
+            "passage": [
+              1.615,
+              4.181
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "I nie wódź nas na pokuszenie,", "phonetic": "I nie wódź nas na pokuszenie," },
-        { "passage_segment_id": "6b", "text": "ale nas zbaw od złego,", "phonetic": "ale nas zbaw od złego," }
+        {
+          "passage_segment_id": "6a",
+          "text": "I nie wódź nas na pokuszenie,",
+          "phonetic": "I nie wódź nas na pokuszenie,",
+          "timing": {
+            "full": [
+              17.42,
+              18.841
+            ],
+            "passage": [
+              0.102,
+              1.562
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "ale nas zbaw od złego,",
+          "phonetic": "ale nas zbaw od złego,",
+          "timing": {
+            "full": [
+              18.96,
+              20.341
+            ],
+            "passage": [
+              1.707,
+              3.089
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              20.552,
+              20.999
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

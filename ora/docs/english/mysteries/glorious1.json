@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The First Glorious Mystery, the Resurrection.", "phonetic": "The First Glorious Mystery, the Resurrection." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The First Glorious Mystery, the Resurrection.",
+          "phonetic": "The First Glorious Mystery, the Resurrection.",
+          "timing": {
+            "full": [
+              0.142,
+              3.182
+            ],
+            "passage": [
+              0.142,
+              3.182
+            ]
+          }
+        }
       ]
     }
   ]

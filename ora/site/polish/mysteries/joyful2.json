@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Druga Tajemnica Radosna, Nawiedzenie.",
-          "phonetic": "Druga Tajemnica Radosna, Nawiedzenie."
+          "phonetic": "Druga Tajemnica Radosna, Nawiedzenie.",
+          "timing": {
+            "full": [
+              0.102,
+              2.47
+            ],
+            "passage": [
+              0.102,
+              2.47
+            ]
+          }
         }
       ]
     }

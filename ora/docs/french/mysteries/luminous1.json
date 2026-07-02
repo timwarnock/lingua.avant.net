@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Premier Mystère Lumineux, le Baptême de Jésus.",
-          "phonetic": "Premier Mystère Lumineux, le Baptême de Jésus."
+          "phonetic": "Premier Mystère Lumineux, le Baptême de Jésus.",
+          "timing": {
+            "full": [
+              0.103,
+              2.932
+            ],
+            "passage": [
+              0.103,
+              2.932
+            ]
+          }
         }
       ]
     }

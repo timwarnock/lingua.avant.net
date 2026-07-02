@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第三端榮耀奧蹟，聖神降臨.",
-          "phonetic": "Dì sān duān róng yào ào jì, Shèng shén jiàng lín."
+          "phonetic": "Dì sān duān róng yào ào jì, Shèng shén jiàng lín.",
+          "timing": {
+            "full": [
+              0.0,
+              2.813
+            ],
+            "passage": [
+              0.0,
+              2.813
+            ]
+          }
         }
       ]
     }

@@ -11,84 +11,406 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Wierzę w Boga,", "phonetic": "Wierzę w Boga," },
-        { "passage_segment_id": "1b", "text": "Ojca wszechmogącego,", "phonetic": "Ojca wszechmogącego," },
-        { "passage_segment_id": "1c", "text": "Stworzyciela nieba i ziemi,", "phonetic": "Stworzyciela nieba i ziemi," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Wierzę w Boga,",
+          "phonetic": "Wierzę w Boga,",
+          "timing": {
+            "full": [
+              0.102,
+              0.839
+            ],
+            "passage": [
+              0.102,
+              0.891
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Ojca wszechmogącego,",
+          "phonetic": "Ojca wszechmogącego,",
+          "timing": {
+            "full": [
+              1.115,
+              2.299
+            ],
+            "passage": [
+              1.076,
+              2.326
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Stworzyciela nieba i ziemi,",
+          "phonetic": "Stworzyciela nieba i ziemi,",
+          "timing": {
+            "full": [
+              2.365,
+              5.023
+            ],
+            "passage": [
+              2.431,
+              5.589
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "i w Jezusa Chrystusa,", "phonetic": "i w Jezusa Chrystusa," },
-        { "passage_segment_id": "2b", "text": "Syna Jego jedynego,", "phonetic": "Syna Jego jedynego," },
-        { "passage_segment_id": "2c", "text": "Pana naszego,", "phonetic": "Pana naszego," }
+        {
+          "passage_segment_id": "2a",
+          "text": "i w Jezusa Chrystusa,",
+          "phonetic": "i w Jezusa Chrystusa,",
+          "timing": {
+            "full": [
+              5.194,
+              6.339
+            ],
+            "passage": [
+              0.102,
+              1.234
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "Syna Jego jedynego,",
+          "phonetic": "Syna Jego jedynego,",
+          "timing": {
+            "full": [
+              6.747,
+              7.878
+            ],
+            "passage": [
+              1.378,
+              2.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Pana naszego,",
+          "phonetic": "Pana naszego,",
+          "timing": {
+            "full": [
+              8.26,
+              9.049
+            ],
+            "passage": [
+              2.628,
+              3.523
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "który się począł z Ducha Świętego,", "phonetic": "który się począł z Ducha Świętego," }
+        {
+          "passage_segment_id": "3a",
+          "text": "który się począł z Ducha Świętego,",
+          "phonetic": "który się począł z Ducha Świętego,",
+          "timing": {
+            "full": [
+              9.102,
+              10.826
+            ],
+            "passage": [
+              0.103,
+              1.971
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "narodził się z Maryi Panny,", "phonetic": "narodził się z Maryi Panny," }
+        {
+          "passage_segment_id": "4a",
+          "text": "narodził się z Maryi Panny,",
+          "phonetic": "narodził się z Maryi Panny,",
+          "timing": {
+            "full": [
+              11.168,
+              12.628
+            ],
+            "passage": [
+              0.102,
+              1.641
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "umęczon pod Ponckim Piłatem,", "phonetic": "umęczon pod Ponckim Piłatem," },
-        { "passage_segment_id": "5b", "text": "ukrzyżowan,", "phonetic": "ukrzyżowan," },
-        { "passage_segment_id": "5c", "text": "umarł i pogrzebion;", "phonetic": "umarł i pogrzebion;" }
+        {
+          "passage_segment_id": "5a",
+          "text": "umęczon pod Ponckim Piłatem,",
+          "phonetic": "umęczon pod Ponckim Piłatem,",
+          "timing": {
+            "full": [
+              12.839,
+              14.484
+            ],
+            "passage": [
+              0.103,
+              1.787
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "ukrzyżowan,",
+          "phonetic": "ukrzyżowan,",
+          "timing": {
+            "full": [
+              14.641,
+              15.339
+            ],
+            "passage": [
+              1.853,
+              2.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "umarł i pogrzebion;",
+          "phonetic": "umarł i pogrzebion;",
+          "timing": {
+            "full": [
+              15.615,
+              16.707
+            ],
+            "passage": [
+              2.8,
+              4.024
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "Zstąpił do piekieł;", "phonetic": "Zstąpił do piekieł;" }
+        {
+          "passage_segment_id": "6a",
+          "text": "Zstąpił do piekieł;",
+          "phonetic": "Zstąpił do piekieł;",
+          "timing": {
+            "full": [
+              16.931,
+              18.036
+            ],
+            "passage": [
+              0.102,
+              1.352
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "trzeciego dnia zmartwychwstał;", "phonetic": "trzeciego dnia zmartwychwstał;" }
+        {
+          "passage_segment_id": "7a",
+          "text": "trzeciego dnia zmartwychwstał;",
+          "phonetic": "trzeciego dnia zmartwychwstał;",
+          "timing": {
+            "full": [
+              18.286,
+              19.839
+            ],
+            "passage": [
+              0.103,
+              1.839
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 8,
       "segments": [
-        { "passage_segment_id": "8a", "text": "Wstąpił na niebiosa,", "phonetic": "Wstąpił na niebiosa," }
+        {
+          "passage_segment_id": "8a",
+          "text": "Wstąpił na niebiosa,",
+          "phonetic": "Wstąpił na niebiosa,",
+          "timing": {
+            "full": [
+              20.023,
+              21.22
+            ],
+            "passage": [
+              0.103,
+              1.366
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 9,
       "segments": [
-        { "passage_segment_id": "9a", "text": "siedzi po prawicy Boga Ojca wszechmogącego;", "phonetic": "siedzi po prawicy Boga Ojca wszechmogącego;" }
+        {
+          "passage_segment_id": "9a",
+          "text": "siedzi po prawicy Boga Ojca wszechmogącego;",
+          "phonetic": "siedzi po prawicy Boga Ojca wszechmogącego;",
+          "timing": {
+            "full": [
+              21.591,
+              23.96
+            ],
+            "passage": [
+              0.102,
+              2.641
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 10,
       "segments": [
-        { "passage_segment_id": "10a", "text": "stamtąd przyjdzie sądzić żywych i umarłych.", "phonetic": "stamtąd przyjdzie sądzić żywych i umarłych." }
+        {
+          "passage_segment_id": "10a",
+          "text": "stamtąd przyjdzie sądzić żywych i umarłych.",
+          "phonetic": "stamtąd przyjdzie sądzić żywych i umarłych.",
+          "timing": {
+            "full": [
+              24.315,
+              26.96
+            ],
+            "passage": [
+              0.102,
+              2.878
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 11,
       "segments": [
-        { "passage_segment_id": "11a", "text": "Wierzę w Ducha Świętego,", "phonetic": "Wierzę w Ducha Świętego," },
-        { "passage_segment_id": "11b", "text": "święty Kościół powszechny,", "phonetic": "święty Kościół powszechny," },
-        { "passage_segment_id": "11c", "text": "świętych obcowanie,", "phonetic": "świętych obcowanie," },
-        { "passage_segment_id": "11d", "text": "grzechów odpuszczenie,", "phonetic": "grzechów odpuszczenie," },
-        { "passage_segment_id": "11e", "text": "ciała zmartwychwstanie,", "phonetic": "ciała zmartwychwstanie," },
-        { "passage_segment_id": "11f", "text": "żywot wieczny,", "phonetic": "żywot wieczny," }
+        {
+          "passage_segment_id": "11a",
+          "text": "Wierzę w Ducha Świętego,",
+          "phonetic": "Wierzę w Ducha Świętego,",
+          "timing": {
+            "full": [
+              27.881,
+              29.17
+            ],
+            "passage": [
+              0.102,
+              1.391
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "święty Kościół powszechny,",
+          "phonetic": "święty Kościół powszechny,",
+          "timing": {
+            "full": [
+              29.197,
+              30.618
+            ],
+            "passage": [
+              1.418,
+              2.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "świętych obcowanie,",
+          "phonetic": "świętych obcowanie,",
+          "timing": {
+            "full": [
+              30.67,
+              31.789
+            ],
+            "passage": [
+              2.891,
+              3.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "grzechów odpuszczenie,",
+          "phonetic": "grzechów odpuszczenie,",
+          "timing": {
+            "full": [
+              31.907,
+              33.026
+            ],
+            "passage": [
+              4.115,
+              5.234
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "ciała zmartwychwstanie,",
+          "phonetic": "ciała zmartwychwstanie,",
+          "timing": {
+            "full": [
+              33.197,
+              34.394
+            ],
+            "passage": [
+              5.405,
+              6.615
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "żywot wieczny,",
+          "phonetic": "żywot wieczny,",
+          "timing": {
+            "full": [
+              34.657,
+              35.46
+            ],
+            "passage": [
+              6.839,
+              7.681
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 12,
       "segments": [
-        { "passage_segment_id": "12a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "12a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              35.631,
+              36.078
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

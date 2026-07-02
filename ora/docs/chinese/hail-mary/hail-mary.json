@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "萬福瑪利亞，", "phonetic": "Wàn fú Mǎ lì yà," },
-        { "passage_segment_id": "1b", "text": "妳充滿聖寵。", "phonetic": "Nǐ chōng mǎn shèng chǒng." },
-        { "passage_segment_id": "1c", "text": "主與妳同在。", "phonetic": "Zhǔ yǔ nǐ tóng zài." }
+        {
+          "passage_segment_id": "1a",
+          "text": "萬福瑪利亞，",
+          "phonetic": "Wàn fú Mǎ lì yà,",
+          "timing": {
+            "full": [
+              0.0,
+              1.425
+            ],
+            "passage": [
+              0.0,
+              1.43
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "妳充滿聖寵。",
+          "phonetic": "Nǐ chōng mǎn shèng chǒng.",
+          "timing": {
+            "full": [
+              1.425,
+              2.849
+            ],
+            "passage": [
+              1.43,
+              2.86
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "主與妳同在。",
+          "phonetic": "Zhǔ yǔ nǐ tóng zài.",
+          "timing": {
+            "full": [
+              2.849,
+              4.274
+            ],
+            "passage": [
+              2.86,
+              4.289
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "妳在婦女中受讚頌，", "phonetic": "Nǐ zài fù nǚ zhōng shòu zàn sòng," },
-        { "passage_segment_id": "2b", "text": "妳的親子耶穌", "phonetic": "Nǐ de qīn zǐ Yē sū" },
-        { "passage_segment_id": "2c", "text": "同受讚頌。", "phonetic": "Tóng shòu zàn sòng." }
+        {
+          "passage_segment_id": "2a",
+          "text": "妳在婦女中受讚頌，",
+          "phonetic": "Nǐ zài fù nǚ zhōng shòu zàn sòng,",
+          "timing": {
+            "full": [
+              4.274,
+              6.554
+            ],
+            "passage": [
+              0.0,
+              1.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "妳的親子耶穌",
+          "phonetic": "Nǐ de qīn zǐ Yē sū",
+          "timing": {
+            "full": [
+              6.554,
+              8.263
+            ],
+            "passage": [
+              1.888,
+              3.304
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "同受讚頌。",
+          "phonetic": "Tóng shòu zàn sòng.",
+          "timing": {
+            "full": [
+              8.263,
+              9.403
+            ],
+            "passage": [
+              3.304,
+              4.247
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "天主聖母瑪利亞，", "phonetic": "Tiān zhǔ shèng mǔ Mǎ lì yà," },
-        { "passage_segment_id": "3b", "text": "為我們罪人，", "phonetic": "Wèi wǒ men zuì rén," },
-        { "passage_segment_id": "3c", "text": "求妳祈求天主。", "phonetic": "Qiú nǐ qí qiú tiān zhǔ." }
+        {
+          "passage_segment_id": "3a",
+          "text": "天主聖母瑪利亞，",
+          "phonetic": "Tiān zhǔ shèng mǔ Mǎ lì yà,",
+          "timing": {
+            "full": [
+              9.403,
+              11.398
+            ],
+            "passage": [
+              0.0,
+              1.688
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "為我們罪人，",
+          "phonetic": "Wèi wǒ men zuì rén,",
+          "timing": {
+            "full": [
+              11.398,
+              12.822
+            ],
+            "passage": [
+              1.688,
+              2.893
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "求妳祈求天主。",
+          "phonetic": "Qiú nǐ qí qiú tiān zhǔ.",
+          "timing": {
+            "full": [
+              12.822,
+              14.532
+            ],
+            "passage": [
+              2.893,
+              4.339
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "現在和我們臨終時。", "phonetic": "Xiàn zài hé wǒ men lín zhōng shí." }
+        {
+          "passage_segment_id": "4a",
+          "text": "現在和我們臨終時。",
+          "phonetic": "Xiàn zài hé wǒ men lín zhōng shí.",
+          "timing": {
+            "full": [
+              14.532,
+              16.812
+            ],
+            "passage": [
+              0.0,
+              1.813
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "阿門。", "phonetic": "Ā men." }
+        {
+          "passage_segment_id": "5a",
+          "text": "阿門。",
+          "phonetic": "Ā men.",
+          "timing": {
+            "full": [
+              16.812,
+              17.382
+            ],
+            "passage": [
+              0.0,
+              0.708
+            ]
+          }
+        }
       ]
     }
   ]

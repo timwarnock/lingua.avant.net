@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Druga Tajemnica Bolesna, Biczowanie.",
-          "phonetic": "Druga Tajemnica Bolesna, Biczowanie."
+          "phonetic": "Druga Tajemnica Bolesna, Biczowanie.",
+          "timing": {
+            "full": [
+              0.102,
+              2.378
+            ],
+            "passage": [
+              0.102,
+              2.378
+            ]
+          }
         }
       ]
     }

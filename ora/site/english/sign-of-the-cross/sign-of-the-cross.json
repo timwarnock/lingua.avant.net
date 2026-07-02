@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "In the name of the Father,", "phonetic": "In the name of the Father," },
-        { "passage_segment_id": "1b", "text": "and of the Son,", "phonetic": "and of the Son," },
-        { "passage_segment_id": "1c", "text": "and of the Holy Spirit.", "phonetic": "and of the Holy Spirit," }
+        {
+          "passage_segment_id": "1a",
+          "text": "In the name of the Father,",
+          "phonetic": "In the name of the Father,",
+          "timing": {
+            "full": [
+              0.116,
+              1.458
+            ],
+            "passage": [
+              0.116,
+              1.471
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "and of the Son,",
+          "phonetic": "and of the Son,",
+          "timing": {
+            "full": [
+              1.682,
+              2.563
+            ],
+            "passage": [
+              1.708,
+              2.589
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "and of the Holy Spirit.",
+          "phonetic": "and of the Holy Spirit,",
+          "timing": {
+            "full": [
+              2.813,
+              4.063
+            ],
+            "passage": [
+              2.826,
+              4.221
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              4.326,
+              4.826
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     }
   ]

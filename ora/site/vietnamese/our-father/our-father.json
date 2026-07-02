@@ -11,46 +11,186 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Lạy Cha chúng con ở trên trời,", "phonetic": "Lạy Cha chúng con ở trên trời," },
-        { "passage_segment_id": "1b", "text": "chúng con nguyện Danh Cha cả sáng;", "phonetic": "chúng con nguyện Danh Cha cả sáng;" }
+        {
+          "passage_segment_id": "1a",
+          "text": "Lạy Cha chúng con ở trên trời,",
+          "phonetic": "Lạy Cha chúng con ở trên trời,",
+          "timing": {
+            "full": [
+              0.1,
+              1.775
+            ],
+            "passage": [
+              0.1,
+              1.788
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "chúng con nguyện Danh Cha cả sáng;",
+          "phonetic": "chúng con nguyện Danh Cha cả sáng;",
+          "timing": {
+            "full": [
+              1.938,
+              3.675
+            ],
+            "passage": [
+              1.962,
+              3.725
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "nước Cha trị đến,", "phonetic": "nước Cha trị đến," }
+        {
+          "passage_segment_id": "2a",
+          "text": "nước Cha trị đến,",
+          "phonetic": "nước Cha trị đến,",
+          "timing": {
+            "full": [
+              3.862,
+              4.888
+            ],
+            "passage": [
+              0.1,
+              1.275
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "ý Cha thể hiện dưới đất cũng như trên trời.", "phonetic": "ý Cha thể hiện dưới đất cũng như trên trời." }
+        {
+          "passage_segment_id": "3a",
+          "text": "ý Cha thể hiện dưới đất cũng như trên trời.",
+          "phonetic": "ý Cha thể hiện dưới đất cũng như trên trời.",
+          "timing": {
+            "full": [
+              5.088,
+              7.2
+            ],
+            "passage": [
+              0.1,
+              2.3
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,", "phonetic": "Xin Cha cho chúng con hôm nay lương thực hàng ngày," }
+        {
+          "passage_segment_id": "4a",
+          "text": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,",
+          "phonetic": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,",
+          "timing": {
+            "full": [
+              8.037,
+              10.312
+            ],
+            "passage": [
+              0.1,
+              2.5
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "và tha nợ chúng con,", "phonetic": "và tha nợ chúng con," },
-        { "passage_segment_id": "5b", "text": "như chúng con cũng tha kẻ có nợ chúng con,", "phonetic": "như chúng con cũng tha kẻ có nợ chúng con," }
+        {
+          "passage_segment_id": "5a",
+          "text": "và tha nợ chúng con,",
+          "phonetic": "và tha nợ chúng con,",
+          "timing": {
+            "full": [
+              10.475,
+              11.613
+            ],
+            "passage": [
+              0.1,
+              1.312
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "như chúng con cũng tha kẻ có nợ chúng con,",
+          "phonetic": "như chúng con cũng tha kẻ có nợ chúng con,",
+          "timing": {
+            "full": [
+              11.787,
+              13.887
+            ],
+            "passage": [
+              1.475,
+              3.675
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "xin chớ để chúng con sa chước cám dỗ,", "phonetic": "xin chớ để chúng con sa chước cám dỗ," },
-        { "passage_segment_id": "6b", "text": "nhưng cứu chúng con cho khỏi sự dữ.", "phonetic": "nhưng cứu chúng con cho khỏi sự dữ." }
+        {
+          "passage_segment_id": "6a",
+          "text": "xin chớ để chúng con sa chước cám dỗ,",
+          "phonetic": "xin chớ để chúng con sa chước cám dỗ,",
+          "timing": {
+            "full": [
+              14.037,
+              16.188
+            ],
+            "passage": [
+              0.1,
+              2.325
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "nhưng cứu chúng con cho khỏi sự dữ.",
+          "phonetic": "nhưng cứu chúng con cho khỏi sự dữ.",
+          "timing": {
+            "full": [
+              16.375,
+              18.3
+            ],
+            "passage": [
+              2.513,
+              4.475
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              19.137,
+              19.712
+            ],
+            "passage": [
+              0.1,
+              0.675
+            ]
+          }
+        }
       ]
     }
   ]

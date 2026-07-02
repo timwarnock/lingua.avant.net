@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Τρίτο Χαροποιό Μυστήριο, η Γέννηση του Ιησού.",
-          "phonetic": "Trí-to Cha-ro-pi-ó Mys-tí-rio, i G én-ni-si tou I-i-soú."
+          "phonetic": "Trí-to Cha-ro-pi-ó Mys-tí-rio, i G én-ni-si tou I-i-soú.",
+          "timing": {
+            "full": [
+              0.1,
+              3.113
+            ],
+            "passage": [
+              0.1,
+              3.113
+            ]
+          }
         }
       ]
     }

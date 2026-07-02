@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Secundum Mysterium Gaudiosum, Visitatio.",
-          "phonetic": "Secundum Mysterium Gaudiosum, Visitatio."
+          "phonetic": "Secundum Mysterium Gaudiosum, Visitatio.",
+          "timing": {
+            "full": [
+              0.103,
+              3.182
+            ],
+            "passage": [
+              0.103,
+              3.182
+            ]
+          }
         }
       ]
     }

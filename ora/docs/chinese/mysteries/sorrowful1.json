@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第一端痛苦奧蹟，耶穌山園祈禱.",
-          "phonetic": "Dì yī duān tòng kǔ ào jì, Yē sū shān yuán qí dǎo."
+          "phonetic": "Dì yī duān tòng kǔ ào jì, Yē sū shān yuán qí dǎo.",
+          "timing": {
+            "full": [
+              0.0,
+              2.984
+            ],
+            "passage": [
+              0.0,
+              2.984
+            ]
+          }
         }
       ]
     }

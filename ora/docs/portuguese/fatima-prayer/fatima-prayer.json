@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Ó meu Jesus,", "phonetic": "Ó meu Jesus," },
-        { "passage_segment_id": "1b", "text": "perdoai-nos,", "phonetic": "perdoai-nos," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Ó meu Jesus,",
+          "phonetic": "Ó meu Jesus,",
+          "timing": {
+            "full": [
+              0.103,
+              0.918
+            ],
+            "passage": [
+              0.103,
+              0.945
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "perdoai-nos,",
+          "phonetic": "perdoai-nos,",
+          "timing": {
+            "full": [
+              0.945,
+              1.761
+            ],
+            "passage": [
+              0.984,
+              1.905
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "livrai-nos do fogo do inferno,", "phonetic": "livrai-nos do fogo do inferno," }
+        {
+          "passage_segment_id": "2a",
+          "text": "livrai-nos do fogo do inferno,",
+          "phonetic": "livrai-nos do fogo do inferno,",
+          "timing": {
+            "full": [
+              1.892,
+              3.668
+            ],
+            "passage": [
+              0.103,
+              1.945
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "levai ao Céu todas as almas,", "phonetic": "levai ao Céu todas as almas," }
+        {
+          "passage_segment_id": "3a",
+          "text": "levai ao Céu todas as almas,",
+          "phonetic": "levai ao Céu todas as almas,",
+          "timing": {
+            "full": [
+              3.905,
+              5.642
+            ],
+            "passage": [
+              0.103,
+              2.05
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "principalmente as que mais precisarem da vossa misericórdia,", "phonetic": "principalmente as que mais precisarem da vossa misericórdia," }
+        {
+          "passage_segment_id": "4a",
+          "text": "principalmente as que mais precisarem da vossa misericórdia,",
+          "phonetic": "principalmente as que mais precisarem da vossa misericórdia,",
+          "timing": {
+            "full": [
+              5.787,
+              9.142
+            ],
+            "passage": [
+              0.103,
+              3.484
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amém.", "phonetic": "Amém." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amém.",
+          "phonetic": "Amém.",
+          "timing": {
+            "full": [
+              9.247,
+              9.576
+            ],
+            "passage": [
+              0.103,
+              0.563
+            ]
+          }
+        }
       ]
     }
   ]

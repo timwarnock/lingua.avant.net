@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第五の喜びの玄義、神殿での発見.",
-          "phonetic": "Dai go no yorokobi no gen'i, shinden de no hakken."
+          "phonetic": "Dai go no yorokobi no gen'i, shinden de no hakken.",
+          "timing": {
+            "full": [
+              0.103,
+              3.261
+            ],
+            "passage": [
+              0.103,
+              3.261
+            ]
+          }
         }
       ]
     }

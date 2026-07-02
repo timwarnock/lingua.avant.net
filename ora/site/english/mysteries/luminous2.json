@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Second Luminous Mystery, the Wedding at Cana.", "phonetic": "The Second Luminous Mystery, the Wedding at Cana." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Second Luminous Mystery, the Wedding at Cana.",
+          "phonetic": "The Second Luminous Mystery, the Wedding at Cana.",
+          "timing": {
+            "full": [
+              0.142,
+              3.405
+            ],
+            "passage": [
+              0.142,
+              3.405
+            ]
+          }
+        }
       ]
     }
   ]

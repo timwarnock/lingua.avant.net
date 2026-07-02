@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The First Luminous Mystery, the Baptism of Jesus.", "phonetic": "The First Luminous Mystery, the Baptism of Jesus." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The First Luminous Mystery, the Baptism of Jesus.",
+          "phonetic": "The First Luminous Mystery, the Baptism of Jesus.",
+          "timing": {
+            "full": [
+              0.142,
+              3.747
+            ],
+            "passage": [
+              0.142,
+              3.747
+            ]
+          }
+        }
       ]
     }
   ]

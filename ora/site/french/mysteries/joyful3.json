@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Troisième Mystère Joyeux, la Nativité.",
-          "phonetic": "Troisième Mystère Joyeux, la Nativité."
+          "phonetic": "Troisième Mystère Joyeux, la Nativité.",
+          "timing": {
+            "full": [
+              0.103,
+              2.774
+            ],
+            "passage": [
+              0.103,
+              2.774
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple.",
-          "phonetic": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple."
+          "phonetic": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple.",
+          "timing": {
+            "full": [
+              0.103,
+              3.853
+            ],
+            "passage": [
+              0.103,
+              3.853
+            ]
+          }
         }
       ]
     }

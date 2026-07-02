@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Panie Jezu Chryste,", "phonetic": "Panie Jezu Chryste," },
-        { "passage_segment_id": "1b", "text": "Synu Boży,", "phonetic": "Synu Boży," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Panie Jezu Chryste,",
+          "phonetic": "Panie Jezu Chryste,",
+          "timing": {
+            "full": [
+              0.103,
+              1.076
+            ],
+            "passage": [
+              0.103,
+              1.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Synu Boży,",
+          "phonetic": "Synu Boży,",
+          "timing": {
+            "full": [
+              1.155,
+              1.932
+            ],
+            "passage": [
+              1.287,
+              2.103
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "zmiłuj się nade mną,", "phonetic": "zmiłuj się nade mną," },
-        { "passage_segment_id": "2b", "text": "grzesznikiem.", "phonetic": "grzesznikiem." }
+        {
+          "passage_segment_id": "2a",
+          "text": "zmiłuj się nade mną,",
+          "phonetic": "zmiłuj się nade mną,",
+          "timing": {
+            "full": [
+              1.997,
+              3.155
+            ],
+            "passage": [
+              0.102,
+              1.339
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "grzesznikiem.",
+          "phonetic": "grzesznikiem.",
+          "timing": {
+            "full": [
+              3.3,
+              4.129
+            ],
+            "passage": [
+              1.484,
+              2.312
+            ]
+          }
+        }
       ]
     }
   ]

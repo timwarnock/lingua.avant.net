@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá.",
-          "phonetic": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá."
+          "phonetic": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá.",
+          "timing": {
+            "full": [
+              0.1,
+              2.837
+            ],
+            "passage": [
+              0.1,
+              2.837
+            ]
+          }
         }
       ]
     }

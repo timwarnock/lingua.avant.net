@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Oh mi Jesús,", "phonetic": "Oh mi Jesús," },
-        { "passage_segment_id": "1b", "text": "perdónanos nuestros pecados,", "phonetic": "perdónanos nuestros pecados," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Oh mi Jesús,",
+          "phonetic": "Oh mi Jesús,",
+          "timing": {
+            "full": [
+              0.102,
+              0.899
+            ],
+            "passage": [
+              0.1,
+              0.938
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "perdónanos nuestros pecados,",
+          "phonetic": "perdónanos nuestros pecados,",
+          "timing": {
+            "full": [
+              1.126,
+              2.588
+            ],
+            "passage": [
+              1.177,
+              2.72
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "líbranos del fuego del infierno,", "phonetic": "líbranos del fuego del infierno," }
+        {
+          "passage_segment_id": "2a",
+          "text": "líbranos del fuego del infierno,",
+          "phonetic": "líbranos del fuego del infierno,",
+          "timing": {
+            "full": [
+              2.841,
+              4.463
+            ],
+            "passage": [
+              0.1,
+              2.028
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "lleva todas las almas al cielo,", "phonetic": "lleva todas las almas al cielo," }
+        {
+          "passage_segment_id": "3a",
+          "text": "lleva todas las almas al cielo,",
+          "phonetic": "lleva todas las almas al cielo,",
+          "timing": {
+            "full": [
+              4.782,
+              6.445
+            ],
+            "passage": [
+              0.102,
+              1.923
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "especialmente las más necesitadas de tu misericordia.", "phonetic": "especialmente las más necesitadas de tu misericordia," }
+        {
+          "passage_segment_id": "4a",
+          "text": "especialmente las más necesitadas de tu misericordia.",
+          "phonetic": "especialmente las más necesitadas de tu misericordia,",
+          "timing": {
+            "full": [
+              6.767,
+              9.719
+            ],
+            "passage": [
+              0.102,
+              3.134
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amén.", "phonetic": "Amén." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amén.",
+          "phonetic": "Amén.",
+          "timing": {
+            "full": [
+              9.998,
+              10.53
+            ],
+            "passage": [
+              0.1,
+              0.592
+            ]
+          }
+        }
       ]
     }
   ]

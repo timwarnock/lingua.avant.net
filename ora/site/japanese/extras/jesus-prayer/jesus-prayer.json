@@ -11,14 +11,56 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "主イエス・キリスト、", "phonetic": "Shu Iesu Kirisuto," },
-        { "passage_segment_id": "1b", "text": "神の子よ、", "phonetic": "Kami no ko yo," }
+        {
+          "passage_segment_id": "1a",
+          "text": "主イエス・キリスト、",
+          "phonetic": "Shu Iesu Kirisuto,",
+          "timing": {
+            "full": [
+              0.0,
+              1.785
+            ],
+            "passage": [
+              0.0,
+              1.683
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "神の子よ、",
+          "phonetic": "Kami no ko yo,",
+          "timing": {
+            "full": [
+              1.785,
+              2.579
+            ],
+            "passage": [
+              1.683,
+              2.432
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "罪人なる我を憐れみ給え。", "phonetic": "Tsumibito naru ware o awaremi tamae." }
+        {
+          "passage_segment_id": "2a",
+          "text": "罪人なる我を憐れみ給え。",
+          "phonetic": "Tsumibito naru ware o awaremi tamae.",
+          "timing": {
+            "full": [
+              2.579,
+              4.76
+            ],
+            "passage": [
+              0.0,
+              2.037
+            ]
+          }
+        }
       ]
     }
   ]

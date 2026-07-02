@@ -11,24 +11,136 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "願光榮歸於父、", "phonetic": "Yuàn guāng róng guī yú fù," },
-        { "passage_segment_id": "1b", "text": "及子、", "phonetic": "jí zǐ," },
-        { "passage_segment_id": "1c", "text": "及聖神。", "phonetic": "jí shèng shén." }
+        {
+          "passage_segment_id": "1a",
+          "text": "願光榮歸於父、",
+          "phonetic": "Yuàn guāng róng guī yú fù,",
+          "timing": {
+            "full": [
+              0.0,
+              1.967
+            ],
+            "passage": [
+              0.0,
+              1.771
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "及子、",
+          "phonetic": "jí zǐ,",
+          "timing": {
+            "full": [
+              1.967,
+              2.623
+            ],
+            "passage": [
+              1.771,
+              2.362
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "及聖神。",
+          "phonetic": "jí shèng shén.",
+          "timing": {
+            "full": [
+              2.623,
+              3.607
+            ],
+            "passage": [
+              2.362,
+              3.247
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "起初如何，", "phonetic": "Qǐ chū rú hé," },
-        { "passage_segment_id": "2b", "text": "今日亦然，", "phonetic": "jīn rì yì rán," },
-        { "passage_segment_id": "2c", "text": "直到", "phonetic": "zhí dào" },
-        { "passage_segment_id": "2d", "text": "永遠。", "phonetic": "yǒng yuǎn." }
+        {
+          "passage_segment_id": "2a",
+          "text": "起初如何，",
+          "phonetic": "Qǐ chū rú hé,",
+          "timing": {
+            "full": [
+              3.607,
+              4.918
+            ],
+            "passage": [
+              0.0,
+              1.1
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "今日亦然，",
+          "phonetic": "jīn rì yì rán,",
+          "timing": {
+            "full": [
+              4.918,
+              6.23
+            ],
+            "passage": [
+              1.1,
+              2.2
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "直到",
+          "phonetic": "zhí dào",
+          "timing": {
+            "full": [
+              6.23,
+              6.886
+            ],
+            "passage": [
+              2.2,
+              2.75
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "永遠。",
+          "phonetic": "yǒng yuǎn.",
+          "timing": {
+            "full": [
+              6.886,
+              7.542
+            ],
+            "passage": [
+              2.75,
+              3.3
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "阿們。", "phonetic": "Ā men." }
+        {
+          "passage_segment_id": "3a",
+          "text": "阿們。",
+          "phonetic": "Ā men.",
+          "timing": {
+            "full": [
+              7.542,
+              8.197
+            ],
+            "passage": [
+              0.0,
+              0.642
+            ]
+          }
+        }
       ]
     }
   ]

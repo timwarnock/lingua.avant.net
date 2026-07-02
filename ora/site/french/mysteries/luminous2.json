@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Deuxième Mystère Lumineux, les Noces de Cana.",
-          "phonetic": "Deuxième Mystère Lumineux, les Noces de Cana."
+          "phonetic": "Deuxième Mystère Lumineux, les Noces de Cana.",
+          "timing": {
+            "full": [
+              0.101,
+              2.746
+            ],
+            "passage": [
+              0.101,
+              2.746
+            ]
+          }
         }
       ]
     }

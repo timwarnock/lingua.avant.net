@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Πέμπτο Θλιβερό Μυστήριο, η Σταύρωση.",
-          "phonetic": "Pémf-to Thli-ve-ró Mys-tí-rio, i Stáv-ro-si."
+          "phonetic": "Pémf-to Thli-ve-ró Mys-tí-rio, i Stáv-ro-si.",
+          "timing": {
+            "full": [
+              0.1,
+              2.653
+            ],
+            "passage": [
+              0.1,
+              2.653
+            ]
+          }
         }
       ]
     }

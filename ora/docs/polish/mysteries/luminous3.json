@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Trzecia Tajemnica Światła, Głoszenie Królestwa Bożego.",
-          "phonetic": "Trzecia Tajemnica Światła, Głoszenie Królestwa Bożego."
+          "phonetic": "Trzecia Tajemnica Światła, Głoszenie Królestwa Bożego.",
+          "timing": {
+            "full": [
+              0.103,
+              3.155
+            ],
+            "passage": [
+              0.103,
+              3.155
+            ]
+          }
         }
       ]
     }

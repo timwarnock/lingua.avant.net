@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Quarto Mistério Doloroso, o Carregamento da Cruz.",
-          "phonetic": "Quarto Mistério Doloroso, o Carregamento da Cruz."
+          "phonetic": "Quarto Mistério Doloroso, o Carregamento da Cruz.",
+          "timing": {
+            "full": [
+              0.103,
+              3.103
+            ],
+            "passage": [
+              0.103,
+              3.103
+            ]
+          }
         }
       ]
     }

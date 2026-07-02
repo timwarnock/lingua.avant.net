@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Πέμπτο Ένδοξο Μυστήριο, η Στέψη της Θεοτόκου.",
-          "phonetic": "Pémf-to Én-do-xo Mys-tí-rio, i Sté-psi tis The-o-tó-kou."
+          "phonetic": "Pémf-to Én-do-xo Mys-tí-rio, i Sté-psi tis The-o-tó-kou.",
+          "timing": {
+            "full": [
+              0.1,
+              3.008
+            ],
+            "passage": [
+              0.1,
+              3.008
+            ]
+          }
         }
       ]
     }

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Πρώτο Χαροποιό Μυστήριο, ο Ευαγγελισμός.",
-          "phonetic": "Pró-to Cha-ro-pi-ó Mys-tí-rio, o E-van-ge-li-smós."
+          "phonetic": "Pró-to Cha-ro-pi-ó Mys-tí-rio, o E-van-ge-li-smós.",
+          "timing": {
+            "full": [
+              0.1,
+              2.824
+            ],
+            "passage": [
+              0.1,
+              2.824
+            ]
+          }
         }
       ]
     }

@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Zdrowaś Maryjo,", "phonetic": "Zdrowaś Maryjo," },
-        { "passage_segment_id": "1b", "text": "łaski pełna,", "phonetic": "łaski pełna," },
-        { "passage_segment_id": "1c", "text": "Pan z Tobą.", "phonetic": "Pan z Tobą." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Zdrowaś Maryjo,",
+          "phonetic": "Zdrowaś Maryjo,",
+          "timing": {
+            "full": [
+              0.102,
+              1.207
+            ],
+            "passage": [
+              0.102,
+              1.207
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "łaski pełna,",
+          "phonetic": "łaski pełna,",
+          "timing": {
+            "full": [
+              1.365,
+              2.168
+            ],
+            "passage": [
+              1.365,
+              2.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Pan z Tobą.",
+          "phonetic": "Pan z Tobą.",
+          "timing": {
+            "full": [
+              2.26,
+              2.997
+            ],
+            "passage": [
+              2.26,
+              2.997
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Błogosławionaś Ty między niewiastami,", "phonetic": "Błogosławionaś Ty między niewiastami," },
-        { "passage_segment_id": "2b", "text": "i błogosławiony owoc żywota Twego,", "phonetic": "i błogosławiony owoc żywota Twego," },
-        { "passage_segment_id": "2c", "text": "Jezus.", "phonetic": "Jezus." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Błogosławionaś Ty między niewiastami,",
+          "phonetic": "Błogosławionaś Ty między niewiastami,",
+          "timing": {
+            "full": [
+              4.013,
+              5.986
+            ],
+            "passage": [
+              0.102,
+              2.076
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "i błogosławiony owoc żywota Twego,",
+          "phonetic": "i błogosławiony owoc żywota Twego,",
+          "timing": {
+            "full": [
+              6.157,
+              8.21
+            ],
+            "passage": [
+              2.247,
+              4.299
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Jezus.",
+          "phonetic": "Jezus.",
+          "timing": {
+            "full": [
+              8.315,
+              8.881
+            ],
+            "passage": [
+              4.405,
+              4.97
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Święta Maryjo,", "phonetic": "Święta Maryjo," },
-        { "passage_segment_id": "3b", "text": "Matko Boża,", "phonetic": "Matko Boża," },
-        { "passage_segment_id": "3c", "text": "módl się za nami grzesznymi,", "phonetic": "módl się za nami grzesznymi," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Święta Maryjo,",
+          "phonetic": "Święta Maryjo,",
+          "timing": {
+            "full": [
+              9.828,
+              10.868
+            ],
+            "passage": [
+              0.102,
+              1.155
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Matko Boża,",
+          "phonetic": "Matko Boża,",
+          "timing": {
+            "full": [
+              10.96,
+              11.697
+            ],
+            "passage": [
+              1.26,
+              1.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "módl się za nami grzesznymi,",
+          "phonetic": "módl się za nami grzesznymi,",
+          "timing": {
+            "full": [
+              11.828,
+              13.262
+            ],
+            "passage": [
+              2.141,
+              3.615
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "teraz i w godzinę śmierci naszej,", "phonetic": "teraz i w godzinę śmierci naszej," }
+        {
+          "passage_segment_id": "4a",
+          "text": "teraz i w godzinę śmierci naszej,",
+          "phonetic": "teraz i w godzinę śmierci naszej,",
+          "timing": {
+            "full": [
+              13.526,
+              15.447
+            ],
+            "passage": [
+              0.103,
+              2.195
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              15.631,
+              16.065
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

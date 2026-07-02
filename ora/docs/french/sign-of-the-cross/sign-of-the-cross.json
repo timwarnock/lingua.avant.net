@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Au nom du Père,", "phonetic": "Au nom du Père," },
-        { "passage_segment_id": "1b", "text": "et du Fils,", "phonetic": "et du Fils," },
-        { "passage_segment_id": "1c", "text": "et du Saint-Esprit.", "phonetic": "et du Saint-Esprit," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Au nom du Père,",
+          "phonetic": "Au nom du Père,",
+          "timing": {
+            "full": [
+              0.103,
+              0.984
+            ],
+            "passage": [
+              0.103,
+              0.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "et du Fils,",
+          "phonetic": "et du Fils,",
+          "timing": {
+            "full": [
+              1.339,
+              1.958
+            ],
+            "passage": [
+              1.313,
+              1.918
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "et du Saint-Esprit.",
+          "phonetic": "et du Saint-Esprit,",
+          "timing": {
+            "full": [
+              2.287,
+              3.142
+            ],
+            "passage": [
+              2.221,
+              3.129
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              3.445,
+              3.892
+            ],
+            "passage": [
+              0.101,
+              0.641
+            ]
+          }
+        }
       ]
     }
   ]

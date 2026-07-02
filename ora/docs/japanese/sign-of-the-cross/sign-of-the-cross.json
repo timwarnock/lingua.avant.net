@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "父と", "phonetic": "Chichi to" },
-        { "passage_segment_id": "1b", "text": "子と", "phonetic": "Ko to" },
-        { "passage_segment_id": "1c", "text": "聖霊の御名によって,", "phonetic": "Seirei no mina ni yotte," }
+        {
+          "passage_segment_id": "1a",
+          "text": "父と",
+          "phonetic": "Chichi to",
+          "timing": {
+            "full": [
+              0.103,
+              0.366
+            ],
+            "passage": [
+              0.103,
+              0.366
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "子と",
+          "phonetic": "Ko to",
+          "timing": {
+            "full": [
+              0.366,
+              0.484
+            ],
+            "passage": [
+              0.366,
+              0.484
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "聖霊の御名によって,",
+          "phonetic": "Seirei no mina ni yotte,",
+          "timing": {
+            "full": [
+              0.484,
+              0.603
+            ],
+            "passage": [
+              0.484,
+              2.261
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "アーメン。", "phonetic": "Āmen." }
+        {
+          "passage_segment_id": "2a",
+          "text": "アーメン。",
+          "phonetic": "Āmen.",
+          "timing": {
+            "full": [
+              0.603,
+              3.129
+            ],
+            "passage": [
+              0.103,
+              0.695
+            ]
+          }
+        }
       ]
     }
   ]

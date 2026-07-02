@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Tercer Misterio Glorioso, la Venida del Espíritu Santo.",
-          "phonetic": "El Tercer Misterio Glorioso, la Venida del Espíritu Santo."
+          "phonetic": "El Tercer Misterio Glorioso, la Venida del Espíritu Santo.",
+          "timing": {
+            "full": [
+              0.101,
+              3.667
+            ],
+            "passage": [
+              0.101,
+              3.667
+            ]
+          }
         }
       ]
     }

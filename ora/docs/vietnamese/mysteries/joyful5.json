@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh.",
-          "phonetic": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh."
+          "phonetic": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh.",
+          "timing": {
+            "full": [
+              0.1,
+              3.508
+            ],
+            "passage": [
+              0.1,
+              3.508
+            ]
+          }
         }
       ]
     }

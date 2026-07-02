@@ -11,32 +11,116 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "我的耶穌，", "phonetic": "Wǒ de Yē sū," },
-        { "passage_segment_id": "1b", "text": "請寬恕我們的罪過，", "phonetic": "qǐng kuān shù wǒ men de zuì guò," }
+        {
+          "passage_segment_id": "1a",
+          "text": "我的耶穌，",
+          "phonetic": "Wǒ de Yē sū,",
+          "timing": {
+            "full": [
+              0.0,
+              0.969
+            ],
+            "passage": [
+              0.0,
+              0.872
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "請寬恕我們的罪過，",
+          "phonetic": "qǐng kuān shù wǒ men de zuì guò,",
+          "timing": {
+            "full": [
+              0.969,
+              2.908
+            ],
+            "passage": [
+              0.872,
+              2.616
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "救我們免地獄永火。", "phonetic": "jiù wǒ men miǎn dì yù yǒng huǒ." }
+        {
+          "passage_segment_id": "2a",
+          "text": "救我們免地獄永火。",
+          "phonetic": "jiù wǒ men miǎn dì yù yǒng huǒ.",
+          "timing": {
+            "full": [
+              2.908,
+              4.847
+            ],
+            "passage": [
+              0.0,
+              1.918
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "求祢把眾人的靈魂，", "phonetic": "qiú nǐ bǎ zhòng rén de líng hún," }
+        {
+          "passage_segment_id": "3a",
+          "text": "求祢把眾人的靈魂，",
+          "phonetic": "qiú nǐ bǎ zhòng rén de líng hún,",
+          "timing": {
+            "full": [
+              4.847,
+              6.786
+            ],
+            "passage": [
+              0.0,
+              1.813
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "特別是那些最需要祢憐憫的靈魂，領到天國裏去。", "phonetic": "tè bié shì nà xiē zuì xū yào nǐ lián mǐn de líng hún, lǐng dào tiān guó lǐ qù." }
+        {
+          "passage_segment_id": "4a",
+          "text": "特別是那些最需要祢憐憫的靈魂，領到天國裏去。",
+          "phonetic": "tè bié shì nà xiē zuì xū yào nǐ lián mǐn de líng hún, lǐng dào tiān guó lǐ qù.",
+          "timing": {
+            "full": [
+              6.786,
+              11.634
+            ],
+            "passage": [
+              0.0,
+              4.313
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "阿們。", "phonetic": "Ā men." }
+        {
+          "passage_segment_id": "5a",
+          "text": "阿們。",
+          "phonetic": "Ā men.",
+          "timing": {
+            "full": [
+              11.634,
+              12.118
+            ],
+            "passage": [
+              0.0,
+              0.642
+            ]
+          }
+        }
       ]
     }
   ]

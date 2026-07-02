@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Thương Thứ Năm, Chịu Đóng Đinh.",
-          "phonetic": "Mầu Nhiệm Thương Thứ Năm, Chịu Đóng Đinh."
+          "phonetic": "Mầu Nhiệm Thương Thứ Năm, Chịu Đóng Đinh.",
+          "timing": {
+            "full": [
+              0.1,
+              2.732
+            ],
+            "passage": [
+              0.1,
+              2.732
+            ]
+          }
         }
       ]
     }

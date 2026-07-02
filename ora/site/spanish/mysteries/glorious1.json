@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Primer Misterio Glorioso, la Resurrección.",
-          "phonetic": "El Primer Misterio Glorioso, la Resurrección."
+          "phonetic": "El Primer Misterio Glorioso, la Resurrección.",
+          "timing": {
+            "full": [
+              0.101,
+              3.022
+            ],
+            "passage": [
+              0.101,
+              3.022
+            ]
+          }
         }
       ]
     }

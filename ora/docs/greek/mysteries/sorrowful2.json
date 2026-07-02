@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Δεύτερο Θλιβερό Μυστήριο, η Μαστίγωση.",
-          "phonetic": "Déf-te-ro Thli-ve-ró Mys-tí-rio, i Mas-tí-go-si."
+          "phonetic": "Déf-te-ro Thli-ve-ró Mys-tí-rio, i Mas-tí-go-si.",
+          "timing": {
+            "full": [
+              0.1,
+              2.824
+            ],
+            "passage": [
+              0.1,
+              2.824
+            ]
+          }
         }
       ]
     }

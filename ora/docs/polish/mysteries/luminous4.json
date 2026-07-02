@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Czwarta Tajemnica Światła, Przemienienie na Górze Tabor.",
-          "phonetic": "Czwarta Tajemnica Światła, Przemienienie na Górze Tabor."
+          "phonetic": "Czwarta Tajemnica Światła, Przemienienie na Górze Tabor.",
+          "timing": {
+            "full": [
+              0.103,
+              3.089
+            ],
+            "passage": [
+              0.103,
+              3.089
+            ]
+          }
         }
       ]
     }

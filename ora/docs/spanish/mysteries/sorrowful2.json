@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Segundo Misterio Doloroso, la Flagelación.",
-          "phonetic": "El Segundo Misterio Doloroso, la Flagelación."
+          "phonetic": "El Segundo Misterio Doloroso, la Flagelación.",
+          "timing": {
+            "full": [
+              0.101,
+              3.036
+            ],
+            "passage": [
+              0.101,
+              3.036
+            ]
+          }
         }
       ]
     }

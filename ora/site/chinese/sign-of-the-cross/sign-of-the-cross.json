@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "因父", "phonetic": "Yīn fù" },
-        { "passage_segment_id": "1b", "text": "及子", "phonetic": "jí zǐ" },
-        { "passage_segment_id": "1c", "text": "及聖神之名。", "phonetic": "jí shèng shén zhī míng." }
+        {
+          "passage_segment_id": "1a",
+          "text": "因父",
+          "phonetic": "Yīn fù",
+          "timing": {
+            "full": [
+              0.0,
+              0.646
+            ],
+            "passage": [
+              0.0,
+              0.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "及子",
+          "phonetic": "jí zǐ",
+          "timing": {
+            "full": [
+              0.646,
+              1.292
+            ],
+            "passage": [
+              0.537,
+              1.075
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "及聖神之名。",
+          "phonetic": "jí shèng shén zhī míng.",
+          "timing": {
+            "full": [
+              1.292,
+              2.907
+            ],
+            "passage": [
+              1.075,
+              2.418
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "阿們。", "phonetic": "Ā men." }
+        {
+          "passage_segment_id": "2a",
+          "text": "阿們。",
+          "phonetic": "Ā men.",
+          "timing": {
+            "full": [
+              2.907,
+              3.553
+            ],
+            "passage": [
+              0.0,
+              0.642
+            ]
+          }
+        }
       ]
     }
   ]

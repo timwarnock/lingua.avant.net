@@ -11,47 +11,201 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Pai nosso,", "phonetic": "Pai nosso," },
-        { "passage_segment_id": "1b", "text": "que estais nos céus,", "phonetic": "que estais nos céus," },
-        { "passage_segment_id": "1c", "text": "santificado seja o vosso nome;", "phonetic": "santificado seja o vosso nome;" }
+        {
+          "passage_segment_id": "1a",
+          "text": "Pai nosso,",
+          "phonetic": "Pai nosso,",
+          "timing": {
+            "full": [
+              0.103,
+              0.747
+            ],
+            "passage": [
+              0.103,
+              0.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "que estais nos céus,",
+          "phonetic": "que estais nos céus,",
+          "timing": {
+            "full": [
+              0.787,
+              1.866
+            ],
+            "passage": [
+              0.747,
+              1.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "santificado seja o vosso nome;",
+          "phonetic": "santificado seja o vosso nome;",
+          "timing": {
+            "full": [
+              2.063,
+              3.945
+            ],
+            "passage": [
+              1.971,
+              3.932
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "venha a nós o vosso reino.", "phonetic": "venha a nós o vosso reino." }
+        {
+          "passage_segment_id": "2a",
+          "text": "venha a nós o vosso reino.",
+          "phonetic": "venha a nós o vosso reino.",
+          "timing": {
+            "full": [
+              4.247,
+              5.682
+            ],
+            "passage": [
+              0.103,
+              1.629
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "seja feita a vossa vontade, assim na terra como no céu.", "phonetic": "seja feita a vossa vontade, assim na terra como no céu." }
+        {
+          "passage_segment_id": "3a",
+          "text": "seja feita a vossa vontade, assim na terra como no céu.",
+          "phonetic": "seja feita a vossa vontade, assim na terra como no céu.",
+          "timing": {
+            "full": [
+              5.961,
+              9.289
+            ],
+            "passage": [
+              0.103,
+              3.432
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "O pão nosso de cada dia nos dai hoje,", "phonetic": "O pão nosso de cada dia nos dai hoje," }
+        {
+          "passage_segment_id": "4a",
+          "text": "O pão nosso de cada dia nos dai hoje,",
+          "phonetic": "O pão nosso de cada dia nos dai hoje,",
+          "timing": {
+            "full": [
+              9.566,
+              11.895
+            ],
+            "passage": [
+              0.103,
+              2.418
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "perdoai-nos as nossas ofensas,", "phonetic": "perdoai-nos as nossas ofensas," },
-        { "passage_segment_id": "5b", "text": "assim como nós perdoamos a quem nos tem ofendido;", "phonetic": "assim como nós perdoamos a quem nos tem ofendido;" }
+        {
+          "passage_segment_id": "5a",
+          "text": "perdoai-nos as nossas ofensas,",
+          "phonetic": "perdoai-nos as nossas ofensas,",
+          "timing": {
+            "full": [
+              12.013,
+              13.855
+            ],
+            "passage": [
+              0.103,
+              1.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "assim como nós perdoamos a quem nos tem ofendido;",
+          "phonetic": "assim como nós perdoamos a quem nos tem ofendido;",
+          "timing": {
+            "full": [
+              14.039,
+              16.842
+            ],
+            "passage": [
+              2.182,
+              5.024
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "e não nos deixeis cair em tentação,", "phonetic": "e não nos deixeis cair em tentação," },
-        { "passage_segment_id": "6b", "text": "mas livrai-nos do mal,", "phonetic": "mas livrai-nos do mal," }
+        {
+          "passage_segment_id": "6a",
+          "text": "e não nos deixeis cair em tentação,",
+          "phonetic": "e não nos deixeis cair em tentação,",
+          "timing": {
+            "full": [
+              17.092,
+              19.145
+            ],
+            "passage": [
+              0.103,
+              2.155
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "mas livrai-nos do mal,",
+          "phonetic": "mas livrai-nos do mal,",
+          "timing": {
+            "full": [
+              19.421,
+              20.658
+            ],
+            "passage": [
+              2.353,
+              3.589
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Amém.", "phonetic": "Amém." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Amém.",
+          "phonetic": "Amém.",
+          "timing": {
+            "full": [
+              20.829,
+              21.289
+            ],
+            "passage": [
+              0.103,
+              0.563
+            ]
+          }
+        }
       ]
     }
   ]

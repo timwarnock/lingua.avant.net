@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Tertium Mysterium Dolorosum, Coronatio Spinis.",
-          "phonetic": "Tertium Mysterium Dolorosum, Coronatio Spinis."
+          "phonetic": "Tertium Mysterium Dolorosum, Coronatio Spinis.",
+          "timing": {
+            "full": [
+              0.103,
+              3.339
+            ],
+            "passage": [
+              0.103,
+              3.339
+            ]
+          }
         }
       ]
     }

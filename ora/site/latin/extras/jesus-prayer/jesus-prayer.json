@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Domine Iesu Christe,", "phonetic": "Domine Iesu Christe," },
-        { "passage_segment_id": "1b", "text": "Fili Dei,", "phonetic": "Fili Dei," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Domine Iesu Christe,",
+          "phonetic": "Domine Iesu Christe,",
+          "timing": {
+            "full": [
+              0.109,
+              1.726
+            ],
+            "passage": [
+              0.109,
+              1.682
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Fili Dei,",
+          "phonetic": "Fili Dei,",
+          "timing": {
+            "full": [
+              2.05,
+              2.829
+            ],
+            "passage": [
+              2.006,
+              2.815
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "miserere mei,", "phonetic": "miserere mei," },
-        { "passage_segment_id": "2b", "text": "peccatoris.", "phonetic": "peccatoris." }
+        {
+          "passage_segment_id": "2a",
+          "text": "miserere mei,",
+          "phonetic": "miserere mei,",
+          "timing": {
+            "full": [
+              3.197,
+              4.271
+            ],
+            "passage": [
+              0.109,
+              1.256
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "peccatoris.",
+          "phonetic": "peccatoris.",
+          "timing": {
+            "full": [
+              4.609,
+              5.682
+            ],
+            "passage": [
+              1.579,
+              2.697
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Thương Thứ Hai, Đánh Đòn.",
-          "phonetic": "Mầu Nhiệm Thương Thứ Hai, Đánh Đòn."
+          "phonetic": "Mầu Nhiệm Thương Thứ Hai, Đánh Đòn.",
+          "timing": {
+            "full": [
+              0.1,
+              2.521
+            ],
+            "passage": [
+              0.1,
+              2.521
+            ]
+          }
         }
       ]
     }

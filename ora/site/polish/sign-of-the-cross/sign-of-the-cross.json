@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "W imię Ojca,", "phonetic": "W imię Ojca," },
-        { "passage_segment_id": "1b", "text": "i Syna,", "phonetic": "i Syna," },
-        { "passage_segment_id": "1c", "text": "i Ducha Świętego,", "phonetic": "i Ducha Świętego," }
+        {
+          "passage_segment_id": "1a",
+          "text": "W imię Ojca,",
+          "phonetic": "W imię Ojca,",
+          "timing": {
+            "full": [
+              0.103,
+              0.932
+            ],
+            "passage": [
+              0.103,
+              0.958
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "i Syna,",
+          "phonetic": "i Syna,",
+          "timing": {
+            "full": [
+              1.063,
+              1.589
+            ],
+            "passage": [
+              1.103,
+              1.616
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "i Ducha Świętego,",
+          "phonetic": "i Ducha Świętego,",
+          "timing": {
+            "full": [
+              1.721,
+              2.8
+            ],
+            "passage": [
+              1.774,
+              2.826
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              2.971,
+              3.405
+            ],
+            "passage": [
+              0.102,
+              0.51
+            ]
+          }
+        }
       ]
     }
   ]

@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Trzecia Tajemnica Radosna, Narodzenie Jezusa.",
-          "phonetic": "Trzecia Tajemnica Radosna, Narodzenie Jezusa."
+          "phonetic": "Trzecia Tajemnica Radosna, Narodzenie Jezusa.",
+          "timing": {
+            "full": [
+              0.103,
+              2.853
+            ],
+            "passage": [
+              0.103,
+              2.853
+            ]
+          }
         }
       ]
     }

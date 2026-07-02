@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第二端榮耀奧蹟，耶穌升天.",
-          "phonetic": "Dì èr duān róng yào ào jì, Yē sū shēng tiān."
+          "phonetic": "Dì èr duān róng yào ào jì, Yē sū shēng tiān.",
+          "timing": {
+            "full": [
+              0.0,
+              2.616
+            ],
+            "passage": [
+              0.0,
+              2.616
+            ]
+          }
         }
       ]
     }

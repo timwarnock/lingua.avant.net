@@ -235,7 +235,7 @@ function loadCurrentViewer() {
   const create = window.createPrayerApp || (window.createApp); // fallback if any
   if (typeof create === 'function' && jsonPath) {
     try {
-      create(v, { jsonPath: jsonPath, embedded: true, hideSecondary: !showPhonetic });
+      viewerApp = create(v, { jsonPath: jsonPath, embedded: true, hideSecondary: !showPhonetic });
     } catch (e) {
       v.innerHTML = `<em>Unable to load view for ${info.label}.</em>`;
     }
@@ -292,6 +292,14 @@ function playFullForCurrent(onEnded) {
     if (onEnded) onEnded();
   }, { once: true });
 
+  // Drive segment highlighting in the embedded viewer using the external full audio
+  if (viewerApp && typeof viewerApp.stop === 'function') {
+    viewerApp.stop();
+  }
+  if (viewerApp && typeof viewerApp.syncFromAudio === 'function') {
+    viewerApp.syncFromAudio(currentFullAudio, true, 'local');
+  }
+
   currentFullAudio.play().catch(() => {});
 }
 
@@ -299,6 +307,9 @@ function stopFullAudio() {
   if (currentFullAudio) {
     currentFullAudio.pause();
     currentFullAudio.currentTime = 0;
+    if (viewerApp && typeof viewerApp.clearSync === 'function') {
+      viewerApp.clearSync();
+    }
     currentFullAudio = null;
   }
   if (autoTimeout) {

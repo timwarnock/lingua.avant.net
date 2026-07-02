@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "El Cuarto Misterio Luminoso, la Transfiguración.",
-          "phonetic": "El Cuarto Misterio Luminoso, la Transfiguración."
+          "phonetic": "El Cuarto Misterio Luminoso, la Transfiguración.",
+          "timing": {
+            "full": [
+              0.101,
+              3.049
+            ],
+            "passage": [
+              0.101,
+              3.049
+            ]
+          }
         }
       ]
     }

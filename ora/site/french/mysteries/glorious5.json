@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie.",
-          "phonetic": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie."
+          "phonetic": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie.",
+          "timing": {
+            "full": [
+              0.103,
+              3.642
+            ],
+            "passage": [
+              0.103,
+              3.642
+            ]
+          }
         }
       ]
     }

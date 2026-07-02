@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "第四端榮耀奧蹟，聖母升天.",
-          "phonetic": "Dì sì duān róng yào ào jì, Shèng mǔ shēng tiān."
+          "phonetic": "Dì sì duān róng yào ào jì, Shèng mǔ shēng tiān.",
+          "timing": {
+            "full": [
+              0.0,
+              2.721
+            ],
+            "passage": [
+              0.0,
+              2.721
+            ]
+          }
         }
       ]
     }

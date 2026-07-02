@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża.",
-          "phonetic": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża."
+          "phonetic": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża.",
+          "timing": {
+            "full": [
+              0.103,
+              2.734
+            ],
+            "passage": [
+              0.103,
+              2.734
+            ]
+          }
         }
       ]
     }

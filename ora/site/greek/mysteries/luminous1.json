@@ -14,7 +14,17 @@
         {
           "passage_segment_id": "1a",
           "text": "Πρώτο Φωτεινό Μυστήριο, το Βάπτισμα του Ιησού.",
-          "phonetic": "Pró-to Fo-tei-nó Mys-tí-rio, to Váp-ti-sma tou I-i-soú."
+          "phonetic": "Pró-to Fo-tei-nó Mys-tí-rio, to Váp-ti-sma tou I-i-soú.",
+          "timing": {
+            "full": [
+              0.1,
+              3.034
+            ],
+            "passage": [
+              0.1,
+              3.034
+            ]
+          }
         }
       ]
     }

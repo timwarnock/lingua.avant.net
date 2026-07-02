@@ -11,15 +11,71 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Lạy Chúa Giêsu Kitô,", "phonetic": "Lạy Chúa Giêsu Kitô," },
-        { "passage_segment_id": "1b", "text": "Con Thiên Chúa,", "phonetic": "Con Thiên Chúa," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Lạy Chúa Giêsu Kitô,",
+          "phonetic": "Lạy Chúa Giêsu Kitô,",
+          "timing": {
+            "full": [
+              0.1,
+              1.45
+            ],
+            "passage": [
+              0.1,
+              1.5
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Con Thiên Chúa,",
+          "phonetic": "Con Thiên Chúa,",
+          "timing": {
+            "full": [
+              1.613,
+              2.45
+            ],
+            "passage": [
+              1.663,
+              2.55
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "xin thương xót con,", "phonetic": "xin thương xót con," },
-        { "passage_segment_id": "2b", "text": "là kẻ tội lỗi.", "phonetic": "là kẻ tội lỗi." }
+        {
+          "passage_segment_id": "2a",
+          "text": "xin thương xót con,",
+          "phonetic": "xin thương xót con,",
+          "timing": {
+            "full": [
+              2.6,
+              3.7
+            ],
+            "passage": [
+              0.1,
+              1.312
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "là kẻ tội lỗi.",
+          "phonetic": "là kẻ tội lỗi.",
+          "timing": {
+            "full": [
+              3.85,
+              4.95
+            ],
+            "passage": [
+              1.462,
+              2.587
+            ]
+          }
+        }
       ]
     }
   ]

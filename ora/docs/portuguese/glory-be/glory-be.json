@@ -11,23 +11,121 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Glória ao Pai,", "phonetic": "Glória ao Pai," },
-        { "passage_segment_id": "1b", "text": "ao Filho,", "phonetic": "ao Filho," },
-        { "passage_segment_id": "1c", "text": "e ao Espírito Santo.", "phonetic": "e ao Espírito Santo." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Glória ao Pai,",
+          "phonetic": "Glória ao Pai,",
+          "timing": {
+            "full": [
+              0.103,
+              0.905
+            ],
+            "passage": [
+              0.103,
+              0.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "ao Filho,",
+          "phonetic": "ao Filho,",
+          "timing": {
+            "full": [
+              1.037,
+              1.629
+            ],
+            "passage": [
+              1.037,
+              1.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "e ao Espírito Santo.",
+          "phonetic": "e ao Espírito Santo.",
+          "timing": {
+            "full": [
+              1.682,
+              2.918
+            ],
+            "passage": [
+              1.682,
+              2.918
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Como era no princípio,", "phonetic": "Como era no princípio," },
-        { "passage_segment_id": "2b", "text": "agora e sempre,", "phonetic": "agora e sempre," },
-        { "passage_segment_id": "2c", "text": "pelos séculos dos séculos,", "phonetic": "pelos séculos dos séculos," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Como era no princípio,",
+          "phonetic": "Como era no princípio,",
+          "timing": {
+            "full": [
+              3.197,
+              4.421
+            ],
+            "passage": [
+              0.103,
+              1.353
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "agora e sempre,",
+          "phonetic": "agora e sempre,",
+          "timing": {
+            "full": [
+              4.461,
+              5.382
+            ],
+            "passage": [
+              1.379,
+              2.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "pelos séculos dos séculos,",
+          "phonetic": "pelos séculos dos séculos,",
+          "timing": {
+            "full": [
+              5.395,
+              6.829
+            ],
+            "passage": [
+              2.313,
+              3.853
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Amém.", "phonetic": "Amém." }
+        {
+          "passage_segment_id": "3a",
+          "text": "Amém.",
+          "phonetic": "Amém.",
+          "timing": {
+            "full": [
+              6.868,
+              7.184
+            ],
+            "passage": [
+              0.103,
+              0.563
+            ]
+          }
+        }
       ]
     }
   ]

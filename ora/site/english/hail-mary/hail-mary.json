@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Hail Mary,", "phonetic": "Hail Mary," },
-        { "passage_segment_id": "1b", "text": "full of grace,", "phonetic": "full of grace," },
-        { "passage_segment_id": "1c", "text": "the Lord is with thee.", "phonetic": "the Lord is with thee." }
+        {
+          "passage_segment_id": "1a",
+          "text": "Hail Mary,",
+          "phonetic": "Hail Mary,",
+          "timing": {
+            "full": [
+              0.142,
+              0.932
+            ],
+            "passage": [
+              0.142,
+              0.932
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "full of grace,",
+          "phonetic": "full of grace,",
+          "timing": {
+            "full": [
+              1.168,
+              2.037
+            ],
+            "passage": [
+              1.195,
+              2.076
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "the Lord is with thee.",
+          "phonetic": "the Lord is with thee.",
+          "timing": {
+            "full": [
+              2.3,
+              3.524
+            ],
+            "passage": [
+              2.339,
+              3.563
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Blessed art thou amongst women,", "phonetic": "blessid art thou amongst women," },
-        { "passage_segment_id": "2b", "text": "and blessed is the fruit of thy womb,", "phonetic": "and blessid is the fruit of thy womb," },
-        { "passage_segment_id": "2c", "text": "Jesus.", "phonetic": "Jesus." }
+        {
+          "passage_segment_id": "2a",
+          "text": "Blessed art thou amongst women,",
+          "phonetic": "blessid art thou amongst women,",
+          "timing": {
+            "full": [
+              3.906,
+              5.787
+            ],
+            "passage": [
+              0.101,
+              1.995
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "and blessed is the fruit of thy womb,",
+          "phonetic": "and blessid is the fruit of thy womb,",
+          "timing": {
+            "full": [
+              6.064,
+              8.13
+            ],
+            "passage": [
+              2.285,
+              4.351
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Jesus.",
+          "phonetic": "Jesus.",
+          "timing": {
+            "full": [
+              8.353,
+              9.037
+            ],
+            "passage": [
+              4.574,
+              5.285
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Holy Mary,", "phonetic": "Holy Mary" },
-        { "passage_segment_id": "3b", "text": "Mother of God,", "phonetic": "Mother of God," },
-        { "passage_segment_id": "3c", "text": "pray for us sinners,", "phonetic": "pray for us sinners," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Holy Mary,",
+          "phonetic": "Holy Mary",
+          "timing": {
+            "full": [
+              9.461,
+              10.158
+            ],
+            "passage": [
+              0.142,
+              0.879
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Mother of God,",
+          "phonetic": "Mother of God,",
+          "timing": {
+            "full": [
+              10.171,
+              11.026
+            ],
+            "passage": [
+              0.892,
+              1.787
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "pray for us sinners,",
+          "phonetic": "pray for us sinners,",
+          "timing": {
+            "full": [
+              11.316,
+              12.474
+            ],
+            "passage": [
+              2.089,
+              3.339
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "now and at the hour of our death.", "phonetic": "now and at the hour of our death," }
+        {
+          "passage_segment_id": "4a",
+          "text": "now and at the hour of our death.",
+          "phonetic": "now and at the hour of our death,",
+          "timing": {
+            "full": [
+              12.737,
+              14.5
+            ],
+            "passage": [
+              0.103,
+              2.168
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Amen.", "phonetic": "Amen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              14.711,
+              15.211
+            ],
+            "passage": [
+              0.116,
+              0.682
+            ]
+          }
+        }
       ]
     }
   ]

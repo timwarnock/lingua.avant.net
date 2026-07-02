@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Second Sorrowful Mystery, the Scourging at the Pillar.", "phonetic": "The Second Sorrowful Mystery, the Scourging at the Pillar." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Second Sorrowful Mystery, the Scourging at the Pillar.",
+          "phonetic": "The Second Sorrowful Mystery, the Scourging at the Pillar.",
+          "timing": {
+            "full": [
+              0.142,
+              3.695
+            ],
+            "passage": [
+              0.142,
+              3.695
+            ]
+          }
+        }
       ]
     }
   ]

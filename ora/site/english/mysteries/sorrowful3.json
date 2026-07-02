@@ -11,7 +11,21 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "The Third Sorrowful Mystery, the Crowning with Thorns.", "phonetic": "The Third Sorrowful Mystery, the Crowning with Thorns." }
+        {
+          "passage_segment_id": "1a",
+          "text": "The Third Sorrowful Mystery, the Crowning with Thorns.",
+          "phonetic": "The Third Sorrowful Mystery, the Crowning with Thorns.",
+          "timing": {
+            "full": [
+              0.142,
+              3.537
+            ],
+            "passage": [
+              0.142,
+              3.537
+            ]
+          }
+        }
       ]
     }
   ]

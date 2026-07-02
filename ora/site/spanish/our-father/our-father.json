@@ -11,47 +11,201 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "Padre nuestro,", "phonetic": "Padre nuestro," },
-        { "passage_segment_id": "1b", "text": "que estás en el cielo,", "phonetic": "que estás en el cielo," },
-        { "passage_segment_id": "1c", "text": "santificado sea tu nombre.", "phonetic": "santificado sea tu nombre," }
+        {
+          "passage_segment_id": "1a",
+          "text": "Padre nuestro,",
+          "phonetic": "Padre nuestro,",
+          "timing": {
+            "full": [
+              0.1,
+              0.924
+            ],
+            "passage": [
+              0.1,
+              0.951
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "que estás en el cielo,",
+          "phonetic": "que estás en el cielo,",
+          "timing": {
+            "full": [
+              1.217,
+              2.294
+            ],
+            "passage": [
+              1.244,
+              2.307
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "santificado sea tu nombre.",
+          "phonetic": "santificado sea tu nombre,",
+          "timing": {
+            "full": [
+              2.573,
+              4.103
+            ],
+            "passage": [
+              2.613,
+              4.249
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "Venga tu reino.", "phonetic": "Venga tu reino," }
+        {
+          "passage_segment_id": "2a",
+          "text": "Venga tu reino.",
+          "phonetic": "Venga tu reino,",
+          "timing": {
+            "full": [
+              4.409,
+              5.353
+            ],
+            "passage": [
+              0.1,
+              1.27
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "Hágase tu voluntad en la tierra como en el cielo.", "phonetic": "Hágase tu voluntad en la tierra como en el cielo," }
+        {
+          "passage_segment_id": "3a",
+          "text": "Hágase tu voluntad en la tierra como en el cielo.",
+          "phonetic": "Hágase tu voluntad en la tierra como en el cielo,",
+          "timing": {
+            "full": [
+              5.675,
+              8.175
+            ],
+            "passage": [
+              0.1,
+              2.68
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "Danos hoy nuestro pan de cada día,", "phonetic": "Danos hoy nuestro pan de cada día," }
+        {
+          "passage_segment_id": "4a",
+          "text": "Danos hoy nuestro pan de cada día,",
+          "phonetic": "Danos hoy nuestro pan de cada día,",
+          "timing": {
+            "full": [
+              8.534,
+              10.156
+            ],
+            "passage": [
+              0.102,
+              2.07
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "Perdona nuestras ofensas,", "phonetic": "Perdona nuestras ofensas," },
-        { "passage_segment_id": "5b", "text": "como también nosotros perdonamos a los que nos ofenden.", "phonetic": "como también nosotros perdonamos a los que nos ofenden," }
+        {
+          "passage_segment_id": "5a",
+          "text": "Perdona nuestras ofensas,",
+          "phonetic": "Perdona nuestras ofensas,",
+          "timing": {
+            "full": [
+              10.502,
+              11.858
+            ],
+            "passage": [
+              0.1,
+              1.496
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "como también nosotros perdonamos a los que nos ofenden.",
+          "phonetic": "como también nosotros perdonamos a los que nos ofenden,",
+          "timing": {
+            "full": [
+              12.164,
+              14.97
+            ],
+            "passage": [
+              1.709,
+              4.541
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 6,
       "segments": [
-        { "passage_segment_id": "6a", "text": "No nos dejes caer en tentación,", "phonetic": "No nos dejes caer en tentación," },
-        { "passage_segment_id": "6b", "text": "y líbranos del mal.", "phonetic": "y líbranos del mal," }
+        {
+          "passage_segment_id": "6a",
+          "text": "No nos dejes caer en tentación,",
+          "phonetic": "No nos dejes caer en tentación,",
+          "timing": {
+            "full": [
+              15.236,
+              16.805
+            ],
+            "passage": [
+              0.102,
+              1.87
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "y líbranos del mal.",
+          "phonetic": "y líbranos del mal,",
+          "timing": {
+            "full": [
+              17.098,
+              18.002
+            ],
+            "passage": [
+              2.149,
+              3.227
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 7,
       "segments": [
-        { "passage_segment_id": "7a", "text": "Amén.", "phonetic": "Amén." }
+        {
+          "passage_segment_id": "7a",
+          "text": "Amén.",
+          "phonetic": "Amén.",
+          "timing": {
+            "full": [
+              18.295,
+              18.747
+            ],
+            "passage": [
+              0.1,
+              0.592
+            ]
+          }
+        }
       ]
     }
   ]

@@ -11,37 +11,191 @@
     {
       "passage_id": 1,
       "segments": [
-        { "passage_segment_id": "1a", "text": "アヴェ・マリア、", "phonetic": "Ave Maria," },
-        { "passage_segment_id": "1b", "text": "恵みに満ちた方、", "phonetic": "megumi ni michita kata," },
-        { "passage_segment_id": "1c", "text": "主はあなたとともにおられます。", "phonetic": "Shu wa anata to tomo ni oraremasu." }
+        {
+          "passage_segment_id": "1a",
+          "text": "アヴェ・マリア、",
+          "phonetic": "Ave Maria,",
+          "timing": {
+            "full": [
+              0.0,
+              1.407
+            ],
+            "passage": [
+              0.0,
+              1.19
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "恵みに満ちた方、",
+          "phonetic": "megumi ni michita kata,",
+          "timing": {
+            "full": [
+              1.407,
+              2.814
+            ],
+            "passage": [
+              1.19,
+              2.38
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "主はあなたとともにおられます。",
+          "phonetic": "Shu wa anata to tomo ni oraremasu.",
+          "timing": {
+            "full": [
+              2.814,
+              5.628
+            ],
+            "passage": [
+              2.38,
+              4.761
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 2,
       "segments": [
-        { "passage_segment_id": "2a", "text": "あなたは女のうちで祝福され、", "phonetic": "Anata wa onna no uchi de shukufuku sare," },
-        { "passage_segment_id": "2b", "text": "ご胎内の御子イエスも", "phonetic": "go tainai no onko Iesu mo" },
-        { "passage_segment_id": "2c", "text": "祝福されています。", "phonetic": "shukufuku sarete imasu." }
+        {
+          "passage_segment_id": "2a",
+          "text": "あなたは女のうちで祝福され、",
+          "phonetic": "Anata wa onna no uchi de shukufuku sare,",
+          "timing": {
+            "full": [
+              5.628,
+              8.241
+            ],
+            "passage": [
+              0.0,
+              2.228
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "ご胎内の御子イエスも",
+          "phonetic": "go tainai no onko Iesu mo",
+          "timing": {
+            "full": [
+              8.241,
+              10.251
+            ],
+            "passage": [
+              2.228,
+              3.942
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "祝福されています。",
+          "phonetic": "shukufuku sarete imasu.",
+          "timing": {
+            "full": [
+              10.251,
+              11.859
+            ],
+            "passage": [
+              3.942,
+              5.313
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 3,
       "segments": [
-        { "passage_segment_id": "3a", "text": "神の母聖マリア、", "phonetic": "Kami no haha sei Maria," },
-        { "passage_segment_id": "3b", "text": "わたしたち罪びとのために、", "phonetic": "watashitachi tsumibito no tame ni," },
-        { "passage_segment_id": "3c", "text": "お祈りください。", "phonetic": "o inori kudasai." }
+        {
+          "passage_segment_id": "3a",
+          "text": "神の母聖マリア、",
+          "phonetic": "Kami no haha sei Maria,",
+          "timing": {
+            "full": [
+              11.859,
+              13.266
+            ],
+            "passage": [
+              0.0,
+              1.229
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "わたしたち罪びとのために、",
+          "phonetic": "watashitachi tsumibito no tame ni,",
+          "timing": {
+            "full": [
+              13.266,
+              15.678
+            ],
+            "passage": [
+              1.229,
+              3.335
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "お祈りください。",
+          "phonetic": "o inori kudasai.",
+          "timing": {
+            "full": [
+              15.678,
+              17.084
+            ],
+            "passage": [
+              3.335,
+              4.563
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 4,
       "segments": [
-        { "passage_segment_id": "4a", "text": "今も、死を迎える時も,", "phonetic": "Ima mo, shi o mukaeru toki mo," }
+        {
+          "passage_segment_id": "4a",
+          "text": "今も、死を迎える時も,",
+          "phonetic": "Ima mo, shi o mukaeru toki mo,",
+          "timing": {
+            "full": [
+              17.084,
+              18.893
+            ],
+            "passage": [
+              0.0,
+              2.208
+            ]
+          }
+        }
       ]
     },
     {
       "passage_id": 5,
       "segments": [
-        { "passage_segment_id": "5a", "text": "アーメン。", "phonetic": "Āmen." }
+        {
+          "passage_segment_id": "5a",
+          "text": "アーメン。",
+          "phonetic": "Āmen.",
+          "timing": {
+            "full": [
+              18.893,
+              19.697
+            ],
+            "passage": [
+              0.0,
+              0.695
+            ]
+          }
+        }
       ]
     }
   ]
