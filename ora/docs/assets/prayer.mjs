@@ -112,11 +112,18 @@ function createApp(container, opts = {}) {
     const handler = (ev) => {
       const t = ev.target.currentTime;
       let sid = null;
+      let last_started = null;
       for (const [s, rng] of Object.entries(rangeMap)) {
-        if (rng && t >= rng[0] && t <= rng[1]) {
+        if (rng && rng[0] <= t) {
+          last_started = s;  // advance to the latest segment that has started by now
+        }
+        if (rng && rng[0] <= t && t < rng[1]) {
           sid = s;
           break;
         }
+      }
+      if (sid === null) {
+        sid = last_started;  // if in middle of one or tail, use the current started one
       }
       clearAllSegmentHighlights();
       if (sid) {
@@ -157,11 +164,18 @@ function createApp(container, opts = {}) {
     const handler = (ev) => {
       const t = ev.target.currentTime;
       let sid = null;
+      let last_started = null;
       for (const [s, rng] of Object.entries(rangeMap)) {
-        if (rng && t >= rng[0] && t <= rng[1]) {
+        if (rng && rng[0] <= t) {
+          last_started = s;  // advance to the latest segment that has started by now
+        }
+        if (rng && rng[0] <= t && t < rng[1]) {
           sid = s;
           break;
         }
+      }
+      if (sid === null) {
+        sid = last_started;  // if in middle of one or tail, use the current started one
       }
       clearAllSegmentHighlights();
       if (sid) {

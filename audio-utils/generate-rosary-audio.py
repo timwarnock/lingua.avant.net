@@ -157,14 +157,16 @@ async def main():
             f.write(audio_bytes)
         print(f"  -> {out_path}")
 
-        return assign_segment_timings(word_events, segs_for_this, lang)
+        return assign_segment_timings(word_events, segs_for_this, lang, joined_text=joined)
 
     def count_units(txt, lang=""):
         if not txt:
             return 0
         if lang in ("chinese", "japanese"):
-            # Count CJK chars (hanzi, kana) - matches WordBoundary granularity for text input
-            return len(re.findall(r'[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff\u3040-\u309f\u30a0-\u30ff]', txt))
+            # Count CJK chars (hanzi, kana) - matches WordBoundary granularity for text input.
+            # Exclude separators like ・ (middle dot) because TTS WordBoundary omits them from reported text.
+            chars = re.findall(r'[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff\u3040-\u309f\u30a0-\u30ff]', txt)
+            return sum(1 for c in chars if c != '・')
         elif lang == "greek":
             # Count Greek letters (including polytonic range) for better alignment with WordBoundary events
             return len(re.findall(r'[\u0370-\u03FF\u1F00-\u1FFF]', txt))
@@ -176,28 +178,72 @@ async def main():
                     tokens.append(w)
             return len(tokens)
 
-    def assign_segment_timings(word_events, segs, lang=""):
-        """Proportional assignment based on unit counts (chars for CJK/Greek, words else).
-        Uses actual spoken end time from boundaries so timings cover the synthesis exactly.
-        This fixes misalignment and missing timings that caused desync.
+    def assign_segment_timings(word_events, segs, lang="", joined_text=None):
+        """Use actual WordBoundary events to derive per-segment [start, end] that match the spoken audio.
+        We map each segment's unit count (words for English/romance/etc, chars for CJK/Greek) onto the
+        sequence of reported boundary events and take the real start/end times of the covering events.
+        Then post-process so ranges are abutted at the actual start-of-next-segment times and first
+        segment starts at 0.0 (so highlight appears as soon as playback begins).
+        This gives precise segment-level sync without assuming uniform rate.
         """
         if not word_events or not segs:
             return {}
-        total_time = word_events[-1]["end"] if word_events else 0
+        n = len(word_events)
+        if n == 0:
+            return {}
         total_units = sum(count_units(txt, lang) for _, txt in segs)
         if total_units <= 0:
             return {}
         timings = {}
-        current = 0.0
+        # cum units: len(btext) for CJK/greek, 1 per event for word-based languages
+        cum_units = [0]
+        for ev in word_events:
+            if lang in ("chinese", "japanese", "greek"):
+                delta = len(ev.get('text', '') or '')
+            else:
+                delta = 1
+            cum_units.append(cum_units[-1] + delta)
+        pos = 0
         for sid, txt in segs:
-            units = count_units(txt, lang)
-            dur = (units / total_units) * total_time if total_units > 0 else 0
-            timings[sid] = [round(current, 3), round(current + dur, 3)]
-            current += dur
-        if timings:
-            # ensure last exactly matches the last boundary end
-            last_sid = segs[-1][0]
-            timings[last_sid][1] = round(total_time, 3)
+            u = count_units(txt, lang)
+            sstart = pos
+            send = pos + u
+            pos += u
+            k_start = 0
+            for k in range(1, n+1):
+                if cum_units[k] > sstart:
+                    k_start = k-1
+                    break
+            k_end = n-1
+            for k in range(k_start, n+1):
+                if cum_units[k] >= send:
+                    k_end = k-1
+                    break
+            if k_end < k_start:
+                k_end = k_start
+            st = word_events[k_start]['start']
+            et = word_events[k_end]['end']
+            if cum_units[k_start] < sstart < cum_units[k_start+1]:
+                bstart = cum_units[k_start]
+                bend = cum_units[k_start+1]
+                frac = (sstart - bstart) / (bend - bstart) if (bend - bstart) > 0 else 0
+                st = word_events[k_start]['start'] + frac * (word_events[k_start]['end'] - word_events[k_start]['start'])
+            if cum_units[k_end] < send < cum_units[k_end+1]:
+                bstart = cum_units[k_end]
+                bend = cum_units[k_end+1]
+                frac = (send - bstart) / (bend - bstart) if (bend - bstart) > 0 else 0
+                et = word_events[k_end]['start'] + frac * (word_events[k_end]['end'] - word_events[k_end]['start'])
+            timings[sid] = [round(max(0, st), 3), round(et, 3)]
+        # Post-process for nicer segment-level behavior:
+        # - first segment starts at 0.0 (highlight as soon as play begins)
+        # - make ranges abutted at the *actual* start time of the next segment
+        #   (so previous holds through any pause until next segment's voice actually begins)
+        ordered = [sid for sid, _ in segs]
+        if ordered:
+            timings[ordered[0]][0] = 0.0
+            for i in range(len(ordered) - 1):
+                timings[ordered[i]][1] = timings[ordered[i+1]][0]
+            # last keeps its computed end (or could force to total_time, but end of its last word is fine)
         return timings
 
     # 1. Generate every segment (plain, no intra-segment timing needed)

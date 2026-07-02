@@ -17,12 +17,12 @@
           "phonetic": "Awaremi no haha naru genkō,",
           "timing": {
             "full": [
-              0.0,
-              1.972
+              0.103,
+              1.774
             ],
             "passage": [
-              0.0,
-              2.054
+              0.103,
+              1.774
             ]
           }
         },
@@ -32,12 +32,12 @@
           "phonetic": "seimei, yorokobi,",
           "timing": {
             "full": [
-              1.972,
-              2.761
+              2.168,
+              3.826
             ],
             "passage": [
-              2.054,
-              2.875
+              2.168,
+              3.826
             ]
           }
         },
@@ -47,12 +47,12 @@
           "phonetic": "kibō naru Maria yo,",
           "timing": {
             "full": [
-              2.761,
-              4.339
+              4.142,
+              5.353
             ],
             "passage": [
-              2.875,
-              4.518
+              4.142,
+              5.353
             ]
           }
         },
@@ -62,12 +62,12 @@
           "phonetic": "sayōnara.",
           "timing": {
             "full": [
-              4.339,
-              5.325
+              5.747,
+              6.497
             ],
             "passage": [
-              4.518,
-              5.545
+              5.747,
+              6.497
             ]
           }
         },
@@ -77,11 +77,11 @@
           "phonetic": "Eva no kora naru warera toraware no mono wa nanji ni yobawari,",
           "timing": {
             "full": [
-              5.325,
-              10.058
+              7.303,
+              10.474
             ],
             "passage": [
-              5.545,
+              7.303,
               10.474
             ]
           }
@@ -97,12 +97,12 @@
           "phonetic": "tameiki kanashimi naki tsutsu kono namida no tani ni ari.",
           "timing": {
             "full": [
-              10.058,
-              13.805
+              10.737,
+              13.632
             ],
             "passage": [
-              0.0,
-              3.271
+              0.103,
+              2.932
             ]
           }
         },
@@ -112,11 +112,11 @@
           "phonetic": "sareba warera no bengosha naru sei Maria yo,",
           "timing": {
             "full": [
-              13.805,
-              17.158
+              14.447,
+              16.763
             ],
             "passage": [
-              3.271,
+              3.776,
               6.197
             ]
           }
@@ -132,12 +132,12 @@
           "phonetic": "nanji no itsukushimi no manazashi o warera ni muketamae.",
           "timing": {
             "full": [
-              17.158,
-              21.496
+              17.184,
+              20.092
             ],
             "passage": [
-              0.0,
-              3.72
+              0.103,
+              3.024
             ]
           }
         },
@@ -147,12 +147,12 @@
           "phonetic": "kono toraware no nochi,",
           "timing": {
             "full": [
-              21.496,
-              23.271
+              20.908,
+              22.105
             ],
             "passage": [
-              3.72,
-              5.241
+              3.855,
+              5.053
             ]
           }
         },
@@ -162,11 +162,11 @@
           "phonetic": "Iesu o shimeshita mae.",
           "timing": {
             "full": [
-              23.271,
-              25.046
+              22.487,
+              23.816
             ],
             "passage": [
-              5.241,
+              5.434,
               6.763
             ]
           }
@@ -182,12 +182,12 @@
           "phonetic": "saiwai naru ontai no mi.",
           "timing": {
             "full": [
-              25.046,
-              26.624
+              24.618,
+              26.039
             ],
             "passage": [
-              0.0,
-              1.737
+              0.103,
+              1.524
             ]
           }
         },
@@ -197,12 +197,12 @@
           "phonetic": "awaremi fukaki seibo Maria yo,",
           "timing": {
             "full": [
-              26.624,
-              28.793
+              26.868,
+              28.54
             ],
             "passage": [
-              1.737,
-              4.125
+              2.355,
+              4.053
             ]
           }
         },
@@ -212,11 +212,11 @@
           "phonetic": "ō yasashiku,",
           "timing": {
             "full": [
-              28.793,
-              29.779
+              28.908,
+              29.737
             ],
             "passage": [
-              4.125,
+              4.382,
               5.21
             ]
           }
@@ -232,12 +232,12 @@
           "phonetic": "ō itsukushimi fukaku,",
           "timing": {
             "full": [
-              29.779,
-              31.16
+              30.066,
+              31.368
             ],
             "passage": [
-              0.0,
-              1.421
+              0.103,
+              1.392
             ]
           }
         },
@@ -247,12 +247,12 @@
           "phonetic": "ō kanbi naru seibo Maria yo.",
           "timing": {
             "full": [
-              31.16,
-              33.526
+              31.711,
+              33.487
             ],
             "passage": [
-              1.421,
-              3.857
+              1.761,
+              3.524
             ]
           }
         },
@@ -262,12 +262,12 @@
           "phonetic": "Sei Maria, Kami no haha,",
           "timing": {
             "full": [
-              33.526,
-              34.907
+              34.289,
+              36.171
             ],
             "passage": [
-              3.857,
-              5.278
+              4.342,
+              6.224
             ]
           }
         },
@@ -277,11 +277,11 @@
           "phonetic": "watashitachi no tame ni inotte kudasai.",
           "timing": {
             "full": [
-              34.907,
-              38.062
+              36.513,
+              38.474
             ],
             "passage": [
-              5.278,
+              6.566,
               8.526
             ]
           }
@@ -297,12 +297,12 @@
           "phonetic": "Kirisuto no yakusoku ni azukareru yō ni.",
           "timing": {
             "full": [
-              38.062,
-              41.218
+              39.342,
+              41.474
             ],
             "passage": [
-              0.0,
-              3.441
+              0.103,
+              2.234
             ]
           }
         },
@@ -312,12 +312,12 @@
           "phonetic": "Inorimashō.",
           "timing": {
             "full": [
-              41.218,
-              42.401
+              42.316,
+              43.224
             ],
             "passage": [
-              3.441,
-              4.731
+              3.079,
+              3.987
             ]
           }
         },
@@ -327,11 +327,11 @@
           "phonetic": "Kami yo, anata no hitoriko wa,",
           "timing": {
             "full": [
-              42.401,
-              44.373
+              44.039,
+              45.96
             ],
             "passage": [
-              4.731,
+              4.803,
               6.882
             ]
           }
@@ -347,12 +347,12 @@
           "phonetic": "sono shōgai, shi, fukkatsu ni yotte,",
           "timing": {
             "full": [
-              44.373,
-              46.542
+              46.447,
+              49.184
             ],
             "passage": [
-              0.0,
-              2.114
+              0.103,
+              3.01
             ]
           }
         },
@@ -362,11 +362,11 @@
           "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita.",
           "timing": {
             "full": [
-              46.542,
-              51.473
+              49.618,
+              53.066
             ],
             "passage": [
-              2.114,
+              3.432,
               6.918
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "Dōka, shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga, sono naka ni fukumareru koto o mane, yakusoku sareta mono o eru koto ga dekimasu yō ni. Shu Iesu Kirisuto ni yotte, Āmen.",
           "timing": {
             "full": [
-              51.473,
+              53.882,
               67.053
             ],
             "passage": [
-              0.0,
+              0.103,
               13.276
             ]
           }

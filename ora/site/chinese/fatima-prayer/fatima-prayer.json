@@ -17,12 +17,12 @@
           "phonetic": "Wǒ de Yē sū,",
           "timing": {
             "full": [
-              0.0,
-              0.969
+              0.103,
+              0.892
             ],
             "passage": [
-              0.0,
-              0.872
+              0.103,
+              0.892
             ]
           }
         },
@@ -32,11 +32,11 @@
           "phonetic": "qǐng kuān shù wǒ men de zuì guò,",
           "timing": {
             "full": [
-              0.969,
-              2.908
+              1.168,
+              2.563
             ],
             "passage": [
-              0.872,
+              1.155,
               2.616
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "jiù wǒ men miǎn dì yù yǒng huǒ.",
           "timing": {
             "full": [
-              2.908,
-              4.847
+              2.774,
+              4.313
             ],
             "passage": [
-              0.0,
+              0.103,
               1.918
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "qiú nǐ bǎ zhòng rén de líng hún,",
           "timing": {
             "full": [
-              4.847,
-              6.786
+              4.921,
+              6.566
             ],
             "passage": [
-              0.0,
+              0.103,
               1.813
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "tè bié shì nà xiē zuì xū yào nǐ lián mǐn de líng hún, lǐng dào tiān guó lǐ qù.",
           "timing": {
             "full": [
-              6.786,
-              11.634
+              6.842,
+              10.987
             ],
             "passage": [
-              0.0,
+              0.103,
               4.313
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Ā men.",
           "timing": {
             "full": [
-              11.634,
+              11.579,
               12.118
             ],
             "passage": [
-              0.0,
+              0.103,
               0.642
             ]
           }

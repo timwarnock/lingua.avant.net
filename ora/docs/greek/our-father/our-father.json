@@ -17,12 +17,12 @@
           "phonetic": "Pá-ter i-món",
           "timing": {
             "full": [
-              0.1,
-              2.718
+              0.0,
+              0.624
             ],
             "passage": [
-              0.1,
-              2.745
+              0.0,
+              0.657
             ]
           }
         },
@@ -32,12 +32,12 @@
           "phonetic": "o en toís ou-ra-nís",
           "timing": {
             "full": [
-              2.718,
-              7.35
+              0.624,
+              1.664
             ],
             "passage": [
-              2.745,
-              3.139
+              0.657,
+              1.752
             ]
           }
         },
@@ -47,8 +47,12 @@
           "phonetic": "ha-gi-as-thḗ-tō to ó-no-má sou",
           "timing": {
             "full": [
-              7.35,
-              12.955
+              1.664,
+              2.981
+            ],
+            "passage": [
+              1.752,
+              3.139
             ]
           }
         }
@@ -63,11 +67,11 @@
           "phonetic": "el-thé-tō hē ba-si-leí-a sou",
           "timing": {
             "full": [
-              12.955,
-              18.232
+              2.981,
+              4.229
             ],
             "passage": [
-              0.1,
+              0.0,
               1.639
             ]
           }
@@ -82,8 +86,12 @@
           "text": "γενηθήτω το θέλημά σου, ως εν ουρανω και επι της γης·",
           "phonetic": "ge-nē-thḗ-tō to thé-lē-má sou, hōs en ou-ra-nṓ kai e-pí tēs gēs",
           "timing": {
+            "full": [
+              4.229,
+              7.071
+            ],
             "passage": [
-              0.1,
+              0.0,
               3.297
             ]
           }
@@ -98,8 +106,12 @@
           "text": "τον άρτον ημων τον επιούσιον δος ημιν σήμερον·",
           "phonetic": "ton ár-ton hē-mṓn ton e-pi-oú-si-on dós hē-mîn sḗ-me-ron",
           "timing": {
+            "full": [
+              7.071,
+              9.705
+            ],
             "passage": [
-              0.1,
+              0.0,
               2.587
             ]
           }
@@ -114,9 +126,13 @@
           "text": "και άφες ημιν τα οφειλήματα ημων,",
           "phonetic": "kai á-phes hē-mîn ta o-phei-lḗ-ma-ta hē-mṓn",
           "timing": {
+            "full": [
+              9.705,
+              11.577
+            ],
             "passage": [
-              0.1,
-              3.995
+              0.0,
+              1.74
             ]
           }
         },
@@ -126,12 +142,12 @@
           "phonetic": "hōs kai hē-meîs a-phí-e-men toîs o-phei-lé-tais hē-mṓn",
           "timing": {
             "full": [
-              13.889,
-              15.982
+              11.577,
+              14.003
             ],
             "passage": [
-              2.258,
-              4.508
+              1.74,
+              3.995
             ]
           }
         }
@@ -145,9 +161,13 @@
           "text": "και μη εισενέγκης ημας εις πειρασμόν,",
           "phonetic": "kai mē ei-sen-én-gkēs hē-mâs eis pei-ras-món",
           "timing": {
+            "full": [
+              14.003,
+              16.152
+            ],
             "passage": [
-              0.1,
-              3.758
+              0.0,
+              2.044
             ]
           }
         },
@@ -157,12 +177,12 @@
           "phonetic": "al-là rhŷ-sai hē-mâs a-pò tou po-nē-roû,",
           "timing": {
             "full": [
-              18.482,
-              20.363
+              16.152,
+              17.954
             ],
             "passage": [
-              2.521,
-              4.495
+              2.044,
+              3.758
             ]
           }
         }
@@ -176,8 +196,12 @@
           "text": "Αμήν.",
           "phonetic": "A-mḗn.",
           "timing": {
+            "full": [
+              17.954,
+              18.232
+            ],
             "passage": [
-              0.1,
+              0.0,
               0.903
             ]
           }

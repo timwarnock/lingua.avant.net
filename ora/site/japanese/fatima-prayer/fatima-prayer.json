@@ -17,12 +17,12 @@
           "phonetic": "Ō, watashi no Iesu yo,",
           "timing": {
             "full": [
-              0.0,
-              1.691
+              0.103,
+              1.879
             ],
             "passage": [
-              0.0,
-              1.618
+              0.103,
+              1.879
             ]
           }
         },
@@ -32,11 +32,11 @@
           "phonetic": "watashitachi no tsumi o yurushite kudasai.",
           "timing": {
             "full": [
-              1.691,
-              4.439
+              2.195,
+              4.247
             ],
             "passage": [
-              1.618,
+              2.195,
               4.247
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "watashitachi o jigoku no hi kara o suikudasai.",
           "timing": {
             "full": [
-              4.439,
-              8.032
+              5.105,
+              7.645
             ],
             "passage": [
-              0.0,
+              0.103,
               2.642
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "subete no tamashii o tengoku ni michibiite kudasai.",
           "timing": {
             "full": [
-              8.032,
-              11.415
+              8.5,
+              11.329
             ],
             "passage": [
-              0.0,
+              0.103,
               2.932
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "toku ni anata no awaremi o mottomo hitsuyō to suru tamashii o,",
           "timing": {
             "full": [
-              11.415,
-              15.431
+              12.197,
+              15.474
             ],
             "passage": [
-              0.0,
+              0.103,
               3.418
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              15.431,
+              15.697,
               16.276
             ],
             "passage": [
-              0.0,
+              0.103,
               0.695
             ]
           }
