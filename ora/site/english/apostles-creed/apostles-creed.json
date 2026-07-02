@@ -18,11 +18,11 @@
           "timing": {
             "full": [
               0.0,
-              1.418
+              1.208
             ],
             "passage": [
               0.0,
-              1.589
+              1.287
             ]
           }
         },
@@ -32,12 +32,12 @@
           "phonetic": "the Father almighty,",
           "timing": {
             "full": [
-              1.418,
-              2.8
+              1.208,
+              2.589
             ],
             "passage": [
-              1.589,
-              3.103
+              1.287,
+              2.839
             ]
           }
         },
@@ -47,11 +47,11 @@
           "phonetic": "Creator of heaven and earth,",
           "timing": {
             "full": [
-              2.8,
-              4.55
+              2.589,
+              4.313
             ],
             "passage": [
-              3.103,
+              2.839,
               4.813
             ]
           }
@@ -67,12 +67,12 @@
           "phonetic": "and in Jesus Christ,",
           "timing": {
             "full": [
-              4.55,
-              5.958
+              4.313,
+              5.708
             ],
             "passage": [
               0.0,
-              1.774
+              1.497
             ]
           }
         },
@@ -82,12 +82,12 @@
           "phonetic": "his only Son,",
           "timing": {
             "full": [
-              5.958,
-              6.997
+              5.708,
+              6.826
             ],
             "passage": [
-              1.774,
-              2.905
+              1.497,
+              2.695
             ]
           }
         },
@@ -97,11 +97,11 @@
           "phonetic": "our Lord,",
           "timing": {
             "full": [
-              6.997,
-              7.853
+              6.826,
+              7.563
             ],
             "passage": [
-              2.905,
+              2.695,
               3.616
             ]
           }
@@ -117,8 +117,8 @@
           "phonetic": "who was conceived by the Holy Spirit,",
           "timing": {
             "full": [
-              7.853,
-              10.089
+              7.563,
+              9.853
             ],
             "passage": [
               0.0,
@@ -137,8 +137,8 @@
           "phonetic": "born of the Virgin Mary,",
           "timing": {
             "full": [
-              10.089,
-              11.695
+              9.853,
+              11.405
             ],
             "passage": [
               0.0,
@@ -157,12 +157,12 @@
           "phonetic": "suffered under Pontius Pilate,",
           "timing": {
             "full": [
-              11.695,
-              13.55
+              11.405,
+              13.313
             ],
             "passage": [
               0.0,
-              2.287
+              2.037
             ]
           }
         },
@@ -172,12 +172,12 @@
           "phonetic": "was crucified,",
           "timing": {
             "full": [
-              13.55,
-              14.761
+              13.313,
+              14.51
             ],
             "passage": [
-              2.287,
-              3.603
+              2.037,
+              3.313
             ]
           }
         },
@@ -187,11 +187,11 @@
           "phonetic": "died and was buried;",
           "timing": {
             "full": [
-              14.761,
-              16.274
+              14.51,
+              15.932
             ],
             "passage": [
-              3.603,
+              3.313,
               4.971
             ]
           }
@@ -207,8 +207,8 @@
           "phonetic": "he descended into hell;",
           "timing": {
             "full": [
-              16.274,
-              17.789
+              15.932,
+              17.576
             ],
             "passage": [
               0.0,
@@ -227,8 +227,8 @@
           "phonetic": "on the third day he rose again from the dead;",
           "timing": {
             "full": [
-              17.789,
-              20.447
+              17.576,
+              20.132
             ],
             "passage": [
               0.0,
@@ -247,8 +247,8 @@
           "phonetic": "he ascended into heaven,",
           "timing": {
             "full": [
-              20.447,
-              22.0
+              20.132,
+              21.75
             ],
             "passage": [
               0.0,
@@ -267,8 +267,8 @@
           "phonetic": "and is seated at the right hand of God the Father almighty;",
           "timing": {
             "full": [
-              22.0,
-              25.289
+              21.75,
+              24.947
             ],
             "passage": [
               0.0,
@@ -287,8 +287,8 @@
           "phonetic": "from there he will come to judge the living and the dead.",
           "timing": {
             "full": [
-              25.289,
-              28.5
+              24.947,
+              28.079
             ],
             "passage": [
               0.0,
@@ -307,12 +307,12 @@
           "phonetic": "I believe in the Holy Spirit,",
           "timing": {
             "full": [
-              28.5,
-              30.395
+              28.079,
+              30.184
             ],
             "passage": [
               0.0,
-              2.063
+              1.826
             ]
           }
         },
@@ -322,12 +322,12 @@
           "phonetic": "the holy catholic Church,",
           "timing": {
             "full": [
-              30.395,
-              32.105
+              30.184,
+              31.855
             ],
             "passage": [
-              2.063,
-              3.787
+              1.826,
+              3.524
             ]
           }
         },
@@ -337,12 +337,12 @@
           "phonetic": "the communion of saints,",
           "timing": {
             "full": [
-              32.105,
-              33.697
+              31.855,
+              33.421
             ],
             "passage": [
-              3.787,
-              5.379
+              3.524,
+              5.103
             ]
           }
         },
@@ -352,12 +352,12 @@
           "phonetic": "the forgiveness of sins,",
           "timing": {
             "full": [
-              33.697,
-              35.303
+              33.421,
+              35.0
             ],
             "passage": [
-              5.379,
-              6.984
+              5.103,
+              6.682
             ]
           }
         },
@@ -367,12 +367,12 @@
           "phonetic": "the resurrection of the body,",
           "timing": {
             "full": [
-              35.303,
-              36.987
+              35.0,
+              36.737
             ],
             "passage": [
-              6.984,
-              8.642
+              6.682,
+              8.405
             ]
           }
         },
@@ -382,11 +382,11 @@
           "phonetic": "and life everlasting,",
           "timing": {
             "full": [
-              36.987,
-              38.487
+              36.737,
+              38.276
             ],
             "passage": [
-              8.642,
+              8.405,
               9.971
             ]
           }
@@ -402,7 +402,7 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              38.487,
+              38.276,
               39.0
             ],
             "passage": [

@@ -17,11 +17,11 @@
           "phonetic": "Ó meu Jesus,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.918
             ],
             "passage": [
-              0.103,
+              0.0,
               0.945
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "perdoai-nos,",
           "timing": {
             "full": [
-              0.945,
+              0.918,
               1.761
             ],
             "passage": [
-              0.984,
+              0.945,
               1.905
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "livrai-nos do fogo do inferno,",
           "timing": {
             "full": [
-              1.892,
+              1.761,
               3.668
             ],
             "passage": [
-              0.103,
+              0.0,
               1.945
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "levai ao Céu todas as almas,",
           "timing": {
             "full": [
-              3.905,
+              3.668,
               5.642
             ],
             "passage": [
-              0.103,
+              0.0,
               2.05
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "principalmente as que mais precisarem da vossa misericórdia,",
           "timing": {
             "full": [
-              5.787,
+              5.642,
               9.142
             ],
             "passage": [
-              0.103,
+              0.0,
               3.484
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              9.247,
+              9.142,
               9.576
             ],
             "passage": [
-              0.103,
+              0.0,
               0.563
             ]
           }

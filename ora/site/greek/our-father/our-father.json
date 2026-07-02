@@ -18,11 +18,11 @@
           "timing": {
             "full": [
               0.0,
-              0.624
+              0.705
             ],
             "passage": [
               0.0,
-              0.657
+              0.732
             ]
           }
         },
@@ -32,12 +32,12 @@
           "phonetic": "o en toís ou-ra-nís",
           "timing": {
             "full": [
-              0.624,
-              1.664
+              0.705,
+              1.521
             ],
             "passage": [
-              0.657,
-              1.752
+              0.732,
+              1.534
             ]
           }
         },
@@ -47,11 +47,11 @@
           "phonetic": "ha-gi-as-thḗ-tō to ó-no-má sou",
           "timing": {
             "full": [
-              1.664,
-              2.981
+              1.521,
+              3.1
             ],
             "passage": [
-              1.752,
+              1.534,
               3.139
             ]
           }
@@ -67,8 +67,8 @@
           "phonetic": "el-thé-tō hē ba-si-leí-a sou",
           "timing": {
             "full": [
-              2.981,
-              4.229
+              3.1,
+              4.613
             ],
             "passage": [
               0.0,
@@ -87,8 +87,8 @@
           "phonetic": "ge-nē-thḗ-tō to thé-lē-má sou, hōs en ou-ra-nṓ kai e-pí tēs gēs",
           "timing": {
             "full": [
-              4.229,
-              7.071
+              4.613,
+              7.718
             ],
             "passage": [
               0.0,
@@ -107,8 +107,8 @@
           "phonetic": "ton ár-ton hē-mṓn ton e-pi-oú-si-on dós hē-mîn sḗ-me-ron",
           "timing": {
             "full": [
-              7.071,
-              9.705
+              7.718,
+              10.061
             ],
             "passage": [
               0.0,
@@ -127,12 +127,12 @@
           "phonetic": "kai á-phes hē-mîn ta o-phei-lḗ-ma-ta hē-mṓn",
           "timing": {
             "full": [
-              9.705,
-              11.577
+              10.061,
+              11.837
             ],
             "passage": [
               0.0,
-              1.74
+              1.797
             ]
           }
         },
@@ -142,11 +142,11 @@
           "phonetic": "hōs kai hē-meîs a-phí-e-men toîs o-phei-lé-tais hē-mṓn",
           "timing": {
             "full": [
-              11.577,
-              14.003
+              11.837,
+              13.982
             ],
             "passage": [
-              1.74,
+              1.797,
               3.995
             ]
           }
@@ -162,12 +162,12 @@
           "phonetic": "kai mē ei-sen-én-gkēs hē-mâs eis pei-ras-món",
           "timing": {
             "full": [
-              14.003,
-              16.152
+              13.982,
+              15.876
             ],
             "passage": [
               0.0,
-              2.044
+              1.995
             ]
           }
         },
@@ -177,11 +177,11 @@
           "phonetic": "al-là rhŷ-sai hē-mâs a-pò tou po-nē-roû,",
           "timing": {
             "full": [
-              16.152,
-              17.954
+              15.876,
+              17.482
             ],
             "passage": [
-              2.044,
+              1.995,
               3.758
             ]
           }
@@ -197,7 +197,7 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              17.954,
+              17.482,
               18.232
             ],
             "passage": [

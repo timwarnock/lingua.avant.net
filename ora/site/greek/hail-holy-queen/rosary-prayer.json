@@ -18,7 +18,7 @@
           "timing": {
             "full": [
               0.0,
-              0.674
+              1.047
             ],
             "passage": [
               0.0,
@@ -37,12 +37,12 @@
           "phonetic": "Ho The-ós,",
           "timing": {
             "full": [
-              0.674,
-              1.096
+              1.047,
+              2.655
             ],
             "passage": [
               0.0,
-              0.392
+              0.876
             ]
           }
         },
@@ -52,12 +52,12 @@
           "phonetic": "hoû ho mo-no-ge-nḕs Hyi-ós,",
           "timing": {
             "full": [
-              1.096,
-              2.445
+              2.655,
+              3.932
             ],
             "passage": [
-              0.392,
-              1.648
+              0.876,
+              2.218
             ]
           }
         },
@@ -67,12 +67,12 @@
           "phonetic": "di-ὰ tou bí-ou,",
           "timing": {
             "full": [
-              2.445,
-              3.287
+              3.932,
+              4.971
             ],
             "passage": [
-              1.648,
-              2.433
+              2.218,
+              3.271
             ]
           }
         },
@@ -82,12 +82,12 @@
           "phonetic": "tou tha-ná-tou kai tēs a-na-stá-se-ōs au-toû,",
           "timing": {
             "full": [
-              3.287,
-              5.901
+              4.971,
+              6.905
             ],
             "passage": [
-              2.433,
-              4.866
+              3.271,
+              5.205
             ]
           }
         },
@@ -97,12 +97,12 @@
           "phonetic": "ek-tḗ-sa-to hē-mîn tòn mis-thòn",
           "timing": {
             "full": [
-              5.901,
-              7.671
+              6.905,
+              8.221
             ],
             "passage": [
-              4.866,
-              6.514
+              5.205,
+              6.547
             ]
           }
         },
@@ -112,11 +112,11 @@
           "phonetic": "tēs ai-ō-ní-ou zō-ῆς,",
           "timing": {
             "full": [
-              7.671,
-              8.851
+              8.221,
+              9.287
             ],
             "passage": [
-              6.514,
+              6.547,
               7.613
             ]
           }
@@ -132,12 +132,12 @@
           "phonetic": "dós hē-mîn, de-ó-me-tha,",
           "timing": {
             "full": [
-              8.851,
-              10.031
+              9.287,
+              11.05
             ],
             "passage": [
               0.0,
-              0.994
+              1.889
             ]
           }
         },
@@ -147,12 +147,12 @@
           "phonetic": "hí-na me-le-tṓn-tes tà mys-tḗ-ri-a",
           "timing": {
             "full": [
-              10.031,
-              11.97
+              11.05,
+              12.445
             ],
             "passage": [
-              0.994,
-              2.628
+              1.889,
+              3.324
             ]
           }
         },
@@ -162,11 +162,11 @@
           "phonetic": "tou ha-gi-ō-tá-tou Ro-da-rí-ou tēs Ma-ka-rí-as Par-thé-nou Ma-rí-as,",
           "timing": {
             "full": [
-              11.97,
-              15.763
+              12.445,
+              14.853
             ],
             "passage": [
-              2.628,
+              3.324,
               5.824
             ]
           }
@@ -182,12 +182,12 @@
           "phonetic": "mi-mṓ-me-tha tà en au-toîs pe-ri-e-chó-me-na",
           "timing": {
             "full": [
-              15.763,
-              18.207
+              14.853,
+              16.603
             ],
             "passage": [
               0.0,
-              1.787
+              1.837
             ]
           }
         },
@@ -197,11 +197,11 @@
           "phonetic": "kai lam-bá-nō-men tà e-pēg-ge-lé-me-na.",
           "timing": {
             "full": [
-              18.207,
-              20.399
+              16.603,
+              18.076
             ],
             "passage": [
-              1.787,
+              1.837,
               3.389
             ]
           }
@@ -217,8 +217,8 @@
           "phonetic": "Di-ὰ tou au-toû Chris-toû tou Ky-rí-ou hē-mṓn,",
           "timing": {
             "full": [
-              20.399,
-              23.012
+              18.076,
+              20.826
             ],
             "passage": [
               0.0,
@@ -237,8 +237,8 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              23.012,
-              23.349
+              20.826,
+              21.629
             ],
             "passage": [
               0.0,
@@ -257,12 +257,12 @@
           "phonetic": "Hi-e-rṓ-ta-te Kar-dí-a tou I-ē-soû,",
           "timing": {
             "full": [
-              23.349,
-              25.204
+              21.629,
+              24.3
             ],
             "passage": [
               0.0,
-              2.093
+              1.889
             ]
           }
         },
@@ -272,11 +272,11 @@
           "phonetic": "e-lé-ē-son hē-mâs.",
           "timing": {
             "full": [
-              25.204,
-              26.131
+              24.3,
+              25.55
             ],
             "passage": [
-              2.093,
+              1.889,
               3.139
             ]
           }
@@ -292,12 +292,12 @@
           "phonetic": "A-mó-lyn-te Kar-dí-a tēs Ma-rí-as,",
           "timing": {
             "full": [
-              26.131,
-              28.07
+              25.55,
+              28.103
             ],
             "passage": [
               0.0,
-              1.82
+              1.771
             ]
           }
         },
@@ -307,11 +307,11 @@
           "phonetic": "prés-beu-e hy-pèr hē-mṓn.",
           "timing": {
             "full": [
-              28.07,
+              28.103,
               29.418
             ],
             "passage": [
-              1.82,
+              1.771,
               3.087
             ]
           }

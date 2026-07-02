@@ -17,11 +17,11 @@
           "phonetic": "Pater noster,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               1.124
             ],
             "passage": [
-              0.109,
+              0.0,
               1.124
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "qui es in caelis,",
           "timing": {
             "full": [
-              1.3,
+              1.124,
               2.668
             ],
             "passage": [
-              1.3,
+              1.124,
               2.668
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "sanctificetur nomen tuum.",
           "timing": {
             "full": [
-              2.962,
+              2.668,
               4.991
             ],
             "passage": [
-              2.962,
+              2.668,
               4.991
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Adveniat regnum tuum.",
           "timing": {
             "full": [
-              6.044,
+              4.991,
               7.941
             ],
             "passage": [
-              0.109,
+              0.0,
               2.006
             ]
           }
@@ -87,11 +87,11 @@
           "phonetic": "Fiat voluntas tua, sicut in caelo et in terra.",
           "timing": {
             "full": [
-              8.983,
+              7.941,
               12.851
             ],
             "passage": [
-              0.107,
+              0.0,
               3.974
             ]
           }
@@ -107,11 +107,11 @@
           "phonetic": "Panem nostrum quotidianum da nobis hodie,",
           "timing": {
             "full": [
-              13.882,
+              12.851,
               16.647
             ],
             "passage": [
-              0.109,
+              0.0,
               2.947
             ]
           }
@@ -127,11 +127,11 @@
           "phonetic": "et dimitte nobis debita nostra,",
           "timing": {
             "full": [
-              16.926,
+              16.647,
               19.206
             ],
             "passage": [
-              0.109,
+              0.0,
               2.432
             ]
           }
@@ -142,11 +142,11 @@
           "phonetic": "sicut et nos dimittimus debitoribus nostris.",
           "timing": {
             "full": [
-              19.5,
+              19.206,
               23.088
             ],
             "passage": [
-              2.579,
+              2.432,
               6.123
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "Et ne nos inducas in tentationem,",
           "timing": {
             "full": [
-              24.118,
+              23.088,
               26.441
             ],
             "passage": [
-              0.109,
+              0.0,
               2.388
             ]
           }
@@ -177,11 +177,11 @@
           "phonetic": "sed libera nos a malo,",
           "timing": {
             "full": [
-              26.676,
+              26.441,
               28.294
             ],
             "passage": [
-              2.579,
+              2.388,
               4.226
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              28.544,
+              28.294,
               29.059
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }

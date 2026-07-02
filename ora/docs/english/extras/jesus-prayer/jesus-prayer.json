@@ -17,11 +17,11 @@
           "phonetic": "Lord Jesus Christ,",
           "timing": {
             "full": [
-              0.116,
+              0.0,
               1.524
             ],
             "passage": [
-              0.116,
+              0.0,
               1.537
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Son of God,",
           "timing": {
             "full": [
-              1.787,
+              1.524,
               2.524
             ],
             "passage": [
-              1.826,
+              1.537,
               2.668
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "have mercy on me,",
           "timing": {
             "full": [
-              2.839,
+              2.524,
               3.853
             ],
             "passage": [
-              0.116,
+              0.0,
               1.3
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "a sinner.",
           "timing": {
             "full": [
-              4.116,
+              3.853,
               4.655
             ],
             "passage": [
-              1.589,
+              1.3,
               2.155
             ]
           }

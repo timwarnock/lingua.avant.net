@@ -17,11 +17,11 @@
           "phonetic": "Shu Iesu Kirisuto,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               1.366
             ],
             "passage": [
-              0.103,
+              0.0,
               1.313
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Kami no ko yo,",
           "timing": {
             "full": [
-              1.682,
+              1.366,
               2.471
             ],
             "passage": [
-              1.576,
+              1.313,
               2.432
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "Tsumibito naru ware o awaremi tamae.",
           "timing": {
             "full": [
-              2.892,
+              2.471,
               4.76
             ],
             "passage": [
-              0.103,
+              0.0,
               2.037
             ]
           }

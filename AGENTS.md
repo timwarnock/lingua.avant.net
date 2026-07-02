@@ -57,7 +57,7 @@ All other non-rosary pages will be in a language specific [ Resources ] section,
 
 ## Passages and Segments for audio alignment
 
-Every prayer will be broken down into passages that must match 1:1 across all languages (same literal meaning across all languages), such that tooling can be built which will index any given passage across any given language.
+Every prayer will be broken down into passages that must match 1:1 across all languages (same literal meaning across all languages), such that tooling can index any given passage across any given language.
 
 For example, hail-mary passage 1 is "Hail Mary, full of grace, the Lord is with thee."
 and thus in Latin passage 1 is "Ave Maria, gratia plena, Dominus tecum."
@@ -67,20 +67,19 @@ Each passage is broken into segments identified with letters after the passage n
 
 All languages MUST align on passages literally and exactly! The exact meaning for a given passage MUST match across all languages!
 
-Segments might not always match exactly due to grammatic and linguistic differences between laguages, but a best effort should be made to match them (such as matching a similar count of segments).
+Segments are not guaranteed to match due to grammatic and linguistic differences between laguages.
+
+see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 
 ## TODO
 
 + revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
 
-+ IN PROGRESS -- see [plan-prayer-mjs.md](plan-prayer-mjs.md) -- Enhance the rosary prayers with audio and per-passage formatting to benefit language learning (in that respective language); audio for the entire prayer as well as per-passage audio segments.
-++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
-++ compare each prayer to all other languages and verify that the passages align perfectly (literal meaning of a given passage is the same across all languages).
-++ verify all prayer text with official Catholic sources (from the vatican or similar).
++ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 
-+ make audio generation foolproof, a single command to run anytime a json file changes (no need for agent to inspect dependencies and get confused, just run the command with a given json file and it will generate all the audio in the matching directory to that json, e.g., spanish/hail-mary.json will always create audio files in spanish/hail-mary/)
-+ similarly, language selection foolproof, a single command that shows available voices with short descriptions. Between that and audio-testing we'll be able to choose the right voice.
++ verify all prayer text with official Catholic sources (from the vatican or similar).
+
 
 
 

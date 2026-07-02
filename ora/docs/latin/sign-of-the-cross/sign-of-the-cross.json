@@ -17,11 +17,11 @@
           "phonetic": "In nomine Patris,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               1.462
             ],
             "passage": [
-              0.109,
+              0.0,
               1.432
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "et Filii,",
           "timing": {
             "full": [
-              1.785,
+              1.462,
               2.579
             ],
             "passage": [
-              1.741,
+              1.432,
               2.506
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "et Spiritus Sancti,",
           "timing": {
             "full": [
-              2.903,
+              2.579,
               4.432
             ],
             "passage": [
-              2.8,
+              2.506,
               4.388
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              4.565,
+              4.432,
               5.065
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }

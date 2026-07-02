@@ -17,11 +17,11 @@
           "phonetic": "Ô mon Jésus,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.839
             ],
             "passage": [
-              0.103,
+              0.0,
               0.866
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "pardonne-nous nos péchés,",
           "timing": {
             "full": [
-              1.129,
+              0.839,
               2.261
             ],
             "passage": [
-              1.116,
+              0.866,
               2.247
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "préserve-nous du feu de l'enfer,",
           "timing": {
             "full": [
-              2.576,
+              2.261,
               4.274
             ],
             "passage": [
-              0.103,
+              0.0,
               1.997
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "et conduis au ciel toutes les âmes,",
           "timing": {
             "full": [
-              4.668,
+              4.274,
               6.208
             ],
             "passage": [
-              0.103,
+              0.0,
               1.8
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "surtout celles qui ont le plus besoin de ta miséricorde,",
           "timing": {
             "full": [
-              6.537,
+              6.208,
               9.221
             ],
             "passage": [
-              0.103,
+              0.0,
               3.011
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              9.537,
+              9.221,
               9.984
             ],
             "passage": [
-              0.101,
+              0.0,
               0.641
             ]
           }

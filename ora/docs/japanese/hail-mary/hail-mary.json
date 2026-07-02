@@ -18,11 +18,11 @@
           "timing": {
             "full": [
               0.0,
-              1.407
+              0.918
             ],
             "passage": [
               0.0,
-              1.19
+              0.918
             ]
           }
         },
@@ -32,12 +32,12 @@
           "phonetic": "megumi ni michita kata,",
           "timing": {
             "full": [
-              1.407,
-              2.814
+              0.918,
+              2.418
             ],
             "passage": [
-              1.19,
-              2.38
+              0.918,
+              2.418
             ]
           }
         },
@@ -47,11 +47,11 @@
           "phonetic": "Shu wa anata to tomo ni oraremasu.",
           "timing": {
             "full": [
-              2.814,
-              5.628
+              2.418,
+              4.761
             ],
             "passage": [
-              2.38,
+              2.418,
               4.761
             ]
           }
@@ -67,12 +67,12 @@
           "phonetic": "Anata wa onna no uchi de shukufuku sare,",
           "timing": {
             "full": [
-              5.628,
-              8.241
+              4.761,
+              7.605
             ],
             "passage": [
               0.0,
-              2.228
+              2.142
             ]
           }
         },
@@ -82,12 +82,12 @@
           "phonetic": "go tainai no onko Iesu mo",
           "timing": {
             "full": [
-              8.241,
-              10.251
+              7.605,
+              9.421
             ],
             "passage": [
-              2.228,
-              3.942
+              2.142,
+              3.958
             ]
           }
         },
@@ -97,11 +97,11 @@
           "phonetic": "shukufuku sarete imasu.",
           "timing": {
             "full": [
-              10.251,
-              11.859
+              9.421,
+              10.776
             ],
             "passage": [
-              3.942,
+              3.958,
               5.313
             ]
           }
@@ -117,12 +117,12 @@
           "phonetic": "Kami no haha sei Maria,",
           "timing": {
             "full": [
-              11.859,
-              13.266
+              10.776,
+              12.724
             ],
             "passage": [
               0.0,
-              1.229
+              1.247
             ]
           }
         },
@@ -132,12 +132,12 @@
           "phonetic": "watashitachi tsumibito no tame ni,",
           "timing": {
             "full": [
-              13.266,
-              15.678
+              12.724,
+              14.605
             ],
             "passage": [
-              1.229,
-              3.335
+              1.247,
+              3.129
             ]
           }
         },
@@ -147,11 +147,11 @@
           "phonetic": "o inori kudasai.",
           "timing": {
             "full": [
-              15.678,
-              17.084
+              14.605,
+              16.039
             ],
             "passage": [
-              3.335,
+              3.129,
               4.563
             ]
           }
@@ -167,8 +167,8 @@
           "phonetic": "Ima mo, shi o mukaeru toki mo,",
           "timing": {
             "full": [
-              17.084,
-              18.893
+              16.039,
+              18.987
             ],
             "passage": [
               0.0,
@@ -187,7 +187,7 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              18.893,
+              18.987,
               19.697
             ],
             "passage": [

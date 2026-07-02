@@ -17,11 +17,11 @@
           "phonetic": "Hail Mary,",
           "timing": {
             "full": [
-              0.142,
+              0.0,
               0.932
             ],
             "passage": [
-              0.142,
+              0.0,
               0.932
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "full of grace,",
           "timing": {
             "full": [
-              1.168,
+              0.932,
               2.037
             ],
             "passage": [
-              1.195,
+              0.932,
               2.076
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "the Lord is with thee.",
           "timing": {
             "full": [
-              2.3,
+              2.037,
               3.524
             ],
             "passage": [
-              2.339,
+              2.076,
               3.563
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "blessid art thou amongst women,",
           "timing": {
             "full": [
-              3.906,
+              3.524,
               5.787
             ],
             "passage": [
-              0.101,
+              0.0,
               1.995
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "and blessid is the fruit of thy womb,",
           "timing": {
             "full": [
-              6.064,
+              5.787,
               8.13
             ],
             "passage": [
-              2.285,
+              1.995,
               4.351
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Jesus.",
           "timing": {
             "full": [
-              8.353,
+              8.13,
               9.037
             ],
             "passage": [
-              4.574,
+              4.351,
               5.285
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "Holy Mary",
           "timing": {
             "full": [
-              9.461,
+              9.037,
               10.158
             ],
             "passage": [
-              0.142,
+              0.0,
               0.879
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "Mother of God,",
           "timing": {
             "full": [
-              10.171,
+              10.158,
               11.026
             ],
             "passage": [
-              0.892,
+              0.879,
               1.787
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "pray for us sinners,",
           "timing": {
             "full": [
-              11.316,
+              11.026,
               12.474
             ],
             "passage": [
-              2.089,
+              1.787,
               3.339
             ]
           }
@@ -167,11 +167,11 @@
           "phonetic": "now and at the hour of our death,",
           "timing": {
             "full": [
-              12.737,
+              12.474,
               14.5
             ],
             "passage": [
-              0.103,
+              0.0,
               2.168
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              14.711,
+              14.5,
               15.211
             ],
             "passage": [
-              0.116,
+              0.0,
               0.682
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "Oh my Jesus",
           "timing": {
             "full": [
-              0.116,
+              0.0,
               1.024
             ],
             "passage": [
-              0.116,
+              0.0,
               1.063
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "forgive us our sins,",
           "timing": {
             "full": [
-              1.037,
+              1.024,
               2.195
             ],
             "passage": [
-              1.076,
+              1.063,
               2.471
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "save us from the fires of hell,",
           "timing": {
             "full": [
-              2.484,
+              2.195,
               4.168
             ],
             "passage": [
-              0.129,
+              0.0,
               2.261
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "lead all souls to heaven,",
           "timing": {
             "full": [
-              4.484,
+              4.168,
               5.853
             ],
             "passage": [
-              0.103,
+              0.0,
               1.866
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "especially those who are most in need of thy mercy,",
           "timing": {
             "full": [
-              6.168,
+              5.853,
               8.708
             ],
             "passage": [
-              0.142,
+              0.0,
               3.168
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              8.905,
+              8.708,
               9.432
             ],
             "passage": [
-              0.116,
+              0.0,
               0.682
             ]
           }

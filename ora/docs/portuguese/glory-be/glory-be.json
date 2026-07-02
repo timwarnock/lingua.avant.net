@@ -17,11 +17,11 @@
           "phonetic": "Glória ao Pai,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.905
             ],
             "passage": [
-              0.103,
+              0.0,
               0.905
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "ao Filho,",
           "timing": {
             "full": [
-              1.037,
+              0.905,
               1.629
             ],
             "passage": [
-              1.037,
+              0.905,
               1.629
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "e ao Espírito Santo.",
           "timing": {
             "full": [
-              1.682,
+              1.629,
               2.918
             ],
             "passage": [
-              1.682,
+              1.629,
               2.918
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Como era no princípio,",
           "timing": {
             "full": [
-              3.197,
+              2.918,
               4.421
             ],
             "passage": [
-              0.103,
+              0.0,
               1.353
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "agora e sempre,",
           "timing": {
             "full": [
-              4.461,
+              4.421,
               5.382
             ],
             "passage": [
-              1.379,
+              1.353,
               2.3
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "pelos séculos dos séculos,",
           "timing": {
             "full": [
-              5.395,
+              5.382,
               6.829
             ],
             "passage": [
-              2.313,
+              2.3,
               3.853
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              6.868,
+              6.829,
               7.184
             ],
             "passage": [
-              0.103,
+              0.0,
               0.563
             ]
           }

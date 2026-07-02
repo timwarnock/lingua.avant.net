@@ -17,11 +17,11 @@
           "phonetic": "Wierzę w Boga,",
           "timing": {
             "full": [
-              0.102,
+              0.0,
               0.839
             ],
             "passage": [
-              0.102,
+              0.0,
               0.891
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Ojca wszechmogącego,",
           "timing": {
             "full": [
-              1.115,
+              0.839,
               2.299
             ],
             "passage": [
-              1.076,
+              0.891,
               2.326
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "Stworzyciela nieba i ziemi,",
           "timing": {
             "full": [
-              2.365,
+              2.299,
               5.023
             ],
             "passage": [
-              2.431,
+              2.326,
               5.589
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "i w Jezusa Chrystusa,",
           "timing": {
             "full": [
-              5.194,
+              5.023,
               6.339
             ],
             "passage": [
-              0.102,
+              0.0,
               1.234
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "Syna Jego jedynego,",
           "timing": {
             "full": [
-              6.747,
+              6.339,
               7.878
             ],
             "passage": [
-              1.378,
+              1.234,
               2.576
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Pana naszego,",
           "timing": {
             "full": [
-              8.26,
+              7.878,
               9.049
             ],
             "passage": [
-              2.628,
+              2.576,
               3.523
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "który się począł z Ducha Świętego,",
           "timing": {
             "full": [
-              9.102,
+              9.049,
               10.826
             ],
             "passage": [
-              0.103,
+              0.0,
               1.971
             ]
           }
@@ -137,11 +137,11 @@
           "phonetic": "narodził się z Maryi Panny,",
           "timing": {
             "full": [
-              11.168,
+              10.826,
               12.628
             ],
             "passage": [
-              0.102,
+              0.0,
               1.641
             ]
           }
@@ -157,11 +157,11 @@
           "phonetic": "umęczon pod Ponckim Piłatem,",
           "timing": {
             "full": [
-              12.839,
+              12.628,
               14.484
             ],
             "passage": [
-              0.103,
+              0.0,
               1.787
             ]
           }
@@ -172,11 +172,11 @@
           "phonetic": "ukrzyżowan,",
           "timing": {
             "full": [
-              14.641,
+              14.484,
               15.339
             ],
             "passage": [
-              1.853,
+              1.787,
               2.576
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "umarł i pogrzebion;",
           "timing": {
             "full": [
-              15.615,
+              15.339,
               16.707
             ],
             "passage": [
-              2.8,
+              2.576,
               4.024
             ]
           }
@@ -207,11 +207,11 @@
           "phonetic": "Zstąpił do piekieł;",
           "timing": {
             "full": [
-              16.931,
+              16.707,
               18.036
             ],
             "passage": [
-              0.102,
+              0.0,
               1.352
             ]
           }
@@ -227,11 +227,11 @@
           "phonetic": "trzeciego dnia zmartwychwstał;",
           "timing": {
             "full": [
-              18.286,
+              18.036,
               19.839
             ],
             "passage": [
-              0.103,
+              0.0,
               1.839
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "Wstąpił na niebiosa,",
           "timing": {
             "full": [
-              20.023,
+              19.839,
               21.22
             ],
             "passage": [
-              0.103,
+              0.0,
               1.366
             ]
           }
@@ -267,11 +267,11 @@
           "phonetic": "siedzi po prawicy Boga Ojca wszechmogącego;",
           "timing": {
             "full": [
-              21.591,
+              21.22,
               23.96
             ],
             "passage": [
-              0.102,
+              0.0,
               2.641
             ]
           }
@@ -287,11 +287,11 @@
           "phonetic": "stamtąd przyjdzie sądzić żywych i umarłych.",
           "timing": {
             "full": [
-              24.315,
+              23.96,
               26.96
             ],
             "passage": [
-              0.102,
+              0.0,
               2.878
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "Wierzę w Ducha Świętego,",
           "timing": {
             "full": [
-              27.881,
+              26.96,
               29.17
             ],
             "passage": [
-              0.102,
+              0.0,
               1.391
             ]
           }
@@ -322,11 +322,11 @@
           "phonetic": "święty Kościół powszechny,",
           "timing": {
             "full": [
-              29.197,
+              29.17,
               30.618
             ],
             "passage": [
-              1.418,
+              1.391,
               2.839
             ]
           }
@@ -337,11 +337,11 @@
           "phonetic": "świętych obcowanie,",
           "timing": {
             "full": [
-              30.67,
+              30.618,
               31.789
             ],
             "passage": [
-              2.891,
+              2.839,
               3.997
             ]
           }
@@ -352,11 +352,11 @@
           "phonetic": "grzechów odpuszczenie,",
           "timing": {
             "full": [
-              31.907,
+              31.789,
               33.026
             ],
             "passage": [
-              4.115,
+              3.997,
               5.234
             ]
           }
@@ -367,11 +367,11 @@
           "phonetic": "ciała zmartwychwstanie,",
           "timing": {
             "full": [
-              33.197,
+              33.026,
               34.394
             ],
             "passage": [
-              5.405,
+              5.234,
               6.615
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "żywot wieczny,",
           "timing": {
             "full": [
-              34.657,
+              34.394,
               35.46
             ],
             "passage": [
-              6.839,
+              6.615,
               7.681
             ]
           }
@@ -402,11 +402,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              35.631,
+              35.46,
               36.078
             ],
             "passage": [
-              0.102,
+              0.0,
               0.51
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "O mój Jezu,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.761
             ],
             "passage": [
-              0.102,
+              0.0,
               0.812
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "przebacz nam nasze grzechy,",
           "timing": {
             "full": [
-              0.774,
+              0.761,
               2.142
             ],
             "passage": [
-              0.826,
+              0.812,
               2.26
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "zachowaj nas od ognia piekielnego,",
           "timing": {
             "full": [
-              2.182,
+              2.142,
               4.09
             ],
             "passage": [
-              0.102,
+              0.0,
               2.22
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "zaprowadź do nieba wszystkie dusze,",
           "timing": {
             "full": [
-              4.484,
+              4.09,
               6.182
             ],
             "passage": [
-              0.102,
+              0.0,
               1.957
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,",
           "timing": {
             "full": [
-              6.379,
+              6.182,
               9.879
             ],
             "passage": [
-              0.102,
+              0.0,
               3.562
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              10.063,
+              9.879,
               10.484
             ],
             "passage": [
-              0.102,
+              0.0,
               0.51
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "Hail, Holy Queen,",
           "timing": {
             "full": [
-              0.142,
+              0.0,
               1.629
             ],
             "passage": [
-              0.142,
+              0.0,
               1.655
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Mother of mercy,",
           "timing": {
             "full": [
-              1.932,
+              1.629,
               2.866
             ],
             "passage": [
-              1.958,
+              1.655,
               2.892
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "our life,",
           "timing": {
             "full": [
-              3.129,
+              2.866,
               3.8
             ],
             "passage": [
-              3.168,
+              2.892,
               3.839
             ]
           }
@@ -62,11 +62,11 @@
           "phonetic": "our sweetness",
           "timing": {
             "full": [
-              4.076,
+              3.8,
               4.918
             ],
             "passage": [
-              4.116,
+              3.839,
               4.958
             ]
           }
@@ -77,11 +77,11 @@
           "phonetic": "and our hope.",
           "timing": {
             "full": [
-              5.011,
+              4.918,
               5.8
             ],
             "passage": [
-              5.05,
+              4.958,
               5.839
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "To thee do we cry,",
           "timing": {
             "full": [
-              6.197,
+              5.8,
               7.368
             ],
             "passage": [
-              0.116,
+              0.0,
               1.287
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "poor banished children of Eve.",
           "timing": {
             "full": [
-              7.671,
+              7.368,
               9.368
             ],
             "passage": [
-              1.603,
+              1.287,
               3.3
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "To thee do we send up our sighs,",
           "timing": {
             "full": [
-              9.763,
+              9.368,
               11.724
             ],
             "passage": [
-              0.116,
+              0.0,
               2.103
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "mourning and weeping",
           "timing": {
             "full": [
-              12.013,
+              11.724,
               13.118
             ],
             "passage": [
-              2.405,
+              2.103,
               3.497
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "in this valley of tears.",
           "timing": {
             "full": [
-              13.132,
+              13.118,
               14.5
             ],
             "passage": [
-              3.511,
+              3.497,
               4.892
             ]
           }
@@ -182,11 +182,11 @@
           "phonetic": "Turn then,",
           "timing": {
             "full": [
-              14.88,
+              14.5,
               15.604
             ],
             "passage": [
-              0.101,
+              0.0,
               0.838
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "most gracious advocate,",
           "timing": {
             "full": [
-              15.828,
+              15.604,
               17.301
             ],
             "passage": [
-              1.088,
+              0.838,
               2.536
             ]
           }
@@ -212,11 +212,11 @@
           "phonetic": "thine eyes of mercy toward us.",
           "timing": {
             "full": [
-              17.564,
+              17.301,
               19.512
             ],
             "passage": [
-              2.812,
+              2.536,
               4.772
             ]
           }
@@ -232,11 +232,11 @@
           "phonetic": "And after this our exile,",
           "timing": {
             "full": [
-              19.934,
+              19.512,
               21.46
             ],
             "passage": [
-              0.142,
+              0.0,
               1.695
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "show unto us",
           "timing": {
             "full": [
-              21.75,
+              21.46,
               22.553
             ],
             "passage": [
-              1.984,
+              1.695,
               2.787
             ]
           }
@@ -262,11 +262,11 @@
           "phonetic": "the blessid fruit of thy womb,",
           "timing": {
             "full": [
-              22.566,
+              22.553,
               24.263
             ],
             "passage": [
-              2.8,
+              2.787,
               4.497
             ]
           }
@@ -277,11 +277,11 @@
           "phonetic": "Jesus.",
           "timing": {
             "full": [
-              24.474,
+              24.263,
               25.171
             ],
             "passage": [
-              4.721,
+              4.497,
               5.432
             ]
           }
@@ -297,11 +297,11 @@
           "phonetic": "O clement,",
           "timing": {
             "full": [
-              25.566,
+              25.171,
               26.355
             ],
             "passage": [
-              0.116,
+              0.0,
               0.905
             ]
           }
@@ -312,11 +312,11 @@
           "phonetic": "O loving,",
           "timing": {
             "full": [
-              26.618,
+              26.355,
               27.211
             ],
             "passage": [
-              1.195,
+              0.905,
               1.774
             ]
           }
@@ -327,11 +327,11 @@
           "phonetic": "O sweet Virgin Mary.",
           "timing": {
             "full": [
-              27.474,
+              27.211,
               28.895
             ],
             "passage": [
-              2.063,
+              1.774,
               3.458
             ]
           }
@@ -347,11 +347,11 @@
           "phonetic": "Pray for us,",
           "timing": {
             "full": [
-              29.274,
+              28.895,
               30.248
             ],
             "passage": [
-              0.101,
+              0.0,
               1.061
             ]
           }
@@ -362,11 +362,11 @@
           "phonetic": "O holy Mother of God.",
           "timing": {
             "full": [
-              30.498,
+              30.248,
               31.985
             ],
             "passage": [
-              1.311,
+              1.061,
               2.798
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "That we may be made worthy of the promises of Christ.",
           "timing": {
             "full": [
-              32.408,
+              31.985,
               35.71
             ],
             "passage": [
-              0.142,
+              0.0,
               3.418
             ]
           }

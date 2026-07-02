@@ -17,11 +17,11 @@
           "phonetic": "Credo in Deum Patrem omnipotentem,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               2.3
             ],
             "passage": [
-              0.109,
+              0.0,
               2.3
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Creatorem caeli",
           "timing": {
             "full": [
-              2.594,
+              2.3,
               3.771
             ],
             "passage": [
-              2.594,
+              2.3,
               3.771
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "et terrae.",
           "timing": {
             "full": [
-              3.785,
+              3.771,
               4.521
             ],
             "passage": [
-              3.785,
+              3.771,
               4.521
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "et in Iesum Christum,",
           "timing": {
             "full": [
-              5.574,
+              4.521,
               7.029
             ],
             "passage": [
-              0.109,
+              0.0,
               1.594
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "Filium eius unicum,",
           "timing": {
             "full": [
-              7.294,
+              7.029,
               8.75
             ],
             "passage": [
-              1.859,
+              1.594,
               3.374
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Dominum nostrum,",
           "timing": {
             "full": [
-              8.985,
+              8.75,
               10.074
             ],
             "passage": [
-              3.638,
+              3.374,
               4.932
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "qui conceptus est de Spiritu Sancto,",
           "timing": {
             "full": [
-              10.221,
+              10.074,
               12.868
             ],
             "passage": [
-              0.109,
+              0.0,
               2.859
             ]
           }
@@ -137,11 +137,11 @@
           "phonetic": "natus ex Maria Virgine,",
           "timing": {
             "full": [
-              13.176,
+              12.868,
               15.147
             ],
             "passage": [
-              0.109,
+              0.0,
               2.138
             ]
           }
@@ -157,11 +157,11 @@
           "phonetic": "passus sub Pontio Pilato,",
           "timing": {
             "full": [
-              15.294,
+              15.147,
               17.191
             ],
             "passage": [
-              0.109,
+              0.0,
               2.006
             ]
           }
@@ -172,11 +172,11 @@
           "phonetic": "crucifixus,",
           "timing": {
             "full": [
-              17.485,
+              17.191,
               18.618
             ],
             "passage": [
-              2.329,
+              2.006,
               3.535
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "mortuus, et sepultus,",
           "timing": {
             "full": [
-              18.941,
+              18.618,
               21.088
             ],
             "passage": [
-              3.874,
+              3.535,
               6.153
             ]
           }
@@ -207,11 +207,11 @@
           "phonetic": "descendit ad inferos,",
           "timing": {
             "full": [
-              21.441,
+              21.088,
               23.074
             ],
             "passage": [
-              0.109,
+              0.0,
               2.021
             ]
           }
@@ -227,11 +227,11 @@
           "phonetic": "tertia die resurrexit a mortuis,",
           "timing": {
             "full": [
-              23.426,
+              23.074,
               25.75
             ],
             "passage": [
-              0.109,
+              0.0,
               2.506
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "ascendit ad caelos,",
           "timing": {
             "full": [
-              26.059,
+              25.75,
               27.559
             ],
             "passage": [
-              0.109,
+              0.0,
               1.888
             ]
           }
@@ -267,11 +267,11 @@
           "phonetic": "sedet ad dexteram Dei Patris omnipotentis,",
           "timing": {
             "full": [
-              27.897,
+              27.559,
               30.941
             ],
             "passage": [
-              0.109,
+              0.0,
               3.359
             ]
           }
@@ -287,11 +287,11 @@
           "phonetic": "inde venturus est iudicare vivos et mortuos.",
           "timing": {
             "full": [
-              31.279,
+              30.941,
               34.897
             ],
             "passage": [
-              0.109,
+              0.0,
               3.726
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "Credo in Spiritum Sanctum,",
           "timing": {
             "full": [
-              35.926,
+              34.897,
               37.809
             ],
             "passage": [
-              0.109,
+              0.0,
               1.991
             ]
           }
@@ -322,11 +322,11 @@
           "phonetic": "sanctam Ecclesiam catholicam,",
           "timing": {
             "full": [
-              37.985,
+              37.809,
               40.118
             ],
             "passage": [
-              2.168,
+              1.991,
               4.3
             ]
           }
@@ -337,11 +337,11 @@
           "phonetic": "sanctorum communionem,",
           "timing": {
             "full": [
-              40.412,
+              40.118,
               42.088
             ],
             "passage": [
-              4.594,
+              4.3,
               6.271
             ]
           }
@@ -352,11 +352,11 @@
           "phonetic": "remissionem peccatorum,",
           "timing": {
             "full": [
-              42.426,
+              42.088,
               43.985
             ],
             "passage": [
-              6.609,
+              6.271,
               8.168
             ]
           }
@@ -367,11 +367,11 @@
           "phonetic": "carnis resurrectionem,",
           "timing": {
             "full": [
-              44.294,
+              43.985,
               46.088
             ],
             "passage": [
-              8.485,
+              8.168,
               10.279
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "vitam aeternam.",
           "timing": {
             "full": [
-              46.353,
+              46.088,
               47.603
             ],
             "passage": [
-              10.544,
+              10.279,
               11.794
             ]
           }
@@ -402,11 +402,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              48.632,
+              47.603,
               49.382
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }

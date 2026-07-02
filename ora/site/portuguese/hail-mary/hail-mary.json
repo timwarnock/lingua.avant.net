@@ -17,11 +17,11 @@
           "phonetic": "Ave Maria,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.853
             ],
             "passage": [
-              0.103,
+              0.0,
               0.853
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "cheia de graça,",
           "timing": {
             "full": [
-              0.905,
+              0.853,
               1.853
             ],
             "passage": [
-              0.905,
+              0.853,
               1.853
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "o Senhor é convosco.",
           "timing": {
             "full": [
-              1.932,
+              1.853,
               3.116
             ],
             "passage": [
-              1.932,
+              1.853,
               3.116
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Bendita sois vós entre as mulheres,",
           "timing": {
             "full": [
-              3.395,
+              3.116,
               5.579
             ],
             "passage": [
-              0.103,
+              0.0,
               2.287
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "e bendito é o fruto do vosso ventre,",
           "timing": {
             "full": [
-              5.763,
+              5.579,
               7.816
             ],
             "passage": [
-              2.471,
+              2.287,
               4.524
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Jesus.",
           "timing": {
             "full": [
-              7.842,
+              7.816,
               8.461
             ],
             "passage": [
-              4.55,
+              4.524,
               5.168
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "Santa Maria,",
           "timing": {
             "full": [
-              8.737,
+              8.461,
               9.605
             ],
             "passage": [
-              0.103,
+              0.0,
               0.984
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "Mãe de Deus,",
           "timing": {
             "full": [
-              9.632,
+              9.605,
               10.382
             ],
             "passage": [
-              1.037,
+              0.984,
               1.774
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "rogai por nós pecadores,",
           "timing": {
             "full": [
-              10.434,
+              10.382,
               11.908
             ],
             "passage": [
-              1.839,
+              1.774,
               3.392
             ]
           }
@@ -167,11 +167,11 @@
           "phonetic": "agora e na hora de nossa morte,",
           "timing": {
             "full": [
-              12.066,
+              11.908,
               13.934
             ],
             "passage": [
-              0.103,
+              0.0,
               2.063
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              14.013,
+              13.934,
               14.368
             ],
             "passage": [
-              0.103,
+              0.0,
               0.563
             ]
           }

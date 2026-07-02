@@ -17,11 +17,11 @@
           "phonetic": "In the name of the Father,",
           "timing": {
             "full": [
-              0.116,
+              0.0,
               1.458
             ],
             "passage": [
-              0.116,
+              0.0,
               1.471
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "and of the Son,",
           "timing": {
             "full": [
-              1.682,
+              1.458,
               2.563
             ],
             "passage": [
-              1.708,
+              1.471,
               2.589
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "and of the Holy Spirit,",
           "timing": {
             "full": [
-              2.813,
+              2.563,
               4.063
             ],
             "passage": [
-              2.826,
+              2.589,
               4.221
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              4.326,
+              4.063,
               4.826
             ],
             "passage": [
-              0.116,
+              0.0,
               0.682
             ]
           }

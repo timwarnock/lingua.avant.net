@@ -17,11 +17,11 @@
           "phonetic": "Gloria Patri,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               1.153
             ],
             "passage": [
-              0.109,
+              0.0,
               1.153
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "et Filio,",
           "timing": {
             "full": [
-              1.329,
+              1.153,
               2.153
             ],
             "passage": [
-              1.329,
+              1.153,
               2.153
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "et Spiritui Sancto.",
           "timing": {
             "full": [
-              2.462,
+              2.153,
               3.976
             ],
             "passage": [
-              2.462,
+              2.153,
               3.976
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Sicut erat in principio,",
           "timing": {
             "full": [
-              5.015,
+              3.976,
               6.779
             ],
             "passage": [
-              0.109,
+              0.0,
               1.874
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "et nunc,",
           "timing": {
             "full": [
-              7.074,
+              6.779,
               7.735
             ],
             "passage": [
-              2.168,
+              1.874,
               2.829
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "et semper,",
           "timing": {
             "full": [
-              8.029,
+              7.735,
               8.868
             ],
             "passage": [
-              3.124,
+              2.829,
               3.962
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "et in saecula saeculorum.",
           "timing": {
             "full": [
-              9.162,
+              8.868,
               11.059
             ],
             "passage": [
-              4.256,
+              3.962,
               6.153
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              12.103,
+              11.059,
               12.853
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }

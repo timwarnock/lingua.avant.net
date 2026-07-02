@@ -17,11 +17,11 @@
           "phonetic": "Our Father,",
           "timing": {
             "full": [
-              0.129,
+              0.0,
               0.918
             ],
             "passage": [
-              0.129,
+              0.0,
               0.932
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "who art in heaven,",
           "timing": {
             "full": [
-              1.155,
+              0.918,
               2.195
             ],
             "passage": [
-              1.168,
+              0.932,
               2.208
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "hallowed be thy name.",
           "timing": {
             "full": [
-              2.471,
+              2.195,
               3.708
             ],
             "passage": [
-              2.484,
+              2.208,
               3.708
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Thy kingdom come.",
           "timing": {
             "full": [
-              4.132,
+              3.708,
               5.329
             ],
             "passage": [
-              0.142,
+              0.0,
               1.313
             ]
           }
@@ -87,11 +87,11 @@
           "phonetic": "Thy will be done on earth as it is in heaven.",
           "timing": {
             "full": [
-              5.75,
+              5.329,
               8.329
             ],
             "passage": [
-              0.142,
+              0.0,
               2.747
             ]
           }
@@ -107,11 +107,11 @@
           "phonetic": "Give us this day our daily bread,",
           "timing": {
             "full": [
-              8.724,
+              8.329,
               10.658
             ],
             "passage": [
-              0.116,
+              0.0,
               2.353
             ]
           }
@@ -127,11 +127,11 @@
           "phonetic": "and forgive us our trespasses,",
           "timing": {
             "full": [
-              10.947,
+              10.658,
               12.539
             ],
             "passage": [
-              0.142,
+              0.0,
               1.853
             ]
           }
@@ -142,11 +142,11 @@
           "phonetic": "as we forgive those who trespass against us.",
           "timing": {
             "full": [
-              12.816,
+              12.539,
               15.434
             ],
             "passage": [
-              2.142,
+              1.853,
               4.958
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "And lead us not into temptation,",
           "timing": {
             "full": [
-              15.855,
+              15.434,
               17.803
             ],
             "passage": [
-              0.116,
+              0.0,
               2.103
             ]
           }
@@ -177,11 +177,11 @@
           "phonetic": "but deliver us from evil,",
           "timing": {
             "full": [
-              18.092,
+              17.803,
               19.566
             ],
             "passage": [
-              2.379,
+              2.103,
               3.997
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              19.763,
+              19.566,
               20.276
             ],
             "passage": [
-              0.116,
+              0.0,
               0.682
             ]
           }

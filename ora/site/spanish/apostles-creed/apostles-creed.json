@@ -17,11 +17,11 @@
           "phonetic": "Creo en Dios,",
           "timing": {
             "full": [
-              0.1,
+              0.0,
               1.031
             ],
             "passage": [
-              0.1,
+              0.0,
               1.018
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Padre todopoderoso,",
           "timing": {
             "full": [
-              1.323,
+              1.031,
               2.547
             ],
             "passage": [
-              1.323,
+              1.018,
               2.56
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "creador del Cielo y de la Tierra,",
           "timing": {
             "full": [
-              2.826,
+              2.547,
               4.515
             ],
             "passage": [
-              2.839,
+              2.56,
               4.661
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "y en Jesucristo,",
           "timing": {
             "full": [
-              4.794,
+              4.515,
               5.792
             ],
             "passage": [
-              0.1,
+              0.0,
               1.257
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "su único Hijo,",
           "timing": {
             "full": [
-              6.044,
+              5.792,
               6.975
             ],
             "passage": [
-              1.51,
+              1.257,
               2.347
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Nuestro Señor,",
           "timing": {
             "full": [
-              7.351,
+              6.975,
               8.268
             ],
             "passage": [
-              2.56,
+              2.347,
               3.464
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "que fue concebido por obra y gracia del Espíritu Santo,",
           "timing": {
             "full": [
-              8.521,
+              8.268,
               11.313
             ],
             "passage": [
-              0.1,
+              0.0,
               3.105
             ]
           }
@@ -137,11 +137,11 @@
           "phonetic": "nació de Santa María Virgen,",
           "timing": {
             "full": [
-              11.566,
+              11.313,
               13.108
             ],
             "passage": [
-              0.102,
+              0.0,
               1.937
             ]
           }
@@ -157,11 +157,11 @@
           "phonetic": "padeció bajo el poder de Poncio Pilato,",
           "timing": {
             "full": [
-              13.401,
+              13.108,
               15.609
             ],
             "passage": [
-              0.1,
+              0.0,
               2.254
             ]
           }
@@ -172,11 +172,11 @@
           "phonetic": "fue crucificado,",
           "timing": {
             "full": [
-              15.901,
+              15.609,
               16.885
             ],
             "passage": [
-              2.547,
+              2.254,
               3.518
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "muerto y sepultado,",
           "timing": {
             "full": [
-              17.218,
+              16.885,
               18.281
             ],
             "passage": [
-              3.863,
+              3.518,
               5.02
             ]
           }
@@ -207,11 +207,11 @@
           "phonetic": "descendió a los infiernos,",
           "timing": {
             "full": [
-              18.561,
+              18.281,
               19.917
             ],
             "passage": [
-              0.102,
+              0.0,
               1.684
             ]
           }
@@ -227,11 +227,11 @@
           "phonetic": "al tercer día resucitó de entre los muertos,",
           "timing": {
             "full": [
-              20.249,
+              19.917,
               22.71
             ],
             "passage": [
-              0.1,
+              0.0,
               2.587
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "subió a los cielos",
           "timing": {
             "full": [
-              22.949,
+              22.71,
               23.973
             ],
             "passage": [
-              0.1,
+              0.0,
               1.51
             ]
           }
@@ -267,11 +267,11 @@
           "phonetic": "y está a la diestra de Dios Padre,",
           "timing": {
             "full": [
-              23.986,
+              23.973,
               25.489
             ],
             "passage": [
-              0.102,
+              0.0,
               1.91
             ]
           }
@@ -287,11 +287,11 @@
           "phonetic": "desde allí ha de venir a juzgar a los vivos y a los muertos,",
           "timing": {
             "full": [
-              25.836,
+              25.489,
               28.735
             ],
             "passage": [
-              0.102,
+              0.0,
               3.12
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "Creo en el Espíritu Santo,",
           "timing": {
             "full": [
-              28.961,
+              28.735,
               30.437
             ],
             "passage": [
-              0.1,
+              0.0,
               1.669
             ]
           }
@@ -322,11 +322,11 @@
           "phonetic": "en la Santa Iglesia Católica,",
           "timing": {
             "full": [
-              30.69,
+              30.437,
               33.64
             ],
             "passage": [
-              1.935,
+              1.669,
               3.491
             ]
           }
@@ -337,11 +337,11 @@
           "phonetic": "la comunión de los Santos,",
           "timing": {
             "full": [
-              33.946,
+              33.64,
               35.236
             ],
             "passage": [
-              3.77,
+              3.491,
               5.034
             ]
           }
@@ -352,11 +352,11 @@
           "phonetic": "en el perdón de los pecados,",
           "timing": {
             "full": [
-              35.462,
+              35.236,
               36.858
             ],
             "passage": [
-              5.329,
+              5.034,
               6.858
             ]
           }
@@ -367,11 +367,11 @@
           "phonetic": "la resurrección de los muertos,",
           "timing": {
             "full": [
-              37.111,
+              36.858,
               38.72
             ],
             "passage": [
-              7.098,
+              6.858,
               8.68
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "y la vida eterna,",
           "timing": {
             "full": [
-              39.054,
+              38.72,
               40.052
             ],
             "passage": [
-              8.893,
+              8.68,
               9.917
             ]
           }
@@ -402,11 +402,11 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              40.318,
+              40.052,
               40.849
             ],
             "passage": [
-              0.1,
+              0.0,
               0.592
             ]
           }

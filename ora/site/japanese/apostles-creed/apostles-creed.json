@@ -17,11 +17,11 @@
           "phonetic": "Tenchi no sōzōshu,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               1.353
             ],
             "passage": [
-              0.103,
+              0.0,
               1.353
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "zen'nō no chichi de aru Kami o",
           "timing": {
             "full": [
-              1.734,
+              1.353,
               3.3
             ],
             "passage": [
-              1.734,
+              1.353,
               3.3
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Chichi no hitoriko,",
           "timing": {
             "full": [
-              4.934,
+              4.116,
               5.789
             ],
             "passage": [
-              0.103,
+              0.0,
               0.958
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "watashitachi no Shu",
           "timing": {
             "full": [
-              6.276,
+              5.789,
               7.145
             ],
             "passage": [
-              1.445,
+              0.958,
               2.313
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "Shu wa Seirei ni yotte yadori,",
           "timing": {
             "full": [
-              9.789,
+              8.974,
               11.316
             ],
             "passage": [
-              0.103,
+              0.0,
               1.747
             ]
           }
@@ -137,11 +137,11 @@
           "phonetic": "otome Maria kara umare,",
           "timing": {
             "full": [
-              11.539,
+              11.316,
               12.882
             ],
             "passage": [
-              0.103,
+              0.0,
               1.524
             ]
           }
@@ -157,11 +157,11 @@
           "phonetic": "Pontio Pirato no moto de kurushimi o uke,",
           "timing": {
             "full": [
-              13.145,
+              12.882,
               15.421
             ],
             "passage": [
-              0.103,
+              0.0,
               2.392
             ]
           }
@@ -172,11 +172,11 @@
           "phonetic": "jūjika ni tsukerare,",
           "timing": {
             "full": [
-              15.842,
+              15.421,
               16.934
             ],
             "passage": [
-              2.813,
+              2.392,
               3.932
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "shinde hōmurare,",
           "timing": {
             "full": [
-              17.368,
+              16.934,
               18.316
             ],
             "passage": [
-              4.405,
+              3.932,
               5.484
             ]
           }
@@ -207,11 +207,11 @@
           "phonetic": "infu ni kudari,",
           "timing": {
             "full": [
-              18.737,
+              18.316,
               19.553
             ],
             "passage": [
-              0.103,
+              0.0,
               1.063
             ]
           }
@@ -227,11 +227,11 @@
           "phonetic": "mikka me ni shisha no uchi kara fukkatsu shi,",
           "timing": {
             "full": [
-              19.882,
+              19.553,
               22.0
             ],
             "passage": [
-              0.103,
+              0.0,
               2.3
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "ten ni nobotte,",
           "timing": {
             "full": [
-              22.276,
+              22.0,
               23.25
             ],
             "passage": [
-              0.103,
+              0.0,
               1.05
             ]
           }
@@ -267,11 +267,11 @@
           "phonetic": "zen'nō no chichi de aru Kami no migi ni zawari,",
           "timing": {
             "full": [
-              23.724,
+              23.25,
               25.974
             ],
             "passage": [
-              0.103,
+              0.0,
               2.497
             ]
           }
@@ -287,11 +287,11 @@
           "phonetic": "soko kara seisha to shisha o sabaku tame ni koraremasu.",
           "timing": {
             "full": [
-              26.342,
+              25.974,
               29.092
             ],
             "passage": [
-              0.103,
+              0.0,
               3.05
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "Seirei o shinjimasu.",
           "timing": {
             "full": [
-              29.895,
+              29.092,
               31.276
             ],
             "passage": [
-              0.103,
+              0.0,
               1.484
             ]
           }
@@ -322,11 +322,11 @@
           "phonetic": "seinaru fuhen no kyōkai,",
           "timing": {
             "full": [
-              32.118,
+              31.276,
               33.684
             ],
             "passage": [
-              2.329,
+              1.484,
               3.895
             ]
           }
@@ -337,11 +337,11 @@
           "phonetic": "seito no majiwari,",
           "timing": {
             "full": [
-              34.039,
+              33.684,
               35.145
             ],
             "passage": [
-              4.25,
+              3.895,
               5.342
             ]
           }
@@ -352,11 +352,11 @@
           "phonetic": "tsumi no yurushi,",
           "timing": {
             "full": [
-              35.447,
+              35.145,
               36.461
             ],
             "passage": [
-              5.645,
+              5.342,
               6.658
             ]
           }
@@ -367,11 +367,11 @@
           "phonetic": "nikutai no fukkatsu,",
           "timing": {
             "full": [
-              36.829,
+              36.461,
               38.105
             ],
             "passage": [
-              7.026,
+              6.658,
               8.303
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "eien no inochi o shinjimasu,",
           "timing": {
             "full": [
-              38.447,
+              38.105,
               40.303
             ],
             "passage": [
-              8.645,
+              8.303,
               10.513
             ]
           }
@@ -402,11 +402,11 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              40.645,
+              40.303,
               41.237
             ],
             "passage": [
-              0.103,
+              0.0,
               0.695
             ]
           }

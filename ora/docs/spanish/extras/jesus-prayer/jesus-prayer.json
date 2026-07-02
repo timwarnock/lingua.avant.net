@@ -17,11 +17,11 @@
           "phonetic": "Señor Jesucristo,",
           "timing": {
             "full": [
-              0.1,
+              0.0,
               1.337
             ],
             "passage": [
-              0.102,
+              0.0,
               1.298
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Hijo de Dios,",
           "timing": {
             "full": [
-              1.669,
+              1.337,
               2.387
             ],
             "passage": [
-              1.604,
+              1.298,
               2.415
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "ten piedad de mí,",
           "timing": {
             "full": [
-              2.653,
+              2.387,
               3.531
             ],
             "passage": [
-              0.1,
+              0.0,
               1.071
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "que soy un pecador.",
           "timing": {
             "full": [
-              3.77,
+              3.531,
               4.834
             ],
             "passage": [
-              1.337,
+              1.071,
               2.427
             ]
           }

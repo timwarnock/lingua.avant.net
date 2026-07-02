@@ -17,11 +17,11 @@
           "phonetic": "Oremos,",
           "timing": {
             "full": [
-              0.1,
+              0.0,
               0.738
             ],
             "passage": [
-              0.1,
+              0.0,
               0.898
             ]
           }
@@ -37,11 +37,11 @@
           "phonetic": "Oh Dios,",
           "timing": {
             "full": [
-              1.004,
+              0.738,
               1.443
             ],
             "passage": [
-              0.1,
+              0.0,
               0.712
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "cuyo Hijo unigénito,",
           "timing": {
             "full": [
-              1.709,
+              1.443,
               2.946
             ],
             "passage": [
-              0.964,
+              0.712,
               2.174
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "por su vida,",
           "timing": {
             "full": [
-              3.172,
+              2.946,
               3.77
             ],
             "passage": [
-              2.401,
+              2.174,
               3.012
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "muerte y resurrección,",
           "timing": {
             "full": [
-              4.129,
+              3.77,
               5.286
             ],
             "passage": [
-              3.371,
+              3.012,
               4.542
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "nos ha obtenido los premios,",
           "timing": {
             "full": [
-              5.526,
+              5.286,
               6.935
             ],
             "passage": [
-              4.781,
+              4.542,
               6.19
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "de la vida eterna,",
           "timing": {
             "full": [
-              7.271,
+              6.935,
               8.348
             ],
             "passage": [
-              6.528,
+              6.19,
               7.671
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "concédenos, te rogamos,",
           "timing": {
             "full": [
-              8.601,
+              8.348,
               10.329
             ],
             "passage": [
-              0.102,
+              0.0,
               1.937
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "que al meditar los misterios,",
           "timing": {
             "full": [
-              10.555,
+              10.329,
               12.018
             ],
             "passage": [
-              2.176,
+              1.937,
               3.612
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "del Santísimo Rosario de la Bienaventurada Virgen María,",
           "timing": {
             "full": [
-              12.337,
+              12.018,
               15.422
             ],
             "passage": [
-              3.852,
+              3.612,
               6.897
             ]
           }
@@ -182,11 +182,11 @@
           "phonetic": "imitemos lo que contienen,",
           "timing": {
             "full": [
-              15.728,
+              15.422,
               17.031
             ],
             "passage": [
-              0.102,
+              0.0,
               1.511
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "y alcancemos lo que prometen,",
           "timing": {
             "full": [
-              17.337,
+              17.031,
               19.013
             ],
             "passage": [
-              1.83,
+              1.511,
               3.399
             ]
           }
@@ -217,11 +217,11 @@
           "phonetic": "por el mismo Jesucristo, Señor nuestro,",
           "timing": {
             "full": [
-              19.265,
+              19.013,
               21.619
             ],
             "passage": [
-              0.1,
+              0.0,
               2.6
             ]
           }
@@ -237,11 +237,11 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              21.845,
+              21.619,
               22.337
             ],
             "passage": [
-              0.1,
+              0.0,
               0.592
             ]
           }
@@ -257,11 +257,11 @@
           "phonetic": "Sagrado Corazón de Jesús,",
           "timing": {
             "full": [
-              23.256,
+              22.337,
               24.865
             ],
             "passage": [
-              0.102,
+              0.0,
               1.684
             ]
           }
@@ -272,11 +272,11 @@
           "phonetic": "ten misericordia de nosotros,",
           "timing": {
             "full": [
-              25.105,
+              24.865,
               26.647
             ],
             "passage": [
-              1.923,
+              1.684,
               3.612
             ]
           }
@@ -292,11 +292,11 @@
           "phonetic": "Corazón Inmaculado de María,",
           "timing": {
             "full": [
-              26.887,
+              26.647,
               28.429
             ],
             "passage": [
-              0.102,
+              0.0,
               1.724
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "ruega por nosotros,",
           "timing": {
             "full": [
-              28.748,
+              28.429,
               29.959
             ],
             "passage": [
-              2.043,
+              1.724,
               3.253
             ]
           }

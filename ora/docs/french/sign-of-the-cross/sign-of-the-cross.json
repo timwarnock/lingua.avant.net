@@ -17,11 +17,11 @@
           "phonetic": "Au nom du Père,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.984
             ],
             "passage": [
-              0.103,
+              0.0,
               0.971
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "et du Fils,",
           "timing": {
             "full": [
-              1.339,
+              0.984,
               1.958
             ],
             "passage": [
-              1.313,
+              0.971,
               1.918
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "et du Saint-Esprit,",
           "timing": {
             "full": [
-              2.287,
+              1.958,
               3.142
             ],
             "passage": [
-              2.221,
+              1.918,
               3.129
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              3.445,
+              3.142,
               3.892
             ],
             "passage": [
-              0.101,
+              0.0,
               0.641
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "Prions,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.55
             ],
             "passage": [
-              0.103,
+              0.0,
               0.655
             ]
           }
@@ -37,11 +37,11 @@
           "phonetic": "Dieu,",
           "timing": {
             "full": [
-              0.918,
+              0.55,
               1.155
             ],
             "passage": [
-              0.103,
+              0.0,
               0.432
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "dont le Fils unique,",
           "timing": {
             "full": [
-              1.55,
+              1.155,
               2.497
             ],
             "passage": [
-              0.8,
+              0.432,
               1.747
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "par sa vie,",
           "timing": {
             "full": [
-              2.761,
+              2.497,
               3.353
             ],
             "passage": [
-              1.997,
+              1.747,
               2.589
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "sa mort et sa résurrection,",
           "timing": {
             "full": [
-              3.721,
+              3.353,
               5.116
             ],
             "passage": [
-              2.945,
+              2.589,
               4.379
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "nous a acquis le prix,",
           "timing": {
             "full": [
-              5.497,
+              5.116,
               6.458
             ],
             "passage": [
-              4.761,
+              4.379,
               5.721
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "de la vie éternelle,",
           "timing": {
             "full": [
-              6.8,
+              6.458,
               7.708
             ],
             "passage": [
-              5.997,
+              5.721,
               7.063
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "accordez-nous, nous vous en prions,",
           "timing": {
             "full": [
-              7.997,
+              7.708,
               9.8
             ],
             "passage": [
-              0.103,
+              0.0,
               2.037
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "qu'en méditant les mystères,",
           "timing": {
             "full": [
-              10.037,
+              9.8,
               11.366
             ],
             "passage": [
-              2.261,
+              2.037,
               3.59
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "du très saint Rosaire de la bienheureuse Vierge Marie,",
           "timing": {
             "full": [
-              11.734,
+              11.366,
               14.221
             ],
             "passage": [
-              3.958,
+              3.59,
               6.497
             ]
           }
@@ -182,11 +182,11 @@
           "phonetic": "nous imitions ce qu'ils contiennent,",
           "timing": {
             "full": [
-              14.642,
+              14.221,
               16.129
             ],
             "passage": [
-              0.103,
+              0.0,
               1.787
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "et obtenions ce qu'ils promettent,",
           "timing": {
             "full": [
-              16.497,
+              16.129,
               17.958
             ],
             "passage": [
-              2.142,
+              1.787,
               3.708
             ]
           }
@@ -217,11 +217,11 @@
           "phonetic": "Par le même Jésus-Christ notre Seigneur,",
           "timing": {
             "full": [
-              18.303,
+              17.958,
               20.513
             ],
             "passage": [
-              0.103,
+              0.0,
               2.366
             ]
           }
@@ -237,11 +237,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              20.803,
+              20.513,
               21.25
             ],
             "passage": [
-              0.101,
+              0.0,
               0.641
             ]
           }
@@ -257,11 +257,11 @@
           "phonetic": "Sacré-Cœur de Jésus,",
           "timing": {
             "full": [
-              22.158,
+              21.25,
               23.421
             ],
             "passage": [
-              0.103,
+              0.0,
               1.366
             ]
           }
@@ -272,11 +272,11 @@
           "phonetic": "ayez pitié de nous,",
           "timing": {
             "full": [
-              23.724,
+              23.421,
               24.684
             ],
             "passage": [
-              1.655,
+              1.366,
               2.589
             ]
           }
@@ -292,11 +292,11 @@
           "phonetic": "Cœur immaculé de Marie,",
           "timing": {
             "full": [
-              24.934,
+              24.684,
               26.158
             ],
             "passage": [
-              0.103,
+              0.0,
               1.392
             ]
           }
@@ -307,11 +307,11 @@
           "phonetic": "priez pour nous,",
           "timing": {
             "full": [
-              26.434,
+              26.158,
               27.184
             ],
             "passage": [
-              1.655,
+              1.392,
               2.432
             ]
           }

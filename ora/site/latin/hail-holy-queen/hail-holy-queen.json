@@ -17,11 +17,11 @@
           "phonetic": "Salve, Regina,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               1.682
             ],
             "passage": [
-              0.109,
+              0.0,
               1.682
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "mater misericordiae;",
           "timing": {
             "full": [
-              2.035,
+              1.682,
               3.535
             ],
             "passage": [
-              2.035,
+              1.682,
               3.535
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "vita, dulcedo",
           "timing": {
             "full": [
-              3.844,
+              3.535,
               5.55
             ],
             "passage": [
-              3.844,
+              3.535,
               5.55
             ]
           }
@@ -62,11 +62,11 @@
           "phonetic": "et spes nostra,",
           "timing": {
             "full": [
-              5.565,
+              5.55,
               6.726
             ],
             "passage": [
-              5.565,
+              5.55,
               6.726
             ]
           }
@@ -77,11 +77,11 @@
           "phonetic": "salve.",
           "timing": {
             "full": [
-              6.962,
+              6.726,
               7.609
             ],
             "passage": [
-              6.962,
+              6.726,
               7.609
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Ad te clamamus",
           "timing": {
             "full": [
-              8.662,
+              7.609,
               9.735
             ],
             "passage": [
-              0.109,
+              0.0,
               1.182
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "exsules filii Hevae.",
           "timing": {
             "full": [
-              9.75,
+              9.735,
               11.323
             ],
             "passage": [
-              1.197,
+              1.182,
               2.771
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "Ad te suspiramus",
           "timing": {
             "full": [
-              12.368,
+              11.323,
               13.588
             ],
             "passage": [
-              0.109,
+              0.0,
               1.329
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "gementes et flentes",
           "timing": {
             "full": [
-              13.603,
+              13.588,
               15.162
             ],
             "passage": [
-              1.344,
+              1.329,
               2.903
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "in hac lacrimarum valle.",
           "timing": {
             "full": [
-              15.176,
+              15.162,
               16.779
             ],
             "passage": [
-              2.918,
+              2.903,
               4.521
             ]
           }
@@ -182,11 +182,11 @@
           "phonetic": "Eia ergo,",
           "timing": {
             "full": [
-              17.824,
+              16.779,
               18.691
             ],
             "passage": [
-              0.109,
+              0.0,
               0.976
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "advocata nostra,",
           "timing": {
             "full": [
-              18.868,
+              18.691,
               20.103
             ],
             "passage": [
-              1.153,
+              0.976,
               2.388
             ]
           }
@@ -212,11 +212,11 @@
           "phonetic": "illos tuos misericordes oculos ad nos converte.",
           "timing": {
             "full": [
-              20.265,
+              20.103,
               23.941
             ],
             "passage": [
-              2.55,
+              2.388,
               6.226
             ]
           }
@@ -232,11 +232,11 @@
           "phonetic": "Et Iesum,",
           "timing": {
             "full": [
-              24.985,
+              23.941,
               25.765
             ],
             "passage": [
-              0.109,
+              0.0,
               0.888
             ]
           }
@@ -247,11 +247,11 @@
           "phonetic": "benedictum fructum ventris tui,",
           "timing": {
             "full": [
-              26.044,
+              25.765,
               28.441
             ],
             "passage": [
-              1.168,
+              0.888,
               3.565
             ]
           }
@@ -262,11 +262,11 @@
           "phonetic": "nobis post hoc exsilium",
           "timing": {
             "full": [
-              28.603,
+              28.441,
               30.353
             ],
             "passage": [
-              3.726,
+              3.565,
               5.476
             ]
           }
@@ -277,11 +277,11 @@
           "phonetic": "ostende.",
           "timing": {
             "full": [
-              30.368,
+              30.353,
               31.103
             ],
             "passage": [
-              5.491,
+              5.476,
               6.226
             ]
           }
@@ -297,11 +297,11 @@
           "phonetic": "O clemens,",
           "timing": {
             "full": [
-              32.13,
+              31.103,
               33.057
             ],
             "passage": [
-              0.107,
+              0.0,
               1.033
             ]
           }
@@ -312,11 +312,11 @@
           "phonetic": "o pia,",
           "timing": {
             "full": [
-              33.41,
+              33.057,
               34.057
             ],
             "passage": [
-              1.386,
+              1.033,
               2.033
             ]
           }
@@ -327,11 +327,11 @@
           "phonetic": "o dulcis Virgo Maria.",
           "timing": {
             "full": [
-              34.38,
+              34.057,
               36.189
             ],
             "passage": [
-              2.357,
+              2.033,
               4.165
             ]
           }
@@ -347,11 +347,11 @@
           "phonetic": "Ora pro nobis,",
           "timing": {
             "full": [
-              37.221,
+              36.189,
               38.323
             ],
             "passage": [
-              0.109,
+              0.0,
               1.212
             ]
           }
@@ -362,11 +362,11 @@
           "phonetic": "sancta Dei Genitrix.",
           "timing": {
             "full": [
-              38.618,
+              38.323,
               40.294
             ],
             "passage": [
-              1.506,
+              1.212,
               3.182
             ]
           }
@@ -382,11 +382,11 @@
           "phonetic": "Ut digni efficiamur promissionibus Christi.",
           "timing": {
             "full": [
-              41.324,
+              40.294,
               44.353
             ],
             "passage": [
-              0.109,
+              0.0,
               3.138
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "O mi Iesu,",
           "timing": {
             "full": [
-              0.107,
+              0.0,
               0.842
             ],
             "passage": [
-              0.107,
+              0.0,
               0.857
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "dimitte nobis peccata nostra,",
           "timing": {
             "full": [
-              1.136,
+              0.842,
               3.195
             ],
             "passage": [
-              1.165,
+              0.857,
               3.342
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "libera nos ab igne inferni,",
           "timing": {
             "full": [
-              3.46,
+              3.195,
               5.445
             ],
             "passage": [
-              0.109,
+              0.0,
               2.153
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "perduc omnes ad caelum,",
           "timing": {
             "full": [
-              5.577,
+              5.445,
               7.224
             ],
             "passage": [
-              0.109,
+              0.0,
               1.962
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "praesertim eos qui maxime indigent misericordia tua,",
           "timing": {
             "full": [
-              7.544,
+              7.224,
               11.353
             ],
             "passage": [
-              0.109,
+              0.0,
               3.844
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              11.647,
+              11.353,
               12.132
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }

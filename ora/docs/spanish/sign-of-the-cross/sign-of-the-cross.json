@@ -17,11 +17,11 @@
           "phonetic": "En el nombre del Padre,",
           "timing": {
             "full": [
-              0.102,
+              0.0,
               1.325
             ],
             "passage": [
-              0.102,
+              0.0,
               1.312
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "y del Hijo,",
           "timing": {
             "full": [
-              1.551,
+              1.325,
               2.136
             ],
             "passage": [
-              1.524,
+              1.312,
               2.083
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "y del Espíritu Santo,",
           "timing": {
             "full": [
-              2.469,
+              2.136,
               3.652
             ],
             "passage": [
-              2.402,
+              2.083,
               3.679
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              3.852,
+              3.652,
               4.383
             ],
             "passage": [
-              0.1,
+              0.0,
               0.592
             ]
           }

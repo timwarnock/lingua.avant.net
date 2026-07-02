@@ -17,11 +17,11 @@
           "phonetic": "Wǒ de Yē sū,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.892
             ],
             "passage": [
-              0.103,
+              0.0,
               0.892
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "qǐng kuān shù wǒ men de zuì guò,",
           "timing": {
             "full": [
-              1.168,
+              0.892,
               2.563
             ],
             "passage": [
-              1.155,
+              0.892,
               2.616
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "jiù wǒ men miǎn dì yù yǒng huǒ.",
           "timing": {
             "full": [
-              2.774,
+              2.563,
               4.313
             ],
             "passage": [
-              0.103,
+              0.0,
               1.918
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "qiú nǐ bǎ zhòng rén de líng hún,",
           "timing": {
             "full": [
-              4.921,
+              4.313,
               6.566
             ],
             "passage": [
-              0.103,
+              0.0,
               1.813
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "tè bié shì nà xiē zuì xū yào nǐ lián mǐn de líng hún, lǐng dào tiān guó lǐ qù.",
           "timing": {
             "full": [
-              6.842,
+              6.566,
               10.987
             ],
             "passage": [
-              0.103,
+              0.0,
               4.313
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Ā men.",
           "timing": {
             "full": [
-              11.579,
+              10.987,
               12.118
             ],
             "passage": [
-              0.103,
+              0.0,
               0.642
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "Em nome do Pai,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.997
             ],
             "passage": [
-              0.103,
+              0.0,
               0.971
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "e do Filho,",
           "timing": {
             "full": [
-              1.168,
+              0.997,
               1.839
             ],
             "passage": [
-              1.142,
+              0.971,
               1.8
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "e do Espírito Santo,",
           "timing": {
             "full": [
-              1.879,
+              1.839,
               3.116
             ],
             "passage": [
-              1.853,
+              1.8,
               3.063
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              3.168,
+              3.116,
               3.537
             ],
             "passage": [
-              0.103,
+              0.0,
               0.563
             ]
           }

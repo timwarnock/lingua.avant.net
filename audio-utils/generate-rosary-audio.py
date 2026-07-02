@@ -59,11 +59,13 @@ def get_segment_text(seg, tts_input):
 
 
 async def main():
-    if len(sys.argv) != 2:
-        print("Usage: python audio-utils/generate-rosary-audio.py <path/to/prayer.json>")
+    if len(sys.argv) < 2 or len(sys.argv) > 3 or (len(sys.argv) == 3 and sys.argv[2] != "--timings-only"):
+        print("Usage: python audio-utils/generate-rosary-audio.py <path/to/prayer.json> [--timings-only]")
+        print("  --timings-only : update only the timing data in the JSON (skip writing audio files)")
         sys.exit(1)
 
     json_path = sys.argv[1]
+    timings_only = len(sys.argv) == 3 and sys.argv[2] == "--timings-only"
     if not os.path.exists(json_path):
         print(f"JSON not found: {json_path}")
         sys.exit(1)
@@ -111,10 +113,13 @@ async def main():
 
     out_dir = os.path.dirname(os.path.abspath(json_path))
 
-    print(f"Generating from {json_path} using voice={voice} rate={rate} input={tts_input} ...")
+    mode = " (timings only)" if timings_only else ""
+    print(f"Generating from {json_path} using voice={voice} rate={rate} input={tts_input}{mode} ...")
 
     async def generate(key, text):
         """Plain save (used for individual segments)."""
+        if timings_only:
+            return
         if key == "full":
             filename = f"{prayer_id}.mp3"
         else:
@@ -143,7 +148,8 @@ async def main():
         word_events = []
         async for msg in communicate.stream():
             if msg["type"] == "audio":
-                audio_chunks.append(msg["data"])
+                if not timings_only:
+                    audio_chunks.append(msg["data"])
             elif msg["type"] == "WordBoundary":
                 offset = msg.get("offset", 0)
                 dur = msg.get("duration", 0)
@@ -152,10 +158,13 @@ async def main():
                     "start": offset / 10_000_000.0,
                     "end": (offset + dur) / 10_000_000.0
                 })
-        audio_bytes = b"".join(audio_chunks)
-        with open(out_path, "wb") as f:
-            f.write(audio_bytes)
-        print(f"  -> {out_path}")
+        if not timings_only:
+            audio_bytes = b"".join(audio_chunks)
+            with open(out_path, "wb") as f:
+                f.write(audio_bytes)
+            print(f"  -> {out_path}")
+        else:
+            print(f"  (timings only) {out_path}")
 
         return assign_segment_timings(word_events, segs_for_this, lang, joined_text=joined)
 
@@ -234,21 +243,27 @@ async def main():
                 frac = (send - bstart) / (bend - bstart) if (bend - bstart) > 0 else 0
                 et = word_events[k_end]['start'] + frac * (word_events[k_end]['end'] - word_events[k_end]['start'])
             timings[sid] = [round(max(0, st), 3), round(et, 3)]
-        # Post-process for nicer segment-level behavior:
-        # - first segment starts at 0.0 (highlight as soon as play begins)
-        # - make ranges abutted at the *actual* start time of the next segment
-        #   (so previous holds through any pause until next segment's voice actually begins)
+        # Post-process:
+        # - first segment always starts at 0.0
+        # - each segment's highlight range ends at its own spoken end (when its audio actually finishes)
+        # - the following segment's range starts immediately at the previous segment's spoken end
+        # This means: as soon as the current segment's audio finishes, the highlight advances
+        # to the *next* segment right away (even during any silence/pause before the next words begin).
+        # This moves the learner's attention forward promptly instead of lingering on finished text.
         ordered = [sid for sid, _ in segs]
         if ordered:
             timings[ordered[0]][0] = 0.0
             for i in range(len(ordered) - 1):
-                timings[ordered[i]][1] = timings[ordered[i+1]][0]
-            # last keeps its computed end (or could force to total_time, but end of its last word is fine)
+                prev_end = timings[ordered[i]][1]  # spoken end of previous
+                timings[ordered[i+1]][0] = prev_end
+            # ends stay at each segment's raw spoken end
+            # last keeps its spoken end
         return timings
 
     # 1. Generate every segment (plain, no intra-segment timing needed)
-    for sid, txt in segment_list:
-        await generate(sid, txt)
+    if not timings_only:
+        for sid, txt in segment_list:
+            await generate(sid, txt)
 
     # 2. Passages (timed synthesis for natural audio + accurate segment ranges relative to passage file)
     passage_timings = {}

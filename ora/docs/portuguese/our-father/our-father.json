@@ -17,11 +17,11 @@
           "phonetic": "Pai nosso,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.747
             ],
             "passage": [
-              0.103,
+              0.0,
               0.721
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "que estais nos céus,",
           "timing": {
             "full": [
-              0.787,
+              0.747,
               1.866
             ],
             "passage": [
-              0.747,
+              0.721,
               1.813
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "santificado seja o vosso nome;",
           "timing": {
             "full": [
-              2.063,
+              1.866,
               3.945
             ],
             "passage": [
-              1.971,
+              1.813,
               3.932
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "venha a nós o vosso reino.",
           "timing": {
             "full": [
-              4.247,
+              3.945,
               5.682
             ],
             "passage": [
-              0.103,
+              0.0,
               1.629
             ]
           }
@@ -87,11 +87,11 @@
           "phonetic": "seja feita a vossa vontade, assim na terra como no céu.",
           "timing": {
             "full": [
-              5.961,
+              5.682,
               9.289
             ],
             "passage": [
-              0.103,
+              0.0,
               3.432
             ]
           }
@@ -107,11 +107,11 @@
           "phonetic": "O pão nosso de cada dia nos dai hoje,",
           "timing": {
             "full": [
-              9.566,
+              9.289,
               11.895
             ],
             "passage": [
-              0.103,
+              0.0,
               2.418
             ]
           }
@@ -127,11 +127,11 @@
           "phonetic": "perdoai-nos as nossas ofensas,",
           "timing": {
             "full": [
-              12.013,
+              11.895,
               13.855
             ],
             "passage": [
-              0.103,
+              0.0,
               1.997
             ]
           }
@@ -142,11 +142,11 @@
           "phonetic": "assim como nós perdoamos a quem nos tem ofendido;",
           "timing": {
             "full": [
-              14.039,
+              13.855,
               16.842
             ],
             "passage": [
-              2.182,
+              1.997,
               5.024
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "e não nos deixeis cair em tentação,",
           "timing": {
             "full": [
-              17.092,
+              16.842,
               19.145
             ],
             "passage": [
-              0.103,
+              0.0,
               2.155
             ]
           }
@@ -177,11 +177,11 @@
           "phonetic": "mas livrai-nos do mal,",
           "timing": {
             "full": [
-              19.421,
+              19.145,
               20.658
             ],
             "passage": [
-              2.353,
+              2.155,
               3.589
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              20.829,
+              20.658,
               21.289
             ],
             "passage": [
-              0.103,
+              0.0,
               0.563
             ]
           }

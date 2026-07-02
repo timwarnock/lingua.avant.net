@@ -17,11 +17,11 @@
           "phonetic": "Ten ni orareru",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               0.853
             ],
             "passage": [
-              0.103,
+              0.0,
               0.853
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "mina ga sei to saremasu yō ni.",
           "timing": {
             "full": [
-              2.405,
+              2.01,
               4.129
             ],
             "passage": [
-              2.405,
+              2.01,
               4.129
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Mikuni ga kimasu yō ni.",
           "timing": {
             "full": [
-              4.961,
+              4.129,
               6.316
             ],
             "passage": [
-              0.103,
+              0.0,
               1.458
             ]
           }
@@ -87,11 +87,11 @@
           "phonetic": "Mikokoro ga ten ni okonawareru tōri chi ni mo okonawaremasu yō ni.",
           "timing": {
             "full": [
-              7.158,
+              6.316,
               10.645
             ],
             "passage": [
-              0.103,
+              0.0,
               3.589
             ]
           }
@@ -107,11 +107,11 @@
           "phonetic": "Watashitachi no higoto no kate o kyō mo oataekudasai.",
           "timing": {
             "full": [
-              11.474,
+              10.645,
               14.342
             ],
             "passage": [
-              0.103,
+              0.0,
               2.971
             ]
           }
@@ -127,11 +127,11 @@
           "phonetic": "Watashitachi no tsumi o oyurushikudasai.",
           "timing": {
             "full": [
-              15.197,
+              14.342,
               17.224
             ],
             "passage": [
-              0.103,
+              0.0,
               2.129
             ]
           }
@@ -142,11 +142,11 @@
           "phonetic": "Watashitachi mo hito o yurushimasu.",
           "timing": {
             "full": [
-              18.079,
+              17.224,
               19.908
             ],
             "passage": [
-              2.987,
+              2.129,
               4.816
             ]
           }
@@ -162,11 +162,11 @@
           "phonetic": "Watashitachi o yūwaku ni ochiirasezu,",
           "timing": {
             "full": [
-              20.75,
+              19.908,
               22.855
             ],
             "passage": [
-              0.103,
+              0.0,
               2.208
             ]
           }
@@ -177,11 +177,11 @@
           "phonetic": "aku kara o suikudasai,",
           "timing": {
             "full": [
-              23.171,
+              22.855,
               24.684
             ],
             "passage": [
-              2.537,
+              2.208,
               4.024
             ]
           }
@@ -197,11 +197,11 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              24.987,
+              24.684,
               25.592
             ],
             "passage": [
-              0.103,
+              0.0,
               0.695
             ]
           }

@@ -17,11 +17,11 @@
           "phonetic": "Chwała Ojcu i Synowi,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               1.603
             ],
             "passage": [
-              0.103,
+              0.0,
               1.603
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "i Duchowi Świętemu.",
           "timing": {
             "full": [
-              1.708,
+              1.603,
               2.839
             ],
             "passage": [
-              1.708,
+              1.603,
               2.839
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "Jak była na początku,",
           "timing": {
             "full": [
-              3.802,
+              2.839,
               5.052
             ],
             "passage": [
-              0.102,
+              0.0,
               1.352
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "teraz i zawsze,",
           "timing": {
             "full": [
-              5.118,
+              5.052,
               6.078
             ],
             "passage": [
-              1.444,
+              1.352,
               2.418
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "i na wieki wieków,",
           "timing": {
             "full": [
-              6.184,
+              6.078,
               7.197
             ],
             "passage": [
-              2.562,
+              2.418,
               3.641
             ]
           }
@@ -102,11 +102,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              7.341,
+              7.197,
               7.776
             ],
             "passage": [
-              0.102,
+              0.0,
               0.51
             ]
           }

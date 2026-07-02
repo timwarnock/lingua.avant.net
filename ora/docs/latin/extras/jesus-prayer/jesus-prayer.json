@@ -17,11 +17,11 @@
           "phonetic": "Domine Iesu Christe,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               1.726
             ],
             "passage": [
-              0.109,
+              0.0,
               1.682
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "Fili Dei,",
           "timing": {
             "full": [
-              2.05,
+              1.726,
               2.829
             ],
             "passage": [
-              2.006,
+              1.682,
               2.815
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "miserere mei,",
           "timing": {
             "full": [
-              3.197,
+              2.829,
               4.271
             ],
             "passage": [
-              0.109,
+              0.0,
               1.256
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "peccatoris.",
           "timing": {
             "full": [
-              4.609,
+              4.271,
               5.682
             ],
             "passage": [
-              1.579,
+              1.256,
               2.697
             ]
           }

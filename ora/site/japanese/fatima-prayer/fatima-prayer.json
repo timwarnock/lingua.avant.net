@@ -17,11 +17,11 @@
           "phonetic": "Ō, watashi no Iesu yo,",
           "timing": {
             "full": [
-              0.103,
+              0.0,
               1.879
             ],
             "passage": [
-              0.103,
+              0.0,
               1.879
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "watashitachi no tsumi o yurushite kudasai.",
           "timing": {
             "full": [
-              2.195,
+              1.879,
               4.247
             ],
             "passage": [
-              2.195,
+              1.879,
               4.247
             ]
           }
@@ -52,11 +52,11 @@
           "phonetic": "watashitachi o jigoku no hi kara o suikudasai.",
           "timing": {
             "full": [
-              5.105,
+              4.247,
               7.645
             ],
             "passage": [
-              0.103,
+              0.0,
               2.642
             ]
           }
@@ -72,11 +72,11 @@
           "phonetic": "subete no tamashii o tengoku ni michibiite kudasai.",
           "timing": {
             "full": [
-              8.5,
+              7.645,
               11.329
             ],
             "passage": [
-              0.103,
+              0.0,
               2.932
             ]
           }
@@ -92,11 +92,11 @@
           "phonetic": "toku ni anata no awaremi o mottomo hitsuyō to suru tamashii o,",
           "timing": {
             "full": [
-              12.197,
+              11.329,
               15.474
             ],
             "passage": [
-              0.103,
+              0.0,
               3.418
             ]
           }
@@ -112,11 +112,11 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              15.697,
+              15.474,
               16.276
             ],
             "passage": [
-              0.103,
+              0.0,
               0.695
             ]
           }

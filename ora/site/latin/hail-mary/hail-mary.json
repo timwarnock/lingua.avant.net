@@ -17,11 +17,11 @@
           "phonetic": "Ave Maria,",
           "timing": {
             "full": [
-              0.109,
+              0.0,
               0.962
             ],
             "passage": [
-              0.109,
+              0.0,
               0.962
             ]
           }
@@ -32,11 +32,11 @@
           "phonetic": "gratia plena,",
           "timing": {
             "full": [
-              1.285,
+              0.962,
               2.271
             ],
             "passage": [
-              1.285,
+              0.962,
               2.271
             ]
           }
@@ -47,11 +47,11 @@
           "phonetic": "Dominus tecum.",
           "timing": {
             "full": [
-              2.653,
+              2.271,
               3.991
             ],
             "passage": [
-              2.653,
+              2.271,
               3.991
             ]
           }
@@ -67,11 +67,11 @@
           "phonetic": "Benedicta tu in mulieribus,",
           "timing": {
             "full": [
-              5.029,
+              3.991,
               6.971
             ],
             "passage": [
-              0.109,
+              0.0,
               2.05
             ]
           }
@@ -82,11 +82,11 @@
           "phonetic": "et benedictus fructus ventris tui,",
           "timing": {
             "full": [
-              7.324,
+              6.971,
               9.956
             ],
             "passage": [
-              2.403,
+              2.05,
               5.035
             ]
           }
@@ -97,11 +97,11 @@
           "phonetic": "Iesus.",
           "timing": {
             "full": [
-              10.103,
+              9.956,
               10.926
             ],
             "passage": [
-              5.182,
+              5.035,
               6.006
             ]
           }
@@ -117,11 +117,11 @@
           "phonetic": "Sancta Maria,",
           "timing": {
             "full": [
-              11.971,
+              10.926,
               12.912
             ],
             "passage": [
-              0.109,
+              0.0,
               1.05
             ]
           }
@@ -132,11 +132,11 @@
           "phonetic": "Mater Dei,",
           "timing": {
             "full": [
-              13.206,
+              12.912,
               14.132
             ],
             "passage": [
-              1.374,
+              1.05,
               2.315
             ]
           }
@@ -147,11 +147,11 @@
           "phonetic": "ora pro nobis peccatoribus,",
           "timing": {
             "full": [
-              14.485,
+              14.132,
               16.426
             ],
             "passage": [
-              2.682,
+              2.315,
               4.815
             ]
           }
@@ -167,11 +167,11 @@
           "phonetic": "nunc et in hora mortis nostrae,",
           "timing": {
             "full": [
-              16.794,
+              16.426,
               18.75
             ],
             "passage": [
-              0.109,
+              0.0,
               2.168
             ]
           }
@@ -187,11 +187,11 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              18.912,
+              18.75,
               19.368
             ],
             "passage": [
-              0.109,
+              0.0,
               0.859
             ]
           }
