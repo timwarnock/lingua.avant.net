@@ -1,0 +1,22 @@
+{
+  "id": "luminous3",
+  "lang": "greek",
+  "title": "Τρίτο Φωτεινό Μυστήριο, το Κήρυγμα της Βασιλείας",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Τρίτο Φωτεινό Μυστήριο, το Κήρυγμα της Βασιλείας.",
+          "phonetic": "Τρίτο Φωτεινό Μυστήριο, το Κήρυγμα της Βασιλείας."
+        }
+      ]
+    }
+  ]
+}

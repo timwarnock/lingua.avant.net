@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "spanish",
+  "title": "El Quinto Misterio Gozoso, el Hallazgo de Jesús en el Templo",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Quinto Misterio Gozoso, el Hallazgo de Jesús en el Templo.",
+          "phonetic": "El Quinto Misterio Gozoso, el Hallazgo de Jesús en el Templo."
+        }
+      ]
+    }
+  ]
+}

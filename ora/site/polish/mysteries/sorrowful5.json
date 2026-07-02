@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful5",
+  "lang": "polish",
+  "title": "Piąta Tajemnica Bolesna, Ukrzyżowanie",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Piąta Tajemnica Bolesna, Ukrzyżowanie.",
+          "phonetic": "Piąta Tajemnica Bolesna, Ukrzyżowanie."
+        }
+      ]
+    }
+  ]
+}

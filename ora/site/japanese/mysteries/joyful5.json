@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "japanese",
+  "title": "第五の喜びの玄義、神殿での発見",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第五の喜びの玄義、神殿での発見.",
+          "phonetic": "第五の喜びの玄義、神殿での発見."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful4",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá.",
+          "phonetic": "Mầu Nhiệm Thương Thứ Tư, Vác Thánh Giá."
+        }
+      ]
+    }
+  ]
+}

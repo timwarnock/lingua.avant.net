@@ -54,16 +54,25 @@ let showPhonetic = false; // default to hide secondary/phonetic (toggleable)
 
 let titlesCache = {};
 
+function getCurrentDir() {
+  let url = window.location.href.split('#')[0].split('?')[0];
+  if (!url.endsWith('/')) {
+    url = url.substring(0, url.lastIndexOf('/') + 1);
+  }
+  return url;
+}
+
 async function preloadRosaryTitles() {
   const set = getActiveSet();
 
   // Fixed prayers used in the rosary
   const fixed = ['sign-of-the-cross', 'apostles-creed', 'our-father', 'hail-mary', 'glory-be', 'fatima-prayer', 'hail-holy-queen'];
+  const base = getCurrentDir();
   for (const id of fixed) {
     const p = `${id}/${id}.json`;
     if (!titlesCache[p]) {
       try {
-        const r = await fetch(p);
+        const r = await fetch(new URL(p, base).href);
         const d = await r.json();
         titlesCache[p] = d.title || id;
       } catch (e) {
@@ -76,7 +85,7 @@ async function preloadRosaryTitles() {
   const rp = 'hail-holy-queen/rosary-prayer.json';
   if (!titlesCache[rp]) {
     try {
-      const r = await fetch(rp);
+      const r = await fetch(new URL(rp, base).href);
       const d = await r.json();
       titlesCache[rp] = d.title || 'Rosary Prayer';
     } catch (e) {
@@ -90,7 +99,7 @@ async function preloadRosaryTitles() {
     const p = `mysteries/${mid}.json`;
     if (!titlesCache[p]) {
       try {
-        const r = await fetch(p);
+        const r = await fetch(new URL(p, base).href);
         const d = await r.json();
         titlesCache[p] = d.title || `Mystery ${d + 1}`;
       } catch (e) {
@@ -218,11 +227,15 @@ function loadCurrentViewer() {
   v.className = 'rosary-prayer-view';
   viewer.appendChild(v);
 
+  // Resolve jsonPath relative to current dir to ensure correct path even without trailing /
+  const baseDir = getCurrentDir();
+  const jsonPath = info.jsonPath ? new URL(info.jsonPath, baseDir).href : null;
+
   // Use the exposed createPrayerApp (embedded: no internal header)
   const create = window.createPrayerApp || (window.createApp); // fallback if any
-  if (typeof create === 'function' && info.jsonPath) {
+  if (typeof create === 'function' && jsonPath) {
     try {
-      create(v, { jsonPath: info.jsonPath, embedded: true, hideSecondary: !showPhonetic });
+      create(v, { jsonPath: jsonPath, embedded: true, hideSecondary: !showPhonetic });
     } catch (e) {
       v.innerHTML = `<em>Unable to load view for ${info.label}.</em>`;
     }
@@ -257,25 +270,20 @@ function playFullForCurrent(onEnded) {
   const info = getStepInfo(current);
   if (!info.jsonPath) return;
 
-  // Compute the audio file url same way as player does: base + id + .mp3
-  // For mysteries: mysteries/joyful1.mp3
-  // For normal: e.g. hail-mary/hail-mary.mp3
-  // For special rosary-prayer: hail-holy-queen/rosary-prayer.mp3
-  let base = '';
-  let audioId = '';
+  // Compute the audio file url relative to current dir (robust even without trailing / on page url)
+  const baseDir = getCurrentDir();
+  let relPath = '';
   if (info.kind === 'mystery') {
-    audioId = info.mysteryId || info.jsonPath.split('/').pop().replace('.json','');
-    base = `mysteries/`;
+    const audioId = info.mysteryId || info.jsonPath.split('/').pop().replace('.json','');
+    relPath = `mysteries/${audioId}.mp3`;
   } else if (info.jsonPath.includes('/rosary-prayer.json')) {
-    audioId = 'rosary-prayer';
-    base = `hail-holy-queen/`;
+    relPath = `hail-holy-queen/rosary-prayer.mp3`;
   } else {
     const id = info.jsonPath.split('/')[0];
-    audioId = id;
-    base = `${id}/`;
+    relPath = `${id}/${id}.mp3`;
   }
 
-  const audioUrl = `${base}${audioId}.mp3`;
+  const audioUrl = new URL(relPath, baseDir).href;
 
   currentFullAudio = new Audio(audioUrl);
   currentFullAudio.preload = 'auto';

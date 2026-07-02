@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful5",
+  "lang": "latin",
+  "title": "Quintum Mysterium Dolorosum, Crucifixio",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quintum Mysterium Dolorosum, Crucifixio.",
+          "phonetic": "Quintum Mysterium Dolorosum, Crucifixio."
+        }
+      ]
+    }
+  ]
+}

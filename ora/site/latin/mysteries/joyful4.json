@@ -1,0 +1,22 @@
+{
+  "id": "joyful4",
+  "lang": "latin",
+  "title": "Quartum Mysterium Gaudiosum, Praesentatio",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quartum Mysterium Gaudiosum, Praesentatio.",
+          "phonetic": "Quartum Mysterium Gaudiosum, Praesentatio."
+        }
+      ]
+    }
+  ]
+}

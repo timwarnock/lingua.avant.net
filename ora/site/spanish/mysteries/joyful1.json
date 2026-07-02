@@ -1,0 +1,22 @@
+{
+  "id": "joyful1",
+  "lang": "spanish",
+  "title": "El Primer Misterio Gozoso, la Anunciación",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Primer Misterio Gozoso, la Anunciación.",
+          "phonetic": "El Primer Misterio Gozoso, la Anunciación."
+        }
+      ]
+    }
+  ]
+}

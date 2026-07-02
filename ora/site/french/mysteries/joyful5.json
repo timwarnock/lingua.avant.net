@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "french",
+  "title": "Cinquième Mystère Joyeux, le Recouvrement de Jésus au Temple",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Cinquième Mystère Joyeux, le Recouvrement de Jésus au Temple.",
+          "phonetic": "Cinquième Mystère Joyeux, le Recouvrement de Jésus au Temple."
+        }
+      ]
+    }
+  ]
+}

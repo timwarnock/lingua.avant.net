@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "portuguese",
+  "title": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora.",
+          "phonetic": "Quinto Mistério Glorioso, a Coroação de Nossa Senhora."
+        }
+      ]
+    }
+  ]
+}

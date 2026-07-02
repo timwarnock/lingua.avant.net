@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "chinese",
+  "title": "第一端痛苦奧蹟，耶穌山園祈禱",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第一端痛苦奧蹟，耶穌山園祈禱.",
+          "phonetic": "第一端痛苦奧蹟，耶穌山園祈禱."
+        }
+      ]
+    }
+  ]
+}

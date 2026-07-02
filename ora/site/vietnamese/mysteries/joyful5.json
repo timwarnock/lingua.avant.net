@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh.",
+          "phonetic": "Mầu Nhiệm Vui Thứ Năm, Tìm Lại Chúa Giêsu trong Đền Thánh."
+        }
+      ]
+    }
+  ]
+}

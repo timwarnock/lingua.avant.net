@@ -1,0 +1,22 @@
+{
+  "id": "glorious3",
+  "lang": "japanese",
+  "title": "第三の栄光の玄義、聖霊降臨",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第三の栄光の玄義、聖霊降臨.",
+          "phonetic": "第三の栄光の玄義、聖霊降臨."
+        }
+      ]
+    }
+  ]
+}

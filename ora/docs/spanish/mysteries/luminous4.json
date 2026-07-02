@@ -1,0 +1,22 @@
+{
+  "id": "luminous4",
+  "lang": "spanish",
+  "title": "El Cuarto Misterio Luminoso, la Transfiguración",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Cuarto Misterio Luminoso, la Transfiguración.",
+          "phonetic": "El Cuarto Misterio Luminoso, la Transfiguración."
+        }
+      ]
+    }
+  ]
+}

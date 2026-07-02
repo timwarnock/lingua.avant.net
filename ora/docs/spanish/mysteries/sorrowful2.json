@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful2",
+  "lang": "spanish",
+  "title": "El Segundo Misterio Doloroso, la Flagelación",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Segundo Misterio Doloroso, la Flagelación.",
+          "phonetic": "El Segundo Misterio Doloroso, la Flagelación."
+        }
+      ]
+    }
+  ]
+}

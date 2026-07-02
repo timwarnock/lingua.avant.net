@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "japanese",
+  "title": "第五の栄光の玄義、戴冠",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第五の栄光の玄義、戴冠.",
+          "phonetic": "第五の栄光の玄義、戴冠."
+        }
+      ]
+    }
+  ]
+}

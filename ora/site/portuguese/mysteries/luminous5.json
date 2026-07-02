@@ -1,0 +1,22 @@
+{
+  "id": "luminous5",
+  "lang": "portuguese",
+  "title": "Quinto Mistério Luminoso, a Instituição da Eucaristia",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quinto Mistério Luminoso, a Instituição da Eucaristia.",
+          "phonetic": "Quinto Mistério Luminoso, a Instituição da Eucaristia."
+        }
+      ]
+    }
+  ]
+}

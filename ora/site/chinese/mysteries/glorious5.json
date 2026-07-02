@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "chinese",
+  "title": "第五端榮耀奧蹟，聖母榮受加冕",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第五端榮耀奧蹟，聖母榮受加冕.",
+          "phonetic": "第五端榮耀奧蹟，聖母榮受加冕."
+        }
+      ]
+    }
+  ]
+}

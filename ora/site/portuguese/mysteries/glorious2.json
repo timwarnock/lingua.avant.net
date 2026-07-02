@@ -1,0 +1,22 @@
+{
+  "id": "glorious2",
+  "lang": "portuguese",
+  "title": "Segundo Mistério Glorioso, a Ascensão",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Segundo Mistério Glorioso, a Ascensão.",
+          "phonetic": "Segundo Mistério Glorioso, a Ascensão."
+        }
+      ]
+    }
+  ]
+}

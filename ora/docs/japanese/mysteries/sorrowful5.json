@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful5",
+  "lang": "japanese",
+  "title": "第五の苦しみの玄義、十字架につけられる",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第五の苦しみの玄義、十字架につけられる.",
+          "phonetic": "第五の苦しみの玄義、十字架につけられる."
+        }
+      ]
+    }
+  ]
+}

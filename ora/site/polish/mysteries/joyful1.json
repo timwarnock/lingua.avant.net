@@ -1,0 +1,22 @@
+{
+  "id": "joyful1",
+  "lang": "polish",
+  "title": "Pierwsza Tajemnica Radosna, Zwiastowanie",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Pierwsza Tajemnica Radosna, Zwiastowanie.",
+          "phonetic": "Pierwsza Tajemnica Radosna, Zwiastowanie."
+        }
+      ]
+    }
+  ]
+}

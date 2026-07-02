@@ -1,0 +1,22 @@
+{
+  "id": "glorious4",
+  "lang": "latin",
+  "title": "Quartum Mysterium Gloriosum, Assumptio",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quartum Mysterium Gloriosum, Assumptio.",
+          "phonetic": "Quartum Mysterium Gloriosum, Assumptio."
+        }
+      ]
+    }
+  ]
+}

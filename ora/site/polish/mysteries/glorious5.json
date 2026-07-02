@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "polish",
+  "title": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny.",
+          "phonetic": "Piąta Tajemnica Chwalebna, Ukoronowanie Najświętszej Maryi Panny."
+        }
+      ]
+    }
+  ]
+}

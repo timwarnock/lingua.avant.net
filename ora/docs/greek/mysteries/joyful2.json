@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "greek",
+  "title": "Δεύτερο Χαροποιό Μυστήριο, η Επίσκεψη",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Δεύτερο Χαροποιό Μυστήριο, η Επίσκεψη.",
+          "phonetic": "Δεύτερο Χαροποιό Μυστήριο, η Επίσκεψη."
+        }
+      ]
+    }
+  ]
+}

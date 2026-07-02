@@ -1,0 +1,22 @@
+{
+  "id": "glorious4",
+  "lang": "portuguese",
+  "title": "Quarto Mistério Glorioso, a Assunção de Nossa Senhora",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quarto Mistério Glorioso, a Assunção de Nossa Senhora.",
+          "phonetic": "Quarto Mistério Glorioso, a Assunção de Nossa Senhora."
+        }
+      ]
+    }
+  ]
+}

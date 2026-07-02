@@ -1,0 +1,22 @@
+{
+  "id": "joyful3",
+  "lang": "chinese",
+  "title": "第三端歡喜奧蹟，耶穌誕生",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第三端歡喜奧蹟，耶穌誕生.",
+          "phonetic": "第三端歡喜奧蹟，耶穌誕生."
+        }
+      ]
+    }
+  ]
+}

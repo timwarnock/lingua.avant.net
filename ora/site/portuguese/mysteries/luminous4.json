@@ -1,0 +1,22 @@
+{
+  "id": "luminous4",
+  "lang": "portuguese",
+  "title": "Quarto Mistério Luminoso, a Transfiguração",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quarto Mistério Luminoso, a Transfiguração.",
+          "phonetic": "Quarto Mistério Luminoso, a Transfiguração."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "polish",
+  "title": "Pierwsza Tajemnica Bolesna, Modlitwa w Ogrójcu",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Pierwsza Tajemnica Bolesna, Modlitwa w Ogrójcu.",
+          "phonetic": "Pierwsza Tajemnica Bolesna, Modlitwa w Ogrójcu."
+        }
+      ]
+    }
+  ]
+}

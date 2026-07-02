@@ -1,0 +1,22 @@
+{
+  "id": "glorious4",
+  "lang": "spanish",
+  "title": "El Cuarto Misterio Glorioso, la Asunción de María",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Cuarto Misterio Glorioso, la Asunción de María.",
+          "phonetic": "El Cuarto Misterio Glorioso, la Asunción de María."
+        }
+      ]
+    }
+  ]
+}

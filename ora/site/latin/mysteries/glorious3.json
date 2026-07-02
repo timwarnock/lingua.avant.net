@@ -1,0 +1,22 @@
+{
+  "id": "glorious3",
+  "lang": "latin",
+  "title": "Tertium Mysterium Gloriosum, Descensus Spiritus Sancti",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Tertium Mysterium Gloriosum, Descensus Spiritus Sancti.",
+          "phonetic": "Tertium Mysterium Gloriosum, Descensus Spiritus Sancti."
+        }
+      ]
+    }
+  ]
+}

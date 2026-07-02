@@ -1,0 +1,22 @@
+{
+  "id": "glorious3",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần.",
+          "phonetic": "Mầu Nhiệm Sáng Thứ Ba, Hiện Xuống của Chúa Thánh Thần."
+        }
+      ]
+    }
+  ]
+}

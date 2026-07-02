@@ -1,0 +1,22 @@
+{
+  "id": "luminous5",
+  "lang": "polish",
+  "title": "Piąta Tajemnica Światła, Ustanowienie Eucharystii",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Piąta Tajemnica Światła, Ustanowienie Eucharystii.",
+          "phonetic": "Piąta Tajemnica Światła, Ustanowienie Eucharystii."
+        }
+      ]
+    }
+  ]
+}

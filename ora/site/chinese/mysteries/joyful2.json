@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "chinese",
+  "title": "第二端歡喜奧蹟，聖母訪依撒伯爾",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第二端歡喜奧蹟，聖母訪依撒伯爾.",
+          "phonetic": "第二端歡喜奧蹟，聖母訪依撒伯爾."
+        }
+      ]
+    }
+  ]
+}

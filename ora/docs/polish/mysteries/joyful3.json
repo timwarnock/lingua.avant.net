@@ -1,0 +1,22 @@
+{
+  "id": "joyful3",
+  "lang": "polish",
+  "title": "Trzecia Tajemnica Radosna, Narodzenie Jezusa",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Trzecia Tajemnica Radosna, Narodzenie Jezusa.",
+          "phonetic": "Trzecia Tajemnica Radosna, Narodzenie Jezusa."
+        }
+      ]
+    }
+  ]
+}

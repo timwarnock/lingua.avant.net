@@ -1,0 +1,22 @@
+{
+  "id": "luminous1",
+  "lang": "portuguese",
+  "title": "Primeiro Mistério Luminoso, o Batismo de Jesus",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Primeiro Mistério Luminoso, o Batismo de Jesus.",
+          "phonetic": "Primeiro Mistério Luminoso, o Batismo de Jesus."
+        }
+      ]
+    }
+  ]
+}

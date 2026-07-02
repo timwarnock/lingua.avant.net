@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "greek",
+  "title": "Πέμπτο Ένδοξο Μυστήριο, η Στέψη της Θεοτόκου",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Πέμπτο Ένδοξο Μυστήριο, η Στέψη της Θεοτόκου.",
+          "phonetic": "Πέμπτο Ένδοξο Μυστήριο, η Στέψη της Θεοτόκου."
+        }
+      ]
+    }
+  ]
+}

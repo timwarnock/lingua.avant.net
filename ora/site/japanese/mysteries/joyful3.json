@@ -1,0 +1,22 @@
+{
+  "id": "joyful3",
+  "lang": "japanese",
+  "title": "第三の喜びの玄義、降誕",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第三の喜びの玄義、降誕.",
+          "phonetic": "第三の喜びの玄義、降誕."
+        }
+      ]
+    }
+  ]
+}

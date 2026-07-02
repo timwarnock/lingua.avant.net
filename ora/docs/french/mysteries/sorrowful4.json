@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful4",
+  "lang": "french",
+  "title": "Quatrième Mystère Douloureux, le Portement de Croix",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quatrième Mystère Douloureux, le Portement de Croix.",
+          "phonetic": "Quatrième Mystère Douloureux, le Portement de Croix."
+        }
+      ]
+    }
+  ]
+}

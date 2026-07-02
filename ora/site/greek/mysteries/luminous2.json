@@ -1,0 +1,22 @@
+{
+  "id": "luminous2",
+  "lang": "greek",
+  "title": "Δεύτερο Φωτεινό Μυστήριο, ο Γάμος στην Κανά",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Δεύτερο Φωτεινό Μυστήριο, ο Γάμος στην Κανά.",
+          "phonetic": "Δεύτερο Φωτεινό Μυστήριο, ο Γάμος στην Κανά."
+        }
+      ]
+    }
+  ]
+}

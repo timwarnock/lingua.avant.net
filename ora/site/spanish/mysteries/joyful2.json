@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "spanish",
+  "title": "El Segundo Misterio Gozoso, la Visitación",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Segundo Misterio Gozoso, la Visitación.",
+          "phonetic": "El Segundo Misterio Gozoso, la Visitación."
+        }
+      ]
+    }
+  ]
+}

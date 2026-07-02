@@ -1,0 +1,22 @@
+{
+  "id": "luminous2",
+  "lang": "french",
+  "title": "Deuxième Mystère Lumineux, les Noces de Cana",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Deuxième Mystère Lumineux, les Noces de Cana.",
+          "phonetic": "Deuxième Mystère Lumineux, les Noces de Cana."
+        }
+      ]
+    }
+  ]
+}

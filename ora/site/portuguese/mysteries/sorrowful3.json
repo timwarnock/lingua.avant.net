@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful3",
+  "lang": "portuguese",
+  "title": "Terceiro Mistério Doloroso, a Coroação de Espinhos",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Terceiro Mistério Doloroso, a Coroação de Espinhos.",
+          "phonetic": "Terceiro Mistério Doloroso, a Coroação de Espinhos."
+        }
+      ]
+    }
+  ]
+}

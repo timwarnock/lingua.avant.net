@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful3",
+  "lang": "polish",
+  "title": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie.",
+          "phonetic": "Trzecia Tajemnica Bolesna, Cierniem Ukoronowanie."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "greek",
+  "title": "Πέμπτο Χαροποιό Μυστήριο, η Εύρεση στον Ναό",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Πέμπτο Χαροποιό Μυστήριο, η Εύρεση στον Ναό.",
+          "phonetic": "Πέμπτο Χαροποιό Μυστήριο, η Εύρεση στον Ναό."
+        }
+      ]
+    }
+  ]
+}

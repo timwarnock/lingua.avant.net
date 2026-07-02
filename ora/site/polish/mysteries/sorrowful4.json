@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful4",
+  "lang": "polish",
+  "title": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża.",
+          "phonetic": "Czwarta Tajemnica Bolesna, Dźwiganie Krzyża."
+        }
+      ]
+    }
+  ]
+}

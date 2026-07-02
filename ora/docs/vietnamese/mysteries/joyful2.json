@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Vui Thứ Hai, Thăm Viếng",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Vui Thứ Hai, Thăm Viếng.",
+          "phonetic": "Mầu Nhiệm Vui Thứ Hai, Thăm Viếng."
+        }
+      ]
+    }
+  ]
+}

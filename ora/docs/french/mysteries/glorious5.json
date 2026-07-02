@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "french",
+  "title": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie.",
+          "phonetic": "Cinquième Mystère Glorieux, le Couronnement de la Vierge Marie."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "glorious5",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Sáng Thứ Năm, Đức Mẹ Được Nâng Lên Làm Nữ Vương",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Sáng Thứ Năm, Đức Mẹ Được Nâng Lên Làm Nữ Vương.",
+          "phonetic": "Mầu Nhiệm Sáng Thứ Năm, Đức Mẹ Được Nâng Lên Làm Nữ Vương."
+        }
+      ]
+    }
+  ]
+}

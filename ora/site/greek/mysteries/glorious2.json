@@ -1,0 +1,22 @@
+{
+  "id": "glorious2",
+  "lang": "greek",
+  "title": "Δεύτερο Ένδοξο Μυστήριο, η Ανάληψη",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Δεύτερο Ένδοξο Μυστήριο, η Ανάληψη.",
+          "phonetic": "Δεύτερο Ένδοξο Μυστήριο, η Ανάληψη."
+        }
+      ]
+    }
+  ]
+}

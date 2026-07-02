@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "latin",
+  "title": "Primum Mysterium Dolorosum, Agonia in Horto",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Primum Mysterium Dolorosum, Agonia in Horto.",
+          "phonetic": "Primum Mysterium Dolorosum, Agonia in Horto."
+        }
+      ]
+    }
+  ]
+}

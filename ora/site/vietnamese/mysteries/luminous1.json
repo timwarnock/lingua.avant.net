@@ -1,0 +1,22 @@
+{
+  "id": "luminous1",
+  "lang": "vietnamese",
+  "title": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giêsu Chịu Phép Rửa",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giêsu Chịu Phép Rửa.",
+          "phonetic": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giêsu Chịu Phép Rửa."
+        }
+      ]
+    }
+  ]
+}

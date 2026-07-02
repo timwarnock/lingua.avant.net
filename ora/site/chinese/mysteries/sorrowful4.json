@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful4",
+  "lang": "chinese",
+  "title": "第四端痛苦奧蹟，耶穌背十字架",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第四端痛苦奧蹟，耶穌背十字架.",
+          "phonetic": "第四端痛苦奧蹟，耶穌背十字架."
+        }
+      ]
+    }
+  ]
+}

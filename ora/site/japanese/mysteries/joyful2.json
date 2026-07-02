@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "japanese",
+  "title": "第二の喜びの玄義、訪問",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第二の喜びの玄義、訪問.",
+          "phonetic": "第二の喜びの玄義、訪問."
+        }
+      ]
+    }
+  ]
+}

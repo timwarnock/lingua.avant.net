@@ -1,0 +1,22 @@
+{
+  "id": "luminous1",
+  "lang": "polish",
+  "title": "Pierwsza Tajemnica Światła, Chrzest Jezusa w Jordanie",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Pierwsza Tajemnica Światła, Chrzest Jezusa w Jordanie.",
+          "phonetic": "Pierwsza Tajemnica Światła, Chrzest Jezusa w Jordanie."
+        }
+      ]
+    }
+  ]
+}

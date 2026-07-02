@@ -1,0 +1,22 @@
+{
+  "id": "joyful2",
+  "lang": "portuguese",
+  "title": "Segundo Mistério Gozoso, a Visitação",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Segundo Mistério Gozoso, a Visitação.",
+          "phonetic": "Segundo Mistério Gozoso, a Visitação."
+        }
+      ]
+    }
+  ]
+}

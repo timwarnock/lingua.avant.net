@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful2",
+  "lang": "japanese",
+  "title": "第二の苦しみの玄義、むち打ち",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第二の苦しみの玄義、むち打ち.",
+          "phonetic": "第二の苦しみの玄義、むち打ち."
+        }
+      ]
+    }
+  ]
+}

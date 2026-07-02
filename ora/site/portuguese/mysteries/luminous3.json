@@ -1,0 +1,22 @@
+{
+  "id": "luminous3",
+  "lang": "portuguese",
+  "title": "Terceiro Mistério Luminoso, o Anúncio do Reino",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Terceiro Mistério Luminoso, o Anúncio do Reino.",
+          "phonetic": "Terceiro Mistério Luminoso, o Anúncio do Reino."
+        }
+      ]
+    }
+  ]
+}

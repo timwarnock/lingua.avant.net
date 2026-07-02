@@ -1,0 +1,22 @@
+{
+  "id": "joyful4",
+  "lang": "japanese",
+  "title": "第四の喜びの玄義、献呈",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第四の喜びの玄義、献呈.",
+          "phonetic": "第四の喜びの玄義、献呈."
+        }
+      ]
+    }
+  ]
+}

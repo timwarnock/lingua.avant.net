@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "spanish",
+  "title": "El Primer Misterio Doloroso, la Agonía en el Huerto",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Primer Misterio Doloroso, la Agonía en el Huerto.",
+          "phonetic": "El Primer Misterio Doloroso, la Agonía en el Huerto."
+        }
+      ]
+    }
+  ]
+}

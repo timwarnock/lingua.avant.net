@@ -1,0 +1,22 @@
+{
+  "id": "luminous4",
+  "lang": "greek",
+  "title": "Τέταρτο Φωτεινό Μυστήριο, η Μεταμόρφωση",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Τέταρτο Φωτεινό Μυστήριο, η Μεταμόρφωση.",
+          "phonetic": "Τέταρτο Φωτεινό Μυστήριο, η Μεταμόρφωση."
+        }
+      ]
+    }
+  ]
+}

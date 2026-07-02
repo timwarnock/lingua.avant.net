@@ -1,0 +1,22 @@
+{
+  "id": "joyful4",
+  "lang": "portuguese",
+  "title": "Quarto Mistério Gozoso, a Apresentação de Jesus no Templo",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quarto Mistério Gozoso, a Apresentação de Jesus no Templo.",
+          "phonetic": "Quarto Mistério Gozoso, a Apresentação de Jesus no Templo."
+        }
+      ]
+    }
+  ]
+}

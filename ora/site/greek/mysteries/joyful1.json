@@ -1,0 +1,22 @@
+{
+  "id": "joyful1",
+  "lang": "greek",
+  "title": "Πρώτο Χαροποιό Μυστήριο, ο Ευαγγελισμός",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Πρώτο Χαροποιό Μυστήριο, ο Ευαγγελισμός.",
+          "phonetic": "Πρώτο Χαροποιό Μυστήριο, ο Ευαγγελισμός."
+        }
+      ]
+    }
+  ]
+}

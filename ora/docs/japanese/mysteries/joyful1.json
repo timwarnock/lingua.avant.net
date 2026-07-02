@@ -1,0 +1,22 @@
+{
+  "id": "joyful1",
+  "lang": "japanese",
+  "title": "第一の喜びの玄義、お告げ",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第一の喜びの玄義、お告げ.",
+          "phonetic": "第一の喜びの玄義、お告げ."
+        }
+      ]
+    }
+  ]
+}

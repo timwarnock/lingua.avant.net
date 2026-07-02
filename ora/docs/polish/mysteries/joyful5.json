@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "polish",
+  "title": "Piąta Tajemnica Radosna, Znalezienie Jezusa w Świątyni",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Piąta Tajemnica Radosna, Znalezienie Jezusa w Świątyni.",
+          "phonetic": "Piąta Tajemnica Radosna, Znalezienie Jezusa w Świątyni."
+        }
+      ]
+    }
+  ]
+}

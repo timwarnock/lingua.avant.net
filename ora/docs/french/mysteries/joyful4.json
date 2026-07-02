@@ -1,0 +1,22 @@
+{
+  "id": "joyful4",
+  "lang": "french",
+  "title": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple.",
+          "phonetic": "Quatrième Mystère Joyeux, la Présentation de Jésus au Temple."
+        }
+      ]
+    }
+  ]
+}

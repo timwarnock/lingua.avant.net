@@ -1,0 +1,22 @@
+{
+  "id": "glorious1",
+  "lang": "french",
+  "title": "Premier Mystère Glorieux, la Résurrection",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Premier Mystère Glorieux, la Résurrection.",
+          "phonetic": "Premier Mystère Glorieux, la Résurrection."
+        }
+      ]
+    }
+  ]
+}

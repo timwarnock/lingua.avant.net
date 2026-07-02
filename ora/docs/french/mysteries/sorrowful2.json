@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful2",
+  "lang": "french",
+  "title": "Deuxième Mystère Douloureux, la Flagellation",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Deuxième Mystère Douloureux, la Flagellation.",
+          "phonetic": "Deuxième Mystère Douloureux, la Flagellation."
+        }
+      ]
+    }
+  ]
+}

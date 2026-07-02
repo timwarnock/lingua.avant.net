@@ -1,0 +1,22 @@
+{
+  "id": "joyful5",
+  "lang": "portuguese",
+  "title": "Quinto Mistério Gozoso, o Encontro de Jesus no Templo",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quinto Mistério Gozoso, o Encontro de Jesus no Templo.",
+          "phonetic": "Quinto Mistério Gozoso, o Encontro de Jesus no Templo."
+        }
+      ]
+    }
+  ]
+}

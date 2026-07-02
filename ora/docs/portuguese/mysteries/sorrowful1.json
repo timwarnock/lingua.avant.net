@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "portuguese",
+  "title": "Primeiro Mistério Doloroso, a Agonia no Horto",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Primeiro Mistério Doloroso, a Agonia no Horto.",
+          "phonetic": "Primeiro Mistério Doloroso, a Agonia no Horto."
+        }
+      ]
+    }
+  ]
+}

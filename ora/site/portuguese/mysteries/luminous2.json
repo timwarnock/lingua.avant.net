@@ -1,0 +1,22 @@
+{
+  "id": "luminous2",
+  "lang": "portuguese",
+  "title": "Segundo Mistério Luminoso, as Bodas de Caná",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Segundo Mistério Luminoso, as Bodas de Caná.",
+          "phonetic": "Segundo Mistério Luminoso, as Bodas de Caná."
+        }
+      ]
+    }
+  ]
+}

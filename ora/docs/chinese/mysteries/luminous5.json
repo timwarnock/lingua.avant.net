@@ -1,0 +1,22 @@
+{
+  "id": "luminous5",
+  "lang": "chinese",
+  "title": "第五端光明奧蹟，耶穌建立聖體聖事",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第五端光明奧蹟，耶穌建立聖體聖事.",
+          "phonetic": "第五端光明奧蹟，耶穌建立聖體聖事."
+        }
+      ]
+    }
+  ]
+}

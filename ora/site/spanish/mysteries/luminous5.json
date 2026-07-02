@@ -1,0 +1,22 @@
+{
+  "id": "luminous5",
+  "lang": "spanish",
+  "title": "El Quinto Misterio Luminoso, la Institución de la Eucaristía",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "El Quinto Misterio Luminoso, la Institución de la Eucaristía.",
+          "phonetic": "El Quinto Misterio Luminoso, la Institución de la Eucaristía."
+        }
+      ]
+    }
+  ]
+}

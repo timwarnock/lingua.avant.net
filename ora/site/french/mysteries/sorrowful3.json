@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful3",
+  "lang": "french",
+  "title": "Troisième Mystère Douloureux, le Couronnement d'épines",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Troisième Mystère Douloureux, le Couronnement d'épines.",
+          "phonetic": "Troisième Mystère Douloureux, le Couronnement d'épines."
+        }
+      ]
+    }
+  ]
+}

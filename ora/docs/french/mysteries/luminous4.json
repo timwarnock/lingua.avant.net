@@ -1,0 +1,22 @@
+{
+  "id": "luminous4",
+  "lang": "french",
+  "title": "Quatrième Mystère Lumineux, la Transfiguration",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Quatrième Mystère Lumineux, la Transfiguration.",
+          "phonetic": "Quatrième Mystère Lumineux, la Transfiguration."
+        }
+      ]
+    }
+  ]
+}

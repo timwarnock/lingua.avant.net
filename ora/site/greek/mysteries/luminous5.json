@@ -1,0 +1,22 @@
+{
+  "id": "luminous5",
+  "lang": "greek",
+  "title": "Πέμπτο Φωτεινό Μυστήριο, η Ίδρυση της Θείας Ευχαριστίας",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Πέμπτο Φωτεινό Μυστήριο, η Ίδρυση της Θείας Ευχαριστίας.",
+          "phonetic": "Πέμπτο Φωτεινό Μυστήριο, η Ίδρυση της Θείας Ευχαριστίας."
+        }
+      ]
+    }
+  ]
+}

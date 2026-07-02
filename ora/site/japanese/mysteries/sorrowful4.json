@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful4",
+  "lang": "japanese",
+  "title": "第四の苦しみの玄義、十字架を担う",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第四の苦しみの玄義、十字架を担う.",
+          "phonetic": "第四の苦しみの玄義、十字架を担う."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "glorious3",
+  "lang": "greek",
+  "title": "Τρίτο Ένδοξο Μυστήριο, η Κάθοδος του Αγίου Πνεύματος",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Τρίτο Ένδοξο Μυστήριο, η Κάθοδος του Αγίου Πνεύματος.",
+          "phonetic": "Τρίτο Ένδοξο Μυστήριο, η Κάθοδος του Αγίου Πνεύματος."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "luminous2",
+  "lang": "chinese",
+  "title": "第二端光明奧蹟，耶穌在加納婚筵顯奇蹟",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "第二端光明奧蹟，耶穌在加納婚筵顯奇蹟.",
+          "phonetic": "第二端光明奧蹟，耶穌在加納婚筵顯奇蹟."
+        }
+      ]
+    }
+  ]
+}

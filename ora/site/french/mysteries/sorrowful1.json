@@ -1,0 +1,22 @@
+{
+  "id": "sorrowful1",
+  "lang": "french",
+  "title": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers.",
+          "phonetic": "Premier Mystère Douloureux, l'Agonie au Jardin des Oliviers."
+        }
+      ]
+    }
+  ]
+}
