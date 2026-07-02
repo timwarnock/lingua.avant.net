@@ -842,12 +842,12 @@ h2.prayer-with-player .play-btn.playing:hover,
 /* Play/pause is the main action - make it much larger and prominent */
 #rosary-play {
   font-size: 1.9rem;
-  padding: 0.2em 0.55em;
+  padding: 0.1em 0.35em;
   border: 2px solid var(--md-primary-fg-color, #4051b5);
   border-radius: 4px;
   background: rgba(64, 81, 181, 0.1);
   font-weight: 600;
-  min-width: 2.2em;
+  min-width: 1.9em;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -865,7 +865,6 @@ h2.prayer-with-player .play-btn.playing:hover,
   background: rgba(64, 81, 181, 0.35);
 }
 
-#rosary-play span,
 #rosary-play {
   line-height: 1;
 }

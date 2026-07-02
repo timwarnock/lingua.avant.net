@@ -81,5 +81,31 @@ Segments might not always match exactly due to grammatic and linguistic differen
 
 + segment highlight to match voice! can add in start/stop times per segment based on the full audio, playing full or a passage should highlight sections during that window and advance to always highlight what is being spoken. creating the start/stop times should be derivable from the existing audio, that is, a given json will be used as input to create audio, but then a secondary process needs to derive the start/stop offsets and update the JSON.
 
-+ rosary player, rather than just link to rosary prayers (which are already in the nav), let's brainstorm a clear way to play the rosary, prayer by prayer, with visual indicators of progress, maybe 7 rows of indicators (intro, 5 decades, conclusion) and an indicator for each prayer, can jump wherever or just go prayer by prayer and click next, and even an auto mode that will just play the entire rosary for you. the page will show one prayer at time, can click into a prayer from the indicators, or progress through via next/back navigation, the same prayer.mjs view is used for each prayer (locked into language for that page, e.g., english, and it shows text and phonetics only) and no way to change the prayer except by navigating through the rosary..  for auto mode it should full play the entire prayer and then automatically advance to the next prayer in the chain.  For each decade, we will need new audio segments for the mysteries, e.g., "The First Joyful Mystery, the Annunciation" and then to the sign of the cross, and so on.  we'll need audio for these, perhaps in a english/mysteries/joyful1.json kind of format ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

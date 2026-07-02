@@ -16,29 +16,29 @@ function buildSteps() {
   const steps = [];
 
   // Row 0: Intro (8 steps)
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'sign-of-the-cross', label: 'Sign of the Cross' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'apostles-creed', label: "Apostles' Creed" });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'our-father', label: 'Our Father' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary', label: 'Hail Mary' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary', label: 'Hail Mary' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary', label: 'Hail Mary' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'glory-be', label: 'Glory Be' });
-  steps.push({ row: 0, kind: 'prayer', prayerId: 'fatima-prayer', label: 'Fatima Prayer' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'sign-of-the-cross' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'apostles-creed' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'our-father' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'hail-mary' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'glory-be' });
+  steps.push({ row: 0, kind: 'prayer', prayerId: 'fatima-prayer' });
 
   // Rows 1-5: 5 decades, 14 each
   for (let d = 0; d < 5; d++) {
     steps.push({ row: d + 1, kind: 'mystery', decade: d });
-    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'our-father', label: 'Our Father' });
+    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'our-father' });
     for (let h = 0; h < 10; h++) {
-      steps.push({ row: d + 1, kind: 'prayer', prayerId: 'hail-mary', label: 'Hail Mary' });
+      steps.push({ row: d + 1, kind: 'prayer', prayerId: 'hail-mary' });
     }
-    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'glory-be', label: 'Glory Be' });
-    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'fatima-prayer', label: 'Fatima Prayer' });
+    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'glory-be' });
+    steps.push({ row: d + 1, kind: 'prayer', prayerId: 'fatima-prayer' });
   }
 
   // Row 6: Conclusion (2)
-  steps.push({ row: 6, kind: 'prayer', prayerId: 'hail-holy-queen', label: 'Hail, Holy Queen' });
-  steps.push({ row: 6, kind: 'prayer', prayerId: 'rosary-prayer', label: 'Rosary Prayer', specialJson: 'hail-holy-queen/rosary-prayer.json' });
+  steps.push({ row: 6, kind: 'prayer', prayerId: 'hail-holy-queen' });
+  steps.push({ row: 6, kind: 'prayer', prayerId: 'rosary-prayer', specialJson: 'hail-holy-queen/rosary-prayer.json' });
 
   return steps;
 }
@@ -52,45 +52,57 @@ let viewerApp = null;
 let activeSet = 'joyful';
 let showPhonetic = false; // default to hide secondary/phonetic (toggleable)
 
-// Mystery helpers (reuse page data if present)
-function getRosaryData() {
-  const el = document.getElementById('rosary-mysteries');
-  if (el && el.textContent && el.textContent.trim()) {
-    try {
-      const parsed = JSON.parse(el.textContent);
-      return {
-        titles: { joyful: 'Joyful Mysteries', sorrowful: 'Sorrowful Mysteries', glorious: 'Glorious Mysteries', luminous: 'Luminous Mysteries', ...(parsed.titles || {}) },
-        mysteries: {
-          joyful: ["The First Joyful Mystery, the Annunciation", "The Second Joyful Mystery, the Visitation", "The Third Joyful Mystery, the Nativity", "The Fourth Joyful Mystery, the Presentation", "The Fifth Joyful Mystery, the Finding of Jesus in the Temple"],
-          sorrowful: ["The First Sorrowful Mystery, the Agony in the Garden", "The Second Sorrowful Mystery, the Scourging at the Pillar", "The Third Sorrowful Mystery, the Crowning with Thorns", "The Fourth Sorrowful Mystery, the Carrying of the Cross", "The Fifth Sorrowful Mystery, the Crucifixion"],
-          glorious: ["The First Glorious Mystery, the Resurrection", "The Second Glorious Mystery, the Ascension", "The Third Glorious Mystery, the Descent of the Holy Spirit", "The Fourth Glorious Mystery, the Assumption", "The Fifth Glorious Mystery, the Coronation of Mary"],
-          luminous: ["The First Luminous Mystery, the Baptism of Jesus", "The Second Luminous Mystery, the Wedding at Cana", "The Third Luminous Mystery, the Proclamation of the Kingdom", "The Fourth Luminous Mystery, the Transfiguration", "The Fifth Luminous Mystery, the Institution of the Eucharist"],
-          ...(parsed.mysteries || {})
-        }
-      };
-    } catch (e) {}
-  }
-  // fallback
-  return {
-    titles: { joyful: 'Joyful Mysteries', sorrowful: 'Sorrowful Mysteries', glorious: 'Glorious Mysteries', luminous: 'Luminous Mysteries' },
-    mysteries: {
-      joyful: ["The First Joyful Mystery, the Annunciation", "The Second Joyful Mystery, the Visitation", "The Third Joyful Mystery, the Nativity", "The Fourth Joyful Mystery, the Presentation", "The Fifth Joyful Mystery, the Finding of Jesus in the Temple"],
-      sorrowful: ["The First Sorrowful Mystery, the Agony in the Garden", "The Second Sorrowful Mystery, the Scourging at the Pillar", "The Third Sorrowful Mystery, the Crowning with Thorns", "The Fourth Sorrowful Mystery, the Carrying of the Cross", "The Fifth Sorrowful Mystery, the Crucifixion"],
-      glorious: ["The First Glorious Mystery, the Resurrection", "The Second Glorious Mystery, the Ascension", "The Third Glorious Mystery, the Descent of the Holy Spirit", "The Fourth Glorious Mystery, the Assumption", "The Fifth Glorious Mystery, the Coronation of Mary"],
-      luminous: ["The First Luminous Mystery, the Baptism of Jesus", "The Second Luminous Mystery, the Wedding at Cana", "The Third Luminous Mystery, the Proclamation of the Kingdom", "The Fourth Luminous Mystery, the Transfiguration", "The Fifth Luminous Mystery, the Institution of the Eucharist"]
+let titlesCache = {};
+
+async function preloadRosaryTitles() {
+  const set = getActiveSet();
+
+  // Fixed prayers used in the rosary
+  const fixed = ['sign-of-the-cross', 'apostles-creed', 'our-father', 'hail-mary', 'glory-be', 'fatima-prayer', 'hail-holy-queen'];
+  for (const id of fixed) {
+    const p = `${id}/${id}.json`;
+    if (!titlesCache[p]) {
+      try {
+        const r = await fetch(p);
+        const d = await r.json();
+        titlesCache[p] = d.title || id;
+      } catch (e) {
+        titlesCache[p] = id;
+      }
     }
-  };
+  }
+
+  // Special rosary-prayer
+  const rp = 'hail-holy-queen/rosary-prayer.json';
+  if (!titlesCache[rp]) {
+    try {
+      const r = await fetch(rp);
+      const d = await r.json();
+      titlesCache[rp] = d.title || 'Rosary Prayer';
+    } catch (e) {
+      titlesCache[rp] = 'Rosary Prayer';
+    }
+  }
+
+  // Current set's 5 mysteries
+  for (let d = 0; d < 5; d++) {
+    const mid = `${set}${d + 1}`;
+    const p = `mysteries/${mid}.json`;
+    if (!titlesCache[p]) {
+      try {
+        const r = await fetch(p);
+        const d = await r.json();
+        titlesCache[p] = d.title || `Mystery ${d + 1}`;
+      } catch (e) {
+        titlesCache[p] = `Mystery ${d + 1}`;
+      }
+    }
+  }
 }
 
 function getActiveSet() {
   const activeEl = document.querySelector('.mystery-set.active');
   return (activeEl && activeEl.dataset.set) || 'joyful';
-}
-
-function getMysteryLabel(set, decade) {
-  const data = getRosaryData();
-  const names = data.mysteries[set] || data.mysteries.joyful;
-  return names[decade] || `Mystery ${decade + 1}`;
 }
 
 function getMysteryJson(set, decade) {
@@ -105,17 +117,22 @@ function getStepInfo(idx) {
 
   if (s.kind === 'mystery') {
     const set = getActiveSet();
+    const mid = `${set}${s.decade + 1}`;
+    const p = `mysteries/${mid}.json`;
     return {
-      label: getMysteryLabel(set, s.decade),
-      jsonPath: getMysteryJson(set, s.decade),
+      label: titlesCache[p] || `Mystery ${s.decade + 1}`,
+      jsonPath: p,
       kind: 'mystery',
-      mysteryId: `${set}${s.decade + 1}`
+      mysteryId: mid
     };
   } else if (s.specialJson) {
-    return { label: s.label, jsonPath: s.specialJson, kind: 'prayer' };
+    const p = s.specialJson;
+    return { label: titlesCache[p] || 'Rosary Prayer', jsonPath: p, kind: 'prayer' };
   } else {
-    const dir = s.prayerId;
-    return { label: s.label, jsonPath: `${dir}/${dir}.json`, kind: 'prayer' };
+    const id = s.prayerId;
+    const p = `${id}/${id}.json`;
+    const fallback = id.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    return { label: titlesCache[p] || fallback, jsonPath: p, kind: 'prayer' };
   }
 }
 
@@ -149,7 +166,9 @@ function renderIndicators(container) {
       dot.title = info.label;
       dot.dataset.idx = idx;
 
-      if (info.label === 'Hail Mary') {
+      // Use the step to identify repeats for styling (more reliable than label)
+      const stepForClass = steps[idx];
+      if (stepForClass && stepForClass.prayerId === 'hail-mary') {
         dot.classList.add('hail-mary');
       }
 
@@ -285,11 +304,8 @@ function updatePlayBtn(btn) {
   btn.innerHTML = '';
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
   svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
-  svg.setAttribute('fill', 'none');
-  svg.setAttribute('stroke', 'currentColor');
-  svg.setAttribute('stroke-linecap', 'round');
-  svg.setAttribute('stroke-linejoin', 'round');
-  svg.setAttribute('stroke-width', '2');
+  svg.setAttribute('fill', 'currentColor');
+  svg.setAttribute('stroke', 'none');
   svg.setAttribute('viewBox', '0 0 24 24');
   svg.setAttribute('width', '1em');
   svg.setAttribute('height', '1em');
@@ -297,8 +313,8 @@ function updatePlayBtn(btn) {
     // pause: two bars
     svg.innerHTML = '<rect x="6" y="4" width="4" height="16" fill="currentColor" stroke="none"/><rect x="14" y="4" width="4" height="16" fill="currentColor" stroke="none"/>';
   } else {
-    // play: triangle
-    svg.innerHTML = '<path d="M5 3v18l15-9z" fill="currentColor" stroke="none"/>';
+    // play: triangle (centered, nudged for optical alignment)
+    svg.innerHTML = '<path d="M8 5l12 8-12 8V5z" fill="currentColor" stroke="none"/>';
   }
   btn.appendChild(svg);
   btn.title = autoPlaying ? 'Pause auto' : 'Auto play from here';
@@ -402,13 +418,14 @@ function setupChooserSync(indicatorsContainer) {
 
   // Update on set click (after rosary.mjs handled its activate)
   chooser.querySelectorAll('.mystery-set').forEach(el => {
-    el.addEventListener('click', () => {
+    el.addEventListener('click', async () => {
       // let rosary.mjs finish
-      setTimeout(() => {
+      setTimeout(async () => {
         activeSet = getActiveSet();
+        await preloadRosaryTitles();
         const ind = document.getElementById('rosary-indicators');
         if (ind) {
-          renderIndicators(ind);  // refresh dots (titles for mysteries will be current set)
+          renderIndicators(ind);  // refresh dots with titles from JSONs
           updateIndicators(ind);
         }
         const curInfo = getStepInfo(current);
@@ -430,16 +447,18 @@ function init() {
   progress = 0;
   activeSet = getActiveSet();
 
-  renderIndicators(indContainer);
-  setupControls();
-  setupChooserSync(indContainer);
-  loadCurrentViewer();
+  preloadRosaryTitles().then(() => {
+    renderIndicators(indContainer);
+    setupControls();
+    setupChooserSync(indContainer);
+    loadCurrentViewer();
 
-  // Initial sync with current mystery active
-  setTimeout(() => {
-    const ind = document.getElementById('rosary-indicators');
-    if (ind) updateIndicators(ind);
-  }, 50);
+    // Initial sync with current mystery active
+    setTimeout(() => {
+      const ind = document.getElementById('rosary-indicators');
+      if (ind) updateIndicators(ind);
+    }, 50);
+  });
 
   // Keyboard support (simple)
   document.addEventListener('keydown', (e) => {
