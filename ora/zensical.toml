@@ -63,10 +63,7 @@ nav = [
           "english/resources/bad-advice.md",
           "english/resources/fsi.md",
           "english/resources/fsi-diff.md",
-          "english/resources/islands.md",
-          "english/resources/introverts.md",
-          "english/resources/multilingual.md",
-          "english/resources/ipa.md"
+          "english/resources/introverts.md"
         ] }
     ] },
   { "Español" = [

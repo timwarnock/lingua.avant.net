@@ -2,9 +2,9 @@
 icon: lucide/bar-chart
 ---
 
-# FSI difficulty ranking
+# Language Difficulty
 
-The US Foreign Service Institute ( [FSI](fsi.md) ) created a [list](/assets/pdf/247092.pdf) estimating the length of time required to learn each of the languages taught by the FSI. The estimates are based on native English speakers with no prior knowledge of the language.
+Language learning requires vastly different amounts of time depending on how closely a language relates to English. The rankings below are based on data from the US Foreign Service Institute ([FSI](fsi.md)), which estimated the hours needed for native English speakers to reach professional proficiency.
 
 Here is an overview:
 
@@ -12,7 +12,7 @@ Here is an overview:
 
 ### Category I: 24-30 weeks (600-750 hours)
 
-*(“World Languages”) Languages closely cognate with English*
+*“World Languages” closely cognate with English*
 
 Danish, Dutch, French, Italian, Norwegian, Portuguese, Romanian, Spanish, and Swedish
 
@@ -38,8 +38,8 @@ Albanian, Bengali, Burmese, Czech, Finnish, Greek, Hebrew, Hindi, Hungarian, Ice
 
 *Languages which are exceptionally difficult for native English speakers*
 
-Arabic, Chinese (Cantonese and Madarin), Japanese, and Korean
+Arabic, Chinese (Cantonese and Mandarin), Japanese, and Korean
 
 ---
 
-What’s fascinating is that the [document](/assets/pdf/247092.pdf) includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).
+The [document](/assets/pdf/247092.pdf) also includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).

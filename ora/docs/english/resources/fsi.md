@@ -26,7 +26,7 @@ Importantly, for the FSI, the goal of a language is to get things done, not to s
 
 Some people learn better and faster than others. In intensive learning environments (like the FSI) these differences will be magnified. The single best predictor of language learning success is previous learning success. The second best predictor is measured aptitude. Importantly, some of the skills behind “measured aptitude” can be learned.
 
-In other words, the first non-primary language you learn will be the hardest (that is, highest chance of failure), and understanding how to learn a language will increase your chance of success.
+In other words, the first non-primary language you learn will be the hardest (that is, the one with the highest chance of failure), and understanding how to learn a language will increase your chance of success.
 
 Be honest with yourself about your strengths and weaknesses (while you learn). Language learning is a humbling activity; no matter how smart you are, you will hit the limit of your aptitude.
 
@@ -36,7 +36,7 @@ Be honest with yourself about your strengths and weaknesses (while you learn). L
 
 > There is no “one right way” to teach (or learn) languages, nor is there a single “right” syllabus.
 
-This section provides crucial insights about individual needs changing over time. In other words, it’s not just that different techniques work for different people, what works for you personally one week may not work for you in another week. They recommend breaks in routine, changes in pace for individual (especially advanced) learners, and an early emphasis on grammar patterns.
+This section provides crucial insights about individual needs changing over time. In other words, it’s not just that different techniques work for different people; what works for you personally one week may not work for you in another week. They recommend breaks in routine, changes in pace for individual (especially advanced) learners, and an early emphasis on grammar patterns.
 
 ---
 
@@ -46,27 +46,27 @@ This section provides crucial insights about individual needs changing over time
 
 Some of this seems obvious, although there’s an interesting point that language learning takes time and “cannot be shortened appreciably”. They recommend collaboration, focused practice (such as drills), and intensive immersion starting at upper intermediate levels.
 
-Time on task (reading, writing, listening, speaking) is described as the single most important factor in language learning. There’s also a related document that lists FSI programs by [difficulty](fsi-diff.md) as measured in hours of course time.
+Time on task (reading, writing, listening, speaking) is described as the single most important factor in language learning. There’s also a related document that lists FSI programs by [language difficulty](fsi-diff.md) as measured in hours of course time.
 
 ---
 
 ## 5. Knowledge about language benefits learning.
 
-> A learner’s knowledge about *language* affects his/her learning. All else being equal, the more that learners already know that they can use in learning a language, the faster and better they will learn. The less they know that they can use, the harder the learning will be.
+> A learner’s knowledge about *language* affects their learning. All else being equal, the more that learners already know that they can use in learning a language, the faster and better they will learn. The less they know that they can use, the harder the learning will be.
 
-They describe the phenomena of transfer learning from one language to a cognate language (e.g., Malay to Indonesian), but that ability requires a high proficiency (level-3). For reference, level-3 is described as:
+They describe the phenomenon of transfer learning from one language to a cognate language (e.g., Malay to Indonesian), but that ability requires a high proficiency (level-3). For reference, level-3 is described as:
 
 > Able to speak accurately and with enough vocabulary to handle social representation and professional discussions within special fields of knowledge; able to read most materials found in daily newspapers.
 
-In other words, this is the bare minimum level needed in order to gain the benefit of the transfer phenomena.
+In other words, this is the bare minimum level needed in order to gain the benefit of the transfer phenomenon.
 
 ---
 
 ## 6. Prior language study makes a difference
 
-> If a learner already has learned another language to a high level, that is a great advantage, but if s/he doesn’t know how to learn a language IN A CLASSROOM, that is a disadvantage.
+> If a learner already has learned another language to a high level, that is a great advantage, but if they don’t know how to learn a language in a classroom, that is a disadvantage.
 
-The benefit of the transfer phenomena does not appear to apply to naturally bi-lingual speakers. For example, a naturally bilingual English and Spanish speaker would not necessarily benefit from the transfer phenomena while learning Portuguese or Italian.
+The benefit of the transfer phenomenon does not appear to apply to naturally bilingual speakers. For example, a naturally bilingual English and Spanish speaker would not necessarily benefit from the transfer phenomenon while learning Portuguese or Italian.
 
 In other words, knowing a cognate language doesn’t necessarily help, it’s knowing how to learn a language that helps the learner.
 
@@ -92,7 +92,7 @@ For example, Chinese tones are typically taught at a very basic level and do not
 
 FSI researchers found the exact opposite to be true. Early focus on forms produces better results, even if the student is not quite “ready” for the more difficult concept. There seems to be an advantage to raising awareness early on about a concept that the learner can later focus on.
 
-They include the following quote which seems obvious but is worth contemplating, especially in light of language classes that make learning slower than a “natural surrounding”.
+They include the following quote, which seems obvious but is worth contemplating, especially in light of language classes that make learning slower than a “natural surrounding.”
 
 > The whole point of language pedagogy is that it is a way of short-circuiting the slow process of natural discovery and can make arrangements for learning to happen more easily and more efficiently than it does in ‘natural surroundings.’
 
@@ -122,11 +122,11 @@ They emphasize the importance of good teachers. FSI students routinely list thei
 
 ## 11. Be specific about what you need to learn
 
-> The most effective language teaching responds appropriately to where the learner is and what he or she is trying to do. Donald Freeman and other leaders in the field of language teacher education have described language teaching as a series of complex decision-making processes based on the teacher’s awareness and understanding of what is going on with the learners and the interplay of the teacher’s own attitudes, knowledge, and repertoire of skills.
+> The most effective language teaching responds appropriately to where the learner is and what they are trying to do. Donald Freeman and other leaders in the field of language teacher education have described language teaching as a series of complex decision-making processes based on the teacher’s awareness and understanding of what is going on with the learners and the interplay of the teacher’s own attitudes, knowledge, and repertoire of skills.
 
 An interesting benefit of the FSI is that they are training people for specific assignments. The specific learning goals are thus well-defined and there’s a great deal of pressure on the learner, the teachers, and the FSI as a whole to get things right.
 
-For self-directed study (where there’s no job assignment waiting for you), knowing before-hand what your specific goals are can be difficult. That said, I think there’s a useful pattern here: create specific and falsifiable goals as if you do have a job assignment waiting for you.
+For self-directed study (where there’s no job assignment waiting for you), knowing beforehand what your specific goals are can be difficult. That said, I think there’s a useful pattern here: create specific and falsifiable goals as if you do have a job assignment waiting for you.
 
 In my experience, nebulous goals lead to nebulous learning.
 
@@ -136,7 +136,7 @@ In my experience, nebulous goals lead to nebulous learning.
 
 > Conversation, which on the surface appears to be one of the most basic forms of communication, is actually one of the hardest to master. A seasoned Foreign Service officer, who had learned several languages to a high level, was overheard to remark that engaging in conversation–particularly in multiparty settings–was the ultimate test of someone’s language ability.
 
-This is one of my favorite sections, and it goes against the conventional wisdom that conversational ability is the easiest skills to master in a foreign language. They emphasize that a conversation is far more about listening than it is about speaking.
+This is one of my favorite sections, and it goes against the conventional wisdom that conversational ability is one of the easiest skills to master in a foreign language. They emphasize that a conversation is far more about listening than it is about speaking.
 
 Active listening is often absent (as is automaticity) in many language learning resources.
 

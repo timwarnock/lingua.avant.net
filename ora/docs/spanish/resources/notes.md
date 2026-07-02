@@ -72,7 +72,7 @@ Verbs <button class="flashcard-green" onclick="Flashcards.open('es/verbos')">fla
 
 Other
 
-+ [How to Improve Your Foreign Language Immediately](../../english/resources/islands.md) , by Boris Shekhtman
++ How to Improve Your Foreign Language Immediately, by Boris Shekhtman
 
 + [Direct and Indirect Objects](http://personal.colby.edu/~bknelson/SLC/DO_IO.php)
 

@@ -40,3 +40,6 @@ Thumbs.db
 # Zensical build output is intentionally committed for the live preview
 # (ora/site/ is served directly from the git tree)
 # Do NOT add ora/site/ or site/ here.
+
+# notes-*.md files track multi-session work such as resources review
+notes-*.md
