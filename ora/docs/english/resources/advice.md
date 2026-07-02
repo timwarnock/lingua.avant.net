@@ -31,15 +31,15 @@ As with any kind of discipline, we will be motivated only to the degree that we 
 ## 2. <span title="huó dào lǎo xué dào lǎo - live till old, learn till old">活到老學到老</span>
 
 "Live till old, Learn till old".  
-Learning a language is like climbing an endless mountain. And I don’t mean the inspirational kind of cliche “mountain”. I mean you’ll never reach the top. You may see what you think is the top, you can reach for it, and you may pull yourself up, but you’ll find there’s another summit above the current one. It goes on like that forever.
+Learning a language is not just a skill to learn. It is the beginning of a lifelong relationship with the language and the culture that lives in it.
 
-Think of the difficulty of the mountain as the *learning curve*. When you begin a new language, it’s like starting at the base of the mountain, and you’re not acclimated to the altitude. You’ll huff and puff at first, trudging along at the base. You won’t feel like you’re making any progress, but eventually, you’ll reach the first summit.
+At first the words feel foreign and the meanings remain distant, like meeting someone from another world. Little progress seems to happen. Yet with steady daily practice you reach the first true connection -- the day you can pray the Rosary fully in that language and sense it beginning to live inside you.
 
-From that first summit you’ll be able to look back at where you were, and you’ll be amazed at how far you’ve come. You’ll gain more confidence as you go further, knowing that the only way up this mountain is one bloody step at a time.
+From that point you look back and see how far the relationship has already grown. You become more present, more at home. The only way forward is one faithful step at a time: repeating the prayers, listening to the words, entering the thoughts of the people who have prayed them for centuries.
 
-The climb doesn’t necessarily get easier, it’s just that you get better at climbing.
+The relationship does not suddenly become easy. You simply become more yourself within it.
 
-The only reason to climb this kind of mountain, *is the mountain itself*. Learning a language is an eternal climb into a new way of thinking, into a new culture that will seem less foreign the further you ascend.
+The reason to pursue this is the relationship itself. Through the language you enter the thoughts, prayers, and way of life of a people. The Rosary offers a beautiful daily anchor for this bond: you pray with them, in their tongue, before the same mysteries that have shaped their faith for centuries. What began as study becomes friendship with a living tradition that will continue as long as you remain faithful.
 
 ---
 

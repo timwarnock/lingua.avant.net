@@ -19,9 +19,9 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 - This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
 - User (human) will run the dev server, DO NOT RUN `make build` or any `make` commands unless instructed to by the user.
 - Chinese should use traditional and not simplified characters!
+- never use emdash character, use -- instead
 
-
-## Current Status
+## Overview
 
 We will use [Zensical](https://zensical.org/) to manage all content.
 Dev server on :7007 for local dev (user will run, DO NOT RUN THIS YOURSELF).
