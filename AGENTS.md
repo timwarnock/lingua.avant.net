@@ -21,6 +21,9 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 - Chinese should use traditional and not simplified characters!
 - never use emdash character, use -- instead
 
+
+---
+
 ## Overview
 
 We will use [Zensical](https://zensical.org/) to manage all content.
@@ -33,6 +36,8 @@ DO NOT write logs or plan docs anywhere in `ora/docs/`, webapp content only!
 
 Migrated old /v/ content organized directly in language/topic sections under `ora/docs/`. 
 
+
+---
 
 ## Site Organization
 
@@ -55,6 +60,8 @@ The landing page in each language will explain the rosary (in that language), th
 All other non-rosary pages will be in a language specific [ Resources ] section, which will map to a subdirectory in that language, e.g., english/resources/
 
 
+---
+
 ## Passages and Segments for audio alignment
 
 Every prayer will be broken down into passages that must match 1:1 across all languages (same literal meaning across all languages), such that tooling can index any given passage across any given language.
@@ -71,6 +78,8 @@ Segments are not guaranteed to match due to grammatic and linguistic differences
 
 see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
+
+---
 
 ## TODO
 
