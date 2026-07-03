@@ -67,7 +67,7 @@ This ambiguity can and does lead to poor understanding of the very Word of God.
 !!! quote "Luke 22:31-32"
     And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat: But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.
 
-In modern translations the distinction disappears as everything becomes "you", obscuring that Satan targets the group while Jesus prays for Peter individually. To be clear, "Satan hath desired to have you" in old English does not leave one wondering, "who me?"  Yes, you!  Satan wants all disciples. And "thou art converted" means Peter will personally fall and later be restored, and the command to "strengthen thy brethen" is a personal command from Jesus to Peter concerning his (Peter's) role in the Church, and "thy bretheren" includes you, yes you!  The Old English "thou" makes the meaning sharp and personal: Peter will be the one restored to strengthen the others.
+In modern translations the distinction disappears as everything becomes "you", obscuring that Satan targets the group while Jesus prays for Peter individually. To be clear, "Satan hath desired to have you" in old English does not leave one wondering, who me?  Yes, you!  Satan wants all disciples. And "thou art converted" means Peter will personally fall and later be restored, and the command to "strengthen thy brethen" is a personal command from Jesus to Peter concerning his (Peter's) role in the Church, and "thy bretheren" includes you, yes you!  The Old English "thou" makes the meaning sharp and personal: Peter will be the one restored to strengthen the others.
 
 These forms endured in the sacred prayers long after they had faded from common conversation. Through the King James Bible and the Book of Common Prayer they entered the English tradition of prayer, there to remain as a sign of intimate yet reverent address. To utter "thy kingdom come" is to join our voice with the generations of the faithful who have spoken the same words before the throne of grace.
 
@@ -99,7 +99,7 @@ Thus prayer in English is not a mere repetition of phrases but a participation i
 
 The letters in which the holy prayers are written and read were brought to the English by those who first preached the Gospel among them. Christian missionaries from Rome carried the alphabet of the Latin Church to a people whose speech had previously been recorded, when at all, by other means.
 
-The Roman letters were never perfectly fitted to the sounds of the ancient English tongue. Old English possessed vowels and consonants for which no single Latin sign existed. Scribes therefore devised additional marks and for a time retained certain characters from the older script to represent the sounds of "th" and others.
+The Roman letters were never perfectly fitted to the sounds of the ancient English tongue. Old English possessed vowels and consonants for which no single Latin sign existed. Scribes therefore devised additional marks and for a time retained certain characters from the older script to represent sounds like "th" and others.
 
 Over the following centuries the language received many guests: words and sounds from the Northmen, from the French court after the Conquest, and from the learned tongues of Greece and Rome. The Great Vowel Shift transformed the way long vowels were pronounced, yet the spellings, once fixed by the press, remained unchanged. The result is an orthography rich with memory yet often distant from the living voice.
 
