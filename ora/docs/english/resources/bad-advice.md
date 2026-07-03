@@ -35,15 +35,16 @@ No. The problem is that fast fluency is a lie.
 
 Malcolm Gladwell made this one famous: 10,000 hours to mastery.
 
-The problem is, he got the number from a study of *violinists*. And even in the original study, it wasn’t 10,000 hours to mastery. It was that the best violinists had accumulated about 10,000 hours of practice by age 20.
+The problem is, he got the number from a study of *violinists*. And even in the original study, it wasn’t 10,000 hours to mastery. He that the best violinists had accumulated about 10,000 hours of practice by age 20.
 
 But more importantly: language learning is not violin playing. The skills are different. The feedback loops are different. The goals are different.
 
 Treating language learning like you need 10,000 hours before you’re “good” is a great way to get discouraged and quit before you ever start the simple daily practice.
 
-You can build a living relationship with the language and culture through prayer with far less than 10,000 hours. The FSI says 600-750 hours for Spanish to reach a professional working level. Daily Rosary prayer in the target language gets you there steadily. That’s not 10,000. That’s not even close.
+You can build a living relationship with the language and culture through prayer, and you 10,000 hours. The FSI says 600-750 hours for Spanish to reach a professional working level. Daily Rosary prayer in the target language gets you there steadily. That’s not 10,000. That’s not even close.
 
 The 10,000 hour rule is bad advice when misapplied to language learning.
+
 
 ---
 
@@ -51,9 +52,9 @@ The 10,000 hour rule is bad advice when misapplied to language learning.
 
 This one is especially bad for introverts, but it’s bad advice for almost everyone at the beginning.
 
-“Immersion! Just go to the country! Just talk to people!”
+“Immersion! Just travwl! Just talk to people!”
 
-Look. If you don’t know any of the language, talking to people is mostly you saying “I don’t understand” in English while they look confused. Or you pointing at things and smiling a lot.
+Look, if you don’t know the language, talking to people is mostly you saying “I don’t understand” in English while they look confused. Or you pointing at things and smiling a lot.
 
 There is a time for this. But it is not at hour zero -- especially when your path is the Rosary.
 
@@ -62,6 +63,7 @@ You need *some* foundation first. The core prayers. Enough to pray the Our Fathe
 Otherwise you’re just traumatizing yourself and reinforcing that “I’m bad at languages” instead of entering the relationship through daily prayer.
 
 Bad advice.
+
 
 ---
 
@@ -77,6 +79,7 @@ Treating it like the complete solution is bad advice.
 
 Same for most apps. They’re tools. Not magic. The real work is the steady repetition of the prayers themselves.
 
+
 ---
 
 ## 5. You Need to Think in the Language
@@ -89,9 +92,10 @@ You think in concepts. Your brain will use whatever language is most available f
 
 For the Rosary, you can pray with depth and understanding -- entering the culture’s faith and tradition -- without your entire inner life switching languages. The goal is praying the prayers and relating through them.
 
-Expecting your inner monologue to suddenly switch languages and stay there is not a useful target.
+Expecting your inner monologue to suddenly switch languages is not a useful target.
 
 Focus on communication and comprehension in prayer instead.
+
 
 ---
 
@@ -99,13 +103,14 @@ Focus on communication and comprehension in prayer instead.
 
 The opposite extreme of “learn all the grammar rules first.”
 
-Some people (often the “just speak” crowd) will tell you to ignore grammar entirely. “You don’t need it. Children don’t learn grammar rules.”
+Some people (often the “30-day” crowd) will tell you to ignore grammar entirely. “You don’t need it. Children don’t learn grammar rules.”
 
 Children also take 5+ years to become functional and they have nothing else to do all day.
 
 For an adult with limited time, some explicit attention to grammar (especially patterns and forms) speeds things up dramatically. The FSI data supports early focus on forms.
 
-Ignoring grammar completely is bad advice for adult learners. You need it to pray the prayers accurately, understand their structure, and enter the language of the culture’s liturgy and tradition.
+Ignoring grammar completely is bad advice for adult learners. You need it to understand the structure of the language, its liturgy and tradition.
+
 
 ---
 
