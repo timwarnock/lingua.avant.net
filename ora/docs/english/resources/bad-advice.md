@@ -115,11 +115,11 @@ Ignoring grammar is provably bad advice for adult learners. You need the grammar
 
 ---
 
-The pattern with all bad language learning advice is usually the same: it contains a grain of truth, taken to an extreme, and sold as a complete solution. It feels good because it promises to make something hard into something easy.
+Bad language learning advice often follows the same pattern: it contains a grain of truth, taken to an extreme, and sold as a complete solution. It deceitfully feels good because it promises to make something hard into something easy. But this fundamentally misses the point.
 
 Embrace a language for what it is: a relationship that will change you in profound ways. 
 Never treat a language as a skill or a gimmick.
 
-Languages are, truth be told, a profound mystery of the human experience. On the surface, it is how we communicate our thoughts, but it's also something much deeper, its how we organize and build entire societies, and even that fails to grasp the profundity of language.
+Languages are, truth be told, a profound mystery of the human experience. On the surface, it is how we communicate our thoughts, but it's also something much deeper, it's how we organize and build entire societies, and even that lofty framing fails to grasp the profundity of language.
 Languages are what make us human -- the literal breath of God within us.
 
