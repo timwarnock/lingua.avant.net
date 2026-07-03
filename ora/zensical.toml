@@ -60,7 +60,7 @@ nav = [
       { "Resources" = [
           "english/resources/pronunciation.md",
           "english/resources/advice.md",
-          "english/resources/bad-advice.md",
+          { "Bad Advice" = "english/resources/bad-advice.md" },
           "english/resources/fsi.md",
           "english/resources/fsi-diff.md",
           "english/resources/introverts.md"
