@@ -1,3 +1,7 @@
+.dh-diag
+v/
+
+
 # Python / uv environments and artifacts
 .venv/
 __pycache__/
