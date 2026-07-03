@@ -78,7 +78,7 @@ But it will not make you fluent. It will not teach you what you most need to kno
 
 It’s a starting point, and barely that.
 
-Same for most apps. They’re tools, not magic. The real work is steady repetition, the exact kind you'll get through prayer.
+Same for most apps. They’re tools, not magic. The real work is steady repetition, the exact kind you'll get through flashcards and daily prayer.
 
 
 ---
