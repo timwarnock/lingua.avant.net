@@ -63,7 +63,7 @@ If you don’t know the language, talking to people is mostly you saying “I do
 
 There is a time and place for "go talk to people". But it is not at hour zero.
 
-You need *some* foundation, enough to reduce the psychological danger zone so you can actually participate in a conversation.
+You need *some* foundation, enough to manage the psychological danger zone so you can actually participate in a conversation.
 
 Otherwise you’re just traumatizing yourself and reinforcing the poisonous “I’m bad at languages” idea, instead of entering the relationship through daily prayer.
 
