@@ -4,14 +4,14 @@ icon: lucide/x-circle
 
 # Bad Advice
 
-I love trying new things. I’m quick to believe anything that seems helpful or promises to make language learning quicker or easier. I’m also anxious to test everything -- to see how great it works. Most of the time I’m disappointed, but I’ve come to relish bad advice. Knowing what is bad advice can sometimes be more useful than good advice.
+I love trying new things. I’m quick to believe anything that seems helpful or promises to make language learning quicker or easier. I’m also eager to test everything -- to see how well it works. Most of the time I’m disappointed, but I’ve come to relish bad advice. Knowing what is bad advice can sometimes be more useful than good advice.
 
 
 ---
 
 ## 1. Fast Fluency
 
-Professors hate this. Learn any language with this one weird trick! I’ve personally seen people learn Spanish in 30 days, Italian in a couple months, French in a week!
+Professors hate this. Learn any language with this one weird trick! I’ve personally seen people learn Spanish in 30 days, Italian in a couple of months, French in a week!
 
 But they don’t know the real trick. With My-Magic-Memory-Method(tm) you can learn Chinese in 7 minutes! 
 
@@ -21,9 +21,9 @@ Think about it. You walk into a book store, you see “Chinese in 30 days”, an
 
 > That's good, unless of course someone comes up with "6-minute Chinese", then you're in trouble.
 
-This is the problem with “fast fluency”. It works, sort of. You can learn a few phrases, ask where the library is. You can shout words at people who might understand a word or two. But will you underatand them?
+This is the problem with “fast fluency”. It works, sort of. You can learn a few phrases, ask where the library is. You can shout words at people who might understand a word or two. But will you understand them?
 
-Inagine someone did that with English and shouted some random phrases at you.
+Imagine someone did that with English and shouted some random phrases at you.
 
 You can learn a few things, but you won’t be able to read a book. You won’t understand a movie. You won’t have real conversations, no real connection to other human beings. You won't understand the reply to the phrase you shouted. And you definitely won’t be able to pray the Rosary with native speakers.
 
@@ -34,7 +34,7 @@ No. The problem is that fast fluency is a lie, a kind of sad gimmick that fundam
 
 ---
 
-## 2. The 10,000 Hour Rule
+## 2. The 10,000-Hour Rule
 
 The opposite of fast fluency. Malcolm Gladwell made this one famous: 10,000 hours to mastery.
 
@@ -46,7 +46,7 @@ Treating language learning like you need 10,000 hours before you’re “good”
 
 You can build a living relationship with the language and culture through prayer, and you don't need 10,000 hours. The FSI says 600 hours of Spanish will reach a professional working level. Daily Rosary prayer in the target language gets you there steadily. That’s not 10,000. That’s not even close.
 
-The 10,000 hour rule is bad advice when misapplied to language learning.
+The 10,000-hour rule is bad advice when misapplied to language learning.
 
 
 ---
@@ -55,13 +55,13 @@ The 10,000 hour rule is bad advice when misapplied to language learning.
 
 This one is especially bad for introverts, but it’s bad advice for almost everyone at the beginning.
 
-> Immersion! Just travwl! Just talk to people!
+> Immersion! Just travel! Just talk to people!
 
-If language learning advice starts with "just ..." then prepare for some very stupid and unhelpful advice.
+If language learning advice starts with "just ..." then prepare for some very poor and unhelpful advice.
 
 If you don’t know the language, talking to people is mostly you saying “I don’t understand” in English while they look at you confused. Or you end up pointing at things and relying on body language.
 
-There is a time and a place for "go talk to people". But it is not at hour zero.
+There is a time and place for "go talk to people". But it is not at hour zero.
 
 You need *some* foundation, enough to reduce the psychological danger zone so you can actually participate in a conversation.
 
@@ -74,11 +74,11 @@ Otherwise you’re just traumatizing yourself and reinforcing the poisonous “I
 
 Duolingo is fine for what it is: a game that teaches you some vocabulary and basic grammar in a fun way.
 
-But it will not make you fluent. It will not teach you what you most need to know. It will not prepare you to pray the rosary aloud with native speakers or understand the flow of the mysteries in their language.
+But it will not make you fluent. It will not teach you what you most need to know. It will not prepare you to pray the Rosary aloud with native speakers or understand the flow of the mysteries in their language.
 
 It’s a starting point, and barely that.
 
-Same for most apps. They’re tools, not magic. The real work is steady repetition, the exact kind youll get through prayer.
+Same for most apps. They’re tools, not magic. The real work is steady repetition, the exact kind you'll get through prayer.
 
 
 ---
@@ -102,7 +102,7 @@ Focus on communication and comprehension in prayer instead.
 
 ## 6. Grammar Is a Waste of Time
 
-The opposite extreme of “learn all the grammar rules first.” This idea is bad on face value, yet it gets repeated often.
+The opposite extreme of “learn all the grammar rules first.” This idea is bad on its face, yet it gets repeated often.
 
 Some people (often the “30-day” crowd) will tell you to ignore grammar entirely. “You don’t need it. Children don’t learn grammar rules.”
 
@@ -121,6 +121,6 @@ Language learning is hard.
 
 Embrace it for what it is: a relationship that will change you in profound ways. 
 Never treat a language as a skill or a gimmick. 
-Languages are, truth be told, a profound mystery of the human experience; on the aurfacw, it is how we communicate our thoughts, but its also something much deeper. 
-Languages are what make us human, the literal breath of God within us.
+Languages are, truth be told, a profound mystery of the human experience. On the surface, it is how we communicate our thoughts, but it's also something much deeper.
+Languages are what make us human -- the literal breath of God within us.
 
