@@ -117,7 +117,10 @@ Ignoring grammar is provably bad advice for adult learners. You need the grammar
 
 The pattern with all bad advice is usually the same: it contains a grain of truth, taken to an extreme, and sold as a complete solution. It feels good because it promises to make something hard into something easy.
 
-Language learning is hard. 
+Language learning is hard.
 
-The best advice is the daily Rosary in your target language -- it acknowledges the work and gives you a real path into a relationship with the language, the culture, and the prayers that have shaped it.
+Embrace it for what it is: a relationship that will change you in profound ways. 
+Never treat a language as a skill or a gimmick. 
+Languages are, truth be told, a profound mystery of the human experience; on the aurfacw, it is how we communicate our thoughts, but its also something much deeper. 
+Languages are what make us human, the literal breath of God within us.
 
