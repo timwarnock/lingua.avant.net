@@ -23,13 +23,13 @@ Think about it. You walk into a book store, you see “Chinese in 30 days”, an
 
 This is the problem with “fast fluency”. It works, sort of. You can learn a few phrases, ask where the library is. You can shout words at people who might understand a word or two. But will you understand them?
 
-Imagine someone did that with English and shouted some random phrases at you.
+Imagine someone did that with English and shouted some random phrases at you. Is that English fluency?
 
-You can learn a few things, but you won’t be able to read a book. You won’t understand a movie. You won’t have real conversations, no real connection to other human beings. You won't understand the reply to the phrase you shouted. And you definitely won’t be able to pray the Rosary with native speakers.
+You can learn to shout words, but you won’t be able to read a book. You won’t understand a movie. You won’t have real conversations, no real connection to other human beings. You won't understand the reply to the phrase you shouted. And you definitely won’t be able to pray the Rosary with native speakers.
 
 And that’s the dirty secret of “fast fluency” marketing. It sets you up for failure. Because when you realize that you can’t actually *use* the language, you’ll blame yourself. You’ll think “I guess I’m just not good at languages.”
 
-No. The problem is that fast fluency is a lie, a kind of sad gimmick that fundamentally misses the entire point of a language.
+But that's not the case. The problem is that fast fluency is a lie, a kind of sad gimmick that fundamentally misses the entire point of a language.
 
 
 ---
