@@ -2,7 +2,7 @@
 icon: lucide/keyboard
 ---
 
-# <span title="Is Vietnamese Difficult to Type?">Tiếng Việt Có Khó Gõ Không?</span>
+# <span title="Vietnamese Writing">Viết Tiếng Việt</span>
 
 Is Vietnamese difficult to type? It turns out, **no**, Vietnamese is extremely easy to type. And it’s even easier to write. Vietnamese includes [beautiful](https://vietnamesetypography.com/diacritical-details/) diacritics (accent marks), and while it can look intimidating, the writing is pretty easy to learn.
 
