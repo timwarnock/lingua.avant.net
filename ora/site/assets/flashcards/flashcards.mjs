@@ -283,14 +283,19 @@ function wireControls() {
   const skip = $('flashcard-skip');
   const pauseBtn = $('flashcard-pause');
   const okay = $('flashcard-okay');
-  const wrapper = $('flashcard-content-wrapper');
   const close = $('flashcard-close');
+  const card = $('flashcard');
 
-  if (skip) skip.onclick = () => showNextFlashcard();
-  if (pauseBtn) pauseBtn.onclick = () => pause();
-  if (okay) okay.onclick = () => flipNext();
-  if (wrapper) wrapper.onclick = () => toggleFlashcard();
-  if (close) close.onclick = () => quitDeck();
+  if (skip) skip.onclick = (e) => { e.stopPropagation(); showNextFlashcard(); };
+  if (pauseBtn) pauseBtn.onclick = (e) => { e.stopPropagation(); pause(); };
+  if (okay) okay.onclick = (e) => { e.stopPropagation(); flipNext(); };
+  if (close) close.onclick = (e) => { e.stopPropagation(); quitDeck(); };
+  if (card) card.onclick = (e) => {
+    if (e.target.closest('.flashcard-buttons-bar') || e.target.closest('#flashcard-close')) {
+      return;
+    }
+    toggleFlashcard();
+  };
 
   // Wire pause menu actions (delegated)
   const pauseModal = $('flashcard-pause-modal');
@@ -298,10 +303,13 @@ function wireControls() {
     pauseModal.onclick = (e) => {
       const t = e.target;
       if (t.id === 'flashcard-pause-quit') quitDeck();
-      if (t.id === 'flashcard-pause-reset') showResets();
-      if (t.id === 'flashcard-pause-reset2') { clearScores(INIT_SCORE); pause(); }
-      if (t.id === 'flashcard-pause-reset10') { clearScores(MAX_WAIT); pause(); }
+      if (t.id === 'flashcard-pause-reset') { clearScores(INIT_SCORE); pause(); }
       if (t.id === 'flashcard-pause-resume') unpause();
+      if (t.id === 'kc-x') quitDeck();
+      if (t.id === 'kc-space') unpause();
+      if (t.id === 'kc-enter') { unpause(); flipNext(); }
+      if (t.id === 'kc-f') { unpause(); toggleFlashcard(); }
+      if (t.id === 'kc-s') { unpause(); showNextFlashcard(); }
     };
   }
 }
@@ -326,13 +334,20 @@ function pause() {
   const pauseModal = $('flashcard-pause-modal');
   if (!pauseModal) return;
 
+  const statsText = getStats();
   let paused = `<div id="flashcard-stats">`;
   paused += `<div id="flashcard-pause-quit" class="hand">× quit</div>`;
-  paused += getStats();
+  paused += `<div class="pause-stats">${statsText}</div>`;
   paused += `<div id="flashcard-pause-reset" class="hand">reset scores</div>`;
-  paused += `<div id="flashcard-pause-reset2" class="hand hidden">- depth first (3 seconds)</div>`;
-  paused += `<div id="flashcard-pause-reset10" class="hand hidden">- breadth first (20 seconds)</div>`;
+  paused += `<div class="pause-info">+ depth-first (3 seconds)</div>`;
+  paused += `<div class="pause-info">+ breadth-first (20 seconds)</div>`;
   paused += `<div id="flashcard-pause-resume" class="hand">resume</div>`;
+  paused += `<div class="pause-kbd">Keyboard controls:<br>`;
+  paused += `(<span id="kc-x" class="hand">x</span>) close the app<br>`;
+  paused += `(<span id="kc-space" class="hand">space</span>) pause / unpause<br>`;
+  paused += `(<span id="kc-enter" class="hand">enter</span>) flip / next<br>`;
+  paused += `(<span id="kc-f" class="hand">f</span>) flip<br>`;
+  paused += `(<span id="kc-s" class="hand">s</span>) skip</div>`;
   paused += `</div>`;
 
   pauseModal.style.visibility = 'visible';
@@ -364,13 +379,6 @@ function getStats() {
   }
   stats += `${(avg / FC_DATA.length).toFixed(2)}s average`;
   return stats;
-}
-
-function showResets() {
-  const r2 = $('flashcard-pause-reset2');
-  const r10 = $('flashcard-pause-reset10');
-  if (r2) r2.classList.remove('hidden');
-  if (r10) r10.classList.remove('hidden');
 }
 
 let audioCount = 0;
@@ -460,6 +468,11 @@ document.addEventListener('keydown', (evt) => {
     }
   }
   if (evt.key === 'Enter') {
+    evt.preventDefault();
+    const pauseEl = $('flashcard-pause-modal');
+    if (pauseEl && pauseEl.style.visibility === 'visible') {
+      unpause();
+    }
     flipNext();
   }
   if (evt.key.toLowerCase() === 'f') {

@@ -293,6 +293,26 @@
   font-size: 1rem;
 }
 
+/* Only bold the clickable actions on pause screen; stats and info plain */
+#flashcards-root #flashcard-pause-modal .hand {
+  font-weight: bold;
+  cursor: pointer;
+}
+#flashcards-root #flashcard-pause-modal .pause-stats,
+#flashcards-root #flashcard-pause-modal .pause-info,
+#flashcards-root #flashcard-pause-modal .pause-kbd {
+  font-weight: normal;
+}
+#flashcards-root #flashcard-pause-modal .pause-stats,
+#flashcards-root #flashcard-pause-modal .pause-info {
+  font-size: 0.85rem;
+}
+#flashcards-root #flashcard-pause-modal .pause-kbd {
+  margin-top: 0.8em;
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+
 /* Green flashcard trigger buttons matching original style */
 .flashcard-green {
   min-width: 200px;
