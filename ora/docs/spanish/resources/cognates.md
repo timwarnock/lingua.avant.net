@@ -17,8 +17,6 @@ This connection becomes especially clear when praying the Rosary in Spanish. Man
 ## Cognates in Prayer
 
 !!! tip "Cognates in the Rosary"
-    The shared Christian Latin heritage appears most clearly when the Rosary is prayed in Spanish. Many of the words that appear in the traditional prayers are direct or near cognates because they entered both languages through the same centuries of liturgy, scripture, and theology.
-
     - mystery → misterio  
     - glory → gloria  
     - eternity → eternidad  
