@@ -54,6 +54,10 @@ So in English something like:
 + Fatima Prayer
 + Hail Holy Queen (should also include "Let us pray..." Rosary Prayer)
 
+And then "extras" for extra prayers, such as,
+Jesus Prayer
+Nicene Creed
+
 Every language should have those exact pages, with icon: material/cross
 The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation..."
 

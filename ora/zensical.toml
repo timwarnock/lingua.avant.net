@@ -80,7 +80,6 @@ nav = [
         ] },
       { "[ Recursos ]" = [
           "spanish/resources/pronunciation.md",
-          "spanish/resources/notes.md",
           "spanish/resources/cognates.md",
           "spanish/resources/conjugations.md"
         ] }

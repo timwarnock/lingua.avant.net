@@ -140,7 +140,7 @@ In Latin American Spanish, there are only five subjects. In Spain there is a six
 
 ## Imperative Tense (command)
 
-Break out the liturgical vestments. Spanish has an entire tense just for giving commands (sit! stand! speak!). This gets so distinct the -AR verbs act like -ER verbs, and the -ER/-IR verbs act like -AR verbs. It's a liturgical reversal -- the normal order flipped.
+Break out the liturgical vestments. Spanish has an entire tense just for giving commands (sit! stand! speak!). This gets so distinct that the -AR verbs act like -ER verbs, and the -ER/-IR verbs act like -AR verbs. It's a liturgical reversal -- the normal order flipped.
 
 !!! success "Imperativo"
     *hable, habla/hables(neg.), hablen, hablemos, hablad/habléis(neg.)*
@@ -399,4 +399,8 @@ For example, *no me lo digas*
     *Concédenos* = concéde + nos = grant us
 
 For all other cases the pronouns cannot be appended to the verb. Typically, the subject is implied in the conjugation and the object precedes the conjugated verb (*me lo dicen* = they told it to me).
+
+---
+
+Each conjugation is another rung on the ladder of prayer. As the forms move from the mind into the voice, the Rosary itself becomes the ascent -- the mysteries rising with you in the language the faithful have prayed for centuries.
 
