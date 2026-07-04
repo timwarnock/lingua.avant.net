@@ -8,9 +8,14 @@ icon: lucide/mic
 
 + syllable (initial + vowel + final) + tone
 
-+ Tones <button class="flashcard-green" onclick="Flashcards.open('vi/pronounceTones')">flashcards</button>
-+ Basics <button class="flashcard-green" onclick="Flashcards.open('vi/pronounceBasics')">flashcards</button>
-+ Practice <button class="flashcard-green" onclick="Flashcards.open('vi/pronouncePractice')">flashcards</button>
+Vietnamese flashcards:
+
+<button class="flashcard-green" onclick="Flashcards.open('vi/hello')">Hello / Xin chào</button>
+<button class="flashcard-green" onclick="Flashcards.open('vi/hoctap')">Study / Học tập</button>
+<button class="flashcard-green" onclick="Flashcards.open('vi/pronounceTones')">Tones / Thanh điệu</button>
+<button class="flashcard-green" onclick="Flashcards.open('vi/pronounceBasics')">Basics / Cơ bản</button>
+<button class="flashcard-green" onclick="Flashcards.open('vi/pronouncePractice')">Practice / Thực hành</button>
+<button class="flashcard-green" onclick="Flashcards.open('vi/pronounceAll')">All / Tất cả</button>
 
 phonemes
 

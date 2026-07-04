@@ -12,3 +12,11 @@ icon: lucide/mic
 - 拼音或注音練習有幫助。
 
 多聽中文玫瑰經的誦念錄音，感受自然的語調與呼吸。
+
+Chinese flashcards; hand-made are the best, although as a web or mobile app they can record timing and do a better job at spaced-repetition patterns to aid memorization and automaticity.
+
+<button class="flashcard-green" onclick="Flashcards.open('zh/hello')">Hello / 你好</button>
+<button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Tones / 聲調</button>
+<button class="flashcard-green" onclick="Flashcards.open('zh/learning')">Learning / 學習</button>
+<button class="flashcard-green" onclick="Flashcards.open('zh/convo1')">Conversation / 對話</button>
+<button class="flashcard-green" onclick="Flashcards.open('zh/danger')">Danger Zone / 危險區</button>

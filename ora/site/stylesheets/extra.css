@@ -251,12 +251,17 @@
 }
 
 #flashcards-root .flashcard-button {
-  flex: 0 0 90px;
+  flex: 0 0 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
   text-align: center;
   background-color: #666;
   color: white;
   border-radius: 4px;
-  padding: 8px 0;
+  height: 32px;
+  padding: 0 4px;
   font-size: 0.95rem;
   user-select: none;
   transition: background-color 0.2s ease, opacity 0.2s ease;

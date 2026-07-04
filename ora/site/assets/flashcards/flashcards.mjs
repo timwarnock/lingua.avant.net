@@ -35,6 +35,8 @@ let templates = {
   pause: ''
 };
 
+let currentOverrides = {};
+
 // Helper
 function $(id) {
   return document.getElementById(id);
@@ -64,6 +66,27 @@ async function loadTemplates() {
   templates.modal = modal;
   templates.card = card;
   templates.pause = pause;
+}
+
+async function loadOverrides(deck) {
+  const [lang] = (deck || '').split('/');
+  if (!lang || lang === 'en') return {};
+  try {
+    const url = `${BASE}/languages/${lang}/lang.json`;
+    const res = await fetch(url);
+    if (res.ok) {
+      const data = await res.json();
+      return data || {};
+    }
+  } catch (e) {}
+  return {};
+}
+
+function label(key, enDefault) {
+  if (currentOverrides && key in currentOverrides) {
+    return currentOverrides[key];
+  }
+  return enDefault;
 }
 
 function initScores(fcname) {
@@ -119,7 +142,7 @@ function reverse_scores_index() {
 
 function _setFlashcard() {
   const fc = _currFlashcard();
-  fcstat(`${CURR_FC + 1} of ${FC_SCORE.length} (${FC_SCORE[CURR_FC].toFixed(1)}s avg)`);
+  fcstat(`${CURR_FC + 1}/${FC_SCORE.length} (${FC_SCORE[CURR_FC].toFixed(1)}s)`);
   const fcf = `<div class="flashcard-prompt">${fc.key}</div>`;
   $('flashcard-front').innerHTML = fcf;
   let fcb = `<div class="flashcard-full-answer">${fc.answer}</div>`;
@@ -155,9 +178,12 @@ function showBackFlashcard() {
   if (FIRST_FLIP) {
     startwatch();
     FIRST_FLIP = false;
-    if ($('flashcard-okay')) {
-      $('flashcard-okay').innerHTML = 'next';
-      $('flashcard-okay').classList.add('next-flipped');
+    const okay = $('flashcard-okay');
+    if (okay) {
+      const en = 'next';
+      okay.innerHTML = label('next', en);
+      okay.title = en;
+      okay.classList.add('next-flipped');
     }
   }
   const flashcard = $('flashcard');
@@ -183,9 +209,12 @@ function showNextFlashcard() {
     setScore(CURR_FC, (oldscore * 3 + wait_s) / 4);
   }
   FIRST_FLIP = true;
-  if ($('flashcard-okay')) {
-    $('flashcard-okay').innerHTML = 'flip';
-    $('flashcard-okay').classList.remove('next-flipped');
+  const okay = $('flashcard-okay');
+  if (okay) {
+    const en = 'flip';
+    okay.innerHTML = label('flip', en);
+    okay.title = en;
+    okay.classList.remove('next-flipped');
   }
   _stopAudio();
   _nextFlashcard();
@@ -221,7 +250,7 @@ async function loadDeck(deck) {
 
   _showModal();
   pauseLoad();
-  fcstat('loading');
+  fcstat(label('loading', 'loading'));
 
   try {
     const res = await fetch(jsonUrl);
@@ -245,7 +274,9 @@ async function loadDeck(deck) {
     // Preload audio for this deck (best effort)
     preloadDeckAudio(lang, name);
 
-    unpause();
+    if (audioCount === 0) {
+      unpause();
+    }
   } catch (e) {
     console.error(e);
     quitDeck();
@@ -305,12 +336,39 @@ function wireControls() {
       if (t.id === 'flashcard-pause-quit') quitDeck();
       if (t.id === 'flashcard-pause-reset') { clearScores(INIT_SCORE); pause(); }
       if (t.id === 'flashcard-pause-resume') unpause();
-      if (t.id === 'kc-x') quitDeck();
+      if (t.id === 'kc-x' || t.id === 'kc-esc') quitDeck();
       if (t.id === 'kc-space') unpause();
       if (t.id === 'kc-enter') { unpause(); flipNext(); }
       if (t.id === 'kc-f') { unpause(); toggleFlashcard(); }
       if (t.id === 'kc-s') { unpause(); showNextFlashcard(); }
     };
+  }
+
+  applyCardLabels();
+}
+
+function applyCardLabels() {
+  const skip = $('flashcard-skip');
+  if (skip) {
+    const en = skip.textContent.trim();
+    skip.textContent = label('skip', en);
+    skip.title = en;
+  }
+  const pauseBtn = $('flashcard-pause');
+  if (pauseBtn) {
+    const en = pauseBtn.textContent.trim();
+    pauseBtn.textContent = label('pause', en);
+    pauseBtn.title = en;
+  }
+  const okay = $('flashcard-okay');
+  if (okay) {
+    const en = okay.textContent.trim();
+    okay.textContent = label('flip', en);
+    okay.title = en;
+  }
+  const x = $('flashcard-close');
+  if (x && !x.title) {
+    x.title = 'Close';
   }
 }
 
@@ -323,9 +381,12 @@ function quitDeck() {
   unpause();
   _stopAudio();
   _unsetFlashcard();
-  if ($('flashcard-okay')) {
-    $('flashcard-okay').innerHTML = 'flip';
-    $('flashcard-okay').classList.remove('next-flipped');
+  const okay = $('flashcard-okay');
+  if (okay) {
+    const en = 'flip';
+    okay.innerHTML = label('flip', en);
+    okay.title = en;
+    okay.classList.remove('next-flipped');
   }
   _closeModal();
 }
@@ -335,19 +396,22 @@ function pause() {
   if (!pauseModal) return;
 
   const statsText = getStats();
+  const enQuit = '× quit';
+  const enReset = 'reset scores';
+  const enResume = 'resume';
   let paused = `<div id="flashcard-stats">`;
-  paused += `<div id="flashcard-pause-quit" class="hand">× quit</div>`;
+  paused += `<div id="flashcard-pause-quit" class="hand" title="${enQuit}">${label('quit', enQuit)}</div>`;
   paused += `<div class="pause-stats">${statsText}</div>`;
-  paused += `<div id="flashcard-pause-reset" class="hand">reset scores</div>`;
-  paused += `<div class="pause-info">+ depth-first (3 seconds)</div>`;
-  paused += `<div class="pause-info">+ breadth-first (20 seconds)</div>`;
-  paused += `<div id="flashcard-pause-resume" class="hand">resume</div>`;
-  paused += `<div class="pause-kbd">Keyboard controls:<br>`;
-  paused += `(<span id="kc-x" class="hand">x</span>) close the app<br>`;
-  paused += `(<span id="kc-space" class="hand">space</span>) pause / unpause<br>`;
-  paused += `(<span id="kc-enter" class="hand">enter</span>) flip / next<br>`;
-  paused += `(<span id="kc-f" class="hand">f</span>) flip<br>`;
-  paused += `(<span id="kc-s" class="hand">s</span>) skip</div>`;
+  paused += `<div id="flashcard-pause-reset" class="hand" title="${enReset}">${label('reset_scores', enReset)}</div>`;
+  paused += `<div class="pause-info">${label('depth_first', '+ depth-first (3 seconds)')}</div>`;
+  paused += `<div class="pause-info">${label('breadth_first', '+ breadth-first (20 seconds)')}</div>`;
+  paused += `<div id="flashcard-pause-resume" class="hand" title="${enResume}">${label('resume', enResume)}</div>`;
+  paused += `<div class="pause-kbd">${label('kbd_header', 'Keyboard controls:')}<br>`;
+  paused += `(<span id="kc-x" class="hand" title="x">x</span> <span id="kc-esc" class="hand" title="esc">esc</span>) ${label('kbd_close_app', 'close the app')}<br>`;
+  paused += `(<span id="kc-space" class="hand" title="space">space</span>) ${label('kbd_pause_unpause', 'pause / unpause')}<br>`;
+  paused += `(<span id="kc-enter" class="hand" title="enter">enter</span>) ${label('kbd_flip_next', 'flip / next')}<br>`;
+  paused += `(<span id="kc-f" class="hand" title="f">f</span>) ${label('kbd_flip', 'flip')}<br>`;
+  paused += `(<span id="kc-s" class="hand" title="s">s</span>) ${label('kbd_skip', 'skip')}</div>`;
   paused += `</div>`;
 
   pauseModal.style.visibility = 'visible';
@@ -360,7 +424,7 @@ function pauseLoad() {
   if (!pauseModal) return;
   pauseModal.style.visibility = 'visible';
   pauseModal.style.opacity = '1';
-  pauseModal.innerHTML = `<div id="flashcard-stats">loading...</div>`;
+  pauseModal.innerHTML = `<div id="flashcard-stats">${label('loading', 'loading...')}</div>`;
 }
 
 function unpause() {
@@ -372,12 +436,14 @@ function unpause() {
 }
 
 function getStats() {
-  let stats = `${FC_DATA.length} cards, `;
+  const cards = label('cards', 'cards');
+  const average = label('average', 'average');
+  let stats = `${FC_DATA.length} ${cards}, `;
   let avg = 0;
   for (let i = 0; i < FC_DATA.length; i++) {
     avg += FC_SCORE[i] || 0;
   }
-  stats += `${(avg / FC_DATA.length).toFixed(2)}s average`;
+  stats += `${(avg / FC_DATA.length).toFixed(2)}s ${average}`;
   return stats;
 }
 
@@ -413,7 +479,8 @@ function loadedAudio() {
   audioReady++;
   const stats = $('flashcard-stats');
   if (stats) {
-    stats.innerHTML = `loading ${audioReady} of ${audioCount} <span id="force-start" class="hand">force start</span>`;
+    const enForce = 'force start';
+    stats.innerHTML = `${label('loading', 'loading')} ${audioReady}/${audioCount} <span id="force-start" class="hand" title="${enForce}">${label('force_start', enForce)}</span>`;
     const force = $('force-start');
     if (force) force.onclick = () => unpause();
   }
@@ -485,6 +552,11 @@ document.addEventListener('keydown', (evt) => {
     pause();
     quitDeck();
   }
+  if (evt.key === 'Escape' || evt.key === 'Esc') {
+    evt.preventDefault();
+    pause();
+    quitDeck();
+  }
 });
 
 // Touch swipe (simplified)
@@ -510,6 +582,7 @@ document.addEventListener('touchmove', (evt) => {
 const Flashcards = {
   async open(deck) {
     // deck e.g. 'zh/tones'
+    currentOverrides = await loadOverrides(deck);
     await loadTemplates();
 
     // Create modal shell

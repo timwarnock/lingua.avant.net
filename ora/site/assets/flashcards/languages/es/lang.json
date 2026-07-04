@@ -1,0 +1,21 @@
+{
+  "skip": "saltar",
+  "pause": "pausa",
+  "flip": "voltear",
+  "next": "siguiente",
+  "quit": "× salir",
+  "reset_scores": "reiniciar puntuaciones",
+  "resume": "reanudar",
+  "depth_first": "+ primero en profundidad (3 segundos)",
+  "breadth_first": "+ primero en amplitud (20 segundos)",
+  "kbd_header": "Controles de teclado:",
+  "kbd_close_app": "cerrar la aplicación",
+  "kbd_pause_unpause": "pausa / reanudar",
+  "kbd_flip_next": "voltear / siguiente",
+  "kbd_flip": "voltear",
+  "kbd_skip": "saltar",
+  "loading": "cargando...",
+  "force_start": "forzar inicio",
+  "cards": "tarjetas",
+  "average": "promedio"
+}

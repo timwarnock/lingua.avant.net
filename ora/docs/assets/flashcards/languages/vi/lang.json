@@ -1,0 +1,21 @@
+{
+  "skip": "bỏ qua",
+  "pause": "tạm dừng",
+  "flip": "lật",
+  "next": "tiếp theo",
+  "quit": "× thoát",
+  "reset_scores": "đặt lại điểm",
+  "resume": "tiếp tục",
+  "depth_first": "+ theo độ sâu (3 giây)",
+  "breadth_first": "+ theo độ rộng (20 giây)",
+  "kbd_header": "Phím tắt:",
+  "kbd_close_app": "đóng ứng dụng",
+  "kbd_pause_unpause": "tạm dừng / tiếp tục",
+  "kbd_flip_next": "lật / tiếp theo",
+  "kbd_flip": "lật",
+  "kbd_skip": "bỏ qua",
+  "loading": "đang tải...",
+  "force_start": "bắt đầu ngay",
+  "cards": "thẻ",
+  "average": "trung bình"
+}

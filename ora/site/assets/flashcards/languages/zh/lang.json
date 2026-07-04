@@ -1,0 +1,21 @@
+{
+  "skip": "跳過",
+  "pause": "暫停",
+  "flip": "翻面",
+  "next": "下一張",
+  "quit": "× 退出",
+  "reset_scores": "重設分數",
+  "resume": "繼續",
+  "depth_first": "+ 深度優先 (3 秒)",
+  "breadth_first": "+ 廣度優先 (20 秒)",
+  "kbd_header": "鍵盤控制：",
+  "kbd_close_app": "關閉應用程式",
+  "kbd_pause_unpause": "暫停 / 繼續",
+  "kbd_flip_next": "翻面 / 下一張",
+  "kbd_flip": "翻面",
+  "kbd_skip": "跳過",
+  "loading": "載入中...",
+  "force_start": "強制開始",
+  "cards": "卡片",
+  "average": "平均"
+}
