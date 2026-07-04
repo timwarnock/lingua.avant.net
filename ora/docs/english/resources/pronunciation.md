@@ -53,7 +53,7 @@ Possession is expressed by "thy" before most words and by "thine" before vowels 
 
 Modern English, by contrast, collapses these distinctions into the single word "you," which must serve alike as subject and object, singular and plural. This introduces ambiguity and imprecision that can lead to poor understanding of Holy Scripture. The older forms, preserved in prayer, restore a more exact and reverent mode of address. When we pray "hallowed be thy name" or "blessed art thou" the tongue speaks with a clarity that mirrors the ordered love of the heart for God.
 
-!!! warning "The 'You' Mess"
+!!! warning "The 'You' Confusion"
     Modern English squeezes everything into one clumsy "you".
 
     "You need to stop that" -- one person or the whole room? In a crowd someone always wonders, "Are you talking to me?"
