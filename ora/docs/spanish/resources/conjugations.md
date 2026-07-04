@@ -8,6 +8,24 @@ Conjugations are a beautiful part of Spanish. The word "conjugation" shares the 
 
 You can learn conjugations via [conjugation tables](http://www.123teachme.com/spanish_verb_conjugation/venir), and in fact conjugation tables are an excellent resource for looking up specific verb forms (especially for irregular verbs). That said, tables alone miss an excellent opportunity to learn the patterns. Studying conjugation tables is like studying the blueprints of a cathedral versus walking through it. You're going to want to do both, but at the end of the day, it's the experience that matters.
 
+## Prayer-Oriented Verbs
+
+Spanish has three distinct verbs for "to pray," each with a nuance English collapses into one. As you learn them you gain precision in the language and begin to sense how the prayers themselves shift in feeling, opening up deeper meanings that you may have missed in English -- a quieter inward turning in contemplation, and a more direct appeal when asking the saints for help.
+
+Rezar is the everyday verb for reciting prayers like the Rosary. Orar is more formal and often contemplative. Rogar carries the sense of imploring or interceding.
+
+!!! tip "*rezar* = to pray"
+    *Rezo el Rosario cada día* = I pray the Rosary every day.  
+    *Reza el Ave María* = Pray the Hail Mary.  
+    *Rezad el Rosario* = Pray the Rosary.  
+
+!!! tip "*orar* = to pray"
+    *Oremos* = Let us pray.  
+
+!!! tip "*rogar* = to pray / to implore"
+    *Ruega por nosotros pecadores* = Pray for us sinners.  
+    *Te rogamos, Señor* = We pray to you, Lord.  
+
 ---
 
 ## The Ladder of Prayer
@@ -85,6 +103,10 @@ You + me + a verb -- we come together as one picture. "-mos" sounds like the beg
     *comemos* = we eat  
     *vivimos* = we live
 
+!!! tip "Prayer with 'nosotros'"
+    *Oremos* = Let us pray  
+    *Perdonamos* a los que nos ofenden = We forgive those who trespass against us
+
 ---
 
 ### vosotros/vosotras = you (informal plural)
@@ -126,7 +148,13 @@ Break out the liturgical vestments. Spanish has an entire tense just for giving 
     *coma, come/comas(neg.), coman, comamos, comed/comáis(neg.)*  
     *viva, vive/vivas(neg.), vivan, vivamos, vivid/viváis(neg.)*
 
-* There is no "yo" form in the imperative tense. You can't tell yourself what to do.
+There is no "yo" form in the imperative tense. You can't tell yourself what to do.
+
+!!! tip "Commands from the Rosary prayers"
+    *Danos* hoy nuestro pan = Give us this day our daily bread  
+    *Perdona* nuestras ofensas = Forgive us our trespasses  
+    *Líbranos* del mal = Deliver us from evil  
+    *Ruega* por nosotros = Pray for us
 
 ---
 
@@ -186,6 +214,12 @@ Here are some common introductions to a subjunctive mood:
 *si...* ("if...")  
 *aunque...* ("although...")  
 *Ojalá que...* ("hopefully..." from Arabic "إن شاء الله" *in šā' allāh* "God willing")
+
+!!! tip "Subjunctive in the prayers"
+    *Venga* tu reino = Thy kingdom come  
+    *Hágase* tu voluntad = Thy will be done  
+    *Sea* santificado tu nombre = Hallowed be thy name  
+    *Oremos* = Let us pray
 
 ---
 
@@ -358,4 +392,11 @@ There are three (and only three) cases where object pronouns can be attached dir
 \* The negative commands must follow the normal pronoun pattern.
 For example, *no me lo digas*
 
+!!! tip "Attached pronouns in Rosary commands"
+    *Danos* = da + nos = give us  
+    *Líbranos* = líbra + nos = deliver us  
+    *Muéstranos* = muéstra + nos = show us  
+    *Concédenos* = concéde + nos = grant us
+
 For all other cases the pronouns cannot be appended to the verb. Typically, the subject is implied in the conjugation and the object precedes the conjugated verb (*me lo dicen* = they told it to me).
+
