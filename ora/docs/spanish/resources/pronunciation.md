@@ -21,10 +21,15 @@ Michel Thomas; the Spanish beginner course is fantastic, and it helped me with t
 
 Spanish flashcards:
 
+<button class="flashcard-green" onclick="Flashcards.open('es/adjetivos')">Adjectives / Adjetivos</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/adverbios')">Adverbs / Adverbios</button>
 <button class="flashcard-green" onclick="Flashcards.open('es/hello')">Hello / Hola</button>
-
-<button class="flashcard-green" onclick="Flashcards.open('es/numeros')">Numbers / Numeros</button>
-
+<button class="flashcard-green" onclick="Flashcards.open('es/numeros')">Numbers / Números</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/pais')">Countries / Países</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/preposiciones')">Prepositions / Preposiciones</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/pronombres')">Pronouns / Pronombres</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/sustantivos')">Nouns / Sustantivos</button>
+<button class="flashcard-green" onclick="Flashcards.open('es/tiempo')">Time / Tiempo</button>
 <button class="flashcard-green" onclick="Flashcards.open('es/verbos')">Verbs / Verbos</button>
 
 ## <span title="not recommended">no recomendado</span>
