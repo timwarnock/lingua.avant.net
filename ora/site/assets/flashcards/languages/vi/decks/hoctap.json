@@ -66,14 +66,10 @@
     "audio_prompt": "hoctap/11.mp3"
   },
   {
-    "key": "Xin l\u1ed7i",
-    "answer": " t\u00f4i kh\u00f4ng bi\u1ebft Ti\u1ebfng Vi\u1ec7t",
-    "alt": "Sorry",
-    "audio_prompt": " I do not know Vietnamese",
-    "null": [
-      "",
-      "hoctap/12.mp3"
-    ]
+    "key": "Xin lỗi, tôi không biết Tiếng Việt",
+    "answer": "Sorry, I do not know Vietnamese",
+    "alt": "",
+    "audio_prompt": "hoctap/12.mp3"
   },
   {
     "key": "V\u1ee3 t\u00f4i. gi\u00e1o vi\u00ean t\u1ed3i.",
