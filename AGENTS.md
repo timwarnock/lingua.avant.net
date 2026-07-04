@@ -87,8 +87,6 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 ## TODO
 
-+ flashcard app should be language specific (e.g., skip, pause, flip in the target langage with tooltips for english)
-
 + see [notes-resources.md](notes-resources.md), revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
 
 + carefully tweak latin phonetics for better audio (italian to liturgical latin)
