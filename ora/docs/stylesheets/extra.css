@@ -159,6 +159,18 @@
   background: rgba(0,0,0,0.3);
 }
 
+/* Fix tooltip escape: theme .md-tabs__list uses contain:content + flex + overflow:auto
+   which creates an isolating stacking/paint context. Children (the [tooltip] links)
+   cannot paint outside the list bounds. Neutralize here so ::after can render fully. */
+.md-tabs,
+.md-tabs__list {
+  overflow: visible !important;
+}
+
+.md-tabs__list {
+  contain: none !important;
+}
+
 /* Keep the light/dark mode toggle in the header at full prominence.
    Only set color for visibility over the custom banner background. */
 .md-header__option {
