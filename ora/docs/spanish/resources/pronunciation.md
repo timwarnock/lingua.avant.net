@@ -2,7 +2,7 @@
 icon: lucide/mic
 ---
 
-# <span title="Pronunciation">Pronunciación</span>
+# <span tooltip="Pronunciation">Pronunciación</span>
 
 Spanish pronunciation of the Rosary follows standard Spanish, with attention to the steady rhythm of prayer.
 
@@ -50,7 +50,7 @@ The best practice is to listen repeatedly to native speakers praying the full Ro
 
     GLOH-ryah al PAH-dreh, al EE-ho ee al ehs-PEE-ree-too SAHN-toh. KOH-moh EH-rah en el preen-SEE-pyo, ah-OH-rah ee SYEM-preh, por los SEE-glos deh los SEE-glos. ah-MEN.
 
-## <span title="Recommendations">Recomendaciones</span>
+## <span tooltip="Recommendations">Recomendaciones</span>
 
 *These are approaches that I have found the most useful, and would recommend to anyone learning Spanish.*
 
@@ -69,6 +69,6 @@ Spanish flashcards; hand-made are the best, although as a web or mobile app they
 <button class="flashcard-green" onclick="Flashcards.open('es/tiempo')">Time / Tiempo</button>
 <button class="flashcard-green" onclick="Flashcards.open('es/verbos')">Verbs / Verbos</button>
 
-## <span title="Not Recommended">No Recomendado</span>
+## <span tooltip="Not Recommended">No Recomendado</span>
 
 Avoid influencers and language blogs that promote fast fluency -- this is toxic garbage that will destroy any real progress. See [bad advice](../../english/resources/bad-advice.md).

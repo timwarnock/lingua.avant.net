@@ -2,13 +2,13 @@
 icon: lucide/book
 ---
 
-# <span title="Yǔfǎ - grammar">語法</span>
+# <span tooltip="Yǔfǎ - grammar">語法</span>
 
 tbd
 
 ---
 
-## <span title="zuò qīngdān - to do list">做清單</span>
+## <span tooltip="zuò qīngdān - to do list">做清單</span>
 
 + https://resources.allsetlearning.com/chinese/grammar/Main_Page
 

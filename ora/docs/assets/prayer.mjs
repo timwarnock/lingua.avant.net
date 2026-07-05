@@ -421,7 +421,7 @@ function createApp(container, opts = {}) {
       const b = document.createElement('button');
       b.className = 'play-btn';
       b.textContent = '▶';
-      b.title = 'Play full prayer';
+      b.setAttribute('tooltip', 'Play full prayer');
       mainPlayBtn = b;
       b.addEventListener('click', onPlayFull);
       h.appendChild(t);
@@ -435,7 +435,7 @@ function createApp(container, opts = {}) {
       const b = document.createElement('button');
       b.className = 'play-btn';
       b.textContent = '▶';
-      b.title = 'Play full prayer';
+      b.setAttribute('tooltip', 'Play full prayer');
       mainPlayBtn = b;
       b.addEventListener('click', onPlayFull);
       hdr.appendChild(t);
@@ -468,7 +468,7 @@ function createApp(container, opts = {}) {
       const bp = document.createElement('button');
       bp.className = 'dual-play';
       bp.textContent = '▶';
-      bp.title = 'Play passage (primary)';
+      bp.setAttribute('tooltip', 'Play passage (primary)');
       lp.appendChild(bp);
       const tp1 = document.createElement('span');
       tp1.className = 'dual-text primary-text';
@@ -496,7 +496,7 @@ function createApp(container, opts = {}) {
       const bs = document.createElement('button');
       bs.className = 'dual-play';
       bs.textContent = '▶';
-      bs.title = 'Play passage (secondary)';
+      bs.setAttribute('tooltip', 'Play passage (secondary)');
       ls.appendChild(bs);
       const tp2 = document.createElement('span');
       tp2.className = 'dual-text secondary-text';
@@ -545,7 +545,7 @@ function createApp(container, opts = {}) {
         const bp = document.createElement('button');
         bp.className = 'dual-play';
         bp.textContent = '▶';
-        bp.title = 'Play passage';
+        bp.setAttribute('tooltip', 'Play passage');
         lp.appendChild(bp);
         const tp = document.createElement('span');
         tp.className = 'dual-text primary-text';
@@ -602,12 +602,12 @@ function createApp(container, opts = {}) {
     if (primaryToggleBtn) {
       const isPh = state.primaryMode === 'phonetic';
       primaryToggleBtn.className = 'dual-mode-toggle' + (isPh ? ' selected' : '');
-      primaryToggleBtn.title = isPh ? 'Showing phonetic' : 'Showing text';
+      primaryToggleBtn.setAttribute('tooltip', isPh ? 'Showing phonetic' : 'Showing text');
     }
     if (secondaryToggleBtn) {
       const isPh = state.secondaryMode === 'phonetic';
       secondaryToggleBtn.className = 'dual-mode-toggle' + (isPh ? ' selected' : '');
-      secondaryToggleBtn.title = isPh ? 'Showing phonetic' : 'Showing text';
+      secondaryToggleBtn.setAttribute('tooltip', isPh ? 'Showing phonetic' : 'Showing text');
     }
   }
 
@@ -638,7 +638,7 @@ function createApp(container, opts = {}) {
       const sw = document.createElement('button');
       sw.className = 'dual-swap dual-swap-between';
       sw.textContent = '⇄';
-      sw.title = 'Swap languages';
+      sw.setAttribute('tooltip', 'Swap languages');
       sw.addEventListener('click', () => {
         const pl = state.primaryLang, pm = state.primaryMode;
         state.primaryLang = state.secondaryLang;
@@ -738,7 +738,7 @@ function createApp(container, opts = {}) {
   function makeModeToggle(cur, onCh) {
     const btn = document.createElement('button');
     btn.className = 'dual-mode-toggle' + (cur === 'phonetic' ? ' selected' : '');
-    btn.title = (cur === 'phonetic') ? 'Showing phonetic' : 'Showing text';
+    btn.setAttribute('tooltip', (cur === 'phonetic') ? 'Showing phonetic' : 'Showing text');
     const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
     svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
     svg.setAttribute('fill', 'none');
@@ -764,7 +764,7 @@ function createApp(container, opts = {}) {
   function makePhoneticToggle(initialShow, onChange) {
     const btn = document.createElement('button');
     btn.className = 'dual-mode-toggle' + (initialShow ? ' selected' : '');
-    btn.title = initialShow ? 'Hide phonetic' : 'Show phonetic';
+    btn.setAttribute('tooltip', initialShow ? 'Hide phonetic' : 'Show phonetic');
     const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
     svg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
     svg.setAttribute('fill', 'none');
@@ -781,7 +781,7 @@ function createApp(container, opts = {}) {
     btn.addEventListener('click', () => {
       const nowShow = !btn.classList.contains('selected');
       btn.classList.toggle('selected', nowShow);
-      btn.title = nowShow ? 'Hide phonetic' : 'Show phonetic';
+      btn.setAttribute('tooltip', nowShow ? 'Hide phonetic' : 'Show phonetic');
       onChange(nowShow);
     });
     return btn;
@@ -873,7 +873,7 @@ function createApp(container, opts = {}) {
     const fb = document.createElement('button');
     fb.className = 'play-btn';
     fb.textContent = '▶';
-    fb.title = 'Play full prayer (primary)';
+    fb.setAttribute('tooltip', 'Play full prayer (primary)');
     mainPlayBtn = fb;
     fb.addEventListener('click', () => {
       if (mainPlayBtn && mainPlayBtn.textContent === '⏸') stopAll();

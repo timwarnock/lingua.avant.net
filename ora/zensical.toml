@@ -310,21 +310,11 @@ features = [
 
 
 
-    # Zensical can render footnotes as inline tooltips, so the user can read
-    # the footnote without leaving the context of the document.
-    # https://zensical.org/docs/authoring/footnotes/#footnote-tooltips
-    "content.footnote.tooltips",
-
     # If you have many content tabs that have the same titles (e.g., "Python",
     # "JavaScript", "Cobol"), this feature causes all of them to switch to
     # at the same time when the user chooses their language in one.
     # https://zensical.org/docs/authoring/content-tabs/#linked-content-tabs
     "content.tabs.link",
-
-    # With this feature enabled users can add tooltips to links that will be
-    # displayed when the mouse pointer hovers the link.
-    # https://zensical.org/docs/authoring/tooltips/#improved-tooltips
-    "content.tooltips",
 
     # With this feature enabled, Zensical will automatically hide parts
     # of the header when the user scrolls past a certain point.

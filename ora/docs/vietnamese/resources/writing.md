@@ -2,7 +2,7 @@
 icon: lucide/keyboard
 ---
 
-# <span title="Vietnamese Writing">Viết Tiếng Việt</span>
+# <span tooltip="Vietnamese Writing">Viết Tiếng Việt</span>
 
 Vietnamese writing uses the Latin alphabet with diacritics. It can look intimidating, but the writing is pretty easy to learn. Vietnamese includes [beautiful](https://vietnamesetypography.com/diacritical-details/) diacritics (accent marks). Typing is also extremely easy.
 

@@ -2,13 +2,13 @@
 icon: lucide/file-text
 ---
 
-# Traditional (<span title="Fántǐ zì - traditional characters">繁體字</span>) vs Simplified (<span title="Jiǎntǐ zì - simplified characters">简体字</span>)
+# Traditional (<span tooltip="Fántǐ zì - traditional characters">繁體字</span>) vs Simplified (<span tooltip="Jiǎntǐ zì - simplified characters">简体字</span>)
 
 tbd
 
 ---
 
-## <span title="zuò qīngdān - to do list">做清單</span>
+## <span tooltip="zuò qīngdān - to do list">做清單</span>
 
 + https://en.wikipedia.org/wiki/Debate_on_traditional_and_simplified_Chinese_characters
 

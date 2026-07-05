@@ -182,7 +182,7 @@ function showBackFlashcard() {
     if (okay) {
       const en = 'next';
       okay.innerHTML = label('next', en);
-      okay.title = en;
+      okay.setAttribute('tooltip', en);
       okay.classList.add('next-flipped');
     }
   }
@@ -213,7 +213,7 @@ function showNextFlashcard() {
   if (okay) {
     const en = 'flip';
     okay.innerHTML = label('flip', en);
-    okay.title = en;
+    okay.setAttribute('tooltip', en);
     okay.classList.remove('next-flipped');
   }
   _stopAudio();
@@ -352,23 +352,23 @@ function applyCardLabels() {
   if (skip) {
     const en = skip.textContent.trim();
     skip.textContent = label('skip', en);
-    skip.title = en;
+    skip.setAttribute('tooltip', en);
   }
   const pauseBtn = $('flashcard-pause');
   if (pauseBtn) {
     const en = pauseBtn.textContent.trim();
     pauseBtn.textContent = label('pause', en);
-    pauseBtn.title = en;
+    pauseBtn.setAttribute('tooltip', en);
   }
   const okay = $('flashcard-okay');
   if (okay) {
     const en = okay.textContent.trim();
     okay.textContent = label('flip', en);
-    okay.title = en;
+    okay.setAttribute('tooltip', en);
   }
   const x = $('flashcard-close');
   if (x && !x.title) {
-    x.title = 'Close';
+    x.setAttribute('tooltip', 'Close');
   }
 }
 
@@ -385,7 +385,7 @@ function quitDeck() {
   if (okay) {
     const en = 'flip';
     okay.innerHTML = label('flip', en);
-    okay.title = en;
+    okay.setAttribute('tooltip', en);
     okay.classList.remove('next-flipped');
   }
   _closeModal();
@@ -400,18 +400,18 @@ function pause() {
   const enReset = 'reset scores';
   const enResume = 'resume';
   let paused = `<div id="flashcard-stats">`;
-  paused += `<div id="flashcard-pause-quit" class="hand" title="${enQuit}">${label('quit', enQuit)}</div>`;
+  paused += `<div id="flashcard-pause-quit" class="hand" tooltip="${enQuit}">${label('quit', enQuit)}</div>`;
   paused += `<div class="pause-stats">${statsText}</div>`;
-  paused += `<div id="flashcard-pause-reset" class="hand" title="${enReset}">${label('reset_scores', enReset)}</div>`;
+  paused += `<div id="flashcard-pause-reset" class="hand" tooltip="${enReset}">${label('reset_scores', enReset)}</div>`;
   paused += `<div class="pause-info">${label('depth_first', '+ depth-first (3 seconds)')}</div>`;
   paused += `<div class="pause-info">${label('breadth_first', '+ breadth-first (20 seconds)')}</div>`;
-  paused += `<div id="flashcard-pause-resume" class="hand" title="${enResume}">${label('resume', enResume)}</div>`;
+  paused += `<div id="flashcard-pause-resume" class="hand" tooltip="${enResume}">${label('resume', enResume)}</div>`;
   paused += `<div class="pause-kbd">${label('kbd_header', 'Keyboard controls:')}<br>`;
-  paused += `(<span id="kc-x" class="hand" title="x">x</span> <span id="kc-esc" class="hand" title="esc">esc</span>) ${label('kbd_close_app', 'close the app')}<br>`;
-  paused += `(<span id="kc-space" class="hand" title="space">space</span>) ${label('kbd_pause_unpause', 'pause / unpause')}<br>`;
-  paused += `(<span id="kc-enter" class="hand" title="enter">enter</span>) ${label('kbd_flip_next', 'flip / next')}<br>`;
-  paused += `(<span id="kc-f" class="hand" title="f">f</span>) ${label('kbd_flip', 'flip')}<br>`;
-  paused += `(<span id="kc-s" class="hand" title="s">s</span>) ${label('kbd_skip', 'skip')}</div>`;
+  paused += `(<span id="kc-x" class="hand" tooltip="x">x</span> <span id="kc-esc" class="hand" tooltip="esc">esc</span>) ${label('kbd_close_app', 'close the app')}<br>`;
+  paused += `(<span id="kc-space" class="hand" tooltip="space">space</span>) ${label('kbd_pause_unpause', 'pause / unpause')}<br>`;
+  paused += `(<span id="kc-enter" class="hand" tooltip="enter">enter</span>) ${label('kbd_flip_next', 'flip / next')}<br>`;
+  paused += `(<span id="kc-f" class="hand" tooltip="f">f</span>) ${label('kbd_flip', 'flip')}<br>`;
+  paused += `(<span id="kc-s" class="hand" tooltip="s">s</span>) ${label('kbd_skip', 'skip')}</div>`;
   paused += `</div>`;
 
   pauseModal.style.visibility = 'visible';
@@ -480,7 +480,7 @@ function loadedAudio() {
   const stats = $('flashcard-stats');
   if (stats) {
     const enForce = 'force start';
-    stats.innerHTML = `${label('loading', 'loading')} ${audioReady}/${audioCount} <span id="force-start" class="hand" title="${enForce}">${label('force_start', enForce)}</span>`;
+    stats.innerHTML = `${label('loading', 'loading')} ${audioReady}/${audioCount} <span id="force-start" class="hand" tooltip="${enForce}">${label('force_start', enForce)}</span>`;
     const force = $('force-start');
     if (force) force.onclick = () => unpause();
   }

@@ -2,11 +2,11 @@
 icon: lucide/mic
 ---
 
-# <span title="Vietnamese Pronunciation">Phát Âm Tiếng Việt</span>
+# <span tooltip="Vietnamese Pronunciation">Phát Âm Tiếng Việt</span>
 
 Modern Vietnamese uses a phonetic [writing system](writing.md) based on the Latin alphabet with diacritics. Learners can read words aloud before understanding their meaning. Pronunciation is extremely difficult and unforgiving to minor mistakes. Writing and typing can be mastered more readily, but the phonemes and tones require extensive practice. It is recommended to read aloud to a native speaker until the sounds are clear, even without grasping every word.
 
-The chữ Quốc ngữ (national script) was developed in the seventeenth century by Portuguese Jesuit missionaries. Francisco de Pina began systematic work around 1620. Alexandre de Rhodes refined the system and published the first Vietnamese-Portuguese-Latin dictionary and catechism in Rome in 1651. The script remained largely confined to Christian communities for centuries before becoming the standard writing system in the early twentieth century. The Latin alphabet gradually replaced chữ Hán (<span title="Chinese characters">漢字</span>) and the native chữ Nôm (<span title="Nôm characters">字喃</span>) script.
+The chữ Quốc ngữ (national script) was developed in the seventeenth century by Portuguese Jesuit missionaries. Francisco de Pina began systematic work around 1620. Alexandre de Rhodes refined the system and published the first Vietnamese-Portuguese-Latin dictionary and catechism in Rome in 1651. The script remained largely confined to Christian communities for centuries before becoming the standard writing system in the early twentieth century. The Latin alphabet gradually replaced chữ Hán (<span tooltip="Chinese characters">漢字</span>) and the native chữ Nôm (<span tooltip="Nôm characters">字喃</span>) script.
 
 
 ---
@@ -58,7 +58,7 @@ Regional pronunciations vary considerably, and the written system represents an 
 
 ---
 
-## <span title="Recommendations">Khuyến Nghị</span>
+## <span tooltip="Recommendations">Khuyến Nghị</span>
 
 [Austen Mersereau](https://www.youtube.com/playlist?list=PLuZDUuB2TYxSfMvQM2iPIgEkdRcm4asLg); a short series of videos that are excellent for tones and pronunciation. Far better than any official Vietnamese language learning resources.
 
@@ -74,7 +74,7 @@ Vietnamese flashcards; while hand-made are usually the best, hearing actual audi
 
 ---
 
-## <span title="Not Recommended">Không Được Khuyến Khích</span>
+## <span tooltip="Not Recommended">Không Được Khuyến Khích</span>
 
 While Duolingo and Anki are useful for some languages, they are not well suited for learning Vietnamese, too much [accidental complexity](../../english/resources/advice.md#6-immersion-undivided-attention-while-learning) to be useful.
 

@@ -24,12 +24,12 @@ This is similar to the concept of a [comfort zone](https://en.wikipedia.org/wiki
 
 ## Danger Zone Navigation
 
-I do not understand => <span title="Wǒ bù míngbái">我不明白</span><br />
-can you say again? => <span title="nǐ kěyǐ zàishuō yīcì ma">你可以再說一次嗎?</span><br />
-can you speak slowly please? => <span title="qǐng nǐ màn man de shuō?">請你慢慢地說?</span><br />
-I do not know how to say => <span title="Wǒ bù zhīdào zěnme shuō">我不知道怎麼說</span><br />
-let me think => <span title="Ràng wǒ xiǎng xiǎng">讓我想想</span><br />
-help me to learn => <span title="Bāngzhù wǒ xuéxí">幫助我學習</span><br />
+I do not understand => <span tooltip="Wǒ bù míngbái">我不明白</span><br />
+can you say again? => <span tooltip="nǐ kěyǐ zàishuō yīcì ma">你可以再說一次嗎?</span><br />
+can you speak slowly please? => <span tooltip="qǐng nǐ màn man de shuō?">請你慢慢地說?</span><br />
+I do not know how to say => <span tooltip="Wǒ bù zhīdào zěnme shuō">我不知道怎麼說</span><br />
+let me think => <span tooltip="Ràng wǒ xiǎng xiǎng">讓我想想</span><br />
+help me to learn => <span tooltip="Bāngzhù wǒ xuéxí">幫助我學習</span><br />
 
 You can do this in any language. Basically, every time you find yourself in a danger zone, take that as an opportunity for learning. Practice these kinds of simple phrases until you gain automaticity with each of them.
 
@@ -39,9 +39,9 @@ Praying the Rosary in your target language is a wonderful low-pressure way to do
 
 ## Learning Zone Navigation
 
-how do you say … in Chinese? => <span title="... de zhōngwén zěnme shuō">…的中文怎麼說?</span><br />
-what is this? => <span title="zhè shì shénme">這是什麼?</span><br />
-what is that? => <span title="nà shì shénme">那是什麼?</span><br />
-what does that mean? => <span title="Nà shì shénme yìsi?">那是什麼意思？</span><br />
+how do you say … in Chinese? => <span tooltip="... de zhōngwén zěnme shuō">…的中文怎麼說?</span><br />
+what is this? => <span tooltip="zhè shì shénme">這是什麼?</span><br />
+what is that? => <span tooltip="nà shì shénme">那是什麼?</span><br />
+what does that mean? => <span tooltip="Nà shì shénme yìsi?">那是什麼意思？</span><br />
 
 These questions are especially useful when you’re learning to pray the Rosary in your target language. They let you participate fully while staying comfortable and continuing to learn.

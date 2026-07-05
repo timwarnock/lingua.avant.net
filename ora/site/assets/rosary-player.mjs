@@ -172,7 +172,7 @@ function renderIndicators(container) {
       dot.className = 'rosary-dot';
       dot.type = 'button';
       const info = getStepInfo(idx);
-      dot.title = info.label;
+      dot.setAttribute('tooltip', info.label);
       dot.dataset.idx = idx;
 
       // Use the step to identify repeats for styling (more reliable than label)
@@ -336,7 +336,7 @@ function updatePlayBtn(btn) {
     svg.innerHTML = '<path d="M8 5l12 8-12 8V5z" fill="currentColor" stroke="none"/>';
   }
   btn.appendChild(svg);
-  btn.title = autoPlaying ? 'Pause auto' : 'Auto play from here';
+  btn.setAttribute('tooltip', autoPlaying ? 'Pause auto' : 'Auto play from here');
 }
 
 function startAuto() {
@@ -422,12 +422,12 @@ function setupControls() {
     phonetic.addEventListener('click', () => {
       showPhonetic = !showPhonetic;
       phonetic.classList.toggle('active', showPhonetic);
-      phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
+      phonetic.setAttribute('tooltip', showPhonetic ? 'Hide phonetic' : 'Show phonetic');
       loadCurrentViewer();
     });
     // initial state from data attr
     phonetic.classList.toggle('active', showPhonetic);
-    phonetic.title = showPhonetic ? 'Hide phonetic' : 'Show phonetic';
+    phonetic.setAttribute('tooltip', showPhonetic ? 'Hide phonetic' : 'Show phonetic');
   }
 }
 

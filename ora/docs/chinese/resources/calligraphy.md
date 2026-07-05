@@ -2,13 +2,13 @@
 icon: lucide/brush
 ---
 
-# <span title="Shūfǎ - Calligraphy">書法</span>
+# <span tooltip="Shūfǎ - Calligraphy">書法</span>
 
 tbd
 
 ---
 
-## <span title="zuò qīngdān - to do list">做清單</span>
+## <span tooltip="zuò qīngdān - to do list">做清單</span>
 
 + Three Character Classic, 1000 Character Classic
 

@@ -2,7 +2,7 @@
 icon: lucide/languages
 ---
 
-# <span title="Cognates">Cognados</span>
+# <span tooltip="Cognates">Cognados</span>
 
 Spanish and English share thousands of cognates -- words that look similar, sound similar, and mean the same thing. Linguists estimate that English contains several thousand words with direct Spanish counterparts once basic patterns are learned. In formal and religious vocabulary the overlap grows even larger. This is not a coincidence of history. It is the direct result of Latin serving as the common language of Western Christianity for more than a thousand years.
 

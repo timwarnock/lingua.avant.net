@@ -28,7 +28,7 @@ As with any kind of discipline, we will be motivated only to the degree that we 
 
 ---
 
-## 2. <span title="huó dào lǎo xué dào lǎo - live till old, learn till old">活到老學到老</span>
+## 2. <span tooltip="huó dào lǎo xué dào lǎo - live till old, learn till old">活到老學到老</span>
 
 "Live till old, Learn till old".  
 Learning a language is not just a skill to learn. It is the beginning of a lifelong relationship with the language and the culture that lives in it.

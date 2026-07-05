@@ -2,7 +2,7 @@
 icon: lucide/book-open
 ---
 
-# <span title="Conjugations">Conjugaciones</span>
+# <span tooltip="Conjugations">Conjugaciones</span>
 
 Conjugations are a beautiful part of Spanish. The word "conjugation" shares the same Latin origin as "conjugal," which in turn was a loan word from ancient Greek, meaning "to join" or "to yoke" together.
 
