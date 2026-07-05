@@ -54,10 +54,10 @@ nav = [
       "english/glory-be.md",
       "english/fatima-prayer.md",
       "english/hail-holy-queen.md",
-      { "Extras" = [
+      { "[ Extras ]" = [
           "english/extras/jesus-prayer.md"
         ] },
-      { "Resources" = [
+      { "[ Resources ]" = [
           "english/resources/pronunciation.md",
           "english/resources/advice.md",
           { "Bad Advice" = "english/resources/bad-advice.md" },
@@ -75,7 +75,7 @@ nav = [
       "spanish/glory-be.md",
       "spanish/fatima-prayer.md",
       "spanish/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Adicionales ]" = [
           "spanish/extras/jesus-prayer.md"
         ] },
       { "[ Recursos ]" = [
@@ -93,7 +93,7 @@ nav = [
       "french/glory-be.md",
       "french/fatima-prayer.md",
       "french/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Suppléments ]" = [
           "french/extras/jesus-prayer.md"
         ] },
       { "[ Ressources ]" = [
@@ -109,7 +109,7 @@ nav = [
       "latin/glory-be.md",
       "latin/fatima-prayer.md",
       "latin/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Additamenta ]" = [
           "latin/extras/jesus-prayer.md"
         ] },
       { "[ Opes ]" = [
@@ -126,7 +126,7 @@ nav = [
       "polish/glory-be.md",
       "polish/fatima-prayer.md",
       "polish/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Dodatki ]" = [
           "polish/extras/jesus-prayer.md"
         ] },
       { "[ Zasoby ]" = [
@@ -142,7 +142,7 @@ nav = [
       "portuguese/glory-be.md",
       "portuguese/fatima-prayer.md",
       "portuguese/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Adicionais ]" = [
           "portuguese/extras/jesus-prayer.md"
         ] },
       { "[ Recursos ]" = [
@@ -158,7 +158,7 @@ nav = [
       "vietnamese/glory-be.md",
       "vietnamese/fatima-prayer.md",
       "vietnamese/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Bổ sung ]" = [
           "vietnamese/extras/jesus-prayer.md"
         ] },
       { "[ Tài nguyên ]" = [
@@ -175,7 +175,7 @@ nav = [
       "greek/glory-be.md",
       "greek/fatima-prayer.md",
       "greek/hail-holy-queen.md",
-      { "[ Extras ]" = [
+      { "[ Πρόσθετα ]" = [
           "greek/extras/jesus-prayer.md"
         ] },
       { "[ Πόροι ]" = [
