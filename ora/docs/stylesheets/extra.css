@@ -424,9 +424,7 @@ h2.prayer-with-player {
   gap: 0.5rem;
 }
 
-.prayer-title {
-  /* inherit whatever the page heading uses */
-}
+
 
 .prayer-header .play-btn,
 h1.prayer-with-player .play-btn,
@@ -516,8 +514,8 @@ h2.prayer-with-player .play-btn.playing:hover,
   padding: 0.1em 0.25em;
   border: 1px solid var(--md-default-fg-color--lightest, #ccc);
   border-radius: 2px;
-  background: transparent;
-  color: inherit;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
 }
 
 .dual-mode-toggle {
@@ -622,7 +620,8 @@ h1.prayer-with-player .dual-mode-toggle.selected,
   top: 100%;
   left: 0;
   z-index: 100;
-  background-color: var(--md-default-bg-color);
+  background-color: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 4px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -631,7 +630,9 @@ h1.prayer-with-player .dual-mode-toggle.selected,
   font-size: 0.8rem;
 }
 
+html[data-md-color-scheme="slate"] .prayer-dropdown-menu,
 [data-md-color-scheme="slate"] .prayer-dropdown-menu {
+  background-color: var(--md-default-bg-color) !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   border-color: var(--md-default-fg-color--lighter);
 }
@@ -641,6 +642,7 @@ h1.prayer-with-player .dual-mode-toggle.selected,
   cursor: pointer;
   white-space: nowrap;
   font-weight: normal;
+  color: inherit;
 }
 
 .prayer-dropdown-item:hover {
@@ -658,6 +660,7 @@ h1.prayer-with-player .dual-mode-toggle.selected,
 
 [data-md-color-scheme="slate"] .prayer-dropdown-item.active {
   background-color: rgba(64, 81, 181, 0.15);
+  color: var(--md-primary-fg-color, #4051b5);
 }
 
 .prayer-dropdown-item .secondary-title {
@@ -915,8 +918,6 @@ h1.prayer-with-player .dual-mode-toggle.selected,
   margin-top: 0.25rem;
 }
 
-.rosary-prayer-view {
-  /* reuses .dual-viewer etc from prayer styles */
-}
+
 
 

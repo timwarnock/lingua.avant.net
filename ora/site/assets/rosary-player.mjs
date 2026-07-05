@@ -222,11 +222,6 @@ function loadCurrentViewer() {
   viewer.innerHTML = '';
   const info = getStepInfo(current);
 
-  // Create a container for the prayer view
-  const v = document.createElement('div');
-  v.className = 'rosary-prayer-view';
-  viewer.appendChild(v);
-
   // Resolve jsonPath relative to current dir to ensure correct path even without trailing /
   const baseDir = getCurrentDir();
   const jsonPath = info.jsonPath ? new URL(info.jsonPath, baseDir).href : null;
@@ -235,22 +230,13 @@ function loadCurrentViewer() {
   const create = window.createPrayerApp || (window.createApp); // fallback if any
   if (typeof create === 'function' && jsonPath) {
     try {
-      viewerApp = create(v, { jsonPath: jsonPath, embedded: true, hideSecondary: !showPhonetic });
+      viewerApp = create(viewer, { jsonPath: jsonPath, embedded: true, hideSecondary: !showPhonetic });
     } catch (e) {
-      v.innerHTML = `<em>Unable to load view for ${info.label}.</em>`;
+      viewer.innerHTML = `<em>Unable to load view for ${info.label}.</em>`;
     }
   } else {
-    v.innerHTML = `<em>Unable to load ${info.label}.</em>`;
+    viewer.innerHTML = `<em>Unable to load ${info.label}.</em>`;
   }
-
-  // When autoplay is active, any manual play click (passage/segment) in the viewer
-  // must stop/pause autoplay. Resuming auto always restarts current from start.
-  v.addEventListener('click', (e) => {
-    const el = e.target.closest('.dual-play, .dual-seg, .play-btn');
-    if (el && autoPlaying) {
-      stopAuto();
-    }
-  }, true);
 }
 
 // Also stop autoplay full audio if a manual play starts inside the viewer
@@ -474,6 +460,15 @@ function init() {
     setupControls();
     setupChooserSync(indContainer);
     loadCurrentViewer();
+
+    // When autoplay is active, any manual play click (passage/segment) in the viewer
+    // must stop/pause autoplay. Resuming auto always restarts current from start.
+    viewer.addEventListener('click', (e) => {
+      const el = e.target.closest('.dual-play, .dual-seg, .play-btn');
+      if (el && autoPlaying) {
+        stopAuto();
+      }
+    }, true);
 
     // Initial sync with current mystery active
     setTimeout(() => {
