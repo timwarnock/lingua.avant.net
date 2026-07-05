@@ -42,4 +42,4 @@ Arabic, Chinese (Cantonese and Mandarin), Japanese, and Korean
 
 ---
 
-The [document](/assets/pdf/247092.pdf) also includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).
+The [document](../../../assets/pdf/247092.pdf) also includes estimates for conversion courses like Spanish-Portuguese (14-18 weeks) and Malay-Indonesian (10-12 weeks).
