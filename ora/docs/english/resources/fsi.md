@@ -4,7 +4,7 @@ icon: lucide/graduation-cap
 
 # Speak like a Diplomat
 
-One of my absolute favorite perspectives on language learning comes from the US Foreign Service Institute ([FSI](https://en.wikipedia.org/wiki/Foreign_Service_Institute)), in particular: [Theory and Practice in Government Language Teaching](../../../assets/pdf/FSI.pdf). It’s written as an academic paper, but it’s by far the most useful thing I’ve ever read about language learning.
+One of my absolute favorite perspectives on language learning comes from the US Foreign Service Institute ([FSI](https://en.wikipedia.org/wiki/Foreign_Service_Institute)), in particular: [Theory and Practice in Government Language Teaching](../../assets/pdf/FSI.pdf). It’s written as an academic paper, but it’s by far the most useful thing I’ve ever read about language learning.
 
 I’ve summarized each of the 12 sections below (along with some commentary).
 

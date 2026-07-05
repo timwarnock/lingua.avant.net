@@ -6,7 +6,7 @@ icon: lucide/quote
 
 *a poem by <span tooltip="Sòng Shàngwěi">宋尚緯</span>*
 
-<audio controls src="../../../assets/audio/shuohua.m4a" style="margin: 0.5em 0 1em; max-width: 100%;"></audio>
+<audio controls src="../../assets/audio/shuohua.m4a" style="margin: 0.5em 0 1em; max-width: 100%;"></audio>
 
 <span tooltip="nǐ yuàn yì hé wǒ shuō xiē huà ma">你願意和我說些話嗎</span>  
 （are you willing to speak with me?）
