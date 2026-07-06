@@ -13,6 +13,14 @@ icon: lucide/mic
 
 多聽中文玫瑰經的誦念錄音，感受自然的語調與呼吸。
 
+
+
+Focus on forms,
+https://resources.allsetlearning.com/chinese/grammar/Main_Page
+
+
+
+
 Chinese flashcards; hand-made are the best, although as a web or mobile app they can record timing and do a better job at spaced-repetition patterns to aid memorization and automaticity.
 
 <button class="flashcard-green" onclick="Flashcards.open('zh/hello')">Hello / 你好</button>

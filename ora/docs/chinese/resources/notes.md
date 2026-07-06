@@ -30,7 +30,6 @@ These are resources that I have found the most useful, and would recommend to an
 
 + Understand <span tooltip="Fántǐzì yǔ Jiǎntǐzì - traditional vs simplified characters">繁體字與簡體字</span>  
  + Practice [<span tooltip="Shūfǎ - Calligraphy">書法</span>](calligraphy.md)  
- + Focus on Forms [<span tooltip="Yǔfǎ - grammar">語法</span>](grammar.md)  
  + Read newspaper  
 
 Other (helpful) resources
