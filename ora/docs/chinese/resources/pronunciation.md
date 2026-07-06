@@ -12,7 +12,12 @@ After the Republic of China was founded in 1912, the Commission on the Unificati
 
 This page presents the standard Mandarin pronunciation for the Rosary.
 
-## <span tooltip="Yīn Wèi = Phonemes">音位</span>
+
+
+
+---
+
+## Phonemes (<span tooltip="Yīn Wèi = Phonemes">音位</span>)
 
 Mandarin syllables are formed from an optional initial consonant, a final, and a tone. There are twenty-one initials and roughly thirty-nine finals.
 
@@ -37,9 +42,22 @@ Learning zhuyin first helps internalize the precise Mandarin phonemes before map
 
 Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
 
-## <span tooltip="Shēng Diào = Tones">聲調</span>
 
-It is commonly taught that there are four tones plus a neutral tone. These are usually demonstrated with the syllable "ma": <span onclick="new Audio('../tones/ma1.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mā = mother">媽</span>, <span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="má = hemp">麻</span>, <span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mǎ = horse">馬</span>, <span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mà = scold">罵</span>, <span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="ma = question particle">嗎</span> -- see if you can hear the <span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer; text-decoration:underline">difference</span>.
+
+
+
+---
+
+## Tones (<span tooltip="Shēng Diào = Tones">聲調</span>)
+
+It is commonly taught that there are four tones plus a neutral tone. 
+These are usually demonstrated with the syllable "ma": <span onclick="new Audio('../tones/ma1.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mā = mother">媽</span>, 
+<span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="má = hemp">麻</span>, 
+<span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mǎ = horse">馬</span>, 
+<span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mà = scold">罵</span>, 
+<span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="ma = question particle">嗎</span>
+ -- see if you can hear the 
+<span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer; text-decoration:underline">difference</span>.
 To better understand the differences, the traditional isolated forms are helpful.
 
 !!! success "Tones in isolation (<span tooltip="Běn Diào = Original Tone">本調</span>)"
