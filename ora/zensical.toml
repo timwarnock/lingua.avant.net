@@ -196,9 +196,7 @@ nav = [
         ] },
       { "[ 資源 ]" = [
           "chinese/resources/pronunciation.md",
-          "chinese/resources/notes.md",
-          "chinese/resources/calligraphy.md",
-          "chinese/resources/traditional-vs-simplified.md",
+          "chinese/resources/writing.md",
           "chinese/resources/zhuyin.md",
           "chinese/resources/tones.md"
         ] }

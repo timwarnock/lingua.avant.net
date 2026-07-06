@@ -1,5 +1,5 @@
 ---
-icon: lucide/keyboard
+icon: lucide/brush
 ---
 
 # <span tooltip="Vietnamese Writing">Viết Tiếng Việt</span>
