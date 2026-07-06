@@ -19,56 +19,49 @@ This page presents the standard Mandarin pronunciation for the Rosary.
 
 ## Phonemes (<span tooltip="Yīn Wèi = Phonemes">音位</span>)
 
-Mandarin syllables are formed from an optional initial consonant, a final, and a tone. There are twenty-one initials and roughly thirty-nine finals.
+Mandarin syllables are formed from 21 initials, 3 medials, and 13 base finals -- 37 phonetic components -- plus a tone.
 
 !!! warning "<span tooltip='Zhù Yīn huò Pīn Yīn = Zhuyin or Pinyin?'>注音 或 拼音?</span>"
     Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
 
-    Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
+    Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, **ㄅ** (**b**) is always the unaspirated bilabial stop and **ㄩ** (**ü**) is always the distinct rounded front vowel.
 
     Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
 
     Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
 
-!!! success "Initial Consonants (<span tooltip='Shēng Mǔ = Initial Consonants'>聲母</span>)"
+!!! success "Initials (<span tooltip='Shēng Mǔ = Initials'>聲母</span>)"
     **Labials** -- lips or lower lip against upper teeth  
-    b (ㄅ), p (ㄆ), m (ㄇ), f (ㄈ)
+    **ㄅ** (**b**), **ㄆ** (**p**), **ㄇ** (**m**), **ㄈ** (**f**)
 
     **Alveolars** -- tongue tip against the ridge behind the upper teeth  
-    d (ㄉ), t (ㄊ), n (ㄋ), l (ㄌ)
+    **ㄉ** (**d**), **ㄊ** (**t**), **ㄋ** (**n**), **ㄌ** (**l**)
 
     **Velars** -- back of the tongue against the soft palate  
-    g (ㄍ), k (ㄎ), h (ㄏ)
+    **ㄍ** (**g**), **ㄎ** (**k**), **ㄏ** (**h**)
 
     **Palatals** -- tongue blade against the hard palate (unique to Mandarin)    
-    j (ㄐ), q (ㄑ), x (ㄒ)
+    **ㄐ** (**j**), **ㄑ** (**q**), **ㄒ** (**x**)
 
     **Retroflex** -- tongue tip curled back  
-    zh (ㄓ), ch (ㄔ), sh (ㄕ), r (ㄖ)
+    **ㄓ** (**zh**), **ㄔ** (**ch**), **ㄕ** (**sh**), **ㄖ** (**r**)
 
     **Dental sibilants** -- tongue tip near the upper teeth, with a hissing quality  
-    z (ㄗ), c (ㄘ), s (ㄙ)
+    **ㄗ** (**z**), **ㄘ** (**c**), **ㄙ** (**s**)
 
-    Aspirated consonants (p, t, k, q, ch, c) are pronounced with a distinct puff of air.
+    Aspirated consonants (**ㄆ** (**p**), **ㄊ** (**t**), **ㄎ** (**k**), **ㄑ** (**q**), **ㄔ** (**ch**), **ㄘ** (**c**)) are pronounced with a distinct puff of air.
 
-!!! success "Finals"
-    + a ㄚ
-    + o ㄛ
-    + e ㄜ
-    + i ㄧ
-    + u ㄨ
-    + ü ㄩ
-    + ai ㄞ
-    + ei ㄟ
-    + ao ㄠ
-    + ou ㄡ
-    + an ㄢ
-    + en ㄣ
-    + ang ㄤ
-    + eng ㄥ
-    + er ㄦ
+!!! success "Medials (<span tooltip='Jiè Yīn = Medials'>介音</span>) and Base Finals (<span tooltip='Yùn Jī = Base Finals'>韻基</span>)"
+    **Medials** -- 3 symbols  
+    **ㄧ** (**i**), **ㄨ** (**u**), **ㄩ** (**ü**)
 
-    These combine with other endings to form the full set. Vowel quality differs from English and requires precise listening.
+    The medial **ㄩ** (**ü**) is the rounded front vowel (English "E" sound but form your mouth as you would when saying "oo"). In pinyin the “u” sometimes sounds like “oo” in cartoon, but other times like a German ü (written as yu or ü). In zhuyin there are no such ambiguities -- the German-sounding ü is always ㄩ.
+
+    **Base Finals** -- 13 symbols  
+    **ㄚ** (**a**), **ㄛ** (**o**), **ㄜ** (**e**), **ㄝ** (**ê**), **ㄞ** (**ai**), **ㄟ** (**ei**), **ㄠ** (**ao**), **ㄡ** (**ou**)  
+    **ㄢ** (**an**), **ㄣ** (**en**), **ㄤ** (**ang**), **ㄥ** (**eng**), **ㄦ** (**er**)
+
+    These combine with the 21 initials (and tone) to form every Mandarin syllable. The zhuyin symbols cover all of pinyin and reflect the actual spoken phonemes.
 
 
 
