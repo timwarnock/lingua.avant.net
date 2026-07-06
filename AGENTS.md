@@ -55,8 +55,8 @@ So in English something like:
 + Hail Holy Queen (should also include "Let us pray..." Rosary Prayer)
 
 And then "extras" for extra prayers, such as,
-Jesus Prayer
-Nicene Creed
++ Jesus Prayer
++ Nicene Creed
 
 Every language should have those exact pages, with icon: material/cross
 The landing page in each language will explain the rosary (in that language), the mysteries and days for each mystery, minimal text and more of a guide (so each language page would have minimal but sufficient prose for the entire rosary in that language, e.g., "the First Joyful Mystery, the Annunciation..."
@@ -88,6 +88,8 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 ## TODO
 
 + see [notes-resources.md](notes-resources.md), revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
+
++ Nicene Creed (constantinople-nicene creed) added to all languages in extras/nicene.md
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 
