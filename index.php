@@ -1,4 +1,4 @@
 <?php
-  header('Location: https://lingua.avant.net/ora/site/');
+  header('Location: https://lingua.avant.net/ave/');
   exit;
 ?>
