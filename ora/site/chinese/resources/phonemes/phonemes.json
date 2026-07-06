@@ -1,0 +1,456 @@
+{
+  "id": "phonemes",
+  "lang": "chinese",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "filenameOverride": "",
+  "passages": [
+    {
+      "passage_id": 1,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "波",
+          "phonetic": "b",
+          "filenameOverride": "bo.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "坡",
+          "phonetic": "p",
+          "filenameOverride": "po.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "摸",
+          "phonetic": "m",
+          "filenameOverride": "mo.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "佛",
+          "phonetic": "f",
+          "filenameOverride": "fo.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "得",
+          "phonetic": "d",
+          "filenameOverride": "de.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "特",
+          "phonetic": "t",
+          "filenameOverride": "te.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "呢",
+          "phonetic": "n",
+          "filenameOverride": "ne.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "勒",
+          "phonetic": "l",
+          "filenameOverride": "le.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "哥",
+          "phonetic": "g",
+          "filenameOverride": "ge.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "科",
+          "phonetic": "k",
+          "filenameOverride": "ke.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "喝",
+          "phonetic": "h",
+          "filenameOverride": "he.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "基",
+          "phonetic": "j",
+          "filenameOverride": "ji.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "欺",
+          "phonetic": "q",
+          "filenameOverride": "qi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "希",
+          "phonetic": "x",
+          "filenameOverride": "xi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "知",
+          "phonetic": "zh",
+          "filenameOverride": "zhi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "吃",
+          "phonetic": "ch",
+          "filenameOverride": "chi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "詩",
+          "phonetic": "sh",
+          "filenameOverride": "shi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "日",
+          "phonetic": "r",
+          "filenameOverride": "ri.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "資",
+          "phonetic": "z",
+          "filenameOverride": "zi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "疵",
+          "phonetic": "c",
+          "filenameOverride": "ci.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "思",
+          "phonetic": "s",
+          "filenameOverride": "si.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 22,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "22a",
+          "text": "一",
+          "phonetic": "i",
+          "filenameOverride": "i.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 23,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "23a",
+          "text": "烏",
+          "phonetic": "u",
+          "filenameOverride": "u.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 24,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "24a",
+          "text": "魚",
+          "phonetic": "ü",
+          "filenameOverride": "yu.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 25,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "25a",
+          "text": "阿",
+          "phonetic": "a",
+          "filenameOverride": "a.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 26,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "26a",
+          "text": "喔",
+          "phonetic": "o",
+          "filenameOverride": "o.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 27,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "27a",
+          "text": "呃",
+          "phonetic": "e",
+          "filenameOverride": "e.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 28,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "28a",
+          "text": "誒",
+          "phonetic": "ê",
+          "filenameOverride": "eh.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 29,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "29a",
+          "text": "哀",
+          "phonetic": "ai",
+          "filenameOverride": "ai.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 30,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "30a",
+          "text": "欸",
+          "phonetic": "ei",
+          "filenameOverride": "ei.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 31,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "31a",
+          "text": "凹",
+          "phonetic": "ao",
+          "filenameOverride": "ao.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 32,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "32a",
+          "text": "歐",
+          "phonetic": "ou",
+          "filenameOverride": "ou.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 33,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "33a",
+          "text": "安",
+          "phonetic": "an",
+          "filenameOverride": "an.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 34,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "34a",
+          "text": "恩",
+          "phonetic": "en",
+          "filenameOverride": "en.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 35,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "35a",
+          "text": "昂",
+          "phonetic": "ang",
+          "filenameOverride": "ang.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 36,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "36a",
+          "text": "恆",
+          "phonetic": "eng",
+          "filenameOverride": "eng.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 37,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "37a",
+          "text": "兒",
+          "phonetic": "er",
+          "filenameOverride": "er.mp3"
+        }
+      ]
+    }
+  ]
+}

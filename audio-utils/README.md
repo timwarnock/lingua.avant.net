@@ -61,6 +61,7 @@ The JSON must contain at minimum:
 - `"tts.input"`: optional, either `"phonetic"` (default) or `"text"`. Determines which field is sent to TTS.
 - `passages`: array of objects. Each must have `passage_id` and a `segments` array.
 - Every segment must have a `passage_segment_id` (always lettered form e.g. `"1a"`, even for single-segment passages), plus `"text"` and `"phonetic"`.
+- Optional `"filenameOverride"` (string) at top level, on a passage, or on a segment: overrides the output filename for that level. Use `""` (empty) or false to suppress output for the level entirely (no file and no associated timings).
 
 ### What gets generated
 
@@ -70,7 +71,7 @@ For a JSON with id `"hail-mary"`, the script produces (next to the JSON):
 - `hail-mary-1.mp3`, `hail-mary-2.mp3`, ... -- one per passage (concatenation of segments in that passage)
 - `hail-mary-1a.mp3`, `hail-mary-1b.mp3`, ... -- one per segment
 
-Filenames are derived directly from `"id"`, `passage_id`, and `passage_segment_id`.
+Filenames are derived directly from `"id"`, `passage_id`, and `passage_segment_id` unless overridden by `"filenameOverride"` (see above). Suppressed levels produce no file.
 
 After generation, commit the `.mp3` files.
 

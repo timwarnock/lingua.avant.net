@@ -3,19 +3,20 @@
 Audio generator for rosary prayers.
 
 The JSON structure (with passages and segments) is the source of truth.
-We always generate three levels exhaustively:
-- full (concatenation of all segments)
-- one per passage (concatenation of segments in that passage)
-- one per passage_segment
+Generates three levels (full, per-passage, per-segment) unless suppressed.
 
 Filenames are derived by convention from the "id" in the JSON:
 - full: {id}.mp3
 - passage: {id}-{passage_id}.mp3
 - segment: {id}-{passage_segment_id}.mp3
 
+Optional "filenameOverride" (string) may appear at top level (full), on a passage object, or on a segment.
+If a non-empty string, it is used as the exact output filename instead.
+If "" (empty) or false, that level's file output is suppressed entirely.
+
 After generation the script also derives per-segment start/end times (in seconds)
-from WordBoundary events on the full and passage renders, then writes
-"timing": {"full": [start, end], "passage": [start, end]} into each segment in the JSON.
+from WordBoundary events on the full and passage renders (only for non-suppressed levels),
+then writes "timing": {"full": [start, end], "passage": [start, end]} into each segment in the JSON.
 
 Usage:
   python audio-utils/generate-rosary-audio.py ora/docs/latin/our-father/our-father.json
@@ -92,10 +93,14 @@ async def main():
     segment_list = []          # list of (passage_segment_id, text) for all
     passage_order = []
     passage_segments = {}      # passage_id -> list of (sid, text)  -- preserves order
+    passage_fo = {}            # passage_id -> filenameOverride or None
+    segment_fo = {}            # sid -> filenameOverride or None
 
     for p in jdata.get("passages", []):
         pid = str(p.get("passage_id"))
         passage_order.append(pid)
+        p_fo = p.get("filenameOverride")
+        passage_fo[pid] = p_fo
         p_segs = []
         for seg in p.get("segments", []):
             sid = seg.get("passage_segment_id")
@@ -103,6 +108,8 @@ async def main():
                 print(f"Missing passage_segment_id in passage {pid}")
                 continue
             txt = get_segment_text(seg, tts_input)
+            s_fo = seg.get("filenameOverride")
+            segment_fo[sid] = s_fo
             segment_list.append((sid, txt))
             p_segs.append((sid, txt))
         passage_segments[pid] = p_segs
@@ -116,32 +123,41 @@ async def main():
     mode = " (timings only)" if timings_only else ""
     print(f"Generating from {json_path} using voice={voice} rate={rate} input={tts_input}{mode} ...")
 
-    async def generate(key, text):
+    def get_output_filename(key, override):
+        """Return filename or None if suppressed."""
+        if override is not None:
+            if override == "" or override is False:
+                return None
+            return str(override)
+        if key == "full":
+            return f"{prayer_id}.mp3"
+        else:
+            return f"{prayer_id}-{key}.mp3"
+
+    async def generate(key, text, filename_override=None):
         """Plain save (used for individual segments)."""
         if timings_only:
             return
-        if key == "full":
-            filename = f"{prayer_id}.mp3"
-        else:
-            filename = f"{prayer_id}-{key}.mp3"
-        out_path = os.path.join(out_dir, filename)
+        fname = get_output_filename(key, filename_override)
+        if fname is None:
+            return
+        out_path = os.path.join(out_dir, fname)
         communicate = edge_tts.Communicate(text, voice, rate=rate)
         await communicate.save(out_path)
         print(f"  -> {out_path}")
 
-    async def generate_timed(key, segs_for_this, lang=""):
+    async def generate_timed(key, segs_for_this, lang="", filename_override=None):
         """Generate audio from joined seg texts + return {sid: [start, end]} from WordBoundary."""
         if not segs_for_this:
+            return {}
+        fname = get_output_filename(key, filename_override)
+        if fname is None:
             return {}
         if lang in ("chinese", "japanese"):
             joined = "".join(txt for _, txt in segs_for_this)
         else:
             joined = " ".join(txt for _, txt in segs_for_this)
-        if key == "full":
-            filename = f"{prayer_id}.mp3"
-        else:
-            filename = f"{prayer_id}-{key}.mp3"
-        out_path = os.path.join(out_dir, filename)
+        out_path = os.path.join(out_dir, fname)
 
         communicate = edge_tts.Communicate(joined, voice, rate=rate, boundary="WordBoundary")
         audio_chunks = []
@@ -263,20 +279,23 @@ async def main():
     # 1. Generate every segment (plain, no intra-segment timing needed)
     if not timings_only:
         for sid, txt in segment_list:
-            await generate(sid, txt)
+            fo = segment_fo.get(sid)
+            await generate(sid, txt, fo)
 
     # 2. Passages (timed synthesis for natural audio + accurate segment ranges relative to passage file)
     passage_timings = {}
     for pid in passage_order:
         p_segs = passage_segments[pid]
-        p_t = await generate_timed(pid, p_segs, lang)
+        p_fo = passage_fo.get(pid)
+        p_t = await generate_timed(pid, p_segs, lang, p_fo)
         passage_timings[pid] = p_t
 
     # 3. Full (timed synthesis)
     full_segs = []
     for pid in passage_order:
         full_segs.extend(passage_segments[pid])
-    full_timings = await generate_timed("full", full_segs, lang)
+    full_fo = jdata.get("filenameOverride")
+    full_timings = await generate_timed("full", full_segs, lang, full_fo)
 
     # Inject the derived timings back into the JSON (so player can use them)
     for p in jdata.get("passages", []):

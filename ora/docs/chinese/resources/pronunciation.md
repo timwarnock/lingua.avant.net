@@ -21,47 +21,50 @@ This page presents the standard Mandarin pronunciation for the Rosary.
 
 Mandarin syllables are formed from 21 initials, 3 medials, and 13 base finals -- 37 phonetic components -- plus a tone.
 
-!!! warning "<span tooltip='Zhù Yīn huò Pīn Yīn = Zhuyin or Pinyin?'>注音 或 拼音?</span>"
-    Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
-
-    Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, **ㄅ** (**b**) is always the unaspirated bilabial stop and **ㄩ** (**ü**) is always the distinct rounded front vowel.
-
-    Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
-
-    Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
-
 !!! success "Initials (<span tooltip='Shēng Mǔ = Initials'>聲母</span>)"
     **Labials** -- lips or lower lip against upper teeth  
-    **ㄅ** (**b**), **ㄆ** (**p**), **ㄇ** (**m**), **ㄈ** (**f**)
+    <span onclick="new Audio('../phonemes/bo.mp3').play()" style="cursor:pointer;"><strong>ㄅ</strong> (<strong>b</strong>)</span>, <span onclick="new Audio('../phonemes/po.mp3').play()" style="cursor:pointer;"><strong>ㄆ</strong> (<strong>p</strong>)</span>, <span onclick="new Audio('../phonemes/mo.mp3').play()" style="cursor:pointer;"><strong>ㄇ</strong> (<strong>m</strong>)</span>, <span onclick="new Audio('../phonemes/fo.mp3').play()" style="cursor:pointer;"><strong>ㄈ</strong> (<strong>f</strong>)</span> => 
+    <span onclick="new Audio('../phonemes/bopomofo.mp3').play()" style="cursor:pointer;"><strong>ㄅㄆㄇㄈ</strong></span>
 
     **Alveolars** -- tongue tip against the ridge behind the upper teeth  
-    **ㄉ** (**d**), **ㄊ** (**t**), **ㄋ** (**n**), **ㄌ** (**l**)
+    <span onclick="new Audio('../phonemes/de.mp3').play()" style="cursor:pointer;"><strong>ㄉ</strong> (<strong>d</strong>)</span>, <span onclick="new Audio('../phonemes/te.mp3').play()" style="cursor:pointer;"><strong>ㄊ</strong> (<strong>t</strong>)</span>, <span onclick="new Audio('../phonemes/ne.mp3').play()" style="cursor:pointer;"><strong>ㄋ</strong> (<strong>n</strong>)</span>, <span onclick="new Audio('../phonemes/le.mp3').play()" style="cursor:pointer;"><strong>ㄌ</strong> (<strong>l</strong>)</span>
 
     **Velars** -- back of the tongue against the soft palate  
-    **ㄍ** (**g**), **ㄎ** (**k**), **ㄏ** (**h**)
+    <span onclick="new Audio('../phonemes/ge.mp3').play()" style="cursor:pointer;"><strong>ㄍ</strong> (<strong>g</strong>)</span>, <span onclick="new Audio('../phonemes/ke.mp3').play()" style="cursor:pointer;"><strong>ㄎ</strong> (<strong>k</strong>)</span>, <span onclick="new Audio('../phonemes/he.mp3').play()" style="cursor:pointer;"><strong>ㄏ</strong> (<strong>h</strong>)</span>
 
     **Palatals** -- tongue blade against the hard palate (unique to Mandarin)    
-    **ㄐ** (**j**), **ㄑ** (**q**), **ㄒ** (**x**)
+    <span onclick="new Audio('../phonemes/ji.mp3').play()" style="cursor:pointer;"><strong>ㄐ</strong> (<strong>j</strong>)</span>, <span onclick="new Audio('../phonemes/qi.mp3').play()" style="cursor:pointer;"><strong>ㄑ</strong> (<strong>q</strong>)</span>, <span onclick="new Audio('../phonemes/xi.mp3').play()" style="cursor:pointer;"><strong>ㄒ</strong> (<strong>x</strong>)</span>
 
     **Retroflex** -- tongue tip curled back  
-    **ㄓ** (**zh**), **ㄔ** (**ch**), **ㄕ** (**sh**), **ㄖ** (**r**)
+    <span onclick="new Audio('../phonemes/zhi.mp3').play()" style="cursor:pointer;"><strong>ㄓ</strong> (<strong>zh</strong>)</span>, <span onclick="new Audio('../phonemes/chi.mp3').play()" style="cursor:pointer;"><strong>ㄔ</strong> (<strong>ch</strong>)</span>, <span onclick="new Audio('../phonemes/shi.mp3').play()" style="cursor:pointer;"><strong>ㄕ</strong> (<strong>sh</strong>)</span>, <span onclick="new Audio('../phonemes/ri.mp3').play()" style="cursor:pointer;"><strong>ㄖ</strong> (<strong>r</strong>)</span>
 
     **Dental sibilants** -- tongue tip near the upper teeth, with a hissing quality  
-    **ㄗ** (**z**), **ㄘ** (**c**), **ㄙ** (**s**)
+    <span onclick="new Audio('../phonemes/zi.mp3').play()" style="cursor:pointer;"><strong>ㄗ</strong> (<strong>z</strong>)</span>, <span onclick="new Audio('../phonemes/ci.mp3').play()" style="cursor:pointer;"><strong>ㄘ</strong> (<strong>c</strong>)</span>, <span onclick="new Audio('../phonemes/si.mp3').play()" style="cursor:pointer;"><strong>ㄙ</strong> (<strong>s</strong>)</span>
 
-    Aspirated consonants (**ㄆ** (**p**), **ㄊ** (**t**), **ㄎ** (**k**), **ㄑ** (**q**), **ㄔ** (**ch**), **ㄘ** (**c**)) are pronounced with a distinct puff of air.
+    Aspirated consonants <span onclick="new Audio('../phonemes/po.mp3').play()" style="cursor:pointer;"><strong>ㄆ</strong> (<strong>p</strong>)</span>, <span onclick="new Audio('../phonemes/te.mp3').play()" style="cursor:pointer;"><strong>ㄊ</strong> (<strong>t</strong>)</span>, <span onclick="new Audio('../phonemes/ke.mp3').play()" style="cursor:pointer;"><strong>ㄎ</strong> (<strong>k</strong>)</span>, <span onclick="new Audio('../phonemes/qi.mp3').play()" style="cursor:pointer;"><strong>ㄑ</strong> (<strong>q</strong>)</span>, <span onclick="new Audio('../phonemes/chi.mp3').play()" style="cursor:pointer;"><strong>ㄔ</strong> (<strong>ch</strong>)</span>, <span onclick="new Audio('../phonemes/ci.mp3').play()" style="cursor:pointer;"><strong>ㄘ</strong> (<strong>c</strong>)</span> are pronounced with a distinct puff of air.
 
 !!! success "Medials (<span tooltip='Jiè Yīn = Medials'>介音</span>) and Base Finals (<span tooltip='Yùn Jī = Base Finals'>韻基</span>)"
     **Medials** -- 3 symbols  
-    **ㄧ** (**i**), **ㄨ** (**u**), **ㄩ** (**ü**)
+    <span onclick="new Audio('../phonemes/i.mp3').play()" style="cursor:pointer;"><strong>ㄧ</strong> (<strong>i</strong>)</span>, <span onclick="new Audio('../phonemes/u.mp3').play()" style="cursor:pointer;"><strong>ㄨ</strong> (<strong>u</strong>)</span>, <span onclick="new Audio('../phonemes/yu.mp3').play()" style="cursor:pointer;"><strong>ㄩ</strong> (<strong>ü</strong>)</span>
 
-    The medial **ㄩ** (**ü**) is the rounded front vowel (English "E" sound but form your mouth as you would when saying "oo"). In pinyin the “u” sometimes sounds like “oo” in cartoon, but other times like a German ü (written as yu or ü). In zhuyin there are no such ambiguities -- the German-sounding ü is always ㄩ.
+    The medial **ㄩ** (**ü**) is the rounded front vowel (English "E" sound but form your mouth as you would when saying "oo"). In pinyin the “u” sometimes sounds like “oo” in cartoon, but other times like a [German ü](https://www.youtube.com/watch?v=42dAZQ2kadU) (written as yu or ü). In zhuyin there are no such ambiguities -- the German-sounding ü is always ㄩ.
 
     **Base Finals** -- 13 symbols  
-    **ㄚ** (**a**), **ㄛ** (**o**), **ㄜ** (**e**), **ㄝ** (**ê**), **ㄞ** (**ai**), **ㄟ** (**ei**), **ㄠ** (**ao**), **ㄡ** (**ou**)  
-    **ㄢ** (**an**), **ㄣ** (**en**), **ㄤ** (**ang**), **ㄥ** (**eng**), **ㄦ** (**er**)
+    <span onclick="new Audio('../phonemes/a.mp3').play()" style="cursor:pointer;"><strong>ㄚ</strong> (<strong>a</strong>)</span>, <span onclick="new Audio('../phonemes/o.mp3').play()" style="cursor:pointer;"><strong>ㄛ</strong> (<strong>o</strong>)</span>, <span onclick="new Audio('../phonemes/e.mp3').play()" style="cursor:pointer;"><strong>ㄜ</strong> (<strong>e</strong>)</span>, <span onclick="new Audio('../phonemes/eh.mp3').play()" style="cursor:pointer;"><strong>ㄝ</strong> (<strong>ê</strong>)</span>, <span onclick="new Audio('../phonemes/ai.mp3').play()" style="cursor:pointer;"><strong>ㄞ</strong> (<strong>ai</strong>)</span>, <span onclick="new Audio('../phonemes/ei.mp3').play()" style="cursor:pointer;"><strong>ㄟ</strong> (<strong>ei</strong>)</span>, <span onclick="new Audio('../phonemes/ao.mp3').play()" style="cursor:pointer;"><strong>ㄠ</strong> (<strong>ao</strong>)</span>, <span onclick="new Audio('../phonemes/ou.mp3').play()" style="cursor:pointer;"><strong>ㄡ</strong> (<strong>ou</strong>)</span>  
+    <span onclick="new Audio('../phonemes/an.mp3').play()" style="cursor:pointer;"><strong>ㄢ</strong> (<strong>an</strong>)</span>, <span onclick="new Audio('../phonemes/en.mp3').play()" style="cursor:pointer;"><strong>ㄣ</strong> (<strong>en</strong>)</span>, <span onclick="new Audio('../phonemes/ang.mp3').play()" style="cursor:pointer;"><strong>ㄤ</strong> (<strong>ang</strong>)</span>, <span onclick="new Audio('../phonemes/eng.mp3').play()" style="cursor:pointer;"><strong>ㄥ</strong> (<strong>eng</strong>)</span>, <span onclick="new Audio('../phonemes/er.mp3').play()" style="cursor:pointer;"><strong>ㄦ</strong> (<strong>er</strong>)</span>
 
     These combine with the 21 initials (and tone) to form every Mandarin syllable. The zhuyin symbols cover all of pinyin and reflect the actual spoken phonemes.
+
+!!! warning "<span tooltip='Zhù Yīn huò Pīn Yīn = Zhuyin or Pinyin?'>注音 或 拼音?</span>"
+    Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as there is very little overlap with Latin or Romance language phonemes. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
+
+    Zhuyin, also known as "bopomofo" after its initial symbols <span onclick="new Audio('../phonemes/bopomofo.mp3').play()" style="cursor:pointer;" tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. 
+    Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. 
+    This provides a clear mapping without the ambiguities of Latin scripts -- for example, <span onclick="new Audio('../phonemes/bo.mp3').play()" style="cursor:pointer;"><strong>ㄅ</strong> (<strong>b</strong>)</span> is always the unaspirated bilabial stop and <span onclick="new Audio('../phonemes/yu.mp3').play()" style="cursor:pointer;"><strong>ㄩ</strong> (<strong>ü</strong>)</span> is always the distinct rounded front vowel.
+
+    Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English or Latin sounds.
+
+    Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
 
 
 
@@ -72,21 +75,21 @@ Mandarin syllables are formed from 21 initials, 3 medials, and 13 base finals --
 ## Tones (<span tooltip="Shēng Diào = Tones">聲調</span>)
 
 It is commonly taught that there are four tones plus a neutral tone. 
-These are usually demonstrated with the syllable "ma": <span onclick="new Audio('../tones/ma1.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mā = mother">媽</span>, 
-<span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="má = hemp">麻</span>, 
-<span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mǎ = horse">馬</span>, 
-<span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mà = scold">罵</span>, 
-<span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="ma = question particle">嗎</span>
+These are usually demonstrated with the syllable "ma": <span onclick="new Audio('../tones/ma1.mp3').play()" style="cursor:pointer;" tooltip="mā = mother">媽</span>, 
+<span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer;" tooltip="má = hemp">麻</span>, 
+<span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer;" tooltip="mǎ = horse">馬</span>, 
+<span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer;" tooltip="mà = scold">罵</span>, 
+<span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer;" tooltip="ma = question particle">嗎</span>
  -- see if you can hear the 
-<span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer; text-decoration:underline">difference</span>.
+<span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer;">difference</span>.
 To better understand the differences, the traditional isolated forms are helpful.
 
 !!! success "Tones in isolation (<span tooltip="Běn Diào = Original Tone">本調</span>)"
-    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/zhen1.mp3').play()" style="cursor:pointer; text-decoration:underline">真 zhēn (1st)</span>  
-    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/chang2.mp3').play()" style="cursor:pointer; text-decoration:underline">常 cháng (2nd)</span>  
-    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/hao3.mp3').play()" style="cursor:pointer; text-decoration:underline">好 hǎo (3rd)</span>  
-    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/da4.mp3').play()" style="cursor:pointer; text-decoration:underline">大 dà (4th)</span>  
-    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/cong1ming0.mp3').play()" style="cursor:pointer; text-decoration:underline">聰明 cōngming (neutral)</span>
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/zhen1.mp3').play()" style="cursor:pointer;">真 zhēn (1st)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/chang2.mp3').play()" style="cursor:pointer;">常 cháng (2nd)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/hao3.mp3').play()" style="cursor:pointer;">好 hǎo (3rd)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/da4.mp3').play()" style="cursor:pointer;">大 dà (4th)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/cong1ming0.mp3').play()" style="cursor:pointer;">聰明 cōngming (neutral)</span>
 
 These are the tones taught in isolation. Now consider actual spoken Mandarin. The Praat diagram below shows contours from a native speaker saying a natural phrase. Click the image to listen, and look carefully at the actual tones.
 
@@ -150,12 +153,12 @@ Most Chinese words consist of two syllables and follow one of roughly twenty dis
 
 
 !!! tip "聖母經 [↗](../hail-mary/)"
-    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer; text-decoration:underline">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>
+    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer;">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>
 
     Wàn fú Mǎ lì yà, nǐ chōng mǎn shèng chǒng. Zhǔ yǔ nǐ tóng zài.
 
 !!! tip "天主經 [↗](../our-father/)"
-    <span onclick="new Audio('../../our-father/our-father-1.mp3').play()" style="cursor:pointer; text-decoration:underline">我們的天父，願祢的名受顯揚。</span>
+    <span onclick="new Audio('../../our-father/our-father-1.mp3').play()" style="cursor:pointer;">我們的天父，願祢的名受顯揚。</span>
 
     Wǒ men de tiān fù, yuàn nǐ de míng shòu xiǎn yáng.
 
