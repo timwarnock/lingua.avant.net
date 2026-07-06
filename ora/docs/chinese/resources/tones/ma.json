@@ -1,0 +1,111 @@
+{
+  "id": "ma",
+  "lang": "chinese",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "妈",
+          "phonetic": "mā",
+          "timing": {
+            "full": [
+              0.0,
+              0.3
+            ],
+            "passage": [
+              0.0,
+              0.458
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "麻",
+          "phonetic": "má",
+          "timing": {
+            "full": [
+              0.3,
+              0.511
+            ],
+            "passage": [
+              0.0,
+              0.471
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "马",
+          "phonetic": "mǎ",
+          "timing": {
+            "full": [
+              0.511,
+              0.721
+            ],
+            "passage": [
+              0.0,
+              0.458
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "骂",
+          "phonetic": "mà",
+          "timing": {
+            "full": [
+              0.721,
+              0.932
+            ],
+            "passage": [
+              0.0,
+              0.497
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "吗",
+          "phonetic": "ma",
+          "timing": {
+            "full": [
+              0.932,
+              1.247
+            ],
+            "passage": [
+              0.0,
+              0.484
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

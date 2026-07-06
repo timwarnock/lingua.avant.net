@@ -2,51 +2,122 @@
 icon: lucide/mic
 ---
 
-# 發音
+# <span tooltip="Fā Yīn = Pronunciation">發音</span>
 
+When the faithful pray the Rosary in Chinese, Jesuit missionaries introduced the prayers in the late sixteenth century. Michele Ruggieri arrived in 1579 and Matteo Ricci in 1582; Chinese Catholics soon recited them in characters according to local dialects -- Cantonese (<span tooltip="Guǎng Dōng Huà = Cantonese">廣東話</span>) in Guangdong and Hong Kong, Hokkien (<span tooltip="Mǐn Nán Yǔ = Hokkien">閩南語</span>) in Fujian and Taiwan, and northern Mandarin dialects in Beijing.
 
+Chinese has traditionally been written with logographic characters, and pronunciation has always varied by dialect. Comprehensive dictionaries list more than 50,000 characters, the 1716 Kangxi Dictionary cataloging 47,035, while functional literacy in classical texts requires several thousand; the civil service examinations, instituted in 605 and abolished in 1905, required candidates to memorize the Four Books and Five Classics totaling roughly 400,000 characters and to compose original eight-legged essays, with provincial pass rates often below 5 percent.
 
-中文玫瑰經的發音以普通話為主，強調清晰與節奏。
+After the Republic of China was founded in 1912, the Commission on the Unification of Pronunciation established a national standard based on the Beijing dialect. Formalized by 1932, it is known as <span tooltip="Guó Yǔ = National Language">國語</span> in Taiwan and <span tooltip="Pǔ Tōng Huà = Common Speech">普通話</span> on the mainland, or "Mandarin Chinese" more colloquially.
 
-- 四聲與輕聲的準確區分非常重要。
-- 「zh ch sh r」等捲舌音需注意。
-- 許多祈禱詞有固定節奏，適合配合念珠。
-- 拼音或注音練習有幫助。
+This page presents the standard Mandarin pronunciation for the Rosary.
 
-多聽中文玫瑰經的誦念錄音，感受自然的語調與呼吸。
+## <span tooltip="Yīn Wèi = Phonemes">音位</span>
 
+Mandarin syllables are formed from an optional initial consonant, a final, and a tone. There are twenty-one initials and roughly thirty-nine finals.
 
+!!! success "Initials"
+    + b p m f (labial)
+    + d t n l (alveolar)
+    + g k h (velar)
+    + j q x (palatal)
+    + zh ch sh r (retroflex, tongue curled; particular care needed)
+    + z c s (dental sibilants)
 
+    Aspirated stops (p, t, k, q, ch, c) carry a distinct puff of air.
 
+!!! success "Finals"
+    Core vowels are a, o, e, i, u, ü. These combine with endings i, u, n, ng to produce the full set of finals (ai, ei, ao, ou, an, en, ang, eng, and others). Vowel quality differs from English and requires precise listening.
 
+Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
 
-Focus on forms,
-https://resources.allsetlearning.com/chinese/grammar/Main_Page
+Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts—for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
 
+Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
 
+Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
 
+## <span tooltip="Shēng Diào = Tones">聲調</span>
 
----
+It is commonly taught that there are four tones plus a neutral tone. These are usually demonstrated with the syllable "ma": <span onclick="new Audio('../tones/ma1.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mā = mother">媽</span>, <span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="má = hemp">麻</span>, <span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mǎ = horse">馬</span>, <span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="mà = scold">罵</span>, <span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer; text-decoration:underline" tooltip="ma = question particle">嗎</span> -- see if you can hear the <span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer; text-decoration:underline">difference</span>.
+To better understand the differences, the traditional isolated forms are helpful.
 
-## <span tooltip="Jiànyì - recommendations">建議</span>
+!!! success "Tones in isolation (<span tooltip="Běn Diào = Original Tone">本調</span>)"
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/zhen1.mp3').play()" style="cursor:pointer; text-decoration:underline">真 zhēn (1st)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/chang2.mp3').play()" style="cursor:pointer; text-decoration:underline">常 cháng (2nd)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/hao3.mp3').play()" style="cursor:pointer; text-decoration:underline">好 hǎo (3rd)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/da4.mp3').play()" style="cursor:pointer; text-decoration:underline">大 dà (4th)</span>  
+    <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/cong1ming0.mp3').play()" style="cursor:pointer; text-decoration:underline">聰明 cōngming (neutral)</span>
 
-These are resources that I have found the most useful, and would recommend to anyone learning Chinese.
+These are the tones taught in isolation. Now consider actual spoken Mandarin. The Praat diagram below shows contours from a native speaker saying a natural phrase. Click the image to listen. This demonstrates that real speech does not match the simple five-tone model.
 
-<span tooltip="tīnghéshuō - listening and speaking">聽和說</span>
+<audio id="tone-audio" src="tones/tones-first-time-here.mp3" preload="auto"></audio>
+<img src="tones/tones-first-time-here.jpg" onclick="document.getElementById('tone-audio').play()" alt="Tone visualization created in Praat. Click the image to play the audio." style="cursor: pointer; max-width: 100%; margin: 0.5em 0; border: 1px solid #ccc;">
 
-+ Beginner: children shows (like [<span tooltip="Wǒ zài nǎlǐ - Where am I?">我在哪裡</span>](https://www.youtube.com/playlist?list=PLZ27m2K2W5n5FS7qaGF5UGrm2OjnKtWHR), [Magic Marker](https://www.youtube.com/playlist?list=PLZ27m2K2W5n4YTZYZ3M2z2nn81gjYRFNx))  
-+ Intermediate: subtitled shows (like [Happy Chinese](https://www.youtube.com/playlist?list=PLdT5MUO4gYEdQBMFtkF5g803FJZOss-ip))
+There is a lot going on here that does not match the five tones. And it’s a native Mandarin speaker. When you ask native speakers what’s going on, they’ll respond as confused as if you asked a native English speaker why they have so many vowel sounds. In reality, there are 5 tones in Mandarin just like there are 5 vowels in English. It’s technically true, but in reality it’s much more complicated.
 
-+ [zdic.net](http://zdic.net/) (dictionary)  
- + [mdbg.net](https://www.mdbg.net/) (word dictionary)  
- + [pleco app](https://www.pleco.com/) (Chinese dictionary app)  
- + [memrise](http://memrise.com/)  
- + [hellochinese app](http://hellochinese.cc/)  
- + [learnchineseez.com](http://learnchineseez.com/read-write/traditional/index.php) (stroke order animations)  
- + [sinosplice.com](http://sinosplice.com)
+If you only learn 5 tones, you not only won’t understand native speakers, you won’t be understood when you speak.
 
+Language teachers often say that you’ll master tones as you progress in your learning. A sort of natural discovery process. This should cause us to cringe. Let’s remember what the point of language teaching is:
 
-Chinese flashcards; hand-made are the best, although as a web or mobile app they can record timing and do a better job at spaced-repetition patterns to aid memorization and automaticity.
+!!! quote "Henry Widdowson"
+    The whole point of language pedagogy is that it is a way of short-circuiting the slow process of natural discovery and can make arrangements for learning to happen more easily and more efficiently than it does in natural surroundings.
+
+The typical ways tones are taught do not short-circuit the slow process of natural discovery. Any educator (or educational resource) that refers to this kind of natural discovery is fundamentally failing at their job. It’s basically a polite way of saying, “I don’t know what that is, go figure it out yourself.”
+
+Even for absolute beginners, it’s important to know that tones are more complicated than the “five tones” nonsense. Let’s break this down.
+
+Tone sandhi rules are the first clear indication that tones in context are far more complex than the textbook model.
+
+Tone change rules, or [tone sandhi](https://en.wikipedia.org/wiki/Standard_Chinese_phonology#Tone_sandhi), govern how tones interact in phrases and prayers.
+
+!!! success "3rd tone sandhi"
+    A 3rd tone before another 3rd tone becomes 2nd tone. <span tooltip="Lǎo = Old">老</span> + <span tooltip="Shǔ = Rat">鼠</span> = <span tooltip="Láo Shǔ = Mouse">老鼠</span>.
+
+!!! success "3rd tone before non-3rd"
+    A 3rd tone before any other tone is realized as low and flat (the full dip and rise is rare in connected speech).
+
+!!! success "2nd tone simplification"
+    A 2nd tone after a 1st or 2nd tone often levels toward a 1st tone in fluent speech.
+
+!!! success "一 (Yī)"
+    一 is 1st tone in isolation. It becomes 2nd before a 4th tone (<span tooltip="Yí Dìng = Certainly">一定</span>) and 4th before 1st, 2nd, or 3rd (<span tooltip="Yì Tiān = One Day">一天</span>, <span tooltip="Yì Nián = One Year">一年</span>, <span tooltip="Yì Qǐ = Together">一起</span>).
+
+!!! success "不 (Bù)"
+    不 becomes 2nd tone before a 4th tone (不是 bú shì). It can neutralize in patterns such as 是不是.
+
+These adjustments appear throughout the Rosary. The rules are not exhaustive and vary somewhat by speaker.
+
+Most Chinese words consist of two syllables and follow one of roughly twenty distinct tone pairs. Learning these combinations aids recognition in flowing speech and supports the natural rhythm of prayer.
+
+<button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Practice tone pairs</button>
+
+## Examples from the Prayers
+
+Audio on the prayer pages presents the phonemes and tones in their proper liturgical setting.
+
+!!! tip "聖母經 [↗](../hail-mary/)"
+    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer; text-decoration:underline">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>
+
+    Wàn fú Mǎ lì yà, nǐ chōng mǎn shèng chǒng. Zhǔ yǔ nǐ tóng zài.
+
+!!! tip "天主經 [↗](../our-father/)"
+    <span onclick="new Audio('../../our-father/our-father-1.mp3').play()" style="cursor:pointer; text-decoration:underline">我們的天父，願祢的名受顯揚。</span>
+
+    Wǒ men de tiān fù, yuàn nǐ de míng shòu xiǎn yáng.
+
+Follow the text and pinyin while listening. Steady repetition develops automaticity with the sounds used in prayer.
+
+## <span tooltip="Tuī Jiàn = Recommendations">推薦</span>
+
+These resources support learning the pronunciation of the Rosary prayers in Chinese.
+
++ zdic.net and mdbg.net (character and audio references)
++ Pleco app (mobile dictionary with recordings)
++ Memrise and HelloChinese (audio-based lessons)
++ Sinosplice.com (tone explanations and drills)
+
+Flashcards paired with the prayer audio on this site aid spaced repetition and automaticity.
 
 <button class="flashcard-green" onclick="Flashcards.open('zh/hello')">Hello / 你好</button>
 <button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Tones / 聲調</button>
@@ -54,22 +125,12 @@ Chinese flashcards; hand-made are the best, although as a web or mobile app they
 <button class="flashcard-green" onclick="Flashcards.open('zh/convo1')">Conversation / 對話</button>
 <button class="flashcard-green" onclick="Flashcards.open('zh/danger')">Danger Zone / 危險區</button>
 
+## <span tooltip="Bù Tuī Jiàn = Not Recommended">不推薦</span>
 
+These approaches offer limited help for clear pronunciation of the prayers.
 
++ Michel Thomas: slow pace and inaccurate tone guidance
++ Pimsleur: restricted audio range
++ Apps with low-quality recordings or intrusive advertising
 
-
-
----
-
-## <span tooltip="Bù jiànyì - not recommended">不建議</span>
-
-These are resources that I tried, but ultimately found to be lacking.
-
-+ Michel Thomas, unfun and sleepy, misleading explanation of tones  
- + Pimsleur, boring, bad audio  
- + ChineseSkill app, too buggy, unfun  
- + ChinesePod app, giant advertisement asking for money  
- + http://www.hackingchinese.com/  
- + https://dictionary.writtenchinese.com
-
-
+Prioritize repeated listening to native speakers praying the Rosary itself.
