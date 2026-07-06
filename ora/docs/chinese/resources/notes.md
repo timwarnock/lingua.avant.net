@@ -22,7 +22,6 @@ These are resources that I have found the most useful, and would recommend to an
 
 + Learn [zhuyin and pinyin](zhuyin.md)  
  + Practice [tones and tone pairs](tones.md)  
- + Develop [comfort zones, <span tooltip="shūshì qū - comfort zones">舒適區</span>](comfort-zones.md)  
  + Beginner: children shows (like [<span tooltip="Wǒ zài nǎlǐ - Where am I?">我在哪裡</span>](https://www.youtube.com/playlist?list=PLZ27m2K2W5n5FS7qaGF5UGrm2OjnKtWHR), [Magic Marker](https://www.youtube.com/playlist?list=PLZ27m2K2W5n4YTZYZ3M2z2nn81gjYRFNx))  
  + Intermediate: subtitled shows (like [Happy Chinese](https://www.youtube.com/playlist?list=PLdT5MUO4gYEdQBMFtkF5g803FJZOss-ip))
 
