@@ -1,5 +1,5 @@
 # Makefile for lingua.avant.net
-# Zensical site lives in ora/ (special preview at /ora/site/)
+# Zensical site lives in ora/ (published at /ave/ via symlink to ora/site/)
 #
 # Default: build
 # Run `make serve` in a separate terminal for the dev server on :7007
@@ -11,7 +11,7 @@
 help:
 	@echo "ora/ (Zensical) targets:"
 	@echo "  make        - build the site (default)"
-	@echo "  make build  - build ora/site/"
+	@echo "  make build  - build ora/site/ (served at /ave/)"
 	@echo "  make serve  - start dev server on localhost:7007"
 	@echo "  make kill   - kill running zensical dev server (pkill)"
 	@echo "  make restart - kill then restart dev server"
