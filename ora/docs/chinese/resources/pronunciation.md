@@ -4,11 +4,11 @@ icon: lucide/mic
 
 # <span tooltip="Fā Yīn = Pronunciation">發音</span>
 
-When the faithful pray the Rosary in Chinese, Jesuit missionaries introduced the prayers in the late sixteenth century. Michele Ruggieri arrived in 1579 and Matteo Ricci in 1582; Chinese Catholics soon recited them in characters according to local dialects -- Cantonese (<span tooltip="Guǎng Dōng Huà = Cantonese">廣東話</span>) in Guangdong and Hong Kong, Hokkien (<span tooltip="Mǐn Nán Yǔ = Hokkien">閩南語</span>) in Fujian and Taiwan, and northern Mandarin dialects in Beijing.
+Jesuit missionaries introduced the Rosary prayers to China in the late sixteenth century. Michele Ruggieri arrived in 1579 and Matteo Ricci in 1582. Chinese Catholics soon recited them in characters according to local dialects -- Cantonese (<span tooltip="Guǎng Dōng Huà = Cantonese">廣東話</span>) in Guangdong and Hong Kong, Hokkien (<span tooltip="Mǐn Nán Yǔ = Hokkien">閩南語</span>) in Fujian and Taiwan, and northern Mandarin dialects in Beijing.
 
-Chinese has traditionally been written with logographic characters, and pronunciation has always varied by dialect. Comprehensive dictionaries list more than 50,000 characters, the 1716 Kangxi Dictionary cataloging 47,035, while functional literacy in classical texts requires several thousand; the civil service examinations, instituted in 605 and abolished in 1905, required candidates to memorize the Four Books and Five Classics totaling roughly 400,000 characters and to compose original eight-legged essays, with provincial pass rates often below 5 percent.
+Chinese has traditionally been written with logographic characters, and pronunciation has always varied by dialect. Comprehensive dictionaries list more than 50,000 characters. The 1716 Kangxi Dictionary cataloged 47,035 entries. Functional literacy in classical texts requires several thousand characters. The civil service examinations, instituted in 605 and abolished in 1905, required candidates to memorize the Four Books and Five Classics (roughly 400,000 characters total) and to compose original eight-legged essays, with provincial pass rates often below 5 percent.
 
-After the Republic of China was founded in 1912, the Commission on the Unification of Pronunciation established a national standard based on the Beijing dialect. Formalized by 1932, it is known as <span tooltip="Guó Yǔ = National Language">國語</span> in Taiwan and <span tooltip="Pǔ Tōng Huà = Common Speech">普通話</span> on the mainland, or "Mandarin Chinese" more colloquially.
+After the Republic of China was founded in 1912, the Commission on the Unification of Pronunciation established a national standard based on the Beijing dialect. It was formalized by 1932 and is known as <span tooltip="Guó Yǔ = National Language">國語</span> in Taiwan and <span tooltip="Pǔ Tōng Huà = Common Speech">普通話</span> on the mainland, or Mandarin Chinese more colloquially.
 
 This page presents the standard Mandarin pronunciation for the Rosary.
 
@@ -21,26 +21,54 @@ This page presents the standard Mandarin pronunciation for the Rosary.
 
 Mandarin syllables are formed from an optional initial consonant, a final, and a tone. There are twenty-one initials and roughly thirty-nine finals.
 
-!!! success "Initials"
-    + b p m f (labial)
-    + d t n l (alveolar)
-    + g k h (velar)
-    + j q x (palatal)
-    + zh ch sh r (retroflex, tongue curled; particular care needed)
-    + z c s (dental sibilants)
+!!! warning "<span tooltip='Zhù Yīn huò Pīn Yīn = Zhuyin or Pinyin?'>注音 或 拼音?</span>"
+    Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
 
-    Aspirated stops (p, t, k, q, ch, c) carry a distinct puff of air.
+    Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
+
+    Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
+
+    Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
+
+!!! success "Initial Consonants (<span tooltip='Shēng Mǔ = Initial Consonants'>聲母</span>)"
+    **Labials** -- lips or lower lip against upper teeth  
+    b (ㄅ), p (ㄆ), m (ㄇ), f (ㄈ)
+
+    **Alveolars** -- tongue tip against the ridge behind the upper teeth  
+    d (ㄉ), t (ㄊ), n (ㄋ), l (ㄌ)
+
+    **Velars** -- back of the tongue against the soft palate  
+    g (ㄍ), k (ㄎ), h (ㄏ)
+
+    **Palatals** -- tongue blade against the hard palate (unique to Mandarin)    
+    j (ㄐ), q (ㄑ), x (ㄒ)
+
+    **Retroflex** -- tongue tip curled back  
+    zh (ㄓ), ch (ㄔ), sh (ㄕ), r (ㄖ)
+
+    **Dental sibilants** -- tongue tip near the upper teeth, with a hissing quality  
+    z (ㄗ), c (ㄘ), s (ㄙ)
+
+    Aspirated consonants (p, t, k, q, ch, c) are pronounced with a distinct puff of air.
 
 !!! success "Finals"
-    Core vowels are a, o, e, i, u, ü. These combine with endings i, u, n, ng to produce the full set of finals (ai, ei, ao, ou, an, en, ang, eng, and others). Vowel quality differs from English and requires precise listening.
+    + a ㄚ
+    + o ㄛ
+    + e ㄜ
+    + i ㄧ
+    + u ㄨ
+    + ü ㄩ
+    + ai ㄞ
+    + ei ㄟ
+    + ao ㄠ
+    + ou ㄡ
+    + an ㄢ
+    + en ㄣ
+    + ang ㄤ
+    + eng ㄥ
+    + er ㄦ
 
-Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
-
-Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
-
-Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
-
-Both systems represent the identical set of sounds, but zhuyin clarifies the distinctions for non-native speakers.
+    These combine with other endings to form the full set. Vowel quality differs from English and requires precise listening.
 
 
 
