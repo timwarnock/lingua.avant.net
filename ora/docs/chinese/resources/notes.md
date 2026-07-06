@@ -32,7 +32,6 @@ These are resources that I have found the most useful, and would recommend to an
  + Practice [<span tooltip="Shūfǎ - Calligraphy">書法</span>](calligraphy.md)  
  + Focus on Forms [<span tooltip="Yǔfǎ - grammar">語法</span>](grammar.md)  
  + Read newspaper  
- + Read books, [<span tooltip="Shuōhuà - Speaking">poems</span>](speaking-poem.md)
 
 Other (helpful) resources
 
