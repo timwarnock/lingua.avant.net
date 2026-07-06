@@ -4,11 +4,11 @@ icon: lucide/user
 
 # Introverts & Language
 
-When I take one of those silly online personality tests, I will score moderately high in extraversion. This is funny because I am introverted by nature. I’ve learned to emulate the skills of an extravert — such as speaking confidently in a meeting or lecture.
+When I take one of those silly online personality tests, I will score moderately high in extraversion. This is funny because I am introverted by nature. I’ve learned to emulate the skills of an extravert -- such as speaking confidently in a meeting or lecture.
 
 Introversion is often conflated with shyness or sensitivity (such as [Sensory Processing Sensitivity](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity)). I’d recommend Susan Cain’s book [Quiet](https://en.wikipedia.org/wiki/Quiet:_The_Power_of_Introverts_in_a_World_That_Can%27t_Stop_Talking) if you want a better understanding of Introversion (as distinct from shyness).
 
-That said, whether you’re shy, introverted, or a highly sensitive person — you’re likely going to face unique difficulties in language learning.
+That said, whether you’re shy, introverted, or a highly sensitive person -- you’re likely going to face unique difficulties in language learning.
 
 This is why I don’t advise, “just go talk to people”, and I kind of hate when people tell me that (even though I know it works for some people). I’ve learned the hard way that I will not learn a language by “just” doing anything. For me, and people like me, “just do it” is extraordinarily unhelpful advice.
 

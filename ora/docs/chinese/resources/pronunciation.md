@@ -36,7 +36,7 @@ Mandarin syllables are formed from an optional initial consonant, a final, and a
 
 Pinyin serves as the primary learning tool for these sounds in the prayers, but it is a romanization that maps Mandarin Chinese phonemes onto Latin letters. This differs from most other latinizations, as it assigns the phonemes of spoken Mandarin rather than English or other language sounds to the letters. Non-Chinese speakers commonly misread pinyin by applying familiar Latin-based phonetics.
 
-Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts—for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
+Zhuyin, also known as bopomofo after its initial symbols <span tooltip="Bó Pō Mō Fō">ㄅㄆㄇㄈ</span>, is a phonetic system that perfectly captures the phonemes of spoken Mandarin. Its symbols are derived from traditional Chinese characters, forming a dedicated set with no pre-existing sound associations from other languages. This provides a clear mapping without the ambiguities of Latin scripts -- for example, the pinyin “u” can represent either the sound in “oo” or the rounded front vowel ü (always written ㄩ in zhuyin).
 
 Learning zhuyin first helps internalize the precise Mandarin phonemes before mapping them to pinyin, avoiding the substitution of English sounds.
 
@@ -67,7 +67,7 @@ To better understand the differences, the traditional isolated forms are helpful
     <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/da4.mp3').play()" style="cursor:pointer; text-decoration:underline">大 dà (4th)</span>  
     <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/cong1ming0.mp3').play()" style="cursor:pointer; text-decoration:underline">聰明 cōngming (neutral)</span>
 
-These are the tones taught in isolation. Now consider actual spoken Mandarin. The Praat diagram below shows contours from a native speaker saying a natural phrase. Click the image to listen. This demonstrates that real speech does not match the simple five-tone model.
+These are the tones taught in isolation. Now consider actual spoken Mandarin. The Praat diagram below shows contours from a native speaker saying a natural phrase. Click the image to listen, and look carefully at the actual tones.
 
 <audio id="tone-audio" src="tones/tones-first-time-here.mp3" preload="auto"></audio>
 <img src="tones/tones-first-time-here.jpg" onclick="document.getElementById('tone-audio').play()" alt="Tone visualization created in Praat. Click the image to play the audio." style="cursor: pointer; max-width: 100%; margin: 0.5em 0; border: 1px solid #ccc;">
@@ -84,6 +84,12 @@ Language teachers often say that you’ll master tones as you progress in your l
 The typical ways tones are taught do not short-circuit the slow process of natural discovery. Any educator (or educational resource) that refers to this kind of natural discovery is fundamentally failing at their job. It’s basically a polite way of saying, “I don’t know what that is, go figure it out yourself.”
 
 Even for absolute beginners, it’s important to know that tones are more complicated than the “five tones” nonsense. Let’s break this down.
+
+
+
+---
+
+## Tone Sandhi (<span tooltip="Shēng Diào Biàn Huà = Tone Sandhi">聲調變化</span>)
 
 Tone sandhi rules are the first clear indication that tones in context are far more complex than the textbook model.
 
@@ -106,13 +112,21 @@ Tone change rules, or [tone sandhi](https://en.wikipedia.org/wiki/Standard_Chine
 
 These adjustments appear throughout the Rosary. The rules are not exhaustive and vary somewhat by speaker.
 
+
+
+---
+
+## Tone Pairs (<span tooltip="Shēng Diào Zǔ Hé = Tone Pairs">聲調組合</span>)
+
 Most Chinese words consist of two syllables and follow one of roughly twenty distinct tone pairs. Learning these combinations aids recognition in flowing speech and supports the natural rhythm of prayer.
 
 <button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Practice tone pairs</button>
 
-## Examples from the Prayers
 
-Audio on the prayer pages presents the phonemes and tones in their proper liturgical setting.
+
+
+
+
 
 !!! tip "聖母經 [↗](../hail-mary/)"
     <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer; text-decoration:underline">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>
@@ -125,6 +139,10 @@ Audio on the prayer pages presents the phonemes and tones in their proper liturg
     Wǒ men de tiān fù, yuàn nǐ de míng shòu xiǎn yáng.
 
 Follow the text and pinyin while listening. Steady repetition develops automaticity with the sounds used in prayer.
+
+
+
+---
 
 ## <span tooltip="Tuī Jiàn = Recommendations">推薦</span>
 
@@ -142,6 +160,10 @@ Flashcards paired with the prayer audio on this site aid spaced repetition and a
 <button class="flashcard-green" onclick="Flashcards.open('zh/learning')">Learning / 學習</button>
 <button class="flashcard-green" onclick="Flashcards.open('zh/convo1')">Conversation / 對話</button>
 <button class="flashcard-green" onclick="Flashcards.open('zh/danger')">Danger Zone / 危險區</button>
+
+
+
+---
 
 ## <span tooltip="Bù Tuī Jiàn = Not Recommended">不推薦</span>
 

@@ -134,7 +134,7 @@ In my experience, nebulous goals lead to nebulous learning.
 
 ## 12. Active listening is critical
 
-> Conversation, which on the surface appears to be one of the most basic forms of communication, is actually one of the hardest to master. A seasoned Foreign Service officer, who had learned several languages to a high level, was overheard to remark that engaging in conversation–particularly in multiparty settings–was the ultimate test of someone’s language ability.
+> Conversation, which on the surface appears to be one of the most basic forms of communication, is actually one of the hardest to master. A seasoned Foreign Service officer, who had learned several languages to a high level, was overheard to remark that engaging in conversation -- particularly in multiparty settings -- was the ultimate test of someone’s language ability.
 
 This is one of my favorite sections, and it goes against the conventional wisdom that conversational ability is one of the easiest skills to master in a foreign language. They emphasize that a conversation is far more about listening than it is about speaking.
 

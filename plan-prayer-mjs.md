@@ -30,7 +30,7 @@ Segments are the lowest-level, atomic, uniquely addressable units of text.
 - Every segment has a unique "passage_segment_id" within the prayer (e.g. "1a", "1b", "2"). These are unique across all segments.
 - Segments within a passage are lettered (a, b, c...); the full passage_segment_id combines passage and segment letter for clarity and uniqueness.
 - Each segment carries two distinct fields:
-  - "text": the proper written form for display — correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer (used to assemble the main passage text lines in the player).
+  - "text": the proper written form for display -- correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer (used to assemble the main passage text lines in the player).
   - "phonetic": the pronunciation form. This is fed to TTS for audio generation (default tts.input="phonetic") and displayed in the clickable sub-segments/chunks. It may (and frequently will for better learning audio) differ from "text" to achieve correct pronunciation (e.g. "blessid" for two-syllable "blessed", adjusted punctuation for prosody such as commas before "Amen", etc.). Proper display spelling/grammar lives in "text"; phonetic prioritizes how it should sound.
 - Given the full list of segments (with their passage_segment_ids), the passages and the full prayer text can be reconstructed.
 
@@ -38,7 +38,7 @@ Alignment rule (English is the source of truth):
 Passages are the hard 1:1 rule across languages (via numeric passage_id).
 Segments should match the English reference. Due to linguistic and grammatical differences they may not match perfectly. Aim to match English. When not a perfect match, aim for equal segment counts. Different segment counts are rare and require explicit approval (as it violates the goal of matching segments perfectly).
 
-There is no independent content on a passage object itself — passages are only groupings of their segments under the passage_id. passage_id is kept explicitly for clarity and self-documenting even if derivable from the passage_segment_ids.
+There is no independent content on a passage object itself -- passages are only groupings of their segments under the passage_id. passage_id is kept explicitly for clarity and self-documenting even if derivable from the passage_segment_ids.
 
 ### JSON as the source of truth for interactivity
 Each prayer page loads a sibling JSON file that describes:
@@ -78,7 +78,7 @@ The generator walks the passages/segments directly and derives content for full 
 
 - Files live in the companion directory next to the JSON (e.g. `english/hail-mary/hail-mary.mp3`, `english/hail-mary/hail-mary-1a.mp3`, etc.)
 - Filenames are derived by convention (e.g. `hail-mary.mp3` for full, `hail-mary-1a.mp3` for segment); no "audio" map in the JSON.
-- No timing offsets are stored or needed — the player simply plays the appropriate file for each segment.
+- No timing offsets are stored or needed -- the player simply plays the appropriate file for each segment.
 
 Audio is produced using Microsoft Edge TTS via the `edge-tts` Python package (see `audio-utils/` for the generation script and notes). This approach was chosen for simplicity, reliability, and to avoid manual timing work.
 
@@ -86,7 +86,7 @@ The canonical generation tooling lives in `audio-utils/` (not inside `ora/` or t
 
 ### Text and Phonetic on segments
 Every segment has both, with clearly distinct purposes:
-- "text": the proper written form for display — correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer. This is used to assemble the main passage text lines shown in the player (and can be used in fallbacks).
+- "text": the proper written form for display -- correct spelling, grammar, traditional punctuation and presentation as it should appear in the prayer. This is used to assemble the main passage text lines shown in the player (and can be used in fallbacks).
 - "phonetic": the pronunciation form for TTS and learning. This is the string passed to the TTS engine (when tts.input="phonetic", the default) and what appears in the clickable phonetic chunks below each passage. It is explicitly allowed (and expected for English and similar) to differ from "text" to achieve correct pronunciation (e.g. "blessid" instead of "Blessed"), or "...death," in phonetic only to produce natural "death, Amen" flow in audio while "text" keeps proper "death.".
 
 TTS uses the field specified in tts.input ("phonetic" by default, or "text" for languages like Chinese where the written form is sufficient).
@@ -217,19 +217,19 @@ Amen is placed in its own final passage (for better readability in the UI). The 
 - Very minimal buttons. The content itself is the main interaction surface.
 - Designed to be mobile-friendly and non-intrusive.
 
-The plain Markdown text above/below is no longer presented as a "Practice" section — it is purely fallback content.
+The plain Markdown text above/below is no longer presented as a "Practice" section -- it is purely fallback content.
 
 ## Implementation Files
 
-- `ora/docs/assets/prayer.mjs` — unified player module with `createApp(container, opts = {})`:
+- `ora/docs/assets/prayer.mjs` -- unified player module with `createApp(container, opts = {})`:
   - Locked mode (triggered by `opts.jsonPath` or `data-json`): for per-prayer pages and audio-testing. Loads sibling JSON; forces text (primary) + phonetic (secondary) dual-line view from same data; no choosers; supports heading repurposing (H1/H2) + hides `.prayer-fallback`.
   - Full mode (no json): for home page (and explicit cases). Supports lang/prayer choosers, swap, per-side modes when flags enabled. Hard-codes sensible defaults + choosers=true for the home `#dual-rosary`.
   - Auto-init supports legacy (`.prayer-interactive`, `#dual-rosary`) + `.prayer-app` for zero markdown changes.
   - Always uses dual-line viewer style for locked (text primary + phonetic secondary lines with per-passage/segment play).
   - PRAYERS and LANGS registries only when choosers active.
   - Audio co-located with JSON; derives from id + passage/segment ids.
-- `ora/docs/stylesheets/extra.css` — styles for `.prayer-interactive`, `.dual-*` (langbar, viewer, lines, segs, play), `.play-btn`, `.playing`, etc.
-- `ora/zensical.toml` — lists `assets/prayer.mjs` in `extra_javascript`
+- `ora/docs/stylesheets/extra.css` -- styles for `.prayer-interactive`, `.dual-*` (langbar, viewer, lines, segs, play), `.play-btn`, `.playing`, etc.
+- `ora/zensical.toml` -- lists `assets/prayer.mjs` in `extra_javascript`
 - Per-prayer JSON (passages + segments define everything; no audio map) + generated MP3s in the companion folder
 
 (The prior separate dual-prayer logic was consolidated into the single module.)
@@ -267,7 +267,7 @@ The plain Markdown text above/below is no longer presented as a "Practice" secti
 - English defines the passage_ids and segment structure for each prayer. Other languages follow the alignment rule in Core Concepts. passage_segment_id values (e.g. "1a", "1b") are unique within a prayer. Segments within a passage use a, b, c... letters.
 - The companion directory pattern (`lang/prayer/`) is preferred over centralizing in `assets/`.
 - Do not introduce two-letter language codes in paths or data unless explicitly decided later.
-- The Markdown static text should not be presented as the main view — it is fallback only.
+- The Markdown static text should not be presented as the main view -- it is fallback only.
 - When adding new features to `prayer.mjs`, keep the UI minimal and the controls integrated into the segment text and phonetic.
 - Test that the fallback still appears when the module fails (temporarily break the JSON path to verify).
 - Every segment must have both "text" and "phonetic". Content lives on segments.

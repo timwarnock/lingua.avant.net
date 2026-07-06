@@ -66,9 +66,9 @@ The JSON must contain at minimum:
 
 For a JSON with id `"hail-mary"`, the script produces (next to the JSON):
 
-- `hail-mary.mp3` — full concatenation of all segments
-- `hail-mary-1.mp3`, `hail-mary-2.mp3`, ... — one per passage (concatenation of segments in that passage)
-- `hail-mary-1a.mp3`, `hail-mary-1b.mp3`, ... — one per segment
+- `hail-mary.mp3` -- full concatenation of all segments
+- `hail-mary-1.mp3`, `hail-mary-2.mp3`, ... -- one per passage (concatenation of segments in that passage)
+- `hail-mary-1a.mp3`, `hail-mary-1b.mp3`, ... -- one per segment
 
 Filenames are derived directly from `"id"`, `passage_id`, and `passage_segment_id`.
 
