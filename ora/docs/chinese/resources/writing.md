@@ -63,7 +63,15 @@ The site therefore uses traditional characters throughout.
 
 The practice of <span tooltip="shūfǎ = Calligraphy">書法</span> invites a different kind of attention. Each stroke is formed slowly, with care for order and balance. The hand moves while the mind holds the meaning of the prayer. In this way writing can become a form of contemplation.
 
-The eight principles drawn from the character <span tooltip="yǒng = eternal">永</span> (yǒng, eternal) describe the basic strokes:
+The eight principles drawn from the character <span tooltip="yǒng = eternal">永</span> (yǒng, eternal) describe the basic strokes.
+
+!!! tip "Stroke order of <span tooltip="yǒng = eternal">永</span>"
+    Follow each stroke as the animation plays. It begins with the <span tooltip="diǎn = dot">點</span> at the top, then the <span tooltip="héng = horizontal">橫</span>, the <span tooltip="shù = vertical">豎</span>, and finishes with the hook and sweeps that give the character its balance. Trace the motion slowly by hand while reflecting on <span tooltip="yǒng = eternal">永</span>, eternal.
+
+    <a href="https://www.twpen.com/%E6%B0%B8.html" target="_blank" rel="noopener">
+        <img src="../../../assets/images/yong-stroke-order.gif" alt="Animated stroke order for yong (eternal)" />
+    </a>  
+    <span style="font-size: 0.85em; opacity: 0.75;">From 筆順字典 (<a href="https://twpen.com" target="_blank" rel="noopener">twpen.com</a>)</span>
 
 !!! success "The eight principles of <span tooltip="yǒng = eternal">永</span>"
     - <span tooltip="diǎn = dot">點</span> (diǎn) -- the dot  
@@ -79,22 +87,17 @@ These are not abstract rules. They shape every character the prayers use.
 
 Stroke order itself follows a simple logic developed for the brush: top before bottom, left before right, horizontals before verticals, enclosures before what they contain, center before the sides. When you follow it, the character holds together.
 
-The prayers themselves give the best material for practice.
+The character <span tooltip="zhǔ = Lord">主</span> appears throughout the Rosary prayers (for example in <span tooltip="zhǔ yǔ nǐ tóng zài = the Lord is with thee">主與妳同在</span>).
 
-!!! tip "<span tooltip="shèng hào jīng = Sign of the Cross">聖號經</span> [↗](../sign-of-the-cross/)"
-    <span tooltip="yīn fù jí zǐ jí shèng shén zhī míng = in the name of the Father and of the Son and of the Holy Spirit">因父及子及聖神之名。</span>
+!!! tip "Stroke order of <span tooltip="zhǔ = Lord">主</span>"
+    Watch the strokes form in order: it begins with the <span tooltip="diǎn = dot">點</span> that crowns it, then the <span tooltip="héng = horizontal">橫</span> and <span tooltip="shù = vertical">豎</span> that form the cross, and ends with the bottom <span tooltip="héng = horizontal">橫</span>. As the animation repeats, copy <span tooltip="zhǔ = Lord">主</span> by hand and pray the words that contain it, <span tooltip="zhǔ yǔ nǐ tóng zài = the Lord is with thee">主與妳同在</span>.
 
-    <span tooltip="yīn fù = in the Father">因父</span> begins with a clear vertical and horizontal. The radical in <span tooltip="shèng = holy">聖</span> sits on the left and must be completed before the phonetic elements on the right. Write the whole line slowly while praying the words. Let each stroke carry the meaning.
+    <a href="https://www.twpen.com/%E4%B8%BB.html" target="_blank" rel="noopener">
+        <img src="../../../assets/images/zhu-stroke-order.gif" alt="Animated stroke order for zhu (Lord)" />
+    </a>  
+    <span style="font-size: 0.85em; opacity: 0.75;">From 筆順字典 (<a href="https://twpen.com" target="_blank" rel="noopener">twpen.com</a>)</span>
 
-!!! tip "<span tooltip="shèng mǔ jīng = Hail Mary">聖母經</span> [↗](../hail-mary/)"
-    <span tooltip="wàn fú mǎ lì yà , nǐ chōng mǎn shèng chǒng . zhǔ yǔ nǐ tóng zài = hail Mary, you are full of holy grace. The Lord is with you.">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>
-
-    Notice <span tooltip="shèng chǒng = holy grace">聖寵</span>. The sacred radical again appears. The strokes of 寵 build upward then close. As you form them, the phrase "full of grace" is present in both the hand and the heart.
-
-!!! tip "Practice the prayers"
-    Begin with these short passages. Copy them by hand while listening to the audio. Write deliberately. The repetition of the prayers in this way trains both memory and reverence.
-
-For clear demonstrations of traditional stroke order on frequent characters, see [Learn to Read and Write Traditional Chinese Characters](https://learnchineseez.com/read-write/traditional/index.php). Use it to study the characters that appear in the mysteries.
+The animations above are for <span tooltip="yǒng = eternal">永</span> and <span tooltip="zhǔ = Lord">主</span>, two characters central to calligraphy practice and the Rosary prayers. Stroke order animations for many more characters that appear in the mysteries are available at [TW MOE](https://stroke-order.learningweb.moe.edu.tw/), [strokeorder.com](https://www.strokeorder.com/) or at [twpen.com](https://twpen.com).
 
 
 
