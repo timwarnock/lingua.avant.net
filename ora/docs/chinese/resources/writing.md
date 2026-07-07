@@ -2,7 +2,7 @@
 icon: lucide/brush
 ---
 
-# Writing (<span tooltip="xiězuò = Writing">寫作</span>)
+# <span tooltip="xiězuò = Writing">寫作</span>
 
 Jesuit missionaries Michele Ruggieri and Matteo Ricci arrived in China in the late sixteenth century. 
 They set themselves to master the written Chinese characters, bridging their worlds, enabling prayers such as the Rosary to be beautifully expressed in Chinese. 
@@ -69,7 +69,7 @@ The eight principles drawn from the character <span tooltip="yǒng = eternal">�
     Follow each stroke as the animation plays. It begins with the <span tooltip="diǎn = dot">點</span> at the top, then the <span tooltip="héng = horizontal">橫</span>, the <span tooltip="shù = vertical">豎</span>, and finishes with the hook and sweeps that give the character its balance. Trace the motion slowly by hand while reflecting on <span tooltip="yǒng = eternal">永</span>, eternal.
 
     <a href="https://www.twpen.com/%E6%B0%B8.html" target="_blank" rel="noopener">
-        <img src="../../../assets/images/yong-stroke-order.gif" alt="Animated stroke order for yong (eternal)" />
+        <img src="../../assets/images/yong-stroke-order.gif" alt="Animated stroke order for yong (eternal)" />
     </a>  
     <span style="font-size: 0.85em; opacity: 0.75;">From <span tooltip="bǐ shùn zì diǎn = Stroke Order Dictionary">筆順字典</span> (<a href="https://twpen.com" target="_blank" rel="noopener">twpen.com</a>)</span>
 
@@ -93,7 +93,7 @@ The character <span tooltip="zhǔ = Lord">主</span> appears throughout the Rosa
     Watch the strokes form in order: it begins with the <span tooltip="diǎn = dot">點</span> that crowns it, then the <span tooltip="héng = horizontal">橫</span> and <span tooltip="shù = vertical">豎</span> that form the cross, and ends with the bottom <span tooltip="héng = horizontal">橫</span>. As the animation repeats, copy <span tooltip="zhǔ = Lord">主</span> by hand and pray the words that contain it, <span tooltip="zhǔ yǔ nǐ tóng zài = the Lord is with thee">主與妳同在</span>.
 
     <a href="https://www.twpen.com/%E4%B8%BB.html" target="_blank" rel="noopener">
-        <img src="../../../assets/images/zhu-stroke-order.gif" alt="Animated stroke order for zhu (Lord)" />
+        <img src="../../assets/images/zhu-stroke-order.gif" alt="Animated stroke order for zhu (Lord)" />
     </a>  
     <span style="font-size: 0.85em; opacity: 0.75;">From <span tooltip="bǐ shùn zì diǎn = Stroke Order Dictionary">筆順字典</span> (<a href="https://twpen.com" target="_blank" rel="noopener">twpen.com</a>)</span>
 
