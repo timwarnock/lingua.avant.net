@@ -9,16 +9,16 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 
 ## Ground Rules for Agents
 
-- Always assume not aligned unless the user explicitly affirms alignment.
-- Ask one question at a time in the chat in order to reach alignment, start at the highest-level goal (understand the user's intent), confirm with user you understand the goal, then ask more focused questions (one at a time), until you and the user are aligned on the details.
-- Never use the ask_user_question tool.
-- Keep everything simple and direct.
-- Human directs the order of work.
-- Never document or reference what NOT to do, avoided steps, or negative instructions (context poison).
-- This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
-- User (human) will run the dev server, DO NOT RUN `make build` or any `make` commands unless instructed to by the user.
-- Chinese should use traditional and not simplified characters!
-- never use emdash character, use hyphens for ranges and hyphenated words, and -- for emdash separators in text -- like this one.
++ Always assume not aligned unless the user explicitly affirms alignment, when the user says you are not aligned you must ask question to get back into alignment. Only ask questions (one at a time) until you are in alignment.
++ Ask one question at a time in the chat in order to reach alignment, start at the highest-level goal (understand the user's intent), confirm with user that you understand the goal, then ask more focused questions (one at a time), until you and the user are aligned on the details.
++ Never use the ask_user_question tool.
++ Keep everything simple and direct.
++ Human directs the order of work.
++ Never document or reference what NOT to do, avoided steps, or negative instructions (context poison).
++ This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
++ User (human) will run the dev server, DO NOT RUN `make build` or any `make` commands unless instructed to by the user.
++ Chinese should use traditional and not simplified characters!
++ never use emdash character, use hyphens for ranges and hyphenated words, and -- for emdash separators in text -- like this one.
 
 
 ---
