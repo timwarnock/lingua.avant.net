@@ -225,14 +225,14 @@ Most important, daily rosary will do wonders in training the ear and tongue for 
 
 ## <span tooltip="Tuī Jiàn = Recommendations">推薦</span>
 
-These resources support learning the pronunciation of the Rosary prayers in Chinese.
+Pleco app and [learnchineseez.com](https://learnchineseez.com/read-write/traditional/index.php); excellent online dictionaries, as well as 
+ [mdbg.net](https://www.mdbg.net/) and [zdic.net](https://www.zdic.net/); excellent for looking up characters with audio, pinyin, and zhuyin.
 
-+ zdic.net and mdbg.net (character and audio references)
-+ Pleco app (mobile dictionary with recordings)
-+ Memrise and HelloChinese (audio-based lessons)
-+ Sinosplice.com (tone explanations and drills)
+[Sinosplice.com](https://www.sinosplice.com/); clear explanations and drills especially helpful for tones.
 
-Flashcards paired with the prayer audio on this site aid spaced repetition and automaticity.
+[Happy Chinese](https://www.youtube.com/playlist?list=PLdT5MUO4gYEdQBMFtkF5g803FJZOss-ip) (and similar shows); CCTV series with clear pronunciation and subtitles.
+
+Chinese flashcards; hand-made are usually best, but listening to audio associated with each card is extremely helpful.
 
 <button class="flashcard-green" onclick="Flashcards.open('zh/hello')">Hello / 你好</button>
 <button class="flashcard-green" onclick="Flashcards.open('zh/tones')">Tones / 聲調</button>
@@ -246,10 +246,10 @@ Flashcards paired with the prayer audio on this site aid spaced repetition and a
 
 ## <span tooltip="Bù Tuī Jiàn = Not Recommended">不推薦</span>
 
-These approaches offer limited help for clear pronunciation of the prayers.
+While the original Michel Thomas was great for Spanish, the Chinese course was slow pace and painfully inaccurate for tone guidance. Similar experience with Pimsleur, and almost all of the advertised learning apps (ChineseSkill, ChinesePod, etc) were an unfortunately waste of time.
 
-+ Michel Thomas: slow pace and inaccurate tone guidance
-+ Pimsleur: restricted audio range
-+ Apps with low-quality recordings or intrusive advertising
 
-Prioritize repeated listening to native speakers praying the Rosary itself.
+
+
+
+
