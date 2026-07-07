@@ -196,9 +196,7 @@ nav = [
         ] },
       { "[ 資源 ]" = [
           "chinese/resources/pronunciation.md",
-          "chinese/resources/writing.md",
-          "chinese/resources/zhuyin.md",
-          "chinese/resources/tones.md"
+          "chinese/resources/writing.md"
         ] }
     ] },
   { "日本語" = [

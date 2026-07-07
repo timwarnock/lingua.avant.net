@@ -4,15 +4,16 @@ icon: lucide/brush
 
 # <span tooltip="xiězuò = Writing">寫作</span>
 
-When the faithful form the characters of the Rosary prayers with their own hand, they join the body to the words the Church has prayed for centuries. Writing becomes more than a skill. It becomes a quiet way to enter the mysteries.
+Jesuit missionaries Michele Ruggieri and Matteo Ricci arrived in China in the late sixteenth century. 
+They set themselves to master the written characters so that the Rosary could be prayed in Chinese. 
+They translated the Hail Mary, the Our Father, the Creed, and the Sign of the Cross, recording them in the traditional forms still used today.
 
----
+The script they used had already carried sacred texts for more than two thousand years. 
+Its structures allow meaning to reside visibly in each character. 
+The same forms that transmitted the prayers then continue to serve them now.
 
-## <span tooltip="hànzì de lìshǐ = History of the Chinese Writing System">漢字的歷史</span>
 
-Jesuit missionaries Michele Ruggieri and Matteo Ricci arrived in China in the late sixteenth century. They set themselves to master the written characters so that the Rosary could be prayed in Chinese. They translated the Hail Mary, the Our Father, the Creed, and the Sign of the Cross, recording them in the traditional forms still used on this site.
 
-The script they used had already carried sacred texts for more than two thousand years. Its structures allow meaning to reside visibly in each character. The same forms that transmitted the prayers then continue to serve them now.
 
 ---
 
@@ -23,6 +24,11 @@ All the prayers here appear in traditional characters (繁體字).
 In the twentieth century the mainland introduced simplified characters to speed basic literacy. Many graphs lost strokes or were merged with others. The traditional 發 once clearly separated the sense of "to issue" from "hair." Both collapsed into 发. Similar losses affected other pairs. The visual clues that once pointed to meaning and history were reduced.
 
 Chinese Catholics had already prayed the Rosary in traditional characters for generations. Those forms preserve the fuller structure of the characters and the continuity with the written language in which the faith first took root in China. The site therefore uses traditional characters throughout.
+
+
+
+
+
 
 ---
 
@@ -61,6 +67,10 @@ The prayers themselves give the best material for practice.
 Begin with these short passages. Copy them by hand while listening to the audio. Write deliberately. The repetition of the prayers in this way trains both memory and reverence.
 
 For clear demonstrations of traditional stroke order on frequent characters, see [Learn to Read and Write Traditional Chinese Characters](https://learnchineseez.com/read-write/traditional/index.php). Use it to study the characters that appear in the mysteries.
+
+
+
+
 
 ---
 
