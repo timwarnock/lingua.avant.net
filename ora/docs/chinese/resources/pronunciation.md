@@ -79,10 +79,8 @@ These are usually demonstrated with the syllable "ma": <span onclick="new Audio(
 <span onclick="new Audio('../tones/ma2.mp3').play()" style="cursor:pointer;" tooltip="má = hemp">麻</span>, 
 <span onclick="new Audio('../tones/ma3.mp3').play()" style="cursor:pointer;" tooltip="mǎ = horse">馬</span>, 
 <span onclick="new Audio('../tones/ma4.mp3').play()" style="cursor:pointer;" tooltip="mà = scold">罵</span>, 
-<span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer;" tooltip="ma = question particle">嗎</span>
- -- see if you can hear the 
-<span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer;">difference</span>.
-To better understand the differences, the traditional isolated forms are helpful.
+<span onclick="new Audio('../tones/ma5.mp3').play()" style="cursor:pointer;" tooltip="ma = question particle">嗎</span> -- see if you can hear the difference (<span onclick="new Audio('../tones/ma.mp3').play()" style="cursor:pointer;" tooltip='play all "ma" tones'><strong>play all</strong></span>).
+Standard teaching often stops at these five tones and presents them as complete. To better understand these five tones, the traditional isolated forms are helpful.
 
 !!! success "Tones in isolation (<span tooltip="Běn Diào = Original Tone">本調</span>)"
     <span onclick="new Audio('../../../assets/flashcards/languages/zh/audio/tones/zhen1.mp3').play()" style="cursor:pointer;">真 zhēn (1st)</span>  
@@ -96,28 +94,24 @@ These are the tones taught in isolation. Now consider actual spoken Mandarin. Th
 <audio id="tone-audio" src="tones/tones-first-time-here.mp3" preload="auto"></audio>
 <img src="tones/tones-first-time-here.jpg" onclick="document.getElementById('tone-audio').play()" alt="Tone visualization created in Praat. Click the image to play the audio." style="cursor: pointer; max-width: 100%; margin: 0.5em 0; border: 1px solid #ccc;">
 
-There is a lot going on here that does not match the five tones. And it’s a native Mandarin speaker. When you ask native speakers what’s going on, they’ll respond as confused as if you asked a native English speaker why they have so many vowel sounds. In reality, there are 5 tones in Mandarin just like there are 5 vowels in English. It’s technically true, but in reality it’s much more complicated.
+There is a lot going on here that does not match the five tones. And it’s a native Mandarin speaker. When you ask native speakers what’s going on, they’ll respond as confused as if you asked a native English speaker why they have so many vowel sounds. In reality, there are 5 tones in Mandarin just like there are 5 vowels in English. The five-tone model cannot explain it, and real spoken Mandarin is far more complex.
 
 If you only learn 5 tones, you not only won’t understand native speakers, you won’t be understood when you speak.
 
-Language teachers often say that you’ll master tones as you progress in your learning. A sort of natural discovery process. This should cause us to cringe. Let’s remember what the point of language teaching is:
+Language teachers often tell learners they will master tones through exposure and practice -- a natural discovery process. This should cause us to cringe. The point of language teaching is the opposite:
 
 !!! quote "Henry Widdowson"
     The whole point of language pedagogy is that it is a way of short-circuiting the slow process of natural discovery and can make arrangements for learning to happen more easily and more efficiently than it does in natural surroundings.
 
-The typical ways tones are taught do not short-circuit the slow process of natural discovery. Any educator (or educational resource) that refers to this kind of natural discovery is fundamentally failing at their job. It’s basically a polite way of saying, “I don’t know what that is, go figure it out yourself.”
+Typical tone instruction does not short-circuit the slow process of natural discovery. Any educator or resource that promotes natural discovery is fundamentally failing. It is a polite way of admitting, "I do not know how to teach this -- figure it out yourself."
 
-Even for absolute beginners, it’s important to know that tones are more complicated than the “five tones” nonsense. Let’s break this down.
+Tones in actual spoken Mandarin are far more complex than standard resources admit. Tone Sandhi and Tone Pairs are far more efficacious towards proper Mandarin pronunciation, directly complimenting the patterns you'll find in the rosary prayers.
 
 
 
----
+### Tone Sandhi (<span tooltip="Shēng Diào Biàn Huà = Tone Sandhi">聲調變化</span>)
 
-## Tone Sandhi (<span tooltip="Shēng Diào Biàn Huà = Tone Sandhi">聲調變化</span>)
-
-Tone sandhi rules are the first clear indication that tones in context are far more complex than the textbook model.
-
-Tone change rules, or [tone sandhi](https://en.wikipedia.org/wiki/Standard_Chinese_phonology#Tone_sandhi), govern how tones interact in phrases and prayers.
+Tone change rules, or tone sandhi, govern how tones interact in actual spoken Mandarin. Tone sandhi rules are the first clear indication that tones in context are far more complex than the "five tone" textbook model.
 
 !!! success "3rd tone sandhi"
     A 3rd tone before another 3rd tone becomes 2nd tone. <span tooltip="Lǎo = Old">老</span> + <span tooltip="Shǔ = Rat">鼠</span> = <span tooltip="Láo Shǔ = Mouse">老鼠</span>.
@@ -138,9 +132,7 @@ These adjustments appear throughout the Rosary. The rules are not exhaustive and
 
 
 
----
-
-## Tone Pairs (<span tooltip="Shēng Diào Zǔ Hé = Tone Pairs">聲調組合</span>)
+### Tone Pairs (<span tooltip="Shēng Diào Zǔ Hé = Tone Pairs">聲調組合</span>)
 
 Most Chinese words consist of two syllables and follow one of roughly twenty distinct tone pairs. Learning these combinations aids recognition in flowing speech and supports the natural rhythm of prayer.
 
