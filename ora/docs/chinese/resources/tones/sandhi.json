@@ -1,0 +1,192 @@
+{
+  "id": "sandhi",
+  "lang": "chinese",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "filenameOverride": "",
+  "passages": [
+    {
+      "passage_id": 1,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "母",
+          "phonetic": "mǔ",
+          "filenameOverride": "isolated-mu.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "瑪",
+          "phonetic": "mǎ",
+          "filenameOverride": "isolated-ma.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "旨",
+          "phonetic": "zhǐ",
+          "filenameOverride": "isolated-zhi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "意",
+          "phonetic": "yì",
+          "filenameOverride": "isolated-yi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "國",
+          "phonetic": "guó",
+          "filenameOverride": "isolated-guo.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "來",
+          "phonetic": "lái",
+          "filenameOverride": "isolated-lai.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "一",
+          "phonetic": "yī",
+          "filenameOverride": "isolated-yi-tone.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "樣",
+          "phonetic": "yàng",
+          "filenameOverride": "isolated-yang.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "不",
+          "phonetic": "bù",
+          "filenameOverride": "isolated-bu.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "要",
+          "phonetic": "yào",
+          "filenameOverride": "isolated-yao.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "母瑪",
+          "phonetic": "mú mǎ",
+          "filenameOverride": "3rd-before-3rd.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "旨意",
+          "phonetic": "zhǐ yì",
+          "filenameOverride": "3rd-before-non3rd.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "國來臨",
+          "phonetic": "guó lái lín",
+          "filenameOverride": "2nd-simplification.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "一樣",
+          "phonetic": "yí yàng",
+          "filenameOverride": "yi-sandhi.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "不要",
+          "phonetic": "bú yào",
+          "filenameOverride": "bu-sandhi.mp3"
+        }
+      ]
+    }
+  ]
+}

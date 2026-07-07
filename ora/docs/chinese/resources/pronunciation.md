@@ -113,20 +113,50 @@ Tones in actual spoken Mandarin are far more complex than standard resources adm
 
 Tone change rules, or tone sandhi, govern how tones interact in actual spoken Mandarin. Tone sandhi rules are the first clear indication that tones in context are far more complex than the "five tone" textbook model.
 
-!!! success "3rd tone sandhi"
-    A 3rd tone before another 3rd tone becomes 2nd tone. <span tooltip="Lǎo = Old">老</span> + <span tooltip="Shǔ = Rat">鼠</span> = <span tooltip="Láo Shǔ = Mouse">老鼠</span>.
+!!! success "3rd tone sandhi (before another 3rd tone)"
+    A 3rd tone before another 3rd tone becomes 2nd tone.
+
+    <span onclick="new Audio('../tones/isolated-mu.mp3').play()" style="cursor:pointer;"><strong>母</strong> (<strong>mǔ</strong>)</span>, <span onclick="new Audio('../tones/isolated-ma.mp3').play()" style="cursor:pointer;"><strong>瑪</strong> (<strong>mǎ</strong>)</span>
+
+    <span onclick="new Audio('../tones/3rd-before-3rd.mp3').play()" style="cursor:pointer;"><strong>母瑪</strong> (<strong>mú mǎ</strong>)</span>
+
+    <span onclick="new Audio('../../hail-mary/hail-mary-3a.mp3').play()" style="cursor:pointer;" tooltip="Tiān zhǔ shèng mǔ Mǎ lì yà = Heavenly Lord Holy Mother Mary">天主聖母瑪利亞</span>
 
 !!! success "3rd tone before non-3rd"
     A 3rd tone before any other tone is realized as low and flat (the full dip and rise is rare in connected speech).
 
+    <span onclick="new Audio('../tones/isolated-zhi.mp3').play()" style="cursor:pointer;"><strong>旨</strong> (<strong>zhǐ</strong>)</span>, <span onclick="new Audio('../tones/isolated-yi.mp3').play()" style="cursor:pointer;"><strong>意</strong> (<strong>yì</strong>)</span>
+
+    <span onclick="new Audio('../tones/3rd-before-non3rd.mp3').play()" style="cursor:pointer;"><strong>旨意</strong> (<strong>zhǐ yì</strong>)</span>
+
+    <span onclick="new Audio('../../our-father/our-father-2a.mp3').play()" style="cursor:pointer;" tooltip="yuàn nǐ de zhǐ yì fèng xíng zài rén jiān, rú tóng zài tiān shàng = May your will be done on earth as it is in heaven.">願祢的旨意奉行在人間，如同在天上。</span>
+
 !!! success "2nd tone simplification"
     A 2nd tone after a 1st or 2nd tone often levels toward a 1st tone in fluent speech.
 
+    <span onclick="new Audio('../tones/isolated-guo.mp3').play()" style="cursor:pointer;"><strong>國</strong> (<strong>guó</strong>)</span>, <span onclick="new Audio('../tones/isolated-lai.mp3').play()" style="cursor:pointer;"><strong>來</strong> (<strong>lái</strong>)</span>
+
+    <span onclick="new Audio('../tones/2nd-simplification.mp3').play()" style="cursor:pointer;"><strong>國來臨</strong> (<strong>guó lái lín</strong>)</span>
+
+    <span onclick="new Audio('../../our-father/our-father-1c.mp3').play()" style="cursor:pointer;" tooltip="yuàn nǐ de guó lái lín = May your kingdom come.">願祢的國來臨；</span>
+
 !!! success "一 (Yī)"
-    一 is 1st tone in isolation. It becomes 2nd before a 4th tone (<span tooltip="Yí Dìng = Certainly">一定</span>) and 4th before 1st, 2nd, or 3rd (<span tooltip="Yì Tiān = One Day">一天</span>, <span tooltip="Yì Nián = One Year">一年</span>, <span tooltip="Yì Qǐ = Together">一起</span>).
+    一 is 1st tone in isolation. It becomes 2nd before a 4th tone and 4th before 1st, 2nd, or 3rd.
+
+    <span onclick="new Audio('../tones/isolated-yi-tone.mp3').play()" style="cursor:pointer;"><strong>一</strong> (<strong>yī</strong>)</span>, <span onclick="new Audio('../tones/isolated-yang.mp3').play()" style="cursor:pointer;"><strong>樣</strong> (<strong>yàng</strong>)</span>
+
+    <span onclick="new Audio('../tones/yi-sandhi.mp3').play()" style="cursor:pointer;"><strong>一樣</strong> (<strong>yí yàng</strong>)</span>
+
+    <span onclick="new Audio('../../our-father/our-father-5a.mp3').play()" style="cursor:pointer;" tooltip="rú tóng wǒ men kuān shù bié rén yī yàng = as we also have forgiven those who sin against us.">如同我們寬恕別人一樣；</span>
 
 !!! success "不 (Bù)"
-    不 becomes 2nd tone before a 4th tone (不是 bú shì). It can neutralize in patterns such as 是不是.
+    不 becomes 2nd tone before a 4th tone.
+
+    <span onclick="new Audio('../tones/isolated-bu.mp3').play()" style="cursor:pointer;"><strong>不</strong> (<strong>bù</strong>)</span>, <span onclick="new Audio('../tones/isolated-yao.mp3').play()" style="cursor:pointer;"><strong>要</strong> (<strong>yào</strong>)</span>
+
+    <span onclick="new Audio('../tones/bu-sandhi.mp3').play()" style="cursor:pointer;"><strong>不要</strong> (<strong>bú yào</strong>)</span>
+
+    <span onclick="new Audio('../../our-father/our-father-5b.mp3').play()" style="cursor:pointer;" tooltip="bù yào ràng wǒ men xiàn yú yòu huò = and lead us not into temptation.">不要讓我們陷於誘惑；</span>
 
 These adjustments appear throughout the Rosary. The rules are not exhaustive and vary somewhat by speaker.
 
