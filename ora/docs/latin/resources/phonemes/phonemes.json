@@ -211,6 +211,78 @@
           "filenameOverride": "u.mp3"
         }
       ]
+    },
+    {
+      "passage_id": 18,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Iesu",
+          "phonetic": "Yesu",
+          "filenameOverride": "iesu.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Christe",
+          "phonetic": "Kriste",
+          "filenameOverride": "christe.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "catholicam",
+          "phonetic": "katolikam",
+          "filenameOverride": "catholicam.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "philosophia",
+          "phonetic": "filosophia",
+          "filenameOverride": "philosophia.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 22,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "22a",
+          "text": "crucifixus",
+          "phonetic": "crucifixus",
+          "filenameOverride": "crucifixus.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 23,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "23a",
+          "text": "passus",
+          "phonetic": "pahssus",
+          "filenameOverride": "passus.mp3"
+        }
+      ]
     }
   ]
 }
