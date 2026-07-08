@@ -29,11 +29,11 @@ There are combinations like ae and oe, but they are pronounced as a single "eh" 
 And there are diphthongs like "au" but pronounced as two distinct vowels in sequence ("ah-oo").
 
 !!! success "Vowels"
-    + a like the a in "father"
-    + e like the e in "bed"
-    + i like the ee in "see"
-    + o like the o in "for" (short)
-    + u like the oo in "boot"
+    + <span onclick="new Audio('../phonemes/a.mp3').play()" style="cursor:pointer;"><strong>a</strong></span> like the a in "father"
+    + <span onclick="new Audio('../phonemes/e.mp3').play()" style="cursor:pointer;"><strong>e</strong></span> like the e in "bed"
+    + <span onclick="new Audio('../phonemes/i.mp3').play()" style="cursor:pointer;"><strong>i</strong></span> like the ee in "see"
+    + <span onclick="new Audio('../phonemes/o.mp3').play()" style="cursor:pointer;"><strong>o</strong></span> like the o in "for" (short)
+    + <span onclick="new Audio('../phonemes/u.mp3').play()" style="cursor:pointer;"><strong>u</strong></span> like the oo in "boot"
 
     These classic five vowels are pure and do not diphthongize or reduce in connected speech.
 
@@ -112,7 +112,15 @@ The audio for each passage on the prayer pages demonstrates these phonemes in th
 
 ## <span tooltip="Recommendations">Commendationes</span>
 
-Listen to the Latin Rosary audio on the prayer pages here. Traditional monastic and choral recordings of the Rosary in Latin are also excellent for learning the natural flow and rhythm.
+Traditional monastic and choral recordings of Gregorian chant, particularly those from the Benedictines of Solesmes, provide excellent models for the natural rhythm and phrasing of ecclesiastical Latin.
+
+A standard reference is [The Correct Pronunciation of Latin According to Roman Usage](https://archive.org/details/correctpronuncia00dean) by Rev. Michael de Angelis, which incorporates the rules from the Liber Usualis.
+
+[A Primer of Ecclesiastical Latin](https://www.cuapress.org/9780813206677/a-primer-of-ecclesiastical-latin/) by John F. Collins serves as a widely used textbook that integrates pronunciation with language study.
+
+A concise guide appears in the [Pronouncing Church Latin quick reference](https://global.oup.com/us/companion.websites/9780190246778/student/church/) from Oxford University Press.
+
+A clear video introduction to the pronunciation rules is provided in the series by the Classical Liberal Arts Academy at [this lesson](https://www.youtube.com/watch?v=5QYPrp32RDM).
 
 
 
@@ -122,4 +130,14 @@ Listen to the Latin Rosary audio on the prayer pages here. Traditional monastic 
 
 ## <span tooltip="Not Recommended">Non Commendatur</span>
 
-Classical Latin pronunciation is not used for the liturgy or the Rosary in the Church.
+Restored Classical pronunciation is a modern reconstruction developed in secular academic circles during the nineteenth and twentieth centuries. It presents itself as a recovery of how Latin was spoken in ancient Rome, yet it diverges from the pronunciation tradition that developed and was used in the Church for centuries. Latin pronunciation was never uniform in antiquity; it varied by region and era. The Church, which preserved the classical texts through the Middle Ages, maintained its own living tradition of pronunciation for the liturgy and prayer. Reconstructions that prioritize academic models over this tradition have no place in the Rosary or the sacred rites of the Church.
+
+This difference becomes apparent when those trained in the restored system encounter traditional Gregorian chant or liturgical recitation. The sounds and phrasing often feel mismatched with the musical and rhythmic conventions developed over centuries under the ecclesiastical pronunciation used in the Church.
+
+
+
+
+
+
+
+

@@ -151,6 +151,66 @@
           "filenameOverride": "dominus.mp3"
         }
       ]
+    },
+    {
+      "passage_id": 13,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "a",
+          "phonetic": "a",
+          "filenameOverride": "a.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "e",
+          "phonetic": "e",
+          "filenameOverride": "e.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "i",
+          "phonetic": "i",
+          "filenameOverride": "i.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "o",
+          "phonetic": "o",
+          "filenameOverride": "o.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "u",
+          "phonetic": "u",
+          "filenameOverride": "u.mp3"
+        }
+      ]
     }
   ]
 }
