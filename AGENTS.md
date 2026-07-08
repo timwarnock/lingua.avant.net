@@ -35,6 +35,7 @@ DO NOT write logs or plan docs anywhere in `ora/docs/`, webapp content only!
 
 Migrated old /v/ content organized directly in language/topic sections under `ora/docs/`. 
 
+For audio file (mp3) TTS generation see `audio-utils/README.md`
 
 ---
 
@@ -85,6 +86,8 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 ---
 
 ## TODO
+
++ add a single quote on each language landing page, immediately before the rosary player, which is a short but beautiful quote about that language, preferably about the language used in prayer, preferably from a Saint of the church -- if none found then find a famous Saint from that language group (their native language) and a quote from them about the Church. The quote should be in the language with the english underneath (in italics)
 
 + see [notes-resources.md](notes-resources.md), revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
 
