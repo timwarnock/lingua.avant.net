@@ -1,0 +1,156 @@
+{
+  "id": "phonemes",
+  "lang": "latin",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "filenameOverride": "",
+  "passages": [
+    {
+      "passage_id": 1,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Caelis",
+          "phonetic": "celis",
+          "filenameOverride": "caelis.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Regina",
+          "phonetic": "Regina",
+          "filenameOverride": "regina.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Regnum",
+          "phonetic": "renyum",
+          "filenameOverride": "regnum.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Gratia",
+          "phonetic": "gratsia",
+          "filenameOverride": "gratia.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Hora",
+          "phonetic": "Hora",
+          "filenameOverride": "hora.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Qui es",
+          "phonetic": "qui es",
+          "filenameOverride": "qui.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Ex",
+          "phonetic": "Ex",
+          "filenameOverride": "ex.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Caelo",
+          "phonetic": "celo",
+          "filenameOverride": "caelo.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Pater",
+          "phonetic": "Pater",
+          "filenameOverride": "pater.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Noster",
+          "phonetic": "Noster",
+          "filenameOverride": "noster.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Spiritus",
+          "phonetic": "Spiritus",
+          "filenameOverride": "spiritus.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Dominus",
+          "phonetic": "Dominus",
+          "filenameOverride": "dominus.mp3"
+        }
+      ]
+    }
+  ]
+}
