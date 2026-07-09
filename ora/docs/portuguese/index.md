@@ -4,6 +4,12 @@ icon: lucide/languages
 
 # Português
 
+!!! quote "<span tooltip='Our Lady of Fatima'>Nossa Senhora de Fátima</span>"
+
+    Recitai o Rosário todos os dias para obter a paz para o mundo e o fim da guerra.
+
+    *Pray the Rosary every day to obtain peace for the world and the end of the war.*
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">Mistérios Gozosos</span>
 <span class="mystery-set" data-set="sorrowful">Mistérios Dolorosos</span>

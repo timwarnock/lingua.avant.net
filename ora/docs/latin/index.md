@@ -4,6 +4,12 @@ icon: lucide/languages
 
 # <span tooltip="Latin">Latina</span>
 
+!!! quote "<span tooltip='St. Jerome'>Sanctus Hieronymus</span>"
+
+    Pius labor, sed periculosa praesumptio, veterem et senescentem mundi linguam in infantiam reuocare, iudicare de ceteris, ipsum ab omnibus iudicandum.
+
+    *Pious work, yet perilous presumption, to change the old and aging language of the world, to carry it back to infancy, for to judge others is to invite judging by all of them.*
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">Mysteria Gaudiosa</span>
 <span class="mystery-set" data-set="sorrowful">Mysteria Dolorosa</span>

@@ -4,6 +4,12 @@ icon: lucide/languages
 
 # <span tooltip="Ancient Greek">Ἑλληνικά</span>
 
+!!! quote "<span tooltip='St. John Chrysostom'>Ἅγιος Ἰωάννης ὁ Χρυσόστομος</span>"
+
+    Ὥσπερ γὰρ τῷ σώματι φῶς ἥλιος, οὕτω τῇ ψυχῇ ἡ προσευχή. Εἰ οὖν τυφλῷ ζημία τὸ μὴ ὁρᾶν τὸν ἥλιον, πόση ζημία Χριστιανῷ τὸ μὴ προσεύχεσθαι συνεχῶς καὶ διὰ τῆς εὐχῆς τὸ τοῦ Χριστοῦ φῶς εἰς τὴν ψυχὴν εἰσάγειν;
+
+    *For just as the sun is light to the body, so prayer is light to the soul. If then it is a loss for a blind man not to see the sun, how great a loss for a Christian not to pray continually and through prayer to bring the light of Christ into the soul?*
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">Χαροποιά Μυστήρια</span>
 <span class="mystery-set" data-set="sorrowful">Θλιβερά Μυστήρια</span>

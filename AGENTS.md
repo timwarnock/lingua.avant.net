@@ -68,6 +68,8 @@ All other non-rosary pages will be in a language specific [ Resources ] section,
 
 ## Passages and Segments for audio alignment
 
+! verify all prayer text with official Catholic sources (from the vatican or similar) !
+
 Every prayer will be broken down into passages that must match 1:1 across all languages (same literal meaning across all languages), such that tooling can index any given passage across any given language.
 
 For example, hail-mary passage 1 is "Hail Mary, full of grace, the Lord is with thee."
@@ -87,17 +89,11 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 ## TODO
 
-+ add a single quote on each language landing page, immediately before the rosary player, which is a short but beautiful quote about that language, preferably about the language used in prayer, preferably from a Saint of the church -- if none found then find a famous Saint from that language group (their native language) and a quote from them about the Church. The quote should be in the language with the english underneath (in italics)
-
-+ see [notes-resources.md](notes-resources.md), revise and modify old content (all pages in the resources sections, e.g., english/resources/advice.md), some are well-written and just need some editing, others need full rewrites, and some probably need to be deleted; go through each page, one by one, and discuss carefully.
-
 + Nicene Creed (constantinople-nicene creed) added to all languages in extras/nicene.md
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 
 + carefully tweak latin phonetics for better audio (italian to liturgical latin)
-
-+ verify all prayer text with official Catholic sources (from the vatican or similar).
 
 + iOS app! Ora Pro Nobis
 

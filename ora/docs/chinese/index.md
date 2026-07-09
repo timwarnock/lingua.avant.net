@@ -4,6 +4,12 @@ icon: lucide/languages
 
 # <span tooltip="Zhōngwén - Chinese">中文</span>
 
+!!! quote "<span tooltip='Jiàozōng Běndǔ Shíliùshì = Pope Benedict XVI'>教宗本篤十六世</span>"
+
+    <span tooltip="Zhōngguó zhī mǔ, Yàzhōu zhī mǔ, xiànzài zhídào yǒngyuǎn, qǐng cháng wèi wǒmen qíqiú. Yàmèng.">中國之母，亞洲之母，現在直到永遠，請常為我們祈求。亞孟。</span>
+
+    *Mother of China and all Asia, pray for us, now and for ever. Amen!*
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">歡喜奧蹟</span>
 <span class="mystery-set" data-set="sorrowful">痛苦奧蹟</span>

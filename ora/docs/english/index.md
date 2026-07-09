@@ -4,6 +4,10 @@ icon: lucide/languages
 
 # English
 
+!!! quote "St. John Henry Newman"
+
+    Now the great power of the Rosary lies in this, that it makes the Creed into a prayer; of course the Creed is in some sense a prayer and a great act of homage to God; but the Rosary gives us the great truths of his life and death to meditate upon, and brings them nearer to our hearts.
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">Joyful Mysteries</span>
 <span class="mystery-set" data-set="sorrowful">Sorrowful Mysteries</span>

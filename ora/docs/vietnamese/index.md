@@ -4,6 +4,12 @@ icon: lucide/languages
 
 # <span tooltip="Vietnamese">Tiếng Việt</span>
 
+!!! quote "<span tooltip='St. Paul Lê Bảo Tịnh'>Thánh Phaolô Lê Bảo Tịnh</span>"
+
+    Những gian truân này thường làm kinh khiếp nhiều người khác, thế nhưng với cha, nhờ ơn Chúa, cha tràn đầy niềm vui và phúc lạc, bởi vì cha không ở một mình -- Đức Kitô ở với cha.
+
+    *In the midst of these torments, which usually terrify others, I am, by the grace of God, full of joy and gladness, because I am not alone -- Christ is with me.*
+
 <div class="mystery-chooser">
 <span class="mystery-set" data-set="joyful">Mầu Nhiệm Vui</span>
 <span class="mystery-set" data-set="sorrowful">Mầu Nhiệm Thương</span>
