@@ -29,15 +29,15 @@
         {
           "passage_segment_id": "1b",
           "text": "Creatorem caeli",
-          "phonetic": "Creatorem caeli",
+          "phonetic": "Creatorem cieli",
           "timing": {
             "full": [
               2.3,
-              3.771
+              3.756
             ],
             "passage": [
               2.3,
-              3.771
+              3.756
             ]
           }
         },
@@ -47,12 +47,12 @@
           "phonetic": "et terrae.",
           "timing": {
             "full": [
-              3.771,
-              4.521
+              3.756,
+              4.506
             ],
             "passage": [
-              3.771,
-              4.521
+              3.756,
+              4.506
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "et in Iesum Christum,",
           "timing": {
             "full": [
-              4.521,
-              7.029
+              4.506,
+              7.015
             ],
             "passage": [
               0.0,
@@ -82,8 +82,8 @@
           "phonetic": "Filium eius unicum,",
           "timing": {
             "full": [
-              7.029,
-              8.75
+              7.015,
+              8.735
             ],
             "passage": [
               1.594,
@@ -97,8 +97,8 @@
           "phonetic": "Dominum nostrum,",
           "timing": {
             "full": [
-              8.75,
-              10.074
+              8.735,
+              10.059
             ],
             "passage": [
               3.374,
@@ -117,8 +117,8 @@
           "phonetic": "qui conceptus est de Spiritu Sancto,",
           "timing": {
             "full": [
-              10.074,
-              12.868
+              10.059,
+              12.853
             ],
             "passage": [
               0.0,
@@ -137,8 +137,8 @@
           "phonetic": "natus ex Maria Virgine,",
           "timing": {
             "full": [
-              12.868,
-              15.147
+              12.853,
+              15.132
             ],
             "passage": [
               0.0,
@@ -157,8 +157,8 @@
           "phonetic": "passus sub Pontio Pilato,",
           "timing": {
             "full": [
-              15.147,
-              17.191
+              15.132,
+              17.177
             ],
             "passage": [
               0.0,
@@ -172,8 +172,8 @@
           "phonetic": "crucifixus,",
           "timing": {
             "full": [
-              17.191,
-              18.618
+              17.177,
+              18.603
             ],
             "passage": [
               2.006,
@@ -187,8 +187,8 @@
           "phonetic": "mortuus, et sepultus,",
           "timing": {
             "full": [
-              18.618,
-              21.088
+              18.603,
+              21.074
             ],
             "passage": [
               3.535,
@@ -207,8 +207,8 @@
           "phonetic": "descendit ad inferos,",
           "timing": {
             "full": [
-              21.088,
-              23.074
+              21.074,
+              23.059
             ],
             "passage": [
               0.0,
@@ -227,8 +227,8 @@
           "phonetic": "tertia die resurrexit a mortuis,",
           "timing": {
             "full": [
-              23.074,
-              25.75
+              23.059,
+              25.735
             ],
             "passage": [
               0.0,
@@ -247,8 +247,8 @@
           "phonetic": "ascendit ad caelos,",
           "timing": {
             "full": [
-              25.75,
-              27.559
+              25.735,
+              27.544
             ],
             "passage": [
               0.0,
@@ -267,8 +267,8 @@
           "phonetic": "sedet ad dexteram Dei Patris omnipotentis,",
           "timing": {
             "full": [
-              27.559,
-              30.941
+              27.544,
+              30.926
             ],
             "passage": [
               0.0,
@@ -287,8 +287,8 @@
           "phonetic": "inde venturus est iudicare vivos et mortuos.",
           "timing": {
             "full": [
-              30.941,
-              34.897
+              30.926,
+              34.882
             ],
             "passage": [
               0.0,
@@ -307,8 +307,8 @@
           "phonetic": "Credo in Spiritum Sanctum,",
           "timing": {
             "full": [
-              34.897,
-              37.809
+              34.882,
+              37.794
             ],
             "passage": [
               0.0,
@@ -322,8 +322,8 @@
           "phonetic": "sanctam Ecclesiam catholicam,",
           "timing": {
             "full": [
-              37.809,
-              40.118
+              37.794,
+              40.103
             ],
             "passage": [
               1.991,
@@ -337,8 +337,8 @@
           "phonetic": "sanctorum communionem,",
           "timing": {
             "full": [
-              40.118,
-              42.088
+              40.103,
+              42.074
             ],
             "passage": [
               4.3,
@@ -352,8 +352,8 @@
           "phonetic": "remissionem peccatorum,",
           "timing": {
             "full": [
-              42.088,
-              43.985
+              42.074,
+              43.971
             ],
             "passage": [
               6.271,
@@ -367,8 +367,8 @@
           "phonetic": "carnis resurrectionem,",
           "timing": {
             "full": [
-              43.985,
-              46.088
+              43.971,
+              46.073
             ],
             "passage": [
               8.168,
@@ -382,8 +382,8 @@
           "phonetic": "vitam aeternam.",
           "timing": {
             "full": [
-              46.088,
-              47.603
+              46.073,
+              47.588
             ],
             "passage": [
               10.279,
@@ -402,8 +402,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              47.603,
-              49.382
+              47.588,
+              49.368
             ],
             "passage": [
               0.0,

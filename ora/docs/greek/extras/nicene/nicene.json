@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "greek",
+  "title": "Σύμβολον Νικαίας",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Πιστεύω εἰς ἕνα Θεόν,",
+          "phonetic": "Pistévo is éna Theón,",
+          "timing": {
+            "full": [
+              0.0,
+              1.324
+            ],
+            "passage": [
+              0.0,
+              1.324
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Πατέρα, παντοκράτορα,",
+          "phonetic": "Patéra, pantokrátora,",
+          "timing": {
+            "full": [
+              1.324,
+              3.166
+            ],
+            "passage": [
+              1.324,
+              3.166
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "ποιητὴν οὐρανοῦ καὶ γῆς,",
+          "phonetic": "poiitín ouranoú ke gís,",
+          "timing": {
+            "full": [
+              3.166,
+              5.047
+            ],
+            "passage": [
+              3.166,
+              5.047
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "ὁρατῶν τε πάντων καὶ ἀοράτων.",
+          "phonetic": "oratón te pánton ke aoráton.",
+          "timing": {
+            "full": [
+              5.047,
+              6.889
+            ],
+            "passage": [
+              5.047,
+              6.889
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Καὶ εἰς ἕνα Κύριον Ἰησοῦν Χριστόν,",
+          "phonetic": "Ke is éna Kýrion Iisoún Christón,",
+          "timing": {
+            "full": [
+              6.889,
+              9.55
+            ],
+            "passage": [
+              0.0,
+              1.889
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "τὸν Υἱὸν τοῦ Θεοῦ τὸν μονογενῆ,",
+          "phonetic": "ton Yión tou Theoú ton monogení,",
+          "timing": {
+            "full": [
+              9.55,
+              11.274
+            ],
+            "passage": [
+              1.889,
+              3.613
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "τὸν ἐκ τοῦ Πατρὸς γεννηθέντα πρὸ πάντων τῶν αἰώνων·",
+          "phonetic": "ton ek tou Patrós gennithénta pro pánton ton eónon;",
+          "timing": {
+            "full": [
+              11.274,
+              14.182
+            ],
+            "passage": [
+              3.613,
+              6.561
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Θεὸν ἐκ Θεοῦ,",
+          "phonetic": "Theón ek Theoú,",
+          "timing": {
+            "full": [
+              14.182,
+              15.26
+            ],
+            "passage": [
+              0.0,
+              1.139
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "φῶς ἐκ φωτός,",
+          "phonetic": "fós ek fotós,",
+          "timing": {
+            "full": [
+              15.26,
+              16.734
+            ],
+            "passage": [
+              1.139,
+              2.626
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "Θεὸν ἀληθινὸν ἐκ Θεοῦ ἀληθινοῦ,",
+          "phonetic": "Theón alithinón ek Theoú alithinoú,",
+          "timing": {
+            "full": [
+              16.734,
+              18.379
+            ],
+            "passage": [
+              2.626,
+              4.337
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "γεννηθέντα οὐ ποιηθέντα,",
+          "phonetic": "gennithénta ou poiithénta,",
+          "timing": {
+            "full": [
+              18.379,
+              20.155
+            ],
+            "passage": [
+              4.337,
+              6.126
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "ὁμοούσιον τῷ Πατρί·",
+          "phonetic": "omoousion to Patrí;",
+          "timing": {
+            "full": [
+              20.155,
+              21.563
+            ],
+            "passage": [
+              6.126,
+              7.587
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "δι' οὗ τὰ πάντα ἐγένετο·",
+          "phonetic": "di' ou ta pánta egéneto;",
+          "timing": {
+            "full": [
+              21.563,
+              23.751
+            ],
+            "passage": [
+              0.0,
+              2.324
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Τὸν δι' ἡμᾶς τοὺς ἀνθρώπους καὶ διὰ τὴν ἡμετέραν σωτηρίαν",
+          "phonetic": "Ton di' imás tous anthrópous ke diá tin imetéran sotirían",
+          "timing": {
+            "full": [
+              23.751,
+              27.731
+            ],
+            "passage": [
+              0.0,
+              4.174
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "κατελθόντα ἐκ τῶν οὐρανῶν,",
+          "phonetic": "katelthónta ek ton ouranón,",
+          "timing": {
+            "full": [
+              27.731,
+              29.223
+            ],
+            "passage": [
+              4.174,
+              5.711
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "καὶ σαρκωθέντα ἐκ Πνεύματος Ἁγίου καὶ Μαρίας τῆς Παρθένου",
+          "phonetic": "ke sarkothénta ek Pnévmatos Agíou ke Marías tis Parthénou",
+          "timing": {
+            "full": [
+              29.223,
+              32.951
+            ],
+            "passage": [
+              0.0,
+              3.824
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "καὶ ἐνανθρωπήσαντα.",
+          "phonetic": "ke enanthropísanta.",
+          "timing": {
+            "full": [
+              32.951,
+              34.135
+            ],
+            "passage": [
+              3.824,
+              5.021
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Σταυρωθέντα τε ὑπὲρ ἡμῶν ἐπὶ Ποντίου Πιλάτου,",
+          "phonetic": "Stavrothénta te ypér imón epí Pontíou Pilátou,",
+          "timing": {
+            "full": [
+              34.135,
+              37.323
+            ],
+            "passage": [
+              0.0,
+              2.495
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "καὶ παθόντα καὶ ταφέντα,",
+          "phonetic": "ke pathónta ke tafénta,",
+          "timing": {
+            "full": [
+              37.323,
+              39.005
+            ],
+            "passage": [
+              2.495,
+              4.284
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "καὶ ἀναστάντα τῇ τρίτῃ ἡμέρᾳ",
+          "phonetic": "ke anastánta ti tríti iméra",
+          "timing": {
+            "full": [
+              39.005,
+              40.653
+            ],
+            "passage": [
+              0.0,
+              1.639
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "κατὰ τὰς Γραφάς.",
+          "phonetic": "katá tas Grafás.",
+          "timing": {
+            "full": [
+              40.653,
+              41.844
+            ],
+            "passage": [
+              1.639,
+              2.968
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Καὶ ἀνελθόντα εἰς τοὺς οὐρανοὺς",
+          "phonetic": "Ke anelthónta is tous ouranoús",
+          "timing": {
+            "full": [
+              41.844,
+              44.274
+            ],
+            "passage": [
+              0.0,
+              1.534
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "καὶ καθεζόμενον ἐκ δεξιῶν τοῦ Πατρός.",
+          "phonetic": "ke kathezómenon ek dexión tou Patrós.",
+          "timing": {
+            "full": [
+              44.274,
+              46.313
+            ],
+            "passage": [
+              1.534,
+              3.679
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Καὶ πάλιν ἐρχόμενον μετὰ δόξης",
+          "phonetic": "Ke pálin erchómenon metá dóxis",
+          "timing": {
+            "full": [
+              46.313,
+              48.95
+            ],
+            "passage": [
+              0.0,
+              1.824
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "κρῖναι ζῶντας καὶ νεκρούς·",
+          "phonetic": "kríne zóntas ke nekroús;",
+          "timing": {
+            "full": [
+              48.95,
+              50.281
+            ],
+            "passage": [
+              1.824,
+              3.153
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "οὗ τῆς βασιλείας οὐκ ἔσται τέλος.",
+          "phonetic": "ou tis vasilías ouk éste télos.",
+          "timing": {
+            "full": [
+              50.281,
+              52.811
+            ],
+            "passage": [
+              3.153,
+              5.745
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Καὶ εἰς τὸ Πνεῦμα τὸ Ἅγιον,",
+          "phonetic": "Ke is to Pnévma to Ágion,",
+          "timing": {
+            "full": [
+              52.811,
+              55.366
+            ],
+            "passage": [
+              0.0,
+              1.771
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "τὸ κύριον, τὸ ζῳοποιόν,",
+          "phonetic": "to kýrion, to zoopión,",
+          "timing": {
+            "full": [
+              55.366,
+              57.395
+            ],
+            "passage": [
+              1.771,
+              3.784
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "τὸ ἐκ τοῦ Πατρὸς ἐκπορευόμενον,",
+          "phonetic": "to ek tou Patrós ekporevómenon,",
+          "timing": {
+            "full": [
+              57.395,
+              59.227
+            ],
+            "passage": [
+              3.784,
+              5.574
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "τὸ σὺν Πατρὶ καὶ Υἱῷ συμπροσκυνούμενον καὶ συνδοξαζόμενον,",
+          "phonetic": "to syn Patrí ke Yió symproskynoúmenon ke syndoxazómenon,",
+          "timing": {
+            "full": [
+              59.227,
+              62.892
+            ],
+            "passage": [
+              5.574,
+              9.258
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "τὸ λαλῆσαν διὰ τῶν προφητῶν.",
+          "phonetic": "to lalísan diá ton profitón.",
+          "timing": {
+            "full": [
+              62.892,
+              65.106
+            ],
+            "passage": [
+              9.258,
+              11.482
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Εἰς μίαν, ἁγίαν, καθολικὴν καὶ ἀποστολικὴν Ἐκκλησίαν.",
+          "phonetic": "Is mían, agían, katholikín ke apostolokín Ekklisían.",
+          "timing": {
+            "full": [
+              65.106,
+              70.056
+            ],
+            "passage": [
+              0.0,
+              4.179
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Ὁμολογῶ ἓν βάπτισμα",
+          "phonetic": "Omologó en váptisma",
+          "timing": {
+            "full": [
+              70.056,
+              72.066
+            ],
+            "passage": [
+              0.0,
+              1.205
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "εἰς ἄφεσιν ἁμαρτιῶν.",
+          "phonetic": "is áfesin amartión.",
+          "timing": {
+            "full": [
+              72.066,
+              73.034
+            ],
+            "passage": [
+              1.205,
+              2.192
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Προσδοκῶ ἀνάστασιν νεκρῶν,",
+          "phonetic": "Prosdokó anástasin nekrón,",
+          "timing": {
+            "full": [
+              73.034,
+              75.37
+            ],
+            "passage": [
+              0.0,
+              1.587
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "καὶ ζωὴν τοῦ μέλλοντος αἰῶνος.",
+          "phonetic": "ke zoín tou méllontos eónos.",
+          "timing": {
+            "full": [
+              75.37,
+              77.05
+            ],
+            "passage": [
+              1.587,
+              3.245
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Ἀμήν.",
+          "phonetic": "Amín.",
+          "timing": {
+            "full": [
+              77.05,
+              78.412
+            ],
+            "passage": [
+              0.0,
+              0.771
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

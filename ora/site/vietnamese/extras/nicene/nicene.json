@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "vietnamese",
+  "title": "Kinh Tin Kính Nicea",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Tôi tin kính một Thiên Chúa,",
+          "phonetic": "Tôi tin kính một Thiên Chúa,",
+          "timing": {
+            "full": [
+              0.0,
+              1.6
+            ],
+            "passage": [
+              0.0,
+              1.6
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "là Cha toàn năng,",
+          "phonetic": "là Cha toàn năng,",
+          "timing": {
+            "full": [
+              1.6,
+              2.8
+            ],
+            "passage": [
+              1.6,
+              2.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Đấng tạo thành trời đất,",
+          "phonetic": "Đấng tạo thành trời đất,",
+          "timing": {
+            "full": [
+              2.8,
+              4.075
+            ],
+            "passage": [
+              2.8,
+              4.088
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "muôn vật hữu hình và vô hình.",
+          "phonetic": "muôn vật hữu hình và vô hình.",
+          "timing": {
+            "full": [
+              4.075,
+              5.862
+            ],
+            "passage": [
+              4.088,
+              5.875
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Tôi tin kính một Chúa Giêsu Kitô,",
+          "phonetic": "Tôi tin kính một Chúa Giêsu Kitô,",
+          "timing": {
+            "full": [
+              5.862,
+              8.6
+            ],
+            "passage": [
+              0.0,
+              2.013
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "Con Một Thiên Chúa,",
+          "phonetic": "Con Một Thiên Chúa,",
+          "timing": {
+            "full": [
+              8.6,
+              9.725
+            ],
+            "passage": [
+              2.013,
+              3.138
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "sinh bởi Đức Chúa Cha từ trước muôn đời.",
+          "phonetic": "sinh bởi Đức Chúa Cha từ trước muôn đời.",
+          "timing": {
+            "full": [
+              9.725,
+              11.938
+            ],
+            "passage": [
+              3.138,
+              5.35
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Người là Thiên Chúa bởi Thiên Chúa,",
+          "phonetic": "Người là Thiên Chúa bởi Thiên Chúa,",
+          "timing": {
+            "full": [
+              11.938,
+              14.488
+            ],
+            "passage": [
+              0.0,
+              1.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Ánh Sáng bởi Ánh Sáng,",
+          "phonetic": "Ánh Sáng bởi Ánh Sáng,",
+          "timing": {
+            "full": [
+              14.488,
+              15.963
+            ],
+            "passage": [
+              1.8,
+              3.263
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "Thiên Chúa thật bởi Thiên Chúa thật,",
+          "phonetic": "Thiên Chúa thật bởi Thiên Chúa thật,",
+          "timing": {
+            "full": [
+              15.963,
+              17.675
+            ],
+            "passage": [
+              3.263,
+              4.963
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "được sinh ra mà không phải được tạo thành,",
+          "phonetic": "được sinh ra mà không phải được tạo thành,",
+          "timing": {
+            "full": [
+              17.675,
+              19.75
+            ],
+            "passage": [
+              4.963,
+              7.013
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "đồng bản thể với Đức Chúa Cha:",
+          "phonetic": "đồng bản thể với Đức Chúa Cha:",
+          "timing": {
+            "full": [
+              19.75,
+              21.488
+            ],
+            "passage": [
+              7.013,
+              8.775
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "nhờ Người mà muôn vật được tạo thành.",
+          "phonetic": "nhờ Người mà muôn vật được tạo thành.",
+          "timing": {
+            "full": [
+              21.488,
+              23.387
+            ],
+            "passage": [
+              0.0,
+              2.013
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Vì loài người chúng ta và để cứu độ chúng ta,",
+          "phonetic": "Vì loài người chúng ta và để cứu độ chúng ta,",
+          "timing": {
+            "full": [
+              23.387,
+              26.587
+            ],
+            "passage": [
+              0.0,
+              2.462
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "Người đã từ trời xuống thế.",
+          "phonetic": "Người đã từ trời xuống thế.",
+          "timing": {
+            "full": [
+              26.587,
+              28.288
+            ],
+            "passage": [
+              2.462,
+              4.162
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Bởi phép Đức Chúa Thánh Thần, Người đã nhập thể trong lòng Trinh Nữ Maria,",
+          "phonetic": "Bởi phép Đức Chúa Thánh Thần, Người đã nhập thể trong lòng Trinh Nữ Maria,",
+          "timing": {
+            "full": [
+              28.288,
+              32.9
+            ],
+            "passage": [
+              0.0,
+              3.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "và đã làm người.",
+          "phonetic": "và đã làm người.",
+          "timing": {
+            "full": [
+              32.9,
+              34.025
+            ],
+            "passage": [
+              3.888,
+              5.013
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Người chịu đóng đinh vào thập giá vì chúng ta thời quan Phongxiô Philatô;",
+          "phonetic": "Người chịu đóng đinh vào thập giá vì chúng ta thời quan Phongxiô Philatô;",
+          "timing": {
+            "full": [
+              34.025,
+              38.5
+            ],
+            "passage": [
+              0.0,
+              3.725
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "Người chịu khổ hình và mai táng.",
+          "phonetic": "Người chịu khổ hình và mai táng.",
+          "timing": {
+            "full": [
+              38.5,
+              40.413
+            ],
+            "passage": [
+              3.725,
+              5.638
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Ngày thứ ba Người sống lại",
+          "phonetic": "Ngày thứ ba Người sống lại",
+          "timing": {
+            "full": [
+              40.413,
+              42.7
+            ],
+            "passage": [
+              0.0,
+              1.562
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "như lời Thánh Kinh.",
+          "phonetic": "như lời Thánh Kinh.",
+          "timing": {
+            "full": [
+              42.7,
+              43.625
+            ],
+            "passage": [
+              1.562,
+              2.475
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Người lên trời,",
+          "phonetic": "Người lên trời,",
+          "timing": {
+            "full": [
+              43.625,
+              45.362
+            ],
+            "passage": [
+              0.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "ngự bên hữu Đức Chúa Cha.",
+          "phonetic": "ngự bên hữu Đức Chúa Cha.",
+          "timing": {
+            "full": [
+              45.362,
+              47.087
+            ],
+            "passage": [
+              1.0,
+              2.725
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Người sẽ lại đến trong vinh quang",
+          "phonetic": "Người sẽ lại đến trong vinh quang",
+          "timing": {
+            "full": [
+              47.087,
+              49.438
+            ],
+            "passage": [
+              0.0,
+              1.613
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "để phán xét kẻ sống và kẻ chết,",
+          "phonetic": "để phán xét kẻ sống và kẻ chết,",
+          "timing": {
+            "full": [
+              49.438,
+              51.125
+            ],
+            "passage": [
+              1.613,
+              3.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "Nước Người sẽ không bao giờ cùng.",
+          "phonetic": "Nước Người sẽ không bao giờ cùng.",
+          "timing": {
+            "full": [
+              51.125,
+              52.875
+            ],
+            "passage": [
+              3.3,
+              5.062
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Tôi tin kính Đức Chúa Thánh Thần,",
+          "phonetic": "Tôi tin kính Đức Chúa Thánh Thần,",
+          "timing": {
+            "full": [
+              52.875,
+              55.337
+            ],
+            "passage": [
+              0.0,
+              1.738
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "là Thiên Chúa và là Đấng ban sự sống,",
+          "phonetic": "là Thiên Chúa và là Đấng ban sự sống,",
+          "timing": {
+            "full": [
+              55.337,
+              57.475
+            ],
+            "passage": [
+              1.738,
+              3.837
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "Người bởi Đức Chúa Cha mà ra;",
+          "phonetic": "Người bởi Đức Chúa Cha mà ra;",
+          "timing": {
+            "full": [
+              57.475,
+              59.237
+            ],
+            "passage": [
+              3.837,
+              5.625
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "Người được phụng thờ và tôn vinh cùng với Đức Chúa Cha và Đức Chúa Con;",
+          "phonetic": "Người được phụng thờ và tôn vinh cùng với Đức Chúa Cha và Đức Chúa Con;",
+          "timing": {
+            "full": [
+              59.237,
+              62.712
+            ],
+            "passage": [
+              5.625,
+              9.088
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "Người đã dùng các tiên tri mà phán dạy.",
+          "phonetic": "Người đã dùng các tiên tri mà phán dạy.",
+          "timing": {
+            "full": [
+              62.712,
+              64.825
+            ],
+            "passage": [
+              9.088,
+              11.213
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Tôi tin Hội Thánh duy nhất, thánh thiện, công giáo, và tông truyền.",
+          "phonetic": "Tôi tin Hội Thánh duy nhất, thánh thiện, công giáo, và tông truyền.",
+          "timing": {
+            "full": [
+              64.825,
+              69.675
+            ],
+            "passage": [
+              0.0,
+              4.138
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Tôi tin phép rửa tội duy nhất",
+          "phonetic": "Tôi tin phép rửa tội duy nhất",
+          "timing": {
+            "full": [
+              69.675,
+              72.2
+            ],
+            "passage": [
+              0.0,
+              1.762
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "để tha tội.",
+          "phonetic": "để tha tội.",
+          "timing": {
+            "full": [
+              72.2,
+              72.9
+            ],
+            "passage": [
+              1.762,
+              2.475
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Tôi mong đợi kẻ chết sống lại",
+          "phonetic": "Tôi mong đợi kẻ chết sống lại",
+          "timing": {
+            "full": [
+              72.9,
+              75.4
+            ],
+            "passage": [
+              0.0,
+              1.738
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "và sự sống đời sau.",
+          "phonetic": "và sự sống đời sau.",
+          "timing": {
+            "full": [
+              75.4,
+              76.525
+            ],
+            "passage": [
+              1.738,
+              2.875
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              76.525,
+              77.938
+            ],
+            "passage": [
+              0.0,
+              0.675
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

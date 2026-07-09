@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "chinese",
+  "title": "尼西亞信經",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "我信唯一的天主，",
+          "phonetic": "Wǒ xìn wéi yī de Tiānzhǔ,",
+          "timing": {
+            "full": [
+              0.0,
+              1.484
+            ],
+            "passage": [
+              0.0,
+              1.484
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "全能的聖父，",
+          "phonetic": "quán néng de Shèng Fù,",
+          "timing": {
+            "full": [
+              1.484,
+              2.813
+            ],
+            "passage": [
+              1.484,
+              2.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "天地萬物，無論有形無形，",
+          "phonetic": "tiān dì wàn wù, wú lùn yǒu xíng wú xíng,",
+          "timing": {
+            "full": [
+              2.813,
+              5.55
+            ],
+            "passage": [
+              2.813,
+              5.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "都是祂所創造的。",
+          "phonetic": "dōu shì Tā suǒ chuàng zào de.",
+          "timing": {
+            "full": [
+              5.55,
+              7.116
+            ],
+            "passage": [
+              5.55,
+              7.116
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "我信唯一的主、耶穌基督、",
+          "phonetic": "Wǒ xìn wéi yī de Zhǔ, Yēsū Jīdū,",
+          "timing": {
+            "full": [
+              7.116,
+              10.079
+            ],
+            "passage": [
+              0.0,
+              2.471
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "天主的獨生子。",
+          "phonetic": "Tiānzhǔ de dú shēng zǐ.",
+          "timing": {
+            "full": [
+              10.079,
+              11.592
+            ],
+            "passage": [
+              2.471,
+              3.984
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "祂在萬世之前，由聖父所生。",
+          "phonetic": "Tā zài wàn shì zhī qián, yóu Shèng Fù suǒ shēng.",
+          "timing": {
+            "full": [
+              11.592,
+              14.816
+            ],
+            "passage": [
+              3.984,
+              7.21
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "祂是出自天主的天主，",
+          "phonetic": "Tā shì chū zì Tiānzhǔ de Tiānzhǔ,",
+          "timing": {
+            "full": [
+              14.816,
+              17.171
+            ],
+            "passage": [
+              0.0,
+              1.866
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "出自光明的光明，",
+          "phonetic": "chū zì guāng míng de guāng míng,",
+          "timing": {
+            "full": [
+              17.171,
+              18.829
+            ],
+            "passage": [
+              1.866,
+              3.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "出自真天主的真天主。",
+          "phonetic": "chū zì zhēn Tiānzhǔ de zhēn Tiānzhǔ.",
+          "timing": {
+            "full": [
+              18.829,
+              20.974
+            ],
+            "passage": [
+              3.524,
+              5.668
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "祂是聖父所生，而非聖父所造，",
+          "phonetic": "Tā shì Shèng Fù suǒ shēng, ér fēi Shèng Fù suǒ zào,",
+          "timing": {
+            "full": [
+              20.974,
+              24.355
+            ],
+            "passage": [
+              5.668,
+              9.026
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "與聖父同性同體，",
+          "phonetic": "yǔ Shèng Fù tóng xìng tóng tǐ,",
+          "timing": {
+            "full": [
+              24.355,
+              26.25
+            ],
+            "passage": [
+              9.026,
+              10.974
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "萬物是藉著祂而造成的。",
+          "phonetic": "Wàn wù shì jiè zhe Tā ér zào chéng de.",
+          "timing": {
+            "full": [
+              26.25,
+              28.671
+            ],
+            "passage": [
+              0.0,
+              2.129
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "祂為了我們人類，並為了我們的得救，",
+          "phonetic": "Tā wèi le wǒ men rén lèi, bìng wèi le wǒ men de dé jiù,",
+          "timing": {
+            "full": [
+              28.671,
+              32.132
+            ],
+            "passage": [
+              0.0,
+              2.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "從天降下。",
+          "phonetic": "cóng tiān jiàng xià.",
+          "timing": {
+            "full": [
+              32.132,
+              33.382
+            ],
+            "passage": [
+              2.971,
+              4.221
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "祂因聖神由童貞瑪利亞取得肉軀，",
+          "phonetic": "Tā yīn Shèng Shén yóu tóng zhēn Mǎlìyà qǔ dé ròu qū,",
+          "timing": {
+            "full": [
+              33.382,
+              37.026
+            ],
+            "passage": [
+              0.0,
+              3.142
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "而成為人。",
+          "phonetic": "ér chéng wéi rén.",
+          "timing": {
+            "full": [
+              37.026,
+              38.158
+            ],
+            "passage": [
+              3.142,
+              4.274
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "祂在般雀比拉多執政時，為我們被釘在十字架上，",
+          "phonetic": "Tā zài Bānquè Bǐlāduō zhí zhèng shí, wèi wǒ men bèi dīng zài shí zì jià shàng,",
+          "timing": {
+            "full": [
+              38.158,
+              43.013
+            ],
+            "passage": [
+              0.0,
+              4.353
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "受難而被埋葬。",
+          "phonetic": "shòu nàn ér bèi mái zàng.",
+          "timing": {
+            "full": [
+              43.013,
+              44.737
+            ],
+            "passage": [
+              4.353,
+              6.076
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "祂正如聖經所載，",
+          "phonetic": "Tā zhèng rú Shèng jīng suǒ zǎi,",
+          "timing": {
+            "full": [
+              44.737,
+              46.855
+            ],
+            "passage": [
+              0.0,
+              1.616
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "第三日復活了。",
+          "phonetic": "dì sān rì fù huó le.",
+          "timing": {
+            "full": [
+              46.855,
+              48.355
+            ],
+            "passage": [
+              1.616,
+              3.116
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "祂升了天，",
+          "phonetic": "Tā shēng le tiān,",
+          "timing": {
+            "full": [
+              48.355,
+              49.816
+            ],
+            "passage": [
+              0.0,
+              0.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "坐在聖父的右邊。",
+          "phonetic": "zuò zài Shèng Fù de yòu biān.",
+          "timing": {
+            "full": [
+              49.816,
+              51.5
+            ],
+            "passage": [
+              0.971,
+              2.655
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "祂還要光榮地降來，",
+          "phonetic": "Tā hái yào guāng róng de jiàng lái,",
+          "timing": {
+            "full": [
+              51.5,
+              53.658
+            ],
+            "passage": [
+              0.0,
+              1.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "審判生者死者，",
+          "phonetic": "shěn pàn shēng zhě sǐ zhě,",
+          "timing": {
+            "full": [
+              53.658,
+              55.303
+            ],
+            "passage": [
+              1.655,
+              3.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "祂的神國萬世無疆。",
+          "phonetic": "Tā de shén guó wàn shì wú jiāng.",
+          "timing": {
+            "full": [
+              55.303,
+              57.263
+            ],
+            "passage": [
+              3.3,
+              5.261
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "我信聖神，",
+          "phonetic": "Wǒ xìn Shèng Shén,",
+          "timing": {
+            "full": [
+              57.263,
+              58.816
+            ],
+            "passage": [
+              0.0,
+              1.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "祂是主及賦予生命者，",
+          "phonetic": "Tā shì Zhǔ jí fù yǔ shēng mìng zhě,",
+          "timing": {
+            "full": [
+              58.816,
+              60.882
+            ],
+            "passage": [
+              1.05,
+              3.116
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "由聖父所發。",
+          "phonetic": "yóu Shèng Fù suǒ fā.",
+          "timing": {
+            "full": [
+              60.882,
+              62.224
+            ],
+            "passage": [
+              3.116,
+              4.458
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "祂和聖父聖子，同受欽崇，同享光榮，",
+          "phonetic": "Tā hé Shèng Fù Shèng Zǐ, tóng shòu qīn chóng, tóng xiǎng guāng róng,",
+          "timing": {
+            "full": [
+              62.224,
+              66.553
+            ],
+            "passage": [
+              4.458,
+              8.789
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "祂曾藉先知們發言。",
+          "phonetic": "Tā céng jiè xiān zhī men fā yán.",
+          "timing": {
+            "full": [
+              66.553,
+              68.5
+            ],
+            "passage": [
+              8.789,
+              10.737
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "我信唯一、至聖、至公、從宗徒傳下來的教會。",
+          "phonetic": "Wǒ xìn wéi yī, zhì shèng, zhì gōng, cóng zōng tú chuán xià lái de jiào huì.",
+          "timing": {
+            "full": [
+              68.5,
+              73.855
+            ],
+            "passage": [
+              0.0,
+              4.853
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "我承認赦罪的聖洗，",
+          "phonetic": "Wǒ chéng rèn shè zuì de shèng xǐ,",
+          "timing": {
+            "full": [
+              73.855,
+              76.329
+            ],
+            "passage": [
+              0.0,
+              1.984
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "只有一個。",
+          "phonetic": "zhǐ yǒu yī gè.",
+          "timing": {
+            "full": [
+              76.329,
+              77.355
+            ],
+            "passage": [
+              1.984,
+              3.01
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "我期待死人的復活，",
+          "phonetic": "Wǒ qī dài sǐ rén de fù huó,",
+          "timing": {
+            "full": [
+              77.355,
+              79.592
+            ],
+            "passage": [
+              0.0,
+              1.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "及來世的生命。",
+          "phonetic": "jí lái shì de shēng mìng.",
+          "timing": {
+            "full": [
+              79.592,
+              81.053
+            ],
+            "passage": [
+              1.747,
+              3.208
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "亞孟。",
+          "phonetic": "Yà mèng.",
+          "timing": {
+            "full": [
+              81.053,
+              82.263
+            ],
+            "passage": [
+              0.0,
+              0.708
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

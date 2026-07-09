@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "english",
+  "title": "Nicene Creed",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "I believe in one God,",
+          "phonetic": "I believe in one God,",
+          "timing": {
+            "full": [
+              0.0,
+              1.563
+            ],
+            "passage": [
+              0.0,
+              1.563
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "the Father almighty,",
+          "phonetic": "the Father almighty,",
+          "timing": {
+            "full": [
+              1.563,
+              3.076
+            ],
+            "passage": [
+              1.563,
+              3.076
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "maker of heaven and earth,",
+          "phonetic": "maker of heaven and earth,",
+          "timing": {
+            "full": [
+              3.076,
+              4.774
+            ],
+            "passage": [
+              3.076,
+              4.774
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "of all things visible and invisible.",
+          "phonetic": "of all things visible and invisible.",
+          "timing": {
+            "full": [
+              4.774,
+              7.103
+            ],
+            "passage": [
+              4.774,
+              7.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "I believe in one Lord Jesus Christ,",
+          "phonetic": "I believe in one Lord Jesus Christ,",
+          "timing": {
+            "full": [
+              7.103,
+              9.895
+            ],
+            "passage": [
+              0.0,
+              2.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "the Only Begotten Son of God,",
+          "phonetic": "the Only Begotten Son of God,",
+          "timing": {
+            "full": [
+              9.895,
+              11.882
+            ],
+            "passage": [
+              2.497,
+              4.484
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "born of the Father before all ages.",
+          "phonetic": "born of the Father before all ages.",
+          "timing": {
+            "full": [
+              11.882,
+              14.421
+            ],
+            "passage": [
+              4.484,
+              7.024
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "God from God,",
+          "phonetic": "God from God,",
+          "timing": {
+            "full": [
+              14.421,
+              15.724
+            ],
+            "passage": [
+              0.0,
+              1.024
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Light from Light,",
+          "phonetic": "Light from Light,",
+          "timing": {
+            "full": [
+              15.724,
+              16.921
+            ],
+            "passage": [
+              1.024,
+              2.26
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "true God from true God,",
+          "phonetic": "true God from true God,",
+          "timing": {
+            "full": [
+              16.921,
+              18.605
+            ],
+            "passage": [
+              2.26,
+              3.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "begotten, not made,",
+          "phonetic": "begotten, not made,",
+          "timing": {
+            "full": [
+              18.605,
+              20.408
+            ],
+            "passage": [
+              3.997,
+              5.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "consubstantial with the Father;",
+          "phonetic": "consubstantial with the Father;",
+          "timing": {
+            "full": [
+              20.408,
+              22.303
+            ],
+            "passage": [
+              5.839,
+              7.813
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "through him all things were made.",
+          "phonetic": "through him all things were made.",
+          "timing": {
+            "full": [
+              22.303,
+              24.25
+            ],
+            "passage": [
+              0.0,
+              2.024
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "For us men and for our salvation",
+          "phonetic": "For us men and for our salvation",
+          "timing": {
+            "full": [
+              24.25,
+              26.868
+            ],
+            "passage": [
+              0.0,
+              2.405
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "he came down from heaven,",
+          "phonetic": "he came down from heaven,",
+          "timing": {
+            "full": [
+              26.868,
+              28.224
+            ],
+            "passage": [
+              2.405,
+              3.958
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "and by the Holy Spirit was incarnate of the Virgin Mary,",
+          "phonetic": "and by the Holy Spirit was incarnate of the Virgin Mary,",
+          "timing": {
+            "full": [
+              28.224,
+              31.737
+            ],
+            "passage": [
+              0.0,
+              3.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "and became man.",
+          "phonetic": "and became man.",
+          "timing": {
+            "full": [
+              31.737,
+              32.961
+            ],
+            "passage": [
+              3.55,
+              4.826
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "For our sake he was crucified under Pontius Pilate,",
+          "phonetic": "For our sake he was crucified under Pontius Pilate,",
+          "timing": {
+            "full": [
+              32.961,
+              36.632
+            ],
+            "passage": [
+              0.0,
+              3.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "he suffered death and was buried,",
+          "phonetic": "he suffered death and was buried,",
+          "timing": {
+            "full": [
+              36.632,
+              38.697
+            ],
+            "passage": [
+              3.445,
+              5.642
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "and rose again on the third day",
+          "phonetic": "and rose again on the third day",
+          "timing": {
+            "full": [
+              38.697,
+              40.579
+            ],
+            "passage": [
+              0.0,
+              2.09
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "in accordance with the Scriptures.",
+          "phonetic": "in accordance with the Scriptures.",
+          "timing": {
+            "full": [
+              40.579,
+              42.237
+            ],
+            "passage": [
+              2.09,
+              3.918
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "He ascended into heaven",
+          "phonetic": "He ascended into heaven",
+          "timing": {
+            "full": [
+              42.237,
+              44.158
+            ],
+            "passage": [
+              0.0,
+              1.668
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "and is seated at the right hand of the Father.",
+          "phonetic": "and is seated at the right hand of the Father.",
+          "timing": {
+            "full": [
+              44.158,
+              46.645
+            ],
+            "passage": [
+              1.668,
+              4.142
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "He will come again in glory",
+          "phonetic": "He will come again in glory",
+          "timing": {
+            "full": [
+              46.645,
+              48.579
+            ],
+            "passage": [
+              0.0,
+              1.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "to judge the living and the dead",
+          "phonetic": "to judge the living and the dead",
+          "timing": {
+            "full": [
+              48.579,
+              50.289
+            ],
+            "passage": [
+              1.655,
+              3.379
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "and his kingdom will have no end.",
+          "phonetic": "and his kingdom will have no end.",
+          "timing": {
+            "full": [
+              50.289,
+              52.237
+            ],
+            "passage": [
+              3.379,
+              5.326
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "I believe in the Holy Spirit,",
+          "phonetic": "I believe in the Holy Spirit,",
+          "timing": {
+            "full": [
+              52.237,
+              54.382
+            ],
+            "passage": [
+              0.0,
+              1.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "the Lord, the giver of life,",
+          "phonetic": "the Lord, the giver of life,",
+          "timing": {
+            "full": [
+              54.382,
+              56.382
+            ],
+            "passage": [
+              1.853,
+              3.866
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "who proceeds from the Father,",
+          "phonetic": "who proceeds from the Father,",
+          "timing": {
+            "full": [
+              56.382,
+              58.053
+            ],
+            "passage": [
+              3.866,
+              5.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "who with the Father and the Son is adored and glorified,",
+          "phonetic": "who with the Father and the Son is adored and glorified,",
+          "timing": {
+            "full": [
+              58.053,
+              61.368
+            ],
+            "passage": [
+              5.537,
+              8.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "who has spoken through the prophets.",
+          "phonetic": "who has spoken through the prophets.",
+          "timing": {
+            "full": [
+              61.368,
+              63.447
+            ],
+            "passage": [
+              8.853,
+              10.945
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "I believe in one, holy, catholic and apostolic Church.",
+          "phonetic": "I believe in one, holy, catholic and apostolic Church.",
+          "timing": {
+            "full": [
+              63.447,
+              68.237
+            ],
+            "passage": [
+              0.0,
+              4.497
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "I confess one Baptism",
+          "phonetic": "I confess one Baptism",
+          "timing": {
+            "full": [
+              68.237,
+              70.329
+            ],
+            "passage": [
+              0.0,
+              1.879
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "for the forgiveness of sins",
+          "phonetic": "for the forgiveness of sins",
+          "timing": {
+            "full": [
+              70.329,
+              71.842
+            ],
+            "passage": [
+              1.879,
+              3.511
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "and I look forward to the resurrection of the dead",
+          "phonetic": "and I look forward to the resurrection of the dead",
+          "timing": {
+            "full": [
+              71.842,
+              74.368
+            ],
+            "passage": [
+              0.0,
+              2.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "and the life of the world to come.",
+          "phonetic": "and the life of the world to come.",
+          "timing": {
+            "full": [
+              74.368,
+              76.079
+            ],
+            "passage": [
+              2.8,
+              4.603
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              76.079,
+              77.079
+            ],
+            "passage": [
+              0.0,
+              0.682
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

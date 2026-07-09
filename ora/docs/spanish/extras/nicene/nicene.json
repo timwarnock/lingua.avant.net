@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "spanish",
+  "title": "Credo de Nicea",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Creo en un solo Dios,",
+          "phonetic": "Creo en un solo Dios,",
+          "timing": {
+            "full": [
+              0.0,
+              1.377
+            ],
+            "passage": [
+              0.0,
+              1.377
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Padre todopoderoso,",
+          "phonetic": "Padre todopoderoso,",
+          "timing": {
+            "full": [
+              1.377,
+              2.853
+            ],
+            "passage": [
+              1.377,
+              2.853
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Creador del cielo y de la tierra,",
+          "phonetic": "Creador del cielo y de la tierra,",
+          "timing": {
+            "full": [
+              2.853,
+              4.768
+            ],
+            "passage": [
+              2.853,
+              4.768
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "de todo lo visible y lo invisible.",
+          "phonetic": "de todo lo visible y lo invisible.",
+          "timing": {
+            "full": [
+              4.768,
+              6.855
+            ],
+            "passage": [
+              4.768,
+              6.855
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Creo en un solo Señor, Jesucristo,",
+          "phonetic": "Creo en un solo Señor, Jesucristo,",
+          "timing": {
+            "full": [
+              6.855,
+              10.17
+            ],
+            "passage": [
+              0.0,
+              2.44
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "Hijo único de Dios,",
+          "phonetic": "Hijo único de Dios,",
+          "timing": {
+            "full": [
+              10.17,
+              11.499
+            ],
+            "passage": [
+              2.44,
+              3.77
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "nacido del Padre antes de todos los siglos:",
+          "phonetic": "nacido del Padre antes de todos los siglos:",
+          "timing": {
+            "full": [
+              11.499,
+              13.96
+            ],
+            "passage": [
+              3.77,
+              6.43
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Dios de Dios,",
+          "phonetic": "Dios de Dios,",
+          "timing": {
+            "full": [
+              13.96,
+              14.957
+            ],
+            "passage": [
+              0.0,
+              0.924
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Luz de Luz,",
+          "phonetic": "Luz de Luz,",
+          "timing": {
+            "full": [
+              14.957,
+              16.102
+            ],
+            "passage": [
+              0.924,
+              1.842
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "Dios verdadero de Dios verdadero,",
+          "phonetic": "Dios verdadero de Dios verdadero,",
+          "timing": {
+            "full": [
+              16.102,
+              18.123
+            ],
+            "passage": [
+              1.842,
+              3.823
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "engendrado, no creado,",
+          "phonetic": "engendrado, no creado,",
+          "timing": {
+            "full": [
+              18.123,
+              20.118
+            ],
+            "passage": [
+              3.823,
+              5.818
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "de la misma naturaleza del Padre,",
+          "phonetic": "de la misma naturaleza del Padre,",
+          "timing": {
+            "full": [
+              20.118,
+              21.993
+            ],
+            "passage": [
+              5.818,
+              7.937
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "por quien todo fue hecho;",
+          "phonetic": "por quien todo fue hecho;",
+          "timing": {
+            "full": [
+              21.993,
+              23.654
+            ],
+            "passage": [
+              0.0,
+              1.47
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "que por nosotros, los hombres, y por nuestra salvación",
+          "phonetic": "que por nosotros, los hombres, y por nuestra salvación",
+          "timing": {
+            "full": [
+              23.654,
+              26.885
+            ],
+            "passage": [
+              0.0,
+              3.238
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "bajó del cielo,",
+          "phonetic": "bajó del cielo,",
+          "timing": {
+            "full": [
+              26.885,
+              27.776
+            ],
+            "passage": [
+              3.238,
+              4.209
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "y por obra del Espíritu Santo se encarnó de María, la Virgen,",
+          "phonetic": "y por obra del Espíritu Santo se encarnó de María, la Virgen,",
+          "timing": {
+            "full": [
+              27.776,
+              31.819
+            ],
+            "passage": [
+              0.0,
+              3.823
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "y se hizo hombre;",
+          "phonetic": "y se hizo hombre;",
+          "timing": {
+            "full": [
+              31.819,
+              32.976
+            ],
+            "passage": [
+              3.823,
+              5.047
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "y por nuestra causa fue crucificado en tiempos de Poncio Pilato;",
+          "phonetic": "y por nuestra causa fue crucificado en tiempos de Poncio Pilato;",
+          "timing": {
+            "full": [
+              32.976,
+              36.819
+            ],
+            "passage": [
+              0.0,
+              3.571
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "padeció y fue sepultado,",
+          "phonetic": "padeció y fue sepultado,",
+          "timing": {
+            "full": [
+              36.819,
+              38.454
+            ],
+            "passage": [
+              3.571,
+              5.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "y resucitó al tercer día,",
+          "phonetic": "y resucitó al tercer día,",
+          "timing": {
+            "full": [
+              38.454,
+              41.46
+            ],
+            "passage": [
+              0.0,
+              1.697
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "según las Escrituras,",
+          "phonetic": "según las Escrituras,",
+          "timing": {
+            "full": [
+              41.46,
+              42.882
+            ],
+            "passage": [
+              1.697,
+              3.306
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "y subió al cielo,",
+          "phonetic": "y subió al cielo,",
+          "timing": {
+            "full": [
+              42.882,
+              44.013
+            ],
+            "passage": [
+              0.0,
+              1.19
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "y está sentado a la derecha del Padre;",
+          "phonetic": "y está sentado a la derecha del Padre;",
+          "timing": {
+            "full": [
+              44.013,
+              46.127
+            ],
+            "passage": [
+              1.19,
+              3.424
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "y de nuevo vendrá con gloria",
+          "phonetic": "y de nuevo vendrá con gloria",
+          "timing": {
+            "full": [
+              46.127,
+              47.924
+            ],
+            "passage": [
+              0.0,
+              1.618
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "para juzgar a vivos y muertos,",
+          "phonetic": "para juzgar a vivos y muertos,",
+          "timing": {
+            "full": [
+              47.924,
+              49.52
+            ],
+            "passage": [
+              1.618,
+              3.213
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "y su reino no tendrá fin.",
+          "phonetic": "y su reino no tendrá fin.",
+          "timing": {
+            "full": [
+              49.52,
+              51.368
+            ],
+            "passage": [
+              3.213,
+              5.062
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Creo en el Espíritu Santo,",
+          "phonetic": "Creo en el Espíritu Santo,",
+          "timing": {
+            "full": [
+              51.368,
+              53.813
+            ],
+            "passage": [
+              0.0,
+              1.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "Señor y dador de vida,",
+          "phonetic": "Señor y dador de vida,",
+          "timing": {
+            "full": [
+              53.813,
+              55.21
+            ],
+            "passage": [
+              1.629,
+              3.026
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "que procede del Padre,",
+          "phonetic": "que procede del Padre,",
+          "timing": {
+            "full": [
+              55.21,
+              56.659
+            ],
+            "passage": [
+              3.026,
+              4.475
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "que con el Padre y el Hijo recibe una misma adoración y gloria,",
+          "phonetic": "que con el Padre y el Hijo recibe una misma adoración y gloria,",
+          "timing": {
+            "full": [
+              56.659,
+              60.158
+            ],
+            "passage": [
+              4.475,
+              7.977
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "y que habló por los profetas.",
+          "phonetic": "y que habló por los profetas.",
+          "timing": {
+            "full": [
+              60.158,
+              62.006
+            ],
+            "passage": [
+              7.977,
+              9.826
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Creo en la Iglesia, que es una, santa, católica y apostólica.",
+          "phonetic": "Creo en la Iglesia, que es una, santa, católica y apostólica.",
+          "timing": {
+            "full": [
+              62.006,
+              67.444
+            ],
+            "passage": [
+              0.0,
+              4.621
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Confieso que hay un solo Bautismo",
+          "phonetic": "Confieso que hay un solo Bautismo",
+          "timing": {
+            "full": [
+              67.444,
+              70.316
+            ],
+            "passage": [
+              0.0,
+              2.055
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "para el perdón de los pecados.",
+          "phonetic": "para el perdón de los pecados.",
+          "timing": {
+            "full": [
+              70.316,
+              71.965
+            ],
+            "passage": [
+              2.055,
+              3.704
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Espero la resurrección de los muertos",
+          "phonetic": "Espero la resurrección de los muertos",
+          "timing": {
+            "full": [
+              71.965,
+              74.851
+            ],
+            "passage": [
+              0.0,
+              2.068
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "y la vida del mundo futuro.",
+          "phonetic": "y la vida del mundo futuro.",
+          "timing": {
+            "full": [
+              74.851,
+              76.273
+            ],
+            "passage": [
+              2.068,
+              3.491
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Amén.",
+          "phonetic": "Amén.",
+          "timing": {
+            "full": [
+              76.273,
+              77.683
+            ],
+            "passage": [
+              0.0,
+              0.592
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "id": "nicene",
+  "lang": "japanese",
+  "title": "ニケア信条",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "わたしは信じます。唯一の神、",
+          "phonetic": "Watashi wa shinjimasu. Yuiitsu no Kami,",
+          "timing": {
+            "full": [
+              0.0,
+              3.184
+            ],
+            "passage": [
+              0.0,
+              3.184
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "全能の父、",
+          "phonetic": "zennō no Chichi,",
+          "timing": {
+            "full": [
+              3.184,
+              4.618
+            ],
+            "passage": [
+              3.184,
+              4.618
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "天と地、見えるもの、見えないもの、",
+          "phonetic": "ten to chi, mieru mono, mienai mono,",
+          "timing": {
+            "full": [
+              4.618,
+              7.947
+            ],
+            "passage": [
+              4.618,
+              7.947
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "すべてのものの造り主を。",
+          "phonetic": "subete no mono no tsukurinushi o.",
+          "timing": {
+            "full": [
+              7.947,
+              10.118
+            ],
+            "passage": [
+              7.947,
+              10.118
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "わたしは信じます。唯一の主イエス・キリストを。",
+          "phonetic": "Watashi wa shinjimasu. Yuiitsu no Shu Iesu Kirisuto o.",
+          "timing": {
+            "full": [
+              10.118,
+              15.105
+            ],
+            "passage": [
+              0.0,
+              4.303
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "主は神のひとり子、",
+          "phonetic": "Shu wa Kami no hitori go,",
+          "timing": {
+            "full": [
+              15.105,
+              17.092
+            ],
+            "passage": [
+              4.303,
+              6.303
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "すべてに先立って父より生まれ、",
+          "phonetic": "subete ni sakidatte Chichi yori umare,",
+          "timing": {
+            "full": [
+              17.092,
+              19.539
+            ],
+            "passage": [
+              6.303,
+              8.75
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "神よりの神、",
+          "phonetic": "Kami yori no Kami,",
+          "timing": {
+            "full": [
+              19.539,
+              20.868
+            ],
+            "passage": [
+              0.0,
+              0.958
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "光よりの光、",
+          "phonetic": "hikari yori no hikari,",
+          "timing": {
+            "full": [
+              20.868,
+              22.329
+            ],
+            "passage": [
+              0.958,
+              2.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "まことの神よりのまことの神、",
+          "phonetic": "makoto no Kami yori no makoto no Kami,",
+          "timing": {
+            "full": [
+              22.329,
+              24.618
+            ],
+            "passage": [
+              2.537,
+              4.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "造られることなく生まれ、",
+          "phonetic": "tsukurareru koto naku umare,",
+          "timing": {
+            "full": [
+              24.618,
+              26.447
+            ],
+            "passage": [
+              4.813,
+              6.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "父と一体。",
+          "phonetic": "Chichi to ittai.",
+          "timing": {
+            "full": [
+              26.447,
+              27.658
+            ],
+            "passage": [
+              6.721,
+              7.984
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "すべては主によって造られました。",
+          "phonetic": "Subete wa Shu ni yotte tsukuraremashita.",
+          "timing": {
+            "full": [
+              27.658,
+              30.645
+            ],
+            "passage": [
+              0.0,
+              2.26
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "主は、わたしたち人類のため、わたしたちの救いのために",
+          "phonetic": "Shu wa, watashitachi jinrui no tame, watashitachi no sukui no tame ni",
+          "timing": {
+            "full": [
+              30.645,
+              35.711
+            ],
+            "passage": [
+              0.0,
+              4.339
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "天からくだり、",
+          "phonetic": "ten kara kudari,",
+          "timing": {
+            "full": [
+              35.711,
+              36.658
+            ],
+            "passage": [
+              4.339,
+              5.234
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "聖霊によって、おとめマリアよりからだを受け、",
+          "phonetic": "Seirei ni yotte, otome Maria yori karada o uke,",
+          "timing": {
+            "full": [
+              36.658,
+              40.026
+            ],
+            "passage": [
+              0.0,
+              3.129
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "人となられました。",
+          "phonetic": "hito to nararemashita.",
+          "timing": {
+            "full": [
+              40.026,
+              41.539
+            ],
+            "passage": [
+              3.129,
+              4.655
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "ポンティオ・ピラトのもとで、わたしたちのために十字架につけられ、",
+          "phonetic": "Pontio Pirato no moto de, watashitachi no tame ni jūjika ni tsukerare,",
+          "timing": {
+            "full": [
+              41.539,
+              46.434
+            ],
+            "passage": [
+              0.0,
+              4.195
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "苦しみを受け、葬られ、",
+          "phonetic": "kurushimi o uke, hōmurare,",
+          "timing": {
+            "full": [
+              46.434,
+              48.816
+            ],
+            "passage": [
+              4.195,
+              6.603
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "聖書にあるとおり三日目に",
+          "phonetic": "Seisho ni aru tōri mikka-me ni",
+          "timing": {
+            "full": [
+              48.816,
+              50.882
+            ],
+            "passage": [
+              0.0,
+              1.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "復活し、",
+          "phonetic": "fukkatsu shi,",
+          "timing": {
+            "full": [
+              50.882,
+              51.632
+            ],
+            "passage": [
+              1.721,
+              2.497
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "天に昇り、",
+          "phonetic": "ten ni nobori,",
+          "timing": {
+            "full": [
+              51.632,
+              52.868
+            ],
+            "passage": [
+              0.0,
+              0.932
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "父の右の座に着いておられます。",
+          "phonetic": "Chichi no migi no za ni tsuite oraremasu.",
+          "timing": {
+            "full": [
+              52.868,
+              55.303
+            ],
+            "passage": [
+              0.932,
+              3.458
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "主は、栄光のうちに再び来られます、",
+          "phonetic": "Shu wa, eikō no uchi ni futatabi koraremasu,",
+          "timing": {
+            "full": [
+              55.303,
+              58.987
+            ],
+            "passage": [
+              0.0,
+              2.984
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "生者と死者を裁くために。",
+          "phonetic": "seisha to shisha o sabaku tame ni.",
+          "timing": {
+            "full": [
+              58.987,
+              61.092
+            ],
+            "passage": [
+              2.984,
+              5.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "その国は終わることがありません。",
+          "phonetic": "Sono kuni wa owaru koto ga arimasen.",
+          "timing": {
+            "full": [
+              61.092,
+              63.895
+            ],
+            "passage": [
+              5.089,
+              7.895
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "わたしは信じます。主であり、いのちの与え主である聖霊を。",
+          "phonetic": "Watashi wa shinjimasu. Shu de ari, inochi no atae-nushi de aru Seirei o.",
+          "timing": {
+            "full": [
+              63.895,
+              70.158
+            ],
+            "passage": [
+              0.0,
+              5.5
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "聖霊は、",
+          "phonetic": "Seirei wa,",
+          "timing": {
+            "full": [
+              70.158,
+              71.553
+            ],
+            "passage": [
+              5.5,
+              6.895
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "父から出て、",
+          "phonetic": "Chichi kara dete,",
+          "timing": {
+            "full": [
+              71.553,
+              72.803
+            ],
+            "passage": [
+              6.895,
+              8.145
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "父と子とともに礼拝され、栄光を受け、",
+          "phonetic": "Chichi to Ko to tomo ni reihai sare, eikō o uke,",
+          "timing": {
+            "full": [
+              72.803,
+              76.316
+            ],
+            "passage": [
+              8.145,
+              11.658
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "また預言者をとおして語られました。",
+          "phonetic": "mata yogensha o tōshite katararemashita.",
+          "timing": {
+            "full": [
+              76.316,
+              78.842
+            ],
+            "passage": [
+              11.658,
+              14.184
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "わたしは、聖なる、普遍の、使徒的、唯一の教会を信じます。",
+          "phonetic": "Watashi wa, sei naru, fuhen no, shito-teki, yuiitsu no kyōkai o shinjimasu.",
+          "timing": {
+            "full": [
+              78.842,
+              85.355
+            ],
+            "passage": [
+              0.0,
+              5.8
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "罪のゆるしをもたらす唯一の洗礼を認め、",
+          "phonetic": "Tsumi no yurushi o motarasu yuiitsu no senrei o mitome,",
+          "timing": {
+            "full": [
+              85.355,
+              89.013
+            ],
+            "passage": [
+              0.0,
+              3.037
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "死者の復活と",
+          "phonetic": "shisha no fukkatsu to",
+          "timing": {
+            "full": [
+              89.013,
+              90.408
+            ],
+            "passage": [
+              0.0,
+              1.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "来世のいのちを待ち望みます。",
+          "phonetic": "raise no inochi o machinozomimasu.",
+          "timing": {
+            "full": [
+              90.408,
+              92.395
+            ],
+            "passage": [
+              1.089,
+              3.011
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "アーメン。",
+          "phonetic": "Āmen.",
+          "timing": {
+            "full": [
+              92.395,
+              93.79
+            ],
+            "passage": [
+              0.0,
+              0.695
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

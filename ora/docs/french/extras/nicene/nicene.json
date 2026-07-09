@@ -1,0 +1,642 @@
+{
+  "id": "nicene",
+  "lang": "french",
+  "title": "Credo de Nicée",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Je crois en un seul Dieu,",
+          "phonetic": "Je crois en un seul Dieu,",
+          "timing": {
+            "full": [
+              0.0,
+              1.392
+            ],
+            "passage": [
+              0.0,
+              1.392
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "le Père tout-puissant,",
+          "phonetic": "le Père tout-puissant,",
+          "timing": {
+            "full": [
+              1.392,
+              2.695
+            ],
+            "passage": [
+              1.392,
+              2.695
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "créateur du ciel et de la terre,",
+          "phonetic": "créateur du ciel et de la terre,",
+          "timing": {
+            "full": [
+              2.695,
+              4.576
+            ],
+            "passage": [
+              2.695,
+              4.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "de l'univers visible et invisible.",
+          "phonetic": "de l'univers visible et invisible.",
+          "timing": {
+            "full": [
+              4.576,
+              6.734
+            ],
+            "passage": [
+              4.576,
+              6.734
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Je crois en un seul Seigneur, Jésus Christ,",
+          "phonetic": "Je crois en un seul Seigneur, Jésus Christ,",
+          "timing": {
+            "full": [
+              6.734,
+              10.263
+            ],
+            "passage": [
+              0.0,
+              2.761
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "le Fils unique de Dieu,",
+          "phonetic": "le Fils unique de Dieu,",
+          "timing": {
+            "full": [
+              10.263,
+              11.684
+            ],
+            "passage": [
+              2.761,
+              4.208
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "né du Père avant tous les siècles:",
+          "phonetic": "né du Père avant tous les siècles:",
+          "timing": {
+            "full": [
+              11.684,
+              13.526
+            ],
+            "passage": [
+              4.208,
+              6.182
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "il est Dieu, né de Dieu,",
+          "phonetic": "il est Dieu, né de Dieu,",
+          "timing": {
+            "full": [
+              13.526,
+              15.303
+            ],
+            "passage": [
+              0.0,
+              1.642
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "lumière, née de la lumière,",
+          "phonetic": "lumière, née de la lumière,",
+          "timing": {
+            "full": [
+              15.303,
+              17.421
+            ],
+            "passage": [
+              1.642,
+              3.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "vrai Dieu, né du vrai Dieu.",
+          "phonetic": "vrai Dieu, né du vrai Dieu.",
+          "timing": {
+            "full": [
+              17.421,
+              19.395
+            ],
+            "passage": [
+              3.747,
+              5.695
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "Engendré, non pas créé,",
+          "phonetic": "Engendré, non pas créé,",
+          "timing": {
+            "full": [
+              19.395,
+              22.105
+            ],
+            "passage": [
+              5.695,
+              8.395
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3e",
+          "text": "de même nature que le Père,",
+          "phonetic": "de même nature que le Père,",
+          "timing": {
+            "full": [
+              22.105,
+              23.803
+            ],
+            "passage": [
+              8.395,
+              10.132
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "et par lui tout a été fait.",
+          "phonetic": "et par lui tout a été fait.",
+          "timing": {
+            "full": [
+              23.803,
+              25.447
+            ],
+            "passage": [
+              0.0,
+              1.497
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Pour nous les hommes, et pour notre salut,",
+          "phonetic": "Pour nous les hommes, et pour notre salut,",
+          "timing": {
+            "full": [
+              25.447,
+              28.5
+            ],
+            "passage": [
+              0.0,
+              2.247
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "il descendit du ciel;",
+          "phonetic": "il descendit du ciel;",
+          "timing": {
+            "full": [
+              28.5,
+              29.947
+            ],
+            "passage": [
+              2.247,
+              3.76
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Par l'Esprit Saint, il a pris chair de la Vierge Marie,",
+          "phonetic": "Par l'Esprit Saint, il a pris chair de la Vierge Marie,",
+          "timing": {
+            "full": [
+              29.947,
+              33.0
+            ],
+            "passage": [
+              0.0,
+              2.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "et s'est fait homme.",
+          "phonetic": "et s'est fait homme.",
+          "timing": {
+            "full": [
+              33.0,
+              34.132
+            ],
+            "passage": [
+              2.997,
+              4.129
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Crucifié pour nous sous Ponce Pilate,",
+          "phonetic": "Crucifié pour nous sous Ponce Pilate,",
+          "timing": {
+            "full": [
+              34.132,
+              36.855
+            ],
+            "passage": [
+              0.0,
+              1.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "il souffrit sa passion et fut mis au tombeau.",
+          "phonetic": "il souffrit sa passion et fut mis au tombeau.",
+          "timing": {
+            "full": [
+              36.855,
+              39.408
+            ],
+            "passage": [
+              1.905,
+              4.458
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Il ressuscita le troisième jour,",
+          "phonetic": "Il ressuscita le troisième jour,",
+          "timing": {
+            "full": [
+              39.408,
+              42.132
+            ],
+            "passage": [
+              0.0,
+              1.918
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "conformément aux Écritures,",
+          "phonetic": "conformément aux Écritures,",
+          "timing": {
+            "full": [
+              42.132,
+              43.895
+            ],
+            "passage": [
+              1.918,
+              3.695
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "et il monta au ciel;",
+          "phonetic": "et il monta au ciel;",
+          "timing": {
+            "full": [
+              43.895,
+              45.355
+            ],
+            "passage": [
+              0.0,
+              1.233
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "il est assis à la droite du Père.",
+          "phonetic": "il est assis à la droite du Père.",
+          "timing": {
+            "full": [
+              45.355,
+              47.355
+            ],
+            "passage": [
+              1.233,
+              3.246
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Il reviendra dans la gloire,",
+          "phonetic": "Il reviendra dans la gloire,",
+          "timing": {
+            "full": [
+              47.355,
+              49.71
+            ],
+            "passage": [
+              0.0,
+              1.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "pour juger les vivants et les morts;",
+          "phonetic": "pour juger les vivants et les morts;",
+          "timing": {
+            "full": [
+              49.71,
+              51.605
+            ],
+            "passage": [
+              1.55,
+              3.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10c",
+          "text": "et son règne n'aura pas de fin.",
+          "phonetic": "et son règne n'aura pas de fin.",
+          "timing": {
+            "full": [
+              51.605,
+              53.342
+            ],
+            "passage": [
+              3.445,
+              5.182
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Je crois en l'Esprit Saint,",
+          "phonetic": "Je crois en l'Esprit Saint,",
+          "timing": {
+            "full": [
+              53.342,
+              55.553
+            ],
+            "passage": [
+              0.0,
+              1.405
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "qui est Seigneur et qui donne la vie;",
+          "phonetic": "qui est Seigneur et qui donne la vie;",
+          "timing": {
+            "full": [
+              55.553,
+              57.329
+            ],
+            "passage": [
+              1.405,
+              3.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "il procède du Père.",
+          "phonetic": "il procède du Père.",
+          "timing": {
+            "full": [
+              57.329,
+              58.75
+            ],
+            "passage": [
+              3.182,
+              4.603
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "Avec le Père et le Fils, il reçoit même adoration et même gloire;",
+          "phonetic": "Avec le Père et le Fils, il reçoit même adoration et même gloire;",
+          "timing": {
+            "full": [
+              58.75,
+              63.513
+            ],
+            "passage": [
+              4.603,
+              9.368
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "il a parlé par les prophètes.",
+          "phonetic": "il a parlé par les prophètes.",
+          "timing": {
+            "full": [
+              63.513,
+              65.289
+            ],
+            "passage": [
+              9.368,
+              11.145
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Je crois en l'Église, une, sainte, catholique et apostolique.",
+          "phonetic": "Je crois en l'Église, une, sainte, catholique et apostolique.",
+          "timing": {
+            "full": [
+              65.289,
+              70.461
+            ],
+            "passage": [
+              0.0,
+              4.366
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Je reconnais un seul baptême",
+          "phonetic": "Je reconnais un seul baptême",
+          "timing": {
+            "full": [
+              70.461,
+              72.974
+            ],
+            "passage": [
+              0.0,
+              1.708
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "pour le pardon des péchés.",
+          "phonetic": "pour le pardon des péchés.",
+          "timing": {
+            "full": [
+              72.974,
+              74.224
+            ],
+            "passage": [
+              1.708,
+              2.958
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "J'attends la résurrection des morts,",
+          "phonetic": "J'attends la résurrection des morts,",
+          "timing": {
+            "full": [
+              74.224,
+              76.908
+            ],
+            "passage": [
+              0.0,
+              1.879
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "et la vie du monde à venir.",
+          "phonetic": "et la vie du monde à venir.",
+          "timing": {
+            "full": [
+              76.908,
+              78.658
+            ],
+            "passage": [
+              1.879,
+              3.629
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              78.658,
+              80.104
+            ],
+            "passage": [
+              0.0,
+              0.641
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

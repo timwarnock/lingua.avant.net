@@ -84,15 +84,15 @@
         {
           "passage_segment_id": "3a",
           "text": "Fiat voluntas tua, sicut in caelo et in terra.",
-          "phonetic": "Fiat voluntas tua, sicut in caelo et in terra.",
+          "phonetic": "Fiat voluntas tua, sicut in cielo et in terra.",
           "timing": {
             "full": [
               7.941,
-              12.851
+              12.704
             ],
             "passage": [
               0.0,
-              3.974
+              3.827
             ]
           }
         }
@@ -107,8 +107,8 @@
           "phonetic": "Panem nostrum quotidianum da nobis hodie,",
           "timing": {
             "full": [
-              12.851,
-              16.647
+              12.704,
+              16.5
             ],
             "passage": [
               0.0,
@@ -127,8 +127,8 @@
           "phonetic": "et dimitte nobis debita nostra,",
           "timing": {
             "full": [
-              16.647,
-              19.206
+              16.5,
+              19.059
             ],
             "passage": [
               0.0,
@@ -142,8 +142,8 @@
           "phonetic": "sicut et nos dimittimus debitoribus nostris.",
           "timing": {
             "full": [
-              19.206,
-              23.088
+              19.059,
+              22.941
             ],
             "passage": [
               2.432,
@@ -162,8 +162,8 @@
           "phonetic": "Et ne nos inducas in tentationem,",
           "timing": {
             "full": [
-              23.088,
-              26.441
+              22.941,
+              26.294
             ],
             "passage": [
               0.0,
@@ -177,8 +177,8 @@
           "phonetic": "sed libera nos a malo,",
           "timing": {
             "full": [
-              26.441,
-              28.294
+              26.294,
+              28.147
             ],
             "passage": [
               2.388,
@@ -197,8 +197,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              28.294,
-              29.059
+              28.147,
+              28.912
             ],
             "passage": [
               0.0,
