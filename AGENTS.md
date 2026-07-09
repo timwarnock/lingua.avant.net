@@ -15,7 +15,8 @@ Develop lingua.avant.net to focus on traditional Christian prayers, specifically
 + Keep everything simple and direct.
 + Human directs the order of work.
 + Never document or reference what NOT to do, avoided steps, or negative instructions (context poison).
-+ This document is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
++ This document (AGENTS.md) is not for your notes, DO NOT EDIT THIS DOCUMENT UNLESS INSTRUCTED BY USER!
++ use `notes-agents.md` for your own notes
 + User (human) will run the dev server, DO NOT RUN `make build` or any `make` commands unless instructed to by the user.
 + Chinese should use traditional and not simplified characters!
 + never use emdash character, use hyphens for ranges and hyphenated words, and -- for emdash separators in text -- like this one.
