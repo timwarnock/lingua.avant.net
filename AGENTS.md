@@ -90,8 +90,6 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 ## TODO
 
-+ Nicene Creed (constantinople-nicene creed) added to all languages in extras/nicene.md
-
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 
 + carefully tweak latin phonetics for better audio (italian to liturgical latin)
