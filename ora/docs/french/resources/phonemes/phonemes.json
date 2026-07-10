@@ -3,7 +3,7 @@
   "lang": "french",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
-    "rate": "-10%",
+    "rate": "-15%",
     "input": "phonetic"
   },
   "filenameOverride": "",
@@ -26,9 +26,9 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "e",
-          "phonetic": "e",
-          "filenameOverride": "e.mp3"
+          "text": "é",
+          "phonetic": "é",
+          "filenameOverride": "e-closed.mp3"
         }
       ]
     },
@@ -38,9 +38,9 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "i",
-          "phonetic": "i",
-          "filenameOverride": "i.mp3"
+          "text": "è",
+          "phonetic": "è",
+          "filenameOverride": "e-open.mp3"
         }
       ]
     },
@@ -50,9 +50,9 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "o",
-          "phonetic": "o",
-          "filenameOverride": "o.mp3"
+          "text": "i",
+          "phonetic": "i",
+          "filenameOverride": "i.mp3"
         }
       ]
     },
@@ -62,9 +62,9 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "u",
-          "phonetic": "u",
-          "filenameOverride": "u.mp3"
+          "text": "o",
+          "phonetic": "ô",
+          "filenameOverride": "o-closed.mp3"
         }
       ]
     },
@@ -74,9 +74,9 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "eu",
-          "phonetic": "eu",
-          "filenameOverride": "eu.mp3"
+          "text": "o",
+          "phonetic": "o",
+          "filenameOverride": "o-open.mp3"
         }
       ]
     },
@@ -86,9 +86,9 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "an",
-          "phonetic": "an",
-          "filenameOverride": "an.mp3"
+          "text": "u",
+          "phonetic": "u",
+          "filenameOverride": "u.mp3"
         }
       ]
     },
@@ -98,9 +98,9 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "in",
-          "phonetic": "in",
-          "filenameOverride": "in.mp3"
+          "text": "ou",
+          "phonetic": "ou",
+          "filenameOverride": "ou.mp3"
         }
       ]
     },
@@ -110,9 +110,9 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "on",
-          "phonetic": "on",
-          "filenameOverride": "on.mp3"
+          "text": "eu",
+          "phonetic": "eu",
+          "filenameOverride": "eu-closed.mp3"
         }
       ]
     },
@@ -122,9 +122,9 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "un",
-          "phonetic": "un",
-          "filenameOverride": "un.mp3"
+          "text": "eu",
+          "phonetic": "œu",
+          "filenameOverride": "eu-open.mp3"
         }
       ]
     },
@@ -134,9 +134,9 @@
       "segments": [
         {
           "passage_segment_id": "11a",
-          "text": "r",
-          "phonetic": "r",
-          "filenameOverride": "r.mp3"
+          "text": "e",
+          "phonetic": "e",
+          "filenameOverride": "mute-e.mp3"
         }
       ]
     },
@@ -146,9 +146,9 @@
       "segments": [
         {
           "passage_segment_id": "12a",
-          "text": "Père",
-          "phonetic": "Père",
-          "filenameOverride": "pere.mp3"
+          "text": "oi",
+          "phonetic": "oi",
+          "filenameOverride": "oi.mp3"
         }
       ]
     },
@@ -158,9 +158,9 @@
       "segments": [
         {
           "passage_segment_id": "13a",
-          "text": "est avec",
-          "phonetic": "est avec",
-          "filenameOverride": "est-avec.mp3"
+          "text": "an",
+          "phonetic": "an",
+          "filenameOverride": "an.mp3"
         }
       ]
     },
@@ -170,9 +170,9 @@
       "segments": [
         {
           "passage_segment_id": "14a",
-          "text": "aux cieux",
-          "phonetic": "aux cieux",
-          "filenameOverride": "aux-cieux.mp3"
+          "text": "in",
+          "phonetic": "in",
+          "filenameOverride": "in.mp3"
         }
       ]
     },
@@ -182,9 +182,9 @@
       "segments": [
         {
           "passage_segment_id": "15a",
-          "text": "ch",
-          "phonetic": "ch",
-          "filenameOverride": "ch.mp3"
+          "text": "on",
+          "phonetic": "on",
+          "filenameOverride": "on.mp3"
         }
       ]
     },
@@ -194,9 +194,9 @@
       "segments": [
         {
           "passage_segment_id": "16a",
-          "text": "j",
-          "phonetic": "j",
-          "filenameOverride": "j.mp3"
+          "text": "un",
+          "phonetic": "un",
+          "filenameOverride": "un.mp3"
         }
       ]
     },
@@ -206,9 +206,537 @@
       "segments": [
         {
           "passage_segment_id": "17a",
+          "text": "r",
+          "phonetic": "re",
+          "filenameOverride": "r.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "j",
+          "phonetic": "je",
+          "filenameOverride": "j.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "ch",
+          "phonetic": "che",
+          "filenameOverride": "ch.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "gn",
+          "phonetic": "gne",
+          "filenameOverride": "gn.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "qu",
+          "phonetic": "que",
+          "filenameOverride": "qu.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 22,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "22a",
+          "text": "grâce",
+          "phonetic": "grâce",
+          "filenameOverride": "grace.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 23,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "23a",
+          "text": "Père",
+          "phonetic": "Père",
+          "filenameOverride": "pere.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 24,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "24a",
+          "text": "béni",
+          "phonetic": "béni",
+          "filenameOverride": "beni.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 25,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "25a",
+          "text": "Fils",
+          "phonetic": "Fils",
+          "filenameOverride": "fils.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 26,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "26a",
+          "text": "du",
+          "phonetic": "du",
+          "filenameOverride": "du.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 27,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "27a",
+          "text": "vous",
+          "phonetic": "vous",
+          "filenameOverride": "vous.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 28,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "28a",
           "text": "Marie",
           "phonetic": "Marie",
           "filenameOverride": "marie.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 29,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "29a",
+          "text": "Jésus",
+          "phonetic": "Jésus",
+          "filenameOverride": "jesus.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 30,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "30a",
+          "text": "Seigneur",
+          "phonetic": "Seigneur",
+          "filenameOverride": "seigneur.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 31,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "31a",
+          "text": "règne",
+          "phonetic": "règne",
+          "filenameOverride": "regne.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 32,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "32a",
+          "text": "cieux",
+          "phonetic": "cieux",
+          "filenameOverride": "cieux.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 33,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "33a",
+          "text": "croix",
+          "phonetic": "croix",
+          "filenameOverride": "croix.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 34,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "34a",
+          "text": "qui",
+          "phonetic": "qui",
+          "filenameOverride": "qui.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 35,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "35a",
+          "text": "gloire",
+          "phonetic": "gloire",
+          "filenameOverride": "gloire.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 36,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "36a",
+          "text": "saint",
+          "phonetic": "saint",
+          "filenameOverride": "saint.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 37,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "37a",
+          "text": "nom",
+          "phonetic": "nom",
+          "filenameOverride": "nom.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 38,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "38a",
+          "text": "pleine",
+          "phonetic": "pleine",
+          "filenameOverride": "pleine.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 39,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "39a",
+          "text": "sanctifié",
+          "phonetic": "sanctifié",
+          "filenameOverride": "sanctifie.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 40,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "40a",
+          "text": "est avec",
+          "phonetic": "est avec",
+          "filenameOverride": "est-avec.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 41,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "41a",
+          "text": "aux cieux",
+          "phonetic": "aux cieux",
+          "filenameOverride": "aux-cieux.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 42,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "42a",
+          "text": "vous êtes",
+          "phonetic": "vous êtes",
+          "filenameOverride": "vous-etes.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 43,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "43a",
+          "text": "Notre",
+          "phonetic": "Notre",
+          "filenameOverride": "notre.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 44,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "44a",
+          "text": "mort",
+          "phonetic": "mort",
+          "filenameOverride": "mort.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 45,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "45a",
+          "text": "et",
+          "phonetic": "et",
+          "filenameOverride": "et.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 46,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "46a",
+          "text": "deux",
+          "phonetic": "deux",
+          "filenameOverride": "deux.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 47,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "47a",
+          "text": "sœur",
+          "phonetic": "sœur",
+          "filenameOverride": "soeur.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 48,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "48a",
+          "text": "au",
+          "phonetic": "au",
+          "filenameOverride": "au.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 49,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "49a",
+          "text": "français",
+          "phonetic": "français",
+          "filenameOverride": "francais.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 50,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "50a",
+          "text": "fête",
+          "phonetic": "fête",
+          "filenameOverride": "fete.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 51,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "51a",
+          "text": "Noël",
+          "phonetic": "Noël",
+          "filenameOverride": "noel.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 52,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "52a",
+          "text": "à",
+          "phonetic": "à",
+          "filenameOverride": "a-grave.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 53,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "53a",
+          "text": "fille",
+          "phonetic": "fille",
+          "filenameOverride": "fille.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 54,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "54a",
+          "text": "oui",
+          "phonetic": "oui",
+          "filenameOverride": "oui.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 55,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "55a",
+          "text": "huile",
+          "phonetic": "huile",
+          "filenameOverride": "huile.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 56,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "56a",
+          "text": "les hommes",
+          "phonetic": "les hommes",
+          "filenameOverride": "les-hommes.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 57,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "57a",
+          "text": "l'homme",
+          "phonetic": "l'homme",
+          "filenameOverride": "lhomme.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 58,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "58a",
+          "text": "le héros",
+          "phonetic": "le héros",
+          "filenameOverride": "le-heros.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 59,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "59a",
+          "text": "ss",
+          "phonetic": "ss",
+          "filenameOverride": "s.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 60,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "60a",
+          "text": "ze",
+          "phonetic": "ze",
+          "filenameOverride": "z.mp3"
+        }
+      ]
+    },
+    {
+      "passage_id": 61,
+      "filenameOverride": "",
+      "segments": [
+        {
+          "passage_segment_id": "61a",
+          "text": "homme",
+          "phonetic": "homme",
+          "filenameOverride": "homme.mp3"
         }
       ]
     }

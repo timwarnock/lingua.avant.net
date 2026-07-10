@@ -1,6 +1,6 @@
 # Agent Notes
 
-The resource sections are written in English for English-speaking language learners of the target language. 
+The resource sections are written in English for English-speaking language learners of the target language.
 Focus is on traditional Christian prayers and the Rosary for language learning.
 
 We use the custom `tooltip="..."` HTML attribute (with simple pure CSS) everywhere for hover glosses and UI hints. This is the single clean HTML-only tooltip system. Use `<span tooltip="pinyin = meaning">文字</span>` (Chinese example only) or `<span tooltip="Heavens">Caelis</span>` (Latin example: tooltip holds only the English meaning) extensively as a learning aid on prayer text, resources, etc. If the visible text is Title Case then the tooltip must also be Title Case.
@@ -47,19 +47,30 @@ See chinese/resources/pronunciation.md or vietnamese/resources/pronunciation.md 
 
 
 
+
 ---
 
 ## Pronunciation pages
 
-The structure uses these sections in order: intro paragraph(s), then ## Phonemes, then ## Recommendations, then ## Not Recommended.
+**Goal:** Help learners pronounce the Rosary language faster than unguided exposure. Dense, accurate notes; exact inventories; rules that matter for prayer; clickable audio; Rosary examples.
 
-Recommendations and Not Recommended will be written in the native language with tooltips for translation (e.g., in spanish "Recomendaciones" or in chinese "推薦").
+**Widdowson:** Include the Henry Widdowson quote (short-circuiting natural discovery) on each language’s pronunciation page. Readers usually work one language at a time, so the framing is worth repeating in context rather than treating it as site-wide duplication.
 
-The purpose of these pages is to provide high-quality information that will directly help language learners to more quickly pick up the language. The goal is to short-circuit the slow natural discovery process of immersion in the language and provide precise and highly useful information so that learning to pronounce the language will be quicker and easier.
+**Quality bar (read these pages; copy quality, not outline):**
 
-Latin pronunciation.md is the reference benchmark for all remaining pronunciation.md pages (structure, phonemes section with audio examples, recommendations/not recommended, tooltip usage per the rules above, overall quality and focus on Rosary prayers).
++ `latin/resources/pronunciation.md` -- clarity, inventory, audio, prayer tips, named recommendations, substantive Not Recommended
++ `chinese/resources/pronunciation.md` -- how a language-specific system (tones) can earn its own section when inventory alone is insufficient
 
-We do not recommend our own page. On no page should the content recommend or point readers to the page being read itself.
+Each language keeps its own history, inventory, and systems. Structure follows what that language needs.
+
+**Usual pieces (order and extras vary by language):** intro with language/Church/Rosary context; phonemes with prose between blocks; optional further sections only when the language has a real combination system that needs room; prayer tips; Recommendations and Not Recommended (section titles in the language of the section, with English tooltips).
+
+**Audio:** reserve bold for clickable audio only (phoneme label = isolate; word = that word). Use italics for non-audio emphasis. Prefer Rosary vocabulary for examples. When prose names a sound, link audio for that sound (and an example word when helpful). Phoneme audio lives under each language's `resources/phonemes/` with matching `phonemes.json`. If mp3 files are removed from `ora/docs/`, remove the same paths under `ora/site/`.
+
+**Page content** teaches the target language to a learner. Agent process, other languages, and UI mechanics stay out of the page.
+
+**Editing:** change what was asked; keep existing good prose (especially history) unless asked to revise it. Accumulate quality across passes. Leave checklist items open until the user has reviewed.
+
 
 
 
@@ -94,27 +105,29 @@ We do not recommend our own page. On no page should the content recommend or poi
 
 ### Latin
 
-- [x] pronunciation.md (reference benchmark for all other pronunciation pages)
+- [x] pronunciation.md
 
 ### French
 
-- [ ] pronunciation.md (needs a lot more work to get to the quality of the latin benchmark)
+- [ ] pronunciation.md (awaiting user review)
 
 ### Greek
 
-- [ ] pronunciation.md (match latin benchmark)
+- [ ] pronunciation.md
 
 ### Japanese
 
-- [ ] pronunciation.md (match latin benchmark)
+- [ ] pronunciation.md
 
 ### Polish
 
-- [ ] pronunciation.md (match latin benchmark)
+- [ ] pronunciation.md
 
 ### Portuguese
 
-- [ ] pronunciation.md (match latin benchmark)
+- [ ] pronunciation.md
+
+
 
 
 ---
@@ -143,10 +156,8 @@ In the quote syntax:
 
     *[English translation]*
 
-Do not use abbreviated forms like "S. Hieronymus" or "St." inside Latin sections — "St." is English; use the full Latin "Sanctus".
+In Latin sections use the full word Sanctus (not English St. or abbreviated S.).
 
-This convention applies specifically to the author name in the landing-page `!!! quote` blocks that appear immediately after each language's title (as described in AGENTS.md TODO).
+This convention applies specifically to the author name in the landing-page `!!! quote` blocks that appear immediately after each language's title.
 
 Update existing quotes to follow this as new language pages or quotes are added.
-
-
