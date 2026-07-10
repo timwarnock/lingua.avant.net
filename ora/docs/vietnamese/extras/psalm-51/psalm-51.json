@@ -1,0 +1,852 @@
+{
+  "id": "psalm-51",
+  "lang": "vietnamese",
+  "title": "Thánh Vịnh 51",
+  "tts": {
+    "voice": "vi-VN-NamMinhNeural",
+    "rate": "+0%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Cho người lãnh đạo ca đoàn.",
+          "phonetic": "Cho người lãnh đạo ca đoàn.",
+          "timing": {
+            "full": [
+              0.0,
+              1.637
+            ],
+            "passage": [
+              0.0,
+              1.65
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Thánh vịnh của Đavít,",
+          "phonetic": "Thánh vịnh của Đavít,",
+          "timing": {
+            "full": [
+              1.637,
+              3.513
+            ],
+            "passage": [
+              1.65,
+              3.675
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "khi ngôn sứ Nathan đến với ông,",
+          "phonetic": "khi ngôn sứ Nathan đến với ông,",
+          "timing": {
+            "full": [
+              3.513,
+              5.425
+            ],
+            "passage": [
+              0.0,
+              1.925
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "sau khi ông phạm tội với Bátsêba.",
+          "phonetic": "sau khi ông phạm tội với Bátsêba.",
+          "timing": {
+            "full": [
+              5.425,
+              7.612
+            ],
+            "passage": [
+              1.925,
+              4.125
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Lạy Chúa, xin thương xót con theo lòng thương xót lớn lao của Chúa;",
+          "phonetic": "Lạy Chúa, xin thương xót con theo lòng thương xót lớn lao của Chúa;",
+          "timing": {
+            "full": [
+              7.612,
+              12.012
+            ],
+            "passage": [
+              0.0,
+              3.712
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "theo lượng hải hà của lòng thương xót dịu dàng của Chúa,",
+          "phonetic": "theo lượng hải hà của lòng thương xót dịu dàng của Chúa,",
+          "timing": {
+            "full": [
+              12.012,
+              14.787
+            ],
+            "passage": [
+              3.712,
+              6.513
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "xin tẩy xoá tội lỗi con.",
+          "phonetic": "xin tẩy xoá tội lỗi con.",
+          "timing": {
+            "full": [
+              14.787,
+              16.5
+            ],
+            "passage": [
+              6.513,
+              8.2
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Xin rửa con sạch hết lỗi lầm,",
+          "phonetic": "Xin rửa con sạch hết lỗi lầm,",
+          "timing": {
+            "full": [
+              16.5,
+              19.075
+            ],
+            "passage": [
+              0.0,
+              1.837
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "và thanh tẩy con khỏi tội con.",
+          "phonetic": "và thanh tẩy con khỏi tội con.",
+          "timing": {
+            "full": [
+              19.075,
+              20.938
+            ],
+            "passage": [
+              1.837,
+              3.7
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Vì con nhận biết tội lỗi con,",
+          "phonetic": "Vì con nhận biết tội lỗi con,",
+          "timing": {
+            "full": [
+              20.938,
+              23.413
+            ],
+            "passage": [
+              0.0,
+              1.738
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "và tội con luôn ở trước mặt con.",
+          "phonetic": "và tội con luôn ở trước mặt con.",
+          "timing": {
+            "full": [
+              23.413,
+              25.4
+            ],
+            "passage": [
+              1.738,
+              3.725
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Chỉ mình Chúa, con đã đắc tội,",
+          "phonetic": "Chỉ mình Chúa, con đã đắc tội,",
+          "timing": {
+            "full": [
+              25.4,
+              28.15
+            ],
+            "passage": [
+              0.0,
+              2.013
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "và đã làm điều ác trước mặt Chúa;",
+          "phonetic": "và đã làm điều ác trước mặt Chúa;",
+          "timing": {
+            "full": [
+              28.15,
+              30.038
+            ],
+            "passage": [
+              2.013,
+              3.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "để Chúa tỏ ra công chính trong lời Ngài,",
+          "phonetic": "để Chúa tỏ ra công chính trong lời Ngài,",
+          "timing": {
+            "full": [
+              30.038,
+              32.087
+            ],
+            "passage": [
+              3.888,
+              5.95
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "và thắng khi Ngài bị xét xử.",
+          "phonetic": "và thắng khi Ngài bị xét xử.",
+          "timing": {
+            "full": [
+              32.087,
+              33.862
+            ],
+            "passage": [
+              5.95,
+              7.737
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Này đây, con được tượng thai trong tội lỗi,",
+          "phonetic": "Này đây, con được tượng thai trong tội lỗi,",
+          "timing": {
+            "full": [
+              33.862,
+              37.05
+            ],
+            "passage": [
+              0.0,
+              2.462
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "và trong tội, mẹ con đã cưu mang con.",
+          "phonetic": "và trong tội, mẹ con đã cưu mang con.",
+          "timing": {
+            "full": [
+              37.05,
+              39.625
+            ],
+            "passage": [
+              2.462,
+              5.025
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Này đây, Chúa yêu thích sự thật;",
+          "phonetic": "Này đây, Chúa yêu thích sự thật;",
+          "timing": {
+            "full": [
+              39.625,
+              42.3
+            ],
+            "passage": [
+              0.0,
+              1.938
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "những điều ẩn kín và bí mật của sự khôn ngoan Chúa",
+          "phonetic": "những điều ẩn kín và bí mật của sự khôn ngoan Chúa",
+          "timing": {
+            "full": [
+              42.3,
+              45.0
+            ],
+            "passage": [
+              1.938,
+              4.638
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "Chúa đã tỏ ra cho con.",
+          "phonetic": "Chúa đã tỏ ra cho con.",
+          "timing": {
+            "full": [
+              45.0,
+              46.362
+            ],
+            "passage": [
+              4.638,
+              6.0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Chúa sẽ rảy con bằng cành hương thảo, và con sẽ được thanh sạch;",
+          "phonetic": "Chúa sẽ rảy con bằng cành hương thảo, và con sẽ được thanh sạch;",
+          "timing": {
+            "full": [
+              46.362,
+              50.625
+            ],
+            "passage": [
+              0.0,
+              3.538
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "Chúa sẽ rửa con, và con sẽ trắng hơn tuyết.",
+          "phonetic": "Chúa sẽ rửa con, và con sẽ trắng hơn tuyết.",
+          "timing": {
+            "full": [
+              50.625,
+              53.4
+            ],
+            "passage": [
+              3.538,
+              6.35
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Chúa sẽ cho tai con nghe vui mừng và hoan hỉ,",
+          "phonetic": "Chúa sẽ cho tai con nghe vui mừng và hoan hỉ,",
+          "timing": {
+            "full": [
+              53.4,
+              56.712
+            ],
+            "passage": [
+              0.0,
+              2.562
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "và xương cốt đã bị hạ nhục sẽ reo mừng.",
+          "phonetic": "và xương cốt đã bị hạ nhục sẽ reo mừng.",
+          "timing": {
+            "full": [
+              56.712,
+              59.013
+            ],
+            "passage": [
+              2.562,
+              4.862
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Xin quay mặt Chúa khỏi tội con,",
+          "phonetic": "Xin quay mặt Chúa khỏi tội con,",
+          "timing": {
+            "full": [
+              59.013,
+              61.688
+            ],
+            "passage": [
+              0.0,
+              1.938
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "và xoá bỏ mọi tội lỗi con.",
+          "phonetic": "và xoá bỏ mọi tội lỗi con.",
+          "timing": {
+            "full": [
+              61.688,
+              63.587
+            ],
+            "passage": [
+              1.938,
+              3.837
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Lạy Chúa, xin tạo cho con một trái tim trong sạch,",
+          "phonetic": "Lạy Chúa, xin tạo cho con một trái tim trong sạch,",
+          "timing": {
+            "full": [
+              63.587,
+              67.138
+            ],
+            "passage": [
+              0.0,
+              2.825
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "và canh tân thần khí ngay thẳng trong lòng con.",
+          "phonetic": "và canh tân thần khí ngay thẳng trong lòng con.",
+          "timing": {
+            "full": [
+              67.138,
+              69.7
+            ],
+            "passage": [
+              2.825,
+              5.388
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Xin đừng xua đuổi con khỏi nhan Chúa,",
+          "phonetic": "Xin đừng xua đuổi con khỏi nhan Chúa,",
+          "timing": {
+            "full": [
+              69.7,
+              72.513
+            ],
+            "passage": [
+              0.0,
+              2.062
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "và đừng cất Thánh Thần Chúa khỏi con.",
+          "phonetic": "và đừng cất Thánh Thần Chúa khỏi con.",
+          "timing": {
+            "full": [
+              72.513,
+              74.6
+            ],
+            "passage": [
+              2.062,
+              4.162
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Xin ban lại cho con niềm vui ơn cứu độ của Chúa,",
+          "phonetic": "Xin ban lại cho con niềm vui ơn cứu độ của Chúa,",
+          "timing": {
+            "full": [
+              74.6,
+              78.062
+            ],
+            "passage": [
+              0.0,
+              2.725
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "và củng cố con bằng thần khí quảng đại.",
+          "phonetic": "và củng cố con bằng thần khí quảng đại.",
+          "timing": {
+            "full": [
+              78.062,
+              80.338
+            ],
+            "passage": [
+              2.725,
+              5.0
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Con sẽ dạy đường lối Chúa cho kẻ bất chính,",
+          "phonetic": "Con sẽ dạy đường lối Chúa cho kẻ bất chính,",
+          "timing": {
+            "full": [
+              80.338,
+              83.475
+            ],
+            "passage": [
+              0.0,
+              2.4
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "và tội nhân sẽ trở về với Chúa.",
+          "phonetic": "và tội nhân sẽ trở về với Chúa.",
+          "timing": {
+            "full": [
+              83.475,
+              85.463
+            ],
+            "passage": [
+              2.4,
+              4.388
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Lạy Chúa, Chúa là Thiên Chúa cứu độ con,",
+          "phonetic": "Lạy Chúa, Chúa là Thiên Chúa cứu độ con,",
+          "timing": {
+            "full": [
+              85.463,
+              88.825
+            ],
+            "passage": [
+              0.0,
+              2.65
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "xin giải thoát con khỏi máu;",
+          "phonetic": "xin giải thoát con khỏi máu;",
+          "timing": {
+            "full": [
+              88.825,
+              90.4
+            ],
+            "passage": [
+              2.65,
+              4.225
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "lưỡi con sẽ ca tụng đức công chính của Chúa.",
+          "phonetic": "lưỡi con sẽ ca tụng đức công chính của Chúa.",
+          "timing": {
+            "full": [
+              90.4,
+              92.8
+            ],
+            "passage": [
+              4.225,
+              6.638
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Lạy Chúa, Chúa sẽ mở môi con,",
+          "phonetic": "Lạy Chúa, Chúa sẽ mở môi con,",
+          "timing": {
+            "full": [
+              92.8,
+              95.763
+            ],
+            "passage": [
+              0.0,
+              2.237
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "và miệng con sẽ loan báo lời ca tụng Chúa.",
+          "phonetic": "và miệng con sẽ loan báo lời ca tụng Chúa.",
+          "timing": {
+            "full": [
+              95.763,
+              98.263
+            ],
+            "passage": [
+              2.237,
+              4.737
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Vì nếu Chúa muốn hy lễ, con đã dâng;",
+          "phonetic": "Vì nếu Chúa muốn hy lễ, con đã dâng;",
+          "timing": {
+            "full": [
+              98.263,
+              101.562
+            ],
+            "passage": [
+              0.0,
+              2.575
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "Chúa sẽ không vui thích lễ toàn thiêu.",
+          "phonetic": "Chúa sẽ không vui thích lễ toàn thiêu.",
+          "timing": {
+            "full": [
+              101.562,
+              103.575
+            ],
+            "passage": [
+              2.575,
+              4.588
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Hy lễ dâng Chúa là tâm hồn tan nát;",
+          "phonetic": "Hy lễ dâng Chúa là tâm hồn tan nát;",
+          "timing": {
+            "full": [
+              103.575,
+              106.463
+            ],
+            "passage": [
+              0.0,
+              2.125
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "trái tim tan nát và khiêm nhường, lạy Chúa,",
+          "phonetic": "trái tim tan nát và khiêm nhường, lạy Chúa,",
+          "timing": {
+            "full": [
+              106.463,
+              109.225
+            ],
+            "passage": [
+              2.125,
+              4.875
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "Chúa sẽ không khinh chê.",
+          "phonetic": "Chúa sẽ không khinh chê.",
+          "timing": {
+            "full": [
+              109.225,
+              110.612
+            ],
+            "passage": [
+              4.875,
+              6.263
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Lạy Chúa, xin ban ơn lành cho Sion theo ý lành Chúa,",
+          "phonetic": "Lạy Chúa, xin ban ơn lành cho Sion theo ý lành Chúa,",
+          "timing": {
+            "full": [
+              110.612,
+              114.688
+            ],
+            "passage": [
+              0.0,
+              3.337
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "để tường thành Giêrusalem được xây lại.",
+          "phonetic": "để tường thành Giêrusalem được xây lại.",
+          "timing": {
+            "full": [
+              114.688,
+              117.112
+            ],
+            "passage": [
+              3.337,
+              5.737
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Bấy giờ Chúa sẽ nhận hy lễ công chính,",
+          "phonetic": "Bấy giờ Chúa sẽ nhận hy lễ công chính,",
+          "timing": {
+            "full": [
+              117.112,
+              119.975
+            ],
+            "passage": [
+              0.0,
+              2.125
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "của lễ và lễ toàn thiêu;",
+          "phonetic": "của lễ và lễ toàn thiêu;",
+          "timing": {
+            "full": [
+              119.975,
+              121.5
+            ],
+            "passage": [
+              2.125,
+              3.65
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "bấy giờ người ta sẽ đặt bò tơ trên bàn thờ Chúa.",
+          "phonetic": "bấy giờ người ta sẽ đặt bò tơ trên bàn thờ Chúa.",
+          "timing": {
+            "full": [
+              121.5,
+              124.225
+            ],
+            "passage": [
+              3.65,
+              6.375
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

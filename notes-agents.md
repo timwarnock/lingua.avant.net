@@ -161,3 +161,35 @@ In Latin sections use the full word Sanctus (not English St. or abbreviated S.).
 This convention applies specifically to the author name in the landing-page `!!! quote` blocks that appear immediately after each language's title.
 
 Update existing quotes to follow this as new language pages or quotes are added.
+
+
+
+
+---
+
+## Greek prayer text and TTS (always)
+
+Edge `el-GR-*` voices misread heavy polytonic, mid-dots (`·` / `·`), and elisions (`ἀπ'`, `δι'`). That can sound like letter-names or nonsense (e.g. wrong chunks that do not match *και το*).
+
+**Always for Greek prayer JSON:**
+
+1. **`tts.input`: `"text"`** with `el-GR-NestorasNeural` (same as other Greek prayers).
+2. **`text`**: TTS-safe **monotonic** Greek (stress accents OK), matching site style of hail-mary / our-father / nicene.
+   - Drop mid-dot / ano teleia: use comma or period.
+   - Expand elisions: `ἀπ'` / `απ'` → `από `, `δι'` → `δια `, etc.
+   - Prefer forms Edge reads as words, not letter-by-letter.
+3. **`phonetic`**: Latin-script learner guide with **modern Greek** pronunciation of the Koine text (display only; not sent to TTS).
+4. After generating audio, **always run** the letter-spelling detector:
+
+```bash
+uv run --with edge-tts python audio-utils/generate-rosary-audio.py ora/docs/greek/.../prayer.json
+uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py ora/docs/greek/.../prayer.json
+# or whole language:
+uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all
+```
+
+5. **FLAG** = fix `text` and regenerate. **WARN** on very short segments is often hold/silence padding; check by ear.
+6. Septuagint/Vulgate numbering note (Psalm 51 = 50): only on Latin / French / Greek psalm-51 pages, as `warning` with title tooltip and English italics after a blank line.
+
+Do not paste raw polytonic Septuagint into `text` without the TTS cleanup above.
+

@@ -18,7 +18,8 @@ const PRAYERS = [
   { id: 'hail-holy-queen', label: 'Hail Holy Queen' },
   { separator: true },
   { id: 'jesus-prayer', label: 'Jesus Prayer', subdir: 'extras' },
-  { id: 'nicene', label: 'Nicene Creed', subdir: 'extras' }
+  { id: 'nicene', label: 'Nicene Creed', subdir: 'extras' },
+  { id: 'psalm-51', label: 'Psalm 51', subdir: 'extras' }
 ];
 
 const LANGS = [

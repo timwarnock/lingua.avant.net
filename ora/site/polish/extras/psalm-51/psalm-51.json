@@ -1,0 +1,777 @@
+{
+  "id": "psalm-51",
+  "lang": "polish",
+  "title": "Psalm 51",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Kierownikowi chóru.",
+          "phonetic": "Kierownikowi chóru.",
+          "timing": {
+            "full": [
+              0.0,
+              1.208
+            ],
+            "passage": [
+              0.0,
+              1.208
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Psalm. Dawida,",
+          "phonetic": "Psalm. Dawida,",
+          "timing": {
+            "full": [
+              1.208,
+              4.012
+            ],
+            "passage": [
+              1.208,
+              4.012
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "gdy przybył do niego prorok Natan",
+          "phonetic": "gdy przybył do niego prorok Natan",
+          "timing": {
+            "full": [
+              4.012,
+              5.802
+            ],
+            "passage": [
+              0.0,
+              1.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "po jego grzechu z Batszebą.",
+          "phonetic": "po jego grzechu z Batszebą.",
+          "timing": {
+            "full": [
+              5.802,
+              7.197
+            ],
+            "passage": [
+              1.905,
+              3.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Zmiłuj się nade mną, Boże, w swojej łaskawości,",
+          "phonetic": "Zmiłuj się nade mną, Boże, w swojej łaskawości,",
+          "timing": {
+            "full": [
+              7.197,
+              11.197
+            ],
+            "passage": [
+              0.0,
+              3.076
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "w ogromie swego miłosierdzia wymaż moją nieprawość!",
+          "phonetic": "w ogromie swego miłosierdzia wymaż moją nieprawość!",
+          "timing": {
+            "full": [
+              11.197,
+              14.131
+            ],
+            "passage": [
+              3.076,
+              6.01
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Obmyj mnie zupełnie z mojej winy",
+          "phonetic": "Obmyj mnie zupełnie z mojej winy",
+          "timing": {
+            "full": [
+              14.131,
+              16.92
+            ],
+            "passage": [
+              0.0,
+              1.891
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "i oczyść mnie z grzechu mojego!",
+          "phonetic": "i oczyść mnie z grzechu mojego!",
+          "timing": {
+            "full": [
+              16.92,
+              18.697
+            ],
+            "passage": [
+              1.891,
+              3.668
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Uznaję bowiem moją nieprawość,",
+          "phonetic": "Uznaję bowiem moją nieprawość,",
+          "timing": {
+            "full": [
+              18.697,
+              21.382
+            ],
+            "passage": [
+              0.0,
+              1.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "a grzech mój jest zawsze przede mną.",
+          "phonetic": "a grzech mój jest zawsze przede mną.",
+          "timing": {
+            "full": [
+              21.382,
+              23.539
+            ],
+            "passage": [
+              1.839,
+              3.997
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Tylko przeciw Tobie zgrzeszyłem",
+          "phonetic": "Tylko przeciw Tobie zgrzeszyłem",
+          "timing": {
+            "full": [
+              23.539,
+              26.118
+            ],
+            "passage": [
+              0.0,
+              1.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "i uczyniłem, co złe jest przed Tobą,",
+          "phonetic": "i uczyniłem, co złe jest przed Tobą,",
+          "timing": {
+            "full": [
+              26.118,
+              28.237
+            ],
+            "passage": [
+              1.655,
+              3.774
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "tak że się okazujesz sprawiedliwym w swym wyroku",
+          "phonetic": "tak że się okazujesz sprawiedliwym w swym wyroku",
+          "timing": {
+            "full": [
+              28.237,
+              31.171
+            ],
+            "passage": [
+              3.774,
+              6.708
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "i prawym w swoim osądzie.",
+          "phonetic": "i prawym w swoim osądzie.",
+          "timing": {
+            "full": [
+              31.171,
+              32.75
+            ],
+            "passage": [
+              6.708,
+              8.287
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Oto zrodzony jestem w przewinieniu",
+          "phonetic": "Oto zrodzony jestem w przewinieniu",
+          "timing": {
+            "full": [
+              32.75,
+              35.566
+            ],
+            "passage": [
+              0.0,
+              1.932
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "i w grzechu poczęła mnie matka.",
+          "phonetic": "i w grzechu poczęła mnie matka.",
+          "timing": {
+            "full": [
+              35.566,
+              37.224
+            ],
+            "passage": [
+              1.932,
+              3.589
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Oto Ty masz upodobanie w ukrytej prawdzie,",
+          "phonetic": "Oto Ty masz upodobanie w ukrytej prawdzie,",
+          "timing": {
+            "full": [
+              37.224,
+              40.408
+            ],
+            "passage": [
+              0.0,
+              2.247
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "naucz mnie tajników mądrości.",
+          "phonetic": "naucz mnie tajników mądrości.",
+          "timing": {
+            "full": [
+              40.408,
+              42.316
+            ],
+            "passage": [
+              2.247,
+              4.155
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Pokrop mnie hizopem, a stanę się czysty,",
+          "phonetic": "Pokrop mnie hizopem, a stanę się czysty,",
+          "timing": {
+            "full": [
+              42.316,
+              45.737
+            ],
+            "passage": [
+              0.0,
+              2.511
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "obmyj mnie, a nad śnieg wybieleję.",
+          "phonetic": "obmyj mnie, a nad śnieg wybieleję.",
+          "timing": {
+            "full": [
+              45.737,
+              48.092
+            ],
+            "passage": [
+              2.511,
+              4.866
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Spraw, bym usłyszał radość i wesele:",
+          "phonetic": "Spraw, bym usłyszał radość i wesele:",
+          "timing": {
+            "full": [
+              48.092,
+              51.407
+            ],
+            "passage": [
+              0.0,
+              2.405
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "niech się radują kości, któreś skruszył!",
+          "phonetic": "niech się radują kości, któreś skruszył!",
+          "timing": {
+            "full": [
+              51.407,
+              53.986
+            ],
+            "passage": [
+              2.405,
+              4.984
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Odwróć oblicze swe od moich grzechów",
+          "phonetic": "Odwróć oblicze swe od moich grzechów",
+          "timing": {
+            "full": [
+              53.986,
+              57.012
+            ],
+            "passage": [
+              0.0,
+              2.22
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "i wymaż wszystkie moje przewinienia!",
+          "phonetic": "i wymaż wszystkie moje przewinienia!",
+          "timing": {
+            "full": [
+              57.012,
+              58.881
+            ],
+            "passage": [
+              2.22,
+              4.089
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Stwórz, o Boże, we mnie serce czyste",
+          "phonetic": "Stwórz, o Boże, we mnie serce czyste",
+          "timing": {
+            "full": [
+              58.881,
+              63.315
+            ],
+            "passage": [
+              0.0,
+              3.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "i odnów w mojej piersi ducha niezwyciężonego!",
+          "phonetic": "i odnów w mojej piersi ducha niezwyciężonego!",
+          "timing": {
+            "full": [
+              63.315,
+              66.105
+            ],
+            "passage": [
+              3.497,
+              6.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Nie odrzucaj mnie od swego oblicza",
+          "phonetic": "Nie odrzucaj mnie od swego oblicza",
+          "timing": {
+            "full": [
+              66.105,
+              68.934
+            ],
+            "passage": [
+              0.0,
+              1.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "i nie odbieraj mi świętego ducha swego!",
+          "phonetic": "i nie odbieraj mi świętego ducha swego!",
+          "timing": {
+            "full": [
+              68.934,
+              71.144
+            ],
+            "passage": [
+              1.997,
+              4.207
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Przywróć mi radość z Twojego zbawienia",
+          "phonetic": "Przywróć mi radość z Twojego zbawienia",
+          "timing": {
+            "full": [
+              71.144,
+              74.132
+            ],
+            "passage": [
+              0.0,
+              2.155
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "i wzmocnij mnie duchem ochoczym!",
+          "phonetic": "i wzmocnij mnie duchem ochoczym!",
+          "timing": {
+            "full": [
+              74.132,
+              76.079
+            ],
+            "passage": [
+              2.155,
+              4.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Chcę nieprawych nauczyć dróg Twoich",
+          "phonetic": "Chcę nieprawych nauczyć dróg Twoich",
+          "timing": {
+            "full": [
+              76.079,
+              78.855
+            ],
+            "passage": [
+              0.0,
+              1.984
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "i nawrócą się do Ciebie grzesznicy.",
+          "phonetic": "i nawrócą się do Ciebie grzesznicy.",
+          "timing": {
+            "full": [
+              78.855,
+              80.724
+            ],
+            "passage": [
+              1.984,
+              3.853
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Od krwi uwolnij mnie, Boże, mój Zbawco:",
+          "phonetic": "Od krwi uwolnij mnie, Boże, mój Zbawco:",
+          "timing": {
+            "full": [
+              80.724,
+              84.237
+            ],
+            "passage": [
+              0.0,
+              2.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "niech mój język sławi Twoją sprawiedliwość!",
+          "phonetic": "niech mój język sławi Twoją sprawiedliwość!",
+          "timing": {
+            "full": [
+              84.237,
+              87.04
+            ],
+            "passage": [
+              2.629,
+              5.432
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Otwórz moje wargi, Panie,",
+          "phonetic": "Otwórz moje wargi, Panie,",
+          "timing": {
+            "full": [
+              87.04,
+              89.553
+            ],
+            "passage": [
+              0.0,
+              1.616
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "a usta moje będą głosić Twoją chwałę.",
+          "phonetic": "a usta moje będą głosić Twoją chwałę.",
+          "timing": {
+            "full": [
+              89.553,
+              92.026
+            ],
+            "passage": [
+              1.616,
+              4.089
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Ty się bowiem nie radujesz ofiarą",
+          "phonetic": "Ty się bowiem nie radujesz ofiarą",
+          "timing": {
+            "full": [
+              92.026,
+              94.618
+            ],
+            "passage": [
+              0.0,
+              1.682
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "i nie chcesz całopaleń, choćbym je dawał.",
+          "phonetic": "i nie chcesz całopaleń, choćbym je dawał.",
+          "timing": {
+            "full": [
+              94.618,
+              97.092
+            ],
+            "passage": [
+              1.682,
+              4.155
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Moją ofiarą, Boże, duch skruszony,",
+          "phonetic": "Moją ofiarą, Boże, duch skruszony,",
+          "timing": {
+            "full": [
+              97.092,
+              100.276
+            ],
+            "passage": [
+              0.0,
+              2.352
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "nie gardzisz, Boże, sercem pokornym i skruszonym.",
+          "phonetic": "nie gardzisz, Boże, sercem pokornym i skruszonym.",
+          "timing": {
+            "full": [
+              100.276,
+              103.631
+            ],
+            "passage": [
+              2.352,
+              5.707
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Panie, okaż Syjonowi łaskę w Twej dobroci:",
+          "phonetic": "Panie, okaż Syjonowi łaskę w Twej dobroci:",
+          "timing": {
+            "full": [
+              103.631,
+              106.987
+            ],
+            "passage": [
+              0.0,
+              2.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "odbuduj mury Jeruzalem!",
+          "phonetic": "odbuduj mury Jeruzalem!",
+          "timing": {
+            "full": [
+              106.987,
+              108.658
+            ],
+            "passage": [
+              2.55,
+              4.221
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Wtedy będą Ci się podobać prawe ofiary, dary i całopalenia,",
+          "phonetic": "Wtedy będą Ci się podobać prawe ofiary, dary i całopalenia,",
+          "timing": {
+            "full": [
+              108.658,
+              113.079
+            ],
+            "passage": [
+              0.0,
+              3.616
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "wtedy będą składać cielce na Twoim ołtarzu.",
+          "phonetic": "wtedy będą składać cielce na Twoim ołtarzu.",
+          "timing": {
+            "full": [
+              113.079,
+              115.974
+            ],
+            "passage": [
+              3.616,
+              6.511
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

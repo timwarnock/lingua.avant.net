@@ -96,15 +96,25 @@ See `generate-rosary-audio.py` for exact behavior.
 
 Last updated: 2026-06-28
 
-## Detect Greek letter-spelling (TTS)
+## Greek TTS (required workflow)
 
-Edge Greek voices sometimes read **letter names** (δέλτα, γιώτα, …) instead of words.
-Scan prayer MP3s (or re-TTS) with:
+Edge Greek voices (`el-GR-NestorasNeural`) need **TTS-safe** `text`:
+
+- Use **monotonic** Greek (modern stress accents OK); avoid dense polytonic paste-ins.
+- Drop mid-dot / ano teleia (`·` / `·`); use comma or period.
+- Expand elisions (`δι'` → `δια`, `ἀπ'` → `από`, …).
+- Keep `tts.input` = `"text"`. Put learner Latin-script help only in `"phonetic"`.
+
+After every Greek audio generate, scan for letter-spelling (voices reading δέλτα, γιώτα, … instead of words):
 
 ```bash
+uv run --with edge-tts python audio-utils/generate-rosary-audio.py ora/docs/greek/.../prayer.json
+uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py ora/docs/greek/.../prayer.json
 uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all
 uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all --fresh-tts
 ```
 
-FLAG = likely letter-spelling (high seconds-per-letter and seconds-per-syllable).
-Fix by simplifying `text` (expand elisions like `δι'` → `δια`, drop mid-dot `·`, use monotonic Greek), then regenerate audio.
+- **FLAG** = likely letter-spelling (high seconds-per-letter and seconds-per-syllable). Fix `text`, regenerate, re-scan.
+- **WARN** = slow / suspicious; check short segments by ear (Amen holds and padding can warn without letter-spelling).
+
+See also `notes-agents.md` section **Greek prayer text and TTS**.

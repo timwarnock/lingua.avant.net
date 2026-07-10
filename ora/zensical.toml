@@ -56,7 +56,8 @@ nav = [
       "english/hail-holy-queen.md",
       { "[ Extras ]" = [
           "english/extras/jesus-prayer.md",
-          "english/extras/nicene.md"
+          "english/extras/nicene.md",
+          "english/extras/psalm-51.md"
         ] },
       { "[ Resources ]" = [
           "english/resources/pronunciation.md",
@@ -78,7 +79,8 @@ nav = [
       "spanish/hail-holy-queen.md",
       { "[ Adicionales ]" = [
           "spanish/extras/jesus-prayer.md",
-          "spanish/extras/nicene.md"
+          "spanish/extras/nicene.md",
+          "spanish/extras/psalm-51.md"
         ] },
       { "[ Recursos ]" = [
           "spanish/resources/pronunciation.md",
@@ -97,7 +99,8 @@ nav = [
       "french/hail-holy-queen.md",
       { "[ Suppléments ]" = [
           "french/extras/jesus-prayer.md",
-          "french/extras/nicene.md"
+          "french/extras/nicene.md",
+          "french/extras/psalm-51.md"
         ] },
       { "[ Ressources ]" = [
           "french/resources/pronunciation.md"
@@ -114,7 +117,8 @@ nav = [
       "latin/hail-holy-queen.md",
       { "[ Additamenta ]" = [
           "latin/extras/jesus-prayer.md",
-          "latin/extras/nicene.md"
+          "latin/extras/nicene.md",
+          "latin/extras/psalm-51.md"
         ] },
       { "[ Opes ]" = [
           "latin/resources/pronunciation.md"
@@ -131,7 +135,8 @@ nav = [
       "polish/hail-holy-queen.md",
       { "[ Dodatki ]" = [
           "polish/extras/jesus-prayer.md",
-          "polish/extras/nicene.md"
+          "polish/extras/nicene.md",
+          "polish/extras/psalm-51.md"
         ] },
       { "[ Zasoby ]" = [
           "polish/resources/pronunciation.md"
@@ -148,7 +153,8 @@ nav = [
       "portuguese/hail-holy-queen.md",
       { "[ Adicionais ]" = [
           "portuguese/extras/jesus-prayer.md",
-          "portuguese/extras/nicene.md"
+          "portuguese/extras/nicene.md",
+          "portuguese/extras/psalm-51.md"
         ] },
       { "[ Recursos ]" = [
           "portuguese/resources/pronunciation.md"
@@ -165,7 +171,8 @@ nav = [
       "vietnamese/hail-holy-queen.md",
       { "[ Bổ sung ]" = [
           "vietnamese/extras/jesus-prayer.md",
-          "vietnamese/extras/nicene.md"
+          "vietnamese/extras/nicene.md",
+          "vietnamese/extras/psalm-51.md"
         ] },
       { "[ Tài nguyên ]" = [
           "vietnamese/resources/pronunciation.md",
@@ -183,7 +190,8 @@ nav = [
       "greek/hail-holy-queen.md",
       { "[ Πρόσθετα ]" = [
           "greek/extras/jesus-prayer.md",
-          "greek/extras/nicene.md"
+          "greek/extras/nicene.md",
+          "greek/extras/psalm-51.md"
         ] },
       { "[ Πόροι ]" = [
           "greek/resources/pronunciation.md"
@@ -200,7 +208,8 @@ nav = [
       "chinese/hail-holy-queen.md",
       { "[ 額外 ]" = [
           "chinese/extras/jesus-prayer.md",
-          "chinese/extras/nicene.md"
+          "chinese/extras/nicene.md",
+          "chinese/extras/psalm-51.md"
         ] },
       { "[ 資源 ]" = [
           "chinese/resources/pronunciation.md",
@@ -218,7 +227,8 @@ nav = [
       "japanese/hail-holy-queen.md",
       { "[ 追加 ]" = [
           "japanese/extras/jesus-prayer.md",
-          "japanese/extras/nicene.md"
+          "japanese/extras/nicene.md",
+          "japanese/extras/psalm-51.md"
         ] },
       { "[ 資料 ]" = [
           "japanese/resources/pronunciation.md"

@@ -1,0 +1,897 @@
+{
+  "id": "psalm-51",
+  "lang": "latin",
+  "title": "Psalmus 51",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "In finem.",
+          "phonetic": "In finem.",
+          "timing": {
+            "full": [
+              0.0,
+              1.094
+            ],
+            "passage": [
+              0.0,
+              1.094
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Psalmus David,",
+          "phonetic": "Psalmus David,",
+          "timing": {
+            "full": [
+              1.094,
+              3.265
+            ],
+            "passage": [
+              1.094,
+              3.456
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "cum venit ad eum Nathan propheta,",
+          "phonetic": "cum venit ad eum Nathan propheta,",
+          "timing": {
+            "full": [
+              3.265,
+              5.779
+            ],
+            "passage": [
+              0.0,
+              2.373
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "quando intravit ad Bethsabee.",
+          "phonetic": "quando intravit ad Bethsabee.",
+          "timing": {
+            "full": [
+              5.779,
+              8.044
+            ],
+            "passage": [
+              2.373,
+              4.638
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Miserere mei, Deus,",
+          "phonetic": "Miserere mei, Deus,",
+          "timing": {
+            "full": [
+              8.044,
+              11.029
+            ],
+            "passage": [
+              0.0,
+              2.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "secundum magnam misericordiam tuam;",
+          "phonetic": "secundum magnam misericordiam tuam;",
+          "timing": {
+            "full": [
+              11.029,
+              13.868
+            ],
+            "passage": [
+              2.05,
+              4.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "et secundum multitudinem miserationum tuarum,",
+          "phonetic": "et secundum multitudinem miserationum tuarum,",
+          "timing": {
+            "full": [
+              13.868,
+              17.177
+            ],
+            "passage": [
+              4.888,
+              8.197
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "dele iniquitatem meam.",
+          "phonetic": "dele iniquitatem meam.",
+          "timing": {
+            "full": [
+              17.177,
+              19.221
+            ],
+            "passage": [
+              8.197,
+              10.25
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Amplius lava me ab iniquitate mea,",
+          "phonetic": "Amplius lava me ab iniquitate mea,",
+          "timing": {
+            "full": [
+              19.221,
+              22.632
+            ],
+            "passage": [
+              0.0,
+              2.476
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "et a peccato meo munda me.",
+          "phonetic": "et a peccato meo munda me.",
+          "timing": {
+            "full": [
+              22.632,
+              24.765
+            ],
+            "passage": [
+              2.476,
+              4.609
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Quoniam iniquitatem meam ego cognosco,",
+          "phonetic": "Quoniam iniquitatem meam ego cognosco,",
+          "timing": {
+            "full": [
+              24.765,
+              28.368
+            ],
+            "passage": [
+              0.0,
+              2.682
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "et peccatum meum contra me est semper.",
+          "phonetic": "et peccatum meum contra me est semper.",
+          "timing": {
+            "full": [
+              28.368,
+              31.471
+            ],
+            "passage": [
+              2.682,
+              5.785
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Tibi soli peccavi,",
+          "phonetic": "Tibi soli peccavi,",
+          "timing": {
+            "full": [
+              31.471,
+              33.838
+            ],
+            "passage": [
+              0.0,
+              1.447
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "et malum coram te feci;",
+          "phonetic": "et malum coram te feci;",
+          "timing": {
+            "full": [
+              33.838,
+              35.706
+            ],
+            "passage": [
+              1.447,
+              3.315
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "ut justificeris in sermonibus tuis,",
+          "phonetic": "ut iustificeris in sermonibus tuis,",
+          "timing": {
+            "full": [
+              35.706,
+              38.676
+            ],
+            "passage": [
+              3.315,
+              6.285
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "et vincas cum judicaris.",
+          "phonetic": "et vincas cum iudicaris.",
+          "timing": {
+            "full": [
+              38.676,
+              41.118
+            ],
+            "passage": [
+              6.285,
+              8.726
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Ecce enim in iniquitatibus conceptus sum,",
+          "phonetic": "Ecce enim in iniquitatibus conceptus sum,",
+          "timing": {
+            "full": [
+              41.118,
+              45.221
+            ],
+            "passage": [
+              0.0,
+              3.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "et in peccatis concepit me mater mea.",
+          "phonetic": "et in peccatis concepit me mater mea.",
+          "timing": {
+            "full": [
+              45.221,
+              48.25
+            ],
+            "passage": [
+              3.182,
+              6.212
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Ecce enim veritatem dilexisti;",
+          "phonetic": "Ecce enim veritatem dilexisti;",
+          "timing": {
+            "full": [
+              48.25,
+              51.618
+            ],
+            "passage": [
+              0.0,
+              2.447
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "incerta et occulta sapientiae tuae",
+          "phonetic": "incerta et occulta sapientiae tuae",
+          "timing": {
+            "full": [
+              51.618,
+              54.221
+            ],
+            "passage": [
+              2.447,
+              5.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "manifestasti mihi.",
+          "phonetic": "manifestasti mihi.",
+          "timing": {
+            "full": [
+              54.221,
+              55.559
+            ],
+            "passage": [
+              5.05,
+              6.388
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Asperges me hyssopo, et mundabor;",
+          "phonetic": "Asperges me issopo, et mundabor;",
+          "timing": {
+            "full": [
+              55.559,
+              59.412
+            ],
+            "passage": [
+              0.0,
+              2.932
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "lavabis me, et super nivem dealbabor.",
+          "phonetic": "lavabis me, et super nivem dealbabor.",
+          "timing": {
+            "full": [
+              59.412,
+              62.838
+            ],
+            "passage": [
+              2.932,
+              6.359
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Auditui meo dabis gaudium et laetitiam,",
+          "phonetic": "Auditui meo dabis gaudium et letitiam,",
+          "timing": {
+            "full": [
+              62.838,
+              66.748
+            ],
+            "passage": [
+              0.0,
+              2.989
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "et exsultabunt ossa humiliata.",
+          "phonetic": "et esultabunt ossa umiliata.",
+          "timing": {
+            "full": [
+              66.748,
+              69.101
+            ],
+            "passage": [
+              2.989,
+              5.342
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Averte faciem tuam a peccatis meis,",
+          "phonetic": "Averte faciem tuam a peccatis meis,",
+          "timing": {
+            "full": [
+              69.101,
+              72.779
+            ],
+            "passage": [
+              0.0,
+              2.756
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "et omnes iniquitates meas dele.",
+          "phonetic": "et omnes iniquitates meas dele.",
+          "timing": {
+            "full": [
+              72.779,
+              75.441
+            ],
+            "passage": [
+              2.756,
+              5.418
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Cor mundum crea in me, Deus,",
+          "phonetic": "Cor mundum crea in me, Deus,",
+          "timing": {
+            "full": [
+              75.441,
+              78.75
+            ],
+            "passage": [
+              0.0,
+              2.388
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "et spiritum rectum innova in visceribus meis.",
+          "phonetic": "et spiritum rectum innova in visceribus meis.",
+          "timing": {
+            "full": [
+              78.75,
+              82.426
+            ],
+            "passage": [
+              2.388,
+              6.065
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Ne projicias me a facie tua,",
+          "phonetic": "Ne proiicias me a facie tua,",
+          "timing": {
+            "full": [
+              82.426,
+              85.5
+            ],
+            "passage": [
+              0.0,
+              2.153
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "et spiritum sanctum tuum ne auferas a me.",
+          "phonetic": "et spiritum sanctum tuum ne auferas a me.",
+          "timing": {
+            "full": [
+              85.5,
+              89.015
+            ],
+            "passage": [
+              2.153,
+              5.668
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Redde mihi laetitiam salutaris tui,",
+          "phonetic": "Redde mihi letitiam salutaris tui,",
+          "timing": {
+            "full": [
+              89.015,
+              92.515
+            ],
+            "passage": [
+              0.0,
+              2.579
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "et spiritu principali confirma me.",
+          "phonetic": "et spiritu principali confirma me.",
+          "timing": {
+            "full": [
+              92.515,
+              95.309
+            ],
+            "passage": [
+              2.579,
+              5.374
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Docebo iniquos vias tuas,",
+          "phonetic": "Docebo iniquos vias tuas,",
+          "timing": {
+            "full": [
+              95.309,
+              98.353
+            ],
+            "passage": [
+              0.0,
+              2.124
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "et impii ad te convertentur.",
+          "phonetic": "et impii ad te convertentur.",
+          "timing": {
+            "full": [
+              98.353,
+              100.779
+            ],
+            "passage": [
+              2.124,
+              4.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Libera me de sanguinibus, Deus,",
+          "phonetic": "Libera me de sanguinibus, Deus,",
+          "timing": {
+            "full": [
+              100.779,
+              104.485
+            ],
+            "passage": [
+              0.0,
+              2.785
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "Deus salutis meae,",
+          "phonetic": "Deus salutis meae,",
+          "timing": {
+            "full": [
+              104.485,
+              106.397
+            ],
+            "passage": [
+              2.785,
+              4.697
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "et exsultabit lingua mea justitiam tuam.",
+          "phonetic": "et esultabit lingua mea iustitiam tuam.",
+          "timing": {
+            "full": [
+              106.397,
+              109.809
+            ],
+            "passage": [
+              4.697,
+              8.109
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Domine, labia mea aperies,",
+          "phonetic": "Domine, labia mea aperies,",
+          "timing": {
+            "full": [
+              109.809,
+              112.912
+            ],
+            "passage": [
+              0.0,
+              2.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "et os meum annuntiabit laudem tuam.",
+          "phonetic": "et os meum annuntiabit laudem tuam.",
+          "timing": {
+            "full": [
+              112.912,
+              116.279
+            ],
+            "passage": [
+              2.182,
+              5.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Quoniam si voluisses sacrificium,",
+          "phonetic": "Quoniam si voluisses sacrificium,",
+          "timing": {
+            "full": [
+              116.279,
+              119.765
+            ],
+            "passage": [
+              0.0,
+              2.565
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "dedissem utique;",
+          "phonetic": "dedissem utique;",
+          "timing": {
+            "full": [
+              119.765,
+              121.265
+            ],
+            "passage": [
+              2.565,
+              4.065
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "holocaustis non delectaberis.",
+          "phonetic": "holocaustis non delectaberis.",
+          "timing": {
+            "full": [
+              121.265,
+              123.779
+            ],
+            "passage": [
+              4.065,
+              6.579
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Sacrificium Deo spiritus contribulatus;",
+          "phonetic": "Sacrificium Deo spiritus contribulatus;",
+          "timing": {
+            "full": [
+              123.779,
+              127.838
+            ],
+            "passage": [
+              0.0,
+              3.138
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "cor contritum et humiliatum, Deus,",
+          "phonetic": "cor contritum et umiliatum, Deus,",
+          "timing": {
+            "full": [
+              127.838,
+              130.824
+            ],
+            "passage": [
+              3.138,
+              6.124
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "non despicies.",
+          "phonetic": "non despicies.",
+          "timing": {
+            "full": [
+              130.824,
+              132.353
+            ],
+            "passage": [
+              6.124,
+              7.653
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Benigne fac, Domine,",
+          "phonetic": "Benigne fac, Domine,",
+          "timing": {
+            "full": [
+              132.353,
+              135.221
+            ],
+            "passage": [
+              0.0,
+              1.947
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "in bona voluntate tua Sion,",
+          "phonetic": "in bona voluntate tua Sion,",
+          "timing": {
+            "full": [
+              135.221,
+              137.382
+            ],
+            "passage": [
+              1.947,
+              4.109
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
+          "text": "ut aedificentur muri Jerusalem.",
+          "phonetic": "ut edificentur muri Yerusalem.",
+          "timing": {
+            "full": [
+              137.382,
+              139.985
+            ],
+            "passage": [
+              4.109,
+              6.712
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Tunc acceptabis sacrificium justitiae,",
+          "phonetic": "Tunc acceptabis sacrificium iustitiae,",
+          "timing": {
+            "full": [
+              139.985,
+              143.868
+            ],
+            "passage": [
+              0.0,
+              2.947
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "oblationes et holocausta;",
+          "phonetic": "oblationes et olocausta;",
+          "timing": {
+            "full": [
+              143.868,
+              145.794
+            ],
+            "passage": [
+              2.947,
+              4.874
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "tunc imponent super altare tuum vitulos.",
+          "phonetic": "tunc imponent super altare tuum vitulos.",
+          "timing": {
+            "full": [
+              145.794,
+              149.088
+            ],
+            "passage": [
+              4.874,
+              8.168
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "id": "psalm-51",
+  "lang": "greek",
+  "title": "Ψαλμός 51",
+  "tts": {
+    "voice": "el-GR-NestorasNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Εις το τέλος,",
+          "phonetic": "Is to télos,",
+          "timing": {
+            "full": [
+              0.0,
+              0.916
+            ],
+            "passage": [
+              0.0,
+              1.021
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "ψαλμός τω Δαυίδ,",
+          "phonetic": "psalmós to Davíd,",
+          "timing": {
+            "full": [
+              0.916,
+              2.074
+            ],
+            "passage": [
+              1.021,
+              2.311
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "εν τω ελθείν προς αυτόν Νάθαν τον προφήτην,",
+          "phonetic": "en to elthín pros aftón Náthan ton profítin,",
+          "timing": {
+            "full": [
+              2.074,
+              4.271
+            ],
+            "passage": [
+              0.0,
+              2.232
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "ηνίκα εισήλθε προς Βηρσαβεέ.",
+          "phonetic": "iníka isílthe pros Virsaveé.",
+          "timing": {
+            "full": [
+              4.271,
+              6.1
+            ],
+            "passage": [
+              2.232,
+              4.113
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Ελέησόν με, ο Θεός,",
+          "phonetic": "Eléison me, o Theós,",
+          "timing": {
+            "full": [
+              6.1,
+              8.958
+            ],
+            "passage": [
+              0.0,
+              2.061
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "κατά το μέγα έλεός σου",
+          "phonetic": "katá to méga éleós sou",
+          "timing": {
+            "full": [
+              8.958,
+              10.142
+            ],
+            "passage": [
+              2.061,
+              3.245
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "και κατά το πλήθος των οικτιρμών σου",
+          "phonetic": "ke katá to plíthos ton iktirmón sou",
+          "timing": {
+            "full": [
+              10.142,
+              11.458
+            ],
+            "passage": [
+              3.245,
+              4.561
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "εξάλειψον το ανόμημά μου.",
+          "phonetic": "exálipson to anómimá mou.",
+          "timing": {
+            "full": [
+              11.458,
+              12.839
+            ],
+            "passage": [
+              4.561,
+              5.942
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "επί πλείον πλύνόν με από της ανομίας μου",
+          "phonetic": "epí plíon plínón me apó tis anomías mou",
+          "timing": {
+            "full": [
+              12.839,
+              15.721
+            ],
+            "passage": [
+              0.0,
+              2.139
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "και από της αμαρτίας μου καθάρισόν με.",
+          "phonetic": "ke apó tis amartías mou kathárison me.",
+          "timing": {
+            "full": [
+              15.721,
+              17.642
+            ],
+            "passage": [
+              2.139,
+              4.034
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "ότι την ανομίαν μου εγώ γινώσκω,",
+          "phonetic": "óti tin anomían mou egó ginósko,",
+          "timing": {
+            "full": [
+              17.642,
+              20.366
+            ],
+            "passage": [
+              0.0,
+              1.916
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "και η αμαρτία μου ενώπιόν μου εστι διαπαντός.",
+          "phonetic": "ke i amartía mou enópion mou esti diapantós.",
+          "timing": {
+            "full": [
+              20.366,
+              22.721
+            ],
+            "passage": [
+              1.916,
+              4.271
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "σοί μόνω ήμαρτον",
+          "phonetic": "sí móno ímarton",
+          "timing": {
+            "full": [
+              22.721,
+              24.616
+            ],
+            "passage": [
+              0.0,
+              1.126
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "και το πονηρόν ενώπιόν σου εποίησα,",
+          "phonetic": "ke to ponirón enópion sou epoíisa,",
+          "timing": {
+            "full": [
+              24.616,
+              26.445
+            ],
+            "passage": [
+              1.126,
+              2.968
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "όπως αν δικαιωθής εν τοις λόγοις σου,",
+          "phonetic": "ópos an dikeothís en tis lóyis sou,",
+          "timing": {
+            "full": [
+              26.445,
+              28.221
+            ],
+            "passage": [
+              2.968,
+              4.745
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "και νικήσης εν τω κρίνεσθαί σε.",
+          "phonetic": "ke nikísis en to krínesthé se.",
+          "timing": {
+            "full": [
+              28.221,
+              29.905
+            ],
+            "passage": [
+              4.745,
+              6.429
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "ιδού γαρ εν ανομίαις συνελήφθην,",
+          "phonetic": "idóu gar en anomíes sinelífthin,",
+          "timing": {
+            "full": [
+              29.905,
+              32.655
+            ],
+            "passage": [
+              0.0,
+              1.968
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "και εν αμαρτίαις εκίσσησέ με η μήτηρ μου.",
+          "phonetic": "ke en amartíes ekísisé me i mítir mou.",
+          "timing": {
+            "full": [
+              32.655,
+              34.721
+            ],
+            "passage": [
+              1.968,
+              4.034
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "ιδού γαρ αλήθειαν ηγάπησας,",
+          "phonetic": "idóu gar alíthian igápisas,",
+          "timing": {
+            "full": [
+              34.721,
+              37.287
+            ],
+            "passage": [
+              0.0,
+              1.784
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "τα άδηλα και τα κρύφια της σοφίας σου",
+          "phonetic": "ta ádila ke ta krífia tis sofías sou",
+          "timing": {
+            "full": [
+              37.287,
+              38.971
+            ],
+            "passage": [
+              1.784,
+              3.468
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "εδήλωσάς μοι.",
+          "phonetic": "edílosás mi.",
+          "timing": {
+            "full": [
+              38.971,
+              39.813
+            ],
+            "passage": [
+              3.468,
+              4.311
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "ραντιείς με υσσώπω, και καθαρισθήσομαι,",
+          "phonetic": "randiís me isópo, ke katharisthísome,",
+          "timing": {
+            "full": [
+              39.813,
+              43.208
+            ],
+            "passage": [
+              0.0,
+              2.626
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "πλυνείς με, και υπέρ χιόνα λευκανθήσομαι.",
+          "phonetic": "plinís me, ke ipér hióna lefkanthísome.",
+          "timing": {
+            "full": [
+              43.208,
+              45.813
+            ],
+            "passage": [
+              2.626,
+              5.271
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "ακουτιείς μοι αγαλλίασιν και ευφροσύνην,",
+          "phonetic": "akoutiís mi agalíasin ke efrosínin,",
+          "timing": {
+            "full": [
+              45.813,
+              48.8
+            ],
+            "passage": [
+              0.0,
+              2.205
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "αγαλλιάσονται οστέα τεταπεινωμένα.",
+          "phonetic": "agalíásode ostéa tetapinoména.",
+          "timing": {
+            "full": [
+              48.8,
+              50.813
+            ],
+            "passage": [
+              2.205,
+              4.218
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "απόστρεψον το πρόσωπόν σου από των αμαρτιών μου",
+          "phonetic": "apóstrepson to prósopon sou apó ton amartión mou",
+          "timing": {
+            "full": [
+              50.813,
+              54.011
+            ],
+            "passage": [
+              0.0,
+              2.416
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "και πάσας τας ανομίας μου εξάλειψον.",
+          "phonetic": "ke pásas tas anomías mou exálipson.",
+          "timing": {
+            "full": [
+              54.011,
+              55.932
+            ],
+            "passage": [
+              2.416,
+              4.337
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "καρδίαν καθαράν κτίσον εν εμοί, ο Θεός,",
+          "phonetic": "kardían katharán ktíson en emí, o Theós,",
+          "timing": {
+            "full": [
+              55.932,
+              59.563
+            ],
+            "passage": [
+              0.0,
+              2.85
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "και πνεύμα ευθές εγκαίνισον εν τοις εγκάτοις μου.",
+          "phonetic": "ke pnévma efthés engénison en tis engátis mou.",
+          "timing": {
+            "full": [
+              59.563,
+              61.997
+            ],
+            "passage": [
+              2.85,
+              5.271
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "μη απορρίψης με από του προσώπου σου",
+          "phonetic": "mi aporípsis me apó tou prosópou sou",
+          "timing": {
+            "full": [
+              61.997,
+              64.511
+            ],
+            "passage": [
+              0.0,
+              1.732
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "και το πνεύμά σου το άγιον μη αντανέλης από εμού.",
+          "phonetic": "ke to pnévma sou to áyion mi antanélis apó emoú.",
+          "timing": {
+            "full": [
+              64.511,
+              66.918
+            ],
+            "passage": [
+              1.732,
+              4.139
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "απόδος μοι την αγαλλίασιν του σωτηρίου σου",
+          "phonetic": "apódos mi tin agalíasin tou sotiríou sou",
+          "timing": {
+            "full": [
+              66.918,
+              69.787
+            ],
+            "passage": [
+              0.0,
+              2.074
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "και πνεύματι ηγεμονικώ στήριξόν με.",
+          "phonetic": "ke pnévmati iyemonikó stírixón me.",
+          "timing": {
+            "full": [
+              69.787,
+              71.813
+            ],
+            "passage": [
+              2.074,
+              4.087
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "διδάξω ανόμους τας οδούς σου,",
+          "phonetic": "didáxo anómous tas odoús sou,",
+          "timing": {
+            "full": [
+              71.813,
+              74.353
+            ],
+            "passage": [
+              0.0,
+              1.758
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "και ασεβείς επί σε επιστρέψουσι.",
+          "phonetic": "ke asevís epí se epistrépsousi.",
+          "timing": {
+            "full": [
+              74.353,
+              76.208
+            ],
+            "passage": [
+              1.758,
+              3.613
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "ρύσαί με εξ αιμάτων, ο Θεός",
+          "phonetic": "ríse me ex emáton, o Theós",
+          "timing": {
+            "full": [
+              76.208,
+              78.932
+            ],
+            "passage": [
+              0.0,
+              1.955
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "ο Θεός της σωτηρίας μου,",
+          "phonetic": "o Theós tis sotirías mou,",
+          "timing": {
+            "full": [
+              78.932,
+              80.076
+            ],
+            "passage": [
+              1.955,
+              3.1
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "αγαλλιάσεται η γλώσσά μου την δικαιοσύνην σου.",
+          "phonetic": "agalíásete i glósa mou tin dikeosínin sou.",
+          "timing": {
+            "full": [
+              80.076,
+              82.392
+            ],
+            "passage": [
+              3.1,
+              5.403
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Κύριε, τα χείλη μου ανοίξεις,",
+          "phonetic": "Kírie, ta chíli mou aníxis,",
+          "timing": {
+            "full": [
+              82.392,
+              85.168
+            ],
+            "passage": [
+              0.0,
+              1.995
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "και το στόμα μου αναγγελεῖ την αίνεσίν σου.",
+          "phonetic": "ke to stóma mou anangelí tin énesín sou.",
+          "timing": {
+            "full": [
+              85.168,
+              87.247
+            ],
+            "passage": [
+              1.995,
+              4.074
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "ότι ει ηθέλησας θυσίαν, έδωκα αν,",
+          "phonetic": "óti i ithélisas thisían, édoka an,",
+          "timing": {
+            "full": [
+              87.247,
+              90.576
+            ],
+            "passage": [
+              0.0,
+              2.534
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "ολοκαυτώματα ουκ ευδοκήσεις.",
+          "phonetic": "olokaftómata ouk evdokísis.",
+          "timing": {
+            "full": [
+              90.576,
+              92.392
+            ],
+            "passage": [
+              2.534,
+              4.35
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "θυσία τω Θεώ πνεύμα συντετριμμένον,",
+          "phonetic": "thisía to Theó pnévma sindetrimménon,",
+          "timing": {
+            "full": [
+              92.392,
+              95.392
+            ],
+            "passage": [
+              0.0,
+              2.218
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "καρδίαν συντετριμμένην και τεταπεινωμένην",
+          "phonetic": "kardían sindetrimménin ke tetapinoménin",
+          "timing": {
+            "full": [
+              95.392,
+              97.392
+            ],
+            "passage": [
+              2.218,
+              4.192
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "ο Θεός ουκ εξουδενώσει.",
+          "phonetic": "o Theós ouk exoudenósi.",
+          "timing": {
+            "full": [
+              97.392,
+              98.734
+            ],
+            "passage": [
+              4.192,
+              5.534
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "αγάθυνον, Κύριε, εν τη ευδοκία σου την Σιών,",
+          "phonetic": "agáthinon, Kírie, en ti evdokía sou tin Sión,",
+          "timing": {
+            "full": [
+              98.734,
+              102.708
+            ],
+            "passage": [
+              0.0,
+              3.192
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "και οικοδομηθήτω τα τείχη Ιερουσαλήμ.",
+          "phonetic": "ke ikodomithíto ta tíchi Ierousalím.",
+          "timing": {
+            "full": [
+              102.708,
+              104.8
+            ],
+            "passage": [
+              3.192,
+              5.271
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "τότε ευδοκήσεις θυσίαν δικαιοσύνης,",
+          "phonetic": "tóte evdokísis thisían dikeosínis,",
+          "timing": {
+            "full": [
+              104.8,
+              107.747
+            ],
+            "passage": [
+              0.0,
+              2.153
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "αναφοράν και ολοκαυτώματα,",
+          "phonetic": "anaforán ke olokaftómata,",
+          "timing": {
+            "full": [
+              107.747,
+              109.432
+            ],
+            "passage": [
+              2.153,
+              3.837
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "τότε ανοίσουσιν επί το θυσιαστήριόν σου μόσχους.",
+          "phonetic": "tóte anísousin epí to thisiastírion sou móschous.",
+          "timing": {
+            "full": [
+              109.432,
+              111.971
+            ],
+            "passage": [
+              3.837,
+              6.376
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

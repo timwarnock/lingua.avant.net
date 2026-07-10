@@ -1,0 +1,747 @@
+{
+  "id": "psalm-51",
+  "lang": "chinese",
+  "title": "聖詠第五十一篇",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "達味詩歌，交與樂官。",
+          "phonetic": "Dáwèi shīgē, jiāo yǔ yuèguān.",
+          "timing": {
+            "full": [
+              0.0,
+              2.129
+            ],
+            "passage": [
+              0.0,
+              2.129
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "作於納堂先知前來指責他與巴特舍巴犯姦之後。",
+          "phonetic": "Zuò yú Nàtáng xiānzhī qiánlái zhǐzé tā yǔ Bātèshèbā fànjiān zhī hòu.",
+          "timing": {
+            "full": [
+              2.129,
+              7.184
+            ],
+            "passage": [
+              0.0,
+              4.563
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "天主，求你按照你的仁慈憐憫我，",
+          "phonetic": "Tiānzhǔ, qiú nǐ ànzhào nǐ de réncí liánmǐn wǒ,",
+          "timing": {
+            "full": [
+              7.184,
+              10.592
+            ],
+            "passage": [
+              0.0,
+              2.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "依你豐厚的慈愛，消滅我的罪惡。",
+          "phonetic": "yī nǐ fēnghòu de cí'ài, xiāomiè wǒ de zuì'è.",
+          "timing": {
+            "full": [
+              10.592,
+              13.645
+            ],
+            "passage": [
+              2.905,
+              5.958
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "求你把我的過犯洗盡，",
+          "phonetic": "Qiú nǐ bǎ wǒ de guòfàn xǐ jìn,",
+          "timing": {
+            "full": [
+              13.645,
+              15.868
+            ],
+            "passage": [
+              0.0,
+              1.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "求你把我的罪惡除淨。",
+          "phonetic": "qiú nǐ bǎ wǒ de zuì'è chú jìng.",
+          "timing": {
+            "full": [
+              15.868,
+              17.816
+            ],
+            "passage": [
+              1.721,
+              3.668
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "因為我認清了我的過犯，",
+          "phonetic": "Yīnwèi wǒ rènqīng le wǒ de guòfàn,",
+          "timing": {
+            "full": [
+              17.816,
+              20.382
+            ],
+            "passage": [
+              0.0,
+              2.063
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "我的罪惡常在我的眼前。",
+          "phonetic": "wǒ de zuì'è cháng zài wǒ de yǎnqián.",
+          "timing": {
+            "full": [
+              20.382,
+              22.724
+            ],
+            "passage": [
+              2.063,
+              4.405
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "我得罪了你，惟獨得罪了你，",
+          "phonetic": "Wǒ dézuì le nǐ, wéidú dézuì le nǐ,",
+          "timing": {
+            "full": [
+              22.724,
+              25.803
+            ],
+            "passage": [
+              0.0,
+              2.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "因為我作了你視為惡的事；",
+          "phonetic": "yīnwèi wǒ zuò le nǐ shì wéi è de shì;",
+          "timing": {
+            "full": [
+              25.803,
+              28.0
+            ],
+            "passage": [
+              2.576,
+              4.774
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "因此，在你的判決上，顯出你的公義，",
+          "phonetic": "yīncǐ, zài nǐ de pànjué shàng, xiǎn chū nǐ de gōngyì,",
+          "timing": {
+            "full": [
+              28.0,
+              31.803
+            ],
+            "passage": [
+              4.774,
+              8.579
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "在你的斷案上，顯出你的正直。",
+          "phonetic": "zài nǐ de duàn'àn shàng, xiǎn chū nǐ de zhèngzhí.",
+          "timing": {
+            "full": [
+              31.803,
+              34.697
+            ],
+            "passage": [
+              8.579,
+              11.474
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "是的，我自出世便染上了罪惡，",
+          "phonetic": "Shì de, wǒ zì chūshì biàn rǎn shàng le zuì'è,",
+          "timing": {
+            "full": [
+              34.697,
+              38.105
+            ],
+            "passage": [
+              0.0,
+              2.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "我的母親在罪惡中懷孕了我。",
+          "phonetic": "wǒ de mǔqīn zài zuì'è zhōng huáiyùn le wǒ.",
+          "timing": {
+            "full": [
+              38.105,
+              40.882
+            ],
+            "passage": [
+              2.905,
+              5.682
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "你既然喜愛那出自內心的誠實，",
+          "phonetic": "Nǐ jìrán xǐ'ài nà chūzì nèixīn de chéngshí,",
+          "timing": {
+            "full": [
+              40.882,
+              44.118
+            ],
+            "passage": [
+              0.0,
+              2.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "求在我心的深處教我認識智慧。",
+          "phonetic": "qiú zài wǒ xīn de shēnchù jiào wǒ rènshi zhìhuì.",
+          "timing": {
+            "full": [
+              44.118,
+              47.026
+            ],
+            "passage": [
+              2.747,
+              5.655
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "求你以牛膝草灑我，使我皎潔，",
+          "phonetic": "Qiú nǐ yǐ niúxīcǎo sǎ wǒ, shǐ wǒ jiǎojié,",
+          "timing": {
+            "full": [
+              47.026,
+              50.329
+            ],
+            "passage": [
+              0.0,
+              2.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "求你洗滌我，使我比雪還要白。",
+          "phonetic": "qiú nǐ xǐdí wǒ, shǐ wǒ bǐ xuě hái yào bái.",
+          "timing": {
+            "full": [
+              50.329,
+              53.118
+            ],
+            "passage": [
+              2.813,
+              5.603
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "求你賜我聽見快慰和喜樂，",
+          "phonetic": "Qiú nǐ cì wǒ tīngjiàn kuàiwèi hé xǐlè,",
+          "timing": {
+            "full": [
+              53.118,
+              55.829
+            ],
+            "passage": [
+              0.0,
+              2.221
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "使你粉碎的骨骸重新歡躍。",
+          "phonetic": "shǐ nǐ fěnsuì de gǔhái chóngxīn huānyuè.",
+          "timing": {
+            "full": [
+              55.829,
+              58.684
+            ],
+            "passage": [
+              2.221,
+              5.076
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "求你掩面別看我的罪過，",
+          "phonetic": "Qiú nǐ yǎn miàn bié kàn wǒ de zuìguò,",
+          "timing": {
+            "full": [
+              58.684,
+              61.132
+            ],
+            "passage": [
+              0.0,
+              1.945
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "求你除掉我的一切罪惡。",
+          "phonetic": "qiú nǐ chúdiào wǒ de yīqiè zuì'è.",
+          "timing": {
+            "full": [
+              61.132,
+              63.618
+            ],
+            "passage": [
+              1.945,
+              4.432
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "天主，求你給我再造一顆純潔的心，",
+          "phonetic": "Tiānzhǔ, qiú nǐ gěi wǒ zàizào yī kē chúnjié de xīn,",
+          "timing": {
+            "full": [
+              63.618,
+              67.276
+            ],
+            "passage": [
+              0.0,
+              3.155
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "求你使我心重獲堅固的精神。",
+          "phonetic": "qiú nǐ shǐ wǒ xīn chóng huò jiāngù de jīngshén.",
+          "timing": {
+            "full": [
+              67.276,
+              69.908
+            ],
+            "passage": [
+              3.155,
+              5.787
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "求你不要從你的面前把我拋棄，",
+          "phonetic": "Qiú nǐ bù yào cóng nǐ de miànqián bǎ wǒ pāoqì,",
+          "timing": {
+            "full": [
+              69.908,
+              72.842
+            ],
+            "passage": [
+              0.0,
+              2.432
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "不要從我身上將你的聖神收回。",
+          "phonetic": "bù yào cóng wǒ shēnshang jiāng nǐ de Shèngshén shōuhuí.",
+          "timing": {
+            "full": [
+              72.842,
+              75.776
+            ],
+            "passage": [
+              2.432,
+              5.366
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "求你使我重獲你救恩的喜樂，",
+          "phonetic": "Qiú nǐ shǐ wǒ chóng huò nǐ jiù'ēn de xǐlè,",
+          "timing": {
+            "full": [
+              75.776,
+              78.855
+            ],
+            "passage": [
+              0.0,
+              2.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "求你以慷慨的精神來扶持我。",
+          "phonetic": "qiú nǐ yǐ kāngkǎi de jīngshén lái fúchí wǒ.",
+          "timing": {
+            "full": [
+              78.855,
+              81.382
+            ],
+            "passage": [
+              2.576,
+              5.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "我要給惡人教導你的道路，",
+          "phonetic": "Wǒ yào gěi èrén jiàodǎo nǐ de dàolù,",
+          "timing": {
+            "full": [
+              81.382,
+              83.934
+            ],
+            "passage": [
+              0.0,
+              2.063
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "罪人們都要回頭，向你奔赴。",
+          "phonetic": "zuìrén men dōu yào huítóu, xiàng nǐ bēnfù.",
+          "timing": {
+            "full": [
+              83.934,
+              86.645
+            ],
+            "passage": [
+              2.063,
+              4.774
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "天主，我的救主，求你免我血債，",
+          "phonetic": "Tiānzhǔ, wǒ de Jiùzhǔ, qiú nǐ miǎn wǒ xuèzhài,",
+          "timing": {
+            "full": [
+              86.645,
+              90.276
+            ],
+            "passage": [
+              0.0,
+              3.142
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "我的舌頭必要歌頌你的慈愛。",
+          "phonetic": "wǒ de shétou bìyào gēsòng nǐ de cí'ài.",
+          "timing": {
+            "full": [
+              90.276,
+              92.868
+            ],
+            "passage": [
+              3.142,
+              5.734
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "我主，求你開啟我的口唇，",
+          "phonetic": "Wǒ Zhǔ, qiú nǐ kāiqǐ wǒ de kǒuchún,",
+          "timing": {
+            "full": [
+              92.868,
+              95.763
+            ],
+            "passage": [
+              0.0,
+              2.392
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "我要親口宣揚你的光榮。",
+          "phonetic": "wǒ yào qīnkǒu xuānyáng nǐ de guāngróng.",
+          "timing": {
+            "full": [
+              95.763,
+              97.855
+            ],
+            "passage": [
+              2.392,
+              4.484
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "因為你既然不喜悅祭獻，",
+          "phonetic": "Yīnwèi nǐ jìrán bù xǐyuè jìxiàn,",
+          "timing": {
+            "full": [
+              97.855,
+              100.526
+            ],
+            "passage": [
+              0.0,
+              2.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "我獻全燔祭，你也不喜歡。",
+          "phonetic": "wǒ xiàn quán fánjì, nǐ yě bù xǐhuan.",
+          "timing": {
+            "full": [
+              100.526,
+              103.0
+            ],
+            "passage": [
+              2.182,
+              4.655
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "天主，我的祭獻就是這痛悔的精神，",
+          "phonetic": "Tiānzhǔ, wǒ de jìxiàn jiù shì zhè tònghuǐ de jīngshén,",
+          "timing": {
+            "full": [
+              103.0,
+              107.0
+            ],
+            "passage": [
+              0.0,
+              3.511
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "天主，你不輕看痛悔和謙卑的赤心。",
+          "phonetic": "Tiānzhǔ, nǐ bù qīngkàn tònghuǐ hé qiānbēi de chìxīn.",
+          "timing": {
+            "full": [
+              107.0,
+              110.5
+            ],
+            "passage": [
+              3.511,
+              7.01
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "上主，求你以慈愛恩待熙雍，",
+          "phonetic": "Shàngzhǔ, qiú nǐ yǐ cí'ài ēndài Xīyōng,",
+          "timing": {
+            "full": [
+              110.5,
+              113.724
+            ],
+            "passage": [
+              0.0,
+              2.734
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "求你重修耶路撒冷城。",
+          "phonetic": "qiú nǐ chóngxiū Yēlùsālěng chéng.",
+          "timing": {
+            "full": [
+              113.724,
+              115.908
+            ],
+            "passage": [
+              2.734,
+              4.918
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "那時，你必悅納合法之祭，犧牲和全燔祭獻；",
+          "phonetic": "Nà shí, nǐ bì yuènà héfǎ zhī jì, xīshēng hé quán fán jìxiàn;",
+          "timing": {
+            "full": [
+              115.908,
+              120.75
+            ],
+            "passage": [
+              0.0,
+              4.339
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "那時，人們也必要把牛犢奉獻於你的祭壇。",
+          "phonetic": "nà shí, rénmen yě bìyào bǎ niúdú fèngxiàn yú nǐ de jìtán.",
+          "timing": {
+            "full": [
+              120.75,
+              124.921
+            ],
+            "passage": [
+              4.339,
+              8.511
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

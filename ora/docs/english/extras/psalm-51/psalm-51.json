@@ -1,0 +1,927 @@
+{
+  "id": "psalm-51",
+  "lang": "english",
+  "title": "Psalm 51",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Unto the end,",
+          "phonetic": "Unto the end,",
+          "timing": {
+            "full": [
+              0.0,
+              0.932
+            ],
+            "passage": [
+              0.0,
+              0.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "a psalm of David,",
+          "phonetic": "a psalm of David,",
+          "timing": {
+            "full": [
+              0.932,
+              2.195
+            ],
+            "passage": [
+              0.997,
+              2.432
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "When Nathan the prophet came to him",
+          "phonetic": "When Nathan the prophet came to him",
+          "timing": {
+            "full": [
+              2.195,
+              4.392
+            ],
+            "passage": [
+              0.0,
+              2.221
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "after he had sinned with Bethsabee.",
+          "phonetic": "after he had sinned with Bethsabee.",
+          "timing": {
+            "full": [
+              4.392,
+              6.261
+            ],
+            "passage": [
+              2.221,
+              4.195
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Have mercy on me, O God,",
+          "phonetic": "Have mercy on me, O God,",
+          "timing": {
+            "full": [
+              6.261,
+              8.566
+            ],
+            "passage": [
+              0.0,
+              2.024
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "according to thy great mercy.",
+          "phonetic": "according to thy great mercy.",
+          "timing": {
+            "full": [
+              8.566,
+              10.553
+            ],
+            "passage": [
+              2.024,
+              4.024
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "And according to the multitude of thy tender mercies",
+          "phonetic": "And according to the multitude of thy tender mercies",
+          "timing": {
+            "full": [
+              10.553,
+              13.895
+            ],
+            "passage": [
+              4.024,
+              7.342
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "blot out my iniquity.",
+          "phonetic": "blot out my iniquity.",
+          "timing": {
+            "full": [
+              13.895,
+              15.368
+            ],
+            "passage": [
+              7.342,
+              8.816
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Wash me yet more from my iniquity,",
+          "phonetic": "Wash me yet more from my iniquity,",
+          "timing": {
+            "full": [
+              15.368,
+              17.934
+            ],
+            "passage": [
+              0.0,
+              2.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "and cleanse me from my sin.",
+          "phonetic": "and cleanse me from my sin.",
+          "timing": {
+            "full": [
+              17.934,
+              19.776
+            ],
+            "passage": [
+              2.287,
+              4.129
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "For I know my iniquity,",
+          "phonetic": "For I know my iniquity,",
+          "timing": {
+            "full": [
+              19.776,
+              21.697
+            ],
+            "passage": [
+              0.0,
+              1.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "and my sin is always before me.",
+          "phonetic": "and my sin is always before me.",
+          "timing": {
+            "full": [
+              21.697,
+              24.079
+            ],
+            "passage": [
+              1.629,
+              3.984
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "To thee only have I sinned,",
+          "phonetic": "To thee only have I sinned,",
+          "timing": {
+            "full": [
+              24.079,
+              26.051
+            ],
+            "passage": [
+              0.0,
+              1.68
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "and have done evil before thee:",
+          "phonetic": "and have done evil before thee:",
+          "timing": {
+            "full": [
+              26.051,
+              27.801
+            ],
+            "passage": [
+              1.68,
+              3.43
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "that thou mayst be justified in thy words",
+          "phonetic": "that thou mayst be justified in thy words",
+          "timing": {
+            "full": [
+              27.801,
+              30.393
+            ],
+            "passage": [
+              3.43,
+              5.995
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "and mayst overcome when thou art judged.",
+          "phonetic": "and mayst overcome when thou art judged.",
+          "timing": {
+            "full": [
+              30.393,
+              32.709
+            ],
+            "passage": [
+              5.995,
+              8.337
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "For behold I was conceived in iniquities;",
+          "phonetic": "For behold I was conceived in iniquities;",
+          "timing": {
+            "full": [
+              32.709,
+              35.671
+            ],
+            "passage": [
+              0.0,
+              2.629
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "and in sins did my mother conceive me.",
+          "phonetic": "and in sins did my mother conceive me.",
+          "timing": {
+            "full": [
+              35.671,
+              38.355
+            ],
+            "passage": [
+              2.629,
+              5.3
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "For behold thou hast loved truth:",
+          "phonetic": "For behold thou hast loved truth:",
+          "timing": {
+            "full": [
+              38.355,
+              40.697
+            ],
+            "passage": [
+              0.0,
+              2.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "the uncertain and hidden things of thy wisdom",
+          "phonetic": "the uncertain and hidden things of thy wisdom",
+          "timing": {
+            "full": [
+              40.697,
+              43.526
+            ],
+            "passage": [
+              2.089,
+              4.918
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "thou hast made manifest to me.",
+          "phonetic": "thou hast made manifest to me.",
+          "timing": {
+            "full": [
+              43.526,
+              45.145
+            ],
+            "passage": [
+              4.918,
+              6.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Thou shalt sprinkle me with hyssop,",
+          "phonetic": "Thou shalt sprinkle me with hissup,",
+          "timing": {
+            "full": [
+              45.145,
+              47.526
+            ],
+            "passage": [
+              0.0,
+              2.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "and I shall be cleansed:",
+          "phonetic": "and I shall be cleansed:",
+          "timing": {
+            "full": [
+              47.526,
+              48.882
+            ],
+            "passage": [
+              2.103,
+              3.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "thou shalt wash me,",
+          "phonetic": "thou shalt wash me,",
+          "timing": {
+            "full": [
+              48.882,
+              50.303
+            ],
+            "passage": [
+              3.445,
+              4.866
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "and I shall be made whiter than snow.",
+          "phonetic": "and I shall be made whiter than snow.",
+          "timing": {
+            "full": [
+              50.303,
+              52.513
+            ],
+            "passage": [
+              4.866,
+              7.05
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "To my hearing thou shalt give joy and gladness:",
+          "phonetic": "To my hearing thou shalt give joy and gladness:",
+          "timing": {
+            "full": [
+              52.513,
+              55.776
+            ],
+            "passage": [
+              0.0,
+              2.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "and the bones that have been humbled shall rejoice.",
+          "phonetic": "and the bones that have been humbled shall rejoice.",
+          "timing": {
+            "full": [
+              55.776,
+              58.658
+            ],
+            "passage": [
+              2.997,
+              5.879
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Turn away thy face from my sins,",
+          "phonetic": "Turn away thy face from my sins,",
+          "timing": {
+            "full": [
+              58.658,
+              61.235
+            ],
+            "passage": [
+              0.0,
+              2.298
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "and blot out all my iniquities.",
+          "phonetic": "and blot out all my iniquities.",
+          "timing": {
+            "full": [
+              61.235,
+              63.511
+            ],
+            "passage": [
+              2.298,
+              4.574
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Create a clean heart in me, O God:",
+          "phonetic": "Create a clean heart in me, O God:",
+          "timing": {
+            "full": [
+              63.511,
+              66.235
+            ],
+            "passage": [
+              0.0,
+              2.43
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "and renew a right spirit within my bowels.",
+          "phonetic": "and renew a right spirit within my bowels.",
+          "timing": {
+            "full": [
+              66.235,
+              69.143
+            ],
+            "passage": [
+              2.43,
+              5.324
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Cast me not away from thy face;",
+          "phonetic": "Cast me not away from thy face;",
+          "timing": {
+            "full": [
+              69.143,
+              71.578
+            ],
+            "passage": [
+              0.0,
+              2.154
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "and take not thy holy spirit from me.",
+          "phonetic": "and take not thy holy spirit from me.",
+          "timing": {
+            "full": [
+              71.578,
+              74.025
+            ],
+            "passage": [
+              2.154,
+              4.601
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Restore unto me the joy of thy salvation,",
+          "phonetic": "Restore unto me the joy of thy salvation,",
+          "timing": {
+            "full": [
+              74.025,
+              77.145
+            ],
+            "passage": [
+              0.0,
+              2.826
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "and strengthen me with a perfect spirit.",
+          "phonetic": "and strengthen me with a perfect spirit.",
+          "timing": {
+            "full": [
+              77.145,
+              79.75
+            ],
+            "passage": [
+              2.826,
+              5.418
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "I will teach the unjust thy ways:",
+          "phonetic": "I will teach the unjust thy ways:",
+          "timing": {
+            "full": [
+              79.75,
+              82.303
+            ],
+            "passage": [
+              0.0,
+              2.274
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "and the wicked shall be converted to thee.",
+          "phonetic": "and the wicked shall be converted to thee.",
+          "timing": {
+            "full": [
+              82.303,
+              84.684
+            ],
+            "passage": [
+              2.274,
+              4.642
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Deliver me from blood, O God,",
+          "phonetic": "Deliver me from blood, O God,",
+          "timing": {
+            "full": [
+              84.684,
+              87.066
+            ],
+            "passage": [
+              0.0,
+              2.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "thou God of my salvation:",
+          "phonetic": "thou God of my salvation:",
+          "timing": {
+            "full": [
+              87.066,
+              88.803
+            ],
+            "passage": [
+              2.103,
+              3.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "and my tongue shall extol thy justice.",
+          "phonetic": "and my tongue shall extol thy justice.",
+          "timing": {
+            "full": [
+              88.803,
+              91.408
+            ],
+            "passage": [
+              3.839,
+              6.445
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "O Lord, thou wilt open my lips:",
+          "phonetic": "O Lord, thou wilt open my lips:",
+          "timing": {
+            "full": [
+              91.408,
+              94.066
+            ],
+            "passage": [
+              0.0,
+              2.366
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "and my mouth shall declare thy praise.",
+          "phonetic": "and my mouth shall declare thy praise.",
+          "timing": {
+            "full": [
+              94.066,
+              96.526
+            ],
+            "passage": [
+              2.366,
+              4.787
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "For if thou hadst desired sacrifice,",
+          "phonetic": "For if thou hadst desired sacrifice,",
+          "timing": {
+            "full": [
+              96.526,
+              99.184
+            ],
+            "passage": [
+              0.0,
+              2.353
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "I would indeed have given it:",
+          "phonetic": "I would indeed have given it:",
+          "timing": {
+            "full": [
+              99.184,
+              100.816
+            ],
+            "passage": [
+              2.353,
+              3.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "with burnt offerings thou wilt not be delighted.",
+          "phonetic": "with burnt offerings thou wilt not be delighted.",
+          "timing": {
+            "full": [
+              100.816,
+              104.0
+            ],
+            "passage": [
+              3.997,
+              7.129
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "A sacrifice to God is an afflicted spirit:",
+          "phonetic": "A sacrifice to God is an afflicted spirit:",
+          "timing": {
+            "full": [
+              104.0,
+              107.079
+            ],
+            "passage": [
+              0.0,
+              2.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "a contrite and humbled heart, O God,",
+          "phonetic": "a contrite and humbled heart, O God,",
+          "timing": {
+            "full": [
+              107.079,
+              109.842
+            ],
+            "passage": [
+              2.8,
+              5.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "thou wilt not despise.",
+          "phonetic": "thou wilt not despise.",
+          "timing": {
+            "full": [
+              109.842,
+              111.697
+            ],
+            "passage": [
+              5.576,
+              7.432
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Deal favourably, O Lord,",
+          "phonetic": "Deal favourably, O Lord,",
+          "timing": {
+            "full": [
+              111.697,
+              113.947
+            ],
+            "passage": [
+              0.0,
+              1.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "in thy good will with Sion;",
+          "phonetic": "in thy good will with Sion;",
+          "timing": {
+            "full": [
+              113.947,
+              115.684
+            ],
+            "passage": [
+              1.971,
+              3.708
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
+          "text": "that the walls of Jerusalem may be built up.",
+          "phonetic": "that the walls of Jerusalem may be built up.",
+          "timing": {
+            "full": [
+              115.684,
+              118.526
+            ],
+            "passage": [
+              3.708,
+              6.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Then shalt thou accept the sacrifice of justice,",
+          "phonetic": "Then shalt thou accept the sacrifice of justice,",
+          "timing": {
+            "full": [
+              118.526,
+              121.803
+            ],
+            "passage": [
+              0.0,
+              2.997
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "oblations and whole burnt offerings:",
+          "phonetic": "oblations and whole burnt offerings:",
+          "timing": {
+            "full": [
+              121.803,
+              124.25
+            ],
+            "passage": [
+              2.997,
+              5.432
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "then shall they lay calves upon thy altar.",
+          "phonetic": "then shall they lay calves upon thy altar.",
+          "timing": {
+            "full": [
+              124.25,
+              126.882
+            ],
+            "passage": [
+              5.432,
+              8.063
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
