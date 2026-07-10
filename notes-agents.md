@@ -193,3 +193,15 @@ uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all
 
 Do not paste raw polytonic Septuagint into `text` without the TTS cleanup above.
 
+
+
+
+
+---
+
+## Latin TTS (Italian voice)
+
+Latin uses `it-IT-DiegoNeural` with `tts.input: "phonetic"`. Display `text` stays proper Latin; `phonetic` may use Italian-friendly respellings (`caeli` → `cieli`, etc.).
+
+**Deus:** plain `Deus` is often misread (sounds like English *douse* / *Dawson*). Use **`Déus`** in phonetic so Edge produces two clear syllables (DEH-oos), not a single "ow" diphthong. Do **not** use `De-us` / `De us` -- those make the voice say "US" / "Stati Uniti".
+

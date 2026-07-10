@@ -34,15 +34,15 @@
         {
           "passage_segment_id": "2a",
           "text": "Deus, cuius Unigenitus,",
-          "phonetic": "Deus, cuius Unigenitus,",
+          "phonetic": "Déus, cuius Unigenitus,",
           "timing": {
             "full": [
               1.018,
-              4.265
+              4.279
             ],
             "passage": [
               0.0,
-              2.315
+              2.329
             ]
           }
         },
@@ -52,12 +52,12 @@
           "phonetic": "per vitam,",
           "timing": {
             "full": [
-              4.265,
-              5.191
+              4.279,
+              5.235
             ],
             "passage": [
-              2.315,
-              3.241
+              2.329,
+              3.285
             ]
           }
         },
@@ -67,12 +67,12 @@
           "phonetic": "mortem et resurrectionem suam,",
           "timing": {
             "full": [
-              5.191,
-              7.765
+              5.235,
+              7.779
             ],
             "passage": [
-              3.241,
-              5.815
+              3.285,
+              5.829
             ]
           }
         },
@@ -82,12 +82,12 @@
           "phonetic": "nobis salutis aeternae",
           "timing": {
             "full": [
-              7.765,
-              9.794
+              7.779,
+              9.809
             ],
             "passage": [
-              5.815,
-              7.844
+              5.829,
+              7.859
             ]
           }
         },
@@ -97,11 +97,11 @@
           "phonetic": "praemia comparavit,",
           "timing": {
             "full": [
-              9.794,
+              9.809,
               11.118
             ],
             "passage": [
-              7.844,
+              7.859,
               9.168
             ]
           }
