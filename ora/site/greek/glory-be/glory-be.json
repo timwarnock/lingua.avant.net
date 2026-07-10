@@ -13,31 +13,31 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Δόξα Πατρι",
+          "text": "Δόξα Πατρί",
           "phonetic": "Dó-xa Pa-trí",
           "timing": {
             "full": [
               0.0,
-              0.837
+              0.824
             ],
             "passage": [
               0.0,
-              0.863
+              0.85
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "και Υιω",
+          "text": "και Υιώ",
           "phonetic": "kai Yi-ṓ",
           "timing": {
             "full": [
-              0.837,
-              1.153
+              0.824,
+              1.166
             ],
             "passage": [
-              0.863,
-              1.192
+              0.85,
+              1.205
             ]
           }
         },
@@ -47,11 +47,11 @@
           "phonetic": "kai Ha-gí-ō Pneú-ma-ti,",
           "timing": {
             "full": [
-              1.153,
-              2.232
+              1.166,
+              2.271
             ],
             "passage": [
-              1.192,
+              1.205,
               2.337
             ]
           }
@@ -67,27 +67,27 @@
           "phonetic": "kai nŷn",
           "timing": {
             "full": [
-              2.232,
-              2.679
+              2.271,
+              2.718
             ],
             "passage": [
               0.0,
-              0.482
+              0.508
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "και αει",
+          "text": "και αεί",
           "phonetic": "kai a-eí",
           "timing": {
             "full": [
-              2.679,
-              3.087
+              2.718,
+              3.982
             ],
             "passage": [
-              0.482,
-              0.929
+              0.508,
+              1.903
             ]
           }
         },
@@ -97,12 +97,12 @@
           "phonetic": "kai eis toùs ai-ṓ-nas",
           "timing": {
             "full": [
-              3.087,
-              3.718
+              3.982,
+              4.613
             ],
             "passage": [
-              0.929,
-              1.587
+              1.903,
+              2.547
             ]
           }
         },
@@ -112,12 +112,12 @@
           "phonetic": "tōn ai-ṓ-nōn,",
           "timing": {
             "full": [
-              3.718,
-              4.376
+              4.613,
+              5.271
             ],
             "passage": [
-              1.587,
-              2.258
+              2.547,
+              3.218
             ]
           }
         }
@@ -132,8 +132,8 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              4.376,
-              5.126
+              5.271,
+              6.047
             ],
             "passage": [
               0.0,

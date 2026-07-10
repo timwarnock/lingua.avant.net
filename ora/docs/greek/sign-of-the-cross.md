@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Τὸ Σημεῖον τοῦ Σταυροῦ
+# Τό Σημείον τού Σταυρού
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"
@@ -11,9 +11,9 @@ icon: material/cross
 
 <div class="prayer-fallback" markdown="1">
 
-**Ἑλληνικά**
+**Ελληνικά**
 
-Ἐν ὀνόματι τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος. Ἀμήν.
+Εν ονόματι τού Πατρός καί τού Υιού καί τού Αγίου Πνεύματος. Αμήν.
 
 **English**
 

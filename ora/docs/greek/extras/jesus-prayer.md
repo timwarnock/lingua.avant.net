@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Προσευχὴ τοῦ Ἰησοῦ
+# Προσευχή τού Ιησού
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"
@@ -11,9 +11,9 @@ icon: material/cross
 
 <div class="prayer-fallback" markdown="1">
 
-**Ἑλληνικά**
+**Ελληνικά**
 
-Κύριε Ἰησοῦ Χριστέ, Υιέ τοῦ Θεοῦ, ἐλέησόν με τὸν ἁμαρτωλόν.
+Κύριε Ιησού Χριστέ, Υιέ τού Θεού, ελέησόν με τόν αμαρτωλόν.
 
 **English**
 

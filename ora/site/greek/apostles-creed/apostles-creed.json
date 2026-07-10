@@ -93,16 +93,16 @@
         },
         {
           "passage_segment_id": "2c",
-          "text": "τον Κύριον ημων,",
+          "text": "τον Κύριον ημών,",
           "phonetic": "ton Ký-ri-on hē-mṓn,",
           "timing": {
             "full": [
               7.182,
-              8.326
+              8.339
             ],
             "passage": [
               2.982,
-              4.179
+              4.232
             ]
           }
         }
@@ -117,8 +117,8 @@
           "phonetic": "ton syl-lēph-thén-ta ek Pneú-ma-tos Ha-gí-ou,",
           "timing": {
             "full": [
-              8.326,
-              10.221
+              8.339,
+              10.247
             ],
             "passage": [
               0.0,
@@ -137,8 +137,8 @@
           "phonetic": "gen-nē-thén-ta ek Ma-rí-as tēs par-thé-nou,",
           "timing": {
             "full": [
-              10.221,
-              12.116
+              10.247,
+              12.129
             ],
             "passage": [
               0.0,
@@ -157,7 +157,7 @@
           "phonetic": "pa-thón-ta e-pí Pon-tí-ou Pi-lá-tou,",
           "timing": {
             "full": [
-              12.116,
+              12.129,
               13.787
             ],
             "passage": [
@@ -263,7 +263,7 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "καθεζόμενον εν δεξια Θεου Πατρος παντοκράτορος,",
+          "text": "καθεζόμενον εν δεξια Θεού Πατρος παντοκράτορος,",
           "phonetic": "ka-the-zó-me-non en de-xi-á The-oû Pa-tròs pan-to-krá-to-ros,",
           "timing": {
             "full": [
@@ -272,7 +272,7 @@
             ],
             "passage": [
               0.0,
-              2.679
+              2.666
             ]
           }
         }
@@ -378,7 +378,7 @@
         },
         {
           "passage_segment_id": "11f",
-          "text": "ζωην αιώνιον,",
+          "text": "ζωήν αιώνιον,",
           "phonetic": "zō-ḗn ai-ṓ-ni-on,",
           "timing": {
             "full": [

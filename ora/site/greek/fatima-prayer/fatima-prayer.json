@@ -13,31 +13,31 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Ω Ιησου μου,",
+          "text": "Ω Ιησού μου,",
           "phonetic": "Ō I-ē-soû mou,",
           "timing": {
             "full": [
               0.0,
-              0.955
+              1.008
             ],
             "passage": [
               0.0,
-              1.008
+              1.061
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "συγχώρησον ημιν τας αμαρτίας ημων,",
+          "text": "συγχώρησον ημίν τας αμαρτίας ημών,",
           "phonetic": "syn-chṓ-rē-son hē-mîn tas ha-mar-tí-as hē-mṓn,",
           "timing": {
             "full": [
-              0.955,
-              3.034
+              1.008,
+              3.126
             ],
             "passage": [
-              1.008,
-              3.166
+              1.061,
+              3.297
             ]
           }
         }
@@ -48,16 +48,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "ρυσαι ημας απο του πυρος της γεέννης,",
+          "text": "ρυσαι ημάς απο του πυρος της γεέννης,",
           "phonetic": "rhŷ-sai hē-mâs a-pò tou py-ròs tēs ge-én-nēs,",
           "timing": {
             "full": [
-              3.034,
-              5.008
+              3.126,
+              5.113
             ],
             "passage": [
               0.0,
-              2.113
+              2.126
             ]
           }
         }
@@ -72,8 +72,8 @@
           "phonetic": "ho-dḗ-gē-son eis ton ou-ra-nòn pá-sas tas psy-chás,",
           "timing": {
             "full": [
-              5.008,
-              7.35
+              5.113,
+              7.442
             ],
             "passage": [
               0.0,
@@ -92,8 +92,8 @@
           "phonetic": "i-dí-ōs dè e-keí-nas hai-ti-nes má-lis-ta dé-on-tai tou e-lé-ous sou,",
           "timing": {
             "full": [
-              7.35,
-              10.179
+              7.442,
+              10.258
             ],
             "passage": [
               0.0,
@@ -112,8 +112,8 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              10.179,
-              10.968
+              10.258,
+              11.047
             ],
             "passage": [
               0.0,

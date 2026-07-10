@@ -13,46 +13,46 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Πάτερ ημων",
+          "text": "Πάτερ ημών",
           "phonetic": "Pá-ter i-món",
           "timing": {
             "full": [
               0.0,
-              0.705
+              0.811
             ],
             "passage": [
               0.0,
-              0.732
+              0.811
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "ο εν τοις ουρανοις·",
+          "text": "ο εν τοις ουρανοις.",
           "phonetic": "o en toís ou-ra-nís",
           "timing": {
             "full": [
-              0.705,
-              1.521
+              0.811,
+              1.613
             ],
             "passage": [
-              0.732,
-              1.534
+              0.811,
+              1.626
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "αγιασθήτω το όνομά σου·",
+          "text": "αγιασθήτω το όνομά σου.",
           "phonetic": "ha-gi-as-thḗ-tō to ó-no-má sou",
           "timing": {
             "full": [
-              1.521,
-              3.1
+              1.613,
+              4.076
             ],
             "passage": [
-              1.534,
-              3.139
+              1.626,
+              4.09
             ]
           }
         }
@@ -63,16 +63,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "ελθέτω η βασιλεία σου·",
+          "text": "ελθέτω η βασιλεία σου.",
           "phonetic": "el-thé-tō hē ba-si-leí-a sou",
           "timing": {
             "full": [
-              3.1,
-              4.613
+              4.076,
+              6.537
             ],
             "passage": [
               0.0,
-              1.639
+              1.653
             ]
           }
         }
@@ -83,16 +83,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "γενηθήτω το θέλημά σου, ως εν ουρανω και επι της γης·",
+          "text": "γενηθήτω το θέλημά σου, ως εν ουρανω και επι της γης.",
           "phonetic": "ge-nē-thḗ-tō to thé-lē-má sou, hōs en ou-ra-nṓ kai e-pí tēs gēs",
           "timing": {
             "full": [
-              4.613,
-              7.718
+              6.537,
+              10.576
             ],
             "passage": [
               0.0,
-              3.297
+              3.258
             ]
           }
         }
@@ -103,12 +103,12 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "τον άρτον ημων τον επιούσιον δος ημιν σήμερον·",
+          "text": "τον άρτον ημών τον επιούσιον δος ημίν σήμερον.",
           "phonetic": "ton ár-ton hē-mṓn ton e-pi-oú-si-on dós hē-mîn sḗ-me-ron",
           "timing": {
             "full": [
-              7.718,
-              10.061
+              10.576,
+              13.945
             ],
             "passage": [
               0.0,
@@ -123,31 +123,31 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "και άφες ημιν τα οφειλήματα ημων,",
+          "text": "και άφες ημίν τα οφειλήματα ημών,",
           "phonetic": "kai á-phes hē-mîn ta o-phei-lḗ-ma-ta hē-mṓn",
           "timing": {
             "full": [
-              10.061,
-              11.837
+              13.945,
+              16.563
             ],
             "passage": [
               0.0,
-              1.797
+              1.85
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "ως και ημεις αφίεμεν τοις οφειλέταις ημων·",
+          "text": "ως και ημεις αφίεμεν τοις οφειλέταις ημών.",
           "phonetic": "hōs kai hē-meîs a-phí-e-men toîs o-phei-lé-tais hē-mṓn",
           "timing": {
             "full": [
-              11.837,
-              13.982
+              16.563,
+              18.826
             ],
             "passage": [
-              1.797,
-              3.995
+              1.85,
+              4.113
             ]
           }
         }
@@ -158,31 +158,31 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "και μη εισενέγκης ημας εις πειρασμόν,",
+          "text": "και μη εισενέγκης ημάς εις πειρασμόν,",
           "phonetic": "kai mē ei-sen-én-gkēs hē-mâs eis pei-ras-món",
           "timing": {
             "full": [
-              13.982,
-              15.876
+              18.826,
+              21.576
             ],
             "passage": [
               0.0,
-              1.995
+              2.008
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "αλλα ρυσαι ημας απο του πονηρου,",
+          "text": "αλλα ρυσαι ημάς απο του πονηρου,",
           "phonetic": "al-là rhŷ-sai hē-mâs a-pò tou po-nē-roû,",
           "timing": {
             "full": [
-              15.876,
-              17.482
+              21.576,
+              23.261
             ],
             "passage": [
-              1.995,
-              3.758
+              2.008,
+              3.771
             ]
           }
         }
@@ -197,8 +197,8 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              17.482,
-              18.232
+              23.261,
+              24.037
             ],
             "passage": [
               0.0,

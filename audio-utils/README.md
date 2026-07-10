@@ -95,3 +95,16 @@ See `generate-rosary-audio.py` for exact behavior.
 - Requires the JSON to be valid; missing required fields will cause an error.
 
 Last updated: 2026-06-28
+
+## Detect Greek letter-spelling (TTS)
+
+Edge Greek voices sometimes read **letter names** (δέλτα, γιώτα, …) instead of words.
+Scan prayer MP3s (or re-TTS) with:
+
+```bash
+uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all
+uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all --fresh-tts
+```
+
+FLAG = likely letter-spelling (high seconds-per-letter and seconds-per-syllable).
+Fix by simplifying `text` (expand elisions like `δι'` → `δια`, drop mid-dot `·`, use monotonic Greek), then regenerate audio.

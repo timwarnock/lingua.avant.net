@@ -13,7 +13,7 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Χαιρε Μαρία,",
+          "text": "Χαίρε Μαρία,",
           "phonetic": "Ché-re Ma-rí-a,",
           "timing": {
             "full": [
@@ -22,7 +22,7 @@
             ],
             "passage": [
               0.0,
-              1.047
+              1.034
             ]
           }
         },
@@ -33,26 +33,26 @@
           "timing": {
             "full": [
               1.047,
-              2.166
+              2.179
             ],
             "passage": [
-              1.047,
-              2.192
+              1.034,
+              2.179
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "ο Κύριος μετα σου·",
+          "text": "ο Κύριος μετα σου.",
           "phonetic": "o Ký-ri-os me-tá soú·",
           "timing": {
             "full": [
-              2.166,
-              3.468
+              2.179,
+              3.495
             ],
             "passage": [
-              2.192,
-              3.534
+              2.179,
+              3.495
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "eu-lo-gē-mé-nē sỳ en gy-nai-xí,",
           "timing": {
             "full": [
-              3.468,
-              5.153
+              3.495,
+              5.997
             ],
             "passage": [
               0.0,
@@ -82,27 +82,27 @@
           "phonetic": "kai eu-lo-gē-mé-nos ho kar-pòs tēs koi-lí-as sou",
           "timing": {
             "full": [
-              5.153,
-              7.047
+              5.997,
+              7.892
             ],
             "passage": [
               1.718,
-              3.639
+              3.626
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "Ιησους.",
+          "text": "Ιησούς.",
           "phonetic": "I-ē-soûs.",
           "timing": {
             "full": [
-              7.047,
-              7.666
+              7.892,
+              8.524
             ],
             "passage": [
-              3.639,
-              4.245
+              3.626,
+              4.258
             ]
           }
         }
@@ -117,27 +117,27 @@
           "phonetic": "Ha-gí-a Ma-rí-a, The-o-tó-ke,",
           "timing": {
             "full": [
-              7.666,
-              10.511
+              8.524,
+              11.353
             ],
             "passage": [
               0.0,
-              2.166
+              2.179
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "πρέσβευε υπερ ημων",
+          "text": "πρέσβευε υπερ ημών",
           "phonetic": "prés-beu-e hy-pèr hē-mṓn",
           "timing": {
             "full": [
-              10.511,
-              11.55
+              11.353,
+              12.418
             ],
             "passage": [
-              2.166,
-              3.232
+              2.179,
+              3.258
             ]
           }
         },
@@ -147,12 +147,12 @@
           "phonetic": "tōn ha-mar-tō-lṓn,",
           "timing": {
             "full": [
-              11.55,
-              12.339
+              12.418,
+              13.195
             ],
             "passage": [
-              3.232,
-              4.034
+              3.258,
+              4.047
             ]
           }
         }
@@ -163,16 +163,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "νυν και εν τη ώρα του θανάτου ημων,",
+          "text": "νυν και εν τη ώρα του θανάτου ημών,",
           "phonetic": "nŷn kai en tē hṓ-rā tou tha-ná-tou hē-mṓn,",
           "timing": {
             "full": [
-              12.339,
-              14.089
+              13.195,
+              14.945
             ],
             "passage": [
               0.0,
-              1.916
+              1.995
             ]
           }
         }
@@ -187,8 +187,8 @@
           "phonetic": "A-mḗn.",
           "timing": {
             "full": [
-              14.089,
-              14.853
+              14.945,
+              15.721
             ],
             "passage": [
               0.0,

@@ -2,11 +2,11 @@
 icon: lucide/languages
 ---
 
-# <span tooltip="Ancient Greek">Ἑλληνικά</span>
+# <span tooltip="Ancient Greek">Ελληνικά</span>
 
-!!! quote "<span tooltip='St. John Chrysostom'>Ἅγιος Ἰωάννης ὁ Χρυσόστομος</span>"
+!!! quote "<span tooltip='St. John Chrysostom'>Άγιος Ιωάννης ο Χρυσόστομος</span>"
 
-    Ὥσπερ γὰρ τῷ σώματι φῶς ἥλιος, οὕτω τῇ ψυχῇ ἡ προσευχή. Εἰ οὖν τυφλῷ ζημία τὸ μὴ ὁρᾶν τὸν ἥλιον, πόση ζημία Χριστιανῷ τὸ μὴ προσεύχεσθαι συνεχῶς καὶ διὰ τῆς εὐχῆς τὸ τοῦ Χριστοῦ φῶς εἰς τὴν ψυχὴν εἰσάγειν;
+    Ώσπερ γάρ τώ σώματι φώς ήλιος, ούτω τή ψυχή η προσευχή. Ει ούν τυφλώ ζημία τό μή οράν τόν ήλιον, πόση ζημία Χριστιανώ τό μή προσεύχεσθαι συνεχώς καί διά τής ευχής τό τού Χριστού φώς εις τήν ψυχήν εισάγειν;
 
     *For just as the sun is light to the body, so prayer is light to the soul. If then it is a loss for a blind man not to see the sun, how great a loss for a Christian not to pray continually and through prayer to bring the light of Christ into the soul?*
 
