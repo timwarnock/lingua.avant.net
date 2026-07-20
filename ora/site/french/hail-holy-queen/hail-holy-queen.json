@@ -248,41 +248,26 @@
           "timing": {
             "full": [
               20.168,
-              21.263
+              21.25
             ],
             "passage": [
               1.588,
-              2.549
+              2.562
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "Jésus, le fruit béni de vos entrailles,",
+          "text": "Jésus, le fruit béni de vos entrailles.",
           "phonetic": "Jésus, le fruit béni de vos entrailles,",
           "timing": {
             "full": [
-              21.263,
+              21.25,
               23.763
             ],
             "passage": [
-              2.549,
-              5.049
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "5d",
-          "text": "tendre, aimante, douce Vierge Marie.",
-          "phonetic": "tendre, aimante, douce Vierge Marie,",
-          "timing": {
-            "full": [
-              23.763,
-              26.395
-            ],
-            "passage": [
-              5.049,
-              7.628
+              2.562,
+              5.141
             ]
           }
         }
@@ -297,8 +282,8 @@
           "phonetic": "tendre,",
           "timing": {
             "full": [
-              26.395,
-              27.053
+              23.763,
+              24.421
             ],
             "passage": [
               0.0,
@@ -312,8 +297,8 @@
           "phonetic": "aimante,",
           "timing": {
             "full": [
-              27.053,
-              27.789
+              24.421,
+              25.158
             ],
             "passage": [
               0.537,
@@ -327,8 +312,8 @@
           "phonetic": "douce Vierge Marie,",
           "timing": {
             "full": [
-              27.789,
-              29.053
+              25.158,
+              26.421
             ],
             "passage": [
               1.261,
@@ -347,8 +332,8 @@
           "phonetic": "Priez pour nous,",
           "timing": {
             "full": [
-              29.053,
-              30.118
+              26.421,
+              27.487
             ],
             "passage": [
               0.0,
@@ -362,8 +347,8 @@
           "phonetic": "sainte Mère de Dieu,",
           "timing": {
             "full": [
-              30.118,
-              31.382
+              27.487,
+              28.776
             ],
             "passage": [
               0.918,
@@ -382,8 +367,8 @@
           "phonetic": "Afin que nous soyons dignes des promesses de Jésus Christ,",
           "timing": {
             "full": [
-              31.382,
-              35.25
+              28.776,
+              33.079
             ],
             "passage": [
               0.0,

@@ -12,7 +12,7 @@ icon: material/cross
 
 **Français**
 
-Je vous salue, Marie, pleine de grâces, le Seigneur est avec vous; vous êtes bénie entre toutes les femmes, et Jésus le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous pécheurs, maintenant, et à l'heure de notre mort. Amen.
+Je vous salue, Marie, pleine de grâces, le Seigneur est avec vous; vous êtes bénie entre toutes les femmes, et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pécheurs, maintenant, et à l'heure de notre mort. Amen.
 
 **English**
 

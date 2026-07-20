@@ -20,7 +20,7 @@ icon: material/cross
 
 **Français**
 
-Nous vous saluons, Reine, Mère de miséricorde, notre vie, notre joie, notre espérance, salut. Enfants d'Ève, nous crions vers vous du fond de notre exil. Nous soupirons vers vous, gémissant et pleurant dans cette vallée de larmes. Ô vous notre avocate, tournez vers nous vos regards miséricordieux. Et après l'exil de cette vie, montrez-nous Jésus, le fruit béni de vos entrailles, tendre, aimante, douce Vierge Marie.
+Nous vous saluons, Reine, Mère de miséricorde, notre vie, notre joie, notre espérance, salut. Enfants d'Ève, nous crions vers vous du fond de notre exil. Nous soupirons vers vous, gémissant et pleurant dans cette vallée de larmes. Ô vous notre avocate, tournez vers nous vos regards miséricordieux. Et après l'exil de cette vie, montrez-nous Jésus, le fruit béni de vos entrailles. Tendre, aimante, douce Vierge Marie.
 
 Priez pour nous, sainte Mère de Dieu.
 
