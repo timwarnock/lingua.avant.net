@@ -11,7 +11,8 @@ icon: material/cross
 
 <div class="prayer-interactive"
      data-prayer="psalm-51"
-     data-json="psalm-51.json"></div>
+     data-json="psalm-51.json"
+     data-show-phonetic="true"></div>
 
 <div class="prayer-fallback" markdown="1">
 
