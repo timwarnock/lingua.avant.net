@@ -14,11 +14,11 @@
         {
           "passage_segment_id": "1a",
           "text": "Rezemos.",
-          "phonetic": "Rezemos.",
+          "phonetic": "Rezemos,",
           "timing": {
             "full": [
               0.0,
-              0.853
+              0.734
             ],
             "passage": [
               0.0,
@@ -37,12 +37,12 @@
           "phonetic": "Ó Deus,",
           "timing": {
             "full": [
-              0.853,
-              1.684
+              0.734,
+              1.313
             ],
             "passage": [
               0.0,
-              0.655
+              0.668
             ]
           }
         },
@@ -52,12 +52,12 @@
           "phonetic": "cujo Filho Unigênito,",
           "timing": {
             "full": [
-              1.684,
-              3.039
+              1.313,
+              2.708
             ],
             "passage": [
-              0.655,
-              2.011
+              0.668,
+              2.076
             ]
           }
         },
@@ -67,12 +67,12 @@
           "phonetic": "por Sua vida, morte e ressurreição,",
           "timing": {
             "full": [
-              3.039,
-              5.25
+              2.708,
+              4.879
             ],
             "passage": [
-              2.011,
-              4.221
+              2.076,
+              4.234
             ]
           }
         },
@@ -82,42 +82,12 @@
           "phonetic": "nos obteve o prêmio da salvação eterna,",
           "timing": {
             "full": [
-              5.25,
-              7.763
+              4.879,
+              7.445
             ],
             "passage": [
-              4.221,
-              6.734
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2e",
-          "text": "concedei-nos, nós Vos pedimos,",
-          "phonetic": "concedei-nos, nós Vos pedimos,",
-          "timing": {
-            "full": [
-              7.763,
-              9.803
-            ],
-            "passage": [
-              6.734,
-              8.774
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2f",
-          "text": "que, meditando os mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria,",
-          "phonetic": "que, meditando os mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria,",
-          "timing": {
-            "full": [
-              9.803,
-              14.605
-            ],
-            "passage": [
-              8.774,
-              13.671
+              4.234,
+              6.826
             ]
           }
         }
@@ -132,12 +102,12 @@
           "phonetic": "concedei-nos, nós Vos pedimos,",
           "timing": {
             "full": [
-              14.605,
-              16.658
+              7.445,
+              9.511
             ],
             "passage": [
               0.0,
-              2.011
+              1.997
             ]
           }
         },
@@ -147,27 +117,12 @@
           "phonetic": "que, meditando os mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria,",
           "timing": {
             "full": [
-              16.658,
-              21.526
+              9.511,
+              14.342
             ],
             "passage": [
-              2.011,
-              6.708
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "imitemos o que eles contêm",
-          "phonetic": "imitemos o que eles contêm",
-          "timing": {
-            "full": [
-              21.526,
-              23.303
-            ],
-            "passage": [
-              6.708,
-              8.379
+              1.997,
+              6.629
             ]
           }
         }
@@ -178,16 +133,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
+          "text": "imitemos o que eles contêm",
+          "phonetic": "imitemos o que eles contêm,",
+          "timing": {
+            "full": [
+              14.342,
+              16.092
+            ],
+            "passage": [
+              0.0,
+              1.603
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
           "text": "e alcancemos o que prometem,",
           "phonetic": "e alcancemos o que prometem,",
           "timing": {
             "full": [
-              23.303,
-              24.934
+              16.092,
+              17.908
             ],
             "passage": [
-              0.0,
-              1.787
+              1.603,
+              3.339
             ]
           }
         }
@@ -198,12 +168,12 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Por Cristo Nosso Senhor,",
+          "text": "Por Cristo Nosso Senhor.",
           "phonetic": "Por Cristo Nosso Senhor,",
           "timing": {
             "full": [
-              24.934,
-              26.474
+              17.908,
+              19.303
             ],
             "passage": [
               0.0,
@@ -222,8 +192,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              26.474,
-              26.947
+              19.303,
+              19.763
             ],
             "passage": [
               0.0,
@@ -242,27 +212,27 @@
           "phonetic": "Coração Sacratíssimo de Jesus,",
           "timing": {
             "full": [
-              26.947,
-              29.276
+              19.763,
+              22.053
             ],
             "passage": [
               0.0,
-              2.155
+              2.129
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "tende misericórdia de nós.",
-          "phonetic": "tende misericórdia de nós.",
+          "phonetic": "tende misericórdia de nós,",
           "timing": {
             "full": [
-              29.276,
-              31.184
+              22.053,
+              23.855
             ],
             "passage": [
-              2.155,
-              4.063
+              2.129,
+              4.05
             ]
           }
         }
@@ -277,8 +247,8 @@
           "phonetic": "Coração Imaculado de Maria,",
           "timing": {
             "full": [
-              31.184,
-              33.092
+              23.855,
+              25.724
             ],
             "passage": [
               0.0,
@@ -292,8 +262,8 @@
           "phonetic": "rogai por nós.",
           "timing": {
             "full": [
-              33.092,
-              34.145
+              25.724,
+              26.763
             ],
             "passage": [
               1.734,

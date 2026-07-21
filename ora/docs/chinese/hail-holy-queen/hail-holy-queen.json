@@ -155,21 +155,6 @@
               2.997
             ]
           }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "我們的主保，",
-          "phonetic": "wǒ men de zhǔ bǎo,",
-          "timing": {
-            "full": [
-              13.605,
-              15.079
-            ],
-            "passage": [
-              2.997,
-              4.618
-            ]
-          }
         }
       ]
     },
@@ -178,21 +163,36 @@
       "segments": [
         {
           "passage_segment_id": "4a",
+          "text": "我們的主保，",
+          "phonetic": "Wǒ men de zhǔ bǎo,",
+          "timing": {
+            "full": [
+              13.605,
+              15.079
+            ],
+            "passage": [
+              0.0,
+              0.971
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
           "text": "求妳回顧，",
-          "phonetic": "Qiú nǐ huí gù,",
+          "phonetic": "qiú nǐ huí gù,",
           "timing": {
             "full": [
               15.079,
               16.158
             ],
             "passage": [
-              0.0,
-              0.997
+              0.971,
+              2.05
             ]
           }
         },
         {
-          "passage_segment_id": "4b",
+          "passage_segment_id": "4c",
           "text": "憐視我們。",
           "phonetic": "lián shì wǒ men.",
           "timing": {
@@ -201,23 +201,8 @@
               17.211
             ],
             "passage": [
-              0.997,
-              2.076
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "4c",
-          "text": "一旦流亡期滿，",
-          "phonetic": "yī dàn liú wáng qī mǎn,",
-          "timing": {
-            "full": [
-              17.211,
-              19.039
-            ],
-            "passage": [
-              2.076,
-              4.053
+              2.05,
+              3.103
             ]
           }
         }
@@ -228,21 +213,36 @@
       "segments": [
         {
           "passage_segment_id": "5a",
+          "text": "一旦流亡期滿，",
+          "phonetic": "Yī dàn liú wáng qī mǎn,",
+          "timing": {
+            "full": [
+              17.211,
+              19.039
+            ],
+            "passage": [
+              0.0,
+              1.326
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
           "text": "使我們得見妳的聖子、",
-          "phonetic": "Shǐ wǒ men dé jiàn nǐ de shèng zǐ,",
+          "phonetic": "shǐ wǒ men dé jiàn nǐ de shèng zǐ,",
           "timing": {
             "full": [
               19.039,
               20.842
             ],
             "passage": [
-              0.0,
-              1.747
+              1.326,
+              3.129
             ]
           }
         },
         {
-          "passage_segment_id": "5b",
+          "passage_segment_id": "5c",
           "text": "萬民稱頌的耶穌。",
           "phonetic": "wàn mín chēng sòng de Yē sū.",
           "timing": {
@@ -251,38 +251,8 @@
               22.566
             ],
             "passage": [
-              1.747,
-              3.484
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "5c",
-          "text": "童貞瑪利亞，",
-          "phonetic": "tóng zhēn Mǎ lì yà,",
-          "timing": {
-            "full": [
-              22.566,
-              24.21
-            ],
-            "passage": [
-              3.484,
-              5.105
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "5d",
-          "text": "妳是寬仁的、",
-          "phonetic": "nǐ shì kuān rén de,",
-          "timing": {
-            "full": [
-              24.21,
-              25.474
-            ],
-            "passage": [
-              5.105,
-              6.316
+              3.129,
+              4.853
             ]
           }
         }
@@ -293,6 +263,36 @@
       "segments": [
         {
           "passage_segment_id": "6a",
+          "text": "童貞瑪利亞，",
+          "phonetic": "Tóng zhēn Mǎ lì yà,",
+          "timing": {
+            "full": [
+              22.566,
+              24.21
+            ],
+            "passage": [
+              0.0,
+              1.142
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "妳是寬仁的、",
+          "phonetic": "nǐ shì kuān rén de,",
+          "timing": {
+            "full": [
+              24.21,
+              25.474
+            ],
+            "passage": [
+              1.142,
+              2.405
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
           "text": "慈悲的、",
           "phonetic": "cí bēi de,",
           "timing": {
@@ -301,13 +301,13 @@
               26.395
             ],
             "passage": [
-              0.0,
-              0.839
+              2.405,
+              3.326
             ]
           }
         },
         {
-          "passage_segment_id": "6b",
+          "passage_segment_id": "6d",
           "text": "甘飴的。",
           "phonetic": "gān yí de.",
           "timing": {
@@ -316,23 +316,8 @@
               27.329
             ],
             "passage": [
-              0.839,
-              1.813
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "6c",
-          "text": "天主聖母，",
-          "phonetic": "tiān zhǔ shèng mǔ,",
-          "timing": {
-            "full": [
-              27.329,
-              28.829
-            ],
-            "passage": [
-              1.813,
-              3.408
+              3.326,
+              4.26
             ]
           }
         }
@@ -343,31 +328,31 @@
       "segments": [
         {
           "passage_segment_id": "7a",
+          "text": "天主聖母，",
+          "phonetic": "Tiān zhǔ shèng mǔ,",
+          "timing": {
+            "full": [
+              27.329,
+              28.829
+            ],
+            "passage": [
+              0.0,
+              1.024
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
           "text": "請為我們祈求，",
-          "phonetic": "Qǐng wèi wǒ men qí qiú,",
+          "phonetic": "qǐng wèi wǒ men qí qiú,",
           "timing": {
             "full": [
               28.829,
               30.224
             ],
             "passage": [
-              0.0,
-              1.313
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "7b",
-          "text": "使我們堪受基督的恩許。",
-          "phonetic": "shǐ wǒ men kān shòu Jī dū de ēn xǔ.",
-          "timing": {
-            "full": [
-              30.224,
-              32.25
-            ],
-            "passage": [
-              1.313,
-              3.392
+              1.024,
+              2.432
             ]
           }
         }
@@ -378,16 +363,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "阿們。",
-          "phonetic": "Ā men.",
+          "text": "使我們堪受基督的恩許。",
+          "phonetic": "Shǐ wǒ men kān shòu Jī dū de ēn xǔ.",
           "timing": {
             "full": [
-              32.25,
-              33.395
+              30.224,
+              32.25
             ],
             "passage": [
               0.0,
-              0.642
+              2.155
             ]
           }
         }

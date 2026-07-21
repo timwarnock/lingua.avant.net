@@ -70,21 +70,6 @@
               6.497
             ]
           }
-        },
-        {
-          "passage_segment_id": "1e",
-          "text": "エヴァの子らなるわれら捕らわれの者は汝に呼ばわり、",
-          "phonetic": "Eva no kora naru warera toraware no mono wa nanji ni yobawari,",
-          "timing": {
-            "full": [
-              6.497,
-              10.474
-            ],
-            "passage": [
-              6.497,
-              10.474
-            ]
-          }
         }
       ]
     },
@@ -93,6 +78,26 @@
       "segments": [
         {
           "passage_segment_id": "2a",
+          "text": "エヴァの子らなるわれら捕らわれの者は汝に呼ばわり、",
+          "phonetic": "Eva no kora naru warera toraware no mono wa nanji ni yobawari,",
+          "timing": {
+            "full": [
+              6.497,
+              10.474
+            ],
+            "passage": [
+              0.0,
+              3.274
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
           "text": "ためいき悲しみ泣きつつこの涙の谷にあり。",
           "phonetic": "tameiki kanashimi naki tsutsu kono namida no tani ni ari.",
           "timing": {
@@ -105,71 +110,6 @@
               2.932
             ]
           }
-        },
-        {
-          "passage_segment_id": "2b",
-          "text": "さればわれらの弁護者なる聖マリアよ、",
-          "phonetic": "sareba warera no bengosha naru sei Maria yo,",
-          "timing": {
-            "full": [
-              13.632,
-              16.763
-            ],
-            "passage": [
-              2.932,
-              6.197
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "passage_id": 3,
-      "segments": [
-        {
-          "passage_segment_id": "3a",
-          "text": "汝のいつくしみのまなざしをわれらに向けたまえ。",
-          "phonetic": "nanji no itsukushimi no manazashi o warera ni muketamae.",
-          "timing": {
-            "full": [
-              16.763,
-              20.092
-            ],
-            "passage": [
-              0.0,
-              3.024
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3b",
-          "text": "この捕らわれののち、",
-          "phonetic": "kono toraware no nochi,",
-          "timing": {
-            "full": [
-              20.092,
-              22.105
-            ],
-            "passage": [
-              3.024,
-              5.053
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "イエスを示したまえ。",
-          "phonetic": "Iesu o shimeshita mae.",
-          "timing": {
-            "full": [
-              22.105,
-              23.816
-            ],
-            "passage": [
-              5.053,
-              6.763
-            ]
-          }
         }
       ]
     },
@@ -178,46 +118,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "幸いなる御胎の実。",
-          "phonetic": "saiwai naru ontai no mi.",
+          "text": "さればわれらの弁護者なる聖マリアよ、",
+          "phonetic": "sareba warera no bengosha naru sei Maria yo,",
           "timing": {
             "full": [
-              23.816,
-              26.039
+              13.632,
+              16.763
             ],
             "passage": [
               0.0,
-              1.524
+              2.418
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "憐れみ深き聖母マリアよ、",
-          "phonetic": "awaremi fukaki seibo Maria yo,",
+          "text": "汝のいつくしみのまなざしをわれらに向けたまえ。",
+          "phonetic": "nanji no itsukushimi no manazashi o warera ni muketamae.",
           "timing": {
             "full": [
-              26.039,
-              28.54
+              16.763,
+              20.092
             ],
             "passage": [
-              1.524,
-              4.053
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "4c",
-          "text": "おお優しく、",
-          "phonetic": "ō yasashiku,",
-          "timing": {
-            "full": [
-              28.54,
-              29.737
-            ],
-            "passage": [
-              4.053,
-              5.21
+              2.418,
+              5.747
             ]
           }
         }
@@ -228,61 +153,46 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "おお慈しみ深く、",
-          "phonetic": "ō itsukushimi fukaku,",
+          "text": "この捕らわれののち、",
+          "phonetic": "kono toraware no nochi,",
           "timing": {
             "full": [
-              29.737,
-              31.368
+              20.092,
+              22.105
             ],
             "passage": [
               0.0,
-              1.392
+              1.3
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "おお甘美なる聖母マリアよ。",
-          "phonetic": "ō kanbi naru seibo Maria yo.",
+          "text": "イエスを示したまえ。",
+          "phonetic": "Iesu o shimeshitamae.",
           "timing": {
             "full": [
-              31.368,
-              33.487
+              22.105,
+              23.816
             ],
             "passage": [
-              1.392,
-              3.524
+              1.3,
+              3.011
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "聖マリア、神の母、",
-          "phonetic": "Sei Maria, Kami no haha,",
+          "text": "幸いなる御胎の実。",
+          "phonetic": "saiwai naru ontai no mi.",
           "timing": {
             "full": [
-              33.487,
-              36.171
+              23.816,
+              26.039
             ],
             "passage": [
-              3.524,
-              6.224
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "5d",
-          "text": "わたしたちのために祈ってください。",
-          "phonetic": "watashitachi no tame ni inotte kudasai.",
-          "timing": {
-            "full": [
-              36.171,
-              38.474
-            ],
-            "passage": [
-              6.224,
-              8.526
+              3.011,
+              5.237
             ]
           }
         }
@@ -293,46 +203,61 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "キリストの約束にあずかれるように。",
-          "phonetic": "Kirisuto no yakusoku ni azukareru yō ni.",
+          "text": "憐れみ深き聖母マリアよ、",
+          "phonetic": "awaremi fukaki seibo Maria yo,",
           "timing": {
             "full": [
-              38.474,
-              41.474
+              26.039,
+              28.54
             ],
             "passage": [
               0.0,
-              2.234
+              1.774
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "祈りましょう。",
-          "phonetic": "Inorimashō.",
+          "text": "おお優しく、",
+          "phonetic": "ō yasashiku,",
           "timing": {
             "full": [
-              41.474,
-              43.224
+              28.54,
+              29.737
             ],
             "passage": [
-              2.234,
-              3.987
+              1.774,
+              2.971
             ]
           }
         },
         {
           "passage_segment_id": "6c",
-          "text": "神よ、あなたの独り子は、",
-          "phonetic": "Kami yo, anata no hitoriko wa,",
+          "text": "おお慈しみ深く、",
+          "phonetic": "ō itsukushimi fukaku,",
           "timing": {
             "full": [
-              43.224,
-              45.96
+              29.737,
+              31.368
             ],
             "passage": [
-              3.987,
-              6.882
+              2.971,
+              4.603
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "おお甘美なる聖母マリアよ。",
+          "phonetic": "ō kanbi naru seibo Maria yo.",
+          "timing": {
+            "full": [
+              31.368,
+              33.487
+            ],
+            "passage": [
+              4.603,
+              6.721
             ]
           }
         }
@@ -343,31 +268,31 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "その生涯、死、復活によって、",
-          "phonetic": "sono shōgai, shi, fukkatsu ni yotte,",
+          "text": "聖マリア、神の母、",
+          "phonetic": "Sei Maria, Kami no haha,",
           "timing": {
             "full": [
-              45.96,
-              49.184
+              33.487,
+              36.171
             ],
             "passage": [
               0.0,
-              3.01
+              1.984
             ]
           }
         },
         {
           "passage_segment_id": "7b",
-          "text": "わたしたちに永遠の命の報いを得させてくださいました。",
-          "phonetic": "watashitachi ni eien no inochi no mukui o esasetekudasaimashita.",
+          "text": "わたしたちのために祈ってください。",
+          "phonetic": "watashitachi no tame ni inotte kudasai.",
           "timing": {
             "full": [
-              49.184,
-              53.066
+              36.171,
+              38.474
             ],
             "passage": [
-              3.01,
-              6.918
+              1.984,
+              4.287
             ]
           }
         }
@@ -378,16 +303,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "どうか、至聖なるマリアのロザリオの神秘を黙想するわたしたちが、その中に含まれることをまね、約束されたものを得ることができますように。主イエス・キリストによって、アーメン。",
-          "phonetic": "Dōka, shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga, sono naka ni fukumareru koto o mane, yakusoku sareta mono o eru koto ga dekimasu yō ni. Shu Iesu Kirisuto ni yotte, Āmen.",
+          "text": "キリストの約束にあずかれるように。",
+          "phonetic": "Kirisuto no yakusoku ni azukareru yō ni.",
           "timing": {
             "full": [
-              53.066,
-              67.053
+              38.474,
+              41.474
             ],
             "passage": [
               0.0,
-              13.276
+              2.234
             ]
           }
         }

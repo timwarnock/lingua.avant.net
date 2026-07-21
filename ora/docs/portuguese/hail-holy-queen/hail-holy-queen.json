@@ -18,7 +18,7 @@
           "timing": {
             "full": [
               0.0,
-              1.247
+              1.221
             ],
             "passage": [
               0.0,
@@ -32,12 +32,12 @@
           "phonetic": "Mãe de misericórdia,",
           "timing": {
             "full": [
-              1.247,
+              1.221,
               2.563
             ],
             "passage": [
               1.247,
-              2.563
+              2.589
             ]
           }
         },
@@ -48,41 +48,26 @@
           "timing": {
             "full": [
               2.563,
-              4.721
+              4.853
             ],
             "passage": [
-              2.563,
-              4.721
+              2.589,
+              4.774
             ]
           }
         },
         {
           "passage_segment_id": "1d",
           "text": "salve.",
-          "phonetic": "salve.",
+          "phonetic": "salve,",
           "timing": {
             "full": [
-              4.721,
-              5.247
+              4.853,
+              5.392
             ],
             "passage": [
-              4.721,
-              5.247
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "1e",
-          "text": "A vós bradamos os degredados filhos de Eva;",
-          "phonetic": "A vós bradamos os degredados filhos de Eva;",
-          "timing": {
-            "full": [
-              5.247,
-              8.158
-            ],
-            "passage": [
-              5.247,
-              8.237
+              4.774,
+              5.313
             ]
           }
         }
@@ -93,31 +78,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "a vós suspiramos,",
-          "phonetic": "a vós suspiramos,",
+          "text": "A vós bradamos",
+          "phonetic": "A vós bradamos,",
           "timing": {
             "full": [
-              8.158,
-              9.5
+              5.392,
+              6.432
             ],
             "passage": [
               0.0,
-              1.234
+              1.182
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "gemendo e chorando neste vale de lágrimas.",
-          "phonetic": "gemendo e chorando neste vale de lágrimas.",
+          "text": "os degredados filhos de Eva;",
+          "phonetic": "os degredados filhos de Eva,",
           "timing": {
             "full": [
-              9.5,
-              12.145
+              6.432,
+              8.313
             ],
             "passage": [
-              1.234,
-              3.866
+              1.182,
+              2.971
             ]
           }
         }
@@ -128,31 +113,46 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "Eia, pois, advogada nossa,",
-          "phonetic": "Eia, pois, advogada nossa,",
+          "text": "a vós suspiramos,",
+          "phonetic": "a vós suspiramos,",
           "timing": {
             "full": [
-              12.145,
-              14.263
+              8.313,
+              9.616
             ],
             "passage": [
               0.0,
-              1.945
+              1.22
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "esses vossos olhos misericordiosos a nós volvei.",
-          "phonetic": "esses vossos olhos misericordiosos a nós volvei.",
+          "text": "gemendo e chorando",
+          "phonetic": "gemendo e chorando,",
           "timing": {
             "full": [
-              14.263,
-              17.368
+              9.616,
+              10.839
             ],
             "passage": [
-              1.945,
-              5.05
+              1.22,
+              2.352
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "neste vale de lágrimas.",
+          "phonetic": "neste vale de lágrimas,",
+          "timing": {
+            "full": [
+              10.839,
+              12.447
+            ],
+            "passage": [
+              2.352,
+              3.826
             ]
           }
         }
@@ -167,8 +167,8 @@
           "phonetic": "Eia, pois, advogada nossa,",
           "timing": {
             "full": [
-              17.368,
-              19.487
+              12.447,
+              14.303
             ],
             "passage": [
               0.0,
@@ -179,15 +179,15 @@
         {
           "passage_segment_id": "4b",
           "text": "esses vossos olhos misericordiosos a nós volvei.",
-          "phonetic": "esses vossos olhos misericordiosos a nós volvei.",
+          "phonetic": "esses vossos olhos misericordiosos a nós volvei,",
           "timing": {
             "full": [
-              19.487,
-              22.592
+              14.303,
+              17.421
             ],
             "passage": [
               1.945,
-              5.05
+              5.037
             ]
           }
         }
@@ -202,12 +202,12 @@
           "phonetic": "E, depois deste desterro,",
           "timing": {
             "full": [
-              22.592,
-              24.303
+              17.421,
+              19.026
             ],
             "passage": [
               0.0,
-              1.537
+              1.524
             ]
           }
         },
@@ -217,27 +217,27 @@
           "phonetic": "nos mostrai Jesus,",
           "timing": {
             "full": [
-              24.303,
-              25.513
+              19.026,
+              20.342
             ],
             "passage": [
-              1.537,
-              2.747
+              1.524,
+              2.734
             ]
           }
         },
         {
           "passage_segment_id": "5c",
           "text": "bendito fruto do vosso ventre.",
-          "phonetic": "bendito fruto do vosso ventre.",
+          "phonetic": "bendito fruto do vosso ventre,",
           "timing": {
             "full": [
-              25.513,
-              27.605
+              20.342,
+              22.421
             ],
             "passage": [
-              2.747,
-              4.84
+              2.734,
+              4.813
             ]
           }
         }
@@ -252,8 +252,8 @@
           "phonetic": "Ó clemente,",
           "timing": {
             "full": [
-              27.605,
-              28.671
+              22.421,
+              23.289
             ],
             "passage": [
               0.0,
@@ -267,8 +267,8 @@
           "phonetic": "ó piedosa,",
           "timing": {
             "full": [
-              28.671,
-              29.566
+              23.289,
+              24.276
             ],
             "passage": [
               0.892,
@@ -279,15 +279,15 @@
         {
           "passage_segment_id": "6c",
           "text": "ó doce Virgem Maria.",
-          "phonetic": "ó doce Virgem Maria.",
+          "phonetic": "ó doce Virgem Maria,",
           "timing": {
             "full": [
-              29.566,
-              31.184
+              24.276,
+              25.855
             ],
             "passage": [
               1.787,
-              3.405
+              3.418
             ]
           }
         }
@@ -302,26 +302,26 @@
           "phonetic": "Rogai por nós,",
           "timing": {
             "full": [
-              31.184,
-              32.355
+              25.855,
+              26.895
             ],
             "passage": [
               0.0,
-              0.997
+              1.011
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "Santa Mãe de Deus.",
-          "phonetic": "Santa Mãe de Deus.",
+          "phonetic": "Santa Mãe de Deus,",
           "timing": {
             "full": [
-              32.355,
-              33.71
+              26.895,
+              28.276
             ],
             "passage": [
-              0.997,
+              1.011,
               2.353
             ]
           }
@@ -334,11 +334,11 @@
         {
           "passage_segment_id": "8a",
           "text": "Para que sejamos dignos das promessas de Cristo.",
-          "phonetic": "Para que sejamos dignos das promessas de Cristo.",
+          "phonetic": "Para que sejamos dignos das promessas de Cristo,",
           "timing": {
             "full": [
-              33.71,
-              36.763
+              28.276,
+              31.171
             ],
             "passage": [
               0.0,

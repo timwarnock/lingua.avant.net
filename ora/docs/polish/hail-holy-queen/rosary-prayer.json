@@ -14,11 +14,11 @@
         {
           "passage_segment_id": "1a",
           "text": "Módlmy się.",
-          "phonetic": "Módlmy się.",
+          "phonetic": "Módlmy się,",
           "timing": {
             "full": [
               0.0,
-              0.734
+              0.707
             ],
             "passage": [
               0.0,
@@ -37,12 +37,12 @@
           "phonetic": "Boże,",
           "timing": {
             "full": [
-              0.734,
-              2.078
+              0.707,
+              1.141
             ],
             "passage": [
               0.0,
-              0.47
+              0.484
             ]
           }
         },
@@ -52,11 +52,11 @@
           "phonetic": "którego Jednorodzony Syn przez życie,",
           "timing": {
             "full": [
-              2.078,
-              3.947
+              1.141,
+              3.01
             ],
             "passage": [
-              0.47,
+              0.484,
               2.378
             ]
           }
@@ -67,12 +67,12 @@
           "phonetic": "śmierć i zmartwychwstanie,",
           "timing": {
             "full": [
-              3.947,
-              5.434
+              3.01,
+              4.602
             ],
             "passage": [
               2.378,
-              3.878
+              3.905
             ]
           }
         },
@@ -82,42 +82,12 @@
           "phonetic": "wysłużył nam nagrodę życia wiecznego,",
           "timing": {
             "full": [
-              5.434,
-              7.526
+              4.602,
+              6.734
             ],
             "passage": [
-              3.878,
-              5.97
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2e",
-          "text": "daj nam, prosimy Cię,",
-          "phonetic": "daj nam, prosimy Cię,",
-          "timing": {
-            "full": [
-              7.526,
-              9.144
-            ],
-            "passage": [
-              5.97,
-              7.668
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2f",
-          "text": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny,",
-          "phonetic": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny,",
-          "timing": {
-            "full": [
-              9.144,
-              13.71
-            ],
-            "passage": [
-              7.668,
-              12.457
+              3.905,
+              6.141
             ]
           }
         }
@@ -132,8 +102,8 @@
           "phonetic": "daj nam, prosimy Cię,",
           "timing": {
             "full": [
-              13.71,
-              15.21
+              6.734,
+              8.444
             ],
             "passage": [
               0.0,
@@ -147,27 +117,12 @@
           "phonetic": "abyśmy rozważając te tajemnice Najświętszego Różańca Najświętszej Maryi Panny,",
           "timing": {
             "full": [
-              15.21,
-              19.684
+              8.444,
+              13.062
             ],
             "passage": [
               1.457,
-              5.799
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "naśladowali to, co one zawierają,",
-          "phonetic": "naśladowali to, co one zawierają,",
-          "timing": {
-            "full": [
-              19.684,
-              21.802
-            ],
-            "passage": [
-              5.799,
-              8.247
+              5.826
             ]
           }
         }
@@ -178,16 +133,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
+          "text": "naśladowali to, co one zawierają,",
+          "phonetic": "naśladowali to, co one zawierają,",
+          "timing": {
+            "full": [
+              13.062,
+              15.102
+            ],
+            "passage": [
+              0.0,
+              2.062
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
           "text": "i otrzymali to, co obiecują,",
           "phonetic": "i otrzymali to, co obiecują,",
           "timing": {
             "full": [
-              21.802,
-              23.987
+              15.102,
+              17.049
             ],
             "passage": [
-              0.0,
-              1.878
+              2.062,
+              3.997
             ]
           }
         }
@@ -198,12 +168,12 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Przez Chrystusa Pana naszego,",
+          "text": "Przez Chrystusa Pana naszego.",
           "phonetic": "Przez Chrystusa Pana naszego,",
           "timing": {
             "full": [
-              23.987,
-              25.697
+              17.049,
+              18.747
             ],
             "passage": [
               0.0,
@@ -222,8 +192,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              25.697,
-              26.303
+              18.747,
+              19.444
             ],
             "passage": [
               0.0,
@@ -242,27 +212,27 @@
           "phonetic": "Najświętsze Serce Jezusa,",
           "timing": {
             "full": [
-              26.303,
-              28.802
+              19.444,
+              21.841
             ],
             "passage": [
               0.0,
-              1.681
+              1.655
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "zmiłuj się nad nami.",
-          "phonetic": "zmiłuj się nad nami.",
+          "phonetic": "zmiłuj się nad nami,",
           "timing": {
             "full": [
-              28.802,
-              30.065
+              21.841,
+              23.026
             ],
             "passage": [
-              1.681,
-              2.944
+              1.655,
+              2.918
             ]
           }
         }
@@ -277,8 +247,8 @@
           "phonetic": "Niepokalane Serce Maryi,",
           "timing": {
             "full": [
-              30.065,
-              32.552
+              23.026,
+              24.697
             ],
             "passage": [
               0.0,
@@ -292,8 +262,8 @@
           "phonetic": "módl się za nami.",
           "timing": {
             "full": [
-              32.552,
-              33.631
+              24.697,
+              25.841
             ],
             "passage": [
               1.549,

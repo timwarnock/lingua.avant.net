@@ -105,21 +105,6 @@
               9.129
             ]
           }
-        },
-        {
-          "passage_segment_id": "2f",
-          "text": "どうか、",
-          "phonetic": "dōka,",
-          "timing": {
-            "full": [
-              10.855,
-              12.079
-            ],
-            "passage": [
-              9.129,
-              10.487
-            ]
-          }
         }
       ]
     },
@@ -128,6 +113,21 @@
       "segments": [
         {
           "passage_segment_id": "3a",
+          "text": "どうか、",
+          "phonetic": "dōka,",
+          "timing": {
+            "full": [
+              10.855,
+              12.079
+            ],
+            "passage": [
+              0.0,
+              0.511
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
           "text": "至聖なるマリアのロザリオの神秘を黙想するわたしたちが、",
           "phonetic": "shisei naru Maria no rozario no shinpi o mokusō suru watashitachi ga,",
           "timing": {
@@ -136,38 +136,8 @@
               16.066
             ],
             "passage": [
-              0.0,
-              3.695
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3b",
-          "text": "その中に含まれることをまね、",
-          "phonetic": "sono naka ni fukumareru koto o mane,",
-          "timing": {
-            "full": [
-              16.066,
-              18.329
-            ],
-            "passage": [
-              3.695,
-              5.945
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "約束されたものを得ることができますように。",
-          "phonetic": "yakusoku sareta mono o eru koto ga dekimasu yō ni.",
-          "timing": {
-            "full": [
-              18.329,
-              21.355
-            ],
-            "passage": [
-              5.945,
-              8.997
+              0.511,
+              4.524
             ]
           }
         }
@@ -178,31 +148,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "主イエス・キリストによって,",
-          "phonetic": "Shu Iesu Kirisuto ni yotte,",
+          "text": "その中に含まれることをまね、",
+          "phonetic": "sono naka ni fukumareru koto o mane,",
           "timing": {
             "full": [
-              21.355,
-              23.842
+              16.066,
+              18.329
             ],
             "passage": [
               0.0,
-              1.774
+              1.932
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "アーメン。",
-          "phonetic": "Āmen.",
+          "text": "約束されたものを得ることができますように。",
+          "phonetic": "yakusoku sareta mono o eru koto ga dekimasu yō ni.",
           "timing": {
             "full": [
-              23.842,
-              24.724
+              18.329,
+              21.355
             ],
             "passage": [
-              1.774,
-              2.655
+              1.932,
+              4.971
             ]
           }
         }
@@ -213,16 +183,16 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "主イエス・キリストによって,",
-          "phonetic": "Shu Iesu Kirisuto ni yotte,",
+          "text": "主イエス・キリストによって。",
+          "phonetic": "Shu Iesu Kirisuto ni yotte.",
           "timing": {
             "full": [
-              24.724,
-              27.25
+              21.355,
+              23.882
             ],
             "passage": [
               0.0,
-              1.8
+              1.813
             ]
           }
         }
@@ -237,8 +207,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              27.25,
-              28.132
+              23.882,
+              25.316
             ],
             "passage": [
               0.0,
@@ -257,8 +227,8 @@
           "phonetic": "Iesu no mikokoro yo,",
           "timing": {
             "full": [
-              28.132,
-              30.092
+              25.316,
+              27.276
             ],
             "passage": [
               0.0,
@@ -272,8 +242,8 @@
           "phonetic": "watashitachi o awarende kudasai.",
           "timing": {
             "full": [
-              30.092,
-              32.263
+              27.276,
+              29.447
             ],
             "passage": [
               1.208,
@@ -292,8 +262,8 @@
           "phonetic": "Maria no mikokoro yo,",
           "timing": {
             "full": [
-              32.263,
-              34.224
+              29.447,
+              31.408
             ],
             "passage": [
               0.0,
@@ -307,8 +277,8 @@
           "phonetic": "watashitachi no tame ni inotte kudasai.",
           "timing": {
             "full": [
-              34.224,
-              36.553
+              31.408,
+              33.737
             ],
             "passage": [
               1.208,

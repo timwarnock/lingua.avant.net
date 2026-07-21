@@ -42,7 +42,7 @@
             ],
             "passage": [
               0.0,
-              0.668
+              0.682
             ]
           }
         },
@@ -56,8 +56,8 @@
               6.092
             ],
             "passage": [
-              0.668,
-              4.313
+              0.682,
+              4.339
             ]
           }
         },
@@ -71,53 +71,8 @@
               8.605
             ],
             "passage": [
-              4.313,
-              6.826
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2d",
-          "text": "求祢賞賜我們，",
-          "phonetic": "qiú nǐ shǎng cì wǒ men,",
-          "timing": {
-            "full": [
-              8.605,
-              10.263
-            ],
-            "passage": [
-              6.826,
-              8.484
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2e",
-          "text": "當我們默想聖母玫瑰經的奧蹟時，",
-          "phonetic": "dāng wǒ men mò xiǎng shèng mǔ méi guī jīng de ào jī shí,",
-          "timing": {
-            "full": [
-              10.263,
-              13.276
-            ],
-            "passage": [
-              8.484,
-              11.461
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2f",
-          "text": "能夠效法這些奧蹟的內容，",
-          "phonetic": "néng gòu xiào fǎ zhè xiē ào jī de nèi róng,",
-          "timing": {
-            "full": [
-              13.276,
-              15.684
-            ],
-            "passage": [
-              11.461,
-              13.829
+              4.339,
+              6.918
             ]
           }
         }
@@ -128,46 +83,31 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "並獲得它們所許諾的恩寵。",
-          "phonetic": "bìng huò dé tā men suǒ xǔ nuò de ēn chǒng.",
+          "text": "求祢賞賜我們，",
+          "phonetic": "qiú nǐ shǎng cì wǒ men,",
           "timing": {
             "full": [
-              15.684,
-              18.118
+              8.605,
+              10.263
             ],
             "passage": [
               0.0,
-              2.3
+              1.418
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "因我們的主基督。",
-          "phonetic": "yīn wǒ men de zhǔ Jī dū.",
+          "text": "當我們默想聖母玫瑰經的奧蹟時，",
+          "phonetic": "dāng wǒ men mò xiǎng shèng mǔ méi guī jīng de ào jī shí,",
           "timing": {
             "full": [
-              18.118,
-              20.079
+              10.263,
+              13.276
             ],
             "passage": [
-              2.3,
-              4.263
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "阿們。",
-          "phonetic": "Ā men.",
-          "timing": {
-            "full": [
-              20.079,
-              21.21
-            ],
-            "passage": [
-              4.263,
-              5.395
+              1.418,
+              4.392
             ]
           }
         }
@@ -178,31 +118,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "耶穌聖心，",
-          "phonetic": "Yē sū shèng xīn,",
+          "text": "能夠效法這些奧蹟的內容，",
+          "phonetic": "néng gòu xiào fǎ zhè xiē ào jī de nèi róng,",
           "timing": {
             "full": [
-              21.21,
-              22.711
+              13.276,
+              15.684
             ],
             "passage": [
               0.0,
-              1.011
+              2.537
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "求祢垂憐我們。",
-          "phonetic": "qiú nǐ chuí lián wǒ men.",
+          "text": "並獲得它們所許諾的恩寵。",
+          "phonetic": "bìng huò dé tā men suǒ xǔ nuò de ēn chǒng.",
           "timing": {
             "full": [
-              22.711,
-              24.276
+              15.684,
+              18.118
             ],
             "passage": [
-              1.011,
-              2.576
+              2.537,
+              4.971
             ]
           }
         }
@@ -213,31 +153,16 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "瑪利亞無玷聖心，",
-          "phonetic": "Mǎ lì yà wú diàn shèng xīn,",
+          "text": "因我們的主基督。",
+          "phonetic": "Yīn wǒ men de zhǔ Jī dū.",
           "timing": {
             "full": [
-              24.276,
-              26.303
+              18.118,
+              20.079
             ],
             "passage": [
               0.0,
-              1.524
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "5b",
-          "text": "為我們祈禱。",
-          "phonetic": "wèi wǒ men qí dǎo.",
-          "timing": {
-            "full": [
-              26.303,
-              27.487
-            ],
-            "passage": [
-              1.524,
-              2.708
+              1.458
             ]
           }
         }
@@ -252,8 +177,8 @@
           "phonetic": "Ā men.",
           "timing": {
             "full": [
-              27.487,
-              28.632
+              20.079,
+              21.21
             ],
             "passage": [
               0.0,
@@ -272,8 +197,8 @@
           "phonetic": "Yē sū shèng xīn,",
           "timing": {
             "full": [
-              28.632,
-              30.132
+              21.21,
+              22.711
             ],
             "passage": [
               0.0,
@@ -287,8 +212,8 @@
           "phonetic": "qiú nǐ chuí lián wǒ men.",
           "timing": {
             "full": [
-              30.132,
-              31.697
+              22.711,
+              24.276
             ],
             "passage": [
               1.011,
@@ -307,8 +232,8 @@
           "phonetic": "Mǎ lì yà wú diàn shèng xīn,",
           "timing": {
             "full": [
-              31.697,
-              33.724
+              24.276,
+              26.303
             ],
             "passage": [
               0.0,
@@ -322,8 +247,8 @@
           "phonetic": "wèi wǒ men qí dǎo.",
           "timing": {
             "full": [
-              33.724,
-              34.908
+              26.303,
+              27.487
             ],
             "passage": [
               1.524,
