@@ -118,3 +118,13 @@ uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all 
 - **WARN** = slow / suspicious; check short segments by ear (Amen holds and padding can warn without letter-spelling).
 
 See also `notes-agents.md` section **Greek prayer text and TTS**.
+
+## Latin Edge TTS A/B samples
+
+Generate listen-test mp3s and `index.md` into `ora/docs/audio-testing/` (site content only; this script stays in `audio-utils/`). Currently focused on **Sancta / sanct-** (hard **k** vs Italian/Spanish *Santa*):
+
+```bash
+uv run --with edge-tts python audio-utils/generate-latin-ab.py
+```
+
+Voice/rate match production Latin: `it-IT-DiegoNeural`, `-15%`.

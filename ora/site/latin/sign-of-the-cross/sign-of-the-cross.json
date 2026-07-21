@@ -18,7 +18,7 @@
           "timing": {
             "full": [
               0.0,
-              1.462
+              1.447
             ],
             "passage": [
               0.0,
@@ -32,27 +32,27 @@
           "phonetic": "et Filii,",
           "timing": {
             "full": [
-              1.462,
-              2.579
+              1.447,
+              2.535
             ],
             "passage": [
               1.432,
-              2.506
+              2.491
             ]
           }
         },
         {
           "passage_segment_id": "1c",
           "text": "et Spiritus Sancti.",
-          "phonetic": "et Spiritus Sancti,",
+          "phonetic": "et Spiritus Sànkti,",
           "timing": {
             "full": [
-              2.579,
-              4.432
+              2.535,
+              4.521
             ],
             "passage": [
-              2.506,
-              4.388
+              2.491,
+              4.506
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              4.432,
-              5.065
+              4.521,
+              5.138
             ],
             "passage": [
               0.0,

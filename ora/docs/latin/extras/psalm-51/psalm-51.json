@@ -323,11 +323,11 @@
           "timing": {
             "full": [
               48.162,
-              51.529
+              51.544
             ],
             "passage": [
               0.0,
-              2.447
+              2.462
             ]
           }
         },
@@ -337,27 +337,27 @@
           "phonetic": "incerta et occulta sapientiae tuae",
           "timing": {
             "full": [
-              51.529,
-              54.132
+              51.544,
+              54.118
             ],
             "passage": [
-              2.447,
-              5.05
+              2.462,
+              5.035
             ]
           }
         },
         {
           "passage_segment_id": "8c",
           "text": "manifestasti mihi.",
-          "phonetic": "manifestasti mihi.",
+          "phonetic": "manifestasti michi.",
           "timing": {
             "full": [
-              54.132,
-              55.471
+              54.118,
+              55.515
             ],
             "passage": [
-              5.05,
-              6.388
+              5.035,
+              6.432
             ]
           }
         }
@@ -372,8 +372,8 @@
           "phonetic": "Asperges me issopo, et mundabor;",
           "timing": {
             "full": [
-              55.471,
-              59.324
+              55.515,
+              59.382
             ],
             "passage": [
               0.0,
@@ -387,8 +387,8 @@
           "phonetic": "lavabis me, et super nivem dealbabor.",
           "timing": {
             "full": [
-              59.324,
-              62.75
+              59.382,
+              62.809
             ],
             "passage": [
               2.932,
@@ -407,8 +407,8 @@
           "phonetic": "Auditui meo dabis gaudium et letitiam,",
           "timing": {
             "full": [
-              62.75,
-              66.66
+              62.809,
+              66.718
             ],
             "passage": [
               0.0,
@@ -422,8 +422,8 @@
           "phonetic": "et esultabunt ossa umiliata.",
           "timing": {
             "full": [
-              66.66,
-              69.012
+              66.718,
+              69.071
             ],
             "passage": [
               2.989,
@@ -442,8 +442,8 @@
           "phonetic": "Averte faciem tuam a peccatis meis,",
           "timing": {
             "full": [
-              69.012,
-              72.691
+              69.071,
+              72.75
             ],
             "passage": [
               0.0,
@@ -457,8 +457,8 @@
           "phonetic": "et omnes iniquitates meas dele.",
           "timing": {
             "full": [
-              72.691,
-              75.353
+              72.75,
+              75.412
             ],
             "passage": [
               2.756,
@@ -477,8 +477,8 @@
           "phonetic": "Cor mundum crea in me, Déus,",
           "timing": {
             "full": [
-              75.353,
-              78.662
+              75.412,
+              78.721
             ],
             "passage": [
               0.0,
@@ -492,8 +492,8 @@
           "phonetic": "et spiritum rectum innova in visceribus meis.",
           "timing": {
             "full": [
-              78.662,
-              82.338
+              78.721,
+              82.397
             ],
             "passage": [
               2.388,
@@ -512,8 +512,8 @@
           "phonetic": "Ne proiicias me a facie tua,",
           "timing": {
             "full": [
-              82.338,
-              85.412
+              82.397,
+              85.471
             ],
             "passage": [
               0.0,
@@ -527,8 +527,8 @@
           "phonetic": "et spiritum sanctum tuum ne auferas a me.",
           "timing": {
             "full": [
-              85.412,
-              88.927
+              85.471,
+              88.985
             ],
             "passage": [
               2.153,
@@ -544,15 +544,15 @@
         {
           "passage_segment_id": "14a",
           "text": "Redde mihi laetitiam salutaris tui,",
-          "phonetic": "Redde mihi letitiam salutaris tui,",
+          "phonetic": "Redde michi letitiam salutaris tui,",
           "timing": {
             "full": [
-              88.927,
-              92.426
+              88.985,
+              92.647
             ],
             "passage": [
               0.0,
-              2.579
+              2.741
             ]
           }
         },
@@ -562,12 +562,12 @@
           "phonetic": "et spiritu principali confirma me.",
           "timing": {
             "full": [
-              92.426,
-              95.221
+              92.647,
+              95.441
             ],
             "passage": [
-              2.579,
-              5.374
+              2.741,
+              5.535
             ]
           }
         }
@@ -582,8 +582,8 @@
           "phonetic": "Docebo iniquos vias tuas,",
           "timing": {
             "full": [
-              95.221,
-              98.265
+              95.441,
+              98.485
             ],
             "passage": [
               0.0,
@@ -597,8 +597,8 @@
           "phonetic": "et impii ad te convertentur.",
           "timing": {
             "full": [
-              98.265,
-              100.691
+              98.485,
+              100.912
             ],
             "passage": [
               2.124,
@@ -617,8 +617,8 @@
           "phonetic": "Libera me de sanguinibus, Déus,",
           "timing": {
             "full": [
-              100.691,
-              104.324
+              100.912,
+              104.544
             ],
             "passage": [
               0.0,
@@ -632,8 +632,8 @@
           "phonetic": "Déus salutis meae,",
           "timing": {
             "full": [
-              104.324,
-              106.279
+              104.544,
+              106.5
             ],
             "passage": [
               2.712,
@@ -644,15 +644,15 @@
         {
           "passage_segment_id": "16c",
           "text": "et exsultabit lingua mea justitiam tuam.",
-          "phonetic": "et esultabit lingua mea iustitiam tuam.",
+          "phonetic": "et esultabit lingua mea iustitsiam tuam.",
           "timing": {
             "full": [
-              106.279,
-              109.706
+              106.5,
+              110.044
             ],
             "passage": [
               4.668,
-              8.094
+              8.212
             ]
           }
         }
@@ -667,8 +667,8 @@
           "phonetic": "Domine, labia mea aperies,",
           "timing": {
             "full": [
-              109.706,
-              112.809
+              110.044,
+              113.162
             ],
             "passage": [
               0.0,
@@ -682,8 +682,8 @@
           "phonetic": "et os meum annuntiabit laudem tuam.",
           "timing": {
             "full": [
-              112.809,
-              116.176
+              113.162,
+              116.529
             ],
             "passage": [
               2.182,
@@ -702,8 +702,8 @@
           "phonetic": "Quoniam si voluisses sacrificium,",
           "timing": {
             "full": [
-              116.176,
-              119.662
+              116.529,
+              120.015
             ],
             "passage": [
               0.0,
@@ -717,8 +717,8 @@
           "phonetic": "dedissem utique;",
           "timing": {
             "full": [
-              119.662,
-              121.162
+              120.015,
+              121.515
             ],
             "passage": [
               2.565,
@@ -732,8 +732,8 @@
           "phonetic": "holocaustis non delectaberis.",
           "timing": {
             "full": [
-              121.162,
-              123.676
+              121.515,
+              124.029
             ],
             "passage": [
               4.065,
@@ -749,15 +749,15 @@
         {
           "passage_segment_id": "19a",
           "text": "Sacrificium Deo spiritus contribulatus;",
-          "phonetic": "Sacrificium Deo spiritus contribulatus;",
+          "phonetic": "Sacrificium Déo spiritus contribulatus;",
           "timing": {
             "full": [
-              123.676,
-              127.75
+              124.029,
+              128.088
             ],
             "passage": [
               0.0,
-              3.153
+              3.138
             ]
           }
         },
@@ -767,12 +767,12 @@
           "phonetic": "cor contritum et umiliatum, Déus,",
           "timing": {
             "full": [
-              127.75,
-              130.662
+              128.088,
+              131.044
             ],
             "passage": [
-              3.153,
-              6.065
+              3.138,
+              6.094
             ]
           }
         },
@@ -782,12 +782,12 @@
           "phonetic": "non despicies.",
           "timing": {
             "full": [
-              130.662,
-              132.191
+              131.044,
+              132.573
             ],
             "passage": [
-              6.065,
-              7.594
+              6.094,
+              7.624
             ]
           }
         }
@@ -802,8 +802,8 @@
           "phonetic": "Benigne fac, Domine,",
           "timing": {
             "full": [
-              132.191,
-              135.059
+              132.573,
+              135.441
             ],
             "passage": [
               0.0,
@@ -817,8 +817,8 @@
           "phonetic": "in bona voluntate tua Sion,",
           "timing": {
             "full": [
-              135.059,
-              137.221
+              135.441,
+              137.603
             ],
             "passage": [
               1.947,
@@ -832,8 +832,8 @@
           "phonetic": "ut edificentur muri Yerusalem.",
           "timing": {
             "full": [
-              137.221,
-              139.824
+              137.603,
+              140.206
             ],
             "passage": [
               4.109,
@@ -852,8 +852,8 @@
           "phonetic": "Tunc acceptabis sacrificium iustitiae,",
           "timing": {
             "full": [
-              139.824,
-              143.706
+              140.206,
+              144.088
             ],
             "passage": [
               0.0,
@@ -867,8 +867,8 @@
           "phonetic": "oblationes et olocausta;",
           "timing": {
             "full": [
-              143.706,
-              145.632
+              144.088,
+              146.015
             ],
             "passage": [
               2.947,
@@ -882,8 +882,8 @@
           "phonetic": "tunc imponent super altare tuum vitulos.",
           "timing": {
             "full": [
-              145.632,
-              148.926
+              146.015,
+              149.309
             ],
             "passage": [
               4.874,

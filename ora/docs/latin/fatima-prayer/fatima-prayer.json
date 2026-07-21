@@ -14,7 +14,7 @@
         {
           "passage_segment_id": "1a",
           "text": "O mi Iesu,",
-          "phonetic": "O mi Iesu,",
+          "phonetic": "O mi Yesu,",
           "timing": {
             "full": [
               0.0,
@@ -69,7 +69,7 @@
         {
           "passage_segment_id": "3a",
           "text": "perduc omnes ad caelum,",
-          "phonetic": "perduc omnes ad caelum,",
+          "phonetic": "perduc omnes ad celum,",
           "timing": {
             "full": [
               5.445,

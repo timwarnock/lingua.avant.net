@@ -14,7 +14,7 @@
         {
           "passage_segment_id": "1a",
           "text": "Domine Iesu Christe,",
-          "phonetic": "Domine Iesu Christe,",
+          "phonetic": "Domine Yesu Christe,",
           "timing": {
             "full": [
               0.0,
@@ -22,22 +22,22 @@
             ],
             "passage": [
               0.0,
-              1.682
+              1.785
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "Fili Dei,",
-          "phonetic": "Fili Dei,",
+          "phonetic": "Fili Déi,",
           "timing": {
             "full": [
               1.726,
-              2.829
+              2.785
             ],
             "passage": [
-              1.682,
-              2.815
+              1.785,
+              2.962
             ]
           }
         }
@@ -52,8 +52,8 @@
           "phonetic": "miserere mei,",
           "timing": {
             "full": [
-              2.829,
-              4.271
+              2.785,
+              4.153
             ],
             "passage": [
               0.0,
@@ -67,8 +67,8 @@
           "phonetic": "peccatoris.",
           "timing": {
             "full": [
-              4.271,
-              5.682
+              4.153,
+              5.565
             ],
             "passage": [
               1.256,

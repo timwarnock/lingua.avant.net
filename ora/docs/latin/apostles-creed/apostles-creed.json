@@ -14,30 +14,30 @@
         {
           "passage_segment_id": "1a",
           "text": "Credo in Deum Patrem omnipotentem,",
-          "phonetic": "Credo in Deum Patrem omnipotentem,",
+          "phonetic": "Credo in Déum Patrem omnipotentem,",
           "timing": {
             "full": [
               0.0,
-              2.3
+              2.285
             ],
             "passage": [
               0.0,
-              2.3
+              2.285
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "Creatorem caeli",
-          "phonetic": "Creatorem cieli",
+          "phonetic": "Creatorem celi",
           "timing": {
             "full": [
-              2.3,
-              3.756
+              2.285,
+              3.741
             ],
             "passage": [
-              2.3,
-              3.756
+              2.285,
+              3.741
             ]
           }
         },
@@ -47,12 +47,12 @@
           "phonetic": "et terrae.",
           "timing": {
             "full": [
-              3.756,
-              4.506
+              3.741,
+              4.491
             ],
             "passage": [
-              3.756,
-              4.506
+              3.741,
+              4.491
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "et in Iesum Christum,",
           "timing": {
             "full": [
-              4.506,
-              7.015
+              4.491,
+              7.0
             ],
             "passage": [
               0.0,
@@ -82,8 +82,8 @@
           "phonetic": "Filium eius unicum,",
           "timing": {
             "full": [
-              7.015,
-              8.735
+              7.0,
+              8.691
             ],
             "passage": [
               1.594,
@@ -97,8 +97,8 @@
           "phonetic": "Dominum nostrum,",
           "timing": {
             "full": [
-              8.735,
-              10.059
+              8.691,
+              10.015
             ],
             "passage": [
               3.374,
@@ -114,15 +114,15 @@
         {
           "passage_segment_id": "3a",
           "text": "qui conceptus est de Spiritu Sancto,",
-          "phonetic": "qui conceptus est de Spiritu Sancto,",
+          "phonetic": "qui conceptus est de Spiritu Sànkto,",
           "timing": {
             "full": [
-              10.059,
-              12.853
+              10.015,
+              12.926
             ],
             "passage": [
               0.0,
-              2.859
+              2.976
             ]
           }
         }
@@ -137,8 +137,8 @@
           "phonetic": "natus ex Maria Virgine,",
           "timing": {
             "full": [
-              12.853,
-              15.132
+              12.926,
+              15.221
             ],
             "passage": [
               0.0,
@@ -157,8 +157,8 @@
           "phonetic": "passus sub Pontio Pilato,",
           "timing": {
             "full": [
-              15.132,
-              17.177
+              15.221,
+              17.265
             ],
             "passage": [
               0.0,
@@ -172,8 +172,8 @@
           "phonetic": "crucifixus,",
           "timing": {
             "full": [
-              17.177,
-              18.603
+              17.265,
+              18.691
             ],
             "passage": [
               2.006,
@@ -187,8 +187,8 @@
           "phonetic": "mortuus, et sepultus,",
           "timing": {
             "full": [
-              18.603,
-              21.074
+              18.691,
+              21.162
             ],
             "passage": [
               3.535,
@@ -207,8 +207,8 @@
           "phonetic": "descendit ad inferos,",
           "timing": {
             "full": [
-              21.074,
-              23.059
+              21.162,
+              23.147
             ],
             "passage": [
               0.0,
@@ -227,8 +227,8 @@
           "phonetic": "tertia die resurrexit a mortuis,",
           "timing": {
             "full": [
-              23.059,
-              25.735
+              23.147,
+              25.809
             ],
             "passage": [
               0.0,
@@ -244,11 +244,11 @@
         {
           "passage_segment_id": "8a",
           "text": "ascendit ad caelos,",
-          "phonetic": "ascendit ad caelos,",
+          "phonetic": "ascendit ad celos,",
           "timing": {
             "full": [
-              25.735,
-              27.544
+              25.809,
+              27.632
             ],
             "passage": [
               0.0,
@@ -264,15 +264,15 @@
         {
           "passage_segment_id": "9a",
           "text": "sedet ad dexteram Dei Patris omnipotentis,",
-          "phonetic": "sedet ad dexteram Dei Patris omnipotentis,",
+          "phonetic": "sedet ad dexteram Déi Patris omnipotentis,",
           "timing": {
             "full": [
-              27.544,
-              30.926
+              27.632,
+              31.059
             ],
             "passage": [
               0.0,
-              3.359
+              3.533
             ]
           }
         }
@@ -287,8 +287,8 @@
           "phonetic": "inde venturus est iudicare vivos et mortuos.",
           "timing": {
             "full": [
-              30.926,
-              34.882
+              31.059,
+              35.015
             ],
             "passage": [
               0.0,
@@ -307,8 +307,8 @@
           "phonetic": "Credo in Spiritum Sanctum,",
           "timing": {
             "full": [
-              34.882,
-              37.794
+              35.015,
+              37.926
             ],
             "passage": [
               0.0,
@@ -319,11 +319,11 @@
         {
           "passage_segment_id": "11b",
           "text": "sanctam Ecclesiam catholicam,",
-          "phonetic": "sanctam Ecclesiam catholicam,",
+          "phonetic": "sànktam Ecclesiam catholicam,",
           "timing": {
             "full": [
-              37.794,
-              40.103
+              37.926,
+              40.235
             ],
             "passage": [
               1.991,
@@ -337,8 +337,8 @@
           "phonetic": "sanctorum communionem,",
           "timing": {
             "full": [
-              40.103,
-              42.074
+              40.235,
+              42.206
             ],
             "passage": [
               4.3,
@@ -352,8 +352,8 @@
           "phonetic": "remissionem peccatorum,",
           "timing": {
             "full": [
-              42.074,
-              43.971
+              42.206,
+              44.103
             ],
             "passage": [
               6.271,
@@ -364,30 +364,30 @@
         {
           "passage_segment_id": "11e",
           "text": "carnis resurrectionem,",
-          "phonetic": "carnis resurrectionem,",
+          "phonetic": "carnis resurretsionem,",
           "timing": {
             "full": [
-              43.971,
-              46.073
+              44.103,
+              46.088
             ],
             "passage": [
               8.168,
-              10.279
+              10.162
             ]
           }
         },
         {
           "passage_segment_id": "11f",
           "text": "vitam aeternam.",
-          "phonetic": "vitam aeternam.",
+          "phonetic": "vitam eternam.",
           "timing": {
             "full": [
-              46.073,
-              47.588
+              46.088,
+              47.603
             ],
             "passage": [
-              10.279,
-              11.794
+              10.162,
+              11.676
             ]
           }
         }
@@ -402,8 +402,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              47.588,
-              49.368
+              47.603,
+              49.382
             ],
             "passage": [
               0.0,

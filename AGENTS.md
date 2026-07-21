@@ -32,7 +32,7 @@ Dev server on :7007 for local dev (user will run, DO NOT RUN THIS YOURSELF).
 Zensical project set up in `ora/`. 
 All content (and style and javascript and assets) go into `ora/docs/`.
 Generated output lands in `ora/site/` (DO NOT EDIT IN HERE).
-DO NOT write logs or plan docs anywhere in `ora/docs/`, webapp content only!
+DO NOT write logs or plan docs or utils anywhere in `ora/docs/`, webapp content only (for audio utils use audio-utils/)!
 
 Migrated old /v/ content organized directly in language/topic sections under `ora/docs/`. 
 
@@ -89,8 +89,6 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 ---
 
 ## TODO
-
-+ carefully tweak latin phonetics for better audio (italian to liturgical latin)
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 

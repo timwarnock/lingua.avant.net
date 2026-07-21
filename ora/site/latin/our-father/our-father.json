@@ -18,26 +18,26 @@
           "timing": {
             "full": [
               0.0,
-              1.124
+              1.109
             ],
             "passage": [
               0.0,
-              1.124
+              1.109
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "qui es in caelis,",
-          "phonetic": "qui es in caelis,",
+          "phonetic": "qui es in celis,",
           "timing": {
             "full": [
-              1.124,
-              2.668
+              1.109,
+              2.565
             ],
             "passage": [
-              1.124,
-              2.668
+              1.109,
+              2.565
             ]
           }
         },
@@ -47,12 +47,12 @@
           "phonetic": "sanctificetur nomen tuum.",
           "timing": {
             "full": [
-              2.668,
-              4.991
+              2.565,
+              4.903
             ],
             "passage": [
-              2.668,
-              4.991
+              2.565,
+              4.903
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "Adveniat regnum tuum.",
           "timing": {
             "full": [
-              4.991,
-              7.941
+              4.903,
+              7.853
             ],
             "passage": [
               0.0,
@@ -84,11 +84,11 @@
         {
           "passage_segment_id": "3a",
           "text": "Fiat voluntas tua, sicut in caelo et in terra.",
-          "phonetic": "Fiat voluntas tua, sicut in cielo et in terra.",
+          "phonetic": "Fiat voluntas tua, sicut in celo et in terra.",
           "timing": {
             "full": [
-              7.941,
-              12.704
+              7.853,
+              12.615
             ],
             "passage": [
               0.0,
@@ -104,15 +104,15 @@
         {
           "passage_segment_id": "4a",
           "text": "Panem nostrum quotidianum da nobis hodie,",
-          "phonetic": "Panem nostrum quotidianum da nobis hodie,",
+          "phonetic": "Panem nostrum quotidianum da nobis odie,",
           "timing": {
             "full": [
-              12.704,
-              16.5
+              12.615,
+              16.456
             ],
             "passage": [
               0.0,
-              2.947
+              2.976
             ]
           }
         }
@@ -127,8 +127,8 @@
           "phonetic": "et dimitte nobis debita nostra,",
           "timing": {
             "full": [
-              16.5,
-              19.059
+              16.456,
+              19.015
             ],
             "passage": [
               0.0,
@@ -142,8 +142,8 @@
           "phonetic": "sicut et nos dimittimus debitoribus nostris.",
           "timing": {
             "full": [
-              19.059,
-              22.941
+              19.015,
+              22.897
             ],
             "passage": [
               2.432,
@@ -159,15 +159,15 @@
         {
           "passage_segment_id": "6a",
           "text": "Et ne nos inducas in tentationem,",
-          "phonetic": "Et ne nos inducas in tentationem,",
+          "phonetic": "Et ne nos inducas in tentatsionem,",
           "timing": {
             "full": [
-              22.941,
-              26.294
+              22.897,
+              26.279
             ],
             "passage": [
               0.0,
-              2.388
+              2.432
             ]
           }
         },
@@ -177,12 +177,12 @@
           "phonetic": "sed libera nos a malo,",
           "timing": {
             "full": [
-              26.294,
-              28.147
+              26.279,
+              28.132
             ],
             "passage": [
-              2.388,
-              4.226
+              2.432,
+              4.271
             ]
           }
         }
@@ -197,8 +197,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              28.147,
-              28.912
+              28.132,
+              28.897
             ],
             "passage": [
               0.0,

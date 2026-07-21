@@ -348,26 +348,26 @@
           "timing": {
             "full": [
               36.189,
-              38.323
+              38.309
             ],
             "passage": [
               0.0,
-              1.212
+              1.197
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "sancta Dei Genitrix.",
-          "phonetic": "sancta Dei Genitrix.",
+          "phonetic": "sànkta Déi Genitrix.",
           "timing": {
             "full": [
-              38.323,
-              40.294
+              38.309,
+              40.353
             ],
             "passage": [
-              1.212,
-              3.182
+              1.197,
+              3.241
             ]
           }
         }
@@ -382,8 +382,8 @@
           "phonetic": "Ut digni efficiamur promissionibus Christi.",
           "timing": {
             "full": [
-              40.294,
-              44.353
+              40.353,
+              44.412
             ],
             "passage": [
               0.0,

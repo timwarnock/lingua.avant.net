@@ -39,7 +39,7 @@
         {
           "passage_segment_id": "3a",
           "text": "Regnum",
-          "phonetic": "renyum",
+          "phonetic": "Regnum",
           "filenameOverride": "regnum.mp3"
         }
       ]
@@ -231,7 +231,7 @@
         {
           "passage_segment_id": "19a",
           "text": "Christe",
-          "phonetic": "Kriste",
+          "phonetic": "Christe",
           "filenameOverride": "christe.mp3"
         }
       ]
@@ -243,7 +243,7 @@
         {
           "passage_segment_id": "20a",
           "text": "catholicam",
-          "phonetic": "katolikam",
+          "phonetic": "catholicam",
           "filenameOverride": "catholicam.mp3"
         }
       ]

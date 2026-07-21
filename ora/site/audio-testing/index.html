@@ -23,7 +23,7 @@
     
     
       
-        <title>audio-testing - Ora Pro Nobis</title>
+        <title>Latin Edge TTS A/B -- Sancta / sanct- - Ora Pro Nobis</title>
       
     
     
@@ -81,7 +81,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#audio-testing" class="md-skip">
+        <a href="#latin-edge-tts-ab-sancta-sanct-" class="md-skip">
           Skip to content
         </a>
       
@@ -117,7 +117,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              audio-testing
+              Latin Edge TTS A/B -- Sancta / sanct-
             
           </span>
         </div>
@@ -6409,6 +6409,91 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On this page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-sancta-ave-maria-3a" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        1. Sancta (Ave Maria 3a)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-sancta-salve-regina-7b" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        2. sancta (Salve Regina 7b)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-sanctam-apostles-creed-11b" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        3. sanctam (Apostles Creed 11b)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-sancto-gloria-1c-creed" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        4. Sancto (Gloria 1c / Creed)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-sancti-sign-of-the-cross-1c" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        5. Sancti (Sign of the Cross 1c)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-sanctum-apostles-creed-11a" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        6. Sanctum (Apostles Creed 11a)
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        Checklist
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -6430,46 +6515,139 @@
                 
                   
 
-<h1 id="audio-testing">audio-testing<a class="headerlink" href="#audio-testing" title="Permanent link">&para;</a></h1>
-<p>This is for TTS testing. These are not real prayers. Each voice has sample passages and segments where we can qualitatively evaluate the sound.</p>
-<p>All 2 Polish and 5 Portuguese voices (Hail Mary passage 1 only).</p>
+<h1 id="latin-edge-tts-ab-sancta-sanct-">Latin Edge TTS A/B -- Sancta / sanct-<a class="headerlink" href="#latin-edge-tts-ab-sancta-sanct-" title="Permanent link">&para;</a></h1>
+<p>Qualitative listen tests for ecclesiastical Latin with <strong>it-IT-DiegoNeural</strong> at rate <strong>-15%</strong> (same as production Latin prayers).</p>
+<p>Focus: <strong>Sancta</strong> and the <strong>sanct-</strong> stem. Italian Edge often reduces these toward Spanish/Italian <strong>Santa</strong> (no hard <strong>k</strong>). Liturgical Latin keeps the <strong>k</strong>: <strong>SAHNK-tah</strong> (sanc-ta).</p>
+<p>Each section is a real prayer segment. Play variants and note the winning slug.</p>
+<p>Regenerate samples:</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>uv<span class="w"> </span>run<span class="w"> </span>--with<span class="w"> </span>edge-tts<span class="w"> </span>python<span class="w"> </span>audio-utils/generate-latin-ab.py
+</span></code></pre></div>
 <hr />
-<p>Polish</p>
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="marek.json"></div>
-
+<h2 id="1-sancta-ave-maria-3a">1. Sancta (Ave Maria 3a)<a class="headerlink" href="#1-sancta-ave-maria-3a" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Ave Maria 3a -- Sancta Maria,</p>
+<p><strong>Display text:</strong> <code>Sancta Maria,</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-tah mah-REE-ah: hard k in Sancta before t (sanc-ta), not Spanish/Italian Santa without the k. Two clear syllables in Sancta.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sancta-maria-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>Sancta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-sankta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sankta</strong></span> -- phonetic: <code>Sankta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-sànkta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànkta</strong></span> -- phonetic: <code>Sànkta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-sanc-ta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-ta</strong></span> -- phonetic: <code>Sanc-ta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-sank-ta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sank-ta</strong></span> -- phonetic: <code>Sank-ta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-sangta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sangta</strong></span> -- phonetic: <code>Sangta Maria,</code></li>
+<li><span onclick="new Audio('sancta-maria-santa.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>santa</strong></span> -- phonetic: <code>Santa Maria,</code></li>
+</ul>
 <hr />
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="zofia.json"></div>
-
+<h2 id="2-sancta-salve-regina-7b">2. sancta (Salve Regina 7b)<a class="headerlink" href="#2-sancta-salve-regina-7b" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Salve Regina 7b -- sancta Dei Genitrix.</p>
+<p><strong>Display text:</strong> <code>sancta Dei Genitrix.</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-tah DEH-ee: same hard k in sancta; lowercase as in the prayer. Dei already locked as Déi in production phonetic.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sancta-dei-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>sancta Déi Genitrix.</code></li>
+<li><span onclick="new Audio('sancta-dei-sankta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sankta</strong></span> -- phonetic: <code>sankta Déi Genitrix.</code></li>
+<li><span onclick="new Audio('sancta-dei-sànkta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànkta</strong></span> -- phonetic: <code>sànkta Déi Genitrix.</code></li>
+<li><span onclick="new Audio('sancta-dei-sanc-ta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-ta</strong></span> -- phonetic: <code>sanc-ta Déi Genitrix.</code></li>
+<li><span onclick="new Audio('sancta-dei-sank-ta.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sank-ta</strong></span> -- phonetic: <code>sank-ta Déi Genitrix.</code></li>
+</ul>
 <hr />
-<p>Portuguese (pt-PT)</p>
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="duarte.json"></div>
-
+<h2 id="3-sanctam-apostles-creed-11b">3. sanctam (Apostles Creed 11b)<a class="headerlink" href="#3-sanctam-apostles-creed-11b" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Symbolum Apostolorum 11b -- sanctam Ecclesiam catholicam,</p>
+<p><strong>Display text:</strong> <code>sanctam Ecclesiam catholicam,</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-tahm: hard k before t; final -am as ahm. Not "san-tam" without k.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sanctam-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>sanctam Ecclesiam catholicam,</code></li>
+<li><span onclick="new Audio('sanctam-sanktam.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanktam</strong></span> -- phonetic: <code>sanktam Ecclesiam catholicam,</code></li>
+<li><span onclick="new Audio('sanctam-sànktam.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànktam</strong></span> -- phonetic: <code>sànktam Ecclesiam catholicam,</code></li>
+<li><span onclick="new Audio('sanctam-sanc-tam.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-tam</strong></span> -- phonetic: <code>sanc-tam Ecclesiam catholicam,</code></li>
+</ul>
 <hr />
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="raquel.json"></div>
-
+<h2 id="4-sancto-gloria-1c-creed">4. Sancto (Gloria 1c / Creed)<a class="headerlink" href="#4-sancto-gloria-1c-creed" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Gloria Patri 1c -- et Spiritui Sancto.</p>
+<p><strong>Display text:</strong> <code>et Spiritui Sancto.</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-to: hard k in Sancto. Same sanct- stem as Sancta.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sancto-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>et Spiritui Sancto.</code></li>
+<li><span onclick="new Audio('sancto-sankto.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sankto</strong></span> -- phonetic: <code>et Spiritui Sankto.</code></li>
+<li><span onclick="new Audio('sancto-sànkto.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànkto</strong></span> -- phonetic: <code>et Spiritui Sànkto.</code></li>
+<li><span onclick="new Audio('sancto-sanc-to.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-to</strong></span> -- phonetic: <code>et Spiritui Sanc-to.</code></li>
+</ul>
 <hr />
-<p>Portuguese (pt-BR)</p>
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="antonio.json"></div>
-
+<h2 id="5-sancti-sign-of-the-cross-1c">5. Sancti (Sign of the Cross 1c)<a class="headerlink" href="#5-sancti-sign-of-the-cross-1c" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Signum Crucis 1c -- et Spiritus Sancti.</p>
+<p><strong>Display text:</strong> <code>et Spiritus Sancti.</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-tee: hard k in Sancti; final -i as ee.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sancti-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>et Spiritus Sancti,</code></li>
+<li><span onclick="new Audio('sancti-sankti.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sankti</strong></span> -- phonetic: <code>et Spiritus Sankti,</code></li>
+<li><span onclick="new Audio('sancti-sànkti.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànkti</strong></span> -- phonetic: <code>et Spiritus Sànkti,</code></li>
+<li><span onclick="new Audio('sancti-sanc-ti.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-ti</strong></span> -- phonetic: <code>et Spiritus Sanc-ti,</code></li>
+</ul>
 <hr />
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="francisca.json"></div>
-
+<h2 id="6-sanctum-apostles-creed-11a">6. Sanctum (Apostles Creed 11a)<a class="headerlink" href="#6-sanctum-apostles-creed-11a" title="Permanent link">&para;</a></h2>
+<p><strong>Source:</strong> Symbolum Apostolorum 11a -- Credo in Spiritum Sanctum,</p>
+<p><strong>Display text:</strong> <code>Credo in Spiritum Sanctum,</code></p>
+<p><strong>Liturgical Latin target:</strong> SAHNK-toom: hard k in Sanctum; -um as oom.</p>
+<p><strong>Variants</strong> (click label to play):</p>
+<ul>
+<li><span onclick="new Audio('sanctum-cur.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>cur</strong></span> -- phonetic: <code>Credo in Spiritum Sanctum,</code></li>
+<li><span onclick="new Audio('sanctum-sanktum.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanktum</strong></span> -- phonetic: <code>Credo in Spiritum Sanktum,</code></li>
+<li><span onclick="new Audio('sanctum-sànktum.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sànktum</strong></span> -- phonetic: <code>Credo in Spiritum Sànktum,</code></li>
+<li><span onclick="new Audio('sanctum-sanc-tum.mp3').play()" style="cursor:pointer; text-decoration:underline"><strong>sanc-tum</strong></span> -- phonetic: <code>Credo in Spiritum Sanc-tum,</code></li>
+</ul>
 <hr />
-<div class="prayer-interactive"
-     data-prayer="hail-mary"
-     data-json="thalita.json"></div>
+<h2 id="checklist">Checklist<a class="headerlink" href="#checklist" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Focus</th>
+<th>Winner slug</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sancta (Ave Maria 3a)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>sancta (Salve Regina 7b)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>sanctam (Apostles Creed 11b)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sancto (Gloria 1c / Creed)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sancti (Sign of the Cross 1c)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Sanctum (Apostles Creed 11a)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 

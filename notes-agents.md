@@ -201,7 +201,77 @@ Do not paste raw polytonic Septuagint into `text` without the TTS cleanup above.
 
 ## Latin TTS (Italian voice)
 
-Latin uses `it-IT-DiegoNeural` with `tts.input: "phonetic"`. Display `text` stays proper Latin; `phonetic` may use Italian-friendly respellings (`caeli` → `cieli`, etc.).
+Latin uses `it-IT-DiegoNeural` with `tts.input: "phonetic"`, rate `-15%`. Display `text` stays proper Latin; `phonetic` is for TTS and the clickable learner line.
 
-**Deus:** plain `Deus` is often misread (sounds like English *douse* / *Dawson*). Use **`Déus`** in phonetic so Edge produces two clear syllables (DEH-oos), not a single "ow" diphthong. Do **not** use `De-us` / `De us` -- those make the voice say "US" / "Stati Uniti".
+A/B page content: `ora/docs/audio-testing/` (currently **Sancta / sanct-** hard-k tests). Regenerator (not site content): `audio-utils/generate-latin-ab.py`.
+
+**Sancta / sanct- (ear-locked):** Edge often says Spanish/Italian *Santa* (no k). Target SAHNK-tah.
+
+| Form | Winner phonetic |
+|------|-----------------|
+| Sancta | Sànkta |
+| sancta | sànkta |
+| sanctam | sànktam |
+| Sancto | Sànkto |
+| Sancti | Sànkti |
+| Sanctum | Sanctum (cur -- no change) |
+
+Leave other sanct- forms (`sanctorum`, `sanctissimo`, …) unless a later A/B pass locks them.
+
+### Ear-checked inventory (complete)
+
+A/B listening with `it-IT-DiegoNeural` @ `-15%`. Prefer simpler monophthong when both cel* and ciel* win.
+
+| # | Focus | Winner | Phonetic change |
+|---|-------|--------|-----------------|
+| 1 | caelis | celis (cielis also ok) | `caelis`/`cieli(s)` → `celis` |
+| 2 | caelo | celo (cielo also ok) | `caelo`/`cielo` → `celo` |
+| 3 | caelos | celos (cielos also ok) | `caelos`/`cielos` → `celos` |
+| 4 | caelum | celum (cielum also ok) | `caelum`/`cielum` → `celum` |
+| 5 | saecula saeculorum | secula | `saecul` → `secul` |
+| 6 | aeternam | eternam | `aetern` → `etern` |
+| 7 | aeternae | eterne | `aeternae` → `eterne` |
+| 8 | Deus | Déus | `Deus` → `Déus` |
+| 9 | Deum | Déum | `Deum` → `Déum` |
+| 10 | Dei | Déi | `Dei` → `Déi` |
+| 11 | Deum de Deo | Déum de Déo | both forms accented |
+| 12 | gratia | gratsia | `gratia` → `gratsia` |
+| 13 | regnum | regnum (cur) | no change |
+| 14 | digni | digni (cur) | no change |
+| 15 | Iesus | Yesus | `Iesus` → `Yesus` |
+| 16 | Iesu Christe | Yesu Christe | `Iesu` → `Yesu`; keep `Christe` |
+| 17 | Iesum Christum | cur | no change (`Iesum` stays) |
+| 18 | terrae | cur | no change |
+| 19 | hora / nostrae | cur | no change |
+| 20 | praesertim | cur | no change |
+| 21 | haec | èc | `haec` → `èc` |
+| 22 | quaesumus | quèsumus | `quaesumus` → `quèsumus` |
+| 23 | beatae Mariae | cur | no change |
+| 24 | hodie | odie | `hodie` → `odie` |
+| 25 | hora | cur | no change |
+| 26 | hoc exsilium | cur | no change |
+| 27 | Hevae | cur | no change |
+| 28 | catholicam | cur | no change |
+| 29 | prophetas | cur | no change |
+| 30 | resurrectionem | resurretsionem | `resurrection` → `resurretsion` |
+| 31 | tentationem | tentatsionem | `tentationem` → `tentatsionem` |
+| 32 | Spiritui | cur | no change |
+| 33 | mihi | michi | `mihi` → `michi` (others collapse to "mee") |
+| 34 | homines | cur | no change |
+| 35 | expecto resurrectionem | expecto resurretsionem | keep `expecto`; ti → tsi |
+| 36 | iustitiam | iustitsiam | `iustitiam`/`justitiam` → `iustitsiam` |
+
+**Production phonetic rules (ear-locked):**
+
++ `cael*` / legacy `ciel*` → `cel*` (`celis`, `celo`, `celos`, `celum`, `celi`)
++ `saecul*` → `secul*`; `aetern*` → `etern*` (`aeternae` → `eterne`)
++ `Deus`/`Deum`/`Dei`/`Deo` → `Déus`/`Déum`/`Déi`/`Déo`
++ `gratia` → `gratsia`
++ `Iesus` → `Yesus`; `Iesu` → `Yesu`; leave `Iesum` and all `Christ*` as written
++ `haec` → `èc`; `quaesumus` → `quèsumus`; `hodie` → `odie`
++ `resurrection*` → `resurretsion*`; `tentationem` → `tentatsionem`
++ `mihi` → `michi`; `iustitiam`/`justitiam` → `iustitsiam`
++ Leave alone: `regnum`, `digni`, `terrae`, `hora`, `nostrae`, `praesertim`, `beatae`, `Mariae`, `hoc`, `exsilium`, `Hevae`, `catholicam`, `prophetas`, `Spiritui`, `homines`, `Christe`/`Christum`
+
+**Deus note:** plain `Deus` is often misread (English *douse* / *Dawson*). Use **`Déus`**. Do not use `De-us` / `De us` -- those make the voice say "US" / "Stati Uniti".
 

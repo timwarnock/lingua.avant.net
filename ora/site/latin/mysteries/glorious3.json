@@ -14,15 +14,15 @@
         {
           "passage_segment_id": "1a",
           "text": "Tertium Mysterium Gloriosum, Descensus Spiritus Sancti.",
-          "phonetic": "Tertium Mysterium Gloriosum, Descensus Spiritus Sancti.",
+          "phonetic": "Tertium Mysterium Gloriosum, Descensus Spiritus Sànkti.",
           "timing": {
             "full": [
               0.0,
-              4.103
+              4.221
             ],
             "passage": [
               0.0,
-              4.103
+              4.221
             ]
           }
         }
