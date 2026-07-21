@@ -90,8 +90,6 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 ## TODO
 
-+ French segment breakdown (following the proper French speaking Rhythm)
-
 + carefully tweak latin phonetics for better audio (italian to liturgical latin)
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
