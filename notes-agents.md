@@ -189,7 +189,7 @@ uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all
 ```
 
 5. **FLAG** = fix `text` and regenerate. **WARN** on very short segments is often hold/silence padding; check by ear.
-6. Septuagint/Vulgate numbering note (Psalm 51 = 50): only on Latin / French / Greek psalm-51 pages, as `warning` with title tooltip and English italics after a blank line.
+6. Septuagint/Vulgate numbering notes: only on Latin / French / Greek psalm pages, as `warning` with title tooltip and English italics after a blank line. Psalm 51 = 50 (Miserere); Psalm 23 = 22 (Dominus regit me / The Lord is my shepherd).
 
 Do not paste raw polytonic Septuagint into `text` without the TTS cleanup above.
 

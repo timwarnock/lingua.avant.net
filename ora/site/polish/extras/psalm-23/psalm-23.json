@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "polish",
+  "title": "Psalm 23",
+  "tts": {
+    "voice": "pl-PL-ZofiaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Psalm Dawida.",
+          "phonetic": "Psalm Dawida.",
+          "timing": {
+            "full": [
+              0.0,
+              0.971
+            ],
+            "passage": [
+              0.0,
+              0.971
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Pan jest moim pasterzem,",
+          "phonetic": "Pan jest moim pasterzem,",
+          "timing": {
+            "full": [
+              0.971,
+              3.408
+            ],
+            "passage": [
+              0.0,
+              1.511
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "nie brak mi niczego.",
+          "phonetic": "nie brak mi niczego.",
+          "timing": {
+            "full": [
+              3.408,
+              4.671
+            ],
+            "passage": [
+              1.511,
+              2.774
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Pozwala mi leżeć na zielonych pastwiskach.",
+          "phonetic": "Pozwala mi leżeć na zielonych pastwiskach.",
+          "timing": {
+            "full": [
+              4.671,
+              8.066
+            ],
+            "passage": [
+              0.0,
+              2.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Prowadzi mnie nad wody, gdzie mogę odpocząć:",
+          "phonetic": "Prowadzi mnie nad wody, gdzie mogę odpocząć:",
+          "timing": {
+            "full": [
+              8.066,
+              11.368
+            ],
+            "passage": [
+              2.537,
+              5.987
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "orzeźwia moją duszę.",
+          "phonetic": "orzeźwia moją duszę.",
+          "timing": {
+            "full": [
+              11.368,
+              12.763
+            ],
+            "passage": [
+              0.0,
+              1.313
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "Wiedzie mnie po właściwych ścieżkach",
+          "phonetic": "Wiedzie mnie po właściwych ścieżkach",
+          "timing": {
+            "full": [
+              12.763,
+              15.499
+            ],
+            "passage": [
+              1.313,
+              4.039
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "przez wzgląd na swoje imię.",
+          "phonetic": "przez wzgląd na swoje imię.",
+          "timing": {
+            "full": [
+              15.499,
+              17.078
+            ],
+            "passage": [
+              4.039,
+              5.618
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Chociażbym chodził ciemną doliną,",
+          "phonetic": "Chociażbym chodził ciemną doliną,",
+          "timing": {
+            "full": [
+              17.078,
+              19.829
+            ],
+            "passage": [
+              0.0,
+              1.826
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "zła się nie ulęknę,",
+          "phonetic": "zła się nie ulęknę,",
+          "timing": {
+            "full": [
+              19.829,
+              21.092
+            ],
+            "passage": [
+              1.826,
+              3.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "bo Ty jesteś ze mną.",
+          "phonetic": "bo Ty jesteś ze mną.",
+          "timing": {
+            "full": [
+              21.092,
+              22.408
+            ],
+            "passage": [
+              3.089,
+              4.405
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Twój kij i Twoja laska",
+          "phonetic": "Twój kij i Twoja laska",
+          "timing": {
+            "full": [
+              22.408,
+              24.842
+            ],
+            "passage": [
+              0.0,
+              1.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "są tym, co mnie pociesza.",
+          "phonetic": "są tym, co mnie pociesza.",
+          "timing": {
+            "full": [
+              24.842,
+              26.303
+            ],
+            "passage": [
+              1.524,
+              2.984
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Stół dla mnie zastawiasz",
+          "phonetic": "Stół dla mnie zastawiasz",
+          "timing": {
+            "full": [
+              26.303,
+              28.434
+            ],
+            "passage": [
+              0.0,
+              1.299
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "wobec mych przeciwników;",
+          "phonetic": "wobec mych przeciwników;",
+          "timing": {
+            "full": [
+              28.434,
+              29.802
+            ],
+            "passage": [
+              1.299,
+              2.747
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "namaszczasz mi głowę olejkiem;",
+          "phonetic": "namaszczasz mi głowę olejkiem;",
+          "timing": {
+            "full": [
+              29.802,
+              31.618
+            ],
+            "passage": [
+              0.0,
+              1.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "mój kielich jest przeobfity.",
+          "phonetic": "mój kielich jest przeobfity.",
+          "timing": {
+            "full": [
+              31.618,
+              33.407
+            ],
+            "passage": [
+              1.747,
+              3.484
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Dobroć i łaska pójdą w ślad za mną",
+          "phonetic": "Dobroć i łaska pójdą w ślad za mną",
+          "timing": {
+            "full": [
+              33.407,
+              36.355
+            ],
+            "passage": [
+              0.0,
+              2.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "przez wszystkie dni mego życia",
+          "phonetic": "przez wszystkie dni mego życia",
+          "timing": {
+            "full": [
+              36.355,
+              38.065
+            ],
+            "passage": [
+              2.168,
+              3.878
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "i zamieszkam w domu Pańskim",
+          "phonetic": "i zamieszkam w domu Pańskim",
+          "timing": {
+            "full": [
+              38.065,
+              39.776
+            ],
+            "passage": [
+              0.0,
+              1.641
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "po najdłuższe czasy.",
+          "phonetic": "po najdłuższe czasy.",
+          "timing": {
+            "full": [
+              39.776,
+              41.012
+            ],
+            "passage": [
+              1.641,
+              2.905
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

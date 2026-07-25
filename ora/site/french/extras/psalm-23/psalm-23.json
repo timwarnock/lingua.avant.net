@@ -1,0 +1,362 @@
+{
+  "id": "psalm-23",
+  "lang": "french",
+  "title": "Psaume 23",
+  "tts": {
+    "voice": "fr-FR-DeniseNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Psaume de David.",
+          "phonetic": "Psaume de David.",
+          "timing": {
+            "full": [
+              0.0,
+              1.234
+            ],
+            "passage": [
+              0.0,
+              1.234
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Le Seigneur est mon berger:",
+          "phonetic": "Le Seigneur est mon berger:",
+          "timing": {
+            "full": [
+              1.234,
+              3.645
+            ],
+            "passage": [
+              0.0,
+              1.603
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "je ne manque de rien.",
+          "phonetic": "je ne manque de rien.",
+          "timing": {
+            "full": [
+              3.645,
+              5.092
+            ],
+            "passage": [
+              1.603,
+              3.05
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Sur des prés d'herbe fraîche, il me fait reposer.",
+          "phonetic": "Sur des prés d'herbe fraîche, il me fait reposer.",
+          "timing": {
+            "full": [
+              5.092,
+              8.816
+            ],
+            "passage": [
+              0.0,
+              2.918
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Il me mène vers les eaux tranquilles,",
+          "phonetic": "Il me mène vers les eaux tranquilles,",
+          "timing": {
+            "full": [
+              8.816,
+              11.342
+            ],
+            "passage": [
+              2.918,
+              5.579
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "et me fait revivre;",
+          "phonetic": "et me fait revivre;",
+          "timing": {
+            "full": [
+              11.342,
+              12.592
+            ],
+            "passage": [
+              0.0,
+              1.076
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "il me conduit par le juste chemin",
+          "phonetic": "il me conduit par le juste chemin",
+          "timing": {
+            "full": [
+              12.592,
+              14.526
+            ],
+            "passage": [
+              1.076,
+              3.037
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "pour l'honneur de son nom.",
+          "phonetic": "pour l'honneur de son nom.",
+          "timing": {
+            "full": [
+              14.526,
+              15.645
+            ],
+            "passage": [
+              3.037,
+              4.168
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Si je traverse les ravins de la mort,",
+          "phonetic": "Si je traverse les ravins de la mort,",
+          "timing": {
+            "full": [
+              15.645,
+              18.526
+            ],
+            "passage": [
+              0.0,
+              2.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "je ne crains aucun mal,",
+          "phonetic": "je ne crains aucun mal,",
+          "timing": {
+            "full": [
+              18.526,
+              20.026
+            ],
+            "passage": [
+              2.089,
+              3.563
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "car tu es avec moi:",
+          "phonetic": "car tu es avec moi:",
+          "timing": {
+            "full": [
+              20.026,
+              21.329
+            ],
+            "passage": [
+              3.563,
+              4.918
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "ton bâton me guide et me rassure.",
+          "phonetic": "ton bâton me guide et me rassure.",
+          "timing": {
+            "full": [
+              21.329,
+              23.289
+            ],
+            "passage": [
+              0.0,
+              1.826
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Tu prépares la table pour moi",
+          "phonetic": "Tu prépares la table pour moi",
+          "timing": {
+            "full": [
+              23.289,
+              25.71
+            ],
+            "passage": [
+              0.0,
+              1.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "devant mes ennemis;",
+          "phonetic": "devant mes ennemis;",
+          "timing": {
+            "full": [
+              25.71,
+              26.579
+            ],
+            "passage": [
+              1.576,
+              2.484
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "tu répands le parfum sur ma tête,",
+          "phonetic": "tu répands le parfum sur ma tête,",
+          "timing": {
+            "full": [
+              26.579,
+              28.474
+            ],
+            "passage": [
+              0.0,
+              1.839
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "ma coupe est débordante.",
+          "phonetic": "ma coupe est débordante.",
+          "timing": {
+            "full": [
+              28.474,
+              30.092
+            ],
+            "passage": [
+              1.839,
+              3.471
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Grâce et bonheur m'accompagnent",
+          "phonetic": "Grâce et bonheur m'accompagnent",
+          "timing": {
+            "full": [
+              30.092,
+              32.553
+            ],
+            "passage": [
+              0.0,
+              1.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "tous les jours de ma vie;",
+          "phonetic": "tous les jours de ma vie;",
+          "timing": {
+            "full": [
+              32.553,
+              33.618
+            ],
+            "passage": [
+              1.655,
+              2.839
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "j'habiterai la maison du Seigneur",
+          "phonetic": "j'habiterai la maison du Seigneur",
+          "timing": {
+            "full": [
+              33.618,
+              35.618
+            ],
+            "passage": [
+              0.0,
+              1.892
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "pour la durée de mes jours.",
+          "phonetic": "pour la durée de mes jours.",
+          "timing": {
+            "full": [
+              35.618,
+              36.895
+            ],
+            "passage": [
+              1.892,
+              3.221
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

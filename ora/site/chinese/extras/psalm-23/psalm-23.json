@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "chinese",
+  "title": "聖詠第二十三篇",
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "達味詩歌。",
+          "phonetic": "Dáwèi shīgē.",
+          "timing": {
+            "full": [
+              0.0,
+              1.103
+            ],
+            "passage": [
+              0.0,
+              1.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "上主是我的牧者，",
+          "phonetic": "Shàngzhǔ shì wǒ de mùzhě,",
+          "timing": {
+            "full": [
+              1.103,
+              3.092
+            ],
+            "passage": [
+              0.0,
+              1.484
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "我實在一無所缺。",
+          "phonetic": "wǒ shízài yīwúsuǒquē.",
+          "timing": {
+            "full": [
+              3.092,
+              4.763
+            ],
+            "passage": [
+              1.484,
+              3.155
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "他使我臥在青綠的草場，",
+          "phonetic": "Tā shǐ wǒ wò zài qīnglǜ de cǎochǎng,",
+          "timing": {
+            "full": [
+              4.763,
+              7.329
+            ],
+            "passage": [
+              0.0,
+              2.063
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "又領我走近幽靜的水旁，",
+          "phonetic": "yòu lǐng wǒ zǒujìn yōujìng de shuǐ páng,",
+          "timing": {
+            "full": [
+              7.329,
+              9.632
+            ],
+            "passage": [
+              2.063,
+              4.366
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "他使我的心靈蘇醒，",
+          "phonetic": "Tā shǐ wǒ de xīnlíng sūxǐng,",
+          "timing": {
+            "full": [
+              9.632,
+              11.368
+            ],
+            "passage": [
+              0.0,
+              1.642
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "為了自己的名",
+          "phonetic": "wèile zìjǐ de míng",
+          "timing": {
+            "full": [
+              11.368,
+              12.546
+            ],
+            "passage": [
+              1.642,
+              2.938
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "導我踏上了正義的坦途。",
+          "phonetic": "dǎo wǒ tà shàng le zhèngyì de tǎntú.",
+          "timing": {
+            "full": [
+              12.546,
+              14.618
+            ],
+            "passage": [
+              2.938,
+              5.076
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "縱使我應走過陰森的幽谷，",
+          "phonetic": "Zòngshǐ wǒ yīng zǒuguò yīnsēn de yōugǔ,",
+          "timing": {
+            "full": [
+              14.618,
+              17.421
+            ],
+            "passage": [
+              0.0,
+              2.313
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "我不怕兇險，",
+          "phonetic": "wǒ bù pà xiōngxiǎn,",
+          "timing": {
+            "full": [
+              17.421,
+              18.684
+            ],
+            "passage": [
+              2.313,
+              3.576
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "因你與我同在。",
+          "phonetic": "yīn nǐ yǔ wǒ tóngzài.",
+          "timing": {
+            "full": [
+              18.684,
+              20.053
+            ],
+            "passage": [
+              3.576,
+              4.945
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "你的牧杖和短棒，",
+          "phonetic": "Nǐ de mùzhàng hé duǎnbàng,",
+          "timing": {
+            "full": [
+              20.053,
+              21.987
+            ],
+            "passage": [
+              0.0,
+              1.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "是我的安慰勇往。",
+          "phonetic": "shì wǒ de ānwèi yǒngwǎng.",
+          "timing": {
+            "full": [
+              21.987,
+              23.579
+            ],
+            "passage": [
+              1.445,
+              3.037
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "在我對頭面前，",
+          "phonetic": "Zài wǒ duìtóu miànqián,",
+          "timing": {
+            "full": [
+              23.579,
+              25.408
+            ],
+            "passage": [
+              0.0,
+              1.379
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "你為我擺設了筵席；",
+          "phonetic": "nǐ wèi wǒ bǎishè le yánxí;",
+          "timing": {
+            "full": [
+              25.408,
+              27.158
+            ],
+            "passage": [
+              1.379,
+              3.142
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "在我的頭上傅油，",
+          "phonetic": "Zài wǒ de tóu shàng fù yóu,",
+          "timing": {
+            "full": [
+              27.158,
+              28.895
+            ],
+            "passage": [
+              0.0,
+              1.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "使我的杯爵滿溢。",
+          "phonetic": "shǐ wǒ de bēijué mǎnyì.",
+          "timing": {
+            "full": [
+              28.895,
+              30.434
+            ],
+            "passage": [
+              1.445,
+              3.063
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "在我一生歲月裏，",
+          "phonetic": "Zài wǒ yīshēng suìyuè lǐ,",
+          "timing": {
+            "full": [
+              30.434,
+              32.434
+            ],
+            "passage": [
+              0.0,
+              1.471
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "幸福與慈愛常隨不離；",
+          "phonetic": "xìngfú yǔ cí'ài cháng suí bù lí;",
+          "timing": {
+            "full": [
+              32.434,
+              34.671
+            ],
+            "passage": [
+              1.471,
+              3.853
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "我將住在上主的殿裏，",
+          "phonetic": "Wǒ jiāng zhù zài Shàngzhǔ de diàn lǐ,",
+          "timing": {
+            "full": [
+              34.671,
+              36.763
+            ],
+            "passage": [
+              0.0,
+              1.866
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "直至悠遠的時日。",
+          "phonetic": "zhízhì yōuyuǎn de shírì.",
+          "timing": {
+            "full": [
+              36.763,
+              38.474
+            ],
+            "passage": [
+              1.866,
+              3.576
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

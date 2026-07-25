@@ -1,0 +1,362 @@
+{
+  "id": "psalm-23",
+  "lang": "portuguese",
+  "title": "Salmo 23",
+  "tts": {
+    "voice": "pt-BR-FranciscaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Salmo de David.",
+          "phonetic": "Salmo de David.",
+          "timing": {
+            "full": [
+              0.0,
+              1.405
+            ],
+            "passage": [
+              0.0,
+              1.405
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "O Senhor é o meu pastor:",
+          "phonetic": "O Senhor é o meu pastor:",
+          "timing": {
+            "full": [
+              1.405,
+              3.066
+            ],
+            "passage": [
+              0.0,
+              1.484
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "nada me falta.",
+          "phonetic": "nada me falta.",
+          "timing": {
+            "full": [
+              3.066,
+              4.25
+            ],
+            "passage": [
+              1.484,
+              2.668
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Em verdes prados me faz repousar",
+          "phonetic": "Em verdes prados me faz repousar",
+          "timing": {
+            "full": [
+              4.25,
+              6.579
+            ],
+            "passage": [
+              0.0,
+              2.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "e conduz-me às águas refrescantes;",
+          "phonetic": "e conduz-me às águas refrescantes;",
+          "timing": {
+            "full": [
+              6.579,
+              8.579
+            ],
+            "passage": [
+              2.182,
+              4.287
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "restaura as minhas forças",
+          "phonetic": "restaura as minhas forças",
+          "timing": {
+            "full": [
+              8.579,
+              10.184
+            ],
+            "passage": [
+              0.0,
+              1.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "e guia-me por caminhos rectos,",
+          "phonetic": "e guia-me por caminhos rectos,",
+          "timing": {
+            "full": [
+              10.184,
+              11.868
+            ],
+            "passage": [
+              1.537,
+              3.261
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "por amor do seu nome.",
+          "phonetic": "por amor do seu nome.",
+          "timing": {
+            "full": [
+              11.868,
+              13.25
+            ],
+            "passage": [
+              3.261,
+              4.576
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Ainda que tenha de andar por vales tenebrosos,",
+          "phonetic": "Ainda que tenha de andar por vales tenebrosos,",
+          "timing": {
+            "full": [
+              13.25,
+              16.132
+            ],
+            "passage": [
+              0.0,
+              2.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "nada temo,",
+          "phonetic": "nada temo,",
+          "timing": {
+            "full": [
+              16.132,
+              16.921
+            ],
+            "passage": [
+              2.747,
+              3.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "porque tu estás comigo:",
+          "phonetic": "porque tu estás comigo:",
+          "timing": {
+            "full": [
+              16.921,
+              18.211
+            ],
+            "passage": [
+              3.524,
+              4.892
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "o teu cajado e o teu báculo me tranquilizam.",
+          "phonetic": "o teu cajado e o teu báculo me tranquilizam.",
+          "timing": {
+            "full": [
+              18.211,
+              21.053
+            ],
+            "passage": [
+              0.0,
+              2.787
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Diante de mim preparas a mesa",
+          "phonetic": "Diante de mim preparas a mesa",
+          "timing": {
+            "full": [
+              21.053,
+              23.092
+            ],
+            "passage": [
+              0.0,
+              1.905
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "à vista dos meus adversários;",
+          "phonetic": "à vista dos meus adversários;",
+          "timing": {
+            "full": [
+              23.092,
+              24.842
+            ],
+            "passage": [
+              1.905,
+              3.839
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "unge-me a cabeça com óleo",
+          "phonetic": "unge-me a cabeça com óleo",
+          "timing": {
+            "full": [
+              24.842,
+              26.618
+            ],
+            "passage": [
+              0.0,
+              1.642
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "e o meu cálice transborda.",
+          "phonetic": "e o meu cálice transborda.",
+          "timing": {
+            "full": [
+              26.618,
+              28.184
+            ],
+            "passage": [
+              1.642,
+              3.182
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "A bondade e a graça hão-de acompanhar-me",
+          "phonetic": "A bondade e a graça hão-de acompanhar-me",
+          "timing": {
+            "full": [
+              28.184,
+              30.855
+            ],
+            "passage": [
+              0.0,
+              2.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "todos os dias da minha vida,",
+          "phonetic": "todos os dias da minha vida,",
+          "timing": {
+            "full": [
+              30.855,
+              32.487
+            ],
+            "passage": [
+              2.524,
+              4.208
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "e habitarei na casa do Senhor",
+          "phonetic": "e habitarei na casa do Senhor",
+          "timing": {
+            "full": [
+              32.487,
+              34.342
+            ],
+            "passage": [
+              0.0,
+              1.747
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "para todo o sempre.",
+          "phonetic": "para todo o sempre.",
+          "timing": {
+            "full": [
+              34.342,
+              35.487
+            ],
+            "passage": [
+              1.747,
+              2.853
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

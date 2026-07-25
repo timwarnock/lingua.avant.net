@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "english",
+  "title": "Psalm 23",
+  "tts": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-5%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "A Psalm of David.",
+          "phonetic": "A Psalm of David.",
+          "timing": {
+            "full": [
+              0.0,
+              1.445
+            ],
+            "passage": [
+              0.0,
+              1.445
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "The LORD is my shepherd;",
+          "phonetic": "The LORD is my shepherd;",
+          "timing": {
+            "full": [
+              1.445,
+              3.25
+            ],
+            "passage": [
+              0.0,
+              1.524
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "I shall not want.",
+          "phonetic": "I shall not want.",
+          "timing": {
+            "full": [
+              3.25,
+              4.724
+            ],
+            "passage": [
+              1.524,
+              3.01
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "He maketh me to lie down in green pastures:",
+          "phonetic": "He maketh me to lie down in green pastures:",
+          "timing": {
+            "full": [
+              4.724,
+              7.921
+            ],
+            "passage": [
+              0.0,
+              2.958
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "he leadeth me beside the still waters.",
+          "phonetic": "he leadeth me beside the still waters.",
+          "timing": {
+            "full": [
+              7.921,
+              10.566
+            ],
+            "passage": [
+              2.958,
+              5.616
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "He restoreth my soul:",
+          "phonetic": "He restoreth my soul:",
+          "timing": {
+            "full": [
+              10.566,
+              12.382
+            ],
+            "passage": [
+              0.0,
+              1.537
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "he leadeth me in the paths of righteousness",
+          "phonetic": "he leadeth me in the paths of righteousness",
+          "timing": {
+            "full": [
+              12.382,
+              15.039
+            ],
+            "passage": [
+              1.537,
+              4.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "for his name's sake.",
+          "phonetic": "for his name's sake.",
+          "timing": {
+            "full": [
+              15.039,
+              16.276
+            ],
+            "passage": [
+              4.168,
+              5.418
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Yea, though I walk through the valley of the shadow of death,",
+          "phonetic": "Yay, though I walk through the valley of the shadow of death,",
+          "timing": {
+            "full": [
+              16.276,
+              19.776
+            ],
+            "passage": [
+              0.0,
+              3.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "I will fear no evil:",
+          "phonetic": "I will fear no evil:",
+          "timing": {
+            "full": [
+              19.776,
+              21.263
+            ],
+            "passage": [
+              3.3,
+              4.826
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "for thou art with me;",
+          "phonetic": "for thou art with me;",
+          "timing": {
+            "full": [
+              21.263,
+              22.605
+            ],
+            "passage": [
+              4.826,
+              6.221
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "thy rod and thy staff",
+          "phonetic": "thy rod and thy staff",
+          "timing": {
+            "full": [
+              22.605,
+              24.132
+            ],
+            "passage": [
+              0.0,
+              1.563
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "they comfort me.",
+          "phonetic": "they comfort me.",
+          "timing": {
+            "full": [
+              24.132,
+              25.0
+            ],
+            "passage": [
+              1.563,
+              2.511
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Thou preparest a table before me",
+          "phonetic": "Thou preparest a table before me",
+          "timing": {
+            "full": [
+              25.0,
+              27.368
+            ],
+            "passage": [
+              0.0,
+              2.208
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "in the presence of mine enemies:",
+          "phonetic": "in the presence of mine enemies:",
+          "timing": {
+            "full": [
+              27.368,
+              29.0
+            ],
+            "passage": [
+              2.208,
+              4.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "thou anointest my head with oil;",
+          "phonetic": "thou anointest my head with oil;",
+          "timing": {
+            "full": [
+              29.0,
+              31.158
+            ],
+            "passage": [
+              0.0,
+              2.011
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "my cup runneth over.",
+          "phonetic": "my cup runneth over.",
+          "timing": {
+            "full": [
+              31.158,
+              32.763
+            ],
+            "passage": [
+              2.011,
+              3.695
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Surely goodness and mercy shall follow me",
+          "phonetic": "Surely goodness and mercy shall follow me",
+          "timing": {
+            "full": [
+              32.763,
+              35.592
+            ],
+            "passage": [
+              0.0,
+              2.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "all the days of my life:",
+          "phonetic": "all the days of my life:",
+          "timing": {
+            "full": [
+              35.592,
+              37.0
+            ],
+            "passage": [
+              2.655,
+              4.182
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "and I will dwell in the house of the LORD",
+          "phonetic": "and I will dwell in the house of the LORD",
+          "timing": {
+            "full": [
+              37.0,
+              39.237
+            ],
+            "passage": [
+              0.0,
+              2.339
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "for ever.",
+          "phonetic": "for ever.",
+          "timing": {
+            "full": [
+              39.237,
+              39.882
+            ],
+            "passage": [
+              2.339,
+              3.037
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

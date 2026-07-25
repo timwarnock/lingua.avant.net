@@ -57,6 +57,7 @@ nav = [
       { "[ Extras ]" = [
           "english/extras/jesus-prayer.md",
           "english/extras/nicene.md",
+          "english/extras/psalm-23.md",
           "english/extras/psalm-51.md"
         ] },
       { "[ Resources ]" = [
@@ -80,6 +81,7 @@ nav = [
       { "[ Adicionales ]" = [
           "spanish/extras/jesus-prayer.md",
           "spanish/extras/nicene.md",
+          "spanish/extras/psalm-23.md",
           "spanish/extras/psalm-51.md"
         ] },
       { "[ Recursos ]" = [
@@ -100,6 +102,7 @@ nav = [
       { "[ Suppléments ]" = [
           "french/extras/jesus-prayer.md",
           "french/extras/nicene.md",
+          "french/extras/psalm-23.md",
           "french/extras/psalm-51.md"
         ] },
       { "[ Ressources ]" = [
@@ -118,6 +121,7 @@ nav = [
       { "[ Additamenta ]" = [
           "latin/extras/jesus-prayer.md",
           "latin/extras/nicene.md",
+          "latin/extras/psalm-23.md",
           "latin/extras/psalm-51.md"
         ] },
       { "[ Opes ]" = [
@@ -136,6 +140,7 @@ nav = [
       { "[ Dodatki ]" = [
           "polish/extras/jesus-prayer.md",
           "polish/extras/nicene.md",
+          "polish/extras/psalm-23.md",
           "polish/extras/psalm-51.md"
         ] },
       { "[ Zasoby ]" = [
@@ -154,6 +159,7 @@ nav = [
       { "[ Adicionais ]" = [
           "portuguese/extras/jesus-prayer.md",
           "portuguese/extras/nicene.md",
+          "portuguese/extras/psalm-23.md",
           "portuguese/extras/psalm-51.md"
         ] },
       { "[ Recursos ]" = [
@@ -172,6 +178,7 @@ nav = [
       { "[ Bổ sung ]" = [
           "vietnamese/extras/jesus-prayer.md",
           "vietnamese/extras/nicene.md",
+          "vietnamese/extras/psalm-23.md",
           "vietnamese/extras/psalm-51.md"
         ] },
       { "[ Tài nguyên ]" = [
@@ -191,6 +198,7 @@ nav = [
       { "[ Πρόσθετα ]" = [
           "greek/extras/jesus-prayer.md",
           "greek/extras/nicene.md",
+          "greek/extras/psalm-23.md",
           "greek/extras/psalm-51.md"
         ] },
       { "[ Πόροι ]" = [
@@ -209,6 +217,7 @@ nav = [
       { "[ 額外 ]" = [
           "chinese/extras/jesus-prayer.md",
           "chinese/extras/nicene.md",
+          "chinese/extras/psalm-23.md",
           "chinese/extras/psalm-51.md"
         ] },
       { "[ 資源 ]" = [
@@ -228,6 +237,7 @@ nav = [
       { "[ 追加 ]" = [
           "japanese/extras/jesus-prayer.md",
           "japanese/extras/nicene.md",
+          "japanese/extras/psalm-23.md",
           "japanese/extras/psalm-51.md"
         ] },
       { "[ 資料 ]" = [

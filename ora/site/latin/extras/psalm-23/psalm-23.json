@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "latin",
+  "title": "Psalmus 23",
+  "tts": {
+    "voice": "it-IT-DiegoNeural",
+    "rate": "-15%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Psalmus David.",
+          "phonetic": "Psalmus David.",
+          "timing": {
+            "full": [
+              0.0,
+              1.462
+            ],
+            "passage": [
+              0.0,
+              1.462
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Dominus regit me,",
+          "phonetic": "Dominus regit me,",
+          "timing": {
+            "full": [
+              1.462,
+              4.103
+            ],
+            "passage": [
+              0.0,
+              1.726
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "et nihil mihi deerit:",
+          "phonetic": "et nihil mihi deerit:",
+          "timing": {
+            "full": [
+              4.103,
+              5.765
+            ],
+            "passage": [
+              1.726,
+              3.579
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "in loco pascuae ibi me collocavit.",
+          "phonetic": "in loco pascuae ibi me collocavit.",
+          "timing": {
+            "full": [
+              5.765,
+              8.529
+            ],
+            "passage": [
+              0.0,
+              2.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Super aquam refectionis educavit me,",
+          "phonetic": "Super aquam refectionis educavit me,",
+          "timing": {
+            "full": [
+              8.529,
+              12.353
+            ],
+            "passage": [
+              2.55,
+              6.426
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "animam meam convertit.",
+          "phonetic": "animam meam convertit.",
+          "timing": {
+            "full": [
+              12.353,
+              14.426
+            ],
+            "passage": [
+              0.0,
+              1.874
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "Deduxit me super semitas justitiae,",
+          "phonetic": "Deduxit me super semitas justitiae,",
+          "timing": {
+            "full": [
+              14.426,
+              18.309
+            ],
+            "passage": [
+              1.874,
+              5.765
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "propter nomen suum.",
+          "phonetic": "propter nomen suum.",
+          "timing": {
+            "full": [
+              18.309,
+              20.118
+            ],
+            "passage": [
+              5.765,
+              7.574
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Nam, etsi ambulavero in medio umbrae mortis,",
+          "phonetic": "Nam, etsi ambulavero in medio umbrae mortis,",
+          "timing": {
+            "full": [
+              20.118,
+              24.441
+            ],
+            "passage": [
+              0.0,
+              3.432
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "non timebo mala,",
+          "phonetic": "non timebo mala,",
+          "timing": {
+            "full": [
+              24.441,
+              25.868
+            ],
+            "passage": [
+              3.432,
+              4.859
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "quoniam tu mecum es.",
+          "phonetic": "quoniam tu mecum es.",
+          "timing": {
+            "full": [
+              25.868,
+              27.691
+            ],
+            "passage": [
+              4.859,
+              7.006
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Virga tua, et baculus tuus,",
+          "phonetic": "Virga tua, et baculus tuus,",
+          "timing": {
+            "full": [
+              27.691,
+              30.279
+            ],
+            "passage": [
+              0.0,
+              2.815
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "ipsa me consolata sunt.",
+          "phonetic": "ipsa me consolata sunt.",
+          "timing": {
+            "full": [
+              30.279,
+              32.397
+            ],
+            "passage": [
+              2.815,
+              4.947
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Parasti in conspectu meo mensam,",
+          "phonetic": "Parasti in conspectu meo mensam,",
+          "timing": {
+            "full": [
+              32.397,
+              35.632
+            ],
+            "passage": [
+              0.0,
+              2.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "adversus eos qui tribulant me;",
+          "phonetic": "adversus eos qui tribulant me;",
+          "timing": {
+            "full": [
+              35.632,
+              38.162
+            ],
+            "passage": [
+              2.3,
+              4.932
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "impinguasti in oleo caput meum;",
+          "phonetic": "impinguasti in oleo caput meum;",
+          "timing": {
+            "full": [
+              38.162,
+              40.662
+            ],
+            "passage": [
+              0.0,
+              2.374
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "et calix meus inebrians quam praeclarus est!",
+          "phonetic": "et calix meus inebrians quam praeclarus est!",
+          "timing": {
+            "full": [
+              40.662,
+              44.25
+            ],
+            "passage": [
+              2.374,
+              5.962
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Et misericordia tua subsequetur me",
+          "phonetic": "Et misericordia tua subsequetur me",
+          "timing": {
+            "full": [
+              44.25,
+              47.618
+            ],
+            "passage": [
+              0.0,
+              2.447
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "omnibus diebus vitae meae;",
+          "phonetic": "omnibus diebus vitae meae;",
+          "timing": {
+            "full": [
+              47.618,
+              49.662
+            ],
+            "passage": [
+              2.447,
+              4.447
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "et ut inhabitem in domo Domini,",
+          "phonetic": "et ut inhabitem in domo Domini,",
+          "timing": {
+            "full": [
+              49.662,
+              51.882
+            ],
+            "passage": [
+              0.0,
+              2.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "in longitudinem dierum.",
+          "phonetic": "in longitudinem dierum.",
+          "timing": {
+            "full": [
+              51.882,
+              53.956
+            ],
+            "passage": [
+              2.168,
+              4.182
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

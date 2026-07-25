@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "japanese",
+  "title": "詩篇第23篇",
+  "tts": {
+    "voice": "ja-JP-KeitaNeural",
+    "rate": "-5%",
+    "input": "text"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "ダビデの詩。",
+          "phonetic": "Dabide no uta.",
+          "timing": {
+            "full": [
+              0.0,
+              0.918
+            ],
+            "passage": [
+              0.0,
+              0.918
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "主は羊飼い、",
+          "phonetic": "Shu wa hitsujikai,",
+          "timing": {
+            "full": [
+              0.918,
+              2.737
+            ],
+            "passage": [
+              0.0,
+              1.089
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "わたしには何も欠けることがない。",
+          "phonetic": "watashi ni wa nani mo kakeru koto ga nai.",
+          "timing": {
+            "full": [
+              2.737,
+              5.066
+            ],
+            "passage": [
+              1.089,
+              3.418
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "主はわたしを青草の原に休ませ",
+          "phonetic": "Shu wa watashi o aokusa no hara ni yasumase",
+          "timing": {
+            "full": [
+              5.066,
+              8.118
+            ],
+            "passage": [
+              0.0,
+              2.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "憩いの水のほとりに伴い",
+          "phonetic": "ikoi no mizu no hotori ni tomonai",
+          "timing": {
+            "full": [
+              8.118,
+              9.855
+            ],
+            "passage": [
+              2.287,
+              4.076
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "魂を生き返らせてくださる。",
+          "phonetic": "tamashii o ikikaerasete kudasaru.",
+          "timing": {
+            "full": [
+              9.855,
+              11.75
+            ],
+            "passage": [
+              0.0,
+              2.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "主は御名にふさわしく",
+          "phonetic": "Shu wa mina ni fusawashiku",
+          "timing": {
+            "full": [
+              11.75,
+              14.026
+            ],
+            "passage": [
+              2.05,
+              4.355
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "わたしを正しい道に導かれる。",
+          "phonetic": "watashi o tadashii michi ni michibikareru.",
+          "timing": {
+            "full": [
+              14.026,
+              16.237
+            ],
+            "passage": [
+              4.355,
+              6.566
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "死の陰の谷を行くときも",
+          "phonetic": "Shi no kage no tani o yuku toki mo",
+          "timing": {
+            "full": [
+              16.237,
+              18.632
+            ],
+            "passage": [
+              0.0,
+              1.695
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "わたしは災いを恐れない。",
+          "phonetic": "watashi wa wazawai o osorenai.",
+          "timing": {
+            "full": [
+              18.632,
+              20.395
+            ],
+            "passage": [
+              1.695,
+              3.458
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "あなたがわたしと共にいてくださる。",
+          "phonetic": "anata ga watashi to tomo ni ite kudasaru.",
+          "timing": {
+            "full": [
+              20.395,
+              23.316
+            ],
+            "passage": [
+              3.458,
+              6.382
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "あなたの鞭、あなたの杖",
+          "phonetic": "Anata no muchi, anata no tsue",
+          "timing": {
+            "full": [
+              23.316,
+              26.237
+            ],
+            "passage": [
+              0.0,
+              2.195
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "それがわたしを力づける。",
+          "phonetic": "sore ga watashi o chikarazukeru.",
+          "timing": {
+            "full": [
+              26.237,
+              27.855
+            ],
+            "passage": [
+              2.195,
+              3.813
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "わたしを苦しめる者を前にしても",
+          "phonetic": "Watashi o kurushimeru mono o mae ni shite mo",
+          "timing": {
+            "full": [
+              27.855,
+              30.75
+            ],
+            "passage": [
+              0.0,
+              2.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "あなたはわたしに食卓を整えてくださる。",
+          "phonetic": "anata wa watashi ni shokutaku o totonoete kudasaru.",
+          "timing": {
+            "full": [
+              30.75,
+              33.632
+            ],
+            "passage": [
+              2.182,
+              5.063
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "わたしの頭に香油を注ぎ",
+          "phonetic": "Watashi no atama ni kōyu o sosogi",
+          "timing": {
+            "full": [
+              33.632,
+              36.276
+            ],
+            "passage": [
+              0.0,
+              1.945
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "わたしの杯を満ちあふれさせてくださる。",
+          "phonetic": "watashi no hai o michi afuresasete kudasaru.",
+          "timing": {
+            "full": [
+              36.276,
+              38.934
+            ],
+            "passage": [
+              1.945,
+              4.603
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "命のある限り",
+          "phonetic": "Inochi no aru kagiri",
+          "timing": {
+            "full": [
+              38.934,
+              40.803
+            ],
+            "passage": [
+              0.0,
+              1.168
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "恵みと慈しみはいつもわたしを追う。",
+          "phonetic": "megumi to itsukushimi wa itsumo watashi o ou.",
+          "timing": {
+            "full": [
+              40.803,
+              43.276
+            ],
+            "passage": [
+              1.168,
+              3.642
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "主の家にわたしは住まう",
+          "phonetic": "Shu no ie ni watashi wa sumau",
+          "timing": {
+            "full": [
+              43.276,
+              45.763
+            ],
+            "passage": [
+              0.0,
+              1.787
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "日の続く限り。",
+          "phonetic": "hi no tsuzuku kagiri.",
+          "timing": {
+            "full": [
+              45.763,
+              46.895
+            ],
+            "passage": [
+              1.787,
+              2.918
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

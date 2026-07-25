@@ -1,0 +1,362 @@
+{
+  "id": "psalm-23",
+  "lang": "spanish",
+  "title": "Salmo 23",
+  "tts": {
+    "voice": "es-ES-AlvaroNeural",
+    "rate": "-6%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Salmo de David.",
+          "phonetic": "Salmo de David.",
+          "timing": {
+            "full": [
+              0.0,
+              1.112
+            ],
+            "passage": [
+              0.0,
+              1.112
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "El Señor es mi pastor,",
+          "phonetic": "El Señor es mi pastor,",
+          "timing": {
+            "full": [
+              1.112,
+              3.308
+            ],
+            "passage": [
+              0.0,
+              1.298
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "nada me falta:",
+          "phonetic": "nada me falta:",
+          "timing": {
+            "full": [
+              3.308,
+              4.438
+            ],
+            "passage": [
+              1.298,
+              2.482
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "en verdes praderas me hace recostar;",
+          "phonetic": "en verdes praderas me hace recostar;",
+          "timing": {
+            "full": [
+              4.438,
+              6.473
+            ],
+            "passage": [
+              0.0,
+              2.043
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "me conduce hacia fuentes tranquilas",
+          "phonetic": "me conduce hacia fuentes tranquilas",
+          "timing": {
+            "full": [
+              6.473,
+              8.68
+            ],
+            "passage": [
+              2.043,
+              4.304
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "y repara mis fuerzas;",
+          "phonetic": "y repara mis fuerzas;",
+          "timing": {
+            "full": [
+              8.68,
+              9.864
+            ],
+            "passage": [
+              0.0,
+              1.445
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "me guía por el sendero justo,",
+          "phonetic": "me guía por el sendero justo,",
+          "timing": {
+            "full": [
+              9.864,
+              11.672
+            ],
+            "passage": [
+              1.445,
+              3.266
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "por el honor de su nombre.",
+          "phonetic": "por el honor de su nombre.",
+          "timing": {
+            "full": [
+              11.672,
+              13.175
+            ],
+            "passage": [
+              3.266,
+              4.769
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Aunque camine por cañadas oscuras,",
+          "phonetic": "Aunque camine por cañadas oscuras,",
+          "timing": {
+            "full": [
+              13.175,
+              16.009
+            ],
+            "passage": [
+              0.0,
+              2.028
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "nada temo,",
+          "phonetic": "nada temo,",
+          "timing": {
+            "full": [
+              16.009,
+              16.94
+            ],
+            "passage": [
+              2.028,
+              2.946
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "porque tú vas conmigo:",
+          "phonetic": "porque tú vas conmigo:",
+          "timing": {
+            "full": [
+              16.94,
+              18.283
+            ],
+            "passage": [
+              2.946,
+              4.355
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "tu vara y tu cayado me sosiegan.",
+          "phonetic": "tu vara y tu cayado me sosiegan.",
+          "timing": {
+            "full": [
+              18.283,
+              20.291
+            ],
+            "passage": [
+              0.0,
+              2.002
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Preparas una mesa ante mí",
+          "phonetic": "Preparas una mesa ante mí",
+          "timing": {
+            "full": [
+              20.291,
+              22.577
+            ],
+            "passage": [
+              0.0,
+              1.456
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "enfrente de mis enemigos;",
+          "phonetic": "enfrente de mis enemigos;",
+          "timing": {
+            "full": [
+              22.577,
+              23.92
+            ],
+            "passage": [
+              1.456,
+              2.906
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "me unges la cabeza con perfume,",
+          "phonetic": "me unges la cabeza con perfume,",
+          "timing": {
+            "full": [
+              23.92,
+              25.888
+            ],
+            "passage": [
+              0.0,
+              1.963
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "y mi copa rebosa.",
+          "phonetic": "y mi copa rebosa.",
+          "timing": {
+            "full": [
+              25.888,
+              27.284
+            ],
+            "passage": [
+              1.963,
+              3.373
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Tu bondad y tu misericordia me acompañan",
+          "phonetic": "Tu bondad y tu misericordia me acompañan",
+          "timing": {
+            "full": [
+              27.284,
+              30.329
+            ],
+            "passage": [
+              0.0,
+              2.281
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "todos los días de mi vida,",
+          "phonetic": "todos los días de mi vida,",
+          "timing": {
+            "full": [
+              30.329,
+              31.632
+            ],
+            "passage": [
+              2.281,
+              3.664
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "y habitaré en la casa del Señor",
+          "phonetic": "y habitaré en la casa del Señor",
+          "timing": {
+            "full": [
+              31.632,
+              33.589
+            ],
+            "passage": [
+              0.0,
+              1.737
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "por años sin término.",
+          "phonetic": "por años sin término.",
+          "timing": {
+            "full": [
+              33.589,
+              34.919
+            ],
+            "passage": [
+              1.737,
+              3.067
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
