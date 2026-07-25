@@ -16,6 +16,7 @@ const PRAYERS = [
   { id: 'glory-be', label: 'Glory Be' },
   { id: 'fatima-prayer', label: 'Fatima Prayer' },
   { id: 'hail-holy-queen', label: 'Hail Holy Queen' },
+  { id: 'rosary-prayer', label: 'Rosary Prayer', dir: 'hail-holy-queen' },
   { separator: true },
   { id: 'jesus-prayer', label: 'Jesus Prayer', subdir: 'extras' },
   { id: 'nicene', label: 'Nicene Creed', subdir: 'extras' },
@@ -313,7 +314,7 @@ function createApp(container, opts = {}) {
     await Promise.all(PRAYERS.map(async p => {
       if (p.separator || !p.id) return;
       try {
-        const dir = p.subdir ? `${p.subdir}/${p.id}` : p.id;
+        const dir = getDir(p, p.id);
         const url = `${lang}/${dir}/${p.id}.json`;
         const r = await fetch(url);
         const data = r.ok ? await r.json() : null;
@@ -329,7 +330,10 @@ function createApp(container, opts = {}) {
     return PRAYERS.find(pp => pp.id === id) || {};
   }
 
+  // dir: full prayer folder under lang (e.g. hail-holy-queen for rosary-prayer)
+  // subdir: parent of a standard id-named folder (e.g. extras/jesus-prayer)
   function getDir(pdef, id) {
+    if (pdef.dir) return pdef.dir;
     return pdef.subdir ? `${pdef.subdir}/${id}` : id;
   }
 

@@ -275,3 +275,10 @@ A/B listening with `it-IT-DiegoNeural` @ `-15%`. Prefer simpler monophthong when
 
 **Deus note:** plain `Deus` is often misread (English *douse* / *Dawson*). Use **`Déus`**. Do not use `De-us` / `De us` -- those make the voice say "US" / "Stati Uniti".
 
+
+
+---
+
+## iOS app
+
+See `plan-ios.md` for Ora Pro Nobis native iPhone plan (aligned decisions, content bundling, App Store path).

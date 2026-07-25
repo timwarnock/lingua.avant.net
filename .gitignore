@@ -1,5 +1,6 @@
 .dh-diag
 v/
+plan-*
 
 
 # Python / uv environments and artifacts

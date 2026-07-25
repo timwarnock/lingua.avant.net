@@ -92,7 +92,7 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 
-+ iOS app! Ora Pro Nobis
++ iOS app! Ora Pro Nobis (see plan-ios.md)
 
 
 
