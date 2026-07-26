@@ -42,22 +42,22 @@
             ],
             "passage": [
               0.0,
-              1.726
+              1.712
             ]
           }
         },
         {
           "passage_segment_id": "2b",
           "text": "et nihil mihi deerit:",
-          "phonetic": "et nihil mihi deerit:",
+          "phonetic": "et nihil michi deerit:",
           "timing": {
             "full": [
               4.103,
-              5.765
+              5.882
             ],
             "passage": [
-              1.726,
-              3.579
+              1.712,
+              3.668
             ]
           }
         }
@@ -72,8 +72,8 @@
           "phonetic": "in loco pascuae ibi me collocavit.",
           "timing": {
             "full": [
-              5.765,
-              8.529
+              5.882,
+              8.603
             ],
             "passage": [
               0.0,
@@ -87,8 +87,8 @@
           "phonetic": "Super aquam refectionis educavit me,",
           "timing": {
             "full": [
-              8.529,
-              12.353
+              8.603,
+              12.426
             ],
             "passage": [
               2.55,
@@ -107,8 +107,8 @@
           "phonetic": "animam meam convertit.",
           "timing": {
             "full": [
-              12.353,
-              14.426
+              12.426,
+              14.5
             ],
             "passage": [
               0.0,
@@ -119,15 +119,15 @@
         {
           "passage_segment_id": "4b",
           "text": "Deduxit me super semitas justitiae,",
-          "phonetic": "Deduxit me super semitas justitiae,",
+          "phonetic": "Deduxit me super semitas iustitiae,",
           "timing": {
             "full": [
-              14.426,
-              18.309
+              14.5,
+              18.471
             ],
             "passage": [
               1.874,
-              5.765
+              5.853
             ]
           }
         },
@@ -137,11 +137,11 @@
           "phonetic": "propter nomen suum.",
           "timing": {
             "full": [
-              18.309,
-              20.118
+              18.471,
+              20.191
             ],
             "passage": [
-              5.765,
+              5.853,
               7.574
             ]
           }
@@ -157,8 +157,8 @@
           "phonetic": "Nam, etsi ambulavero in medio umbrae mortis,",
           "timing": {
             "full": [
-              20.118,
-              24.441
+              20.191,
+              24.515
             ],
             "passage": [
               0.0,
@@ -172,8 +172,8 @@
           "phonetic": "non timebo mala,",
           "timing": {
             "full": [
-              24.441,
-              25.868
+              24.515,
+              25.941
             ],
             "passage": [
               3.432,
@@ -187,8 +187,8 @@
           "phonetic": "quoniam tu mecum es.",
           "timing": {
             "full": [
-              25.868,
-              27.691
+              25.941,
+              27.765
             ],
             "passage": [
               4.859,
@@ -207,8 +207,8 @@
           "phonetic": "Virga tua, et baculus tuus,",
           "timing": {
             "full": [
-              27.691,
-              30.279
+              27.765,
+              30.353
             ],
             "passage": [
               0.0,
@@ -222,8 +222,8 @@
           "phonetic": "ipsa me consolata sunt.",
           "timing": {
             "full": [
-              30.279,
-              32.397
+              30.353,
+              32.471
             ],
             "passage": [
               2.815,
@@ -242,8 +242,8 @@
           "phonetic": "Parasti in conspectu meo mensam,",
           "timing": {
             "full": [
-              32.397,
-              35.632
+              32.471,
+              35.706
             ],
             "passage": [
               0.0,
@@ -257,8 +257,8 @@
           "phonetic": "adversus eos qui tribulant me;",
           "timing": {
             "full": [
-              35.632,
-              38.162
+              35.706,
+              38.235
             ],
             "passage": [
               2.3,
@@ -277,8 +277,8 @@
           "phonetic": "impinguasti in oleo caput meum;",
           "timing": {
             "full": [
-              38.162,
-              40.662
+              38.235,
+              40.735
             ],
             "passage": [
               0.0,
@@ -292,8 +292,8 @@
           "phonetic": "et calix meus inebrians quam praeclarus est!",
           "timing": {
             "full": [
-              40.662,
-              44.25
+              40.735,
+              44.324
             ],
             "passage": [
               2.374,
@@ -312,8 +312,8 @@
           "phonetic": "Et misericordia tua subsequetur me",
           "timing": {
             "full": [
-              44.25,
-              47.618
+              44.324,
+              47.691
             ],
             "passage": [
               0.0,
@@ -327,8 +327,8 @@
           "phonetic": "omnibus diebus vitae meae;",
           "timing": {
             "full": [
-              47.618,
-              49.662
+              47.691,
+              49.735
             ],
             "passage": [
               2.447,
@@ -347,8 +347,8 @@
           "phonetic": "et ut inhabitem in domo Domini,",
           "timing": {
             "full": [
-              49.662,
-              51.882
+              49.735,
+              51.956
             ],
             "passage": [
               0.0,
@@ -362,8 +362,8 @@
           "phonetic": "in longitudinem dierum.",
           "timing": {
             "full": [
-              51.882,
-              53.956
+              51.956,
+              54.029
             ],
             "passage": [
               2.168,
