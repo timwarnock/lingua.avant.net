@@ -1,0 +1,127 @@
+{
+  "id": "fatima-prayer",
+  "lang": "german",
+  "title": "Fatimagebet",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "O mein Jesus,",
+          "phonetic": "O mein Jesus,",
+          "timing": {
+            "full": [
+              0.0,
+              1.133
+            ],
+            "passage": [
+              0.0,
+              1.133
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "verzeih uns unsere Sünden,",
+          "phonetic": "verzeih uns unsere Sünden,",
+          "timing": {
+            "full": [
+              1.133,
+              3.064
+            ],
+            "passage": [
+              1.133,
+              3.203
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "bewahre uns vor dem Feuer der Hölle,",
+          "phonetic": "bewahre uns vor dem Feuer der Hölle,",
+          "timing": {
+            "full": [
+              3.064,
+              5.439
+            ],
+            "passage": [
+              0.0,
+              2.439
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "führe alle Seelen in den Himmel,",
+          "phonetic": "führe alle Seelen in den Himmel,",
+          "timing": {
+            "full": [
+              5.439,
+              7.592
+            ],
+            "passage": [
+              0.0,
+              2.036
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "besonders jene, die deiner Barmherzigkeit am meisten bedürfen.",
+          "phonetic": "besonders jene, die deiner Barmherzigkeit am meisten bedürfen.",
+          "timing": {
+            "full": [
+              7.592,
+              11.856
+            ],
+            "passage": [
+              0.0,
+              4.106
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              11.856,
+              13.347
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

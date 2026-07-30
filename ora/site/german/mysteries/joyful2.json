@@ -1,0 +1,32 @@
+{
+  "id": "joyful2",
+  "lang": "german",
+  "title": "Das zweite freudenreiche Geheimnis, die Heimsuchung",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das zweite freudenreiche Geheimnis, die Heimsuchung.",
+          "phonetic": "Das zweite freudenreiche Geheimnis, die Heimsuchung.",
+          "timing": {
+            "full": [
+              0.0,
+              3.494
+            ],
+            "passage": [
+              0.0,
+              3.494
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "our-father",
+  "lang": "german",
+  "title": "Vater unser",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Vater unser",
+          "phonetic": "Vater unser",
+          "timing": {
+            "full": [
+              0.0,
+              0.925
+            ],
+            "passage": [
+              0.0,
+              0.925
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "im Himmel,",
+          "phonetic": "im Himmel,",
+          "timing": {
+            "full": [
+              0.925,
+              1.522
+            ],
+            "passage": [
+              0.925,
+              1.522
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "geheiligt werde dein Name.",
+          "phonetic": "geheiligt werde dein Name.",
+          "timing": {
+            "full": [
+              1.522,
+              3.383
+            ],
+            "passage": [
+              1.522,
+              3.383
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Dein Reich komme.",
+          "phonetic": "Dein Reich komme.",
+          "timing": {
+            "full": [
+              3.383,
+              5.444
+            ],
+            "passage": [
+              0.0,
+              1.189
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Dein Wille geschehe, wie im Himmel so auf Erden.",
+          "phonetic": "Dein Wille geschehe, wie im Himmel so auf Erden.",
+          "timing": {
+            "full": [
+              5.444,
+              9.361
+            ],
+            "passage": [
+              0.0,
+              3.05
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Unser tägliches Brot gib uns heute.",
+          "phonetic": "Unser tägliches Brot gib uns heute.",
+          "timing": {
+            "full": [
+              9.361,
+              12.708
+            ],
+            "passage": [
+              0.0,
+              2.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Und vergib uns unsere Schuld,",
+          "phonetic": "Und vergib uns unsere Schuld,",
+          "timing": {
+            "full": [
+              12.708,
+              15.472
+            ],
+            "passage": [
+              0.0,
+              1.911
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "wie auch wir vergeben unsern Schuldigern.",
+          "phonetic": "wie auch wir vergeben unsern Schuldigern.",
+          "timing": {
+            "full": [
+              15.472,
+              18.097
+            ],
+            "passage": [
+              1.911,
+              4.536
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Und führe uns nicht in Versuchung,",
+          "phonetic": "Und führe uns nicht in Versuchung,",
+          "timing": {
+            "full": [
+              18.097,
+              20.944
+            ],
+            "passage": [
+              0.0,
+              1.994
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "sondern erlöse uns von dem Bösen.",
+          "phonetic": "sondern erlöse uns von dem Bösen.",
+          "timing": {
+            "full": [
+              20.944,
+              23.194
+            ],
+            "passage": [
+              1.994,
+              4.244
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              23.194,
+              24.694
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful2",
+  "lang": "german",
+  "title": "Das zweite schmerzhafte Geheimnis, die Geißelung",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das zweite schmerzhafte Geheimnis, die Geißelung.",
+          "phonetic": "Das zweite schmerzhafte Geheimnis, die Geißelung.",
+          "timing": {
+            "full": [
+              0.0,
+              3.397
+            ],
+            "passage": [
+              0.0,
+              3.397
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

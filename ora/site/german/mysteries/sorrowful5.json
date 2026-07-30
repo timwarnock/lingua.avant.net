@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful5",
+  "lang": "german",
+  "title": "Das fünfte schmerzhafte Geheimnis, die Kreuzigung",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das fünfte schmerzhafte Geheimnis, die Kreuzigung.",
+          "phonetic": "Das fünfte schmerzhafte Geheimnis, die Kreuzigung.",
+          "timing": {
+            "full": [
+              0.0,
+              3.439
+            ],
+            "passage": [
+              0.0,
+              3.439
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

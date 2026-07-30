@@ -1,0 +1,202 @@
+{
+  "id": "hail-mary",
+  "lang": "german",
+  "title": "Gegrüßet seist du, Maria",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Gegrüßet seist du, Maria,",
+          "phonetic": "Gegrüßet seist du, Maria,",
+          "timing": {
+            "full": [
+              0.0,
+              1.939
+            ],
+            "passage": [
+              0.0,
+              1.939
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "voll der Gnade,",
+          "phonetic": "voll der Gnade,",
+          "timing": {
+            "full": [
+              1.939,
+              3.175
+            ],
+            "passage": [
+              1.939,
+              3.175
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "der Herr ist mit dir.",
+          "phonetic": "der Herr ist mit dir.",
+          "timing": {
+            "full": [
+              3.175,
+              4.675
+            ],
+            "passage": [
+              3.175,
+              4.675
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Du bist gebenedeit unter den Frauen,",
+          "phonetic": "Du bist gebenedeit unter den Frauen,",
+          "timing": {
+            "full": [
+              4.675,
+              7.819
+            ],
+            "passage": [
+              0.0,
+              2.286
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "und gebenedeit ist die Frucht deines Leibes,",
+          "phonetic": "und gebenedeit ist die Frucht deines Leibes,",
+          "timing": {
+            "full": [
+              7.819,
+              10.653
+            ],
+            "passage": [
+              2.286,
+              5.119
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Jesus.",
+          "phonetic": "Jesus.",
+          "timing": {
+            "full": [
+              10.653,
+              11.403
+            ],
+            "passage": [
+              5.119,
+              5.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Heilige Maria,",
+          "phonetic": "Heilige Maria,",
+          "timing": {
+            "full": [
+              11.403,
+              13.417
+            ],
+            "passage": [
+              0.0,
+              1.244
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Mutter Gottes,",
+          "phonetic": "Mutter Gottes,",
+          "timing": {
+            "full": [
+              13.417,
+              14.431
+            ],
+            "passage": [
+              1.244,
+              2.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "bitte für uns Sünder,",
+          "phonetic": "bitte für uns Sünder,",
+          "timing": {
+            "full": [
+              14.431,
+              15.806
+            ],
+            "passage": [
+              2.3,
+              3.883
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "jetzt und in der Stunde unseres Todes.",
+          "phonetic": "jetzt und in der Stunde unseres Todes.",
+          "timing": {
+            "full": [
+              15.806,
+              18.667
+            ],
+            "passage": [
+              0.0,
+              2.703
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              18.667,
+              20.167
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

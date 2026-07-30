@@ -1,0 +1,417 @@
+{
+  "id": "apostles-creed",
+  "lang": "german",
+  "title": "Apostolisches Glaubensbekenntnis",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Ich glaube an Gott,",
+          "phonetic": "Ich glaube an Gott,",
+          "timing": {
+            "full": [
+              0.0,
+              1.356
+            ],
+            "passage": [
+              0.0,
+              1.356
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "den Vater, den Allmächtigen,",
+          "phonetic": "den Vater, den Allmächtigen,",
+          "timing": {
+            "full": [
+              1.356,
+              3.494
+            ],
+            "passage": [
+              1.356,
+              3.536
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "den Schöpfer des Himmels und der Erde,",
+          "phonetic": "den Schöpfer des Himmels und der Erde,",
+          "timing": {
+            "full": [
+              3.494,
+              5.828
+            ],
+            "passage": [
+              3.536,
+              6.133
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "und an Jesus Christus,",
+          "phonetic": "und an Jesus Christus,",
+          "timing": {
+            "full": [
+              5.828,
+              7.522
+            ],
+            "passage": [
+              0.0,
+              1.703
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "seinen eingeborenen Sohn,",
+          "phonetic": "seinen eingeborenen Sohn,",
+          "timing": {
+            "full": [
+              7.522,
+              9.272
+            ],
+            "passage": [
+              1.703,
+              3.453
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "unsern Herrn,",
+          "phonetic": "unsern Herrn,",
+          "timing": {
+            "full": [
+              9.272,
+              10.328
+            ],
+            "passage": [
+              3.453,
+              4.633
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "empfangen durch den Heiligen Geist,",
+          "phonetic": "empfangen durch den Heiligen Geist,",
+          "timing": {
+            "full": [
+              10.328,
+              12.467
+            ],
+            "passage": [
+              0.0,
+              2.147
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "geboren von der Jungfrau Maria,",
+          "phonetic": "geboren von der Jungfrau Maria,",
+          "timing": {
+            "full": [
+              12.467,
+              14.633
+            ],
+            "passage": [
+              0.0,
+              2.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "gelitten unter Pontius Pilatus,",
+          "phonetic": "gelitten unter Pontius Pilatus,",
+          "timing": {
+            "full": [
+              14.633,
+              16.869
+            ],
+            "passage": [
+              0.0,
+              2.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "gekreuzigt,",
+          "phonetic": "gekreuzigt,",
+          "timing": {
+            "full": [
+              16.869,
+              17.856
+            ],
+            "passage": [
+              2.161,
+              3.175
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "gestorben und begraben,",
+          "phonetic": "gestorben und begraben,",
+          "timing": {
+            "full": [
+              17.856,
+              19.633
+            ],
+            "passage": [
+              3.175,
+              5.106
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "hinabgestiegen in das Reich des Todes,",
+          "phonetic": "hinabgestiegen in das Reich des Todes,",
+          "timing": {
+            "full": [
+              19.633,
+              22.217
+            ],
+            "passage": [
+              0.0,
+              2.592
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "am dritten Tage auferstanden von den Toten,",
+          "phonetic": "am dritten Tage auferstanden von den Toten,",
+          "timing": {
+            "full": [
+              22.217,
+              25.106
+            ],
+            "passage": [
+              0.0,
+              2.856
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "aufgefahren in den Himmel;",
+          "phonetic": "aufgefahren in den Himmel;",
+          "timing": {
+            "full": [
+              25.106,
+              26.689
+            ],
+            "passage": [
+              0.0,
+              1.731
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "er sitzt zur Rechten Gottes, des allmächtigen Vaters;",
+          "phonetic": "er sitzt zur Rechten Gottes, des allmächtigen Vaters;",
+          "timing": {
+            "full": [
+              26.689,
+              30.403
+            ],
+            "passage": [
+              0.0,
+              3.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "von dort wird er kommen, zu richten die Lebenden und die Toten.",
+          "phonetic": "von dort wird er kommen, zu richten die Lebenden und die Toten.",
+          "timing": {
+            "full": [
+              30.403,
+              35.556
+            ],
+            "passage": [
+              0.0,
+              3.981
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Ich glaube an den Heiligen Geist,",
+          "phonetic": "Ich glaube an den Heiligen Geist,",
+          "timing": {
+            "full": [
+              35.556,
+              38.611
+            ],
+            "passage": [
+              0.0,
+              2.189
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "die heilige katholische Kirche,",
+          "phonetic": "die heilige katholische Kirche,",
+          "timing": {
+            "full": [
+              38.611,
+              40.708
+            ],
+            "passage": [
+              2.189,
+              4.286
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "Gemeinschaft der Heiligen,",
+          "phonetic": "Gemeinschaft der Heiligen,",
+          "timing": {
+            "full": [
+              40.708,
+              42.264
+            ],
+            "passage": [
+              4.286,
+              5.842
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "Vergebung der Sünden,",
+          "phonetic": "Vergebung der Sünden,",
+          "timing": {
+            "full": [
+              42.264,
+              43.736
+            ],
+            "passage": [
+              5.842,
+              7.314
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "Auferstehung der Toten",
+          "phonetic": "Auferstehung der Toten",
+          "timing": {
+            "full": [
+              43.736,
+              45.292
+            ],
+            "passage": [
+              7.314,
+              8.869
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "und das ewige Leben.",
+          "phonetic": "und das ewige Leben.",
+          "timing": {
+            "full": [
+              45.292,
+              46.625
+            ],
+            "passage": [
+              8.869,
+              10.203
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              46.625,
+              48.111
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

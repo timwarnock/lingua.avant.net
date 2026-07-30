@@ -1,0 +1,147 @@
+{
+  "id": "glory-be",
+  "lang": "german",
+  "title": "Ehre sei dem Vater",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Ehre sei dem Vater",
+          "phonetic": "Ehre sei dem Vater",
+          "timing": {
+            "full": [
+              0.0,
+              1.244
+            ],
+            "passage": [
+              0.0,
+              1.244
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "und dem Sohn",
+          "phonetic": "und dem Sohn",
+          "timing": {
+            "full": [
+              1.244,
+              1.967
+            ],
+            "passage": [
+              1.244,
+              1.967
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "und dem Heiligen Geist.",
+          "phonetic": "und dem Heiligen Geist.",
+          "timing": {
+            "full": [
+              1.967,
+              3.356
+            ],
+            "passage": [
+              1.967,
+              3.356
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Wie im Anfang,",
+          "phonetic": "Wie im Anfang,",
+          "timing": {
+            "full": [
+              3.356,
+              5.333
+            ],
+            "passage": [
+              0.0,
+              1.119
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "so auch jetzt",
+          "phonetic": "so auch jetzt",
+          "timing": {
+            "full": [
+              5.333,
+              6.375
+            ],
+            "passage": [
+              1.119,
+              2.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "und alle Zeit",
+          "phonetic": "und alle Zeit",
+          "timing": {
+            "full": [
+              6.375,
+              7.361
+            ],
+            "passage": [
+              2.161,
+              3.147
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "und in Ewigkeit.",
+          "phonetic": "und in Ewigkeit.",
+          "timing": {
+            "full": [
+              7.361,
+              8.583
+            ],
+            "passage": [
+              3.147,
+              4.369
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              8.583,
+              10.069
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful4",
+  "lang": "german",
+  "title": "Das vierte schmerzhafte Geheimnis, die Kreuztragung",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das vierte schmerzhafte Geheimnis, die Kreuztragung.",
+          "phonetic": "Das vierte schmerzhafte Geheimnis, die Kreuztragung.",
+          "timing": {
+            "full": [
+              0.0,
+              3.633
+            ],
+            "passage": [
+              0.0,
+              3.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

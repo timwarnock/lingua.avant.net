@@ -1,0 +1,322 @@
+{
+  "id": "rosary-prayer",
+  "lang": "german",
+  "title": "Rosenkranzgebet",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Lasset uns beten.",
+          "phonetic": "Lasset uns beten.",
+          "timing": {
+            "full": [
+              0.0,
+              1.383
+            ],
+            "passage": [
+              0.0,
+              1.383
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Gott,",
+          "phonetic": "Gott,",
+          "timing": {
+            "full": [
+              1.383,
+              2.736
+            ],
+            "passage": [
+              0.0,
+              0.508
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "dessen eingeborener Sohn",
+          "phonetic": "dessen eingeborener Sohn",
+          "timing": {
+            "full": [
+              2.736,
+              4.333
+            ],
+            "passage": [
+              0.508,
+              2.078
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "durch sein Leben,",
+          "phonetic": "durch sein Leben,",
+          "timing": {
+            "full": [
+              4.333,
+              5.292
+            ],
+            "passage": [
+              2.078,
+              3.008
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "seinen Tod und seine Auferstehung",
+          "phonetic": "seinen Tod und seine Auferstehung",
+          "timing": {
+            "full": [
+              5.292,
+              7.569
+            ],
+            "passage": [
+              3.008,
+              5.244
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2e",
+          "text": "uns den Lohn",
+          "phonetic": "uns den Lohn",
+          "timing": {
+            "full": [
+              7.569,
+              8.292
+            ],
+            "passage": [
+              5.244,
+              5.967
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2f",
+          "text": "des ewigen Lebens erworben hat,",
+          "phonetic": "des ewigen Lebens erworben hat,",
+          "timing": {
+            "full": [
+              8.292,
+              10.194
+            ],
+            "passage": [
+              5.967,
+              7.953
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "gewähre uns, wir bitten dich,",
+          "phonetic": "gewähre uns, wir bitten dich,",
+          "timing": {
+            "full": [
+              10.194,
+              12.361
+            ],
+            "passage": [
+              0.0,
+              2.036
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "dass wir, die wir diese Geheimnisse betrachten",
+          "phonetic": "dass wir, die wir diese Geheimnisse betrachten",
+          "timing": {
+            "full": [
+              12.361,
+              15.042
+            ],
+            "passage": [
+              2.036,
+              4.744
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "des heiligsten Rosenkranzes der seligen Jungfrau Maria,",
+          "phonetic": "des heiligsten Rosenkranzes der seligen Jungfrau Maria,",
+          "timing": {
+            "full": [
+              15.042,
+              18.625
+            ],
+            "passage": [
+              4.744,
+              8.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "nachahmen, was sie enthalten,",
+          "phonetic": "nachahmen, was sie enthalten,",
+          "timing": {
+            "full": [
+              18.625,
+              20.903
+            ],
+            "passage": [
+              0.0,
+              2.217
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "und erlangen, was sie verheißen,",
+          "phonetic": "und erlangen, was sie verheißen,",
+          "timing": {
+            "full": [
+              20.903,
+              23.139
+            ],
+            "passage": [
+              2.217,
+              4.592
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "durch denselben Christus, unseren Herrn.",
+          "phonetic": "durch denselben Christus, unseren Herrn.",
+          "timing": {
+            "full": [
+              23.139,
+              25.833
+            ],
+            "passage": [
+              0.0,
+              2.675
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              25.833,
+              27.319
+            ],
+            "passage": [
+              0.0,
+              0.633
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Heiligstes Herz Jesu,",
+          "phonetic": "Heiligstes Herz Jesu,",
+          "timing": {
+            "full": [
+              27.319,
+              29.778
+            ],
+            "passage": [
+              0.0,
+              1.606
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "erbarme dich unser.",
+          "phonetic": "erbarme dich unser.",
+          "timing": {
+            "full": [
+              29.778,
+              31.111
+            ],
+            "passage": [
+              1.606,
+              2.939
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Unbeflecktes Herz Mariä,",
+          "phonetic": "Unbeflecktes Herz Mariä,",
+          "timing": {
+            "full": [
+              31.111,
+              33.861
+            ],
+            "passage": [
+              0.0,
+              1.897
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "bitte für uns.",
+          "phonetic": "bitte für uns.",
+          "timing": {
+            "full": [
+              33.861,
+              35.056
+            ],
+            "passage": [
+              1.897,
+              3.092
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

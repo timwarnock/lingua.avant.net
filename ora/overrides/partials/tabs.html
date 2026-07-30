@@ -58,6 +58,10 @@
                 {%- endif -%}
               </a>
             </li>
+            {#- Default language at top; separator before the other languages. -#}
+            {%- if title == "English" -%}
+            <li class="ora-lang-item ora-lang-item--separator" role="separator" aria-hidden="true"></li>
+            {%- endif -%}
           {% endfor %}
         </ul>
       </details>

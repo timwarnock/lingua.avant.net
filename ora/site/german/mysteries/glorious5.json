@@ -1,0 +1,32 @@
+{
+  "id": "glorious5",
+  "lang": "german",
+  "title": "Das fünfte glorreiche Geheimnis, die Krönung Mariens",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das fünfte glorreiche Geheimnis, die Krönung Mariens.",
+          "phonetic": "Das fünfte glorreiche Geheimnis, die Krönung Mariens.",
+          "timing": {
+            "full": [
+              0.0,
+              3.786
+            ],
+            "passage": [
+              0.0,
+              3.786
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

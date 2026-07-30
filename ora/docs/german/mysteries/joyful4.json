@@ -1,0 +1,32 @@
+{
+  "id": "joyful4",
+  "lang": "german",
+  "title": "Das vierte freudenreiche Geheimnis, die Darstellung im Tempel",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das vierte freudenreiche Geheimnis, die Darstellung im Tempel.",
+          "phonetic": "Das vierte freudenreiche Geheimnis, die Darstellung im Tempel.",
+          "timing": {
+            "full": [
+              0.0,
+              4.036
+            ],
+            "passage": [
+              0.0,
+              4.036
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

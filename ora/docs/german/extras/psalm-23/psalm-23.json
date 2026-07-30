@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "german",
+  "title": "Psalm 23",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Ein Psalm Davids.",
+          "phonetic": "Ein Psalm Davids.",
+          "timing": {
+            "full": [
+              0.0,
+              1.356
+            ],
+            "passage": [
+              0.0,
+              1.356
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Der Herr ist mein Hirte;",
+          "phonetic": "Der Herr ist mein Hirte;",
+          "timing": {
+            "full": [
+              1.356,
+              3.681
+            ],
+            "passage": [
+              0.0,
+              1.467
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "nichts wird mir fehlen.",
+          "phonetic": "nichts wird mir fehlen.",
+          "timing": {
+            "full": [
+              3.681,
+              5.208
+            ],
+            "passage": [
+              1.467,
+              2.994
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Er lässt mich lagern auf grünen Auen",
+          "phonetic": "Er lässt mich lagern auf grünen Auen",
+          "timing": {
+            "full": [
+              5.208,
+              8.222
+            ],
+            "passage": [
+              0.0,
+              2.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "und führt mich zum Ruheplatz am Wasser.",
+          "phonetic": "und führt mich zum Ruheplatz am Wasser.",
+          "timing": {
+            "full": [
+              8.222,
+              10.472
+            ],
+            "passage": [
+              2.161,
+              4.411
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Er stillt mein Verlangen;",
+          "phonetic": "Er stillt mein Verlangen;",
+          "timing": {
+            "full": [
+              10.472,
+              12.75
+            ],
+            "passage": [
+              0.0,
+              1.425
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "er leitet mich auf rechten Pfaden",
+          "phonetic": "er leitet mich auf rechten Pfaden",
+          "timing": {
+            "full": [
+              12.75,
+              14.764
+            ],
+            "passage": [
+              1.425,
+              3.439
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "treu seinem Namen.",
+          "phonetic": "treu seinem Namen.",
+          "timing": {
+            "full": [
+              14.764,
+              15.986
+            ],
+            "passage": [
+              3.439,
+              4.661
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Muss ich auch wandern in dunkler Schlucht,",
+          "phonetic": "Muss ich auch wandern in dunkler Schlucht,",
+          "timing": {
+            "full": [
+              15.986,
+              19.319
+            ],
+            "passage": [
+              0.0,
+              2.439
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "ich fürchte kein Unheil;",
+          "phonetic": "ich fürchte kein Unheil;",
+          "timing": {
+            "full": [
+              19.319,
+              20.972
+            ],
+            "passage": [
+              2.439,
+              4.036
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "denn du bist bei mir;",
+          "phonetic": "denn du bist bei mir;",
+          "timing": {
+            "full": [
+              20.972,
+              22.375
+            ],
+            "passage": [
+              4.036,
+              5.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "dein Stock und dein Stab",
+          "phonetic": "dein Stock und dein Stab",
+          "timing": {
+            "full": [
+              22.375,
+              24.042
+            ],
+            "passage": [
+              0.0,
+              1.508
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "geben mir Zuversicht.",
+          "phonetic": "geben mir Zuversicht.",
+          "timing": {
+            "full": [
+              24.042,
+              25.375
+            ],
+            "passage": [
+              1.508,
+              2.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Du deckst mir den Tisch",
+          "phonetic": "Du deckst mir den Tisch",
+          "timing": {
+            "full": [
+              25.375,
+              27.514
+            ],
+            "passage": [
+              0.0,
+              1.272
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "im Angesicht meiner Feinde.",
+          "phonetic": "im Angesicht meiner Feinde.",
+          "timing": {
+            "full": [
+              27.514,
+              29.125
+            ],
+            "passage": [
+              1.272,
+              2.883
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Du salbst mein Haupt mit Öl;",
+          "phonetic": "Du salbst mein Haupt mit Öl;",
+          "timing": {
+            "full": [
+              29.125,
+              31.764
+            ],
+            "passage": [
+              0.0,
+              1.772
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "du füllst mir reichlich den Becher.",
+          "phonetic": "du füllst mir reichlich den Becher.",
+          "timing": {
+            "full": [
+              31.764,
+              33.958
+            ],
+            "passage": [
+              1.772,
+              3.967
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Lauter Güte und Huld werden mir folgen",
+          "phonetic": "Lauter Güte und Huld werden mir folgen",
+          "timing": {
+            "full": [
+              33.958,
+              37.194
+            ],
+            "passage": [
+              0.0,
+              2.467
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "mein Leben lang,",
+          "phonetic": "mein Leben lang,",
+          "timing": {
+            "full": [
+              37.194,
+              38.181
+            ],
+            "passage": [
+              2.467,
+              3.494
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "und im Haus des Herrn darf ich wohnen",
+          "phonetic": "und im Haus des Herrn darf ich wohnen",
+          "timing": {
+            "full": [
+              38.181,
+              40.583
+            ],
+            "passage": [
+              0.0,
+              2.092
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "für lange Zeit.",
+          "phonetic": "für lange Zeit.",
+          "timing": {
+            "full": [
+              40.583,
+              41.611
+            ],
+            "passage": [
+              2.092,
+              3.119
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

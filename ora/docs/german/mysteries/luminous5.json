@@ -1,0 +1,32 @@
+{
+  "id": "luminous5",
+  "lang": "german",
+  "title": "Das fünfte lichtreiche Geheimnis, die Einsetzung der Eucharistie",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das fünfte lichtreiche Geheimnis, die Einsetzung der Eucharistie.",
+          "phonetic": "Das fünfte lichtreiche Geheimnis, die Einsetzung der Eucharistie.",
+          "timing": {
+            "full": [
+              0.0,
+              4.3
+            ],
+            "passage": [
+              0.0,
+              4.3
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

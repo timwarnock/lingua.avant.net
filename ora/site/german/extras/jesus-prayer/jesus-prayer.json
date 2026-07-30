@@ -1,0 +1,82 @@
+{
+  "id": "jesus-prayer",
+  "lang": "german",
+  "title": "Jesusgebet",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Herr Jesus Christus,",
+          "phonetic": "Herr Jesus Christus,",
+          "timing": {
+            "full": [
+              0.0,
+              1.536
+            ],
+            "passage": [
+              0.0,
+              1.578
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Sohn Gottes,",
+          "phonetic": "Sohn Gottes,",
+          "timing": {
+            "full": [
+              1.536,
+              2.522
+            ],
+            "passage": [
+              1.578,
+              2.606
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "erbarme dich meiner,",
+          "phonetic": "erbarme dich meiner,",
+          "timing": {
+            "full": [
+              2.522,
+              3.717
+            ],
+            "passage": [
+              0.0,
+              1.258
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "eines Sünders.",
+          "phonetic": "eines Sünders.",
+          "timing": {
+            "full": [
+              3.717,
+              4.842
+            ],
+            "passage": [
+              1.258,
+              2.453
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

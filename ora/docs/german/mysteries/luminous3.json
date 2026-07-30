@@ -1,0 +1,32 @@
+{
+  "id": "luminous3",
+  "lang": "german",
+  "title": "Das dritte lichtreiche Geheimnis, die Verkündigung des Reiches Gottes",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das dritte lichtreiche Geheimnis, die Verkündigung des Reiches Gottes.",
+          "phonetic": "Das dritte lichtreiche Geheimnis, die Verkündigung des Reiches Gottes.",
+          "timing": {
+            "full": [
+              0.0,
+              4.425
+            ],
+            "passage": [
+              0.0,
+              4.425
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

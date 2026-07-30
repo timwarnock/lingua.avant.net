@@ -1,0 +1,32 @@
+{
+  "id": "glorious2",
+  "lang": "german",
+  "title": "Das zweite glorreiche Geheimnis, die Himmelfahrt",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Das zweite glorreiche Geheimnis, die Himmelfahrt.",
+          "phonetic": "Das zweite glorreiche Geheimnis, die Himmelfahrt.",
+          "timing": {
+            "full": [
+              0.0,
+              3.397
+            ],
+            "passage": [
+              0.0,
+              3.397
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

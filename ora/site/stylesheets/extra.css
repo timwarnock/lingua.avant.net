@@ -245,6 +245,17 @@ html[data-md-color-scheme="slate"] .ora-lang-menu,
   padding: 0;
 }
 
+/* Divider after English (default language) in the Languages menu */
+.ora-lang-item--separator {
+  height: 0;
+  margin: 0.35rem 0.75rem;
+  padding: 0;
+  border: 0;
+  border-top: 1px solid var(--md-default-fg-color--lighter);
+  list-style: none;
+  pointer-events: none;
+}
+
 .ora-lang-link {
   display: block;
   padding: 0.4rem 0.9rem;

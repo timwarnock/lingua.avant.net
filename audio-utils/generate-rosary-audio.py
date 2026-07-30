@@ -220,13 +220,18 @@ async def main():
         if total_units <= 0:
             return {}
         timings = {}
-        # cum units: len(btext) for CJK/greek, 1 per event for word-based languages
+        # cum units along WordBoundary events. Edge sometimes merges several spoken
+        # words into one event (e.g. German "Herr ist mit"); count those as multiple
+        # units so segment mapping stays aligned with count_units() on the text.
         cum_units = [0]
         for ev in word_events:
+            btext = ev.get("text", "") or ""
             if lang in ("chinese", "japanese", "greek"):
-                delta = len(ev.get('text', '') or '')
+                delta = len(btext)
             else:
-                delta = 1
+                delta = count_units(btext, lang)
+                if delta <= 0:
+                    delta = 1
             cum_units.append(cum_units[-1] + delta)
         pos = 0
         for sid, txt in segs:

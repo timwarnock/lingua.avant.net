@@ -119,12 +119,28 @@ uv run --with edge-tts python audio-utils/detect-greek-letter-spelling.py --all 
 
 See also `notes-agents.md` section **Greek prayer text and TTS**.
 
-## Latin Edge TTS A/B samples
+## Audio-testing A/B samples
 
-Generate listen-test mp3s and `index.md` into `ora/docs/audio-testing/` (site content only; this script stays in `audio-utils/`). Currently focused on **Sancta / sanct-** (hard **k** vs Italian/Spanish *Santa*):
+Generate listen-test mp3s and `index.md` into `ora/docs/audio-testing/` (site content only; scripts stay in `audio-utils/`).
+
+**Italian female voices** (current focus -- pick voice + rate before building `/italian/`):
+
+```bash
+uv run --with edge-tts python audio-utils/generate-italian-voice-ab.py
+```
+
+Female voices: `it-IT-ElsaNeural`, `it-IT-IsabellaNeural`. Rates: `+0%`, `-5%`, `-10%`. Hail Mary passages 1–2.
+
+**German male voices** (production: `de-DE-KillianNeural` @ `-10%`):
+
+```bash
+uv run --with edge-tts python audio-utils/generate-german-voice-ab.py
+```
+
+**Latin** (Sancta / sanct- hard **k** vs Italian/Spanish *Santa*):
 
 ```bash
 uv run --with edge-tts python audio-utils/generate-latin-ab.py
 ```
 
-Voice/rate match production Latin: `it-IT-DiegoNeural`, `-15%`.
+Latin production: `it-IT-DiegoNeural`, `-15%`.

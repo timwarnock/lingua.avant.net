@@ -26,6 +26,7 @@ const PRAYERS = [
 
 const LANGS = [
   { id: 'english', label: 'English' },
+  { id: 'german', label: 'Deutsch' },
   { id: 'spanish', label: 'Español' },
   { id: 'french', label: 'Français' },
   { id: 'latin', label: 'Latin' },

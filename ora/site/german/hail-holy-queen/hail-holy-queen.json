@@ -1,0 +1,397 @@
+{
+  "id": "hail-holy-queen",
+  "lang": "german",
+  "title": "Sei gegrüßt, o Königin",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Sei gegrüßt, o Königin,",
+          "phonetic": "Sei gegrüßt, o Königin,",
+          "timing": {
+            "full": [
+              0.0,
+              1.967
+            ],
+            "passage": [
+              0.0,
+              1.967
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Mutter der Barmherzigkeit,",
+          "phonetic": "Mutter der Barmherzigkeit,",
+          "timing": {
+            "full": [
+              1.967,
+              3.703
+            ],
+            "passage": [
+              1.967,
+              3.703
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "unser Leben,",
+          "phonetic": "unser Leben,",
+          "timing": {
+            "full": [
+              3.703,
+              4.55
+            ],
+            "passage": [
+              3.703,
+              4.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1d",
+          "text": "unsere Süßigkeit",
+          "phonetic": "unsere Süßigkeit",
+          "timing": {
+            "full": [
+              4.55,
+              5.939
+            ],
+            "passage": [
+              4.55,
+              5.939
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1e",
+          "text": "und unsere Hoffnung.",
+          "phonetic": "und unsere Hoffnung.",
+          "timing": {
+            "full": [
+              5.939,
+              7.272
+            ],
+            "passage": [
+              5.939,
+              7.272
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Zu dir rufen wir,",
+          "phonetic": "Zu dir rufen wir,",
+          "timing": {
+            "full": [
+              7.272,
+              9.264
+            ],
+            "passage": [
+              0.0,
+              1.133
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "verbannte Kinder Evas.",
+          "phonetic": "verbannte Kinder Evas.",
+          "timing": {
+            "full": [
+              9.264,
+              11.0
+            ],
+            "passage": [
+              1.133,
+              2.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Zu dir seufzen wir,",
+          "phonetic": "Zu dir seufzen wir,",
+          "timing": {
+            "full": [
+              11.0,
+              13.083
+            ],
+            "passage": [
+              0.0,
+              1.231
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "trauernd und weinend",
+          "phonetic": "trauernd und weinend",
+          "timing": {
+            "full": [
+              13.083,
+              14.514
+            ],
+            "passage": [
+              1.231,
+              2.661
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "in diesem Tal der Tränen.",
+          "phonetic": "in diesem Tal der Tränen.",
+          "timing": {
+            "full": [
+              14.514,
+              16.014
+            ],
+            "passage": [
+              2.661,
+              4.161
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Wohlan denn,",
+          "phonetic": "Wohlan denn,",
+          "timing": {
+            "full": [
+              16.014,
+              17.778
+            ],
+            "passage": [
+              0.0,
+              0.911
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "unsere Fürsprecherin,",
+          "phonetic": "unsere Fürsprecherin,",
+          "timing": {
+            "full": [
+              17.778,
+              19.278
+            ],
+            "passage": [
+              0.911,
+              2.411
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "wende deine barmherzigen Augen uns zu.",
+          "phonetic": "wende deine barmherzigen Augen uns zu.",
+          "timing": {
+            "full": [
+              19.278,
+              21.958
+            ],
+            "passage": [
+              2.411,
+              5.092
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Und nach diesem Elend",
+          "phonetic": "Und nach diesem Elend",
+          "timing": {
+            "full": [
+              21.958,
+              24.069
+            ],
+            "passage": [
+              0.0,
+              1.258
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "zeige uns",
+          "phonetic": "zeige uns",
+          "timing": {
+            "full": [
+              24.069,
+              24.75
+            ],
+            "passage": [
+              1.258,
+              1.939
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "die gebenedeite Frucht deines Leibes,",
+          "phonetic": "die gebenedeite Frucht deines Leibes,",
+          "timing": {
+            "full": [
+              24.75,
+              26.972
+            ],
+            "passage": [
+              1.939,
+              4.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5d",
+          "text": "Jesus.",
+          "phonetic": "Jesus.",
+          "timing": {
+            "full": [
+              26.972,
+              27.722
+            ],
+            "passage": [
+              4.161,
+              4.911
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "O gütige,",
+          "phonetic": "O gütige,",
+          "timing": {
+            "full": [
+              27.722,
+              29.458
+            ],
+            "passage": [
+              0.0,
+              0.883
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "o milde,",
+          "phonetic": "o milde,",
+          "timing": {
+            "full": [
+              29.458,
+              30.306
+            ],
+            "passage": [
+              0.883,
+              1.731
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "o süße Jungfrau Maria.",
+          "phonetic": "o süße Jungfrau Maria.",
+          "timing": {
+            "full": [
+              30.306,
+              32.153
+            ],
+            "passage": [
+              1.731,
+              3.578
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Bitte für uns,",
+          "phonetic": "Bitte für uns,",
+          "timing": {
+            "full": [
+              32.153,
+              34.028
+            ],
+            "passage": [
+              0.0,
+              1.022
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "o heilige Gottesmutter.",
+          "phonetic": "o heilige Gottesmutter.",
+          "timing": {
+            "full": [
+              34.028,
+              35.694
+            ],
+            "passage": [
+              1.022,
+              2.689
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Auf dass wir würdig werden der Verheißungen Christi.",
+          "phonetic": "Auf dass wir würdig werden der Verheißungen Christi.",
+          "timing": {
+            "full": [
+              35.694,
+              39.528
+            ],
+            "passage": [
+              0.0,
+              2.981
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

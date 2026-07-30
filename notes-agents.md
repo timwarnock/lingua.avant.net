@@ -203,7 +203,32 @@ Do not paste raw polytonic Septuagint into `text` without the TTS cleanup above.
 
 Latin uses `it-IT-DiegoNeural` with `tts.input: "phonetic"`, rate `-15%`. Display `text` stays proper Latin; `phonetic` is for TTS and the clickable learner line.
 
-A/B page content: `ora/docs/audio-testing/` (currently **Sancta / sanct-** hard-k tests). Regenerator (not site content): `audio-utils/generate-latin-ab.py`.
+Latin A/B regenerator: `audio-utils/generate-latin-ab.py` (Sancta / sanct- hard-k tests).
+
+
+---
+
+## German TTS
+
+Production: **`de-DE-KillianNeural`** at rate **`-10%`** (user pick from audio-testing, 2026-07-30).
+
+- Full section: `ora/docs/german/` (rosary prayers, extras, mysteries, pronunciation)
+- Scaffold (text only): `audio-utils/scaffold-german.py`
+- A/B regenerator: `audio-utils/generate-german-voice-ab.py`
+- Nav: `Deutsch` tab in `ora/zensical.toml`; `prayer.mjs` LANGS includes `german`
+- Languages dropdown English label: `extra.tooltips` `"Deutsch" = "German"`
+- TTS input: `phonetic` (same as display text for German)
+
+
+---
+
+## Italian TTS
+
+Production: **`it-IT-ElsaNeural`** at rate **`-10%`** (user pick from audio-testing, 2026-07-30).
+
+- A/B regenerator: `audio-utils/generate-italian-voice-ab.py`
+- Page: `ora/docs/audio-testing/` (Hail Mary passages 1–2)
+- Other female candidate tested: Isabella (`it-IT-IsabellaNeural`)
 
 **Sancta / sanct- (ear-locked):** Edge often says Spanish/Italian *Santa* (no k). Target SAHNK-tah.
 

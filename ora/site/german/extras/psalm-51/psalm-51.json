@@ -1,0 +1,927 @@
+{
+  "id": "psalm-51",
+  "lang": "german",
+  "title": "Psalm 51",
+  "tts": {
+    "voice": "de-DE-KillianNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Zum Ende,",
+          "phonetic": "Zum Ende,",
+          "timing": {
+            "full": [
+              0.0,
+              0.758
+            ],
+            "passage": [
+              0.0,
+              0.772
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "ein Psalm Davids,",
+          "phonetic": "ein Psalm Davids,",
+          "timing": {
+            "full": [
+              0.758,
+              2.258
+            ],
+            "passage": [
+              0.772,
+              2.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "als der Prophet Natan zu ihm kam,",
+          "phonetic": "als der Prophet Natan zu ihm kam,",
+          "timing": {
+            "full": [
+              2.258,
+              4.467
+            ],
+            "passage": [
+              0.0,
+              2.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "nachdem er mit Batseba gesündigt hatte.",
+          "phonetic": "nachdem er mit Batseba gesündigt hatte.",
+          "timing": {
+            "full": [
+              4.467,
+              7.175
+            ],
+            "passage": [
+              2.3,
+              5.008
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Erbarme dich meiner, o Gott,",
+          "phonetic": "Erbarme dich meiner, o Gott,",
+          "timing": {
+            "full": [
+              7.175,
+              10.056
+            ],
+            "passage": [
+              0.0,
+              2.022
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "nach deiner großen Barmherzigkeit.",
+          "phonetic": "nach deiner großen Barmherzigkeit.",
+          "timing": {
+            "full": [
+              10.056,
+              12.333
+            ],
+            "passage": [
+              2.022,
+              4.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "Und nach der Fülle deines Erbarmens",
+          "phonetic": "Und nach der Fülle deines Erbarmens",
+          "timing": {
+            "full": [
+              12.333,
+              15.278
+            ],
+            "passage": [
+              4.3,
+              7.25
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "tilge meine Schuld.",
+          "phonetic": "tilge meine Schuld.",
+          "timing": {
+            "full": [
+              15.278,
+              16.486
+            ],
+            "passage": [
+              7.25,
+              8.458
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Wasche mich noch mehr von meiner Schuld,",
+          "phonetic": "Wasche mich noch mehr von meiner Schuld,",
+          "timing": {
+            "full": [
+              16.486,
+              19.569
+            ],
+            "passage": [
+              0.0,
+              2.231
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "und reinige mich von meiner Sünde.",
+          "phonetic": "und reinige mich von meiner Sünde.",
+          "timing": {
+            "full": [
+              19.569,
+              21.806
+            ],
+            "passage": [
+              2.231,
+              4.467
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Denn ich kenne meine Schuld,",
+          "phonetic": "Denn ich kenne meine Schuld,",
+          "timing": {
+            "full": [
+              21.806,
+              24.264
+            ],
+            "passage": [
+              0.0,
+              1.592
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "und meine Sünde ist immer vor mir.",
+          "phonetic": "und meine Sünde ist immer vor mir.",
+          "timing": {
+            "full": [
+              24.264,
+              26.5
+            ],
+            "passage": [
+              1.592,
+              3.828
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Gegen dich allein habe ich gesündigt",
+          "phonetic": "Gegen dich allein habe ich gesündigt",
+          "timing": {
+            "full": [
+              26.5,
+              29.542
+            ],
+            "passage": [
+              0.0,
+              2.189
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "und getan, was böse ist in deinen Augen,",
+          "phonetic": "und getan, was böse ist in deinen Augen,",
+          "timing": {
+            "full": [
+              29.542,
+              32.25
+            ],
+            "passage": [
+              2.189,
+              4.897
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "damit du Recht behältst in deinen Worten",
+          "phonetic": "damit du Recht behältst in deinen Worten",
+          "timing": {
+            "full": [
+              32.25,
+              34.667
+            ],
+            "passage": [
+              4.897,
+              7.314
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "und siegst, wenn man mit dir hadert.",
+          "phonetic": "und siegst, wenn man mit dir hadert.",
+          "timing": {
+            "full": [
+              34.667,
+              36.833
+            ],
+            "passage": [
+              7.314,
+              9.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Siehe, in Schuld bin ich geboren;",
+          "phonetic": "Siehe, in Schuld bin ich geboren;",
+          "timing": {
+            "full": [
+              36.833,
+              39.847
+            ],
+            "passage": [
+              0.0,
+              2.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "in Sünde hat mich meine Mutter empfangen.",
+          "phonetic": "in Sünde hat mich meine Mutter empfangen.",
+          "timing": {
+            "full": [
+              39.847,
+              42.389
+            ],
+            "passage": [
+              2.161,
+              4.703
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Siehe, du liebst die Wahrheit:",
+          "phonetic": "Siehe, du liebst die Wahrheit:",
+          "timing": {
+            "full": [
+              42.389,
+              45.194
+            ],
+            "passage": [
+              0.0,
+              1.939
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "das Verborgene und Geheime deiner Weisheit",
+          "phonetic": "das Verborgene und Geheime deiner Weisheit",
+          "timing": {
+            "full": [
+              45.194,
+              47.903
+            ],
+            "passage": [
+              1.939,
+              4.647
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "hast du mir kundgetan.",
+          "phonetic": "hast du mir kundgetan.",
+          "timing": {
+            "full": [
+              47.903,
+              49.264
+            ],
+            "passage": [
+              4.647,
+              6.008
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Entsündige mich mit Ysop,",
+          "phonetic": "Entsündige mich mit Ysop,",
+          "timing": {
+            "full": [
+              49.264,
+              51.806
+            ],
+            "passage": [
+              0.0,
+              1.689
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "dann werde ich rein;",
+          "phonetic": "dann werde ich rein;",
+          "timing": {
+            "full": [
+              51.806,
+              53.0
+            ],
+            "passage": [
+              1.689,
+              2.883
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "wasche mich,",
+          "phonetic": "wasche mich,",
+          "timing": {
+            "full": [
+              53.0,
+              53.833
+            ],
+            "passage": [
+              2.883,
+              3.717
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "dann werde ich weißer als Schnee.",
+          "phonetic": "dann werde ich weißer als Schnee.",
+          "timing": {
+            "full": [
+              53.833,
+              55.958
+            ],
+            "passage": [
+              3.717,
+              5.842
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Lass mich Freude und Jubel hören,",
+          "phonetic": "Lass mich Freude und Jubel hören,",
+          "timing": {
+            "full": [
+              55.958,
+              58.889
+            ],
+            "passage": [
+              0.0,
+              2.078
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "dann jauchzen die Gebeine, die du zerschlagen hast.",
+          "phonetic": "dann jauchzen die Gebeine, die du zerschlagen hast.",
+          "timing": {
+            "full": [
+              58.889,
+              62.014
+            ],
+            "passage": [
+              2.078,
+              5.203
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Verbirg dein Antlitz vor meinen Sünden,",
+          "phonetic": "Verbirg dein Antlitz vor meinen Sünden,",
+          "timing": {
+            "full": [
+              62.014,
+              65.292
+            ],
+            "passage": [
+              0.0,
+              2.425
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "und tilge alle meine Verschuldungen.",
+          "phonetic": "und tilge alle meine Verschuldungen.",
+          "timing": {
+            "full": [
+              65.292,
+              67.583
+            ],
+            "passage": [
+              2.425,
+              4.717
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Erschaffe mir, Gott, ein reines Herz,",
+          "phonetic": "Erschaffe mir, Gott, ein reines Herz,",
+          "timing": {
+            "full": [
+              67.583,
+              71.292
+            ],
+            "passage": [
+              0.0,
+              2.842
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "und gib mir einen neuen, beständigen Geist.",
+          "phonetic": "und gib mir einen neuen, beständigen Geist.",
+          "timing": {
+            "full": [
+              71.292,
+              74.347
+            ],
+            "passage": [
+              2.842,
+              5.897
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Verwirf mich nicht von deinem Angesicht,",
+          "phonetic": "Verwirf mich nicht von deinem Angesicht,",
+          "timing": {
+            "full": [
+              74.347,
+              77.597
+            ],
+            "passage": [
+              0.0,
+              2.383
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "und nimm deinen heiligen Geist nicht von mir.",
+          "phonetic": "und nimm deinen heiligen Geist nicht von mir.",
+          "timing": {
+            "full": [
+              77.597,
+              80.472
+            ],
+            "passage": [
+              2.383,
+              5.258
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Gib mir wieder die Freude deines Heils,",
+          "phonetic": "Gib mir wieder die Freude deines Heils,",
+          "timing": {
+            "full": [
+              80.472,
+              83.653
+            ],
+            "passage": [
+              0.0,
+              2.328
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "und stärke mich mit willigem Geist.",
+          "phonetic": "und stärke mich mit willigem Geist.",
+          "timing": {
+            "full": [
+              83.653,
+              85.847
+            ],
+            "passage": [
+              2.328,
+              4.522
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Ich will die Abtrünnigen deine Wege lehren,",
+          "phonetic": "Ich will die Abtrünnigen deine Wege lehren,",
+          "timing": {
+            "full": [
+              85.847,
+              89.139
+            ],
+            "passage": [
+              0.0,
+              2.439
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "und die Sünder werden sich zu dir bekehren.",
+          "phonetic": "und die Sünder werden sich zu dir bekehren.",
+          "timing": {
+            "full": [
+              89.139,
+              91.639
+            ],
+            "passage": [
+              2.439,
+              4.939
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Errette mich von Blutschuld, o Gott,",
+          "phonetic": "Errette mich von Blutschuld, o Gott,",
+          "timing": {
+            "full": [
+              91.639,
+              94.861
+            ],
+            "passage": [
+              0.0,
+              2.369
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "du Gott meines Heils,",
+          "phonetic": "du Gott meines Heils,",
+          "timing": {
+            "full": [
+              94.861,
+              96.278
+            ],
+            "passage": [
+              2.369,
+              3.786
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "und meine Zunge wird deine Gerechtigkeit preisen.",
+          "phonetic": "und meine Zunge wird deine Gerechtigkeit preisen.",
+          "timing": {
+            "full": [
+              96.278,
+              99.375
+            ],
+            "passage": [
+              3.786,
+              6.883
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Herr, öffne meine Lippen,",
+          "phonetic": "Herr, öffne meine Lippen,",
+          "timing": {
+            "full": [
+              99.375,
+              101.819
+            ],
+            "passage": [
+              0.0,
+              1.592
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "und mein Mund wird deinen Ruhm verkünden.",
+          "phonetic": "und mein Mund wird deinen Ruhm verkünden.",
+          "timing": {
+            "full": [
+              101.819,
+              104.236
+            ],
+            "passage": [
+              1.592,
+              4.008
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Denn an Opfern hast du kein Gefallen,",
+          "phonetic": "Denn an Opfern hast du kein Gefallen,",
+          "timing": {
+            "full": [
+              104.236,
+              107.278
+            ],
+            "passage": [
+              0.0,
+              2.175
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "sonst würde ich sie darbringen;",
+          "phonetic": "sonst würde ich sie darbringen;",
+          "timing": {
+            "full": [
+              107.278,
+              109.069
+            ],
+            "passage": [
+              2.175,
+              3.967
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "an Brandopfern hast du kein Wohlgefallen.",
+          "phonetic": "an Brandopfern hast du kein Wohlgefallen.",
+          "timing": {
+            "full": [
+              109.069,
+              111.694
+            ],
+            "passage": [
+              3.967,
+              6.592
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Das Opfer, das Gott gefällt, ist ein zerknirschter Geist;",
+          "phonetic": "Das Opfer, das Gott gefällt, ist ein zerknirschter Geist;",
+          "timing": {
+            "full": [
+              111.694,
+              116.278
+            ],
+            "passage": [
+              0.0,
+              3.717
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "ein zerbrochenes und zerschlagenes Herz wirst du, o Gott,",
+          "phonetic": "ein zerbrochenes und zerschlagenes Herz wirst du, o Gott,",
+          "timing": {
+            "full": [
+              116.278,
+              120.208
+            ],
+            "passage": [
+              3.717,
+              7.647
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "nicht verschmähen.",
+          "phonetic": "nicht verschmähen.",
+          "timing": {
+            "full": [
+              120.208,
+              121.458
+            ],
+            "passage": [
+              7.647,
+              8.897
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Tue wohl, o Herr,",
+          "phonetic": "Tue wohl, o Herr,",
+          "timing": {
+            "full": [
+              121.458,
+              123.778
+            ],
+            "passage": [
+              0.0,
+              1.453
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "an Zion nach deiner Gnade;",
+          "phonetic": "an Zion nach deiner Gnade;",
+          "timing": {
+            "full": [
+              123.778,
+              125.653
+            ],
+            "passage": [
+              1.453,
+              3.328
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
+          "text": "baue die Mauern Jerusalems wieder auf.",
+          "phonetic": "baue die Mauern Jerusalems wieder auf.",
+          "timing": {
+            "full": [
+              125.653,
+              128.222
+            ],
+            "passage": [
+              3.328,
+              5.897
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Dann wirst du Gefallen haben an rechten Opfern,",
+          "phonetic": "Dann wirst du Gefallen haben an rechten Opfern,",
+          "timing": {
+            "full": [
+              128.222,
+              131.722
+            ],
+            "passage": [
+              0.0,
+              2.647
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "an Gaben und Brandopfern;",
+          "phonetic": "an Gaben und Brandopfern;",
+          "timing": {
+            "full": [
+              131.722,
+              133.542
+            ],
+            "passage": [
+              2.647,
+              4.467
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "dann wird man Stiere opfern auf deinem Altar.",
+          "phonetic": "dann wird man Stiere opfern auf deinem Altar.",
+          "timing": {
+            "full": [
+              133.542,
+              136.403
+            ],
+            "passage": [
+              4.467,
+              7.328
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

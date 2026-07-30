@@ -69,6 +69,25 @@ nav = [
           "english/resources/introverts.md"
         ] }
     ] },
+  { "Deutsch" = [
+      "german/index.md",
+      "german/sign-of-the-cross.md",
+      "german/apostles-creed.md",
+      "german/our-father.md",
+      "german/hail-mary.md",
+      "german/glory-be.md",
+      "german/fatima-prayer.md",
+      "german/hail-holy-queen.md",
+      { "[ Zusätze ]" = [
+          "german/extras/jesus-prayer.md",
+          "german/extras/nicene.md",
+          "german/extras/psalm-23.md",
+          "german/extras/psalm-51.md"
+        ] },
+      { "[ Ressourcen ]" = [
+          "german/resources/pronunciation.md"
+        ] }
+    ] },
   { "Español" = [
       "spanish/index.md",
       "spanish/sign-of-the-cross.md",
@@ -269,6 +288,7 @@ generator = false
 
 [project.extra.tooltips]
 "中文" = "Chinese"
+"Deutsch" = "German"
 "English" = "English"
 "Español" = "Spanish"
 "Français" = "French"
