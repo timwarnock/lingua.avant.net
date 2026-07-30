@@ -1,8 +1,7 @@
 {#-
-  This file was automatically generated - do not edit
-  Override adds tooltip="English name" to the tab <a class="md-tabs__link"> elements
-  using the project's custom [tooltip] CSS.
-  Tooltip values come from [project.extra.tooltips] in zensical.toml
+  Unused while tabs.html renders the Languages chooser.
+  Kept so a future restore of one-tab-per-language only needs tabs.html reverted.
+  Previously added tooltip="English name" on tab links from [project.extra.tooltips].
 -#}
 {% macro render_content(nav_item, ref) %}
   {% set ref = ref or nav_item %}

@@ -154,21 +154,142 @@
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.75);
 }
 
-/* Subtle dark treatment on tabs so they blend with the banner */
-.md-tabs {
-  background: rgba(0,0,0,0.3);
+/* Site name links home (same target as the logo cross) */
+.md-header__title a.ora-home-link {
+  text-decoration: none;
+  color: #f5f0e6;
 }
 
-/* Fix tooltip escape: theme .md-tabs__list uses contain:content + flex + overflow:auto
-   which creates an isolating stacking/paint context. Children (the [tooltip] links)
-   cannot paint outside the list bounds. Neutralize here so ::after can render fully. */
-.md-tabs,
-.md-tabs__list {
+.md-header__title a.ora-home-link:hover,
+.md-header__title a.ora-home-link:focus {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Subtle dark treatment on tabs bar so it blends with the banner */
+.md-tabs {
+  background: rgba(0, 0, 0, 0.3);
   overflow: visible !important;
 }
 
-.md-tabs__list {
-  contain: none !important;
+/* Languages chooser: single control in the tabs bar (replaces one-tab-per-language) */
+.ora-lang-chooser {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 2.4rem;
+}
+
+.ora-lang-details {
+  position: relative;
+}
+
+.ora-lang-summary {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  color: #f5f0e6;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 0.55rem 0.25rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.ora-lang-summary::-webkit-details-marker {
+  display: none;
+}
+
+.ora-lang-summary::marker {
+  content: "";
+}
+
+.ora-lang-arrow {
+  font-size: 0.7em;
+  opacity: 0.7;
+}
+
+.ora-lang-details[open] .ora-lang-arrow {
+  opacity: 1;
+}
+
+.ora-lang-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 20;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0;
+  min-width: 11rem;
+  max-height: min(70vh, 28rem);
+  overflow-y: auto;
+  overflow-x: visible;
+  background-color: var(--md-default-bg-color, #fff);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+}
+
+html[data-md-color-scheme="slate"] .ora-lang-menu,
+[data-md-color-scheme="slate"] .ora-lang-menu {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.ora-lang-item {
+  margin: 0;
+  padding: 0;
+}
+
+.ora-lang-link {
+  display: block;
+  padding: 0.4rem 0.9rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.ora-lang-native {
+  font-weight: 700;
+}
+
+.ora-lang-sep,
+.ora-lang-english {
+  font-weight: 400;
+  opacity: 0.82;
+}
+
+.ora-lang-link:hover,
+.ora-lang-link:focus {
+  background-color: rgba(64, 81, 181, 0.08);
+  color: var(--md-primary-fg-color, #4051b5);
+}
+
+.ora-lang-link:hover .ora-lang-sep,
+.ora-lang-link:hover .ora-lang-english,
+.ora-lang-link:focus .ora-lang-sep,
+.ora-lang-link:focus .ora-lang-english {
+  opacity: 0.9;
+}
+
+[data-md-color-scheme="slate"] .ora-lang-link:hover,
+[data-md-color-scheme="slate"] .ora-lang-link:focus {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.ora-lang-item--active .ora-lang-link {
+  background-color: rgba(64, 81, 181, 0.1);
+  color: var(--md-primary-fg-color, #4051b5);
+}
+
+[data-md-color-scheme="slate"] .ora-lang-item--active .ora-lang-link {
+  background-color: rgba(64, 81, 181, 0.18);
 }
 
 /* Keep the light/dark mode toggle in the header at full prominence.

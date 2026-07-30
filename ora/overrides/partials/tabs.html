@@ -1,0 +1,77 @@
+{#-
+  Languages chooser: one "Languages" control instead of a tab per language.
+  Keeps navigation.tabs so the left sidebar stays scoped to the active language.
+  Each item links to that language's landing page (index or first page), same as
+  the old tab links. Order follows top-level nav.
+  Labels: native title bold, optional " / English" in regular weight.
+-#}
+{% set features = config.theme.features %}
+
+{# Resolve the URL the old tab would have used (section index or first page). #}
+{% macro language_url(nav_item) %}
+  {%- if nav_item.children -%}
+    {%- set ns = namespace(index = none) -%}
+    {%- if "navigation.indexes" in features -%}
+      {%- for item in nav_item.children -%}
+        {%- if item.is_index and ns.index is none -%}
+          {%- set ns.index = item -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- set first = ns.index or (nav_item.children | first) -%}
+    {%- if first.children -%}
+      {{- language_url(first) -}}
+    {%- else -%}
+      {{- first.url | url -}}
+    {%- endif -%}
+  {%- else -%}
+    {{- nav_item.url | url -}}
+  {%- endif -%}
+{% endmacro %}
+
+<nav
+  class="md-tabs"
+  aria-label="Languages"
+  data-md-component="tabs"
+>
+  <div class="md-grid">
+    <div class="ora-lang-chooser">
+      <details class="ora-lang-details">
+        <summary class="ora-lang-summary">
+          Languages
+          <span class="ora-lang-arrow" aria-hidden="true">▾</span>
+        </summary>
+        <ul class="ora-lang-menu" role="list">
+          {% for nav_item in nav.items %}
+            {% set title = nav_item.title %}
+            {% set english = config.extra.tooltips[title] | default(title) %}
+            {% set active = nav_item.active %}
+            <li class="ora-lang-item{% if active %} ora-lang-item--active{% endif %}">
+              <a
+                href="{{ language_url(nav_item) }}"
+                class="ora-lang-link"
+                {% if active %}aria-current="page"{% endif %}
+              >
+                <span class="ora-lang-native">{{ title }}</span>
+                {%- if english != title -%}
+                <span class="ora-lang-sep"> / </span><span class="ora-lang-english">{{ english }}</span>
+                {%- endif -%}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    </div>
+  </div>
+</nav>
+{# Outside-click close; register once (survives instant navigation). #}
+<script>
+  if (!window.__oraLangChooserClose) {
+    window.__oraLangChooserClose = true;
+    document.addEventListener("click", function (ev) {
+      document.querySelectorAll("details.ora-lang-details[open]").forEach(function (d) {
+        if (!d.contains(ev.target)) d.open = false;
+      });
+    });
+  }
+</script>
