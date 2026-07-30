@@ -226,9 +226,12 @@ Production: **`de-DE-KillianNeural`** at rate **`-10%`** (user pick from audio-t
 
 Production: **`it-IT-ElsaNeural`** at rate **`-10%`** (user pick from audio-testing, 2026-07-30).
 
+- Full section: `ora/docs/italian/`
+- Scaffold: `audio-utils/scaffold-italian.py`
 - A/B regenerator: `audio-utils/generate-italian-voice-ab.py`
-- Page: `ora/docs/audio-testing/` (Hail Mary passages 1–2)
-- Other female candidate tested: Isabella (`it-IT-IsabellaNeural`)
+- Nav: `Italiano` in `zensical.toml` (after Français); tooltip `"Italiano" = "Italian"`
+- `prayer.mjs` LANGS includes `italian`
+- Other female candidate tested: Isabella
 
 **Sancta / sanct- (ear-locked):** Edge often says Spanish/Italian *Santa* (no k). Target SAHNK-tah.
 

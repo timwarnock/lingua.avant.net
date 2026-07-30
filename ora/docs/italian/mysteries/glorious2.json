@@ -1,0 +1,32 @@
+{
+  "id": "glorious2",
+  "lang": "italian",
+  "title": "Il secondo mistero glorioso, l'Ascensione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il secondo mistero glorioso, l'Ascensione.",
+          "phonetic": "Il secondo mistero glorioso, l'Ascensione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.328
+            ],
+            "passage": [
+              0.0,
+              3.328
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

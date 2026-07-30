@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful1",
+  "lang": "italian",
+  "title": "Il primo mistero doloroso, l'Agonia nell'Orto",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il primo mistero doloroso, l'Agonia nell'Orto.",
+          "phonetic": "Il primo mistero doloroso, l'Agonia nell'Orto.",
+          "timing": {
+            "full": [
+              0.0,
+              3.342
+            ],
+            "passage": [
+              0.0,
+              3.342
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

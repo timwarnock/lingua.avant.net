@@ -29,6 +29,7 @@ const LANGS = [
   { id: 'german', label: 'Deutsch' },
   { id: 'spanish', label: 'Español' },
   { id: 'french', label: 'Français' },
+  { id: 'italian', label: 'Italiano' },
   { id: 'latin', label: 'Latin' },
   { id: 'polish', label: 'Polski' },
   { id: 'portuguese', label: 'Português' },

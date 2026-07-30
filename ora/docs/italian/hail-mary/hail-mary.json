@@ -1,0 +1,202 @@
+{
+  "id": "hail-mary",
+  "lang": "italian",
+  "title": "Ave Maria",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Ave Maria,",
+          "phonetic": "Ave Maria,",
+          "timing": {
+            "full": [
+              0.0,
+              0.925
+            ],
+            "passage": [
+              0.0,
+              0.925
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "piena di grazia,",
+          "phonetic": "piena di grazia,",
+          "timing": {
+            "full": [
+              0.925,
+              2.3
+            ],
+            "passage": [
+              0.925,
+              2.3
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "il Signore è con te.",
+          "phonetic": "il Signore è con te.",
+          "timing": {
+            "full": [
+              2.3,
+              3.939
+            ],
+            "passage": [
+              2.3,
+              3.939
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Tu sei benedetta fra le donne,",
+          "phonetic": "Tu sei benedetta fra le donne,",
+          "timing": {
+            "full": [
+              3.939,
+              6.167
+            ],
+            "passage": [
+              0.0,
+              2.036
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "e benedetto è il frutto del tuo seno,",
+          "phonetic": "e benedetto è il frutto del tuo seno,",
+          "timing": {
+            "full": [
+              6.167,
+              8.736
+            ],
+            "passage": [
+              2.036,
+              4.606
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "Gesù.",
+          "phonetic": "Gesù.",
+          "timing": {
+            "full": [
+              8.736,
+              9.375
+            ],
+            "passage": [
+              4.606,
+              5.244
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Santa Maria,",
+          "phonetic": "Santa Maria,",
+          "timing": {
+            "full": [
+              9.375,
+              10.625
+            ],
+            "passage": [
+              0.0,
+              1.064
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "Madre di Dio,",
+          "phonetic": "Madre di Dio,",
+          "timing": {
+            "full": [
+              10.625,
+              11.764
+            ],
+            "passage": [
+              1.064,
+              2.203
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "prega per noi peccatori,",
+          "phonetic": "prega per noi peccatori,",
+          "timing": {
+            "full": [
+              11.764,
+              13.486
+            ],
+            "passage": [
+              2.203,
+              3.981
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "adesso e nell'ora della nostra morte.",
+          "phonetic": "adesso e nell'ora della nostra morte.",
+          "timing": {
+            "full": [
+              13.486,
+              16.083
+            ],
+            "passage": [
+              0.0,
+              2.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              16.083,
+              16.972
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

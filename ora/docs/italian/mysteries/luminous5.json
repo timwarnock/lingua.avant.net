@@ -1,0 +1,32 @@
+{
+  "id": "luminous5",
+  "lang": "italian",
+  "title": "Il quinto mistero luminoso, l'Istituzione dell'Eucaristia",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il quinto mistero luminoso, l'Istituzione dell'Eucaristia.",
+          "phonetic": "Il quinto mistero luminoso, l'Istituzione dell'Eucaristia.",
+          "timing": {
+            "full": [
+              0.0,
+              4.203
+            ],
+            "passage": [
+              0.0,
+              4.203
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

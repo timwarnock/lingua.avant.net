@@ -1,0 +1,32 @@
+{
+  "id": "luminous2",
+  "lang": "italian",
+  "title": "Il secondo mistero luminoso, le Nozze di Cana",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il secondo mistero luminoso, le Nozze di Cana.",
+          "phonetic": "Il secondo mistero luminoso, le Nozze di Cana.",
+          "timing": {
+            "full": [
+              0.0,
+              3.453
+            ],
+            "passage": [
+              0.0,
+              3.453
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

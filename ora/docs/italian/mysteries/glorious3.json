@@ -1,0 +1,32 @@
+{
+  "id": "glorious3",
+  "lang": "italian",
+  "title": "Il terzo mistero glorioso, la Discesa dello Spirito Santo",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il terzo mistero glorioso, la Discesa dello Spirito Santo.",
+          "phonetic": "Il terzo mistero glorioso, la Discesa dello Spirito Santo.",
+          "timing": {
+            "full": [
+              0.0,
+              4.356
+            ],
+            "passage": [
+              0.0,
+              4.356
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

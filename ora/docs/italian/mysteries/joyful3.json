@@ -1,0 +1,32 @@
+{
+  "id": "joyful3",
+  "lang": "italian",
+  "title": "Il terzo mistero gaudioso, la Natività",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il terzo mistero gaudioso, la Natività.",
+          "phonetic": "Il terzo mistero gaudioso, la Natività.",
+          "timing": {
+            "full": [
+              0.0,
+              3.119
+            ],
+            "passage": [
+              0.0,
+              3.119
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

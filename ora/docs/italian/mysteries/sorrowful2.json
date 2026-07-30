@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful2",
+  "lang": "italian",
+  "title": "Il secondo mistero doloroso, la Flagellazione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il secondo mistero doloroso, la Flagellazione.",
+          "phonetic": "Il secondo mistero doloroso, la Flagellazione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.592
+            ],
+            "passage": [
+              0.0,
+              3.592
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

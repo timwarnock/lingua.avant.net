@@ -1,0 +1,32 @@
+{
+  "id": "joyful5",
+  "lang": "italian",
+  "title": "Il quinto mistero gaudioso, il Ritrovamento di Gesù nel Tempio",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il quinto mistero gaudioso, il Ritrovamento di Gesù nel Tempio.",
+          "phonetic": "Il quinto mistero gaudioso, il Ritrovamento di Gesù nel Tempio.",
+          "timing": {
+            "full": [
+              0.0,
+              4.439
+            ],
+            "passage": [
+              0.0,
+              4.439
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

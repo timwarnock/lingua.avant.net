@@ -1,0 +1,127 @@
+{
+  "id": "fatima-prayer",
+  "lang": "italian",
+  "title": "Preghiera di Fatima",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "O Gesù mio,",
+          "phonetic": "O Gesù mio,",
+          "timing": {
+            "full": [
+              0.0,
+              0.951
+            ],
+            "passage": [
+              0.0,
+              0.965
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "perdona le nostre colpe,",
+          "phonetic": "perdona le nostre colpe,",
+          "timing": {
+            "full": [
+              0.951,
+              2.84
+            ],
+            "passage": [
+              0.965,
+              2.868
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "preservaci dal fuoco dell'inferno,",
+          "phonetic": "preservaci dal fuoco dell'inferno,",
+          "timing": {
+            "full": [
+              2.84,
+              5.271
+            ],
+            "passage": [
+              0.0,
+              2.328
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "porta in cielo tutte le anime,",
+          "phonetic": "porta in cielo tutte le anime,",
+          "timing": {
+            "full": [
+              5.271,
+              7.354
+            ],
+            "passage": [
+              0.0,
+              1.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "specialmente le più bisognose della tua misericordia.",
+          "phonetic": "specialmente le più bisognose della tua misericordia.",
+          "timing": {
+            "full": [
+              7.354,
+              10.743
+            ],
+            "passage": [
+              0.0,
+              3.518
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              10.743,
+              11.639
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

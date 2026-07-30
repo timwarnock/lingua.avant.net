@@ -1,0 +1,32 @@
+{
+  "id": "joyful1",
+  "lang": "italian",
+  "title": "Il primo mistero gaudioso, l'Annunciazione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il primo mistero gaudioso, l'Annunciazione.",
+          "phonetic": "Il primo mistero gaudioso, l'Annunciazione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.272
+            ],
+            "passage": [
+              0.0,
+              3.272
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

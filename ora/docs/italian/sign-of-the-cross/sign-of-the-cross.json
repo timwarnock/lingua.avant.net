@@ -1,0 +1,82 @@
+{
+  "id": "sign-of-the-cross",
+  "lang": "italian",
+  "title": "Segno della Croce",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Nel nome del Padre,",
+          "phonetic": "Nel nome del Padre,",
+          "timing": {
+            "full": [
+              0.0,
+              1.536
+            ],
+            "passage": [
+              0.0,
+              1.536
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "e del Figlio,",
+          "phonetic": "e del Figlio,",
+          "timing": {
+            "full": [
+              1.536,
+              2.731
+            ],
+            "passage": [
+              1.536,
+              2.731
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "e dello Spirito Santo.",
+          "phonetic": "e dello Spirito Santo.",
+          "timing": {
+            "full": [
+              2.731,
+              4.619
+            ],
+            "passage": [
+              2.731,
+              4.619
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              4.619,
+              5.514
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

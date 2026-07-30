@@ -1,0 +1,32 @@
+{
+  "id": "luminous3",
+  "lang": "italian",
+  "title": "Il terzo mistero luminoso, l'Annuncio del Regno",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il terzo mistero luminoso, l'Annuncio del Regno.",
+          "phonetic": "Il terzo mistero luminoso, l'Annuncio del Regno.",
+          "timing": {
+            "full": [
+              0.0,
+              3.536
+            ],
+            "passage": [
+              0.0,
+              3.536
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

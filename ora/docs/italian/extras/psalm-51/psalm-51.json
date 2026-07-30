@@ -1,0 +1,927 @@
+{
+  "id": "psalm-51",
+  "lang": "italian",
+  "title": "Salmo 51",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Al termine,",
+          "phonetic": "Al termine,",
+          "timing": {
+            "full": [
+              0.0,
+              0.994
+            ],
+            "passage": [
+              0.0,
+              1.022
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "salmo di Davide,",
+          "phonetic": "salmo di Davide,",
+          "timing": {
+            "full": [
+              0.994,
+              2.328
+            ],
+            "passage": [
+              1.022,
+              2.467
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "quando il profeta Natan venne a lui,",
+          "phonetic": "quando il profeta Natan venne a lui,",
+          "timing": {
+            "full": [
+              2.328,
+              4.814
+            ],
+            "passage": [
+              0.0,
+              2.342
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "dopo che ebbe peccato con Betsabea.",
+          "phonetic": "dopo che ebbe peccato con Betsabea.",
+          "timing": {
+            "full": [
+              4.814,
+              7.231
+            ],
+            "passage": [
+              2.342,
+              4.717
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Pietà di me, o Dio,",
+          "phonetic": "Pietà di me, o Dio,",
+          "timing": {
+            "full": [
+              7.231,
+              9.208
+            ],
+            "passage": [
+              0.0,
+              1.786
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "secondo la tua misericordia;",
+          "phonetic": "secondo la tua misericordia;",
+          "timing": {
+            "full": [
+              9.208,
+              11.194
+            ],
+            "passage": [
+              1.786,
+              3.772
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "nella tua grande bontà",
+          "phonetic": "nella tua grande bontà",
+          "timing": {
+            "full": [
+              11.194,
+              12.778
+            ],
+            "passage": [
+              3.772,
+              5.356
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "cancella il mio peccato.",
+          "phonetic": "cancella il mio peccato.",
+          "timing": {
+            "full": [
+              12.778,
+              14.375
+            ],
+            "passage": [
+              5.356,
+              6.953
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Lavami da ogni mia colpa,",
+          "phonetic": "Lavami da ogni mia colpa,",
+          "timing": {
+            "full": [
+              14.375,
+              16.389
+            ],
+            "passage": [
+              0.0,
+              1.828
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "purificami da ogni mio peccato.",
+          "phonetic": "purificami da ogni mio peccato.",
+          "timing": {
+            "full": [
+              16.389,
+              18.639
+            ],
+            "passage": [
+              1.828,
+              4.078
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Riconosco la mia colpa,",
+          "phonetic": "Riconosco la mia colpa,",
+          "timing": {
+            "full": [
+              18.639,
+              20.458
+            ],
+            "passage": [
+              0.0,
+              1.633
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "il mio peccato mi sta sempre dinanzi.",
+          "phonetic": "il mio peccato mi sta sempre dinanzi.",
+          "timing": {
+            "full": [
+              20.458,
+              22.986
+            ],
+            "passage": [
+              1.633,
+              4.161
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Contro di te, contro te solo ho peccato,",
+          "phonetic": "Contro di te, contro te solo ho peccato,",
+          "timing": {
+            "full": [
+              22.986,
+              26.083
+            ],
+            "passage": [
+              0.0,
+              2.911
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "quello che è male ai tuoi occhi, io l'ho fatto:",
+          "phonetic": "quello che è male ai tuoi occhi, io l'ho fatto:",
+          "timing": {
+            "full": [
+              26.083,
+              29.056
+            ],
+            "passage": [
+              2.911,
+              5.883
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
+          "text": "perciò sei giusto quando parli,",
+          "phonetic": "perciò sei giusto quando parli,",
+          "timing": {
+            "full": [
+              29.056,
+              31.292
+            ],
+            "passage": [
+              5.883,
+              8.119
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "retto nel tuo giudizio.",
+          "phonetic": "retto nel tuo giudizio.",
+          "timing": {
+            "full": [
+              31.292,
+              32.958
+            ],
+            "passage": [
+              8.119,
+              9.786
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Ecco, nella colpa sono stato generato,",
+          "phonetic": "Ecco, nella colpa sono stato generato,",
+          "timing": {
+            "full": [
+              32.958,
+              36.042
+            ],
+            "passage": [
+              0.0,
+              2.897
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "nel peccato mi ha concepito mia madre.",
+          "phonetic": "nel peccato mi ha concepito mia madre.",
+          "timing": {
+            "full": [
+              36.042,
+              38.583
+            ],
+            "passage": [
+              2.897,
+              5.439
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Ma tu vuoi la sincerità del cuore:",
+          "phonetic": "Ma tu vuoi la sincerità del cuore:",
+          "timing": {
+            "full": [
+              38.583,
+              41.05
+            ],
+            "passage": [
+              0.0,
+              2.281
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "le cose nascoste e segrete della tua sapienza",
+          "phonetic": "le cose nascoste e segrete della tua sapienza",
+          "timing": {
+            "full": [
+              41.05,
+              44.092
+            ],
+            "passage": [
+              2.281,
+              5.322
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "mi hai manifestato.",
+          "phonetic": "mi hai manifestato.",
+          "timing": {
+            "full": [
+              44.092,
+              45.231
+            ],
+            "passage": [
+              5.322,
+              6.461
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Aspergimi con issòpo,",
+          "phonetic": "Aspergimi con issòpo,",
+          "timing": {
+            "full": [
+              45.231,
+              47.181
+            ],
+            "passage": [
+              0.0,
+              1.758
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "e sarò mondato;",
+          "phonetic": "e sarò mondato;",
+          "timing": {
+            "full": [
+              47.181,
+              48.472
+            ],
+            "passage": [
+              1.758,
+              3.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "lavami,",
+          "phonetic": "lavami,",
+          "timing": {
+            "full": [
+              48.472,
+              49.417
+            ],
+            "passage": [
+              3.05,
+              3.994
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "e sarò più bianco della neve.",
+          "phonetic": "e sarò più bianco della neve.",
+          "timing": {
+            "full": [
+              49.417,
+              51.306
+            ],
+            "passage": [
+              3.994,
+              5.883
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "Fammi udire gioia e letizia:",
+          "phonetic": "Fammi udire gioia e letizia:",
+          "timing": {
+            "full": [
+              51.306,
+              53.594
+            ],
+            "passage": [
+              0.0,
+              2.103
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "e le ossa umiliate esulteranno.",
+          "phonetic": "e le ossa umiliate esulteranno.",
+          "timing": {
+            "full": [
+              53.594,
+              55.914
+            ],
+            "passage": [
+              2.103,
+              4.422
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Distogli lo sguardo dai miei peccati,",
+          "phonetic": "Distogli lo sguardo dai miei peccati,",
+          "timing": {
+            "full": [
+              55.914,
+              58.639
+            ],
+            "passage": [
+              0.0,
+              2.536
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "e cancella tutte le mie iniquità.",
+          "phonetic": "e cancella tutte le mie iniquità.",
+          "timing": {
+            "full": [
+              58.639,
+              60.972
+            ],
+            "passage": [
+              2.536,
+              4.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Crea in me, o Dio, un cuore puro,",
+          "phonetic": "Crea in me, o Dio, un cuore puro,",
+          "timing": {
+            "full": [
+              60.972,
+              64.167
+            ],
+            "passage": [
+              0.0,
+              3.008
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "e rinnova in me uno spirito retto.",
+          "phonetic": "e rinnova in me uno spirito retto.",
+          "timing": {
+            "full": [
+              64.167,
+              66.819
+            ],
+            "passage": [
+              3.008,
+              5.661
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 13,
+      "segments": [
+        {
+          "passage_segment_id": "13a",
+          "text": "Non respingermi dalla tua presenza,",
+          "phonetic": "Non respingermi dalla tua presenza,",
+          "timing": {
+            "full": [
+              66.819,
+              69.481
+            ],
+            "passage": [
+              0.0,
+              2.475
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "13b",
+          "text": "e non togliermi il tuo santo spirito.",
+          "phonetic": "e non togliermi il tuo santo spirito.",
+          "timing": {
+            "full": [
+              69.481,
+              72.022
+            ],
+            "passage": [
+              2.475,
+              5.017
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 14,
+      "segments": [
+        {
+          "passage_segment_id": "14a",
+          "text": "Rendimi la gioia della tua salvezza,",
+          "phonetic": "Rendimi la gioia della tua salvezza,",
+          "timing": {
+            "full": [
+              72.022,
+              74.583
+            ],
+            "passage": [
+              0.0,
+              2.369
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "14b",
+          "text": "e sostienimi con uno spirito generoso.",
+          "phonetic": "e sostienimi con uno spirito generoso.",
+          "timing": {
+            "full": [
+              74.583,
+              77.403
+            ],
+            "passage": [
+              2.369,
+              5.189
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 15,
+      "segments": [
+        {
+          "passage_segment_id": "15a",
+          "text": "Insegnerò agli empi le tue vie,",
+          "phonetic": "Insegnerò agli empi le tue vie,",
+          "timing": {
+            "full": [
+              77.403,
+              79.653
+            ],
+            "passage": [
+              0.0,
+              2.064
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "15b",
+          "text": "e i peccatori a te ritorneranno.",
+          "phonetic": "e i peccatori a te ritorneranno.",
+          "timing": {
+            "full": [
+              79.653,
+              81.958
+            ],
+            "passage": [
+              2.064,
+              4.369
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 16,
+      "segments": [
+        {
+          "passage_segment_id": "16a",
+          "text": "Liberami dal sangue, o Dio,",
+          "phonetic": "Liberami dal sangue, o Dio,",
+          "timing": {
+            "full": [
+              81.958,
+              84.417
+            ],
+            "passage": [
+              0.0,
+              2.272
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16b",
+          "text": "Dio della mia salvezza,",
+          "phonetic": "Dio della mia salvezza,",
+          "timing": {
+            "full": [
+              84.417,
+              86.111
+            ],
+            "passage": [
+              2.272,
+              3.967
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "16c",
+          "text": "e la mia lingua esalterà la tua giustizia.",
+          "phonetic": "e la mia lingua esalterà la tua giustizia.",
+          "timing": {
+            "full": [
+              86.111,
+              88.861
+            ],
+            "passage": [
+              3.967,
+              6.717
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 17,
+      "segments": [
+        {
+          "passage_segment_id": "17a",
+          "text": "Signore, apri le mie labbra,",
+          "phonetic": "Signore, apri le mie labbra,",
+          "timing": {
+            "full": [
+              88.861,
+              91.292
+            ],
+            "passage": [
+              0.0,
+              2.244
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "17b",
+          "text": "e la mia bocca proclamerà la tua lode.",
+          "phonetic": "e la mia bocca proclamerà la tua lode.",
+          "timing": {
+            "full": [
+              91.292,
+              93.778
+            ],
+            "passage": [
+              2.244,
+              4.731
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 18,
+      "segments": [
+        {
+          "passage_segment_id": "18a",
+          "text": "Poiché se avessi voluto un sacrificio,",
+          "phonetic": "Poiché se avessi voluto un sacrificio,",
+          "timing": {
+            "full": [
+              93.778,
+              96.319
+            ],
+            "passage": [
+              0.0,
+              2.356
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18b",
+          "text": "te l'avrei dato;",
+          "phonetic": "te l'avrei dato;",
+          "timing": {
+            "full": [
+              96.319,
+              97.431
+            ],
+            "passage": [
+              2.356,
+              3.467
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "ma non ti diletti di olocausti.",
+          "phonetic": "ma non ti diletti di olocausti.",
+          "timing": {
+            "full": [
+              97.431,
+              99.639
+            ],
+            "passage": [
+              3.467,
+              5.675
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 19,
+      "segments": [
+        {
+          "passage_segment_id": "19a",
+          "text": "Sacrificio a Dio è uno spirito contrito;",
+          "phonetic": "Sacrificio a Dio è uno spirito contrito;",
+          "timing": {
+            "full": [
+              99.639,
+              102.778
+            ],
+            "passage": [
+              0.0,
+              2.953
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19b",
+          "text": "un cuore contrito e umiliato, o Dio,",
+          "phonetic": "un cuore contrito e umiliato, o Dio,",
+          "timing": {
+            "full": [
+              102.778,
+              105.847
+            ],
+            "passage": [
+              2.953,
+              6.022
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "19c",
+          "text": "tu non disprezzi.",
+          "phonetic": "tu non disprezzi.",
+          "timing": {
+            "full": [
+              105.847,
+              107.319
+            ],
+            "passage": [
+              6.022,
+              7.494
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 20,
+      "segments": [
+        {
+          "passage_segment_id": "20a",
+          "text": "Tratta favorevolmente, o Signore,",
+          "phonetic": "Tratta favorevolmente, o Signore,",
+          "timing": {
+            "full": [
+              107.319,
+              110.194
+            ],
+            "passage": [
+              0.0,
+              2.689
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20b",
+          "text": "Sion nella tua benevolenza;",
+          "phonetic": "Sion nella tua benevolenza;",
+          "timing": {
+            "full": [
+              110.194,
+              112.181
+            ],
+            "passage": [
+              2.689,
+              4.675
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
+          "text": "siano riedificate le mura di Gerusalemme.",
+          "phonetic": "siano riedificate le mura di Gerusalemme.",
+          "timing": {
+            "full": [
+              112.181,
+              114.986
+            ],
+            "passage": [
+              4.675,
+              7.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 21,
+      "segments": [
+        {
+          "passage_segment_id": "21a",
+          "text": "Allora gradirai i sacrifici di giustizia,",
+          "phonetic": "Allora gradirai i sacrifici di giustizia,",
+          "timing": {
+            "full": [
+              114.986,
+              118.153
+            ],
+            "passage": [
+              0.0,
+              2.981
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21b",
+          "text": "oblazioni e olocausti;",
+          "phonetic": "oblazioni e olocausti;",
+          "timing": {
+            "full": [
+              118.153,
+              119.917
+            ],
+            "passage": [
+              2.981,
+              4.744
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "21c",
+          "text": "allora si offriranno vitelli sul tuo altare.",
+          "phonetic": "allora si offriranno vitelli sul tuo altare.",
+          "timing": {
+            "full": [
+              119.917,
+              122.806
+            ],
+            "passage": [
+              4.744,
+              7.633
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

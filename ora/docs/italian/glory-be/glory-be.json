@@ -1,0 +1,147 @@
+{
+  "id": "glory-be",
+  "lang": "italian",
+  "title": "Gloria al Padre",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Gloria al Padre,",
+          "phonetic": "Gloria al Padre,",
+          "timing": {
+            "full": [
+              0.0,
+              1.312
+            ],
+            "passage": [
+              0.0,
+              1.312
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "e al Figlio,",
+          "phonetic": "e al Figlio,",
+          "timing": {
+            "full": [
+              1.312,
+              2.41
+            ],
+            "passage": [
+              1.312,
+              2.41
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "e allo Spirito Santo.",
+          "phonetic": "e allo Spirito Santo.",
+          "timing": {
+            "full": [
+              2.41,
+              4.146
+            ],
+            "passage": [
+              2.41,
+              4.146
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Come era nel principio,",
+          "phonetic": "Come era nel principio,",
+          "timing": {
+            "full": [
+              4.146,
+              5.986
+            ],
+            "passage": [
+              0.0,
+              1.647
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "ora",
+          "phonetic": "ora",
+          "timing": {
+            "full": [
+              5.986,
+              6.556
+            ],
+            "passage": [
+              1.647,
+              2.217
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "e sempre,",
+          "phonetic": "e sempre,",
+          "timing": {
+            "full": [
+              6.556,
+              7.181
+            ],
+            "passage": [
+              2.217,
+              2.842
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "nei secoli dei secoli.",
+          "phonetic": "nei secoli dei secoli.",
+          "timing": {
+            "full": [
+              7.181,
+              8.931
+            ],
+            "passage": [
+              2.842,
+              4.592
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              8.931,
+              9.819
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

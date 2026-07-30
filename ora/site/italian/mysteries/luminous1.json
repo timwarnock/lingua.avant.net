@@ -1,0 +1,32 @@
+{
+  "id": "luminous1",
+  "lang": "italian",
+  "title": "Il primo mistero luminoso, il Battesimo di Gesù",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il primo mistero luminoso, il Battesimo di Gesù.",
+          "phonetic": "Il primo mistero luminoso, il Battesimo di Gesù.",
+          "timing": {
+            "full": [
+              0.0,
+              3.522
+            ],
+            "passage": [
+              0.0,
+              3.522
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

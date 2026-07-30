@@ -1,0 +1,417 @@
+{
+  "id": "apostles-creed",
+  "lang": "italian",
+  "title": "Simbolo degli Apostoli",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Io credo in Dio,",
+          "phonetic": "Io credo in Dio,",
+          "timing": {
+            "full": [
+              0.0,
+              1.272
+            ],
+            "passage": [
+              0.0,
+              1.286
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Padre onnipotente,",
+          "phonetic": "Padre onnipotente,",
+          "timing": {
+            "full": [
+              1.272,
+              2.842
+            ],
+            "passage": [
+              1.286,
+              2.772
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "Creatore del cielo e della terra;",
+          "phonetic": "Creatore del cielo e della terra;",
+          "timing": {
+            "full": [
+              2.842,
+              5.05
+            ],
+            "passage": [
+              2.772,
+              4.994
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "e in Gesù Cristo,",
+          "phonetic": "e in Gesù Cristo,",
+          "timing": {
+            "full": [
+              5.05,
+              6.592
+            ],
+            "passage": [
+              0.0,
+              1.411
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "suo unico Figlio,",
+          "phonetic": "suo unico Figlio,",
+          "timing": {
+            "full": [
+              6.592,
+              7.883
+            ],
+            "passage": [
+              1.411,
+              2.758
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "nostro Signore,",
+          "phonetic": "nostro Signore,",
+          "timing": {
+            "full": [
+              7.883,
+              9.147
+            ],
+            "passage": [
+              2.758,
+              4.119
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "il quale fu concepito di Spirito Santo,",
+          "phonetic": "il quale fu concepito di Spirito Santo,",
+          "timing": {
+            "full": [
+              9.147,
+              12.064
+            ],
+            "passage": [
+              0.0,
+              2.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "nacque da Maria Vergine,",
+          "phonetic": "nacque da Maria Vergine,",
+          "timing": {
+            "full": [
+              12.064,
+              13.972
+            ],
+            "passage": [
+              0.0,
+              1.744
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "patì sotto Ponzio Pilato,",
+          "phonetic": "patì sotto Ponzio Pilato,",
+          "timing": {
+            "full": [
+              13.972,
+              15.972
+            ],
+            "passage": [
+              0.0,
+              1.953
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "fu crocifisso,",
+          "phonetic": "fu crocifisso,",
+          "timing": {
+            "full": [
+              15.972,
+              17.25
+            ],
+            "passage": [
+              1.953,
+              3.203
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "morì e fu sepolto;",
+          "phonetic": "morì e fu sepolto;",
+          "timing": {
+            "full": [
+              17.25,
+              18.861
+            ],
+            "passage": [
+              3.203,
+              4.939
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "discese agli inferi;",
+          "phonetic": "discese agli inferi;",
+          "timing": {
+            "full": [
+              18.861,
+              20.333
+            ],
+            "passage": [
+              0.0,
+              1.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "il terzo giorno risuscitò da morte;",
+          "phonetic": "il terzo giorno risuscitò da morte;",
+          "timing": {
+            "full": [
+              20.333,
+              23.083
+            ],
+            "passage": [
+              0.0,
+              2.55
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "salì al cielo,",
+          "phonetic": "salì al cielo,",
+          "timing": {
+            "full": [
+              23.083,
+              24.306
+            ],
+            "passage": [
+              0.0,
+              1.103
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "siede alla destra di Dio Padre onnipotente;",
+          "phonetic": "siede alla destra di Dio Padre onnipotente;",
+          "timing": {
+            "full": [
+              24.306,
+              27.361
+            ],
+            "passage": [
+              0.0,
+              2.606
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "di là verrà a giudicare i vivi e i morti.",
+          "phonetic": "di là verrà a giudicare i vivi e i morti.",
+          "timing": {
+            "full": [
+              27.361,
+              30.097
+            ],
+            "passage": [
+              0.0,
+              2.814
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 11,
+      "segments": [
+        {
+          "passage_segment_id": "11a",
+          "text": "Credo nello Spirito Santo,",
+          "phonetic": "Credo nello Spirito Santo,",
+          "timing": {
+            "full": [
+              30.097,
+              32.208
+            ],
+            "passage": [
+              0.0,
+              1.925
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11b",
+          "text": "la santa Chiesa cattolica,",
+          "phonetic": "la santa Chiesa cattolica,",
+          "timing": {
+            "full": [
+              32.208,
+              34.194
+            ],
+            "passage": [
+              1.925,
+              3.911
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11c",
+          "text": "la comunione dei santi,",
+          "phonetic": "la comunione dei santi,",
+          "timing": {
+            "full": [
+              34.194,
+              35.972
+            ],
+            "passage": [
+              3.911,
+              5.689
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11d",
+          "text": "la remissione dei peccati,",
+          "phonetic": "la remissione dei peccati,",
+          "timing": {
+            "full": [
+              35.972,
+              37.917
+            ],
+            "passage": [
+              5.689,
+              7.633
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11e",
+          "text": "la risurrezione della carne,",
+          "phonetic": "la risurrezione della carne,",
+          "timing": {
+            "full": [
+              37.917,
+              39.931
+            ],
+            "passage": [
+              7.633,
+              9.647
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "11f",
+          "text": "la vita eterna.",
+          "phonetic": "la vita eterna.",
+          "timing": {
+            "full": [
+              39.931,
+              41.292
+            ],
+            "passage": [
+              9.647,
+              11.008
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 12,
+      "segments": [
+        {
+          "passage_segment_id": "12a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              41.292,
+              42.181
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

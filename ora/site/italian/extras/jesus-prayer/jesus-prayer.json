@@ -1,0 +1,82 @@
+{
+  "id": "jesus-prayer",
+  "lang": "italian",
+  "title": "Preghiera di Gesù",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Signore Gesù Cristo,",
+          "phonetic": "Signore Gesù Cristo,",
+          "timing": {
+            "full": [
+              0.0,
+              1.717
+            ],
+            "passage": [
+              0.0,
+              1.703
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Figlio di Dio,",
+          "phonetic": "Figlio di Dio,",
+          "timing": {
+            "full": [
+              1.717,
+              2.828
+            ],
+            "passage": [
+              1.703,
+              2.814
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "abbi pietà di me,",
+          "phonetic": "abbi pietà di me,",
+          "timing": {
+            "full": [
+              2.828,
+              4.231
+            ],
+            "passage": [
+              0.0,
+              1.161
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "peccatore.",
+          "phonetic": "peccatore.",
+          "timing": {
+            "full": [
+              4.231,
+              5.217
+            ],
+            "passage": [
+              1.161,
+              2.106
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -128,6 +128,25 @@ nav = [
           "french/resources/pronunciation.md"
         ] }
     ] },
+  { "Italiano" = [
+      "italian/index.md",
+      "italian/sign-of-the-cross.md",
+      "italian/apostles-creed.md",
+      "italian/our-father.md",
+      "italian/hail-mary.md",
+      "italian/glory-be.md",
+      "italian/fatima-prayer.md",
+      "italian/hail-holy-queen.md",
+      { "[ Aggiunte ]" = [
+          "italian/extras/jesus-prayer.md",
+          "italian/extras/nicene.md",
+          "italian/extras/psalm-23.md",
+          "italian/extras/psalm-51.md"
+        ] },
+      { "[ Risorse ]" = [
+          "italian/resources/pronunciation.md"
+        ] }
+    ] },
   { "Latina" = [
       "latin/index.md",
       "latin/sign-of-the-cross.md",
@@ -292,6 +311,7 @@ generator = false
 "English" = "English"
 "Español" = "Spanish"
 "Français" = "French"
+"Italiano" = "Italian"
 "Latina" = "Latin"
 "Polski" = "Polish"
 "Português" = "Portuguese"

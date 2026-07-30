@@ -1,0 +1,32 @@
+{
+  "id": "joyful2",
+  "lang": "italian",
+  "title": "Il secondo mistero gaudioso, la Visitazione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il secondo mistero gaudioso, la Visitazione.",
+          "phonetic": "Il secondo mistero gaudioso, la Visitazione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.425
+            ],
+            "passage": [
+              0.0,
+              3.425
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

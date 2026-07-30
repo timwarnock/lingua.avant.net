@@ -1,0 +1,32 @@
+{
+  "id": "sorrowful4",
+  "lang": "italian",
+  "title": "Il quarto mistero doloroso, la Salita al Calvario",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il quarto mistero doloroso, la Salita al Calvario.",
+          "phonetic": "Il quarto mistero doloroso, la Salita al Calvario.",
+          "timing": {
+            "full": [
+              0.0,
+              3.842
+            ],
+            "passage": [
+              0.0,
+              3.842
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

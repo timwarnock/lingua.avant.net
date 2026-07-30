@@ -1,0 +1,212 @@
+{
+  "id": "our-father",
+  "lang": "italian",
+  "title": "Padre Nostro",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Padre nostro,",
+          "phonetic": "Padre nostro,",
+          "timing": {
+            "full": [
+              0.0,
+              1.078
+            ],
+            "passage": [
+              0.0,
+              1.078
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "che sei nei cieli,",
+          "phonetic": "che sei nei cieli,",
+          "timing": {
+            "full": [
+              1.078,
+              2.467
+            ],
+            "passage": [
+              1.078,
+              2.467
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1c",
+          "text": "sia santificato il tuo nome.",
+          "phonetic": "sia santificato il tuo nome.",
+          "timing": {
+            "full": [
+              2.467,
+              4.619
+            ],
+            "passage": [
+              2.467,
+              4.619
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Venga il tuo regno.",
+          "phonetic": "Venga il tuo regno.",
+          "timing": {
+            "full": [
+              4.619,
+              6.125
+            ],
+            "passage": [
+              0.0,
+              1.314
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Sia fatta la tua volontà, come in cielo così in terra.",
+          "phonetic": "Sia fatta la tua volontà, come in cielo così in terra.",
+          "timing": {
+            "full": [
+              6.125,
+              9.917
+            ],
+            "passage": [
+              0.0,
+              3.606
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Dacci oggi il nostro pane quotidiano,",
+          "phonetic": "Dacci oggi il nostro pane quotidiano,",
+          "timing": {
+            "full": [
+              9.917,
+              12.611
+            ],
+            "passage": [
+              0.0,
+              2.494
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "e rimetti a noi i nostri debiti,",
+          "phonetic": "e rimetti a noi i nostri debiti,",
+          "timing": {
+            "full": [
+              12.611,
+              14.833
+            ],
+            "passage": [
+              0.0,
+              2.092
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "come noi li rimettiamo ai nostri debitori.",
+          "phonetic": "come noi li rimettiamo ai nostri debitori.",
+          "timing": {
+            "full": [
+              14.833,
+              17.653
+            ],
+            "passage": [
+              2.092,
+              4.772
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "E non ci indurre in tentazione,",
+          "phonetic": "E non ci indurre in tentazione,",
+          "timing": {
+            "full": [
+              17.653,
+              20.014
+            ],
+            "passage": [
+              0.0,
+              2.175
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "ma liberaci dal male.",
+          "phonetic": "ma liberaci dal male.",
+          "timing": {
+            "full": [
+              20.014,
+              21.625
+            ],
+            "passage": [
+              2.175,
+              3.786
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Amen.",
+          "phonetic": "Amen.",
+          "timing": {
+            "full": [
+              21.625,
+              22.514
+            ],
+            "passage": [
+              0.0,
+              0.703
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "glorious1",
+  "lang": "italian",
+  "title": "Il primo mistero glorioso, la Risurrezione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il primo mistero glorioso, la Risurrezione.",
+          "phonetic": "Il primo mistero glorioso, la Risurrezione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.369
+            ],
+            "passage": [
+              0.0,
+              3.369
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

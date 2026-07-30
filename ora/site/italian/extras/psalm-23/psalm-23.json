@@ -1,0 +1,377 @@
+{
+  "id": "psalm-23",
+  "lang": "italian",
+  "title": "Salmo 23",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Salmo di Davide.",
+          "phonetic": "Salmo di Davide.",
+          "timing": {
+            "full": [
+              0.0,
+              1.286
+            ],
+            "passage": [
+              0.0,
+              1.286
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 2,
+      "segments": [
+        {
+          "passage_segment_id": "2a",
+          "text": "Il Signore è il mio pastore:",
+          "phonetic": "Il Signore è il mio pastore:",
+          "timing": {
+            "full": [
+              1.286,
+              3.356
+            ],
+            "passage": [
+              0.0,
+              1.878
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "non manco di nulla.",
+          "phonetic": "non manco di nulla.",
+          "timing": {
+            "full": [
+              3.356,
+              4.856
+            ],
+            "passage": [
+              1.878,
+              3.378
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 3,
+      "segments": [
+        {
+          "passage_segment_id": "3a",
+          "text": "Su pascoli erbosi mi fa riposare,",
+          "phonetic": "Su pascoli erbosi mi fa riposare,",
+          "timing": {
+            "full": [
+              4.856,
+              7.431
+            ],
+            "passage": [
+              0.0,
+              2.383
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3b",
+          "text": "ad acque tranquille mi conduce.",
+          "phonetic": "ad acque tranquille mi conduce.",
+          "timing": {
+            "full": [
+              7.431,
+              9.625
+            ],
+            "passage": [
+              2.383,
+              4.578
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 4,
+      "segments": [
+        {
+          "passage_segment_id": "4a",
+          "text": "Rinfranca l'anima mia,",
+          "phonetic": "Rinfranca l'anima mia,",
+          "timing": {
+            "full": [
+              9.625,
+              11.361
+            ],
+            "passage": [
+              0.0,
+              1.55
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4b",
+          "text": "mi guida per il giusto cammino",
+          "phonetic": "mi guida per il giusto cammino",
+          "timing": {
+            "full": [
+              11.361,
+              13.347
+            ],
+            "passage": [
+              1.55,
+              3.536
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "4c",
+          "text": "per amore del suo nome.",
+          "phonetic": "per amore del suo nome.",
+          "timing": {
+            "full": [
+              13.347,
+              14.681
+            ],
+            "passage": [
+              3.536,
+              4.869
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 5,
+      "segments": [
+        {
+          "passage_segment_id": "5a",
+          "text": "Se dovessi camminare in una valle oscura,",
+          "phonetic": "Se dovessi camminare in una valle oscura,",
+          "timing": {
+            "full": [
+              14.681,
+              17.347
+            ],
+            "passage": [
+              0.0,
+              2.481
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5b",
+          "text": "non temerei alcun male,",
+          "phonetic": "non temerei alcun male,",
+          "timing": {
+            "full": [
+              17.347,
+              18.944
+            ],
+            "passage": [
+              2.481,
+              4.078
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5c",
+          "text": "perché tu sei con me.",
+          "phonetic": "perché tu sei con me.",
+          "timing": {
+            "full": [
+              18.944,
+              20.514
+            ],
+            "passage": [
+              4.078,
+              5.647
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 6,
+      "segments": [
+        {
+          "passage_segment_id": "6a",
+          "text": "Il tuo bastone e il tuo vincastro",
+          "phonetic": "Il tuo bastone e il tuo vincastro",
+          "timing": {
+            "full": [
+              20.514,
+              22.917
+            ],
+            "passage": [
+              0.0,
+              2.217
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "mi danno sicurezza.",
+          "phonetic": "mi danno sicurezza.",
+          "timing": {
+            "full": [
+              22.917,
+              24.167
+            ],
+            "passage": [
+              2.217,
+              3.467
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 7,
+      "segments": [
+        {
+          "passage_segment_id": "7a",
+          "text": "Davanti a me tu prepari una mensa",
+          "phonetic": "Davanti a me tu prepari una mensa",
+          "timing": {
+            "full": [
+              24.167,
+              26.625
+            ],
+            "passage": [
+              0.0,
+              2.272
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "7b",
+          "text": "sotto gli occhi dei miei nemici.",
+          "phonetic": "sotto gli occhi dei miei nemici.",
+          "timing": {
+            "full": [
+              26.625,
+              28.833
+            ],
+            "passage": [
+              2.272,
+              4.481
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 8,
+      "segments": [
+        {
+          "passage_segment_id": "8a",
+          "text": "Ungi di olio il mio capo;",
+          "phonetic": "Ungi di olio il mio capo;",
+          "timing": {
+            "full": [
+              28.833,
+              30.736
+            ],
+            "passage": [
+              0.0,
+              1.717
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8b",
+          "text": "il mio calice trabocca.",
+          "phonetic": "il mio calice trabocca.",
+          "timing": {
+            "full": [
+              30.736,
+              32.556
+            ],
+            "passage": [
+              1.717,
+              3.536
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 9,
+      "segments": [
+        {
+          "passage_segment_id": "9a",
+          "text": "Felicità e grazia mi saranno compagne",
+          "phonetic": "Felicità e grazia mi saranno compagne",
+          "timing": {
+            "full": [
+              32.556,
+              35.278
+            ],
+            "passage": [
+              0.0,
+              2.494
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9b",
+          "text": "tutti i giorni della mia vita,",
+          "phonetic": "tutti i giorni della mia vita,",
+          "timing": {
+            "full": [
+              35.278,
+              36.958
+            ],
+            "passage": [
+              2.494,
+              4.189
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "passage_id": 10,
+      "segments": [
+        {
+          "passage_segment_id": "10a",
+          "text": "e abiterò nella casa del Signore",
+          "phonetic": "e abiterò nella casa del Signore",
+          "timing": {
+            "full": [
+              36.958,
+              39.139
+            ],
+            "passage": [
+              0.0,
+              2.286
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "10b",
+          "text": "per lunghi giorni.",
+          "phonetic": "per lunghi giorni.",
+          "timing": {
+            "full": [
+              39.139,
+              40.25
+            ],
+            "passage": [
+              2.286,
+              3.564
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

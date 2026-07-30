@@ -1,0 +1,32 @@
+{
+  "id": "glorious4",
+  "lang": "italian",
+  "title": "Il quarto mistero glorioso, l'Assunzione",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il quarto mistero glorioso, l'Assunzione.",
+          "phonetic": "Il quarto mistero glorioso, l'Assunzione.",
+          "timing": {
+            "full": [
+              0.0,
+              3.161
+            ],
+            "passage": [
+              0.0,
+              3.161
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "glorious5",
+  "lang": "italian",
+  "title": "Il quinto mistero glorioso, l'Incoronazione di Maria",
+  "tts": {
+    "voice": "it-IT-ElsaNeural",
+    "rate": "-10%",
+    "input": "phonetic"
+  },
+  "passages": [
+    {
+      "passage_id": 1,
+      "segments": [
+        {
+          "passage_segment_id": "1a",
+          "text": "Il quinto mistero glorioso, l'Incoronazione di Maria.",
+          "phonetic": "Il quinto mistero glorioso, l'Incoronazione di Maria.",
+          "timing": {
+            "full": [
+              0.0,
+              3.953
+            ],
+            "passage": [
+              0.0,
+              3.953
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
