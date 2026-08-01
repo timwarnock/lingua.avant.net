@@ -90,10 +90,6 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 
 ## TODO
 
-+ Add Deutsch /german/ ... use audio-testing page to choose a good tts voice and rate (prefer male voice), then create all prayers (even extras) in German making sure to match the passages 1:1
-
-+ Add Italiano /italian/ ... use audio-testing page to choose a good tts voice and rate (prefer female voice), then create all prayers (even extras) in Italian making sure to match the passages 1:1
-
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 
 + iOS app! Ora Pro Nobis (see plan-ios.md)
