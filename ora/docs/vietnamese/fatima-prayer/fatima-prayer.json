@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "vietnamese",
   "title": "Lời Nguyện Fatima",
+  "title_tooltip": "Fatima Prayer",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

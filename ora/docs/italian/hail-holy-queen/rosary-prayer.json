@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "italian",
   "title": "Preghiera del Rosario",
+  "title_tooltip": "Rosary Prayer",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

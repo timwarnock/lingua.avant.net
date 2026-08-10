@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 聖號經
+# <span tooltip="Shèng Hào Jīng = Sign of the Cross">聖號經</span>
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"

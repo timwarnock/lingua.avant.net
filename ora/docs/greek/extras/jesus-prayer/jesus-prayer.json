@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "greek",
   "title": "Προσευχὴ τοῦ Ἰησοῦ",
+  "title_tooltip": "Proseuchḗ tou Iēsoú = Jesus Prayer",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

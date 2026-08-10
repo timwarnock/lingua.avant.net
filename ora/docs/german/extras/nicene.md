@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Nizänisches Glaubensbekenntnis
+# <span tooltip="Nicene Creed">Nizänisches Glaubensbekenntnis</span>
 
 <div class="prayer-interactive"
      data-prayer="nicene"

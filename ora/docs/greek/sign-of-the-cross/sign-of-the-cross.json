@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "greek",
   "title": "Τὸ Σημεῖον τοῦ Σταυροῦ",
+  "title_tooltip": "To Sēmeíon tou Stauroú = Sign of the Cross",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

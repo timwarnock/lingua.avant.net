@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Ehre sei dem Vater
+# <span tooltip="Glory Be">Ehre sei dem Vater</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

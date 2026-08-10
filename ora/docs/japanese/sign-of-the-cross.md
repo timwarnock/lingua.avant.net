@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 十字架のしるし
+# <span tooltip="Jūjika no shirushi = Sign of the Cross">十字架のしるし</span>
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"

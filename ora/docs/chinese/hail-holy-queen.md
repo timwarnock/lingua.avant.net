@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 又聖母經
+# <span tooltip="Yòu Shèng Mǔ Jīng = Hail, Holy Queen">又聖母經</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -11,7 +11,7 @@ icon: material/cross
 
 ---
 
-## 玫瑰經禱文
+## <span tooltip="Méi Guī Jīng Dǎo Wén = Rosary Prayer">玫瑰經禱文</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

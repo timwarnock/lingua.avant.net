@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "portuguese",
   "title": "Pai Nosso",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

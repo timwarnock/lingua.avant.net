@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "portuguese",
   "title": "Credo dos Apóstolos",
+  "title_tooltip": "Apostles' Creed",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

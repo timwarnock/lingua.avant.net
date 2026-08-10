@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "greek",
   "title": "Ἡ Προσευχὴ τῆς Φατίμας",
+  "title_tooltip": "Hē Proseuchḗ tēs Fatímas = Fatima Prayer",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

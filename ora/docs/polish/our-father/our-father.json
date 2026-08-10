@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "polish",
   "title": "Ojcze nasz",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

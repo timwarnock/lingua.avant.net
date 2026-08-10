@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "japanese",
   "title": "ロザリオの祈り",
+  "title_tooltip": "Rozario no inori = Rosary Prayer",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

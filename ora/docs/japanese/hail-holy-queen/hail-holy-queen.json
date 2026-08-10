@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "japanese",
   "title": "サルベ・レジーナ",
+  "title_tooltip": "Sarube Rejīna = Hail, Holy Queen",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

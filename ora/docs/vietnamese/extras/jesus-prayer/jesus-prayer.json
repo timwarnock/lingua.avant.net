@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "vietnamese",
   "title": "Lời Nguyện Giêsu",
+  "title_tooltip": "Jesus Prayer",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 栄唱
+# <span tooltip="Eishō = Glory Be">栄唱</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 耶穌禱文
+# <span tooltip="Yē Sū Dǎo Wén = Jesus Prayer">耶穌禱文</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

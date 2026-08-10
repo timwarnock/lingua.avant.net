@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Fatima Prayer
+# <span tooltip="Oratio Fatimae">Fatima Prayer</span>
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"

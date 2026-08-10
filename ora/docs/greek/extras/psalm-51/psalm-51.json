@@ -2,6 +2,7 @@
   "id": "psalm-51",
   "lang": "greek",
   "title": "Ψαλμός 51",
+  "title_tooltip": "Psalmos 51 = Psalm 51",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

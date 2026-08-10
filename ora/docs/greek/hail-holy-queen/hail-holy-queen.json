@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "greek",
   "title": "Χαῖρε, Βασίλισσα",
+  "title_tooltip": "Chaíre, Basílissa = Hail, Holy Queen",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

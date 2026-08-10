@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "french",
   "title": "Je vous salue, Reine",
+  "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

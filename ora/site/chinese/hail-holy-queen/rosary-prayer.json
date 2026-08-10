@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "chinese",
   "title": "玫瑰經禱文",
+  "title_tooltip": "Méi Guī Jīng Dǎo Wén = Rosary Prayer",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

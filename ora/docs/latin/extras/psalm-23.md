@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Psalmus 23
+# <span tooltip="Psalm 23">Psalmus 23</span>
 
 !!! warning "<span tooltip='Psalm Numbering'>Numeratio psalmi</span>"
     In Vulgata (et in Septuaginta Graeca) hic psalmus est **Psalmus 22**. In numeratione Hebraica et in plerisque Bibliis modernis est **Psalmus 23**. Idem textus est -- *Dominus regit me*.

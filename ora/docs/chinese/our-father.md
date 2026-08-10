@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 天主經
+# <span tooltip="Tiān Zhǔ Jīng = Our Father">天主經</span>
 
 <div class="prayer-interactive"
      data-prayer="our-father"

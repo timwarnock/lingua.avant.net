@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "german",
   "title": "Apostolisches Glaubensbekenntnis",
+  "title_tooltip": "Apostles' Creed",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

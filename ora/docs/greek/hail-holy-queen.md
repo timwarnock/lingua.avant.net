@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Χαίρε, Βασίλισσα
+# <span tooltip="Chaíre, Basílissa = Hail, Holy Queen">Χαίρε, Βασίλισσα</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -11,7 +11,7 @@ icon: material/cross
 
 ---
 
-## Προσευχή τού Ροδαρίου
+## <span tooltip="Proseuchḗ tou Rodaríou = Rosary Prayer">Προσευχή τού Ροδαρίου</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

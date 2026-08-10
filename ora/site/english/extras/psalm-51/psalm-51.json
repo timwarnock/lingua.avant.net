@@ -2,6 +2,7 @@
   "id": "psalm-51",
   "lang": "english",
   "title": "Psalm 51",
+  "title_tooltip": "Psalmus 51",
   "tts": {
     "voice": "en-GB-SoniaNeural",
     "rate": "-5%",

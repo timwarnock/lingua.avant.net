@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 詩篇第23篇
+# <span tooltip="Shihen dai 23-hen = Psalm 23">詩篇第23篇</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-23"

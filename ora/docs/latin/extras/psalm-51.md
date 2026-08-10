@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Psalmus 51
+# <span tooltip="Psalm 51">Psalmus 51</span>
 
 !!! warning "<span tooltip='Psalm Numbering'>Numeratio psalmi</span>"
     In Vulgata (et in Septuaginta Graeca) hic psalmus est **Psalmus 50**. In numeratione Hebraica et in plerisque Bibliis modernis est **Psalmus 51**. Idem textus est -- *Miserere*.

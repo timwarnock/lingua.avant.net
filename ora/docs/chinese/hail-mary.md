@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 聖母經
+# <span tooltip="Shèng Mǔ Jīng = Hail Mary">聖母經</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

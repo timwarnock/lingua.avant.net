@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Ave Maria
+# <span tooltip="Hail Mary">Ave Maria</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

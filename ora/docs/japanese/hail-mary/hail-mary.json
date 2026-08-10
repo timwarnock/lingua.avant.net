@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "japanese",
   "title": "アヴェ・マリアの祈り",
+  "title_tooltip": "Ave Maria = Hail Mary",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

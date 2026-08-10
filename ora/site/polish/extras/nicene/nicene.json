@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "polish",
   "title": "Credo nicejskie",
+  "title_tooltip": "Nicene Creed",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

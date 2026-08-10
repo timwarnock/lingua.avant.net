@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "japanese",
   "title": "主の祈り",
+  "title_tooltip": "Shu no inori = Our Father",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

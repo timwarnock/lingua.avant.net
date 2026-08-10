@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "vietnamese",
   "title": "Kinh Kính Mừng",
+  "title_tooltip": "Hail Mary",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

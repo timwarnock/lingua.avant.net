@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "polish",
   "title": "O mój Jezu",
+  "title_tooltip": "Fatima Prayer",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

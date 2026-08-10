@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Apostles' Creed
+# <span tooltip="Symbolum Apostolorum">Apostles' Creed</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

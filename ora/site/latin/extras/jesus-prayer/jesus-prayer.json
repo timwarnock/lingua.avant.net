@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "latin",
   "title": "Oratio Iesu",
+  "title_tooltip": "Jesus Prayer",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

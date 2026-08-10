@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "italian",
   "title": "Simbolo degli Apostoli",
+  "title_tooltip": "Apostles' Creed",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

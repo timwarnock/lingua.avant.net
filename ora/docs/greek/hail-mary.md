@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Χαίρε Μαρία
+# <span tooltip="Chaíre María = Hail Mary">Χαίρε Μαρία</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

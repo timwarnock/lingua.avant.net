@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 聖三光榮經
+# <span tooltip="Shèng Sān Guāng Róng Jīng = Glory Be">聖三光榮經</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

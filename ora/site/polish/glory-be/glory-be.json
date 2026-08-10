@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "polish",
   "title": "Chwała Ojcu",
+  "title_tooltip": "Glory Be",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Τό Σημείον τού Σταυρού
+# <span tooltip="To Sēmeíon tou Stauroú = Sign of the Cross">Τό Σημείον τού Σταυρού</span>
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"

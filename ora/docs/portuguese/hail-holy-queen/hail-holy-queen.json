@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "portuguese",
   "title": "Salve Rainha",
+  "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Gegrüßet seist du, Maria
+# <span tooltip="Hail Mary">Gegrüßet seist du, Maria</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

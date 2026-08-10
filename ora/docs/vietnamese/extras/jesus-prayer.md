@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Lời Nguyện Giêsu
+# <span tooltip="Jesus Prayer">Lời Nguyện Giêsu</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

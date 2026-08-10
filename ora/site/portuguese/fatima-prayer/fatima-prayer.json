@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "portuguese",
   "title": "Oração de Fátima",
+  "title_tooltip": "Fatima Prayer",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

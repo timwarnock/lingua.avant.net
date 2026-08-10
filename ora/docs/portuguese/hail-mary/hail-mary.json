@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "portuguese",
   "title": "Ave Maria",
+  "title_tooltip": "Hail Mary",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

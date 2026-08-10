@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Oración de Jesús
+# <span tooltip="Jesus Prayer">Oración de Jesús</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

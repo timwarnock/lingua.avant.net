@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Lạy Nữ Vương
+# <span tooltip="Hail, Holy Queen">Kinh Lạy Nữ Vương</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -10,7 +10,7 @@ icon: material/cross
 
 ---
 
-## Lời Nguyện Mân Côi
+## <span tooltip="Rosary Prayer">Lời Nguyện Mân Côi</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "italian",
   "title": "Preghiera di Gesù",
+  "title_tooltip": "Jesus Prayer",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

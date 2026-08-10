@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "italian",
   "title": "Gloria al Padre",
+  "title_tooltip": "Glory Be",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

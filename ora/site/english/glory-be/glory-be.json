@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "english",
   "title": "Glory Be",
+  "title_tooltip": "Gloria Patri",
   "tts": {
     "voice": "en-GB-SoniaNeural",
     "rate": "-5%",

@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "greek",
   "title": "Δόξα Πατρί",
+  "title_tooltip": "Dóxa Patrí = Glory Be",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

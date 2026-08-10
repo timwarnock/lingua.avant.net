@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 使徒信条
+# <span tooltip="Shito shinjō = Apostles' Creed">使徒信条</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

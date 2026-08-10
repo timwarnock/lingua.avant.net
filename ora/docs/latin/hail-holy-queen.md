@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Salve Regina
+# <span tooltip="Hail, Holy Queen">Salve Regina</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -10,7 +10,7 @@ icon: material/cross
 
 ---
 
-## Rosary Prayer
+## <span tooltip="Rosary Prayer">Rosary Prayer</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "polish",
   "title": "Modlitwa Jezusowa",
+  "title_tooltip": "Jesus Prayer",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "japanese",
   "title": "ファティマの祈り",
+  "title_tooltip": "Fatima no inori = Fatima Prayer",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

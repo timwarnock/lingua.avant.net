@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "french",
   "title": "Notre Père",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

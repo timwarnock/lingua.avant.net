@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 尼西亞信經
+# <span tooltip="Ní Xī Yà Xìn Jīng = Nicene Creed">尼西亞信經</span>
 
 <div class="prayer-interactive"
      data-prayer="nicene"

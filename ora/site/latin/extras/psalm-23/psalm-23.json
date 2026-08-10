@@ -2,6 +2,7 @@
   "id": "psalm-23",
   "lang": "latin",
   "title": "Psalmus 23",
+  "title_tooltip": "Psalm 23",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

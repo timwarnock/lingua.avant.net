@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Σύμβολον τών Αποστόλων
+# <span tooltip="Sýmbolon tōn Apostólōn = Apostles' Creed">Σύμβολον τών Αποστόλων</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

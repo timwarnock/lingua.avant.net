@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Δόξα Πατρί
+# <span tooltip="Dóxa Patrí = Glory Be">Δόξα Πατρί</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Znak Krzyża
+# <span tooltip="Sign of the Cross">Znak Krzyża</span>
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"

@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Modlitwa Jezusowa
+# <span tooltip="Jesus Prayer">Modlitwa Jezusowa</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

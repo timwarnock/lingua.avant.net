@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "chinese",
   "title": "又聖母經",
+  "title_tooltip": "Yòu Shèng Mǔ Jīng = Hail, Holy Queen",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

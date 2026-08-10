@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "german",
   "title": "Kreuzzeichen",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

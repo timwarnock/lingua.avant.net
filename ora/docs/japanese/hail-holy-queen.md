@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# サルベ・レジーナ
+# <span tooltip="Sarube Rejīna = Hail, Holy Queen">サルベ・レジーナ</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -11,7 +11,7 @@ icon: material/cross
 
 ---
 
-## ロザリオの祈り
+## <span tooltip="Rozario no inori = Rosary Prayer">ロザリオの祈り</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

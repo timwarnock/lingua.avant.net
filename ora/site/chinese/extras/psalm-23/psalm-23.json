@@ -2,6 +2,7 @@
   "id": "psalm-23",
   "lang": "chinese",
   "title": "聖詠第二十三篇",
+  "title_tooltip": "Shèng Yǒng Dì Èr Shí Sān Piān = Psalm 23",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

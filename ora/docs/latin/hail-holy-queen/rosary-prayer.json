@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "latin",
   "title": "Oratio Rosarii",
+  "title_tooltip": "Rosary Prayer",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

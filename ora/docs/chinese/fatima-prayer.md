@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 花地瑪聖母禱詞
+# <span tooltip="Huā Dì Mǎ Shèng Mǔ Dǎo Cí = Fatima Prayer">花地瑪聖母禱詞</span>
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"

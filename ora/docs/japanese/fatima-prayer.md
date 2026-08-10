@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# ファティマの祈り
+# <span tooltip="Fatima no inori = Fatima Prayer">ファティマの祈り</span>
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"

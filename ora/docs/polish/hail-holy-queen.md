@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Zdrowaś, Królowo
+# <span tooltip="Hail, Holy Queen">Zdrowaś, Królowo</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -10,7 +10,7 @@ icon: material/cross
 
 ---
 
-## Modlitwa Różańcowa
+## <span tooltip="Rosary Prayer">Modlitwa Różańcowa</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

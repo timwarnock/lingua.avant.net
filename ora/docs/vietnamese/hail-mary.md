@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Kính Mừng
+# <span tooltip="Hail Mary">Kinh Kính Mừng</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

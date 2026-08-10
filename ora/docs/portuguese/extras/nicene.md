@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Credo Niceno
+# <span tooltip="Nicene Creed">Credo Niceno</span>
 
 <div class="prayer-interactive"
      data-prayer="nicene"

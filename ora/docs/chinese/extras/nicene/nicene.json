@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "chinese",
   "title": "尼西亞信經",
+  "title_tooltip": "Ní Xī Yà Xìn Jīng = Nicene Creed",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

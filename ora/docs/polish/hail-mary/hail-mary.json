@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "polish",
   "title": "Zdrowaś Maryjo",
+  "title_tooltip": "Hail Mary",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

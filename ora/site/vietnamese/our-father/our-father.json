@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "vietnamese",
   "title": "Kinh Lạy Cha",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

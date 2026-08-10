@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 詩篇第51篇
+# <span tooltip="Shihen dai 51-hen = Psalm 51">詩篇第51篇</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-51"

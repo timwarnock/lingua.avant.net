@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Προσευχή τού Ιησού
+# <span tooltip="Proseuchḗ tou Iēsoú = Jesus Prayer">Προσευχή τού Ιησού</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

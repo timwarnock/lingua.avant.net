@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Sáng Danh
+# <span tooltip="Glory Be">Kinh Sáng Danh</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

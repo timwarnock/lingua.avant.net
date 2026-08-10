@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 聖詠第二十三篇
+# <span tooltip="Shèng Yǒng Dì Èr Shí Sān Piān = Psalm 23">聖詠第二十三篇</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-23"

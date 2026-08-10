@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "german",
   "title": "Fatimagebet",
+  "title_tooltip": "Fatima Prayer",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

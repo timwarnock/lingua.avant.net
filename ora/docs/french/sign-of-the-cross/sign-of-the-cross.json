@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "french",
   "title": "Signe de la Croix",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

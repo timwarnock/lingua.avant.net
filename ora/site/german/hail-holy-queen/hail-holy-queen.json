@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "german",
   "title": "Sei gegrüßt, o Königin",
+  "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

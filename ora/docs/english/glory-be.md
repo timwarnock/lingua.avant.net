@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Glory Be
+# <span tooltip="Gloria Patri">Glory Be</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

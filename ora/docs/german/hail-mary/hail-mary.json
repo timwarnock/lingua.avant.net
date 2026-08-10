@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "german",
   "title": "Gegrüßet seist du, Maria",
+  "title_tooltip": "Hail Mary",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

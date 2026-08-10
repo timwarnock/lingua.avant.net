@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "spanish",
   "title": "Señal de la Cruz",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "es-ES-AlvaroNeural",
     "rate": "-6%",

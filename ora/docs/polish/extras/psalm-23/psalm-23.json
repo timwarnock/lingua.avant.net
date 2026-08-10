@@ -2,6 +2,7 @@
   "id": "psalm-23",
   "lang": "polish",
   "title": "Psalm 23",
+  "title_tooltip": "Psalm 23",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

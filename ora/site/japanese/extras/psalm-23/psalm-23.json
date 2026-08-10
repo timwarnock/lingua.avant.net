@@ -2,6 +2,7 @@
   "id": "psalm-23",
   "lang": "japanese",
   "title": "詩篇第23篇",
+  "title_tooltip": "Shihen dai 23-hen = Psalm 23",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

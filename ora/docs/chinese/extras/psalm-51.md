@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 聖詠第五十一篇
+# <span tooltip="Shèng Yǒng Dì Wǔ Shí Yī Piān = Psalm 51">聖詠第五十一篇</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-51"

@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "japanese",
   "title": "ニケア信条",
+  "title_tooltip": "Nikea shinjō = Nicene Creed",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

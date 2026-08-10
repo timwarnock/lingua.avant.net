@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 宗徒信經
+# <span tooltip="Zōng Tú Xìn Jīng = Apostles' Creed">宗徒信經</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "polish",
   "title": "Znak Krzyża",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "english",
   "title": "Hail, Holy Queen",
+  "title_tooltip": "Salve Regina",
   "tts": {
     "voice": "en-GB-SoniaNeural",
     "rate": "-5%",

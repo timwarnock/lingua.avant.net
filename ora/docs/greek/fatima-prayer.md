@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Η Προσευχή τής Φατίμας
+# <span tooltip="Hē Proseuchḗ tēs Fatímas = Fatima Prayer">Η Προσευχή τής Φατίμας</span>
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"

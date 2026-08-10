@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Notre Père
+# <span tooltip="Our Father">Notre Père</span>
 
 <div class="prayer-interactive"
      data-prayer="our-father"

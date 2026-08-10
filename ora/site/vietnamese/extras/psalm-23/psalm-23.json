@@ -2,6 +2,7 @@
   "id": "psalm-23",
   "lang": "vietnamese",
   "title": "Thánh Vịnh 23",
+  "title_tooltip": "Psalm 23",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

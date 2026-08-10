@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "greek",
   "title": "Πάτερ ἡμῶν",
+  "title_tooltip": "Páter hēmṓn = Our Father",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

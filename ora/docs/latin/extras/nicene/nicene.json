@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "latin",
   "title": "Symbolum Nicaenum",
+  "title_tooltip": "Nicene Creed",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

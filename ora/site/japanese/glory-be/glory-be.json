@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "japanese",
   "title": "栄唱",
+  "title_tooltip": "Eishō = Glory Be",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

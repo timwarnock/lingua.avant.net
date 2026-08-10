@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "chinese",
   "title": "耶穌禱文",
+  "title_tooltip": "Yē Sū Dǎo Wén = Jesus Prayer",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

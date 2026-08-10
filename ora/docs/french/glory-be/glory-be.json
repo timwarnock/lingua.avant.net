@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "french",
   "title": "Gloire au Père",
+  "title_tooltip": "Glory Be",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

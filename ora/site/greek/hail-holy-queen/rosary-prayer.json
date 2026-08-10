@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "greek",
   "title": "Προσευχὴ τοῦ Ροδαρίου",
+  "title_tooltip": "Proseuchḗ tou Rodaríou = Rosary Prayer",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

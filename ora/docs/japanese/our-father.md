@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# 主の祈り
+# <span tooltip="Shu no inori = Our Father">主の祈り</span>
 
 <div class="prayer-interactive"
      data-prayer="our-father"

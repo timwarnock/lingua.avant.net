@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Chwała Ojcu
+# <span tooltip="Glory Be">Chwała Ojcu</span>
 
 <div class="prayer-interactive"
      data-prayer="glory-be"

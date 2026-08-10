@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "french",
   "title": "Prière de Jésus",
+  "title_tooltip": "Jesus Prayer",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

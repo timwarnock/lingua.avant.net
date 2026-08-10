@@ -395,7 +395,7 @@ function createApp(container, opts = {}) {
           doRepurposeHeading(data.title || pid, () => {
             if (mainPlayBtn && mainPlayBtn.textContent === '⏸') stopAll();
             else play('local', 'full', base, pid);
-          });
+          }, data.title_tooltip);
 
           // Phonetics toggle for this prayer page. Default is off unless data-show-phonetic="true" on the div (or opts.showPhonetic).
           let showPhonetic = defaultShowPhonetic;
@@ -419,14 +419,21 @@ function createApp(container, opts = {}) {
       });
   }
 
-  function doRepurposeHeading(titleText, onPlayFull) {
+  function doRepurposeHeading(titleText, onPlayFull, titleTooltip) {
     const h = container.previousElementSibling;
+    // Keep gloss from markdown H1 (e.g. <span tooltip="...">) or optional JSON title_tooltip
+    let tip = titleTooltip || null;
     if (h && (h.tagName === 'H1' || h.tagName === 'H2')) {
+      if (!tip) {
+        const tipEl = h.querySelector('[tooltip]');
+        if (tipEl) tip = tipEl.getAttribute('tooltip');
+      }
       h.innerHTML = '';
       h.classList.add('prayer-with-player');
       const t = document.createElement('span');
       t.className = 'prayer-title';
       t.textContent = titleText;
+      if (tip) t.setAttribute('tooltip', tip);
       const b = document.createElement('button');
       b.className = 'play-btn';
       b.textContent = '▶';
@@ -441,6 +448,7 @@ function createApp(container, opts = {}) {
       const t = document.createElement('span');
       t.className = 'prayer-title';
       t.textContent = titleText;
+      if (tip) t.setAttribute('tooltip', tip);
       const b = document.createElement('button');
       b.className = 'play-btn';
       b.textContent = '▶';

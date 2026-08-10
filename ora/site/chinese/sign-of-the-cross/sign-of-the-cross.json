@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "chinese",
   "title": "聖號經",
+  "title_tooltip": "Shèng Hào Jīng = Sign of the Cross",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

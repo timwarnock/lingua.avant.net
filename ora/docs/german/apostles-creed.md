@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Apostolisches Glaubensbekenntnis
+# <span tooltip="Apostles' Creed">Apostolisches Glaubensbekenntnis</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

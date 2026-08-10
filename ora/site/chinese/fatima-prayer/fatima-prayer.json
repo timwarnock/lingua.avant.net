@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "chinese",
   "title": "花地瑪聖母禱詞",
+  "title_tooltip": "Huā Dì Mǎ Shèng Mǔ Dǎo Cí = Fatima Prayer",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

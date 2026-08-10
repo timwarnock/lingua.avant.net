@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "latin",
   "title": "Pater Noster",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

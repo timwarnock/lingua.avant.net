@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "english",
   "title": "Fatima Prayer",
+  "title_tooltip": "Oratio Fatimae",
   "tts": {
     "voice": "en-GB-SoniaNeural",
     "rate": "-5%",

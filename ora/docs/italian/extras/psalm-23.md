@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Salmo 23
+# <span tooltip="Psalm 23">Salmo 23</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-23"

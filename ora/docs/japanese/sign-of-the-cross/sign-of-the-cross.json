@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "japanese",
   "title": "十字架のしるし",
+  "title_tooltip": "Jūjika no shirushi = Sign of the Cross",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

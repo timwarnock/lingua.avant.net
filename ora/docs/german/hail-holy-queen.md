@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Sei gegrüßt, o Königin
+# <span tooltip="Hail, Holy Queen">Sei gegrüßt, o Königin</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -10,7 +10,7 @@ icon: material/cross
 
 ---
 
-## Rosenkranzgebet
+## <span tooltip="Rosary Prayer">Rosenkranzgebet</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

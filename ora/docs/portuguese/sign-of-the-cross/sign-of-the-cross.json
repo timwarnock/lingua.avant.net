@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "portuguese",
   "title": "Sinal da Cruz",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

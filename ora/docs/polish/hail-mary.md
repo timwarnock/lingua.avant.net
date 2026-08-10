@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Zdrowaś Maryjo
+# <span tooltip="Hail Mary">Zdrowaś Maryjo</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-mary"

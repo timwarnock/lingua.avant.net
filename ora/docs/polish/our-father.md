@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Ojcze nasz
+# <span tooltip="Our Father">Ojcze nasz</span>
 
 <div class="prayer-interactive"
      data-prayer="our-father"

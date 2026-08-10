@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# ニケア信条
+# <span tooltip="Nikea shinjō = Nicene Creed">ニケア信条</span>
 
 <div class="prayer-interactive"
      data-prayer="nicene"

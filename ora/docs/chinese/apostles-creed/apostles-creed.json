@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "chinese",
   "title": "宗徒信經",
+  "title_tooltip": "Zōng Tú Xìn Jīng = Apostles' Creed",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

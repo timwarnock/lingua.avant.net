@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Ô mon Jésus
+# <span tooltip="Fatima Prayer">Ô mon Jésus</span>
 
 <div class="prayer-interactive"
      data-prayer="fatima-prayer"

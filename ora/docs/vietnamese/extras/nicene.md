@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Tin Kính Nicea
+# <span tooltip="Nicene Creed">Kinh Tin Kính Nicea</span>
 
 <div class="prayer-interactive"
      data-prayer="nicene"

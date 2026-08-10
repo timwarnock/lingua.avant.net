@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Psaume 23
+# <span tooltip="Psalm 23">Psaume 23</span>
 
 !!! warning "<span tooltip='Psalm Numbering'>Numérotation du psaume</span>"
     Dans la Septante et la Vulgate, ce psaume est le **Psaume 22**. Dans la Bible hébraïque et la plupart des Bibles modernes, c'est le **Psaume 23**. C'est le même texte -- *Le Seigneur est mon berger*.

@@ -2,6 +2,7 @@
   "id": "fatima-prayer",
   "lang": "italian",
   "title": "Preghiera di Fatima",
+  "title_tooltip": "Fatima Prayer",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

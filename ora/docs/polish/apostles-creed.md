@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Wierzę w Boga
+# <span tooltip="Apostles' Creed">Wierzę w Boga</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

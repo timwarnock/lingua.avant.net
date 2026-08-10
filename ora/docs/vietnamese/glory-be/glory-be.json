@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "vietnamese",
   "title": "Kinh Sáng Danh",
+  "title_tooltip": "Glory Be",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

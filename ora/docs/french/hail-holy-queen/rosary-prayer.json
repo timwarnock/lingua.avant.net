@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "french",
   "title": "Prière du Rosaire",
+  "title_tooltip": "Rosary Prayer",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
     "rate": "-5%",

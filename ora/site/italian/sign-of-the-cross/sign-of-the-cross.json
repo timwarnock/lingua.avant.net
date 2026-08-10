@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "italian",
   "title": "Segno della Croce",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "it-IT-ElsaNeural",
     "rate": "-10%",

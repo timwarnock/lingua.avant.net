@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# イエスの祈り
+# <span tooltip="Iesu no inori = Jesus Prayer">イエスの祈り</span>
 
 <div class="prayer-interactive"
      data-prayer="jesus-prayer"

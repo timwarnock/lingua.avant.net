@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "polish",
   "title": "Zdrowaś, Królowo",
+  "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

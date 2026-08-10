@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "vietnamese",
   "title": "Lời Nguyện Mân Côi",
+  "title_tooltip": "Rosary Prayer",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

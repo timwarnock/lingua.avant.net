@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "chinese",
   "title": "天主經",
+  "title_tooltip": "Tiān Zhǔ Jīng = Our Father",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

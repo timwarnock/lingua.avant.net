@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "latin",
   "title": "Symbolum Apostolorum",
+  "title_tooltip": "Apostles' Creed",
   "tts": {
     "voice": "it-IT-DiegoNeural",
     "rate": "-15%",

@@ -2,6 +2,7 @@
   "id": "psalm-51",
   "lang": "japanese",
   "title": "詩篇第51篇",
+  "title_tooltip": "Shihen dai 51-hen = Psalm 51",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

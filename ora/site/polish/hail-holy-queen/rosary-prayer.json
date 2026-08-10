@@ -2,6 +2,7 @@
   "id": "rosary-prayer",
   "lang": "polish",
   "title": "Modlitwa Różańcowa",
+  "title_tooltip": "Rosary Prayer",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
     "rate": "-5%",

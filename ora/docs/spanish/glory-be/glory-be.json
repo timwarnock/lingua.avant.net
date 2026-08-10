@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "spanish",
   "title": "Gloria al Padre",
+  "title_tooltip": "Glory Be",
   "tts": {
     "voice": "es-ES-AlvaroNeural",
     "rate": "-6%",

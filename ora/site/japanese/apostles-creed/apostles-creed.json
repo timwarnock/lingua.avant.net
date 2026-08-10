@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "japanese",
   "title": "使徒信条",
+  "title_tooltip": "Shito shinjō = Apostles' Creed",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "portuguese",
   "title": "Credo Niceno",
+  "title_tooltip": "Nicene Creed",
   "tts": {
     "voice": "pt-BR-FranciscaNeural",
     "rate": "-5%",

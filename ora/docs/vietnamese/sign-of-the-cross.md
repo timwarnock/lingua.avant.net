@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Dấu Thánh Giá
+# <span tooltip="Sign of the Cross">Dấu Thánh Giá</span>
 
 <div class="prayer-interactive"
      data-prayer="sign-of-the-cross"

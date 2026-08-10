@@ -2,6 +2,7 @@
   "id": "nicene",
   "lang": "vietnamese",
   "title": "Kinh Tin Kính Nicea",
+  "title_tooltip": "Nicene Creed",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

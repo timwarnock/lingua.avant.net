@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "greek",
   "title": "Χαῖρε Μαρία",
+  "title_tooltip": "Chaíre María = Hail Mary",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

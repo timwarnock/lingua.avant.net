@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Thánh Vịnh 51
+# <span tooltip="Psalm 51">Thánh Vịnh 51</span>
 
 <div class="prayer-interactive"
      data-prayer="psalm-51"

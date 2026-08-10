@@ -2,6 +2,7 @@
   "id": "hail-mary",
   "lang": "chinese",
   "title": "聖母經",
+  "title_tooltip": "Shèng Mǔ Jīng = Hail Mary",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

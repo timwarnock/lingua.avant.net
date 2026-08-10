@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "english",
   "title": "Sign of the Cross",
+  "title_tooltip": "Signum Crucis",
   "tts": {
     "voice": "en-GB-SoniaNeural",
     "rate": "-5%",

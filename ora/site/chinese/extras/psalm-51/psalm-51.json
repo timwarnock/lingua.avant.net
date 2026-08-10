@@ -2,6 +2,7 @@
   "id": "psalm-51",
   "lang": "chinese",
   "title": "聖詠第五十一篇",
+  "title_tooltip": "Shèng Yǒng Dì Wǔ Shí Yī Piān = Psalm 51",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

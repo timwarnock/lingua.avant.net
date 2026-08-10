@@ -2,6 +2,7 @@
   "id": "apostles-creed",
   "lang": "greek",
   "title": "Σύμβολον τῶν Ἀποστόλων",
+  "title_tooltip": "Sýmbolon tōn Apostólōn = Apostles' Creed",
   "tts": {
     "voice": "el-GR-NestorasNeural",
     "rate": "-5%",

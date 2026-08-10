@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Σύμβολον Νικαίας
+# <span tooltip="Sýmbolon Nikaías = Nicene Creed">Σύμβολον Νικαίας</span>
 
 <div class="prayer-interactive"
  data-prayer="nicene"

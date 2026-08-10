@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Psaume 51
+# <span tooltip="Psalm 51">Psaume 51</span>
 
 !!! warning "<span tooltip='Psalm Numbering'>Numérotation du psaume</span>"
     Dans la Septante et la Vulgate, ce psaume est le **Psaume 50**. Dans la Bible hébraïque et la plupart des Bibles modernes, c'est le **Psaume 51**. C'est le même texte -- le *Miserere*.

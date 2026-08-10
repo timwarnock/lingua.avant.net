@@ -2,6 +2,7 @@
   "id": "glory-be",
   "lang": "chinese",
   "title": "聖三光榮經",
+  "title_tooltip": "Shèng Sān Guāng Róng Jīng = Glory Be",
   "tts": {
     "voice": "zh-CN-XiaoxiaoNeural",
     "rate": "-5%",

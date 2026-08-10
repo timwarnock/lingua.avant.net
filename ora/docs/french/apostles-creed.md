@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Je crois en Dieu
+# <span tooltip="Apostles' Creed">Je crois en Dieu</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

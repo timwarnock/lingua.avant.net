@@ -2,6 +2,7 @@
   "id": "sign-of-the-cross",
   "lang": "vietnamese",
   "title": "Dấu Thánh Giá",
+  "title_tooltip": "Sign of the Cross",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",

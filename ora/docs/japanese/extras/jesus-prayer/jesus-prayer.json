@@ -2,6 +2,7 @@
   "id": "jesus-prayer",
   "lang": "japanese",
   "title": "イエスの祈り",
+  "title_tooltip": "Iesu no inori = Jesus Prayer",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",

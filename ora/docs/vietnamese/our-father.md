@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Lạy Cha
+# <span tooltip="Our Father">Kinh Lạy Cha</span>
 
 <div class="prayer-interactive"
      data-prayer="our-father"

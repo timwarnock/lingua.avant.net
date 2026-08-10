@@ -2,6 +2,7 @@
   "id": "our-father",
   "lang": "german",
   "title": "Vater unser",
+  "title_tooltip": "Our Father",
   "tts": {
     "voice": "de-DE-KillianNeural",
     "rate": "-10%",

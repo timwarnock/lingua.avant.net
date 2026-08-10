@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Salve Rainha
+# <span tooltip="Hail, Holy Queen">Salve Rainha</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -10,7 +10,7 @@ icon: material/cross
 
 ---
 
-## Oração do Rosário
+## <span tooltip="Rosary Prayer">Oração do Rosário</span>
 
 <div class="prayer-interactive"
      data-prayer="rosary-prayer"

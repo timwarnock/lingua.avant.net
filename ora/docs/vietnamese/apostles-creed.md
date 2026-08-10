@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# Kinh Tin Kính
+# <span tooltip="Apostles' Creed">Kinh Tin Kính</span>
 
 <div class="prayer-interactive"
      data-prayer="apostles-creed"

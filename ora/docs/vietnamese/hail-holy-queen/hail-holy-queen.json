@@ -2,6 +2,7 @@
   "id": "hail-holy-queen",
   "lang": "vietnamese",
   "title": "Kinh Lạy Nữ Vương",
+  "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "vi-VN-NamMinhNeural",
     "rate": "+0%",
