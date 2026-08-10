@@ -28,16 +28,16 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "妳充滿聖寵。",
-          "phonetic": "Nǐ chōng mǎn shèng chǒng.",
+          "text": "妳充滿聖寵，",
+          "phonetic": "nǐ chōng mǎn shèng chǒng,",
           "timing": {
             "full": [
               1.182,
-              2.576
+              2.537
             ],
             "passage": [
               1.182,
-              2.576
+              2.537
             ]
           }
         },
@@ -47,12 +47,12 @@
           "phonetic": "Zhǔ yǔ nǐ tóng zài.",
           "timing": {
             "full": [
-              2.576,
-              4.289
+              2.537,
+              3.826
             ],
             "passage": [
-              2.576,
-              4.289
+              2.537,
+              3.826
             ]
           }
         }
@@ -67,8 +67,8 @@
           "phonetic": "Nǐ zài fù nǚ zhōng shòu zàn sòng,",
           "timing": {
             "full": [
-              4.289,
-              6.487
+              3.826,
+              6.026
             ],
             "passage": [
               0.0,
@@ -79,11 +79,11 @@
         {
           "passage_segment_id": "2b",
           "text": "妳的親子耶穌",
-          "phonetic": "Nǐ de qīn zǐ Yē sū",
+          "phonetic": "nǐ de qīn zǐ Yē sū",
           "timing": {
             "full": [
-              6.487,
-              7.934
+              6.026,
+              7.474
             ],
             "passage": [
               1.708,
@@ -94,11 +94,11 @@
         {
           "passage_segment_id": "2c",
           "text": "同受讚頌。",
-          "phonetic": "Tóng shòu zàn sòng.",
+          "phonetic": "tóng shòu zàn sòng.",
           "timing": {
             "full": [
-              7.934,
-              9.026
+              7.474,
+              8.566
             ],
             "passage": [
               3.155,
@@ -117,42 +117,27 @@
           "phonetic": "Tiān zhǔ shèng mǔ Mǎ lì yà,",
           "timing": {
             "full": [
-              9.026,
-              11.053
+              8.566,
+              10.539
             ],
             "passage": [
               0.0,
-              1.524
+              1.484
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "為我們罪人，",
-          "phonetic": "Wèi wǒ men zuì rén,",
+          "text": "求妳現在和我們臨終時，",
+          "phonetic": "qiú nǐ xiàn zài hé wǒ men lín zhōng shí,",
           "timing": {
             "full": [
-              11.053,
-              12.329
+              10.539,
+              12.882
             ],
             "passage": [
-              1.524,
-              2.8
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "求妳祈求天主。",
-          "phonetic": "Qiú nǐ qí qiú tiān zhǔ.",
-          "timing": {
-            "full": [
-              12.329,
-              13.868
-            ],
-            "passage": [
-              2.8,
-              4.339
+              1.484,
+              3.8
             ]
           }
         }
@@ -163,16 +148,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "現在和我們臨終時。",
-          "phonetic": "Xiàn zài hé wǒ men lín zhōng shí.",
+          "text": "為我們罪人祈求天主。",
+          "phonetic": "Wèi wǒ men zuì rén qí qiú tiān zhǔ.",
           "timing": {
             "full": [
-              13.868,
-              16.184
+              12.882,
+              14.829
             ],
             "passage": [
               0.0,
-              1.813
+              1.866
             ]
           }
         }
@@ -183,16 +168,16 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "阿門。",
+          "text": "阿們。",
           "phonetic": "Ā men.",
           "timing": {
             "full": [
-              16.184,
-              17.382
+              14.829,
+              15.974
             ],
             "passage": [
               0.0,
-              0.708
+              0.642
             ]
           }
         }

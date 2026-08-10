@@ -79,7 +79,7 @@ and this in Vietnamese passage 1 is "Kính mừng Maria, đầy ơn phúc, Đứ
 
 Each passage is broken into segments identified with letters after the passage number (e.g., 1a, 1b, etc); these are the shortest grammatical unit for that language, hail-mary passage 1 has three segment, 1a:"Ave Maria,"  1b:"gratia plena," 1c:"Dominus tecum."
 
-All languages MUST align on passages literally and exactly! The exact meaning for a given passage MUST match across all languages!
+All languages MUST align on passages! The exact meaning for a given passage should match across all languages (without having to change the official vatican wording)!
 
 Segments are not guaranteed to match due to grammatic and linguistic differences between laguages.
 
@@ -89,6 +89,8 @@ see [plan-prayer-mjs.md](plan-prayer-mjs.md) for details.
 ---
 
 ## TODO
+
++ audit all prayers, all languages, to official vatican sources
 
 + flashcards.mjs, add top chinese characters (currently broken at /zh)
 

@@ -210,8 +210,8 @@ I loaded John’s tone pair drills into a flashcard app:
 Most important, daily rosary will do wonders in training the ear and tongue for recognizing tone pairs. Try to identify the tone pairs in the different passages.
 
 !!! tip "<span tooltip='Shèng Mǔ Jīng = Hail Mary'>聖母經</span> [↗](../hail-mary/)"
-    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer;">萬福瑪利亞，妳充滿聖寵。主與妳同在。</span>  
-    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer;">Wàn fú Mǎ lì yà, nǐ chōng mǎn shèng chǒng. Zhǔ yǔ nǐ tóng zài.</span>
+    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer;">萬福瑪利亞，妳充滿聖寵，主與妳同在。</span>  
+    <span onclick="new Audio('../../hail-mary/hail-mary-1.mp3').play()" style="cursor:pointer;">Wàn fú Mǎ lì yà, nǐ chōng mǎn shèng chǒng, Zhǔ yǔ nǐ tóng zài.</span>
 
     This passage includes <span tooltip="wàn fú = ten thousand blessings">4-2 (萬福)</span>, <span tooltip="chōng mǎn = filled with">1-3 (充滿)</span>, <span tooltip="shèng chǒng = holy grace">4-3 (聖寵)</span>, and <span tooltip="tóng zài = together with">2-4 (同在)</span>.
 

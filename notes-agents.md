@@ -310,3 +310,14 @@ A/B listening with `it-IT-DiegoNeural` @ `-15%`. Prefer simpler monophthong when
 ## iOS app
 
 See `plan-ios.md` for Ora Pro Nobis native iPhone plan (aligned decisions, content bundling, App Store path).
+
+
+---
+
+## Chinese Hail Mary (聖母經) -- official text
+
+Restored exact official vernacular Chinese (Taiwan CRBC / Vatican News traditional), which differs in word order from English in the second half:
+
+Official: 萬福瑪利亞，妳充滿聖寵，主與妳同在。妳在婦女中受讚頌，妳的親子耶穌同受讚頌。天主聖母瑪利亞，求妳現在和我們臨終時，為我們罪人祈求天主。阿們。
+
+Passages 1-2 align cleanly with English. Passages 3-4 follow Chinese order (time phrase before "for us sinners"), so meaning is imperfect vs English P3/P4; Amen is 阿們 (matches other Chinese prayers, not 阿門).
