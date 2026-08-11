@@ -1,7 +1,7 @@
 {
   "id": "hail-holy-queen",
   "lang": "french",
-  "title": "Je vous salue, Reine",
+  "title": "Salut, ô Reine",
   "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "fr-FR-DeniseNeural",
@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Nous vous saluons, Reine,",
-          "phonetic": "Nous vous saluons, Reine,",
+          "text": "Salut, ô Reine,",
+          "phonetic": "Salut, ô Reine,",
           "timing": {
             "full": [
               0.0,
-              1.589
+              1.261
             ],
             "passage": [
               0.0,
-              1.603
+              1.261
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "Mère de miséricorde,",
           "timing": {
             "full": [
-              1.589,
-              3.076
+              1.261,
+              2.721
             ],
             "passage": [
-              1.603,
-              3.05
+              1.261,
+              2.721
             ]
           }
         },
@@ -48,42 +48,42 @@
           "phonetic": "notre vie,",
           "timing": {
             "full": [
-              3.076,
-              4.01
+              2.721,
+              3.642
             ],
             "passage": [
-              3.05,
-              3.971
+              2.721,
+              3.642
             ]
           }
         },
         {
           "passage_segment_id": "1d",
-          "text": "notre joie,",
-          "phonetic": "notre joie,",
+          "text": "notre consolation,",
+          "phonetic": "notre consolation,",
           "timing": {
             "full": [
-              4.01,
-              4.984
+              3.642,
+              5.05
             ],
             "passage": [
-              3.971,
-              4.932
+              3.642,
+              5.05
             ]
           }
         },
         {
           "passage_segment_id": "1e",
-          "text": "notre espérance, salut.",
-          "phonetic": "notre espérance, salut,",
+          "text": "notre espoir, salut !",
+          "phonetic": "notre espoir, salut !",
           "timing": {
             "full": [
-              4.984,
-              6.918
+              5.05,
+              6.853
             ],
             "passage": [
-              4.932,
-              6.892
+              5.05,
+              6.853
             ]
           }
         }
@@ -98,27 +98,27 @@
           "phonetic": "Enfants d'Ève,",
           "timing": {
             "full": [
-              6.918,
-              7.866
+              6.853,
+              8.592
             ],
             "passage": [
               0.0,
-              0.905
+              0.945
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "nous crions vers vous du fond de notre exil.",
-          "phonetic": "nous crions vers vous du fond de notre exil,",
+          "text": "de cette terre d'exil nous crions vers vous ;",
+          "phonetic": "de cette terre d'exil nous crions vers vous ;",
           "timing": {
             "full": [
-              7.866,
-              10.208
+              8.592,
+              10.776
             ],
             "passage": [
-              0.905,
-              3.353
+              0.945,
+              3.076
             ]
           }
         }
@@ -129,46 +129,46 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "Nous soupirons vers vous,",
-          "phonetic": "Nous soupirons vers vous,",
+          "text": "vers vous nous soupirons,",
+          "phonetic": "vers vous nous soupirons,",
           "timing": {
             "full": [
-              10.208,
-              11.642
+              10.776,
+              12.066
             ],
             "passage": [
               0.0,
-              1.287
+              1.326
             ]
           }
         },
         {
           "passage_segment_id": "3b",
           "text": "gémissant et pleurant",
-          "phonetic": "gémissant et pleurant,",
+          "phonetic": "gémissant et pleurant",
           "timing": {
             "full": [
-              11.642,
-              13.063
+              12.066,
+              13.526
             ],
             "passage": [
-              1.287,
-              2.734
+              1.326,
+              2.8
             ]
           }
         },
         {
           "passage_segment_id": "3c",
           "text": "dans cette vallée de larmes.",
-          "phonetic": "dans cette vallée de larmes,",
+          "phonetic": "dans cette vallée de larmes.",
           "timing": {
             "full": [
-              13.063,
-              14.511
+              13.526,
+              14.75
             ],
             "passage": [
-              2.734,
-              4.195
+              2.8,
+              4.05
             ]
           }
         }
@@ -179,46 +179,46 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "Ô vous notre avocate,",
-          "phonetic": "Ô vous notre avocate,",
+          "text": "Ô vous, notre Avocate,",
+          "phonetic": "Ô vous, notre Avocate,",
           "timing": {
             "full": [
-              14.511,
-              15.76
+              14.75,
+              17.263
             ],
             "passage": [
               0.0,
-              1.274
+              1.695
             ]
           }
         },
         {
           "passage_segment_id": "4b",
           "text": "tournez vers nous",
-          "phonetic": "tournez vers nous,",
+          "phonetic": "tournez vers nous",
           "timing": {
             "full": [
-              15.76,
-              16.839
+              17.263,
+              18.316
             ],
             "passage": [
-              1.274,
-              2.379
+              1.695,
+              2.747
             ]
           }
         },
         {
           "passage_segment_id": "4c",
-          "text": "vos regards miséricordieux.",
-          "phonetic": "vos regards miséricordieux,",
+          "text": "vos regards compatissants.",
+          "phonetic": "vos regards compatissants.",
           "timing": {
             "full": [
-              16.839,
-              18.497
+              18.316,
+              19.592
             ],
             "passage": [
-              2.379,
-              4.089
+              2.747,
+              4.024
             ]
           }
         }
@@ -229,46 +229,61 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Et après l'exil de cette vie,",
-          "phonetic": "Et après l'exil de cette vie,",
+          "text": "Et, après cet exil,",
+          "phonetic": "Et, après cet exil,",
           "timing": {
             "full": [
-              18.497,
-              20.168
+              19.592,
+              21.92
             ],
             "passage": [
               0.0,
-              1.588
+              1.522
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "montrez-nous",
-          "phonetic": "montrez-nous,",
+          "text": "obtenez-nous de contempler",
+          "phonetic": "obtenez-nous de contempler",
           "timing": {
             "full": [
-              20.168,
-              21.25
+              21.92,
+              23.512
             ],
             "passage": [
-              1.588,
-              2.562
+              1.522,
+              3.114
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "Jésus, le fruit béni de vos entrailles.",
-          "phonetic": "Jésus, le fruit béni de vos entrailles,",
+          "text": "Jésus,",
+          "phonetic": "Jésus,",
           "timing": {
             "full": [
-              21.25,
-              23.763
+              23.512,
+              23.907
             ],
             "passage": [
-              2.562,
-              5.141
+              3.114,
+              3.509
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "5d",
+          "text": "le fruit béni de vos entrailles.",
+          "phonetic": "le fruit béni de vos entrailles.",
+          "timing": {
+            "full": [
+              23.907,
+              25.788
+            ],
+            "passage": [
+              3.509,
+              5.391
             ]
           }
         }
@@ -279,46 +294,46 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "tendre,",
-          "phonetic": "tendre,",
+          "text": "Ô clémente,",
+          "phonetic": "Ô clémente,",
           "timing": {
             "full": [
-              23.763,
-              24.421
+              25.788,
+              27.382
             ],
             "passage": [
               0.0,
-              0.537
+              0.787
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "aimante,",
-          "phonetic": "aimante,",
+          "text": "ô miséricordieuse,",
+          "phonetic": "ô miséricordieuse,",
           "timing": {
             "full": [
-              24.421,
-              25.158
+              27.382,
+              28.776
             ],
             "passage": [
-              0.537,
-              1.261
+              0.787,
+              2.182
             ]
           }
         },
         {
           "passage_segment_id": "6c",
-          "text": "douce Vierge Marie.",
-          "phonetic": "douce Vierge Marie,",
+          "text": "ô douce Vierge Marie !",
+          "phonetic": "ô douce Vierge Marie !",
           "timing": {
             "full": [
-              25.158,
-              26.421
+              28.776,
+              30.145
             ],
             "passage": [
-              1.261,
-              2.484
+              2.182,
+              3.55
             ]
           }
         }
@@ -333,27 +348,27 @@
           "phonetic": "Priez pour nous,",
           "timing": {
             "full": [
-              26.421,
-              27.487
+              30.145,
+              31.921
             ],
             "passage": [
               0.0,
-              0.918
+              0.971
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "sainte Mère de Dieu.",
-          "phonetic": "sainte Mère de Dieu,",
+          "phonetic": "sainte Mère de Dieu.",
           "timing": {
             "full": [
-              27.487,
-              28.776
+              31.921,
+              33.224
             ],
             "passage": [
-              0.918,
-              2.195
+              0.971,
+              2.274
             ]
           }
         }
@@ -364,16 +379,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "Afin que nous soyons dignes des promesses de Jésus Christ.",
-          "phonetic": "Afin que nous soyons dignes des promesses de Jésus Christ,",
+          "text": "Afin que nous soyons dignes des promesses du Christ.",
+          "phonetic": "Afin que nous soyons dignes des promesses du Christ.",
           "timing": {
             "full": [
-              28.776,
-              33.079
+              33.224,
+              36.882
             ],
             "passage": [
               0.0,
-              3.05
+              2.84
             ]
           }
         }

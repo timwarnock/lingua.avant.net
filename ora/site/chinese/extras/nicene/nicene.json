@@ -469,31 +469,31 @@
         },
         {
           "passage_segment_id": "11b",
-          "text": "祂是主及賦予生命者，",
+          "text": "祂是主及賦與生命者，",
           "phonetic": "Tā shì Zhǔ jí fù yǔ shēng mìng zhě,",
           "timing": {
             "full": [
               58.816,
-              60.882
+              60.895
             ],
             "passage": [
               1.05,
-              3.116
+              3.129
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "由聖父所發。",
-          "phonetic": "yóu Shèng Fù suǒ fā.",
+          "text": "由聖父聖子所共發。",
+          "phonetic": "yóu Shèng Fù Shèng Zǐ suǒ gòng fā.",
           "timing": {
             "full": [
-              60.882,
-              62.224
+              60.895,
+              62.842
             ],
             "passage": [
-              3.116,
-              4.458
+              3.129,
+              5.076
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "Tā hé Shèng Fù Shèng Zǐ, tóng shòu qīn chóng, tóng xiǎng guāng róng,",
           "timing": {
             "full": [
-              62.224,
-              66.553
+              62.842,
+              67.171
             ],
             "passage": [
-              4.458,
-              8.789
+              5.076,
+              9.408
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "Tā céng jiè xiān zhī men fā yán.",
           "timing": {
             "full": [
-              66.553,
-              68.5
+              67.171,
+              69.118
             ],
             "passage": [
-              8.789,
-              10.737
+              9.408,
+              11.355
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "Wǒ xìn wéi yī, zhì shèng, zhì gōng, cóng zōng tú chuán xià lái de jiào huì.",
           "timing": {
             "full": [
-              68.5,
-              73.855
+              69.118,
+              74.474
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "Wǒ chéng rèn shè zuì de shèng xǐ,",
           "timing": {
             "full": [
-              73.855,
-              76.329
+              74.474,
+              76.947
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "zhǐ yǒu yī gè.",
           "timing": {
             "full": [
-              76.329,
-              77.355
+              76.947,
+              77.974
             ],
             "passage": [
               1.984,
@@ -593,8 +593,8 @@
           "phonetic": "Wǒ qī dài sǐ rén de fù huó,",
           "timing": {
             "full": [
-              77.355,
-              79.592
+              77.974,
+              80.211
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "jí lái shì de shēng mìng.",
           "timing": {
             "full": [
-              79.592,
-              81.053
+              80.211,
+              81.671
             ],
             "passage": [
               1.747,
@@ -624,16 +624,16 @@
       "segments": [
         {
           "passage_segment_id": "15a",
-          "text": "亞孟。",
-          "phonetic": "Yà mèng.",
+          "text": "阿們。",
+          "phonetic": "Ā men.",
           "timing": {
             "full": [
-              81.053,
-              82.263
+              81.671,
+              82.816
             ],
             "passage": [
               0.0,
-              0.708
+              0.642
             ]
           }
         }

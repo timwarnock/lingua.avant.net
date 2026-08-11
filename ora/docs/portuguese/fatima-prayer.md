@@ -12,7 +12,7 @@ icon: material/cross
 
 **Português**
 
-Ó mój Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai ao Céu todas as almas, principalmente as que mais precisarem da vossa misericórdia.
+Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o Céu, principalmente as que mais precisarem da vossa misericórdia. Amém.
 
 **English**
 

@@ -139,7 +139,7 @@
           "timing": {
             "full": [
               11.316,
-              12.882
+              12.895
             ],
             "passage": [
               0.0,
@@ -158,42 +158,42 @@
           "phonetic": "Pontio Pirato no moto de kurushimi o uke,",
           "timing": {
             "full": [
-              12.882,
-              15.421
+              12.895,
+              15.434
             ],
             "passage": [
               0.0,
-              2.392
+              2.405
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "十字架につけられ、",
-          "phonetic": "jūjika ni tsukerare,",
+          "text": "十字架につけられて死に、",
+          "phonetic": "jūjika ni tsukerarete shini,",
           "timing": {
             "full": [
-              15.421,
-              16.934
+              15.434,
+              17.263
             ],
             "passage": [
-              2.392,
-              3.932
+              2.405,
+              4.405
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "死んで葬られ、",
-          "phonetic": "shinde hōmurare,",
+          "text": "葬られ、",
+          "phonetic": "hōmurare,",
           "timing": {
             "full": [
-              16.934,
-              18.316
+              17.263,
+              18.263
             ],
             "passage": [
-              3.932,
-              5.484
+              4.405,
+              5.445
             ]
           }
         }
@@ -204,16 +204,16 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "陰府にくだり、",
-          "phonetic": "infu ni kudari,",
+          "text": "陰府（よみ）に下り、",
+          "phonetic": "yomi ni kudari,",
           "timing": {
             "full": [
-              18.316,
-              19.553
+              18.263,
+              20.211
             ],
             "passage": [
               0.0,
-              1.063
+              1.892
             ]
           }
         }
@@ -228,8 +228,8 @@
           "phonetic": "mikka me ni shisha no uchi kara fukkatsu shi,",
           "timing": {
             "full": [
-              19.553,
-              22.0
+              20.211,
+              22.697
             ],
             "passage": [
               0.0,
@@ -248,8 +248,8 @@
           "phonetic": "ten ni nobotte,",
           "timing": {
             "full": [
-              22.0,
-              23.25
+              22.697,
+              23.96
             ],
             "passage": [
               0.0,
@@ -264,16 +264,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "全能の父である神の右に座り、",
-          "phonetic": "zen'nō no chichi de aru Kami no migi ni zawari,",
+          "text": "全能の父である神の右の座に着き、",
+          "phonetic": "zen'nō no chichi de aru Kami no migi no za ni tsuki,",
           "timing": {
             "full": [
-              23.25,
-              25.974
+              23.96,
+              26.868
             ],
             "passage": [
               0.0,
-              2.497
+              2.655
             ]
           }
         }
@@ -284,16 +284,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "そこから生者と死者を裁くために来られます。",
-          "phonetic": "soko kara seisha to shisha o sabaku tame ni koraremasu.",
+          "text": "生者と死者を裁くために来られます。",
+          "phonetic": "seisha to shisha o sabaku tame ni koraremasu.",
           "timing": {
             "full": [
-              25.974,
-              29.092
+              26.868,
+              29.513
             ],
             "passage": [
               0.0,
-              3.05
+              2.497
             ]
           }
         }
@@ -304,16 +304,16 @@
       "segments": [
         {
           "passage_segment_id": "11a",
-          "text": "聖霊を信じます。",
-          "phonetic": "Seirei o shinjimasu.",
+          "text": "聖霊を信じ、",
+          "phonetic": "Seirei o shinji,",
           "timing": {
             "full": [
-              29.092,
-              31.276
+              29.513,
+              31.421
             ],
             "passage": [
               0.0,
-              1.484
+              1.195
             ]
           }
         },
@@ -323,12 +323,12 @@
           "phonetic": "seinaru fuhen no kyōkai,",
           "timing": {
             "full": [
-              31.276,
-              33.684
+              31.421,
+              33.329
             ],
             "passage": [
-              1.484,
-              3.895
+              1.195,
+              3.103
             ]
           }
         },
@@ -338,57 +338,57 @@
           "phonetic": "seito no majiwari,",
           "timing": {
             "full": [
-              33.684,
-              35.145
+              33.329,
+              34.763
             ],
             "passage": [
-              3.895,
-              5.342
+              3.103,
+              4.537
             ]
           }
         },
         {
           "passage_segment_id": "11d",
-          "text": "罪の赦し、",
+          "text": "罪のゆるし、",
           "phonetic": "tsumi no yurushi,",
           "timing": {
             "full": [
-              35.145,
-              36.461
+              34.763,
+              36.105
             ],
             "passage": [
-              5.342,
-              6.658
+              4.537,
+              5.879
             ]
           }
         },
         {
           "passage_segment_id": "11e",
-          "text": "肉体の復活、",
-          "phonetic": "nikutai no fukkatsu,",
+          "text": "からだの復活、",
+          "phonetic": "karada no fukkatsu,",
           "timing": {
             "full": [
-              36.461,
-              38.105
+              36.105,
+              37.632
             ],
             "passage": [
-              6.658,
-              8.303
+              5.879,
+              7.405
             ]
           }
         },
         {
           "passage_segment_id": "11f",
-          "text": "永遠のいのちを信じます,",
-          "phonetic": "eien no inochi o shinjimasu,",
+          "text": "永遠のいのちを信じます。",
+          "phonetic": "eien no inochi o shinjimasu.",
           "timing": {
             "full": [
-              38.105,
-              40.303
+              37.632,
+              39.789
             ],
             "passage": [
-              8.303,
-              10.513
+              7.405,
+              9.563
             ]
           }
         }
@@ -403,8 +403,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              40.303,
-              41.237
+              39.789,
+              41.184
             ],
             "passage": [
               0.0,

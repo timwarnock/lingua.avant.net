@@ -12,7 +12,7 @@ icon: material/cross
 
 **Português**
 
-Glória ao Pai, ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre, pelos séculos dos séculos. Amém.
+Glória ao Pai, ao Filho, e ao Espírito Santo. Como era no princípio, agora e sempre, pelos séculos dos séculos. Amém.
 
 **English**
 

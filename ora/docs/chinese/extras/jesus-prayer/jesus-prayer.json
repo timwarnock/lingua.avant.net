@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              1.142
+              1.155
             ],
             "passage": [
               0.0,
@@ -33,7 +33,7 @@
           "phonetic": "Tiān zhǔ zhī zǐ,",
           "timing": {
             "full": [
-              1.142,
+              1.155,
               2.339
             ],
             "passage": [
@@ -49,16 +49,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "求你垂憐我，",
+          "text": "求祢垂憐我，",
           "phonetic": "Qiú nǐ chuí lián wǒ,",
           "timing": {
             "full": [
               2.339,
-              3.642
+              3.708
             ],
             "passage": [
               0.0,
-              1.168
+              1.247
             ]
           }
         },
@@ -68,12 +68,12 @@
           "phonetic": "zuì rén.",
           "timing": {
             "full": [
-              3.642,
-              4.458
+              3.708,
+              4.511
             ],
             "passage": [
-              1.168,
-              1.971
+              1.247,
+              2.05
             ]
           }
         }

@@ -15,30 +15,30 @@
         {
           "passage_segment_id": "1a",
           "text": "Lạy Chúa Giêsu,",
-          "phonetic": "Lạy Chúa Giê-su,",
+          "phonetic": "Lạy Chúa Giêsu,",
           "timing": {
             "full": [
               0.0,
-              1.25
+              0.988
             ],
             "passage": [
               0.0,
-              1.325
+              1.025
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "xin tha tội chúng con,",
-          "phonetic": "xin tha tội chúng con,",
+          "text": "xin tha tội cho chúng con,",
+          "phonetic": "xin tha tội cho chúng con,",
           "timing": {
             "full": [
-              1.25,
-              2.538
+              0.988,
+              2.375
             ],
             "passage": [
-              1.325,
-              2.8
+              1.025,
+              2.625
             ]
           }
         }
@@ -49,16 +49,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "xin cứu chúng con khỏi lửa hỏa ngục,",
-          "phonetic": "xin cứu chúng con khỏi lửa hỏa ngục,",
+          "text": "xin cứu chúng con khỏi sa hỏa ngục,",
+          "phonetic": "xin cứu chúng con khỏi sa hỏa ngục,",
           "timing": {
             "full": [
-              2.538,
-              4.45
+              2.375,
+              4.275
             ],
             "passage": [
               0.0,
-              2.138
+              2.1
             ]
           }
         }
@@ -69,16 +69,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "xin đưa các linh hồn lên thiên đàng,",
-          "phonetic": "xin đưa các linh hồn lên thiên đàng,",
+          "text": "xin đem các linh hồn lên thiên đàng,",
+          "phonetic": "xin đem các linh hồn lên thiên đàng,",
           "timing": {
             "full": [
-              4.45,
-              6.4
+              4.275,
+              6.263
             ],
             "passage": [
               0.0,
-              2.125
+              2.15
             ]
           }
         }
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "nhất là những linh hồn cần đến lòng thương xót của Chúa hơn hết.",
-          "phonetic": "nhất là những linh hồn cần đến lòng thương xót của Chúa hơn hết.",
+          "text": "nhất là những linh hồn cần đến lòng Chúa thương xót hơn.",
+          "phonetic": "nhất là những linh hồn cần đến lòng Chúa thương xót hơn.",
           "timing": {
             "full": [
-              6.4,
-              9.5
+              6.263,
+              9.088
             ],
             "passage": [
               0.0,
-              3.237
+              2.913
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              9.5,
-              10.912
+              9.088,
+              10.5
             ],
             "passage": [
               0.0,

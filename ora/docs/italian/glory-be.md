@@ -12,7 +12,7 @@ icon: material/cross
 
 **Italiano**
 
-Gloria al Padre e al Figlio e allo Spirito Santo. Come era nel principio, ora e sempre, nei secoli dei secoli. Amen.
+Gloria al Padre e al Figlio e allo Spirito Santo. Come era nel principio e ora e sempre, nei secoli dei secoli. Amen.
 
 **English**
 

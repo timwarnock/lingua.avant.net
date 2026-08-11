@@ -29,16 +29,16 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "Salmo. De Davide.",
-          "phonetic": "Salmo. De Davide.",
+          "text": "Salmo de David.",
+          "phonetic": "Salmo de David.",
           "timing": {
             "full": [
               1.26,
-              3.329
+              2.842
             ],
             "passage": [
               1.26,
-              3.329
+              2.842
             ]
           }
         }
@@ -53,8 +53,8 @@
           "phonetic": "Quando o profeta Natan foi ter com ele,",
           "timing": {
             "full": [
-              3.329,
-              5.645
+              2.842,
+              5.158
             ],
             "passage": [
               0.0,
@@ -68,8 +68,8 @@
           "phonetic": "depois de haver pecado com Betsabé.",
           "timing": {
             "full": [
-              5.645,
-              7.724
+              5.158,
+              7.237
             ],
             "passage": [
               2.142,
@@ -88,8 +88,8 @@
           "phonetic": "Tem piedade de mim, ó Deus,",
           "timing": {
             "full": [
-              7.724,
-              9.974
+              7.237,
+              9.487
             ],
             "passage": [
               0.0,
@@ -103,8 +103,8 @@
           "phonetic": "segundo a tua misericórdia;",
           "timing": {
             "full": [
-              9.974,
-              11.579
+              9.487,
+              11.092
             ],
             "passage": [
               2.076,
@@ -118,8 +118,8 @@
           "phonetic": "segundo a multidão das tuas clemências,",
           "timing": {
             "full": [
-              11.579,
-              14.105
+              11.092,
+              13.618
             ],
             "passage": [
               3.682,
@@ -133,8 +133,8 @@
           "phonetic": "apaga a minha iniquidade.",
           "timing": {
             "full": [
-              14.105,
-              15.763
+              13.618,
+              15.276
             ],
             "passage": [
               6.208,
@@ -153,8 +153,8 @@
           "phonetic": "Lava-me inteiramente da minha culpa,",
           "timing": {
             "full": [
-              15.763,
-              18.04
+              15.276,
+              17.553
             ],
             "passage": [
               0.0,
@@ -168,8 +168,8 @@
           "phonetic": "purifica-me do meu pecado.",
           "timing": {
             "full": [
-              18.04,
-              19.868
+              17.553,
+              19.382
             ],
             "passage": [
               2.103,
@@ -188,8 +188,8 @@
           "phonetic": "Porque eu reconheço a minha maldade,",
           "timing": {
             "full": [
-              19.868,
-              22.0
+              19.382,
+              21.513
             ],
             "passage": [
               0.0,
@@ -203,8 +203,8 @@
           "phonetic": "e o meu pecado está sempre diante de mim.",
           "timing": {
             "full": [
-              22.0,
-              24.342
+              21.513,
+              23.855
             ],
             "passage": [
               1.958,
@@ -223,8 +223,8 @@
           "phonetic": "Pequei contra ti só,",
           "timing": {
             "full": [
-              24.342,
-              25.842
+              23.855,
+              25.355
             ],
             "passage": [
               0.0,
@@ -238,8 +238,8 @@
           "phonetic": "fiz o que é mau diante dos teus olhos,",
           "timing": {
             "full": [
-              25.842,
-              28.21
+              25.355,
+              27.724
             ],
             "passage": [
               1.326,
@@ -253,27 +253,27 @@
           "phonetic": "para que te manifestes justo na tua sentença,",
           "timing": {
             "full": [
-              28.21,
-              31.053
+              27.724,
+              30.605
             ],
             "passage": [
               3.695,
-              6.537
+              6.576
             ]
           }
         },
         {
           "passage_segment_id": "6d",
-          "text": "recto no teu juízo.",
-          "phonetic": "recto no teu juízo.",
+          "text": "reto no teu juízo.",
+          "phonetic": "reto no teu juízo.",
           "timing": {
             "full": [
-              31.053,
-              32.539
+              30.605,
+              32.013
             ],
             "passage": [
-              6.537,
-              8.024
+              6.576,
+              7.984
             ]
           }
         }
@@ -288,8 +288,8 @@
           "phonetic": "Eis que nasci na culpa,",
           "timing": {
             "full": [
-              32.539,
-              34.053
+              32.013,
+              33.526
             ],
             "passage": [
               0.0,
@@ -303,8 +303,8 @@
           "phonetic": "e minha mãe concebeu-me no pecado.",
           "timing": {
             "full": [
-              34.053,
-              36.132
+              33.526,
+              35.605
             ],
             "passage": [
               1.339,
@@ -323,8 +323,8 @@
           "phonetic": "Eis que te comprazes na sinceridade do coração,",
           "timing": {
             "full": [
-              36.132,
-              39.118
+              35.605,
+              38.592
             ],
             "passage": [
               0.0,
@@ -334,15 +334,30 @@
         },
         {
           "passage_segment_id": "8b",
-          "text": "e no meu íntimo me ensinas a sabedoria.",
-          "phonetic": "e no meu íntimo me ensinas a sabedoria.",
+          "text": "e no meu íntimo",
+          "phonetic": "e no meu íntimo",
           "timing": {
             "full": [
-              39.118,
-              41.539
+              38.592,
+              39.592
             ],
             "passage": [
               2.813,
+              3.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "8c",
+          "text": "me ensinas a sabedoria.",
+          "phonetic": "me ensinas a sabedoria.",
+          "timing": {
+            "full": [
+              39.592,
+              41.013
+            ],
+            "passage": [
+              3.813,
               5.234
             ]
           }
@@ -354,30 +369,60 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Asperge-me com o hissope, e serei purificado;",
-          "phonetic": "Asperge-me com o hissope, e serei purificado;",
+          "text": "Asperge-me com o hissope,",
+          "phonetic": "Asperge-me com o hissope,",
           "timing": {
             "full": [
-              41.539,
-              44.763
+              41.013,
+              42.803
             ],
             "passage": [
               0.0,
-              3.05
+              1.616
             ]
           }
         },
         {
           "passage_segment_id": "9b",
-          "text": "lava-me, e me tornarei mais branco que a neve.",
-          "phonetic": "lava-me, e me tornarei mais branco que a neve.",
+          "text": "e serei purificado;",
+          "phonetic": "e serei purificado;",
           "timing": {
             "full": [
-              44.763,
-              47.658
+              42.803,
+              44.237
+            ],
+            "passage": [
+              1.616,
+              3.05
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "lava-me,",
+          "phonetic": "lava-me,",
+          "timing": {
+            "full": [
+              44.237,
+              44.842
             ],
             "passage": [
               3.05,
+              3.655
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "e me tornarei mais branco que a neve.",
+          "phonetic": "e me tornarei mais branco que a neve.",
+          "timing": {
+            "full": [
+              44.842,
+              47.132
+            ],
+            "passage": [
+              3.655,
               5.945
             ]
           }
@@ -393,8 +438,8 @@
           "phonetic": "Faz-me sentir gozo e alegria,",
           "timing": {
             "full": [
-              47.658,
-              49.947
+              47.132,
+              49.421
             ],
             "passage": [
               0.0,
@@ -408,8 +453,8 @@
           "phonetic": "exultem os ossos que trituraste.",
           "timing": {
             "full": [
-              49.947,
-              51.974
+              49.421,
+              51.447
             ],
             "passage": [
               2.116,
@@ -428,8 +473,8 @@
           "phonetic": "Aparta o teu rosto dos meus pecados",
           "timing": {
             "full": [
-              51.974,
-              54.368
+              51.447,
+              53.841
             ],
             "passage": [
               0.0,
@@ -443,8 +488,8 @@
           "phonetic": "e apaga todas as minhas culpas.",
           "timing": {
             "full": [
-              54.368,
-              56.46
+              53.841,
+              55.934
             ],
             "passage": [
               2.22,
@@ -463,8 +508,8 @@
           "phonetic": "Cria em mim, ó Deus, um coração puro",
           "timing": {
             "full": [
-              56.46,
-              59.224
+              55.934,
+              58.697
             ],
             "passage": [
               0.0,
@@ -478,8 +523,8 @@
           "phonetic": "e renova em mim um espírito firme.",
           "timing": {
             "full": [
-              59.224,
-              61.171
+              58.697,
+              60.645
             ],
             "passage": [
               2.589,
@@ -498,8 +543,8 @@
           "phonetic": "Não me arremesses da tua presença",
           "timing": {
             "full": [
-              61.171,
-              63.316
+              60.645,
+              62.789
             ],
             "passage": [
               0.0,
@@ -513,8 +558,8 @@
           "phonetic": "e não retires de mim o teu espírito santo.",
           "timing": {
             "full": [
-              63.316,
-              65.697
+              62.789,
+              65.171
             ],
             "passage": [
               1.971,
@@ -533,8 +578,8 @@
           "phonetic": "Dá-me a alegria da tua salvação",
           "timing": {
             "full": [
-              65.697,
-              67.96
+              65.171,
+              67.434
             ],
             "passage": [
               0.0,
@@ -548,8 +593,8 @@
           "phonetic": "e revigora-me com um espírito generoso.",
           "timing": {
             "full": [
-              67.96,
-              70.237
+              67.434,
+              69.711
             ],
             "passage": [
               2.089,
@@ -568,8 +613,8 @@
           "phonetic": "Ensinarei aos iníquos os teus caminhos,",
           "timing": {
             "full": [
-              70.237,
-              72.724
+              69.711,
+              72.197
             ],
             "passage": [
               0.0,
@@ -583,8 +628,8 @@
           "phonetic": "e os pecadores se converterão a ti.",
           "timing": {
             "full": [
-              72.724,
-              74.908
+              72.197,
+              74.382
             ],
             "passage": [
               2.313,
@@ -603,8 +648,8 @@
           "phonetic": "Livra-me da pena do sangue, ó Deus,",
           "timing": {
             "full": [
-              74.908,
-              77.395
+              74.382,
+              76.868
             ],
             "passage": [
               0.0,
@@ -618,8 +663,8 @@
           "phonetic": "Deus meu salvador;",
           "timing": {
             "full": [
-              77.395,
-              78.592
+              76.868,
+              78.066
             ],
             "passage": [
               2.313,
@@ -633,8 +678,8 @@
           "phonetic": "a minha língua exulte com a tua justiça.",
           "timing": {
             "full": [
-              78.592,
-              81.105
+              78.066,
+              80.579
             ],
             "passage": [
               3.511,
@@ -653,8 +698,8 @@
           "phonetic": "Senhor, abrirás os meus lábios,",
           "timing": {
             "full": [
-              81.105,
-              83.487
+              80.579,
+              82.961
             ],
             "passage": [
               0.0,
@@ -668,8 +713,8 @@
           "phonetic": "e a minha boca anunciará os teus louvores.",
           "timing": {
             "full": [
-              83.487,
-              86.158
+              82.961,
+              85.632
             ],
             "passage": [
               2.208,
@@ -688,8 +733,8 @@
           "phonetic": "Com efeito, não te apraz o sacrifício;",
           "timing": {
             "full": [
-              86.158,
-              88.658
+              85.632,
+              88.132
             ],
             "passage": [
               0.0,
@@ -699,15 +744,30 @@
         },
         {
           "passage_segment_id": "18b",
-          "text": "e se te oferecesse um holocausto, não o aceitarias.",
-          "phonetic": "e se te oferecesse um holocausto, não o aceitarias.",
+          "text": "e se te oferecesse um holocausto,",
+          "phonetic": "e se te oferecesse um holocausto,",
           "timing": {
             "full": [
-              88.658,
-              91.671
+              88.132,
+              90.0
             ],
             "passage": [
               2.326,
+              4.195
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "não o aceitarias.",
+          "phonetic": "não o aceitarias.",
+          "timing": {
+            "full": [
+              90.0,
+              91.145
+            ],
+            "passage": [
+              4.195,
               5.34
             ]
           }
@@ -723,8 +783,8 @@
           "phonetic": "O meu sacrifício, ó Deus, é um espírito contrito:",
           "timing": {
             "full": [
-              91.671,
-              94.987
+              91.145,
+              94.461
             ],
             "passage": [
               0.0,
@@ -738,8 +798,8 @@
           "phonetic": "não desprezarias, ó Deus,",
           "timing": {
             "full": [
-              94.987,
-              96.947
+              94.461,
+              96.421
             ],
             "passage": [
               3.142,
@@ -753,8 +813,8 @@
           "phonetic": "um coração contrito e humilhado.",
           "timing": {
             "full": [
-              96.947,
-              99.039
+              96.421,
+              98.513
             ],
             "passage": [
               5.103,
@@ -769,27 +829,42 @@
       "segments": [
         {
           "passage_segment_id": "20a",
-          "text": "Senhor, sê benigno com Sião por tua bondade,",
-          "phonetic": "Senhor, sê benigno com Sião por tua bondade,",
+          "text": "Senhor, sê benigno com Sião",
+          "phonetic": "Senhor, sê benigno com Sião",
           "timing": {
             "full": [
-              99.039,
-              102.355
+              98.513,
+              100.737
             ],
             "passage": [
               0.0,
-              3.142
+              2.05
             ]
           }
         },
         {
           "passage_segment_id": "20b",
+          "text": "por tua bondade,",
+          "phonetic": "por tua bondade,",
+          "timing": {
+            "full": [
+              100.737,
+              101.829
+            ],
+            "passage": [
+              2.05,
+              3.142
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
           "text": "reconstruindo os muros de Jerusalém.",
           "phonetic": "reconstruindo os muros de Jerusalém.",
           "timing": {
             "full": [
-              102.355,
-              104.618
+              101.829,
+              104.092
             ],
             "passage": [
               3.142,
@@ -808,8 +883,8 @@
           "phonetic": "Então aceitarás os sacrifícios legítimos,",
           "timing": {
             "full": [
-              104.618,
-              107.553
+              104.092,
+              107.026
             ],
             "passage": [
               0.0,
@@ -823,8 +898,8 @@
           "phonetic": "as oferendas e os holocaustos;",
           "timing": {
             "full": [
-              107.553,
-              109.368
+              107.026,
+              108.842
             ],
             "passage": [
               2.76,
@@ -838,8 +913,8 @@
           "phonetic": "então oferecerão bezerros sobre o teu altar.",
           "timing": {
             "full": [
-              109.368,
-              112.013
+              108.842,
+              111.487
             ],
             "passage": [
               4.576,

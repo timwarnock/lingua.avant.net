@@ -12,7 +12,7 @@ icon: material/cross
 
 **Italiano**
 
-Ave Maria, piena di grazia, il Signore è con te. Tu sei benedetta fra le donne, e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.
+Ave o Maria, piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del seno tuo, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.
 
 **English**
 

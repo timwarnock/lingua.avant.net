@@ -86,6 +86,7 @@ Each language keeps its own history, inventory, and systems. Structure follows w
 - [x] fsi.md
 - [x] introverts.md
 - [x] pronunciation.md
+- [x] English rosary prayers audited vs Vatican/USCCB/EWTN/DRA/KJV (2026-08-10): fixed Nicene Filioque; Fatima "those most in need"; psalm-51 MD casing to DRA
 
 ### Spanish
 
@@ -321,3 +322,130 @@ Restored exact official vernacular Chinese (Taiwan CRBC / Vatican News tradition
 Official: 萬福瑪利亞，妳充滿聖寵，主與妳同在。妳在婦女中受讚頌，妳的親子耶穌同受讚頌。天主聖母瑪利亞，求妳現在和我們臨終時，為我們罪人祈求天主。阿們。
 
 Passages 1-2 align cleanly with English. Passages 3-4 follow Chinese order (time phrase before "for us sinners"), so meaning is imperfect vs English P3/P4; Amen is 阿們 (matches other Chinese prayers, not 阿門).
+
+## Latin prayer audit (2026-08-10)
+- Fixed Nicene Filioque + exspecto (Missale Romanum)
+- Fixed Fatima: added animas; eas quae (no single official Latin exists)
+- Fixed Salve: Genetrix; Rosary prayer: sacratissimo; moved concede to P3
+- Removed orphan mp3s (apostles-creed, our-father, rosary-prayer-2f)
+- Regenerated audio: nicene, fatima, hail-holy-queen, rosary-prayer
+- English Nicene still lacks "and the Son" (Filioque) for 1:1 with fixed Latin
+
+## German prayer audit 2026-08-10
+Audited all DE rosary + extras against DBK/Vatican DE/EÜ.
+FIXED: sign-of-the-cross (no commas), hail-holy-queen (Wonne/Vatican text), rosary-prayer P3 order, psalm-23 EÜ1980 wording, psalm-51 MD synced to JSON.
+OK: apostles-creed, our-father, hail-mary, glory-be, fatima, jesus-prayer, nicene.
+Audio regenerated for fixed JSON text prayers.
+
+---
+
+## Chinese prayer audit (2026-08-10)
+
+Audited Traditional Chinese rosary/extras against CRBC Taiwan, Vatican News zht, Legion of Mary HK, and Sigao Bible.
+
+FIXED:
+- nicene: Filioque 由聖父聖子所共發; 賦與; 亞孟->阿們
+- hail-holy-queen: 甘貽->甘飴; appended 阿們 to last segment
+- jesus-prayer: 你->祢 for address to God
+- psalm-23: aligned to Sigao (心靈得到舒暢 / 名號的原由 / 凶險 / 安慰舒暢)
+- psalm-51: 除淨。->除淨， per Sigao punctuation
+- apostles-creed: phonetic 衪 Qí->Tā only
+
+OK (no text change): sign-of-the-cross, our-father, hail-mary, glory-be, fatima (LoM HK form), rosary-prayer, apostles-creed body (Vatican News zht continuous form)
+
+Audio regenerated for fixed prayers via generate-rosary-audio.py.
+
+## Polish prayer audit (2026-08-10)
+Audited ora/docs/polish against KEP 2020 unified texts + Biblia Tysiąclecia + traditional creed.
+Fixed: our-father (ode złego), hail-mary (Twojego), fatima (KEP wording), hail-holy-queen (Witaj/synowie Ewy/Twojego), nicene (Filioque, dnia trzeciego), psalm-23 (BT), punctuation on several. Regenerated audio. Removed orphan hail-holy-queen-4c.mp3.
+
+---
+
+## Portuguese prayer audit (2026-08-10)
+
+Form used: Brazilian Portuguese (BP) official/devotional Catholic sources, consistent with `pt-BR-FranciscaNeural` voice.
+
+Sources:
+- Vatican News PT orações (Pai Nosso, Ave Maria, Glória, Credo, Salve Rainha)
+- Canção Nova / Santuário do Pai das Misericórdias (terço pages)
+- Santuário de Fátima (fatima.pt) for Oração de Fátima
+- Legion of Mary Portuguese for rosary closing (Ó Deus, cujo Filho Unigênito...)
+- Traditional liturgical Portuguese for psalms (with BP orthography: retos, hão de)
+
+Notes:
+- Apostles Creed keeps traditional "desceu aos infernos" (EN "hell"; ES/FR same traditional form). Modern Missal PT often "mansão dos mortos".
+- Nicene omits Filioque in segment 11c to match EN/ES/FR/LA passage structure (official Vatican News PT has "e do Filho").
+- Glory Be keeps "pelos séculos dos séculos" for EN "world without end" (Canção Nova short form omits it).
+- Fatima keeps "da vossa misericórdia" for EN passage 4 meaning; core wording from Santuário de Fátima "levai as almas todas para o Céu".
+
+---
+
+## Japanese prayer audit (2026-08-10)
+
+Audited all Japanese rosary prayers under `ora/docs/japanese/` against CBCJ / Tokyo Archdiocese / 新共同訳 sources. Fixed JSON + MD + regenerated audio (ja-JP-KeitaNeural). Orphan mp3s removed where segment ids changed (hail-mary-3c, hail-holy-queen-5c/6d, psalm-51-8c).
+
+Key official sources:
+- CBCJ アヴェ・マリア: https://www.cbcj.catholic.jp/2011/06/14/5759/
+- CBCJ ニケア: https://www.cbcj.catholic.jp/2004/02/18/7451/
+- Tokyo 祈りのガイド: https://tokyo.catholic.jp/religious-life/prayer-guide/
+- Compendium 元后あわれみの母 (CBCJ 2010)
+- 新共同訳 for psalms
+
+
+---
+
+## Greek rosary prayer audit (2026-08-10)
+
+Audited all 12 Greek rosary/extra prayers against Byzantine / Greek Catholic / LXX sources.
+
+**Display convention:** TTS-safe monotonic Greek in `text` (edge-tts); Latin-script modern pronunciation in `phonetic`; `tts.input` = `text`.
+
+**Key source fixes:**
+- Sign of the Cross: `Εν ονόματι` → official `Εις το όνομα` (Mt 28:19 / GOARCH baptism).
+- Our Father: accents + official liturgical forms (Orthodox Prayer / Matthew).
+- Glory Be: Eastern Byzantine form kept (`και νυν και αεί...`, no Western "sicut erat").
+- Psalm 23 (LXX 22): `καταδιώξει`, added `με` in cup line, nu-movable cleanup (septuagint.bible).
+- Nicene: Byzantine Πιστεύω form, no Filioque; kept `Θεόν εκ Θεού` for EN passage alignment (Nicaea 325 / Latin).
+- Hail Holy Queen / Rosary / Fatima: Latin-origin learned Koine polish (accents, grammar); no single Byzantine official.
+
+Audio regenerated for all 12. Letter-spelling detector: 0 FLAG.
+
+
+---
+
+## Full prayer audit (2026-08-10)
+
+12 language subagents audited all rosary + extras prayers against official Catholic sources (Vatican / national bishops / liturgical books). Method: exact official text first, then best-effort passage/segment alignment (same as Chinese Hail Mary).
+
+### Critical cross-cutting fix: Nicene Filioque
+Catholic languages now include Filioque (EN, LA, FR, DE, IT, ES, PL, PT, ZH, JA, VI). Greek correctly omits (Byzantine form).
+
+### Highest-impact language fixes (selected)
+- **EN**: Fatima wording; Nicene Filioque
+- **LA**: Fatima *animas*; Genetrix; Nicene Filioque + *exspecto*
+- **ZH**: HHQ 甘飴 + Amen; Jesus Prayer 祢; Nicene Filioque; Sigao Ps 23/51
+- **FR**: Notre Père 2017; Hail Mary grâce + pauvres pécheurs; full CEF Salut ô Reine; Filioque
+- **DE**: Salve *unsre Wonne*; Sign of Cross commas; EÜ Ps 23
+- **EL**: Sign formula Εις το όνομα; Salve *συνήγορος*; Oremus; LXX Ps 23; all audio regen; Eastern Glory Be kept
+- **IT**: CEI Our Father (*non abbandonarci*); Ave o Maria; CEI psalms
+- **JA**: CBCJ Hail Mary word order; Glory Be rewrite; Fatima colloquial; HHQ 元后; Filioque; 新共同訳 psalms
+- **PL**: KEP *ode złego*; Fatima KEP; *Witaj Królowo*; Filioque
+- **PT**: BP orthography; Fatima fatima.pt; Filioque restored post-audit
+- **ES**: Misal ES Apostles Creed; Our Father *a nosotros*; Filioque
+- **VI**: Vatican News forms; Filioque; CGKPV psalms
+
+### Intentional language differences
+- Greek Glory Be: Byzantine (no "sicut erat in principio")
+- Greek Nicene: no Filioque
+- Fatima / Jesus Prayer / Rosary collect: regional variants; best official/common form chosen
+- Psalms: track local Catholic Bible (KJV/DRA EN, Vulgate LA, Sigao ZH, AELF FR, CEI IT, 新共同訳 JA, BT PL, CGKPV VI, etc.)
+
+
+---
+
+## Greek audio sync (2026-08-10)
+
+Two fixes for karaoke desync (Glory Be and other Greek prayers):
+
+1. **Timing silence handling** in `generate-rosary-audio.py`: during pauses after periods, keep highlight on the previous segment until the next words start (do not jump highlight into silence).
+2. **Optional segment `tts` override**: Edge `el-GR-NestorasNeural` holds **αεί** ~1.25–1.8s. Glory Be 2b keeps display `και αεί` but sends `και αείι` to TTS (natural length). Regenerated all non-mystery Greek prayer audio with the new timing logic.

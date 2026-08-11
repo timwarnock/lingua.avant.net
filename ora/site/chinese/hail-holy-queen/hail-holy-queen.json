@@ -59,7 +59,7 @@
         },
         {
           "passage_segment_id": "1d",
-          "text": "我們的甘貽，",
+          "text": "我們的甘飴，",
           "phonetic": "wǒ men de gān yí,",
           "timing": {
             "full": [
@@ -364,16 +364,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "使我們堪受基督的恩許。",
-          "phonetic": "Shǐ wǒ men kān shòu Jī dū de ēn xǔ.",
+          "text": "使我們堪受基督的恩許。阿們。",
+          "phonetic": "Shǐ wǒ men kān shòu Jī dū de ēn xǔ. Ā men.",
           "timing": {
             "full": [
               30.224,
-              32.25
+              33.395
             ],
             "passage": [
               0.0,
-              2.155
+              3.289
             ]
           }
         }

@@ -19,11 +19,11 @@
           "timing": {
             "full": [
               0.0,
-              2.866
+              2.839
             ],
             "passage": [
               0.0,
-              2.839
+              2.866
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "vida,",
           "timing": {
             "full": [
-              2.866,
-              3.478
-            ],
-            "passage": [
               2.839,
               3.438
+            ],
+            "passage": [
+              2.866,
+              3.464
             ]
           }
         },
@@ -48,27 +48,27 @@
           "phonetic": "dulzura",
           "timing": {
             "full": [
-              3.478,
-              4.249
+              3.438,
+              4.209
             ],
             "passage": [
-              3.438,
-              4.222
+              3.464,
+              4.262
             ]
           }
         },
         {
           "passage_segment_id": "1d",
-          "text": "y esperanza nuestra,",
-          "phonetic": "y esperanza nuestra,",
+          "text": "y esperanza nuestra;",
+          "phonetic": "y esperanza nuestra;",
           "timing": {
             "full": [
-              4.249,
-              5.246
+              4.209,
+              5.206
             ],
             "passage": [
-              4.222,
-              5.206
+              4.262,
+              5.26
             ]
           }
         },
@@ -78,12 +78,12 @@
           "phonetic": "Dios te salve,",
           "timing": {
             "full": [
-              5.246,
-              6.39
+              5.206,
+              6.297
             ],
             "passage": [
-              5.206,
-              6.43
+              5.26,
+              6.443
             ]
           }
         }
@@ -98,8 +98,8 @@
           "phonetic": "A ti clamamos,",
           "timing": {
             "full": [
-              6.39,
-              7.48
+              6.297,
+              7.387
             ],
             "passage": [
               0.0,
@@ -113,8 +113,8 @@
           "phonetic": "los desterrados hijos de Eva,",
           "timing": {
             "full": [
-              7.48,
-              9.478
+              7.387,
+              9.385
             ],
             "passage": [
               1.019,
@@ -133,8 +133,8 @@
           "phonetic": "A ti suspiramos,",
           "timing": {
             "full": [
-              9.478,
-              10.821
+              9.385,
+              10.728
             ],
             "passage": [
               0.0,
@@ -148,8 +148,8 @@
           "phonetic": "gimiendo y llorando,",
           "timing": {
             "full": [
-              10.821,
-              12.164
+              10.728,
+              12.071
             ],
             "passage": [
               1.23,
@@ -163,8 +163,8 @@
           "phonetic": "en este valle de lágrimas,",
           "timing": {
             "full": [
-              12.164,
-              13.787
+              12.071,
+              13.694
             ],
             "passage": [
               2.534,
@@ -183,8 +183,8 @@
           "phonetic": "Ea, pues, Señora,",
           "timing": {
             "full": [
-              13.787,
-              15.874
+              13.694,
+              15.781
             ],
             "passage": [
               0.0,
@@ -198,8 +198,8 @@
           "phonetic": "abogada nuestra,",
           "timing": {
             "full": [
-              15.874,
-              17.085
+              15.781,
+              16.991
             ],
             "passage": [
               1.844,
@@ -213,8 +213,8 @@
           "phonetic": "vuelve a nosotros esos tus ojos misericordiosos,",
           "timing": {
             "full": [
-              17.085,
-              19.983
+              16.991,
+              19.89
             ],
             "passage": [
               3.014,
@@ -233,8 +233,8 @@
           "phonetic": "Y después de este destierro,",
           "timing": {
             "full": [
-              19.983,
-              21.659
+              19.89,
+              21.566
             ],
             "passage": [
               0.0,
@@ -248,8 +248,8 @@
           "phonetic": "muéstranos,",
           "timing": {
             "full": [
-              21.659,
-              22.776
+              21.566,
+              22.683
             ],
             "passage": [
               1.578,
@@ -263,8 +263,8 @@
           "phonetic": "a Jesús,",
           "timing": {
             "full": [
-              22.776,
-              23.521
+              22.683,
+              23.428
             ],
             "passage": [
               2.588,
@@ -278,8 +278,8 @@
           "phonetic": "fruto bendito de tu vientre,",
           "timing": {
             "full": [
-              23.521,
-              25.17
+              23.428,
+              25.077
             ],
             "passage": [
               3.386,
@@ -298,8 +298,8 @@
           "phonetic": "Oh clemente,",
           "timing": {
             "full": [
-              25.17,
-              26.061
+              25.077,
+              25.968
             ],
             "passage": [
               0.0,
@@ -313,8 +313,8 @@
           "phonetic": "oh piadosa,",
           "timing": {
             "full": [
-              26.061,
-              26.925
+              25.968,
+              26.832
             ],
             "passage": [
               0.924,
@@ -328,8 +328,8 @@
           "phonetic": "oh dulce Virgen María,",
           "timing": {
             "full": [
-              26.925,
-              28.428
+              26.832,
+              28.335
             ],
             "passage": [
               1.815,
@@ -348,8 +348,8 @@
           "phonetic": "Ruega por nosotros,",
           "timing": {
             "full": [
-              28.428,
-              29.97
+              28.335,
+              29.877
             ],
             "passage": [
               0.0,
@@ -363,8 +363,8 @@
           "phonetic": "Santa Madre de Dios,",
           "timing": {
             "full": [
-              29.97,
-              31.38
+              29.877,
+              31.287
             ],
             "passage": [
               1.35,
@@ -383,8 +383,8 @@
           "phonetic": "Para que seamos dignos de las promesas de Cristo,",
           "timing": {
             "full": [
-              31.38,
-              35.369
+              31.287,
+              35.276
             ],
             "passage": [
               0.0,

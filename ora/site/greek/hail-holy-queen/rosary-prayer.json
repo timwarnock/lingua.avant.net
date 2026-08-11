@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Ευχώμεθα.",
-          "phonetic": "Eu-chṓ-me-tha.",
+          "text": "Προσευξώμεθα.",
+          "phonetic": "Pro-sef-xó-me-tha.",
           "timing": {
             "full": [
               0.0,
-              1.047
+              2.168
             ],
             "passage": [
               0.0,
-              1.047
+              1.271
             ]
           }
         }
@@ -35,90 +35,90 @@
         {
           "passage_segment_id": "2a",
           "text": "Ο Θεός,",
-          "phonetic": "Ho The-ós,",
+          "phonetic": "O The-ós,",
           "timing": {
             "full": [
-              1.047,
-              2.655
+              2.168,
+              3.076
             ],
             "passage": [
               0.0,
-              0.876
+              1.074
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "ου ο μονογενης Υιός,",
-          "phonetic": "hoû ho mo-no-ge-nḕs Hyi-ós,",
+          "text": "ου ο μονογενής Υιός,",
+          "phonetic": "u o mo-no-ye-nís I-ós,",
           "timing": {
             "full": [
-              2.655,
-              3.932
+              3.076,
+              4.379
             ],
             "passage": [
-              0.876,
-              2.205
+              1.074,
+              2.416
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "δια του βίου,",
-          "phonetic": "di-ὰ tou bí-ou,",
+          "text": "διά του βίου,",
+          "phonetic": "thi-á tu ví-u,",
           "timing": {
             "full": [
-              3.932,
-              4.971
+              4.379,
+              5.379
             ],
             "passage": [
-              2.205,
-              3.258
+              2.416,
+              3.482
             ]
           }
         },
         {
           "passage_segment_id": "2d",
-          "text": "του θανάτου και της αναστάσεως αυτου,",
-          "phonetic": "tou tha-ná-tou kai tēs a-na-stá-se-ōs au-toû,",
+          "text": "του θανάτου και της αναστάσεως αυτού,",
+          "phonetic": "tu tha-ná-tu ke tis a-na-stá-se-os af-tú,",
           "timing": {
             "full": [
-              4.971,
-              6.879
+              5.379,
+              7.313
             ],
             "passage": [
-              3.258,
-              5.192
+              3.482,
+              5.455
             ]
           }
         },
         {
           "passage_segment_id": "2e",
-          "text": "εκτήσατο ημίν τον μισθον",
-          "phonetic": "ek-tḗ-sa-to hē-mîn tòn mis-thòn",
+          "text": "εκτήσατο ημίν τον μισθόν",
+          "phonetic": "ek-tí-sa-to i-mín ton mis-thón",
           "timing": {
             "full": [
-              6.879,
-              8.182
+              7.313,
+              8.445
             ],
             "passage": [
-              5.192,
-              6.547
+              5.455,
+              6.6
             ]
           }
         },
         {
           "passage_segment_id": "2f",
-          "text": "της αιωνίου ζωης,",
-          "phonetic": "tēs ai-ō-ní-ou zō-ῆς,",
+          "text": "της αιωνίου ζωής,",
+          "phonetic": "tis e-o-ní-u zo-ís,",
           "timing": {
             "full": [
-              8.182,
-              9.261
+              8.445,
+              9.642
             ],
             "passage": [
-              6.547,
-              7.613
+              6.6,
+              7.653
             ]
           }
         }
@@ -130,45 +130,45 @@
         {
           "passage_segment_id": "3a",
           "text": "δός ημίν, δεόμεθα,",
-          "phonetic": "dós hē-mîn, de-ó-me-tha,",
+          "phonetic": "thós i-mín, the-ó-me-tha,",
           "timing": {
             "full": [
-              9.261,
-              11.142
+              9.642,
+              11.563
             ],
             "passage": [
               0.0,
-              2.008
+              2.218
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "ίνα μελετωντες τα μυστήρια",
-          "phonetic": "hí-na me-le-tṓn-tes tà mys-tḗ-ri-a",
+          "text": "ίνα μελετώντες τα μυστήρια",
+          "phonetic": "í-na me-le-tón-des ta mi-stí-ri-a",
           "timing": {
             "full": [
-              11.142,
-              12.537
+              11.563,
+              12.8
             ],
             "passage": [
-              2.008,
-              3.468
+              2.218,
+              3.482
             ]
           }
         },
         {
           "passage_segment_id": "3c",
           "text": "του αγιωτάτου Ροδαρίου της Μακαρίας Παρθένου Μαρίας,",
-          "phonetic": "tou ha-gi-ō-tá-tou Ro-da-rí-ou tēs Ma-ka-rí-as Par-thé-nou Ma-rí-as,",
+          "phonetic": "tu a-yi-o-tá-tu Ro-tha-rí-u tis Ma-ka-rí-as Par-thé-nu Ma-rí-as,",
           "timing": {
             "full": [
-              12.537,
-              14.945
+              12.8,
+              15.392
             ],
             "passage": [
-              3.468,
-              5.968
+              3.482,
+              5.982
             ]
           }
         }
@@ -179,31 +179,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "μιμώμεθα τα εν αυτοις περιεχόμενα",
-          "phonetic": "mi-mṓ-me-tha tà en au-toîs pe-ri-e-chó-me-na",
+          "text": "μιμώμεθα τα εν αυτοίς περιεχόμενα",
+          "phonetic": "mi-mó-me-tha ta en af-tís pe-ri-e-chó-me-na",
           "timing": {
             "full": [
-              14.945,
-              16.682
+              15.392,
+              16.945
             ],
             "passage": [
               0.0,
-              1.837
+              1.85
             ]
           }
         },
         {
           "passage_segment_id": "4b",
           "text": "και λαμβάνωμεν τα επηγγελμένα.",
-          "phonetic": "kai lam-bá-nō-men tà e-pēg-ge-lé-me-na.",
+          "phonetic": "ke lam-vá-no-men ta e-pin-gel-mé-na.",
           "timing": {
             "full": [
-              16.682,
-              18.155
+              16.945,
+              19.3
             ],
             "passage": [
-              1.837,
-              3.389
+              1.85,
+              3.403
             ]
           }
         }
@@ -214,16 +214,16 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Δια του αυτου Χριστου του Κυρίου ημών,",
-          "phonetic": "Di-ὰ tou au-toû Chris-toû tou Ky-rí-ou hē-mṓn,",
+          "text": "Διά του αυτού Χριστού του Κυρίου ημών.",
+          "phonetic": "Thi-á tu af-tú Chris-tú tu Ki-rí-u i-món.",
           "timing": {
             "full": [
-              18.155,
-              20.945
+              19.3,
+              22.221
             ],
             "passage": [
               0.0,
-              2.1
+              2.087
             ]
           }
         }
@@ -235,11 +235,11 @@
         {
           "passage_segment_id": "6a",
           "text": "Αμήν.",
-          "phonetic": "A-mḗn.",
+          "phonetic": "A-mín.",
           "timing": {
             "full": [
-              20.945,
-              21.747
+              22.221,
+              23.905
             ],
             "passage": [
               0.0,
@@ -254,31 +254,31 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "Ιερώτατε Καρδία του Ιησού,",
-          "phonetic": "Hi-e-rṓ-ta-te Kar-dí-a tou I-ē-soû,",
+          "text": "Ιερωτάτη Καρδία του Ιησού,",
+          "phonetic": "I-e-ro-tá-ti Kar-thí-a tu I-i-sú,",
           "timing": {
             "full": [
-              21.747,
-              24.418
+              23.905,
+              25.905
             ],
             "passage": [
               0.0,
-              1.876
+              2.087
             ]
           }
         },
         {
           "passage_segment_id": "7b",
           "text": "ελέησον ημάς.",
-          "phonetic": "e-lé-ē-son hē-mâs.",
+          "phonetic": "e-lé-i-son i-más.",
           "timing": {
             "full": [
-              24.418,
-              25.668
+              25.905,
+              27.839
             ],
             "passage": [
-              1.876,
-              3.113
+              2.087,
+              3.126
             ]
           }
         }
@@ -290,29 +290,29 @@
         {
           "passage_segment_id": "8a",
           "text": "Αμόλυντε Καρδία της Μαρίας,",
-          "phonetic": "A-mó-lyn-te Kar-dí-a tēs Ma-rí-as,",
+          "phonetic": "A-mó-lin-de Kar-thí-a tis Ma-rí-as,",
           "timing": {
             "full": [
-              25.668,
-              28.221
+              27.839,
+              29.655
             ],
             "passage": [
               0.0,
-              1.771
+              1.916
             ]
           }
         },
         {
           "passage_segment_id": "8b",
-          "text": "πρέσβευε υπερ ημών.",
-          "phonetic": "prés-beu-e hy-pèr hē-mṓn.",
+          "text": "πρέσβευε υπέρ ημών.",
+          "phonetic": "prés-ve-ve i-pér i-món.",
           "timing": {
             "full": [
-              28.221,
-              29.563
+              29.655,
+              30.866
             ],
             "passage": [
-              1.771,
+              1.916,
               3.113
             ]
           }

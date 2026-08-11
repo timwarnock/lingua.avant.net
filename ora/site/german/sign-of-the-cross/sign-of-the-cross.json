@@ -14,31 +14,31 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Im Namen des Vaters,",
-          "phonetic": "Im Namen des Vaters,",
+          "text": "Im Namen des Vaters",
+          "phonetic": "Im Namen des Vaters",
           "timing": {
             "full": [
               0.0,
-              1.481
+              1.383
             ],
             "passage": [
               0.0,
-              1.481
+              1.383
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "und des Sohnes,",
-          "phonetic": "und des Sohnes,",
+          "text": "und des Sohnes",
+          "phonetic": "und des Sohnes",
           "timing": {
             "full": [
-              1.481,
-              2.661
+              1.383,
+              2.3
             ],
             "passage": [
-              1.481,
-              2.661
+              1.383,
+              2.3
             ]
           }
         },
@@ -48,12 +48,12 @@
           "phonetic": "und des Heiligen Geistes.",
           "timing": {
             "full": [
-              2.661,
-              4.467
+              2.3,
+              4.036
             ],
             "passage": [
-              2.661,
-              4.467
+              2.3,
+              4.036
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              4.467,
-              5.972
+              4.036,
+              5.542
             ],
             "passage": [
               0.0,

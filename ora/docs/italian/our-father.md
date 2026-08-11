@@ -12,7 +12,7 @@ icon: material/cross
 
 **Italiano**
 
-Padre nostro che sei nei cieli, sia santificato il tuo nome. Venga il tuo regno. Sia fatta la tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano, e rimetti a noi i nostri debiti, come noi li rimettiamo ai nostri debitori. E non ci indurre in tentazione, ma liberaci dal male. Amen.
+Padre nostro che sei nei cieli, sia santificato il tuo nome. Venga il tuo regno. Sia fatta la tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano, e rimetti a noi i nostri debiti, come anche noi li rimettiamo ai nostri debitori, e non abbandonarci alla tentazione, ma liberaci dal male. Amen.
 
 **English**
 

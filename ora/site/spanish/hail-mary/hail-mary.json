@@ -29,7 +29,7 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "llena eres de gracia,",
+          "text": "llena eres de gracia;",
           "phonetic": "llena eres de gracia,",
           "timing": {
             "full": [
@@ -84,7 +84,7 @@
           "timing": {
             "full": [
               6.616,
-              8.853
+              8.866
             ],
             "passage": [
               2.414,
@@ -98,8 +98,8 @@
           "phonetic": "Jesús,",
           "timing": {
             "full": [
-              8.853,
-              9.664
+              8.866,
+              9.691
             ],
             "passage": [
               4.395,
@@ -118,12 +118,12 @@
           "phonetic": "Santa María,",
           "timing": {
             "full": [
-              9.664,
-              10.741
+              9.691,
+              10.768
             ],
             "passage": [
               0.0,
-              1.018
+              1.031
             ]
           }
         },
@@ -133,27 +133,27 @@
           "phonetic": "Madre de Dios,",
           "timing": {
             "full": [
-              10.741,
-              11.898
+              10.768,
+              11.925
             ],
             "passage": [
-              1.018,
-              2.148
+              1.031,
+              2.161
             ]
           }
         },
         {
           "passage_segment_id": "3c",
-          "text": "ruega por nosotros pecadores,",
-          "phonetic": "ruega por nosotros pecadores,",
+          "text": "ruega por nosotros, pecadores,",
+          "phonetic": "ruega por nosotros, pecadores,",
           "timing": {
             "full": [
-              11.898,
-              13.8
+              11.925,
+              14.172
             ],
             "passage": [
-              2.148,
-              4.156
+              2.161,
+              4.502
             ]
           }
         }
@@ -168,8 +168,8 @@
           "phonetic": "ahora y en la hora de nuestra muerte,",
           "timing": {
             "full": [
-              13.8,
-              15.903
+              14.172,
+              16.275
             ],
             "passage": [
               0.0,
@@ -188,8 +188,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              15.903,
-              16.554
+              16.275,
+              16.927
             ],
             "passage": [
               0.0,

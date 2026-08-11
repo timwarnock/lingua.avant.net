@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# <span tooltip="Hail, Holy Queen">Je vous salue, Reine</span>
+# <span tooltip="Hail, Holy Queen">Salut, ô Reine</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -20,15 +20,16 @@ icon: material/cross
 
 **Français**
 
-Nous vous saluons, Reine, Mère de miséricorde, notre vie, notre joie, notre espérance, salut. Enfants d'Ève, nous crions vers vous du fond de notre exil. Nous soupirons vers vous, gémissant et pleurant dans cette vallée de larmes. Ô vous notre avocate, tournez vers nous vos regards miséricordieux. Et après l'exil de cette vie, montrez-nous Jésus, le fruit béni de vos entrailles. Tendre, aimante, douce Vierge Marie.
+
+Salut, ô Reine, Mère de miséricorde, notre vie, notre consolation, notre espoir, salut ! Enfants d'Ève, de cette terre d'exil nous crions vers vous ; vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes. Ô vous, notre Avocate, tournez vers nous vos regards compatissants. Et, après cet exil, obtenez-nous de contempler Jésus, le fruit béni de vos entrailles. Ô clémente, ô miséricordieuse, ô douce Vierge Marie !
 
 Priez pour nous, sainte Mère de Dieu.
 
-Afin que nous soyons dignes des promesses de Jésus Christ.
+Afin que nous soyons dignes des promesses du Christ.
 
 Prions.
 
-Dieu, dont le Fils unique, par sa vie, sa mort et sa résurrection, nous a acquis le prix de la vie éternelle, accordez-nous, nous vous en prions, qu'en méditant les mystères du très saint Rosaire de la bienheureuse Vierge Marie, nous imitions ce qu'ils contiennent et obtenions ce qu'ils promettent. Par le même Jésus-Christ notre Seigneur. Amen.
+Ô Dieu, dont le Fils unique, par sa vie, sa mort et sa résurrection, nous a acquis les récompenses de la vie éternelle, accordez-nous, nous vous en prions, qu'en méditant ces mystères du très saint Rosaire de la bienheureuse Vierge Marie, nous imitions ce qu'ils contiennent et obtenions ce qu'ils promettent. Par le même Jésus-Christ notre Seigneur. Amen.
 
 Sacré-Cœur de Jésus, ayez pitié de nous.
 

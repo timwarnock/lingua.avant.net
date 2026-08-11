@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Ave Maria,",
-          "phonetic": "Ave Maria,",
+          "text": "Ave o Maria,",
+          "phonetic": "Ave o Maria,",
           "timing": {
             "full": [
               0.0,
-              0.925
+              1.092
             ],
             "passage": [
               0.0,
-              0.925
+              1.092
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "piena di grazia,",
           "timing": {
             "full": [
-              0.925,
-              2.3
+              1.092,
+              2.425
             ],
             "passage": [
-              0.925,
-              2.3
+              1.092,
+              2.425
             ]
           }
         },
@@ -48,12 +48,12 @@
           "phonetic": "il Signore è con te.",
           "timing": {
             "full": [
-              2.3,
-              3.939
+              2.425,
+              4.036
             ],
             "passage": [
-              2.3,
-              3.939
+              2.425,
+              4.036
             ]
           }
         }
@@ -68,27 +68,27 @@
           "phonetic": "Tu sei benedetta fra le donne,",
           "timing": {
             "full": [
-              3.939,
-              6.167
+              4.036,
+              6.306
             ],
             "passage": [
               0.0,
-              2.036
+              2.078
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "e benedetto è il frutto del tuo seno,",
-          "phonetic": "e benedetto è il frutto del tuo seno,",
+          "text": "e benedetto è il frutto del seno tuo,",
+          "phonetic": "e benedetto è il frutto del seno tuo,",
           "timing": {
             "full": [
-              6.167,
-              8.736
+              6.306,
+              8.917
             ],
             "passage": [
-              2.036,
-              4.606
+              2.078,
+              4.689
             ]
           }
         },
@@ -98,12 +98,12 @@
           "phonetic": "Gesù.",
           "timing": {
             "full": [
-              8.736,
-              9.375
+              8.917,
+              9.569
             ],
             "passage": [
-              4.606,
-              5.244
+              4.689,
+              5.342
             ]
           }
         }
@@ -118,8 +118,8 @@
           "phonetic": "Santa Maria,",
           "timing": {
             "full": [
-              9.375,
-              10.625
+              9.569,
+              10.819
             ],
             "passage": [
               0.0,
@@ -133,8 +133,8 @@
           "phonetic": "Madre di Dio,",
           "timing": {
             "full": [
-              10.625,
-              11.764
+              10.819,
+              11.958
             ],
             "passage": [
               1.064,
@@ -148,8 +148,8 @@
           "phonetic": "prega per noi peccatori,",
           "timing": {
             "full": [
-              11.764,
-              13.486
+              11.958,
+              13.681
             ],
             "passage": [
               2.203,
@@ -168,8 +168,8 @@
           "phonetic": "adesso e nell'ora della nostra morte.",
           "timing": {
             "full": [
-              13.486,
-              16.083
+              13.681,
+              16.278
             ],
             "passage": [
               0.0,
@@ -188,8 +188,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              16.083,
-              16.972
+              16.278,
+              17.167
             ],
             "passage": [
               0.0,

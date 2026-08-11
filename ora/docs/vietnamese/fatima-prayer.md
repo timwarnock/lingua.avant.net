@@ -12,7 +12,7 @@ icon: material/cross
 
 **Tiếng Việt**
 
-Lạy Chúa Giêsu, xin tha tội chúng con, xin cứu chúng con khỏi lửa hỏa ngục, xin đưa các linh hồn lên thiên đàng, nhất là những linh hồn cần đến lòng thương xót của Chúa hơn hết.
+Lạy Chúa Giêsu, xin tha tội cho chúng con, xin cứu chúng con khỏi sa hỏa ngục, xin đem các linh hồn lên thiên đàng, nhất là những linh hồn cần đến lòng Chúa thương xót hơn. Amen.
 
 **English**
 

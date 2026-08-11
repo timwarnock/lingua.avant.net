@@ -14,16 +14,31 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Thánh vịnh của Đavít.",
-          "phonetic": "Thánh vịnh của Đavít.",
+          "text": "Thánh vịnh.",
+          "phonetic": "Thánh vịnh.",
           "timing": {
             "full": [
               0.0,
-              1.288
+              0.8
             ],
             "passage": [
               0.0,
-              1.288
+              0.8
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "Của vua Đa-vít.",
+          "phonetic": "Của vua Đa-vít.",
+          "timing": {
+            "full": [
+              0.8,
+              2.562
+            ],
+            "passage": [
+              0.8,
+              2.562
             ]
           }
         }
@@ -34,31 +49,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Chúa là mục tử chăn dắt tôi,",
-          "phonetic": "Chúa là mục tử chăn dắt tôi,",
+          "text": "CHÚA là mục tử chăn dắt tôi,",
+          "phonetic": "CHÚA là mục tử chăn dắt tôi,",
           "timing": {
             "full": [
-              1.288,
-              3.675
+              2.562,
+              4.975
             ],
             "passage": [
               0.0,
-              1.65
+              1.675
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "tôi chẳng thiếu thốn chi.",
-          "phonetic": "tôi chẳng thiếu thốn chi.",
+          "text": "tôi chẳng thiếu thốn gì.",
+          "phonetic": "tôi chẳng thiếu thốn gì.",
           "timing": {
             "full": [
-              3.675,
-              5.138
+              4.975,
+              6.388
             ],
             "passage": [
-              1.65,
-              3.1
+              1.675,
+              3.075
             ]
           }
         }
@@ -73,27 +88,27 @@
           "phonetic": "Trong đồng cỏ xanh tươi, Người cho tôi nằm nghỉ.",
           "timing": {
             "full": [
-              5.138,
-              8.738
+              6.388,
+              9.988
             ],
             "passage": [
               0.0,
-              2.85
+              2.837
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "Người đưa tôi tới dòng nước trong nguồn",
-          "phonetic": "Người đưa tôi tới dòng nước trong nguồn",
+          "text": "Người đưa tôi tới dòng nước trong lành",
+          "phonetic": "Người đưa tôi tới dòng nước trong lành",
           "timing": {
             "full": [
-              8.738,
-              11.412
+              9.988,
+              12.625
             ],
             "passage": [
-              2.85,
-              5.65
+              2.837,
+              5.612
             ]
           }
         }
@@ -104,16 +119,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "và bồi dưỡng tâm hồn tôi.",
-          "phonetic": "và bồi dưỡng tâm hồn tôi.",
+          "text": "và bổ sức cho tôi.",
+          "phonetic": "và bổ sức cho tôi.",
           "timing": {
             "full": [
-              11.412,
-              12.812
+              12.625,
+              13.675
             ],
             "passage": [
               0.0,
-              1.762
+              1.413
             ]
           }
         },
@@ -123,12 +138,12 @@
           "phonetic": "Người dẫn tôi trên đường ngay nẻo chính",
           "timing": {
             "full": [
-              12.812,
-              15.537
+              13.675,
+              16.4
             ],
             "passage": [
-              1.762,
-              4.463
+              1.413,
+              4.112
             ]
           }
         },
@@ -138,12 +153,12 @@
           "phonetic": "vì danh dự của Người.",
           "timing": {
             "full": [
-              15.537,
-              16.6
+              16.4,
+              17.462
             ],
             "passage": [
-              4.463,
-              5.537
+              4.112,
+              5.188
             ]
           }
         }
@@ -158,8 +173,8 @@
           "phonetic": "Lạy Chúa, dầu qua lũng âm u",
           "timing": {
             "full": [
-              16.6,
-              19.45
+              17.462,
+              20.312
             ],
             "passage": [
               0.0,
@@ -173,8 +188,8 @@
           "phonetic": "con sợ gì nguy khốn,",
           "timing": {
             "full": [
-              19.45,
-              20.663
+              20.312,
+              21.525
             ],
             "passage": [
               2.112,
@@ -188,8 +203,8 @@
           "phonetic": "vì có Chúa ở cùng.",
           "timing": {
             "full": [
-              20.663,
-              21.988
+              21.525,
+              22.85
             ],
             "passage": [
               3.337,
@@ -208,8 +223,8 @@
           "phonetic": "Côn trượng Ngài bảo vệ,",
           "timing": {
             "full": [
-              21.988,
-              24.137
+              22.85,
+              25.0
             ],
             "passage": [
               0.0,
@@ -223,8 +238,8 @@
           "phonetic": "con vững dạ an tâm.",
           "timing": {
             "full": [
-              24.137,
-              25.587
+              25.0,
+              26.45
             ],
             "passage": [
               1.4,
@@ -243,8 +258,8 @@
           "phonetic": "Chúa dọn sẵn cho con bữa tiệc",
           "timing": {
             "full": [
-              25.587,
-              28.113
+              26.45,
+              28.975
             ],
             "passage": [
               0.0,
@@ -258,8 +273,8 @@
           "phonetic": "ngay trước mặt quân thù.",
           "timing": {
             "full": [
-              28.113,
-              29.25
+              28.975,
+              30.113
             ],
             "passage": [
               1.788,
@@ -278,27 +293,27 @@
           "phonetic": "Đầu con, Chúa xức đượm dầu thơm,",
           "timing": {
             "full": [
-              29.25,
-              32.175
+              30.113,
+              33.0
             ],
             "passage": [
               0.0,
-              2.2
+              2.15
             ]
           }
         },
         {
           "passage_segment_id": "8b",
-          "text": "ly của con chén rượu đầy tràn.",
-          "phonetic": "ly của con chén rượu đầy tràn.",
+          "text": "ly rượu con đầy tràn chan chứa.",
+          "phonetic": "ly rượu con đầy tràn chan chứa.",
           "timing": {
             "full": [
-              32.175,
-              34.013
+              33.0,
+              34.938
             ],
             "passage": [
-              2.2,
-              4.037
+              2.15,
+              4.088
             ]
           }
         }
@@ -309,31 +324,31 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Lòng nhân hậu và tình thương Chúa",
-          "phonetic": "Lòng nhân hậu và tình thương Chúa",
+          "text": "Lòng nhân hậu và tình thương CHÚA",
+          "phonetic": "Lòng nhân hậu và tình thương CHÚA",
           "timing": {
             "full": [
-              34.013,
-              36.425
+              34.938,
+              37.288
             ],
             "passage": [
               0.0,
-              1.688
+              1.65
             ]
           }
         },
         {
           "passage_segment_id": "9b",
-          "text": "đời đời theo dõi tôi.",
-          "phonetic": "đời đời theo dõi tôi.",
+          "text": "ấp ủ tôi suốt cả cuộc đời,",
+          "phonetic": "ấp ủ tôi suốt cả cuộc đời,",
           "timing": {
             "full": [
-              36.425,
-              37.575
+              37.288,
+              38.75
             ],
             "passage": [
-              1.688,
-              2.837
+              1.65,
+              3.212
             ]
           }
         }
@@ -344,31 +359,31 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "Và tôi được ở đền Người",
-          "phonetic": "Và tôi được ở đền Người",
+          "text": "và tôi được ở đền Người",
+          "phonetic": "và tôi được ở đền Người",
           "timing": {
             "full": [
-              37.575,
-              39.663
+              38.75,
+              40.062
             ],
             "passage": [
               0.0,
-              1.363
+              1.337
             ]
           }
         },
         {
           "passage_segment_id": "10b",
-          "text": "những ngày tháng dài lâu.",
-          "phonetic": "những ngày tháng dài lâu.",
+          "text": "những ngày tháng, những năm dài triền miên.",
+          "phonetic": "những ngày tháng, những năm dài triền miên.",
           "timing": {
             "full": [
-              39.663,
-              40.837
+              40.062,
+              42.188
             ],
             "passage": [
-              1.363,
-              2.538
+              1.337,
+              3.55
             ]
           }
         }

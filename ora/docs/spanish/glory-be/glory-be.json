@@ -19,26 +19,26 @@
           "timing": {
             "full": [
               0.0,
-              1.057
+              1.071
             ],
             "passage": [
               0.0,
-              1.046
+              1.032
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "al Hijo,",
-          "phonetic": "al Hijo,",
+          "text": "y al Hijo,",
+          "phonetic": "y al Hijo,",
           "timing": {
             "full": [
-              1.057,
-              1.709
+              1.071,
+              1.869
             ],
             "passage": [
-              1.046,
-              1.697
+              1.032,
+              1.804
             ]
           }
         },
@@ -48,12 +48,12 @@
           "phonetic": "y al Espíritu Santo,",
           "timing": {
             "full": [
-              1.709,
-              3.185
+              1.869,
+              3.345
             ],
             "passage": [
-              1.697,
-              3.24
+              1.804,
+              3.346
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "Como era en el principio,",
           "timing": {
             "full": [
-              3.185,
-              4.754
+              3.345,
+              4.927
             ],
             "passage": [
               0.0,
@@ -83,8 +83,8 @@
           "phonetic": "ahora,",
           "timing": {
             "full": [
-              4.754,
-              5.446
+              4.927,
+              5.619
             ],
             "passage": [
               1.523,
@@ -98,8 +98,8 @@
           "phonetic": "y siempre,",
           "timing": {
             "full": [
-              5.446,
-              6.31
+              5.619,
+              6.483
             ],
             "passage": [
               2.214,
@@ -113,8 +113,8 @@
           "phonetic": "por los siglos de los siglos,",
           "timing": {
             "full": [
-              6.31,
-              8.082
+              6.483,
+              8.255
             ],
             "passage": [
               2.986,
@@ -133,8 +133,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              8.082,
-              8.76
+              8.255,
+              8.933
             ],
             "passage": [
               0.0,

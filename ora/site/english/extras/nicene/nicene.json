@@ -374,7 +374,7 @@
           "timing": {
             "full": [
               42.237,
-              44.158
+              44.171
             ],
             "passage": [
               0.0,
@@ -388,8 +388,8 @@
           "phonetic": "and is seated at the right hand of the Father.",
           "timing": {
             "full": [
-              44.158,
-              46.645
+              44.171,
+              46.658
             ],
             "passage": [
               1.668,
@@ -408,8 +408,8 @@
           "phonetic": "He will come again in glory",
           "timing": {
             "full": [
-              46.645,
-              48.579
+              46.658,
+              48.592
             ],
             "passage": [
               0.0,
@@ -423,8 +423,8 @@
           "phonetic": "to judge the living and the dead",
           "timing": {
             "full": [
-              48.579,
-              50.289
+              48.592,
+              50.303
             ],
             "passage": [
               1.655,
@@ -438,8 +438,8 @@
           "phonetic": "and his kingdom will have no end.",
           "timing": {
             "full": [
-              50.289,
-              52.237
+              50.303,
+              52.25
             ],
             "passage": [
               3.379,
@@ -458,12 +458,12 @@
           "phonetic": "I believe in the Holy Spirit,",
           "timing": {
             "full": [
-              52.237,
-              54.382
+              52.25,
+              54.355
             ],
             "passage": [
               0.0,
-              1.853
+              1.826
             ]
           }
         },
@@ -473,27 +473,27 @@
           "phonetic": "the Lord, the giver of life,",
           "timing": {
             "full": [
-              54.382,
-              56.382
+              54.355,
+              56.329
             ],
             "passage": [
-              1.853,
-              3.866
+              1.826,
+              3.826
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "who proceeds from the Father,",
-          "phonetic": "who proceeds from the Father,",
+          "text": "who proceeds from the Father and the Son,",
+          "phonetic": "who proceeds from the Father and the Son,",
           "timing": {
             "full": [
-              56.382,
-              58.053
+              56.329,
+              58.632
             ],
             "passage": [
-              3.866,
-              5.537
+              3.826,
+              6.142
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "who with the Father and the Son is adored and glorified,",
           "timing": {
             "full": [
-              58.053,
-              61.368
+              58.632,
+              61.921
             ],
             "passage": [
-              5.537,
-              8.853
+              6.142,
+              9.379
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "who has spoken through the prophets.",
           "timing": {
             "full": [
-              61.368,
-              63.447
+              61.921,
+              63.987
             ],
             "passage": [
-              8.853,
-              10.945
+              9.379,
+              11.458
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "I believe in one, holy, catholic and apostolic Church.",
           "timing": {
             "full": [
-              63.447,
-              68.237
+              63.987,
+              68.763
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "I confess one Baptism",
           "timing": {
             "full": [
-              68.237,
-              70.329
+              68.763,
+              70.855
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "for the forgiveness of sins",
           "timing": {
             "full": [
-              70.329,
-              71.842
+              70.855,
+              72.368
             ],
             "passage": [
               1.879,
@@ -593,8 +593,8 @@
           "phonetic": "and I look forward to the resurrection of the dead",
           "timing": {
             "full": [
-              71.842,
-              74.368
+              72.368,
+              74.895
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "and the life of the world to come.",
           "timing": {
             "full": [
-              74.368,
-              76.079
+              74.895,
+              76.605
             ],
             "passage": [
               2.8,
@@ -628,8 +628,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              76.079,
-              77.079
+              76.605,
+              77.605
             ],
             "passage": [
               0.0,

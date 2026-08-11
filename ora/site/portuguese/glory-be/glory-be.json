@@ -69,7 +69,7 @@
           "timing": {
             "full": [
               2.918,
-              4.421
+              4.447
             ],
             "passage": [
               0.0,
@@ -79,30 +79,45 @@
         },
         {
           "passage_segment_id": "2b",
-          "text": "agora e sempre,",
-          "phonetic": "agora e sempre,",
+          "text": "agora",
+          "phonetic": "agora",
           "timing": {
             "full": [
-              4.421,
-              5.382
+              4.447,
+              4.855
             ],
             "passage": [
               1.353,
-              2.3
+              1.761
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "pelos séculos dos séculos,",
-          "phonetic": "pelos séculos dos séculos,",
+          "text": "e sempre,",
+          "phonetic": "e sempre,",
           "timing": {
             "full": [
-              5.382,
-              6.829
+              4.855,
+              5.408
             ],
             "passage": [
-              2.3,
+              1.761,
+              2.313
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2d",
+          "text": "pelos séculos dos séculos.",
+          "phonetic": "pelos séculos dos séculos.",
+          "timing": {
+            "full": [
+              5.408,
+              6.947
+            ],
+            "passage": [
+              2.313,
               3.853
             ]
           }
@@ -118,8 +133,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              6.829,
-              7.184
+              6.947,
+              7.684
             ],
             "passage": [
               0.0,

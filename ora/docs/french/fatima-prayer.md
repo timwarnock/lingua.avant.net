@@ -12,7 +12,8 @@ icon: material/cross
 
 **Français**
 
-Ô mon Jésus, pardonne-nous nos péchés, préserve-nous du feu de l'enfer et conduis au ciel toutes les âmes, surtout celles qui ont le plus besoin de ta miséricorde. Amen.
+
+Ô mon Jésus, pardonnez-nous nos péchés, préservez-nous du feu de l'enfer, conduisez au ciel toutes les âmes, surtout celles qui ont le plus besoin de votre miséricorde. Amen.
 
 **English**
 

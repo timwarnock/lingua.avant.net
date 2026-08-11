@@ -2,7 +2,7 @@
 icon: material/cross
 ---
 
-# <span tooltip="Hail, Holy Queen">Zdrowaś, Królowo</span>
+# <span tooltip="Hail, Holy Queen">Witaj, Królowo</span>
 
 <div class="prayer-interactive"
      data-prayer="hail-holy-queen"
@@ -20,7 +20,7 @@ icon: material/cross
 
 **Polski**
 
-Zdrowaś, Królowo, Matko miłosierdzia, życie, słodyczy i nadziejo nasza, witaj! Do Ciebie wołamy wygnańcy, dzieci Ewy. Do Ciebie wzdychamy, jęcząc i płacząc na tym łez padole. Przeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć. A Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. O łaskawa, o litościwa, o słodka Panno Maryjo.
+Witaj, Królowo, Matko miłosierdzia, życie, słodyczy i nadziejo nasza, witaj. Do Ciebie wołamy wygnańcy, synowie Ewy. Do Ciebie wzdychamy, jęcząc i płacząc na tym łez padole. Przeto, Orędowniczko nasza, one miłosierne oczy Twoje na nas zwróć. A Jezusa, błogosławiony owoc żywota Twojego, po tym wygnaniu nam okaż. O łaskawa, o litościwa, o słodka Panno Maryjo.
 
 Módl się za nami, Święta Boża Rodzicielko.
 

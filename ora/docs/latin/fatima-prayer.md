@@ -12,7 +12,7 @@ icon: material/cross
 
 **Latin**
 
-O mi Iesu, dimitte nobis peccata nostra, libera nos ab igne inferni, perduc omnes ad caelum, praesertim eos qui maxime indigent misericordia tua. Amen.
+O mi Iesu, dimitte nobis peccata nostra, libera nos ab igne inferni, perduc omnes animas ad caelum, praesertim eas quae maxime indigent misericordia tua. Amen.
 
 **English**
 

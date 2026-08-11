@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              0.761
+              0.76
             ],
             "passage": [
               0.0,
@@ -33,8 +33,8 @@
           "phonetic": "przebacz nam nasze grzechy,",
           "timing": {
             "full": [
-              0.761,
-              2.142
+              0.76,
+              2.141
             ],
             "passage": [
               0.812,
@@ -53,8 +53,8 @@
           "phonetic": "zachowaj nas od ognia piekielnego,",
           "timing": {
             "full": [
-              2.142,
-              4.09
+              2.141,
+              4.102
             ],
             "passage": [
               0.0,
@@ -69,12 +69,12 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "zaprowadź do nieba wszystkie dusze,",
-          "phonetic": "zaprowadź do nieba wszystkie dusze,",
+          "text": "zaprowadź wszystkie dusze do nieba",
+          "phonetic": "zaprowadź wszystkie dusze do nieba",
           "timing": {
             "full": [
-              4.09,
-              6.182
+              4.102,
+              6.247
             ],
             "passage": [
               0.0,
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,",
-          "phonetic": "a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia,",
+          "text": "i dopomóż szczególnie tym, którzy najbardziej potrzebują Twojego miłosierdzia.",
+          "phonetic": "i dopomóż szczególnie tym, którzy najbardziej potrzebują Twojego miłosierdzia.",
           "timing": {
             "full": [
-              6.182,
-              9.879
+              6.247,
+              10.773
             ],
             "passage": [
               0.0,
-              3.562
+              4.207
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              9.879,
-              10.484
+              10.773,
+              12.21
             ],
             "passage": [
               0.0,

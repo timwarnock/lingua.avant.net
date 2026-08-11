@@ -64,16 +64,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Tôi tin kính Đức Chúa Giê-su Ki-tô,",
-          "phonetic": "Tôi tin kính Đức Chúa Giê-su Ki-tô,",
+          "text": "Tôi tin kính Đức Chúa Giêsu Kitô,",
+          "phonetic": "Tôi tin kính Đức Chúa Giêsu Kitô,",
           "timing": {
             "full": [
               4.4,
-              7.362
+              7.162
             ],
             "passage": [
               0.0,
-              2.237
+              2.013
             ]
           }
         },
@@ -83,12 +83,12 @@
           "phonetic": "là Con Một Đức Chúa Cha,",
           "timing": {
             "full": [
-              7.362,
-              8.95
+              7.162,
+              8.75
             ],
             "passage": [
-              2.237,
-              3.85
+              2.013,
+              3.612
             ]
           }
         },
@@ -98,12 +98,12 @@
           "phonetic": "cùng là Chúa chúng tôi.",
           "timing": {
             "full": [
-              8.95,
-              10.287
+              8.75,
+              10.088
             ],
             "passage": [
-              3.85,
-              5.188
+              3.612,
+              4.95
             ]
           }
         }
@@ -118,8 +118,8 @@
           "phonetic": "Bởi phép Đức Chúa Thánh Thần mà Người xuống thai,",
           "timing": {
             "full": [
-              10.287,
-              13.338
+              10.088,
+              13.137
             ],
             "passage": [
               0.0,
@@ -134,16 +134,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "sinh bởi Bà Ma-ri-a đồng trinh,",
-          "phonetic": "sinh bởi Bà Ma-ri-a đồng trinh,",
+          "text": "sinh bởi Bà Maria đồng trinh,",
+          "phonetic": "sinh bởi Bà Maria đồng trinh,",
           "timing": {
             "full": [
-              13.338,
-              15.175
+              13.137,
+              14.887
             ],
             "passage": [
               0.0,
-              2.112
+              2.038
             ]
           }
         }
@@ -154,46 +154,46 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "chịu nạn đời quan Phong-xi-ô Phi-la-tô,",
-          "phonetic": "chịu nạn đời quan Phong-xi-ô Phi-la-tô,",
+          "text": "chịu nạn đời quan Phongxiô Philatô,",
+          "phonetic": "chịu nạn đời quan Phongxiô Philatô,",
           "timing": {
             "full": [
-              15.175,
-              17.225
+              14.887,
+              17.113
             ],
             "passage": [
               0.0,
-              2.112
+              2.275
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "chịu đóng đinh trên cây Thánh Giá,",
-          "phonetic": "chịu đóng đinh trên cây Thánh Giá,",
+          "text": "chịu đóng đanh trên cây Thánh giá,",
+          "phonetic": "chịu đóng đanh trên cây Thánh giá,",
           "timing": {
             "full": [
-              17.225,
-              18.938
+              17.113,
+              18.85
             ],
             "passage": [
-              2.112,
-              3.95
+              2.275,
+              4.1
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "chết và táng xác,",
-          "phonetic": "chết và táng xác,",
+          "text": "chết và táng xác;",
+          "phonetic": "chết và táng xác;",
           "timing": {
             "full": [
-              18.938,
-              20.1
+              18.85,
+              20.012
             ],
             "passage": [
-              3.95,
-              5.138
+              4.1,
+              5.287
             ]
           }
         }
@@ -204,12 +204,12 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "xuống ngục tổ tông,",
-          "phonetic": "xuống ngục tổ tông,",
+          "text": "xuống ngục tổ tông;",
+          "phonetic": "xuống ngục tổ tông;",
           "timing": {
             "full": [
-              20.1,
-              21.238
+              20.012,
+              21.163
             ],
             "passage": [
               0.0,
@@ -224,16 +224,16 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "ngày thứ ba bởi trong kẻ chết mà sống lại,",
-          "phonetic": "ngày thứ ba bởi trong kẻ chết mà sống lại,",
+          "text": "ngày thứ ba bởi trong kẻ chết mà sống lại;",
+          "phonetic": "ngày thứ ba bởi trong kẻ chết mà sống lại;",
           "timing": {
             "full": [
-              21.238,
-              23.5
+              21.163,
+              23.462
             ],
             "passage": [
               0.0,
-              2.4
+              2.6
             ]
           }
         }
@@ -244,16 +244,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng,",
-          "phonetic": "lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng,",
+          "text": "lên trời,",
+          "phonetic": "lên trời,",
           "timing": {
             "full": [
-              23.5,
-              26.3
+              23.462,
+              24.225
             ],
             "passage": [
               0.0,
-              2.962
+              0.775
             ]
           }
         }
@@ -264,16 +264,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.",
-          "phonetic": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.",
+          "text": "ngự bên hữu Đức Chúa Cha phép tắc vô cùng;",
+          "phonetic": "ngự bên hữu Đức Chúa Cha phép tắc vô cùng;",
           "timing": {
             "full": [
-              26.3,
-              29.288
+              24.225,
+              26.538
             ],
             "passage": [
               0.0,
-              3.212
+              2.712
             ]
           }
         }
@@ -284,16 +284,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "Tôi tin kính Đức Chúa Thánh Thần,",
-          "phonetic": "Tôi tin kính Đức Chúa Thánh Thần,",
+          "text": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.",
+          "phonetic": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.",
           "timing": {
             "full": [
-              29.288,
-              31.738
+              26.538,
+              29.525
             ],
             "passage": [
               0.0,
-              1.913
+              3.212
             ]
           }
         }
@@ -304,91 +304,91 @@
       "segments": [
         {
           "passage_segment_id": "11a",
-          "text": "Tôi tin có Hội Thánh hằng có ở khắp thế này,",
-          "phonetic": "Tôi tin có Hội Thánh hằng có ở khắp thế này,",
+          "text": "Tôi tin kính Đức Chúa Thánh Thần.",
+          "phonetic": "Tôi tin kính Đức Chúa Thánh Thần.",
           "timing": {
             "full": [
-              31.738,
-              33.975
+              29.525,
+              32.163
             ],
             "passage": [
               0.0,
-              2.188
+              1.887
             ]
           }
         },
         {
           "passage_segment_id": "11b",
-          "text": "các Thánh thông công,",
-          "phonetic": "các Thánh thông công,",
+          "text": "Tôi tin có Hội Thánh hằng có ở khắp thế này,",
+          "phonetic": "Tôi tin có Hội Thánh hằng có ở khắp thế này,",
           "timing": {
             "full": [
-              33.975,
-              35.062
+              32.163,
+              35.087
             ],
             "passage": [
-              2.188,
-              3.275
+              1.887,
+              4.812
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "tôi tin phép tha tội,",
-          "phonetic": "tôi tin phép tha tội,",
+          "text": "các Thánh thông công,",
+          "phonetic": "các Thánh thông công,",
           "timing": {
             "full": [
-              35.062,
-              36.362
+              35.087,
+              36.175
             ],
             "passage": [
-              3.275,
-              4.575
+              4.812,
+              5.9
             ]
           }
         },
         {
           "passage_segment_id": "11d",
-          "text": "tôi tin xác loài người ngày sau sống lại,",
-          "phonetic": "tôi tin xác loài người ngày sau sống lại,",
+          "text": "tôi tin phép tha tội,",
+          "phonetic": "tôi tin phép tha tội,",
           "timing": {
             "full": [
-              36.362,
-              38.513
+              36.175,
+              37.475
             ],
             "passage": [
-              4.575,
-              6.75
+              5.9,
+              7.2
             ]
           }
         },
         {
           "passage_segment_id": "11e",
-          "text": "tôi tin",
-          "phonetic": "tôi tin",
+          "text": "tôi tin xác loài người ngày sau sống lại,",
+          "phonetic": "tôi tin xác loài người ngày sau sống lại,",
           "timing": {
             "full": [
-              38.513,
-              39.188
+              37.475,
+              39.638
             ],
             "passage": [
-              6.75,
-              7.425
+              7.2,
+              9.375
             ]
           }
         },
         {
           "passage_segment_id": "11f",
-          "text": "hằng sống vậy.",
-          "phonetic": "hằng sống vậy.",
+          "text": "tôi tin hằng sống vậy.",
+          "phonetic": "tôi tin hằng sống vậy.",
           "timing": {
             "full": [
-              39.188,
-              39.925
+              39.638,
+              41.05
             ],
             "passage": [
-              7.425,
-              8.162
+              9.375,
+              10.787
             ]
           }
         }
@@ -403,8 +403,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              39.925,
-              41.337
+              41.05,
+              42.462
             ],
             "passage": [
               0.0,

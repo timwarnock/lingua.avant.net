@@ -105,7 +105,7 @@
         {
           "passage_segment_id": "4a",
           "text": "わたしたちの日ごとの糧を今日もお与えください。",
-          "phonetic": "Watashitachi no higoto no kate o kyō mo oataekudasai.",
+          "phonetic": "Watashitachi no higoto no kate o kyō mo o-atae kudasai.",
           "timing": {
             "full": [
               10.645,
@@ -125,7 +125,7 @@
         {
           "passage_segment_id": "5a",
           "text": "わたしたちの罪をおゆるしください。",
-          "phonetic": "Watashitachi no tsumi o oyurushikudasai.",
+          "phonetic": "Watashitachi no tsumi o o-yurushi kudasai.",
           "timing": {
             "full": [
               14.342,
@@ -174,12 +174,12 @@
         },
         {
           "passage_segment_id": "6b",
-          "text": "悪からお救いください,",
-          "phonetic": "aku kara o suikudasai,",
+          "text": "悪からお救いください。",
+          "phonetic": "aku kara o-sukui kudasai.",
           "timing": {
             "full": [
               22.855,
-              24.684
+              24.671
             ],
             "passage": [
               2.208,
@@ -198,8 +198,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              24.684,
-              25.592
+              24.671,
+              26.118
             ],
             "passage": [
               0.0,

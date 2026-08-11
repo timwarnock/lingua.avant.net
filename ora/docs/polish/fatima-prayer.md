@@ -12,10 +12,10 @@ icon: material/cross
 
 **Polski**
 
-O mój Jezu, przebacz nam nasze grzechy, zachowaj nas od ognia piekielnego, zaprowadź do nieba wszystkie dusze, a zwłaszcza te, które najbardziej potrzebują Twojego miłosierdzia.
+O mój Jezu, przebacz nam nasze grzechy, zachowaj nas od ognia piekielnego, zaprowadź wszystkie dusze do nieba i dopomóż szczególnie tym, którzy najbardziej potrzebują Twojego miłosierdzia. Amen.
 
 **English**
 
-O my Jesus, forgive us our sins, save us from the fires of hell, lead all souls to heaven, especially those who are most in need of thy mercy.
+O my Jesus, forgive us our sins, save us from the fires of hell, lead all souls to heaven, especially those who are most in need of thy mercy. Amen.
 
 </div>

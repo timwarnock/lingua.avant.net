@@ -204,15 +204,30 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "tu vara y tu cayado me sosiegan.",
-          "phonetic": "tu vara y tu cayado me sosiegan.",
+          "text": "tu vara y tu cayado",
+          "phonetic": "tu vara y tu cayado",
           "timing": {
             "full": [
               18.283,
-              20.291
+              19.44
             ],
             "passage": [
               0.0,
+              1.097
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "me sosiegan.",
+          "phonetic": "me sosiegan.",
+          "timing": {
+            "full": [
+              19.44,
+              20.291
+            ],
+            "passage": [
+              1.097,
               2.002
             ]
           }

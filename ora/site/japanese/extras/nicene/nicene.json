@@ -1,8 +1,8 @@
 {
   "id": "nicene",
   "lang": "japanese",
-  "title": "ニケア信条",
-  "title_tooltip": "Nikea shinjō = Nicene Creed",
+  "title": "ニケア・コンスタンチノープル信条",
+  "title_tooltip": "Nikea Konsutantīnōpuru shinjō = Nicene Creed",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
     "rate": "-5%",
@@ -30,7 +30,7 @@
         {
           "passage_segment_id": "1b",
           "text": "全能の父、",
-          "phonetic": "zennō no Chichi,",
+          "phonetic": "zen'nō no chichi,",
           "timing": {
             "full": [
               3.184,
@@ -95,7 +95,7 @@
         {
           "passage_segment_id": "2b",
           "text": "主は神のひとり子、",
-          "phonetic": "Shu wa Kami no hitori go,",
+          "phonetic": "Shu wa Kami no hitoriko,",
           "timing": {
             "full": [
               15.105,
@@ -110,7 +110,7 @@
         {
           "passage_segment_id": "2c",
           "text": "すべてに先立って父より生まれ、",
-          "phonetic": "subete ni sakidatte Chichi yori umare,",
+          "phonetic": "subete ni sakidatte chichi yori umare,",
           "timing": {
             "full": [
               17.092,
@@ -190,7 +190,7 @@
         {
           "passage_segment_id": "3e",
           "text": "父と一体。",
-          "phonetic": "Chichi to ittai.",
+          "phonetic": "chichi to ittai.",
           "timing": {
             "full": [
               26.447,
@@ -335,7 +335,7 @@
         {
           "passage_segment_id": "8a",
           "text": "聖書にあるとおり三日目に",
-          "phonetic": "Seisho ni aru tōri mikka-me ni",
+          "phonetic": "Seisho ni aru tōri mikka me ni",
           "timing": {
             "full": [
               48.816,
@@ -385,7 +385,7 @@
         {
           "passage_segment_id": "9b",
           "text": "父の右の座に着いておられます。",
-          "phonetic": "Chichi no migi no za ni tsuite oraremasu.",
+          "phonetic": "chichi no migi no za ni tsuite oraremasu.",
           "timing": {
             "full": [
               52.868,
@@ -404,31 +404,31 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "主は、栄光のうちに再び来られます、",
-          "phonetic": "Shu wa, eikō no uchi ni futatabi koraremasu,",
+          "text": "主は、生者と死者を裁くために",
+          "phonetic": "Shu wa, seisha to shisha o sabaku tame ni",
           "timing": {
             "full": [
               55.303,
-              58.987
+              58.526
             ],
             "passage": [
               0.0,
-              2.984
+              2.524
             ]
           }
         },
         {
           "passage_segment_id": "10b",
-          "text": "生者と死者を裁くために。",
-          "phonetic": "seisha to shisha o sabaku tame ni.",
+          "text": "栄光のうちに再び来られます。",
+          "phonetic": "eikō no uchi ni futatabi koraremasu.",
           "timing": {
             "full": [
-              58.987,
-              61.092
+              58.526,
+              60.566
             ],
             "passage": [
-              2.984,
-              5.089
+              2.524,
+              4.563
             ]
           }
         },
@@ -438,12 +438,12 @@
           "phonetic": "Sono kuni wa owaru koto ga arimasen.",
           "timing": {
             "full": [
-              61.092,
-              63.895
+              60.566,
+              63.355
             ],
             "passage": [
-              5.089,
-              7.895
+              4.563,
+              7.355
             ]
           }
         }
@@ -458,8 +458,8 @@
           "phonetic": "Watashi wa shinjimasu. Shu de ari, inochi no atae-nushi de aru Seirei o.",
           "timing": {
             "full": [
-              63.895,
-              70.158
+              63.355,
+              69.618
             ],
             "passage": [
               0.0,
@@ -473,8 +473,8 @@
           "phonetic": "Seirei wa,",
           "timing": {
             "full": [
-              70.158,
-              71.553
+              69.618,
+              71.013
             ],
             "passage": [
               5.5,
@@ -484,31 +484,31 @@
         },
         {
           "passage_segment_id": "11c",
-          "text": "父から出て、",
-          "phonetic": "Chichi kara dete,",
+          "text": "父と子から出て、",
+          "phonetic": "chichi to ko kara dete,",
           "timing": {
             "full": [
-              71.553,
-              72.803
+              71.013,
+              72.526
             ],
             "passage": [
               6.895,
-              8.145
+              8.408
             ]
           }
         },
         {
           "passage_segment_id": "11d",
           "text": "父と子とともに礼拝され、栄光を受け、",
-          "phonetic": "Chichi to Ko to tomo ni reihai sare, eikō o uke,",
+          "phonetic": "chichi to ko to tomo ni reihai sare, eikō o uke,",
           "timing": {
             "full": [
-              72.803,
-              76.316
+              72.526,
+              76.066
             ],
             "passage": [
-              8.145,
-              11.658
+              8.408,
+              11.947
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "mata yogensha o tōshite katararemashita.",
           "timing": {
             "full": [
-              76.316,
-              78.842
+              76.066,
+              78.579
             ],
             "passage": [
-              11.658,
-              14.184
+              11.947,
+              14.46
             ]
           }
         }
@@ -535,11 +535,11 @@
         {
           "passage_segment_id": "12a",
           "text": "わたしは、聖なる、普遍の、使徒的、唯一の教会を信じます。",
-          "phonetic": "Watashi wa, sei naru, fuhen no, shito-teki, yuiitsu no kyōkai o shinjimasu.",
+          "phonetic": "Watashi wa, seinaru, fuhen no, shito-teki, yuiitsu no kyōkai o shinjimasu.",
           "timing": {
             "full": [
-              78.842,
-              85.355
+              78.579,
+              85.092
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "Tsumi no yurushi o motarasu yuiitsu no senrei o mitome,",
           "timing": {
             "full": [
-              85.355,
-              89.013
+              85.092,
+              88.75
             ],
             "passage": [
               0.0,
@@ -578,8 +578,8 @@
           "phonetic": "shisha no fukkatsu to",
           "timing": {
             "full": [
-              89.013,
-              90.408
+              88.75,
+              90.145
             ],
             "passage": [
               0.0,
@@ -593,8 +593,8 @@
           "phonetic": "raise no inochi o machinozomimasu.",
           "timing": {
             "full": [
-              90.408,
-              92.395
+              90.145,
+              92.132
             ],
             "passage": [
               1.089,
@@ -613,8 +613,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              92.395,
-              93.79
+              92.132,
+              93.526
             ],
             "passage": [
               0.0,

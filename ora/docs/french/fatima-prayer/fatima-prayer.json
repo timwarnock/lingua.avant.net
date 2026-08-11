@@ -29,16 +29,16 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "pardonne-nous nos péchés,",
-          "phonetic": "pardonne-nous nos péchés,",
+          "text": "pardonnez-nous nos péchés,",
+          "phonetic": "pardonnez-nous nos péchés,",
           "timing": {
             "full": [
               0.839,
-              2.261
+              2.34
             ],
             "passage": [
               0.866,
-              2.247
+              2.326
             ]
           }
         }
@@ -49,16 +49,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "préserve-nous du feu de l'enfer",
-          "phonetic": "préserve-nous du feu de l'enfer,",
+          "text": "préservez-nous du feu de l'enfer,",
+          "phonetic": "préservez-nous du feu de l'enfer,",
           "timing": {
             "full": [
-              2.261,
-              4.274
+              2.34,
+              4.379
             ],
             "passage": [
               0.0,
-              1.997
+              2.024
             ]
           }
         }
@@ -69,16 +69,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "et conduis au ciel toutes les âmes,",
-          "phonetic": "et conduis au ciel toutes les âmes,",
+          "text": "conduisez au ciel toutes les âmes,",
+          "phonetic": "conduisez au ciel toutes les âmes,",
           "timing": {
             "full": [
-              4.274,
-              6.208
+              4.379,
+              6.379
             ],
             "passage": [
               0.0,
-              1.8
+              1.839
             ]
           }
         }
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "surtout celles qui ont le plus besoin de ta miséricorde.",
-          "phonetic": "surtout celles qui ont le plus besoin de ta miséricorde,",
+          "text": "surtout celles qui ont le plus besoin de votre miséricorde.",
+          "phonetic": "surtout celles qui ont le plus besoin de votre miséricorde.",
           "timing": {
             "full": [
-              6.208,
-              9.221
+              6.379,
+              9.655
             ],
             "passage": [
               0.0,
-              3.011
+              3.274
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              9.221,
-              9.984
+              9.655,
+              11.104
             ],
             "passage": [
               0.0,

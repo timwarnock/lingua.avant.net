@@ -459,11 +459,11 @@
           "timing": {
             "full": [
               51.368,
-              53.813
+              53.853
             ],
             "passage": [
               0.0,
-              1.629
+              1.669
             ]
           }
         },
@@ -473,27 +473,27 @@
           "phonetic": "Señor y dador de vida,",
           "timing": {
             "full": [
-              53.813,
-              55.21
+              53.853,
+              55.276
             ],
             "passage": [
-              1.629,
-              3.026
+              1.669,
+              3.092
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "que procede del Padre,",
-          "phonetic": "que procede del Padre,",
+          "text": "que procede del Padre y del Hijo,",
+          "phonetic": "que procede del Padre y del Hijo,",
           "timing": {
             "full": [
-              55.21,
-              56.659
+              55.276,
+              57.231
             ],
             "passage": [
-              3.026,
-              4.475
+              3.092,
+              5.047
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "que con el Padre y el Hijo recibe una misma adoración y gloria,",
           "timing": {
             "full": [
-              56.659,
-              60.158
+              57.231,
+              60.77
             ],
             "passage": [
-              4.475,
-              7.977
+              5.047,
+              8.589
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "y que habló por los profetas.",
           "timing": {
             "full": [
-              60.158,
-              62.006
+              60.77,
+              62.618
             ],
             "passage": [
-              7.977,
-              9.826
+              8.589,
+              10.437
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "Creo en la Iglesia, que es una, santa, católica y apostólica.",
           "timing": {
             "full": [
-              62.006,
-              67.444
+              62.618,
+              68.055
             ],
             "passage": [
               0.0,
@@ -554,12 +554,12 @@
       "segments": [
         {
           "passage_segment_id": "13a",
-          "text": "Confieso que hay un solo Bautismo",
-          "phonetic": "Confieso que hay un solo Bautismo",
+          "text": "Confieso que hay un solo bautismo",
+          "phonetic": "Confieso que hay un solo bautismo",
           "timing": {
             "full": [
-              67.444,
-              70.316
+              68.055,
+              70.928
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "para el perdón de los pecados.",
           "timing": {
             "full": [
-              70.316,
-              71.965
+              70.928,
+              72.577
             ],
             "passage": [
               2.055,
@@ -593,8 +593,8 @@
           "phonetic": "Espero la resurrección de los muertos",
           "timing": {
             "full": [
-              71.965,
-              74.851
+              72.577,
+              75.462
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "y la vida del mundo futuro.",
           "timing": {
             "full": [
-              74.851,
-              76.273
+              75.462,
+              76.885
             ],
             "passage": [
               2.068,
@@ -628,8 +628,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              76.273,
-              77.683
+              76.885,
+              78.295
             ],
             "passage": [
               0.0,

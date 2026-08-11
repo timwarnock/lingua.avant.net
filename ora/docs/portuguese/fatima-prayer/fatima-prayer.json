@@ -69,16 +69,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "levai ao Céu todas as almas,",
-          "phonetic": "levai ao Céu todas as almas,",
+          "text": "levai as almas todas para o Céu,",
+          "phonetic": "levai as almas todas para o Céu,",
           "timing": {
             "full": [
               3.668,
-              5.642
+              5.708
             ],
             "passage": [
               0.0,
-              2.05
+              2.024
             ]
           }
         }
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "principalmente as que mais precisarem da vossa misericórdia,",
-          "phonetic": "principalmente as que mais precisarem da vossa misericórdia,",
+          "text": "principalmente as que mais precisarem da vossa misericórdia.",
+          "phonetic": "principalmente as que mais precisarem da vossa misericórdia.",
           "timing": {
             "full": [
-              5.642,
-              9.142
+              5.708,
+              9.3
             ],
             "passage": [
               0.0,
-              3.484
+              3.537
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              9.142,
-              9.576
+              9.3,
+              10.039
             ],
             "passage": [
               0.0,

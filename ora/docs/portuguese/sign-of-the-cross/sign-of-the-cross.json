@@ -19,11 +19,11 @@
           "timing": {
             "full": [
               0.0,
-              0.997
+              0.984
             ],
             "passage": [
               0.0,
-              0.971
+              0.984
             ]
           }
         },
@@ -33,27 +33,27 @@
           "phonetic": "e do Filho,",
           "timing": {
             "full": [
-              0.997,
+              0.984,
               1.839
             ],
             "passage": [
-              0.971,
-              1.8
+              0.984,
+              1.839
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "e do Espírito Santo,",
-          "phonetic": "e do Espírito Santo,",
+          "text": "e do Espírito Santo.",
+          "phonetic": "e do Espírito Santo.",
           "timing": {
             "full": [
               1.839,
-              3.116
+              3.142
             ],
             "passage": [
-              1.8,
-              3.063
+              1.839,
+              3.142
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              3.116,
-              3.537
+              3.142,
+              3.882
             ],
             "passage": [
               0.0,

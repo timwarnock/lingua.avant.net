@@ -43,7 +43,7 @@
             ],
             "passage": [
               0.0,
-              2.315
+              2.329
             ]
           }
         },
@@ -57,8 +57,8 @@
               5.221
             ],
             "passage": [
-              2.315,
-              3.271
+              2.329,
+              3.3
             ]
           }
         },
@@ -72,8 +72,8 @@
               7.603
             ],
             "passage": [
-              3.271,
-              5.653
+              3.3,
+              5.682
             ]
           }
         },
@@ -87,8 +87,8 @@
               9.603
             ],
             "passage": [
-              5.653,
-              7.653
+              5.682,
+              7.668
             ]
           }
         },
@@ -102,23 +102,8 @@
               10.926
             ],
             "passage": [
-              7.653,
-              8.976
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "2f",
-          "text": "concede, quaesumus,",
-          "phonetic": "concede, quèsumus,",
-          "timing": {
-            "full": [
-              10.926,
-              12.897
-            ],
-            "passage": [
-              8.976,
-              11.485
+              7.668,
+              9.065
             ]
           }
         }
@@ -129,46 +114,46 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "ut haec mysteria",
-          "phonetic": "ut èc mysteria",
+          "text": "concede, quaesumus,",
+          "phonetic": "concede, quèsumus,",
           "timing": {
             "full": [
-              12.897,
-              14.265
+              10.926,
+              12.912
             ],
             "passage": [
               0.0,
-              1.197
+              1.712
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "sanctissimo beatae Mariae Virginis",
-          "phonetic": "sanctissimo beatae Mariae Virginis",
+          "text": "ut haec mysteria",
+          "phonetic": "ut èc mysteria",
           "timing": {
             "full": [
-              14.265,
-              16.706
+              12.912,
+              14.235
             ],
             "passage": [
-              1.197,
-              3.55
+              1.712,
+              3.05
             ]
           }
         },
         {
           "passage_segment_id": "3c",
-          "text": "Rosario recolentes,",
-          "phonetic": "Rosario recolentes,",
+          "text": "sacratissimo beatae Mariae Virginis Rosario recolentes,",
+          "phonetic": "sacratissimo beatae Mariae Virginis Rosario recolentes,",
           "timing": {
             "full": [
-              16.706,
-              18.176
+              14.235,
+              18.191
             ],
             "passage": [
-              3.55,
-              5.094
+              3.05,
+              7.138
             ]
           }
         }
@@ -183,8 +168,8 @@
           "phonetic": "et imitemur quod continent",
           "timing": {
             "full": [
-              18.176,
-              20.515
+              18.191,
+              20.529
             ],
             "passage": [
               0.0,
@@ -198,8 +183,8 @@
           "phonetic": "et quod promittunt assequamur.",
           "timing": {
             "full": [
-              20.515,
-              22.603
+              20.529,
+              22.618
             ],
             "passage": [
               2.138,
@@ -218,8 +203,8 @@
           "phonetic": "Per eundem Christum Dominum nostrum.",
           "timing": {
             "full": [
-              22.603,
-              26.044
+              22.618,
+              26.059
             ],
             "passage": [
               0.0,
@@ -238,8 +223,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              26.044,
-              27.838
+              26.059,
+              27.853
             ],
             "passage": [
               0.0,
@@ -258,8 +243,8 @@
           "phonetic": "Cor Yesu sacratissimum,",
           "timing": {
             "full": [
-              27.838,
-              30.618
+              27.853,
+              30.632
             ],
             "passage": [
               0.0,
@@ -273,8 +258,8 @@
           "phonetic": "miserere nobis.",
           "timing": {
             "full": [
-              30.618,
-              32.294
+              30.632,
+              32.309
             ],
             "passage": [
               1.844,
@@ -293,8 +278,8 @@
           "phonetic": "Cor Mariae immaculatum,",
           "timing": {
             "full": [
-              32.294,
-              34.941
+              32.309,
+              34.956
             ],
             "passage": [
               0.0,
@@ -308,8 +293,8 @@
           "phonetic": "ora pro nobis.",
           "timing": {
             "full": [
-              34.941,
-              36.426
+              34.956,
+              36.441
             ],
             "passage": [
               1.726,

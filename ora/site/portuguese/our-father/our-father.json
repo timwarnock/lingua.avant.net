@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              0.747
+              0.721
             ],
             "passage": [
               0.0,
@@ -33,8 +33,8 @@
           "phonetic": "que estais nos céus,",
           "timing": {
             "full": [
-              0.747,
-              1.866
+              0.721,
+              1.839
             ],
             "passage": [
               0.721,
@@ -48,8 +48,8 @@
           "phonetic": "santificado seja o vosso nome;",
           "timing": {
             "full": [
-              1.866,
-              3.945
+              1.839,
+              3.892
             ],
             "passage": [
               1.813,
@@ -64,16 +64,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "venha a nós o vosso reino.",
-          "phonetic": "venha a nós o vosso reino.",
+          "text": "venha a nós o vosso reino;",
+          "phonetic": "venha a nós o vosso reino;",
           "timing": {
             "full": [
-              3.945,
-              5.682
+              3.892,
+              5.55
             ],
             "passage": [
               0.0,
-              1.629
+              1.642
             ]
           }
         }
@@ -88,8 +88,8 @@
           "phonetic": "seja feita a vossa vontade, assim na terra como no céu.",
           "timing": {
             "full": [
-              5.682,
-              9.289
+              5.55,
+              9.234
             ],
             "passage": [
               0.0,
@@ -104,16 +104,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "O pão nosso de cada dia nos dai hoje,",
-          "phonetic": "O pão nosso de cada dia nos dai hoje,",
+          "text": "O pão nosso de cada dia nos dai hoje;",
+          "phonetic": "O pão nosso de cada dia nos dai hoje;",
           "timing": {
             "full": [
-              9.289,
-              11.895
+              9.234,
+              11.829
             ],
             "passage": [
               0.0,
-              2.418
+              2.497
             ]
           }
         }
@@ -128,8 +128,8 @@
           "phonetic": "perdoai-nos as nossas ofensas,",
           "timing": {
             "full": [
-              11.895,
-              13.855
+              11.829,
+              13.868
             ],
             "passage": [
               0.0,
@@ -143,8 +143,8 @@
           "phonetic": "assim como nós perdoamos a quem nos tem ofendido;",
           "timing": {
             "full": [
-              13.855,
-              16.842
+              13.868,
+              16.895
             ],
             "passage": [
               1.997,
@@ -163,8 +163,8 @@
           "phonetic": "e não nos deixeis cair em tentação,",
           "timing": {
             "full": [
-              16.842,
-              19.145
+              16.895,
+              19.197
             ],
             "passage": [
               0.0,
@@ -174,16 +174,16 @@
         },
         {
           "passage_segment_id": "6b",
-          "text": "mas livrai-nos do mal,",
-          "phonetic": "mas livrai-nos do mal,",
+          "text": "mas livrai-nos do mal.",
+          "phonetic": "mas livrai-nos do mal.",
           "timing": {
             "full": [
-              19.145,
-              20.658
+              19.197,
+              20.684
             ],
             "passage": [
               2.155,
-              3.589
+              3.55
             ]
           }
         }
@@ -198,8 +198,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              20.658,
-              21.289
+              20.684,
+              21.04
             ],
             "passage": [
               0.0,

@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              1.366
+              1.353
             ],
             "passage": [
               0.0,
@@ -33,8 +33,8 @@
           "phonetic": "Kami no ko yo,",
           "timing": {
             "full": [
-              1.366,
-              2.471
+              1.353,
+              2.458
             ],
             "passage": [
               1.313,
@@ -49,16 +49,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "罪人なる我を憐れみ給え。",
-          "phonetic": "Tsumibito naru ware o awaremi tamae.",
+          "text": "罪人なるわたしを",
+          "phonetic": "tsumibito naru watashi o",
           "timing": {
             "full": [
-              2.471,
-              4.76
+              2.458,
+              3.997
             ],
             "passage": [
               0.0,
-              2.037
+              1.287
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "あわれんでください。",
+          "phonetic": "awarende kudasai.",
+          "timing": {
+            "full": [
+              3.997,
+              5.037
+            ],
+            "passage": [
+              1.287,
+              2.313
             ]
           }
         }

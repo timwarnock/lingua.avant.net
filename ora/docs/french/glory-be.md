@@ -12,7 +12,8 @@ icon: material/cross
 
 **Français**
 
-Gloire au Père, au Fils et au Saint-Esprit. Comme il était au commencement, maintenant et toujours, pour les siècles des siècles. Amen.
+
+Gloire au Père, et au Fils, et au Saint-Esprit. Comme il était au commencement, maintenant, et toujours, et dans les siècles des siècles. Amen.
 
 **English**
 

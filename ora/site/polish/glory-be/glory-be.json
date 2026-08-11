@@ -54,11 +54,11 @@
           "timing": {
             "full": [
               2.839,
-              5.052
+              5.065
             ],
             "passage": [
               0.0,
-              1.352
+              1.365
             ]
           }
         },
@@ -68,27 +68,27 @@
           "phonetic": "teraz i zawsze,",
           "timing": {
             "full": [
-              5.052,
-              6.078
+              5.065,
+              6.144
             ],
             "passage": [
-              1.352,
-              2.418
+              1.365,
+              2.444
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "i na wieki wieków,",
-          "phonetic": "i na wieki wieków,",
+          "text": "i na wieki wieków.",
+          "phonetic": "i na wieki wieków.",
           "timing": {
             "full": [
-              6.078,
-              7.197
+              6.144,
+              7.407
             ],
             "passage": [
-              2.418,
-              3.641
+              2.444,
+              3.707
             ]
           }
         }
@@ -103,8 +103,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              7.197,
-              7.776
+              7.407,
+              8.736
             ],
             "passage": [
               0.0,

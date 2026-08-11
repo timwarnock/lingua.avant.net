@@ -34,7 +34,7 @@
           "timing": {
             "full": [
               0.842,
-              3.195
+              3.21
             ],
             "passage": [
               0.857,
@@ -53,7 +53,7 @@
           "phonetic": "libera nos ab igne inferni,",
           "timing": {
             "full": [
-              3.195,
+              3.21,
               5.445
             ],
             "passage": [
@@ -69,16 +69,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "perduc omnes ad caelum,",
-          "phonetic": "perduc omnes ad celum,",
+          "text": "perduc omnes animas ad caelum,",
+          "phonetic": "perduc omnes animas ad celum,",
           "timing": {
             "full": [
               5.445,
-              7.224
+              7.739
             ],
             "passage": [
               0.0,
-              1.962
+              2.506
             ]
           }
         }
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "praesertim eos qui maxime indigent misericordia tua.",
-          "phonetic": "praesertim eos qui maxime indigent misericordia tua,",
+          "text": "praesertim eas quae maxime indigent misericordia tua.",
+          "phonetic": "praesertim eas quae maxime indigent misericordia tua.",
           "timing": {
             "full": [
-              7.224,
-              11.353
+              7.739,
+              11.912
             ],
             "passage": [
               0.0,
-              3.844
+              3.962
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              11.353,
-              12.132
+              11.912,
+              13.691
             ],
             "passage": [
               0.0,

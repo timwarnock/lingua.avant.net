@@ -14,46 +14,46 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "父と子と",
-          "phonetic": "Chichi to Ko to",
+          "text": "栄光は",
+          "phonetic": "Eikō wa",
           "timing": {
             "full": [
               0.0,
-              0.734
+              0.655
             ],
             "passage": [
               0.0,
-              0.734
+              0.655
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "聖霊に",
-          "phonetic": "Seirei ni",
+          "text": "父と子と",
+          "phonetic": "chichi to ko to",
           "timing": {
             "full": [
-              0.734,
-              1.26
+              0.655,
+              1.261
             ],
             "passage": [
-              0.734,
-              1.26
+              0.655,
+              1.261
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "栄光あれ。",
-          "phonetic": "eikō are.",
+          "text": "聖霊に。",
+          "phonetic": "Seirei ni.",
           "timing": {
             "full": [
-              1.26,
-              2.01
+              1.261,
+              1.958
             ],
             "passage": [
-              1.26,
-              2.01
+              1.261,
+              1.958
             ]
           }
         }
@@ -64,61 +64,61 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "初めのように、",
-          "phonetic": "Hajime no yō ni,",
+          "text": "初めのように",
+          "phonetic": "Hajime no yō ni",
           "timing": {
             "full": [
-              2.01,
-              3.658
+              1.958,
+              3.592
             ],
             "passage": [
               0.0,
-              0.945
+              0.905
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "今も、",
-          "phonetic": "ima mo,",
+          "text": "今も",
+          "phonetic": "ima mo",
           "timing": {
             "full": [
-              3.658,
-              4.592
+              3.592,
+              3.921
             ],
             "passage": [
-              0.945,
-              1.866
+              0.905,
+              1.234
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "いつも、",
-          "phonetic": "itsumo,",
+          "text": "いつも",
+          "phonetic": "itsumo",
           "timing": {
             "full": [
-              4.592,
-              5.513
+              3.921,
+              4.263
             ],
             "passage": [
-              1.866,
-              2.761
+              1.234,
+              1.576
             ]
           }
         },
         {
           "passage_segment_id": "2d",
-          "text": "世々に,",
-          "phonetic": "yoyo ni,",
+          "text": "世々に。",
+          "phonetic": "yoyo ni.",
           "timing": {
             "full": [
-              5.513,
-              6.132
+              4.263,
+              4.553
             ],
             "passage": [
-              2.761,
-              3.392
+              1.576,
+              1.866
             ]
           }
         }
@@ -133,8 +133,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              6.132,
-              6.924
+              4.553,
+              6.076
             ],
             "passage": [
               0.0,

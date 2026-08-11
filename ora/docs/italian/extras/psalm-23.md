@@ -12,7 +12,7 @@ icon: material/cross
 
 **Italiano**
 
-Salmo di Davide. Il Signore è il mio pastore: non manco di nulla. Su pascoli erbosi mi fa riposare, ad acque tranquille mi conduce. Rinfranca l'anima mia, mi guida per il giusto cammino per amore del suo nome. Se dovessi camminare in una valle oscura, non temerei alcun male, perché tu sei con me. Il tuo bastone e il tuo vincastro mi danno sicurezza. Davanti a me tu prepari una mensa sotto gli occhi dei miei nemici. Ungi di olio il mio capo; il mio calice trabocca. Felicità e grazia mi saranno compagne tutti i giorni della mia vita, e abiterò nella casa del Signore per lunghi giorni.
+Salmo. Di Davide. Il Signore è il mio pastore: non manco di nulla. Su pascoli erbosi mi fa riposare, ad acque tranquille mi conduce. Rinfranca l'anima mia, mi guida per il giusto cammino a motivo del suo nome. Anche se vado per una valle oscura, non temo alcun male, perché tu sei con me. Il tuo bastone e il tuo vincastro mi danno sicurezza. Davanti a me tu prepari una mensa sotto gli occhi dei miei nemici. Ungi di olio il mio capo; il mio calice trabocca. Sì, bontà e fedeltà mi saranno compagne tutti i giorni della mia vita, abiterò ancora nella casa del Signore per lunghi giorni.
 
 **English**
 

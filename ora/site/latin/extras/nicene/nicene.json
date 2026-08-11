@@ -459,11 +459,11 @@
           "timing": {
             "full": [
               63.353,
-              66.176
+              66.132
             ],
             "passage": [
               0.0,
-              1.903
+              1.859
             ]
           }
         },
@@ -473,27 +473,27 @@
           "phonetic": "Dominum et vivificantem,",
           "timing": {
             "full": [
-              66.176,
+              66.132,
               68.162
             ],
             "passage": [
-              1.903,
+              1.859,
               3.888
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "qui ex Patre procedit.",
-          "phonetic": "qui ex Patre procedit.",
+          "text": "qui ex Patre Filioque procedit.",
+          "phonetic": "qui ex Patre Filioque procedit.",
           "timing": {
             "full": [
               68.162,
-              70.074
+              70.662
             ],
             "passage": [
               3.888,
-              5.8
+              6.388
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "Qui cum Patre et Filio simul adoratur et conglorificatur:",
           "timing": {
             "full": [
-              70.074,
-              74.941
+              70.662,
+              75.529
             ],
             "passage": [
-              5.8,
-              10.676
+              6.388,
+              11.265
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "qui locutus est per prophetas.",
           "timing": {
             "full": [
-              74.941,
-              77.618
+              75.529,
+              78.206
             ],
             "passage": [
-              10.676,
-              13.353
+              11.265,
+              13.941
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "Et unam, sànktam, catholicam et apostolicam Ecclesiam.",
           "timing": {
             "full": [
-              77.618,
-              83.221
+              78.206,
+              83.809
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "Confiteor unum baptisma",
           "timing": {
             "full": [
-              83.221,
-              85.926
+              83.809,
+              86.515
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "in remissionem peccatorum.",
           "timing": {
             "full": [
-              85.926,
-              87.794
+              86.515,
+              88.382
             ],
             "passage": [
               1.785,
@@ -589,12 +589,12 @@
       "segments": [
         {
           "passage_segment_id": "14a",
-          "text": "Et expecto resurrectionem mortuorum,",
-          "phonetic": "Et expecto resurretsionem mortuorum,",
+          "text": "Et exspecto resurrectionem mortuorum,",
+          "phonetic": "Et exspecto resurretsionem mortuorum,",
           "timing": {
             "full": [
-              87.794,
-              91.441
+              88.382,
+              92.029
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "et vitam venturi seculi.",
           "timing": {
             "full": [
-              91.441,
-              93.721
+              92.029,
+              94.309
             ],
             "passage": [
               2.712,
@@ -628,8 +628,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              93.721,
-              95.515
+              94.309,
+              96.103
             ],
             "passage": [
               0.0,

@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              0.932
+              0.958
             ],
             "passage": [
               0.0,
@@ -33,27 +33,27 @@
           "phonetic": "i Syna,",
           "timing": {
             "full": [
-              0.932,
-              1.589
+              0.958,
+              1.629
             ],
             "passage": [
               0.958,
-              1.616
+              1.629
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "i Ducha Świętego,",
-          "phonetic": "i Ducha Świętego,",
+          "text": "i Ducha Świętego.",
+          "phonetic": "i Ducha Świętego.",
           "timing": {
             "full": [
-              1.589,
-              2.8
+              1.629,
+              2.839
             ],
             "passage": [
-              1.616,
-              2.826
+              1.629,
+              2.839
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              2.8,
-              3.405
+              2.839,
+              4.21
             ],
             "passage": [
               0.0,

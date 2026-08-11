@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              0.984
+              0.971
             ],
             "passage": [
               0.0,
@@ -29,31 +29,31 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "au Fils,",
-          "phonetic": "au Fils,",
+          "text": "et au Fils,",
+          "phonetic": "et au Fils,",
           "timing": {
             "full": [
-              0.984,
-              1.721
+              0.971,
+              1.958
             ],
             "passage": [
               0.971,
-              1.708
+              1.958
             ]
           }
         },
         {
           "passage_segment_id": "1c",
           "text": "et au Saint-Esprit.",
-          "phonetic": "et au Saint-Esprit,",
+          "phonetic": "et au Saint-Esprit.",
           "timing": {
             "full": [
-              1.721,
-              2.932
+              1.958,
+              3.234
             ],
             "passage": [
-              1.708,
-              2.918
+              1.958,
+              3.234
             ]
           }
         }
@@ -68,12 +68,12 @@
           "phonetic": "Comme il était au commencement,",
           "timing": {
             "full": [
-              2.932,
-              4.603
+              3.234,
+              5.513
             ],
             "passage": [
               0.0,
-              1.458
+              1.471
             ]
           }
         },
@@ -83,12 +83,12 @@
           "phonetic": "maintenant,",
           "timing": {
             "full": [
-              4.603,
-              5.497
+              5.513,
+              6.408
             ],
             "passage": [
-              1.458,
-              2.353
+              1.471,
+              2.366
             ]
           }
         },
@@ -98,27 +98,27 @@
           "phonetic": "et toujours,",
           "timing": {
             "full": [
-              5.497,
-              6.445
+              6.408,
+              7.316
             ],
             "passage": [
-              2.353,
+              2.366,
               3.274
             ]
           }
         },
         {
           "passage_segment_id": "2d",
-          "text": "pour les siècles des siècles.",
-          "phonetic": "pour les siècles des siècles,",
+          "text": "et dans les siècles des siècles.",
+          "phonetic": "et dans les siècles des siècles.",
           "timing": {
             "full": [
-              6.445,
-              7.932
+              7.316,
+              9.0
             ],
             "passage": [
               3.274,
-              4.813
+              4.958
             ]
           }
         }
@@ -133,8 +133,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              7.932,
-              8.695
+              9.0,
+              10.446
             ],
             "passage": [
               0.0,

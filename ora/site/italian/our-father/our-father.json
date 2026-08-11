@@ -109,7 +109,7 @@
           "timing": {
             "full": [
               9.917,
-              12.611
+              12.625
             ],
             "passage": [
               0.0,
@@ -128,27 +128,27 @@
           "phonetic": "e rimetti a noi i nostri debiti,",
           "timing": {
             "full": [
-              12.611,
-              14.833
+              12.625,
+              14.847
             ],
             "passage": [
               0.0,
-              2.092
+              2.064
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "come noi li rimettiamo ai nostri debitori.",
-          "phonetic": "come noi li rimettiamo ai nostri debitori.",
+          "text": "come anche noi li rimettiamo ai nostri debitori.",
+          "phonetic": "come anche noi li rimettiamo ai nostri debitori.",
           "timing": {
             "full": [
-              14.833,
-              17.653
+              14.847,
+              17.958
             ],
             "passage": [
-              2.092,
-              4.772
+              2.064,
+              5.106
             ]
           }
         }
@@ -159,16 +159,16 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "E non ci indurre in tentazione,",
-          "phonetic": "E non ci indurre in tentazione,",
+          "text": "E non abbandonarci alla tentazione,",
+          "phonetic": "E non abbandonarci alla tentazione,",
           "timing": {
             "full": [
-              17.653,
-              20.014
+              17.958,
+              20.417
             ],
             "passage": [
               0.0,
-              2.175
+              2.272
             ]
           }
         },
@@ -178,12 +178,12 @@
           "phonetic": "ma liberaci dal male.",
           "timing": {
             "full": [
-              20.014,
-              21.625
+              20.417,
+              22.014
             ],
             "passage": [
-              2.175,
-              3.786
+              2.272,
+              3.869
             ]
           }
         }
@@ -198,8 +198,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              21.625,
-              22.514
+              22.014,
+              22.903
             ],
             "passage": [
               0.0,

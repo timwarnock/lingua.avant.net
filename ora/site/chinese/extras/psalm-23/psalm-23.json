@@ -15,7 +15,7 @@
         {
           "passage_segment_id": "1a",
           "text": "達味詩歌。",
-          "phonetic": "Dáwèi shīgē.",
+          "phonetic": "Dá wèi shī gē.",
           "timing": {
             "full": [
               0.0,
@@ -35,7 +35,7 @@
         {
           "passage_segment_id": "2a",
           "text": "上主是我的牧者，",
-          "phonetic": "Shàngzhǔ shì wǒ de mùzhě,",
+          "phonetic": "Shàng zhǔ shì wǒ de mù zhě,",
           "timing": {
             "full": [
               1.103,
@@ -50,7 +50,7 @@
         {
           "passage_segment_id": "2b",
           "text": "我實在一無所缺。",
-          "phonetic": "wǒ shízài yīwúsuǒquē.",
+          "phonetic": "wǒ shí zài yī wú suǒ quē.",
           "timing": {
             "full": [
               3.092,
@@ -70,7 +70,7 @@
         {
           "passage_segment_id": "3a",
           "text": "他使我臥在青綠的草場，",
-          "phonetic": "Tā shǐ wǒ wò zài qīnglǜ de cǎochǎng,",
+          "phonetic": "Tā shǐ wǒ wò zài qīng lǜ de cǎo chǎng,",
           "timing": {
             "full": [
               4.763,
@@ -85,11 +85,11 @@
         {
           "passage_segment_id": "3b",
           "text": "又領我走近幽靜的水旁，",
-          "phonetic": "yòu lǐng wǒ zǒujìn yōujìng de shuǐ páng,",
+          "phonetic": "yòu lǐng wǒ zǒu jìn yōu jìng de shuǐ páng,",
           "timing": {
             "full": [
               7.329,
-              9.632
+              9.697
             ],
             "passage": [
               2.063,
@@ -104,46 +104,46 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "他使我的心靈蘇醒，",
-          "phonetic": "Tā shǐ wǒ de xīnlíng sūxǐng,",
+          "text": "還使我的心靈得到舒暢。",
+          "phonetic": "Hái shǐ wǒ de xīn líng dé dào shū chàng.",
           "timing": {
             "full": [
-              9.632,
-              11.368
+              9.697,
+              11.855
             ],
             "passage": [
               0.0,
-              1.642
+              2.155
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "為了自己的名",
-          "phonetic": "wèile zìjǐ de míng",
+          "text": "他為了自己名號的原由，",
+          "phonetic": "Tā wèi le zì jǐ míng hào de yuán yóu,",
           "timing": {
             "full": [
-              11.368,
-              12.546
+              11.855,
+              14.276
             ],
             "passage": [
-              1.642,
-              2.938
+              2.155,
+              4.579
             ]
           }
         },
         {
           "passage_segment_id": "4c",
-          "text": "導我踏上了正義的坦途。",
-          "phonetic": "dǎo wǒ tà shàng le zhèngyì de tǎntú.",
+          "text": "領我踏上了正義的坦途。",
+          "phonetic": "lǐng wǒ tà shàng le zhèng yì de tǎn tú.",
           "timing": {
             "full": [
-              12.546,
-              14.618
+              14.276,
+              16.421
             ],
             "passage": [
-              2.938,
-              5.076
+              4.579,
+              6.724
             ]
           }
         }
@@ -155,11 +155,11 @@
         {
           "passage_segment_id": "5a",
           "text": "縱使我應走過陰森的幽谷，",
-          "phonetic": "Zòngshǐ wǒ yīng zǒuguò yīnsēn de yōugǔ,",
+          "phonetic": "Zòng shǐ wǒ yīng zǒu guò yīn sēn de yōu gǔ,",
           "timing": {
             "full": [
-              14.618,
-              17.421
+              16.421,
+              19.224
             ],
             "passage": [
               0.0,
@@ -169,12 +169,12 @@
         },
         {
           "passage_segment_id": "5b",
-          "text": "我不怕兇險，",
-          "phonetic": "wǒ bù pà xiōngxiǎn,",
+          "text": "我不怕凶險，",
+          "phonetic": "wǒ bù pà xiōng xiǎn,",
           "timing": {
             "full": [
-              17.421,
-              18.684
+              19.224,
+              20.487
             ],
             "passage": [
               2.313,
@@ -185,11 +185,11 @@
         {
           "passage_segment_id": "5c",
           "text": "因你與我同在。",
-          "phonetic": "yīn nǐ yǔ wǒ tóngzài.",
+          "phonetic": "yīn nǐ yǔ wǒ tóng zài.",
           "timing": {
             "full": [
-              18.684,
-              20.053
+              20.487,
+              21.855
             ],
             "passage": [
               3.576,
@@ -205,30 +205,30 @@
         {
           "passage_segment_id": "6a",
           "text": "你的牧杖和短棒，",
-          "phonetic": "Nǐ de mùzhàng hé duǎnbàng,",
+          "phonetic": "Nǐ de mù zhàng hé duǎn bàng,",
           "timing": {
             "full": [
-              20.053,
-              21.987
+              21.855,
+              23.776
             ],
             "passage": [
               0.0,
-              1.445
+              1.432
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "是我的安慰勇往。",
-          "phonetic": "shì wǒ de ānwèi yǒngwǎng.",
+          "text": "是我的安慰舒暢。",
+          "phonetic": "shì wǒ de ān wèi shū chàng.",
           "timing": {
             "full": [
-              21.987,
-              23.579
+              23.776,
+              25.368
             ],
             "passage": [
-              1.445,
-              3.037
+              1.432,
+              3.024
             ]
           }
         }
@@ -240,11 +240,11 @@
         {
           "passage_segment_id": "7a",
           "text": "在我對頭面前，",
-          "phonetic": "Zài wǒ duìtóu miànqián,",
+          "phonetic": "Zài wǒ duì tóu miàn qián,",
           "timing": {
             "full": [
-              23.579,
-              25.408
+              25.368,
+              27.21
             ],
             "passage": [
               0.0,
@@ -255,11 +255,11 @@
         {
           "passage_segment_id": "7b",
           "text": "你為我擺設了筵席；",
-          "phonetic": "nǐ wèi wǒ bǎishè le yánxí;",
+          "phonetic": "nǐ wèi wǒ bǎi shè le yán xí;",
           "timing": {
             "full": [
-              25.408,
-              27.158
+              27.21,
+              28.961
             ],
             "passage": [
               1.379,
@@ -278,8 +278,8 @@
           "phonetic": "Zài wǒ de tóu shàng fù yóu,",
           "timing": {
             "full": [
-              27.158,
-              28.895
+              28.961,
+              30.697
             ],
             "passage": [
               0.0,
@@ -290,11 +290,11 @@
         {
           "passage_segment_id": "8b",
           "text": "使我的杯爵滿溢。",
-          "phonetic": "shǐ wǒ de bēijué mǎnyì.",
+          "phonetic": "shǐ wǒ de bēi jué mǎn yì.",
           "timing": {
             "full": [
-              28.895,
-              30.434
+              30.697,
+              32.237
             ],
             "passage": [
               1.445,
@@ -310,11 +310,11 @@
         {
           "passage_segment_id": "9a",
           "text": "在我一生歲月裏，",
-          "phonetic": "Zài wǒ yīshēng suìyuè lǐ,",
+          "phonetic": "Zài wǒ yī shēng suì yuè lǐ,",
           "timing": {
             "full": [
-              30.434,
-              32.434
+              32.237,
+              34.237
             ],
             "passage": [
               0.0,
@@ -325,11 +325,11 @@
         {
           "passage_segment_id": "9b",
           "text": "幸福與慈愛常隨不離；",
-          "phonetic": "xìngfú yǔ cí'ài cháng suí bù lí;",
+          "phonetic": "xìng fú yǔ cí ài cháng suí bù lí;",
           "timing": {
             "full": [
-              32.434,
-              34.671
+              34.237,
+              36.474
             ],
             "passage": [
               1.471,
@@ -345,11 +345,11 @@
         {
           "passage_segment_id": "10a",
           "text": "我將住在上主的殿裏，",
-          "phonetic": "Wǒ jiāng zhù zài Shàngzhǔ de diàn lǐ,",
+          "phonetic": "Wǒ jiāng zhù zài Shàng zhǔ de diàn lǐ,",
           "timing": {
             "full": [
-              34.671,
-              36.763
+              36.474,
+              38.566
             ],
             "passage": [
               0.0,
@@ -360,11 +360,11 @@
         {
           "passage_segment_id": "10b",
           "text": "直至悠遠的時日。",
-          "phonetic": "zhízhì yōuyuǎn de shírì.",
+          "phonetic": "zhí zhì yōu yuǎn de shí rì.",
           "timing": {
             "full": [
-              36.763,
-              38.474
+              38.566,
+              40.276
             ],
             "passage": [
               1.866,

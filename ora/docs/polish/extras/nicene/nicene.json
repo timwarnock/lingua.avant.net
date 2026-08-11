@@ -334,16 +334,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "I zmartwychwstał trzeciego dnia,",
-          "phonetic": "I zmartwychwstał trzeciego dnia,",
+          "text": "I zmartwychwstał dnia trzeciego,",
+          "phonetic": "I zmartwychwstał dnia trzeciego,",
           "timing": {
             "full": [
               41.394,
-              43.973
+              44.052
             ],
             "passage": [
               0.0,
-              1.72
+              1.799
             ]
           }
         },
@@ -353,12 +353,12 @@
           "phonetic": "jak oznajmia Pismo.",
           "timing": {
             "full": [
-              43.973,
-              45.355
+              44.052,
+              45.341
             ],
             "passage": [
-              1.72,
-              3.102
+              1.799,
+              3.089
             ]
           }
         }
@@ -373,8 +373,8 @@
           "phonetic": "I wstąpił do nieba;",
           "timing": {
             "full": [
-              45.355,
-              47.368
+              45.341,
+              47.355
             ],
             "passage": [
               0.0,
@@ -388,8 +388,8 @@
           "phonetic": "siedzi po prawicy Ojca.",
           "timing": {
             "full": [
-              47.368,
-              49.013
+              47.355,
+              48.999
             ],
             "passage": [
               1.181,
@@ -408,8 +408,8 @@
           "phonetic": "I powtórnie przyjdzie w chwale",
           "timing": {
             "full": [
-              49.013,
-              51.381
+              48.999,
+              51.368
             ],
             "passage": [
               0.0,
@@ -423,8 +423,8 @@
           "phonetic": "sądzić żywych i umarłych,",
           "timing": {
             "full": [
-              51.381,
-              52.973
+              51.368,
+              52.96
             ],
             "passage": [
               1.418,
@@ -438,8 +438,8 @@
           "phonetic": "a królestwu Jego nie będzie końca.",
           "timing": {
             "full": [
-              52.973,
-              54.92
+              52.96,
+              54.907
             ],
             "passage": [
               3.01,
@@ -458,12 +458,12 @@
           "phonetic": "Wierzę w Ducha Świętego,",
           "timing": {
             "full": [
-              54.92,
+              54.907,
               57.197
             ],
             "passage": [
               0.0,
-              1.352
+              1.365
             ]
           }
         },
@@ -477,23 +477,23 @@
               58.368
             ],
             "passage": [
-              1.352,
-              2.523
+              1.365,
+              2.536
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "który od Ojca pochodzi.",
-          "phonetic": "który od Ojca pochodzi.",
+          "text": "który od Ojca i Syna pochodzi.",
+          "phonetic": "który od Ojca i Syna pochodzi.",
           "timing": {
             "full": [
               58.368,
-              59.907
+              60.512
             ],
             "passage": [
-              2.523,
-              4.062
+              2.536,
+              4.681
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę;",
           "timing": {
             "full": [
-              59.907,
-              64.184
+              60.512,
+              64.776
             ],
             "passage": [
-              4.062,
-              8.341
+              4.681,
+              8.947
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "który mówił przez Proroków.",
           "timing": {
             "full": [
-              64.184,
-              65.934
+              64.776,
+              66.526
             ],
             "passage": [
-              8.341,
-              10.091
+              8.947,
+              10.697
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "Wierzę w jeden, święty, powszechny i apostolski Kościół.",
           "timing": {
             "full": [
-              65.934,
-              70.368
+              66.526,
+              70.96
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "Wyznaję jeden chrzest",
           "timing": {
             "full": [
-              70.368,
-              72.565
+              70.96,
+              73.157
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "na odpuszczenie grzechów.",
           "timing": {
             "full": [
-              72.565,
-              74.026
+              73.157,
+              74.618
             ],
             "passage": [
               1.365,
@@ -593,8 +593,8 @@
           "phonetic": "I oczekuję wskrzeszenia umarłych",
           "timing": {
             "full": [
-              74.026,
-              76.697
+              74.618,
+              77.289
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "i życia wiecznego w przyszłym świecie.",
           "timing": {
             "full": [
-              76.697,
-              78.605
+              77.289,
+              79.197
             ],
             "passage": [
               1.852,
@@ -628,8 +628,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              78.605,
-              80.026
+              79.197,
+              80.618
             ],
             "passage": [
               0.0,

@@ -14,46 +14,46 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Je vous salue, Marie,",
-          "phonetic": "Je vous salue, Marie,",
+          "text": "Je vous salue Marie,",
+          "phonetic": "Je vous salue Marie,",
           "timing": {
             "full": [
               0.0,
-              1.589
+              1.182
             ],
             "passage": [
               0.0,
-              1.629
+              1.182
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "pleine de grâces,",
-          "phonetic": "pleine de grâces,",
+          "text": "pleine de grâce,",
+          "phonetic": "pleine de grâce,",
           "timing": {
             "full": [
-              1.589,
-              2.76
+              1.182,
+              2.379
             ],
             "passage": [
-              1.629,
-              2.813
+              1.182,
+              2.379
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "le Seigneur est avec vous;",
-          "phonetic": "le Seigneur est avec vous,",
+          "text": "le Seigneur est avec vous.",
+          "phonetic": "le Seigneur est avec vous.",
           "timing": {
             "full": [
-              2.76,
-              4.195
+              2.379,
+              3.879
             ],
             "passage": [
-              2.813,
-              4.234
+              2.379,
+              3.879
             ]
           }
         }
@@ -64,31 +64,46 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "vous êtes bénie entre toutes les femmes,",
-          "phonetic": "vous êtes bénie entre toutes les femmes,",
+          "text": "Vous êtes bénie entre toutes les femmes,",
+          "phonetic": "Vous êtes bénie entre toutes les femmes,",
           "timing": {
             "full": [
-              4.195,
-              6.155
+              3.879,
+              6.539
             ],
             "passage": [
               0.0,
-              1.813
+              1.853
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "et Jésus, le fruit de vos entrailles, est béni.",
-          "phonetic": "et Jésus, le fruit de vos entrailles, est béni,",
+          "text": "et Jésus, le fruit de vos entrailles,",
+          "phonetic": "et Jésus, le fruit de vos entrailles,",
           "timing": {
             "full": [
-              6.155,
-              9.208
+              6.539,
+              8.868
             ],
             "passage": [
-              1.813,
-              4.984
+              1.853,
+              4.182
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2c",
+          "text": "est béni.",
+          "phonetic": "est béni.",
+          "timing": {
+            "full": [
+              8.868,
+              9.789
+            ],
+            "passage": [
+              4.182,
+              5.103
             ]
           }
         }
@@ -103,12 +118,12 @@
           "phonetic": "Sainte Marie,",
           "timing": {
             "full": [
-              9.208,
-              10.195
+              9.789,
+              11.5
             ],
             "passage": [
               0.0,
-              0.932
+              0.905
             ]
           }
         },
@@ -118,27 +133,27 @@
           "phonetic": "Mère de Dieu,",
           "timing": {
             "full": [
-              10.195,
-              11.221
+              11.5,
+              12.539
             ],
             "passage": [
-              0.932,
-              1.945
+              0.905,
+              1.932
             ]
           }
         },
         {
           "passage_segment_id": "3c",
-          "text": "priez pour nous, pécheurs,",
-          "phonetic": "priez pour nous, pécheurs,",
+          "text": "priez pour nous pauvres pécheurs,",
+          "phonetic": "priez pour nous pauvres pécheurs,",
           "timing": {
             "full": [
-              11.221,
-              12.997
+              12.539,
+              14.395
             ],
             "passage": [
-              1.945,
-              3.76
+              1.932,
+              3.787
             ]
           }
         }
@@ -149,16 +164,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "maintenant, et à l'heure de notre mort.",
-          "phonetic": "maintenant, et à l'heure de notre mort,",
+          "text": "maintenant et à l'heure de notre mort.",
+          "phonetic": "maintenant et à l'heure de notre mort.",
           "timing": {
             "full": [
-              12.997,
-              15.339
+              14.395,
+              16.526
             ],
             "passage": [
               0.0,
-              2.325
+              2.036
             ]
           }
         }
@@ -173,8 +188,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              15.339,
-              16.076
+              16.526,
+              17.972
             ],
             "passage": [
               0.0,

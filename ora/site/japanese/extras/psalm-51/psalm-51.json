@@ -1,7 +1,7 @@
 {
   "id": "psalm-51",
   "lang": "japanese",
-  "title": "詩篇第51篇",
+  "title": "詩編第51編",
   "title_tooltip": "Shihen dai 51-hen = Psalm 51",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
@@ -14,16 +14,31 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "指揮者のために。ダビデの詩。",
-          "phonetic": "Shikisha no tame ni. Dabide no uta.",
+          "text": "指揮者によって。",
+          "phonetic": "Shikisha ni yotte.",
           "timing": {
             "full": [
               0.0,
-              2.816
+              1.116
             ],
             "passage": [
               0.0,
-              2.816
+              1.116
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1b",
+          "text": "賛歌。ダビデの詩。",
+          "phonetic": "Sanka. Dabide no uta.",
+          "timing": {
+            "full": [
+              1.116,
+              4.132
+            ],
+            "passage": [
+              1.116,
+              4.132
             ]
           }
         }
@@ -34,31 +49,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "預言者ナタンが彼のもとに来たとき、",
-          "phonetic": "Yogensha Natan ga kare no moto ni kita toki,",
+          "text": "ダビデがバト・シェバと通じたので",
+          "phonetic": "Dabide ga Bato-Sheba to tsūjita node",
           "timing": {
             "full": [
-              2.816,
-              5.961
+              4.132,
+              6.842
             ],
             "passage": [
               0.0,
-              2.418
+              1.984
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "彼がバト・シェバと罪を犯した後に。",
-          "phonetic": "kare ga Bato-Sheba to tsumi o okashita ato ni.",
+          "text": "預言者ナタンがダビデのもとに来たとき。",
+          "phonetic": "yogensha Natan ga Dabide no moto ni kita toki.",
           "timing": {
             "full": [
-              5.961,
-              8.697
+              6.842,
+              9.342
             ],
             "passage": [
-              2.418,
-              5.155
+              1.984,
+              4.484
             ]
           }
         }
@@ -69,31 +84,61 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "神よ、あなたの慈しみによって、わたしを憐れみ、",
-          "phonetic": "Kami yo, anata no itsukushimi ni yotte, watashi o awaremi,",
+          "text": "神よ、わたしを憐れんでください",
+          "phonetic": "Kami yo, watashi o awarende kudasai",
           "timing": {
             "full": [
-              8.697,
-              13.487
+              9.342,
+              12.513
             ],
             "passage": [
               0.0,
-              4.076
+              2.418
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "豊かなあわれみによって、わたしの背きを拭い去ってください。",
-          "phonetic": "yutaka na awaremi ni yotte, watashi no somuki o nugui satte kudasai.",
+          "text": "御慈しみをもって。",
+          "phonetic": "o-itsukushimi o motte.",
           "timing": {
             "full": [
-              13.487,
-              17.947
+              12.513,
+              13.816
             ],
             "passage": [
-              4.076,
-              8.537
+              2.418,
+              3.721
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3c",
+          "text": "深い御憐れみをもって",
+          "phonetic": "Fukai o-awaremi o motte",
+          "timing": {
+            "full": [
+              13.816,
+              15.987
+            ],
+            "passage": [
+              3.721,
+              5.895
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "3d",
+          "text": "背きの罪をぬぐってください。",
+          "phonetic": "somuki no tsumi o nugutte kudasai.",
+          "timing": {
+            "full": [
+              15.987,
+              18.079
+            ],
+            "passage": [
+              5.895,
+              7.987
             ]
           }
         }
@@ -104,31 +149,31 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "わたしの咎をことごとく洗い、",
-          "phonetic": "Watashi no toga o kotogotoku araigai,",
+          "text": "わたしの咎をことごとく洗い",
+          "phonetic": "Watashi no toga o kotogotoku arai",
           "timing": {
             "full": [
-              17.947,
-              20.671
+              18.079,
+              20.71
             ],
             "passage": [
               0.0,
-              1.984
+              1.866
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "罪からわたしを清めてください。",
-          "phonetic": "tsumi kara watashi o kiyomete kudasai.",
+          "text": "罪から清めてください。",
+          "phonetic": "tsumi kara kiyomete kudasai.",
           "timing": {
             "full": [
-              20.671,
-              23.053
+              20.71,
+              22.171
             ],
             "passage": [
-              1.984,
-              4.366
+              1.866,
+              3.326
             ]
           }
         }
@@ -139,31 +184,31 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "わたしは自分の背きを知っています。",
-          "phonetic": "Watashi wa jibun no somuki o shitte imasu.",
+          "text": "あなたに背いたことをわたしは知っています。",
+          "phonetic": "Anata ni somuita koto o watashi wa shitte imasu.",
           "timing": {
             "full": [
-              23.053,
-              26.237
+              22.171,
+              25.684
             ],
             "passage": [
               0.0,
-              2.432
+              2.747
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "わたしの罪は常にわたしの前にあります。",
-          "phonetic": "Watashi no tsumi wa tsune ni watashi no mae ni arimasu.",
+          "text": "わたしの罪は常にわたしの前に置かれています。",
+          "phonetic": "Watashi no tsumi wa tsune ni watashi no mae ni okarete imasu.",
           "timing": {
             "full": [
-              26.237,
-              30.066
+              25.684,
+              29.803
             ],
             "passage": [
-              2.432,
-              6.263
+              2.747,
+              6.868
             ]
           }
         }
@@ -174,61 +219,61 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "あなたに対して、あなたのみにわたしは罪を犯し、",
-          "phonetic": "Anata ni taishite, anata nomi ni watashi wa tsumi o okashi,",
+          "text": "あなたに、あなたのみにわたしは罪を犯し",
+          "phonetic": "Anata ni, anata nomi ni watashi wa tsumi o okashi",
           "timing": {
             "full": [
-              30.066,
-              34.434
+              29.803,
+              33.816
             ],
             "passage": [
               0.0,
-              3.655
+              3.3
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "あなたの目の前で悪いことをしました。",
-          "phonetic": "anata no me no mae de warui koto o shimashita.",
+          "text": "御目に悪事と見られることをしました。",
+          "phonetic": "o-me ni akuji to mirareru koto o shimashita.",
           "timing": {
             "full": [
-              34.434,
-              37.105
+              33.816,
+              35.934
             ],
             "passage": [
-              3.655,
-              6.326
+              3.3,
+              5.418
             ]
           }
         },
         {
           "passage_segment_id": "6c",
-          "text": "それゆえ、あなたが宣告されるとき正しく、",
-          "phonetic": "Sore yue, anata ga senkoku sareru toki tadashiku,",
+          "text": "あなたの言われることは正しく",
+          "phonetic": "Anata no iwareru koto wa tadashiku",
           "timing": {
             "full": [
-              37.105,
-              41.066
+              35.934,
+              38.605
             ],
             "passage": [
-              6.326,
-              10.289
+              5.418,
+              8.092
             ]
           }
         },
         {
           "passage_segment_id": "6d",
-          "text": "裁かれるとき勝ちます。",
-          "phonetic": "sabakareru toki kachimasu.",
+          "text": "あなたの裁きに誤りはありません。",
+          "phonetic": "anata no sabaki ni ayamari wa arimasen.",
           "timing": {
             "full": [
-              41.066,
-              42.987
+              38.605,
+              40.684
             ],
             "passage": [
-              10.289,
-              12.211
+              8.092,
+              10.171
             ]
           }
         }
@@ -239,31 +284,31 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "見よ、わたしは不義のうちに生まれ、",
-          "phonetic": "Miyo, watashi wa fugi no uchi ni umare,",
+          "text": "わたしは咎のうちに産み落とされ",
+          "phonetic": "Watashi wa toga no uchi ni umiotosare",
           "timing": {
             "full": [
-              42.987,
-              46.197
+              40.684,
+              43.395
             ],
             "passage": [
               0.0,
-              2.51
+              1.971
             ]
           }
         },
         {
           "passage_segment_id": "7b",
-          "text": "母は罪のうちにわたしをみごもりました。",
-          "phonetic": "haha wa tsumi no uchi ni watashi o migomorimashita.",
+          "text": "母がわたしを身ごもったときも　わたしは罪のうちにあったのです。",
+          "phonetic": "haha ga watashi o migomotta toki mo watashi wa tsumi no uchi ni atta no desu.",
           "timing": {
             "full": [
-              46.197,
-              49.197
+              43.395,
+              47.474
             ],
             "passage": [
-              2.51,
-              5.51
+              1.971,
+              6.05
             ]
           }
         }
@@ -274,46 +319,31 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "見よ、あなたは真実を愛し、",
-          "phonetic": "Miyo, anata wa shinjitsu o aishi,",
+          "text": "あなたは秘儀ではなくまことを望み",
+          "phonetic": "Anata wa higi de wa naku makoto o nozomi",
           "timing": {
             "full": [
-              49.197,
-              52.434
+              47.474,
+              50.316
             ],
             "passage": [
               0.0,
-              2.524
+              2.142
             ]
           }
         },
         {
           "passage_segment_id": "8b",
-          "text": "知恵の奥深い秘密を",
-          "phonetic": "chie no okufukai himitsu o",
+          "text": "秘術を排して知恵を悟らせてくださいます。",
+          "phonetic": "hijutsu o haishite chie o satorasete kudasaimasu.",
           "timing": {
             "full": [
-              52.434,
-              54.25
+              50.316,
+              53.118
             ],
             "passage": [
-              2.524,
-              4.339
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "8c",
-          "text": "わたしに示されました。",
-          "phonetic": "watashi ni shimesaremashita.",
-          "timing": {
-            "full": [
-              54.25,
-              55.618
-            ],
-            "passage": [
-              4.339,
-              5.708
+              2.142,
+              4.945
             ]
           }
         }
@@ -324,31 +354,61 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "ヒソプをもってわたしを清めてください。わたしは清くなります。",
-          "phonetic": "Hisopu o motte watashi o kiyomete kudasai. Watashi wa kiyoku narimasu.",
+          "text": "ヒソプの枝でわたしの罪を払ってください",
+          "phonetic": "Hisopu no eda de watashi no tsumi o haratte kudasai",
           "timing": {
             "full": [
-              55.618,
-              61.197
+              53.118,
+              56.632
             ],
             "passage": [
               0.0,
-              4.868
+              2.813
             ]
           }
         },
         {
           "passage_segment_id": "9b",
-          "text": "わたしを洗ってください。わたしは雪よりも白くなります。",
-          "phonetic": "Watashi o aratte kudasai. Watashi wa yuki yori mo shiroku narimasu.",
+          "text": "わたしが清くなるように。",
+          "phonetic": "watashi ga kiyoku naru yō ni.",
           "timing": {
             "full": [
-              61.197,
-              66.447
+              56.632,
+              58.092
             ],
             "passage": [
-              4.868,
-              10.118
+              2.813,
+              4.274
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "わたしを洗ってください",
+          "phonetic": "Watashi o aratte kudasai",
+          "timing": {
+            "full": [
+              58.092,
+              60.289
+            ],
+            "passage": [
+              4.274,
+              6.474
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "雪よりも白くなるように。",
+          "phonetic": "yuki yori mo shiroku naru yō ni.",
+          "timing": {
+            "full": [
+              60.289,
+              61.842
+            ],
+            "passage": [
+              6.474,
+              8.026
             ]
           }
         }
@@ -359,31 +419,31 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "喜びと楽しみをわたしに聞かせてください。",
-          "phonetic": "Yorokobi to tanoshimi o watashi ni kikasete kudasai.",
+          "text": "喜び祝う声を聞かせてください",
+          "phonetic": "Yorokobi iwau koe o kikasete kudasai",
           "timing": {
             "full": [
-              66.447,
-              69.961
+              61.842,
+              64.75
             ],
             "passage": [
               0.0,
-              2.774
+              2.182
             ]
           }
         },
         {
           "passage_segment_id": "10b",
-          "text": "あなたが砕かれた骨は喜び躍るでしょう。",
-          "phonetic": "Anata ga kudakareta hone wa yorokobi odoru deshō.",
+          "text": "あなたによって砕かれたこの骨が喜び躍るように。",
+          "phonetic": "anata ni yotte kudakareta kono hone ga yorokobi odoru yō ni.",
           "timing": {
             "full": [
-              69.961,
-              73.75
+              64.75,
+              67.947
             ],
             "passage": [
-              2.774,
-              6.566
+              2.182,
+              5.379
             ]
           }
         }
@@ -394,31 +454,31 @@
       "segments": [
         {
           "passage_segment_id": "11a",
-          "text": "わたしの罪から御顔を背け、",
-          "phonetic": "Watashi no tsumi kara o-kao o somuke,",
+          "text": "わたしの罪に御顔を向けず",
+          "phonetic": "Watashi no tsumi ni o-kao o mukezu",
           "timing": {
             "full": [
-              73.75,
-              76.474
+              67.947,
+              70.474
             ],
             "passage": [
               0.0,
-              2.024
+              1.813
             ]
           }
         },
         {
           "passage_segment_id": "11b",
-          "text": "わたしのすべての咎を拭い去ってください。",
-          "phonetic": "watashi no subete no toga o nugui satte kudasai.",
+          "text": "咎をことごとくぬぐってください。",
+          "phonetic": "toga o kotogotoku nugutte kudasai.",
           "timing": {
             "full": [
-              76.474,
-              79.461
+              70.474,
+              72.355
             ],
             "passage": [
-              2.024,
-              5.011
+              1.813,
+              3.695
             ]
           }
         }
@@ -429,31 +489,31 @@
       "segments": [
         {
           "passage_segment_id": "12a",
-          "text": "神よ、わたしのうちに清い心を創造し、",
-          "phonetic": "Kami yo, watashi no uchi ni kiyoi kokoro o sōzō shi,",
+          "text": "神よ、わたしの内に清い心を創造し",
+          "phonetic": "Kami yo, watashi no uchi ni kiyoi kokoro o sōzō shi",
           "timing": {
             "full": [
-              79.461,
-              83.618
+              72.355,
+              76.316
             ],
             "passage": [
               0.0,
-              3.418
+              3.208
             ]
           }
         },
         {
           "passage_segment_id": "12b",
-          "text": "わたしの内に正しい霊を新たにしてください。",
-          "phonetic": "watashi no uchi ni tadashii rei o arata ni shite kudasai.",
+          "text": "新しく確かな霊を授けてください。",
+          "phonetic": "atarashiku tashikana rei o sazukete kudasai.",
           "timing": {
             "full": [
-              83.618,
-              86.763
+              76.316,
+              78.697
             ],
             "passage": [
-              3.418,
-              6.563
+              3.208,
+              5.589
             ]
           }
         }
@@ -464,31 +524,31 @@
       "segments": [
         {
           "passage_segment_id": "13a",
-          "text": "わたしを御前から退けず、",
-          "phonetic": "Watashi o o-mae kara shirizokezu,",
+          "text": "御前からわたしを退けず",
+          "phonetic": "O-mae kara watashi o shirizokezu",
           "timing": {
             "full": [
-              86.763,
-              89.461
+              78.697,
+              81.237
             ],
             "passage": [
               0.0,
-              1.958
+              1.8
             ]
           }
         },
         {
           "passage_segment_id": "13b",
-          "text": "あなたの聖なる霊をわたしから取り去らないでください。",
-          "phonetic": "anata no sei naru rei o watashi kara torisaranai de kudasai.",
+          "text": "あなたの聖なる霊を取り上げないでください。",
+          "phonetic": "anata no sei naru rei o toriagenai de kudasai.",
           "timing": {
             "full": [
-              89.461,
-              92.987
+              81.237,
+              83.776
             ],
             "passage": [
-              1.958,
-              5.484
+              1.8,
+              4.339
             ]
           }
         }
@@ -499,31 +559,31 @@
       "segments": [
         {
           "passage_segment_id": "14a",
-          "text": "あなたの救いの喜びをわたしに返し、",
-          "phonetic": "Anata no sukui no yorokobi o watashi ni kaeshi,",
+          "text": "御救いの喜びを再びわたしに味わわせ",
+          "phonetic": "O-sukui no yorokobi o futatabi watashi ni ajiwawase",
           "timing": {
             "full": [
-              92.987,
-              96.342
+              83.776,
+              87.303
             ],
             "passage": [
               0.0,
-              2.629
+              2.787
             ]
           }
         },
         {
           "passage_segment_id": "14b",
-          "text": "喜んで仕える霊をもってわたしを支えてください。",
-          "phonetic": "yorokonde tsukaeru rei o motte watashi o sasaete kudasai.",
+          "text": "自由の霊によって支えてください。",
+          "phonetic": "jiyū no rei ni yotte sasaete kudasai.",
           "timing": {
             "full": [
-              96.342,
-              99.947
+              87.303,
+              89.46
             ],
             "passage": [
-              2.629,
-              6.234
+              2.787,
+              4.945
             ]
           }
         }
@@ -534,31 +594,31 @@
       "segments": [
         {
           "passage_segment_id": "15a",
-          "text": "わたしは背く者にあなたの道を教え、",
-          "phonetic": "Watashi wa somuku mono ni anata no michi o oshie,",
+          "text": "わたしはあなたの道を教えます",
+          "phonetic": "Watashi wa anata no michi o oshiemasu",
           "timing": {
             "full": [
-              99.947,
-              103.408
+              89.46,
+              92.25
             ],
             "passage": [
               0.0,
-              2.734
+              2.063
             ]
           }
         },
         {
           "passage_segment_id": "15b",
-          "text": "罪人はあなたのもとに帰るでしょう。",
-          "phonetic": "tsumibito wa anata no moto ni kaeru deshō.",
+          "text": "あなたに背いている者に　罪人が御もとに立ち帰るように。",
+          "phonetic": "anata ni somuite iru mono ni tsumibito ga o-moto ni tachikaeru yō ni.",
           "timing": {
             "full": [
-              103.408,
-              106.079
+              92.25,
+              95.763
             ],
             "passage": [
-              2.734,
-              5.405
+              2.063,
+              5.576
             ]
           }
         }
@@ -569,46 +629,46 @@
       "segments": [
         {
           "passage_segment_id": "16a",
-          "text": "神よ、わたしの救いの神よ、",
-          "phonetic": "Kami yo, watashi no sukui no Kami yo,",
+          "text": "神よ、わたしの救いの神よ",
+          "phonetic": "Kami yo, watashi no sukui no Kami yo",
           "timing": {
             "full": [
-              106.079,
-              109.158
+              95.763,
+              98.816
             ],
             "passage": [
               0.0,
-              2.392
+              2.339
             ]
           }
         },
         {
           "passage_segment_id": "16b",
-          "text": "血のとがからわたしを救い出してください。",
-          "phonetic": "chi no toga kara watashi o sukuidashite kudasai.",
+          "text": "流血の災いからわたしを救い出してください。",
+          "phonetic": "ryūketsu no wazawai kara watashi o sukuidashite kudasai.",
           "timing": {
             "full": [
-              109.158,
-              111.921
+              98.816,
+              101.724
             ],
             "passage": [
-              2.392,
-              5.155
+              2.339,
+              5.247
             ]
           }
         },
         {
           "passage_segment_id": "16c",
-          "text": "わたしの舌はあなたの正義を喜び歌います。",
-          "phonetic": "Watashi no shita wa anata no seigi o yorokobi utaimasu.",
+          "text": "恵みの御業をこの舌は喜び歌います。",
+          "phonetic": "Megumi no o-waza o kono shita wa yorokobi utaimasu.",
           "timing": {
             "full": [
-              111.921,
-              115.947
+              101.724,
+              105.553
             ],
             "passage": [
-              5.155,
-              9.184
+              5.247,
+              9.079
             ]
           }
         }
@@ -619,31 +679,31 @@
       "segments": [
         {
           "passage_segment_id": "17a",
-          "text": "主よ、わたしの唇を開いてください。",
-          "phonetic": "Shu yo, watashi no kuchibiru o hiraite kudasai.",
+          "text": "主よ、わたしの唇を開いてください",
+          "phonetic": "Shu yo, watashi no kuchibiru o hiraite kudasai",
           "timing": {
             "full": [
-              115.947,
-              119.579
+              105.553,
+              109.184
             ],
             "passage": [
               0.0,
-              2.932
+              2.918
             ]
           }
         },
         {
           "passage_segment_id": "17b",
-          "text": "わたしの口はあなたの賛美を告げます。",
-          "phonetic": "Watashi no kuchi wa anata no sanbi o tsugemasu.",
+          "text": "この口はあなたの賛美を歌います。",
+          "phonetic": "kono kuchi wa anata no sanbi o utaimasu.",
           "timing": {
             "full": [
-              119.579,
-              123.118
+              109.184,
+              111.526
             ],
             "passage": [
-              2.932,
-              6.474
+              2.918,
+              5.261
             ]
           }
         }
@@ -654,31 +714,46 @@
       "segments": [
         {
           "passage_segment_id": "18a",
-          "text": "あなたがいけにえを望まれるなら、わたしはささげます。",
-          "phonetic": "Anata ga ikenie o nozomareru nara, watashi wa sasagemasu.",
+          "text": "もしいけにえがあなたに喜ばれ",
+          "phonetic": "Moshi ikenie ga anata ni yorokobare",
           "timing": {
             "full": [
-              123.118,
-              127.632
+              111.526,
+              114.132
             ],
             "passage": [
               0.0,
-              3.787
+              1.905
             ]
           }
         },
         {
           "passage_segment_id": "18b",
-          "text": "しかし、焼き尽くすいけにえをあなたは喜ばれません。",
-          "phonetic": "Shikashi, yakitsukusu ikenie o anata wa yorokobaremasen.",
+          "text": "焼き尽くす献げ物が御旨にかなうのなら",
+          "phonetic": "yakitsukusu sasagemono ga o-mune ni kanau no nara",
           "timing": {
             "full": [
-              127.632,
-              132.053
+              114.132,
+              116.724
             ],
             "passage": [
-              3.787,
-              8.21
+              1.905,
+              4.497
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "18c",
+          "text": "わたしはそれをささげます。",
+          "phonetic": "watashi wa sore o sasagemasu.",
+          "timing": {
+            "full": [
+              116.724,
+              118.421
+            ],
+            "passage": [
+              4.497,
+              6.195
             ]
           }
         }
@@ -689,46 +764,46 @@
       "segments": [
         {
           "passage_segment_id": "19a",
-          "text": "神へのいけにえは打ち砕かれた霊。",
-          "phonetic": "Kami e no ikenie wa uchikudakareta rei.",
+          "text": "しかし、神の求めるいけにえは打ち砕かれた霊。",
+          "phonetic": "Shikashi, Kami no motomeru ikenie wa uchikudakareta rei.",
           "timing": {
             "full": [
-              132.053,
-              135.237
+              118.421,
+              122.763
             ],
             "passage": [
               0.0,
-              2.418
+              3.642
             ]
           }
         },
         {
           "passage_segment_id": "19b",
-          "text": "打ち砕かれ、へりくだった心を、神よ、",
-          "phonetic": "Uchikudakare, herikudatta kokoro o, Kami yo,",
+          "text": "打ち砕かれ悔いる心を",
+          "phonetic": "Uchikudakare kuiru kokoro o",
           "timing": {
             "full": [
-              135.237,
-              139.408
+              122.763,
+              125.079
             ],
             "passage": [
-              2.418,
-              6.592
+              3.642,
+              5.961
             ]
           }
         },
         {
           "passage_segment_id": "19c",
-          "text": "あなたは軽んじられません。",
-          "phonetic": "anata wa karonjiraremasen.",
+          "text": "神よ、あなたは侮られません。",
+          "phonetic": "Kami yo, anata wa anadoraremasen.",
           "timing": {
             "full": [
-              139.408,
-              141.316
+              125.079,
+              127.329
             ],
             "passage": [
-              6.592,
-              8.5
+              5.961,
+              8.21
             ]
           }
         }
@@ -739,31 +814,31 @@
       "segments": [
         {
           "passage_segment_id": "20a",
-          "text": "主よ、あなたの御心によってシオンを恵み、",
-          "phonetic": "Shu yo, anata no mi-kokoro ni yotte Shion o megumi,",
+          "text": "御旨のままにシオンを恵み",
+          "phonetic": "O-mune no mama ni Shion o megumi",
           "timing": {
             "full": [
-              141.316,
-              145.395
+              127.329,
+              129.908
             ],
             "passage": [
               0.0,
-              3.339
+              1.826
             ]
           }
         },
         {
           "passage_segment_id": "20b",
-          "text": "エルサレムの城壁を建て直してください。",
-          "phonetic": "Erusaremu no jōheki o tatenaoshite kudasai.",
+          "text": "エルサレムの城壁を築いてください。",
+          "phonetic": "Erusaremu no jōheki o kizuite kudasai.",
           "timing": {
             "full": [
-              145.395,
-              148.237
+              129.908,
+              132.237
             ],
             "passage": [
-              3.339,
-              6.182
+              1.826,
+              4.155
             ]
           }
         }
@@ -774,46 +849,46 @@
       "segments": [
         {
           "passage_segment_id": "21a",
-          "text": "そのとき、あなたは正しいいけにえを受け入れ、",
-          "phonetic": "Sono toki, anata wa tadashii ikenie o ukeire,",
+          "text": "そのときには、正しいいけにえも",
+          "phonetic": "Sono toki ni wa, tadashii ikenie mo",
           "timing": {
             "full": [
-              148.237,
-              152.237
+              132.237,
+              135.342
             ],
             "passage": [
               0.0,
-              3.26
+              2.353
             ]
           }
         },
         {
           "passage_segment_id": "21b",
-          "text": "ささげ物と焼き尽くすいけにえを。",
-          "phonetic": "sasagemono to yakitsukusu ikenie o.",
+          "text": "焼き尽くす完全な献げ物も、あなたに喜ばれ",
+          "phonetic": "yakitsukusu kanzen na sasagemono mo, anata ni yorokobare",
           "timing": {
             "full": [
-              152.237,
-              154.776
+              135.342,
+              138.75
             ],
             "passage": [
-              3.26,
-              5.8
+              2.353,
+              5.761
             ]
           }
         },
         {
           "passage_segment_id": "21c",
-          "text": "そのとき、彼らはあなたの祭壇に子牛をささげます。",
-          "phonetic": "Sono toki, karera wa anata no saidan ni koushi o sasagemasu.",
+          "text": "そのときには、あなたの祭壇に雄牛がささげられるでしょう。",
+          "phonetic": "sono toki ni wa, anata no saidan ni oushi ga sasagerareru deshō.",
           "timing": {
             "full": [
-              154.776,
-              159.408
+              138.75,
+              142.658
             ],
             "passage": [
-              5.8,
-              10.434
+              5.761,
+              9.668
             ]
           }
         }

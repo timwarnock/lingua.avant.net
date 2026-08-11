@@ -1,7 +1,7 @@
 {
   "id": "hail-holy-queen",
   "lang": "polish",
-  "title": "Zdrowaś, Królowo",
+  "title": "Witaj, Królowo",
   "title_tooltip": "Hail, Holy Queen",
   "tts": {
     "voice": "pl-PL-ZofiaNeural",
@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Zdrowaś, Królowo,",
-          "phonetic": "Zdrowaś, Królowo,",
+          "text": "Witaj, Królowo,",
+          "phonetic": "Witaj, Królowo,",
           "timing": {
             "full": [
               0.0,
-              1.299
+              1.141
             ],
             "passage": [
               0.0,
-              1.299
+              1.141
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "Matko miłosierdzia,",
           "timing": {
             "full": [
-              1.299,
-              2.391
+              1.141,
+              2.22
             ],
             "passage": [
-              1.299,
-              2.391
+              1.141,
+              2.22
             ]
           }
         },
@@ -48,12 +48,12 @@
           "phonetic": "życie,",
           "timing": {
             "full": [
-              2.391,
-              2.878
+              2.22,
+              2.72
             ],
             "passage": [
-              2.391,
-              2.878
+              2.22,
+              2.72
             ]
           }
         },
@@ -63,27 +63,27 @@
           "phonetic": "słodyczy i nadziejo nasza,",
           "timing": {
             "full": [
-              2.878,
-              4.497
+              2.72,
+              4.312
             ],
             "passage": [
-              2.878,
-              4.497
+              2.72,
+              4.312
             ]
           }
         },
         {
           "passage_segment_id": "1e",
-          "text": "witaj!",
-          "phonetic": "witaj!",
+          "text": "witaj.",
+          "phonetic": "witaj.",
           "timing": {
             "full": [
-              4.497,
-              5.141
+              4.312,
+              4.944
             ],
             "passage": [
-              4.497,
-              5.141
+              4.312,
+              4.944
             ]
           }
         }
@@ -94,16 +94,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Do Ciebie wołamy wygnańcy, dzieci Ewy.",
-          "phonetic": "Do Ciebie wołamy wygnańcy, dzieci Ewy.",
+          "text": "Do Ciebie wołamy wygnańcy,",
+          "phonetic": "Do Ciebie wołamy wygnańcy,",
           "timing": {
             "full": [
-              5.141,
-              8.434
+              4.944,
+              7.407
             ],
             "passage": [
               0.0,
-              2.444
+              1.602
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "2b",
+          "text": "synowie Ewy.",
+          "phonetic": "synowie Ewy.",
+          "timing": {
+            "full": [
+              7.407,
+              8.381
+            ],
+            "passage": [
+              1.602,
+              2.576
             ]
           }
         }
@@ -118,8 +133,8 @@
           "phonetic": "Do Ciebie wzdychamy,",
           "timing": {
             "full": [
-              8.434,
-              10.526
+              8.381,
+              10.46
             ],
             "passage": [
               0.0,
@@ -133,8 +148,8 @@
           "phonetic": "jęcząc i płacząc na tym łez padole.",
           "timing": {
             "full": [
-              10.526,
-              12.71
+              10.46,
+              12.644
             ],
             "passage": [
               1.207,
@@ -153,8 +168,8 @@
           "phonetic": "Przeto, Orędowniczko nasza,",
           "timing": {
             "full": [
-              12.71,
-              15.316
+              12.644,
+              15.25
             ],
             "passage": [
               0.0,
@@ -168,8 +183,8 @@
           "phonetic": "one miłosierne oczy Twoje na nas zwróć.",
           "timing": {
             "full": [
-              15.316,
-              17.684
+              15.25,
+              17.618
             ],
             "passage": [
               1.695,
@@ -188,8 +203,8 @@
           "phonetic": "A Jezusa,",
           "timing": {
             "full": [
-              17.684,
-              19.328
+              17.618,
+              19.262
             ],
             "passage": [
               0.0,
@@ -199,16 +214,16 @@
         },
         {
           "passage_segment_id": "5b",
-          "text": "błogosławiony owoc żywota Twego,",
-          "phonetic": "błogosławiony owoc żywota Twego,",
+          "text": "błogosławiony owoc żywota Twojego,",
+          "phonetic": "błogosławiony owoc żywota Twojego,",
           "timing": {
             "full": [
-              19.328,
-              21.328
+              19.262,
+              21.368
             ],
             "passage": [
               0.707,
-              2.707
+              2.812
             ]
           }
         },
@@ -218,12 +233,12 @@
           "phonetic": "po tym wygnaniu nam okaż.",
           "timing": {
             "full": [
-              21.328,
-              22.828
+              21.368,
+              22.868
             ],
             "passage": [
-              2.707,
-              4.207
+              2.812,
+              4.312
             ]
           }
         }
@@ -238,8 +253,8 @@
           "phonetic": "O łaskawa,",
           "timing": {
             "full": [
-              22.828,
-              24.474
+              22.868,
+              24.526
             ],
             "passage": [
               0.0,
@@ -253,8 +268,8 @@
           "phonetic": "o litościwa,",
           "timing": {
             "full": [
-              24.474,
-              25.382
+              24.526,
+              25.434
             ],
             "passage": [
               0.787,
@@ -268,8 +283,8 @@
           "phonetic": "o słodka Panno Maryjo.",
           "timing": {
             "full": [
-              25.382,
-              27.026
+              25.434,
+              27.079
             ],
             "passage": [
               1.695,
@@ -288,8 +303,8 @@
           "phonetic": "Módl się za nami,",
           "timing": {
             "full": [
-              27.026,
-              28.881
+              27.079,
+              28.934
             ],
             "passage": [
               0.0,
@@ -303,8 +318,8 @@
           "phonetic": "Święta Boża Rodzicielko.",
           "timing": {
             "full": [
-              28.881,
-              30.512
+              28.934,
+              30.565
             ],
             "passage": [
               0.984,
@@ -323,8 +338,8 @@
           "phonetic": "Abyśmy się stali godnymi obietnic Chrystusowych.",
           "timing": {
             "full": [
-              30.512,
-              34.368
+              30.565,
+              34.42
             ],
             "passage": [
               0.0,

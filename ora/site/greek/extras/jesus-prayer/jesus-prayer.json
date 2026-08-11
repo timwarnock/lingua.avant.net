@@ -15,29 +15,29 @@
         {
           "passage_segment_id": "1a",
           "text": "Κύριε Ιησού Χριστέ,",
-          "phonetic": "Ký-rie I-ē-soû Chris-té,",
+          "phonetic": "Kí-ri-e I-i-sú Chris-té,",
           "timing": {
             "full": [
               0.0,
-              1.429
+              1.613
             ],
             "passage": [
               0.0,
-              1.521
+              1.732
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "Υιέ του Θεού,",
-          "phonetic": "Yi-é tou The-oú,",
+          "phonetic": "I-é tu The-ú,",
           "timing": {
             "full": [
-              1.429,
-              2.574
+              1.613,
+              2.797
             ],
             "passage": [
-              1.521,
+              1.732,
               2.758
             ]
           }
@@ -49,31 +49,31 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "ελέησόν με,",
-          "phonetic": "e-lé-i-són me,",
+          "text": "ελέησόν με",
+          "phonetic": "e-lé-i-són me",
           "timing": {
             "full": [
-              2.574,
-              3.811
+              2.797,
+              3.429
             ],
             "passage": [
               0.0,
-              1.245
+              0.889
             ]
           }
         },
         {
           "passage_segment_id": "2b",
           "text": "τον αμαρτωλόν.",
-          "phonetic": "ton ha-mar-to-lón.",
+          "phonetic": "ton a-mar-to-lón.",
           "timing": {
             "full": [
-              3.811,
-              4.863
+              3.429,
+              4.271
             ],
             "passage": [
-              1.245,
-              2.337
+              0.889,
+              1.784
             ]
           }
         }

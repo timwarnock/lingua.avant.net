@@ -107,7 +107,12 @@ function createApp(container, opts = {}) {
   function detachSync(audio) {
     if (syncListeners.has(audio)) {
       const h = syncListeners.get(audio);
-      audio.removeEventListener('timeupdate', h);
+      try { if (h._stopTick) h._stopTick(); } catch (e) {}
+      try { audio.removeEventListener('timeupdate', h); } catch (e) {}
+      try { audio.removeEventListener('play', h); } catch (e) {}
+      try { audio.removeEventListener('seeking', h); } catch (e) {}
+      try { audio.removeEventListener('pause', h._stopTick); } catch (e) {}
+      try { if (h._onEnded) audio.removeEventListener('ended', h._onEnded); } catch (e) {}
       syncListeners.delete(audio);
     }
   }
@@ -115,38 +120,71 @@ function createApp(container, opts = {}) {
   function attachSync(audio, rangeMap, lang = null) {
     detachSync(audio);
     if (!rangeMap || Object.keys(rangeMap).length === 0) return;
-    const handler = (ev) => {
-      const t = ev.target.currentTime;
-      let sid = null;
-      let last_started = null;
-      for (const [s, rng] of Object.entries(rangeMap)) {
-        if (rng && rng[0] <= t) {
-          last_started = s;  // advance to the latest segment that has started by now
-        }
-        if (rng && rng[0] <= t && t < rng[1]) {
-          sid = s;
-          break;
-        }
-      }
-      if (sid === null) {
-        sid = last_started;  // if in middle of one or tail, use the current started one
-      }
+
+    // Sort by start so we always pick the active range reliably (not Object.entries order + break).
+    const ranges = Object.entries(rangeMap)
+      .filter(([, rng]) => Array.isArray(rng) && rng.length >= 2)
+      .map(([sid, rng]) => ({ sid, start: rng[0], end: rng[1] }))
+      .sort((a, b) => a.start - b.start || a.end - b.end);
+
+    let rafId = 0;
+    const applyHighlight = (sid) => {
       clearAllSegmentHighlights();
-      if (sid) {
-        const selector = lang
-          ? `.dual-seg[data-sid="${sid}"][data-lang="${lang}"]`
-          : `.dual-seg[data-sid="${sid}"]`;
-        container.querySelectorAll(selector).forEach(el => {
-          el.classList.add('playing');
-        });
+      if (!sid) return;
+      const selector = lang
+        ? `.dual-seg[data-sid="${sid}"][data-lang="${lang}"]`
+        : `.dual-seg[data-sid="${sid}"]`;
+      container.querySelectorAll(selector).forEach(el => {
+        el.classList.add('playing');
+      });
+    };
+
+    const tick = () => {
+      if (audio.paused || audio.ended) {
+        applyHighlight(null);
+        rafId = 0;
+        return;
+      }
+      const t = audio.currentTime;
+      // Active segment only while currentTime is inside its spoken [start, end).
+      // Do not hold the previous segment across long TTS pauses (Greek periods, Amen gaps).
+      let sid = null;
+      for (let i = 0; i < ranges.length; i++) {
+        const r = ranges[i];
+        if (r.start <= t && t < r.end) sid = r.sid;
+        if (r.start > t) break;
+      }
+      applyHighlight(sid);
+      rafId = requestAnimationFrame(tick);
+    };
+
+    const startTick = () => {
+      if (!rafId) rafId = requestAnimationFrame(tick);
+    };
+    const stopTick = () => {
+      if (rafId) {
+        cancelAnimationFrame(rafId);
+        rafId = 0;
       }
     };
-    audio.addEventListener('timeupdate', handler);
-    syncListeners.set(audio, handler);
-    audio.addEventListener('ended', () => {
-      clearAllSegmentHighlights();
+
+    // Store cancel hooks on the handler object for detachSync
+    const handler = () => startTick();
+    handler._stopTick = stopTick;
+    handler._onEnded = () => {
+      stopTick();
+      applyHighlight(null);
       detachSync(audio);
-    }, { once: true });
+    };
+
+    audio.addEventListener('play', handler);
+    audio.addEventListener('seeking', handler);
+    audio.addEventListener('timeupdate', handler); // fallback if play already fired
+    audio.addEventListener('ended', handler._onEnded, { once: true });
+    audio.addEventListener('pause', stopTick);
+    syncListeners.set(audio, handler);
+    // If already playing when attached, start immediately
+    if (!audio.paused && !audio.ended) startTick();
   }
 
   function clearExternalSync() {
@@ -167,39 +205,10 @@ function createApp(container, opts = {}) {
     const rangeMap = (useFull ? maps.full : maps.full) || {};
     if (Object.keys(rangeMap).length === 0) return;
 
-    const handler = (ev) => {
-      const t = ev.target.currentTime;
-      let sid = null;
-      let last_started = null;
-      for (const [s, rng] of Object.entries(rangeMap)) {
-        if (rng && rng[0] <= t) {
-          last_started = s;  // advance to the latest segment that has started by now
-        }
-        if (rng && rng[0] <= t && t < rng[1]) {
-          sid = s;
-          break;
-        }
-      }
-      if (sid === null) {
-        sid = last_started;  // if in middle of one or tail, use the current started one
-      }
-      clearAllSegmentHighlights();
-      if (sid) {
-        const selector = lang
-          ? `.dual-seg[data-sid="${sid}"][data-lang="${lang}"]`
-          : `.dual-seg[data-sid="${sid}"]`;
-        container.querySelectorAll(selector).forEach(el => {
-          el.classList.add('playing');
-        });
-      }
-    };
-    audio.addEventListener('timeupdate', handler);
+    // Reuse the same rAF karaoke path as attachSync
+    attachSync(audio, rangeMap, lang);
     externalSyncAudio = audio;
-    externalSyncHandler = handler;
-    audio.addEventListener('ended', () => {
-      clearAllSegmentHighlights();
-      clearExternalSync();
-    }, { once: true });
+    externalSyncHandler = syncListeners.get(audio);
   }
 
   function audioKey(tag, key) {

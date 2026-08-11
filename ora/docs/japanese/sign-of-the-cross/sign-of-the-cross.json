@@ -44,16 +44,16 @@
         },
         {
           "passage_segment_id": "1c",
-          "text": "聖霊の御名によって,",
-          "phonetic": "Seirei no mina ni yotte,",
+          "text": "聖霊のみ名によって。",
+          "phonetic": "Seirei no mina ni yotte.",
           "timing": {
             "full": [
               0.734,
-              2.221
+              2.089
             ],
             "passage": [
               0.734,
-              2.261
+              2.089
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "Āmen.",
           "timing": {
             "full": [
-              2.221,
-              3.129
+              2.089,
+              3.5
             ],
             "passage": [
               0.0,

@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              0.984
+              0.997
             ],
             "passage": [
               0.0,
@@ -33,7 +33,7 @@
           "phonetic": "qui es aux cieux,",
           "timing": {
             "full": [
-              0.984,
+              0.997,
               2.01
             ],
             "passage": [
@@ -44,12 +44,12 @@
         },
         {
           "passage_segment_id": "1c",
-          "text": "que ton nom soit sanctifié.",
+          "text": "que ton nom soit sanctifié,",
           "phonetic": "que ton nom soit sanctifié,",
           "timing": {
             "full": [
               2.01,
-              3.576
+              3.59
             ],
             "passage": [
               1.997,
@@ -64,12 +64,12 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "que ton règne vienne.",
+          "text": "que ton règne vienne,",
           "phonetic": "que ton règne vienne,",
           "timing": {
             "full": [
-              3.576,
-              4.932
+              3.59,
+              4.945
             ],
             "passage": [
               0.0,
@@ -85,15 +85,15 @@
         {
           "passage_segment_id": "3a",
           "text": "que ta volonté soit faite sur la terre comme au ciel.",
-          "phonetic": "que ta volonté soit faite sur la terre comme au ciel,",
+          "phonetic": "que ta volonté soit faite sur la terre comme au ciel.",
           "timing": {
             "full": [
-              4.932,
-              7.668
+              4.945,
+              7.853
             ],
             "passage": [
               0.0,
-              2.734
+              2.826
             ]
           }
         }
@@ -104,16 +104,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "Donne-nous aujourd'hui notre pain quotidien.",
-          "phonetic": "Donne-nous aujourd'hui notre pain quotidien,",
+          "text": "Donne-nous aujourd'hui notre pain de ce jour.",
+          "phonetic": "Donne-nous aujourd'hui notre pain de ce jour.",
           "timing": {
             "full": [
-              7.668,
-              9.984
+              7.853,
+              10.987
             ],
             "passage": [
               0.0,
-              2.182
+              2.326
             ]
           }
         }
@@ -128,27 +128,27 @@
           "phonetic": "Pardonne-nous nos offenses,",
           "timing": {
             "full": [
-              9.984,
-              11.629
+              10.987,
+              13.289
             ],
             "passage": [
               0.0,
-              1.471
+              1.497
             ]
           }
         },
         {
           "passage_segment_id": "5b",
           "text": "comme nous pardonnons aussi à ceux qui nous ont offensés.",
-          "phonetic": "comme nous pardonnons aussi à ceux qui nous ont offensés,",
+          "phonetic": "comme nous pardonnons aussi à ceux qui nous ont offensés.",
           "timing": {
             "full": [
-              11.629,
-              14.524
+              13.289,
+              16.316
             ],
             "passage": [
-              1.471,
-              4.405
+              1.497,
+              4.524
             ]
           }
         }
@@ -159,31 +159,31 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "Et ne nous soumets pas à la tentation,",
-          "phonetic": "Et ne nous soumets pas à la tentation,",
+          "text": "Et ne nous laisse pas entrer en tentation,",
+          "phonetic": "Et ne nous laisse pas entrer en tentation,",
           "timing": {
             "full": [
-              14.524,
-              16.524
+              16.316,
+              19.079
             ],
             "passage": [
               0.0,
-              1.826
+              1.971
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "mais délivre-nous du mal.",
-          "phonetic": "mais délivre-nous du mal,",
+          "text": "mais délivre-nous du Mal.",
+          "phonetic": "mais délivre-nous du Mal.",
           "timing": {
             "full": [
-              16.524,
-              18.037
+              19.079,
+              20.526
             ],
             "passage": [
-              1.826,
-              3.458
+              1.971,
+              3.629
             ]
           }
         }
@@ -198,8 +198,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              18.037,
-              18.813
+              20.526,
+              21.026
             ],
             "passage": [
               0.0,

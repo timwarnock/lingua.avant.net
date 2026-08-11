@@ -23,7 +23,7 @@
             ],
             "passage": [
               0.0,
-              0.629
+              0.642
             ]
           }
         },
@@ -34,26 +34,26 @@
           "timing": {
             "full": [
               0.629,
-              1.708
+              1.682
             ],
             "passage": [
-              0.629,
+              0.642,
               1.708
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "święć się imię Twoje.",
-          "phonetic": "święć się imię Twoje.",
+          "text": "święć się imię Twoje,",
+          "phonetic": "święć się imię Twoje,",
           "timing": {
             "full": [
-              1.708,
-              3.063
+              1.682,
+              2.958
             ],
             "passage": [
               1.708,
-              3.063
+              3.076
             ]
           }
         }
@@ -64,16 +64,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Przyjdź królestwo Twoje.",
-          "phonetic": "Przyjdź królestwo Twoje.",
+          "text": "przyjdź królestwo Twoje,",
+          "phonetic": "przyjdź królestwo Twoje,",
           "timing": {
             "full": [
-              3.063,
-              5.434
+              2.958,
+              4.353
             ],
             "passage": [
               0.0,
-              1.471
+              1.445
             ]
           }
         }
@@ -84,12 +84,12 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "Bądź wola Twoja jako w niebie, tak i na ziemi.",
-          "phonetic": "Bądź wola Twoja jako w niebie, tak i na ziemi.",
+          "text": "bądź wola Twoja jako w niebie, tak i na ziemi.",
+          "phonetic": "bądź wola Twoja jako w niebie, tak i na ziemi.",
           "timing": {
             "full": [
-              5.434,
-              9.105
+              4.353,
+              7.366
             ],
             "passage": [
               0.0,
@@ -104,16 +104,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "Chleba naszego powszedniego daj nam dzisiaj,",
-          "phonetic": "Chleba naszego powszedniego daj nam dzisiaj,",
+          "text": "Chleba naszego powszedniego daj nam dzisiaj.",
+          "phonetic": "Chleba naszego powszedniego daj nam dzisiaj.",
           "timing": {
             "full": [
-              9.105,
-              12.289
+              7.366,
+              10.658
             ],
             "passage": [
               0.0,
-              2.365
+              2.379
             ]
           }
         }
@@ -124,12 +124,12 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "i odpuść nam nasze winy,",
-          "phonetic": "i odpuść nam nasze winy,",
+          "text": "I odpuść nam nasze winy,",
+          "phonetic": "I odpuść nam nasze winy,",
           "timing": {
             "full": [
-              12.289,
-              13.829
+              10.658,
+              13.091
             ],
             "passage": [
               0.0,
@@ -143,8 +143,8 @@
           "phonetic": "jako i my odpuszczamy naszym winowajcom.",
           "timing": {
             "full": [
-              13.829,
-              16.5
+              13.091,
+              15.684
             ],
             "passage": [
               1.589,
@@ -163,27 +163,27 @@
           "phonetic": "I nie wódź nas na pokuszenie,",
           "timing": {
             "full": [
-              16.5,
-              18.841
+              15.684,
+              18.039
             ],
             "passage": [
               0.0,
-              1.562
+              1.549
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "ale nas zbaw od złego,",
-          "phonetic": "ale nas zbaw od złego,",
+          "text": "ale nas zbaw ode złego.",
+          "phonetic": "ale nas zbaw ode złego.",
           "timing": {
             "full": [
-              18.841,
-              20.341
+              18.039,
+              19.684
             ],
             "passage": [
-              1.562,
-              3.089
+              1.549,
+              3.194
             ]
           }
         }
@@ -198,8 +198,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              20.341,
-              20.999
+              19.684,
+              21.052
             ],
             "passage": [
               0.0,

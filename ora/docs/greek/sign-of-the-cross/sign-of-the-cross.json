@@ -14,46 +14,46 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Εν ονόματι του Πατρος",
-          "phonetic": "En o-nó-ma-ti tou Pa-trós",
+          "text": "Εις το όνομα του Πατρός",
+          "phonetic": "Is to ó-no-ma tou Pa-trós",
           "timing": {
             "full": [
               0.0,
-              1.245
+              1.166
             ],
             "passage": [
               0.0,
-              1.258
+              1.166
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "και του Υιού",
-          "phonetic": "kai tou Yi-oú",
+          "phonetic": "ke tou I-ú",
           "timing": {
             "full": [
-              1.245,
-              1.666
+              1.166,
+              1.626
             ],
             "passage": [
-              1.258,
-              1.705
+              1.166,
+              1.613
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "και του Αγίου Πνεύματος,",
-          "phonetic": "kai tou Ha-gí-ou Pneú-ma-tos,",
+          "text": "και του Αγίου Πνεύματος.",
+          "phonetic": "ke tou A-yí-u Pnév-ma-tos.",
           "timing": {
             "full": [
-              1.666,
-              2.889
+              1.626,
+              3.747
             ],
             "passage": [
-              1.705,
-              2.955
+              1.613,
+              2.85
             ]
           }
         }
@@ -65,11 +65,11 @@
         {
           "passage_segment_id": "2a",
           "text": "Αμήν.",
-          "phonetic": "A-mḗn.",
+          "phonetic": "A-mín.",
           "timing": {
             "full": [
-              2.889,
-              3.679
+              3.747,
+              4.55
             ],
             "passage": [
               0.0,

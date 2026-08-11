@@ -104,16 +104,16 @@
         },
         {
           "passage_segment_id": "4b",
-          "text": "求你把我的罪惡除淨。",
-          "phonetic": "qiú nǐ bǎ wǒ de zuì'è chú jìng.",
+          "text": "求你把我的罪惡除淨，",
+          "phonetic": "qiú nǐ bǎ wǒ de zuì'è chú jìng,",
           "timing": {
             "full": [
               15.868,
-              17.816
+              17.776
             ],
             "passage": [
               1.721,
-              3.668
+              3.695
             ]
           }
         }
@@ -128,8 +128,8 @@
           "phonetic": "Yīnwèi wǒ rènqīng le wǒ de guòfàn,",
           "timing": {
             "full": [
-              17.816,
-              20.382
+              17.776,
+              19.75
             ],
             "passage": [
               0.0,
@@ -143,8 +143,8 @@
           "phonetic": "wǒ de zuì'è cháng zài wǒ de yǎnqián.",
           "timing": {
             "full": [
-              20.382,
-              22.724
+              19.75,
+              22.053
             ],
             "passage": [
               2.063,
@@ -163,8 +163,8 @@
           "phonetic": "Wǒ dézuì le nǐ, wéidú dézuì le nǐ,",
           "timing": {
             "full": [
-              22.724,
-              25.803
+              22.053,
+              25.132
             ],
             "passage": [
               0.0,
@@ -178,8 +178,8 @@
           "phonetic": "yīnwèi wǒ zuò le nǐ shì wéi è de shì;",
           "timing": {
             "full": [
-              25.803,
-              28.0
+              25.132,
+              27.329
             ],
             "passage": [
               2.576,
@@ -193,8 +193,8 @@
           "phonetic": "yīncǐ, zài nǐ de pànjué shàng, xiǎn chū nǐ de gōngyì,",
           "timing": {
             "full": [
-              28.0,
-              31.803
+              27.329,
+              31.132
             ],
             "passage": [
               4.774,
@@ -208,8 +208,8 @@
           "phonetic": "zài nǐ de duàn'àn shàng, xiǎn chū nǐ de zhèngzhí.",
           "timing": {
             "full": [
-              31.803,
-              34.697
+              31.132,
+              34.026
             ],
             "passage": [
               8.579,
@@ -228,8 +228,8 @@
           "phonetic": "Shì de, wǒ zì chūshì biàn rǎn shàng le zuì'è,",
           "timing": {
             "full": [
-              34.697,
-              38.105
+              34.026,
+              37.434
             ],
             "passage": [
               0.0,
@@ -243,8 +243,8 @@
           "phonetic": "wǒ de mǔqīn zài zuì'è zhōng huáiyùn le wǒ.",
           "timing": {
             "full": [
-              38.105,
-              40.882
+              37.434,
+              40.21
             ],
             "passage": [
               2.905,
@@ -263,8 +263,8 @@
           "phonetic": "Nǐ jìrán xǐ'ài nà chūzì nèixīn de chéngshí,",
           "timing": {
             "full": [
-              40.882,
-              44.118
+              40.21,
+              43.447
             ],
             "passage": [
               0.0,
@@ -278,8 +278,8 @@
           "phonetic": "qiú zài wǒ xīn de shēnchù jiào wǒ rènshi zhìhuì.",
           "timing": {
             "full": [
-              44.118,
-              47.026
+              43.447,
+              46.355
             ],
             "passage": [
               2.747,
@@ -298,8 +298,8 @@
           "phonetic": "Qiú nǐ yǐ niúxīcǎo sǎ wǒ, shǐ wǒ jiǎojié,",
           "timing": {
             "full": [
-              47.026,
-              50.329
+              46.355,
+              49.658
             ],
             "passage": [
               0.0,
@@ -313,8 +313,8 @@
           "phonetic": "qiú nǐ xǐdí wǒ, shǐ wǒ bǐ xuě hái yào bái.",
           "timing": {
             "full": [
-              50.329,
-              53.118
+              49.658,
+              52.447
             ],
             "passage": [
               2.813,
@@ -333,8 +333,8 @@
           "phonetic": "Qiú nǐ cì wǒ tīngjiàn kuàiwèi hé xǐlè,",
           "timing": {
             "full": [
-              53.118,
-              55.829
+              52.447,
+              55.158
             ],
             "passage": [
               0.0,
@@ -348,8 +348,8 @@
           "phonetic": "shǐ nǐ fěnsuì de gǔhái chóngxīn huānyuè.",
           "timing": {
             "full": [
-              55.829,
-              58.684
+              55.158,
+              58.013
             ],
             "passage": [
               2.221,
@@ -368,8 +368,8 @@
           "phonetic": "Qiú nǐ yǎn miàn bié kàn wǒ de zuìguò,",
           "timing": {
             "full": [
-              58.684,
-              61.132
+              58.013,
+              60.461
             ],
             "passage": [
               0.0,
@@ -383,8 +383,8 @@
           "phonetic": "qiú nǐ chúdiào wǒ de yīqiè zuì'è.",
           "timing": {
             "full": [
-              61.132,
-              63.618
+              60.461,
+              62.947
             ],
             "passage": [
               1.945,
@@ -403,8 +403,8 @@
           "phonetic": "Tiānzhǔ, qiú nǐ gěi wǒ zàizào yī kē chúnjié de xīn,",
           "timing": {
             "full": [
-              63.618,
-              67.276
+              62.947,
+              66.605
             ],
             "passage": [
               0.0,
@@ -418,8 +418,8 @@
           "phonetic": "qiú nǐ shǐ wǒ xīn chóng huò jiāngù de jīngshén.",
           "timing": {
             "full": [
-              67.276,
-              69.908
+              66.605,
+              69.237
             ],
             "passage": [
               3.155,
@@ -438,8 +438,8 @@
           "phonetic": "Qiú nǐ bù yào cóng nǐ de miànqián bǎ wǒ pāoqì,",
           "timing": {
             "full": [
-              69.908,
-              72.842
+              69.237,
+              72.171
             ],
             "passage": [
               0.0,
@@ -453,8 +453,8 @@
           "phonetic": "bù yào cóng wǒ shēnshang jiāng nǐ de Shèngshén shōuhuí.",
           "timing": {
             "full": [
-              72.842,
-              75.776
+              72.171,
+              75.105
             ],
             "passage": [
               2.432,
@@ -473,8 +473,8 @@
           "phonetic": "Qiú nǐ shǐ wǒ chóng huò nǐ jiù'ēn de xǐlè,",
           "timing": {
             "full": [
-              75.776,
-              78.855
+              75.105,
+              78.184
             ],
             "passage": [
               0.0,
@@ -488,8 +488,8 @@
           "phonetic": "qiú nǐ yǐ kāngkǎi de jīngshén lái fúchí wǒ.",
           "timing": {
             "full": [
-              78.855,
-              81.382
+              78.184,
+              80.711
             ],
             "passage": [
               2.576,
@@ -508,8 +508,8 @@
           "phonetic": "Wǒ yào gěi èrén jiàodǎo nǐ de dàolù,",
           "timing": {
             "full": [
-              81.382,
-              83.934
+              80.711,
+              83.263
             ],
             "passage": [
               0.0,
@@ -523,8 +523,8 @@
           "phonetic": "zuìrén men dōu yào huítóu, xiàng nǐ bēnfù.",
           "timing": {
             "full": [
-              83.934,
-              86.645
+              83.263,
+              85.974
             ],
             "passage": [
               2.063,
@@ -543,8 +543,8 @@
           "phonetic": "Tiānzhǔ, wǒ de Jiùzhǔ, qiú nǐ miǎn wǒ xuèzhài,",
           "timing": {
             "full": [
-              86.645,
-              90.276
+              85.974,
+              89.605
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "wǒ de shétou bìyào gēsòng nǐ de cí'ài.",
           "timing": {
             "full": [
-              90.276,
-              92.868
+              89.605,
+              92.197
             ],
             "passage": [
               3.142,
@@ -578,8 +578,8 @@
           "phonetic": "Wǒ Zhǔ, qiú nǐ kāiqǐ wǒ de kǒuchún,",
           "timing": {
             "full": [
-              92.868,
-              95.763
+              92.197,
+              95.092
             ],
             "passage": [
               0.0,
@@ -593,8 +593,8 @@
           "phonetic": "wǒ yào qīnkǒu xuānyáng nǐ de guāngróng.",
           "timing": {
             "full": [
-              95.763,
-              97.855
+              95.092,
+              97.184
             ],
             "passage": [
               2.392,
@@ -613,8 +613,8 @@
           "phonetic": "Yīnwèi nǐ jìrán bù xǐyuè jìxiàn,",
           "timing": {
             "full": [
-              97.855,
-              100.526
+              97.184,
+              99.855
             ],
             "passage": [
               0.0,
@@ -628,8 +628,8 @@
           "phonetic": "wǒ xiàn quán fánjì, nǐ yě bù xǐhuan.",
           "timing": {
             "full": [
-              100.526,
-              103.0
+              99.855,
+              102.329
             ],
             "passage": [
               2.182,
@@ -648,8 +648,8 @@
           "phonetic": "Tiānzhǔ, wǒ de jìxiàn jiù shì zhè tònghuǐ de jīngshén,",
           "timing": {
             "full": [
-              103.0,
-              107.0
+              102.329,
+              106.329
             ],
             "passage": [
               0.0,
@@ -663,8 +663,8 @@
           "phonetic": "Tiānzhǔ, nǐ bù qīngkàn tònghuǐ hé qiānbēi de chìxīn.",
           "timing": {
             "full": [
-              107.0,
-              110.5
+              106.329,
+              109.829
             ],
             "passage": [
               3.511,
@@ -683,8 +683,8 @@
           "phonetic": "Shàngzhǔ, qiú nǐ yǐ cí'ài ēndài Xīyōng,",
           "timing": {
             "full": [
-              110.5,
-              113.724
+              109.829,
+              113.053
             ],
             "passage": [
               0.0,
@@ -698,8 +698,8 @@
           "phonetic": "qiú nǐ chóngxiū Yēlùsālěng chéng.",
           "timing": {
             "full": [
-              113.724,
-              115.908
+              113.053,
+              115.237
             ],
             "passage": [
               2.734,
@@ -718,8 +718,8 @@
           "phonetic": "Nà shí, nǐ bì yuènà héfǎ zhī jì, xīshēng hé quán fán jìxiàn;",
           "timing": {
             "full": [
-              115.908,
-              120.75
+              115.237,
+              120.079
             ],
             "passage": [
               0.0,
@@ -733,8 +733,8 @@
           "phonetic": "nà shí, rénmen yě bìyào bǎ niúdú fèngxiàn yú nǐ de jìtán.",
           "timing": {
             "full": [
-              120.75,
-              124.921
+              120.079,
+              124.25
             ],
             "passage": [
               4.339,

@@ -61,6 +61,7 @@ The JSON must contain at minimum:
 - `"tts.input"`: optional, either `"phonetic"` (default) or `"text"`. Determines which field is sent to TTS.
 - `passages`: array of objects. Each must have `passage_id` and a `segments` array.
 - Every segment must have a `passage_segment_id` (always lettered form e.g. `"1a"`, even for single-segment passages), plus `"text"` and `"phonetic"`.
+- Optional `"tts"` (string) on a segment: sent to Edge TTS instead of `text`/`phonetic`. Use when the correct display form is misread (e.g. Greek `αεί` held too long; TTS form `αείι`). Display and learner phonetic are unchanged.
 - Optional `"filenameOverride"` (string) at top level, on a passage, or on a segment: overrides the output filename for that level. Use `""` (empty) or false to suppress output for the level entirely (no file and no associated timings).
 
 ### What gets generated

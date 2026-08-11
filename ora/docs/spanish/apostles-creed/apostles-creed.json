@@ -34,7 +34,7 @@
           "timing": {
             "full": [
               1.031,
-              2.547
+              2.533
             ],
             "passage": [
               1.018,
@@ -44,11 +44,11 @@
         },
         {
           "passage_segment_id": "1c",
-          "text": "creador del Cielo y de la Tierra.",
-          "phonetic": "creador del Cielo y de la Tierra,",
+          "text": "creador del cielo y de la tierra.",
+          "phonetic": "creador del cielo y de la tierra,",
           "timing": {
             "full": [
-              2.547,
+              2.533,
               4.515
             ],
             "passage": [
@@ -64,16 +64,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "y en Jesucristo,",
-          "phonetic": "y en Jesucristo,",
+          "text": "Creo en Jesucristo,",
+          "phonetic": "Creo en Jesucristo,",
           "timing": {
             "full": [
               4.515,
-              5.792
+              6.018
             ],
             "passage": [
               0.0,
-              1.257
+              1.337
             ]
           }
         },
@@ -83,27 +83,27 @@
           "phonetic": "su único Hijo,",
           "timing": {
             "full": [
-              5.792,
-              6.975
+              6.018,
+              7.201
             ],
             "passage": [
-              1.257,
-              2.347
+              1.337,
+              2.4
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "Nuestro Señor,",
-          "phonetic": "Nuestro Señor,",
+          "text": "nuestro Señor,",
+          "phonetic": "nuestro Señor,",
           "timing": {
             "full": [
-              6.975,
-              8.268
+              7.201,
+              8.494
             ],
             "passage": [
-              2.347,
-              3.464
+              2.4,
+              3.504
             ]
           }
         }
@@ -118,8 +118,8 @@
           "phonetic": "que fue concebido por obra y gracia del Espíritu Santo,",
           "timing": {
             "full": [
-              8.268,
-              11.313
+              8.494,
+              11.539
             ],
             "passage": [
               0.0,
@@ -134,12 +134,12 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "nació de Santa María Virgen,",
-          "phonetic": "nació de Santa María Virgen,",
+          "text": "nació de santa María Virgen,",
+          "phonetic": "nació de santa María Virgen,",
           "timing": {
             "full": [
-              11.313,
-              13.108
+              11.539,
+              13.335
             ],
             "passage": [
               0.0,
@@ -158,8 +158,8 @@
           "phonetic": "padeció bajo el poder de Poncio Pilato,",
           "timing": {
             "full": [
-              13.108,
-              15.609
+              13.335,
+              15.835
             ],
             "passage": [
               0.0,
@@ -173,8 +173,8 @@
           "phonetic": "fue crucificado,",
           "timing": {
             "full": [
-              15.609,
-              16.885
+              15.835,
+              17.111
             ],
             "passage": [
               2.254,
@@ -184,12 +184,12 @@
         },
         {
           "passage_segment_id": "5c",
-          "text": "muerto y sepultado;",
+          "text": "muerto y sepultado,",
           "phonetic": "muerto y sepultado,",
           "timing": {
             "full": [
-              16.885,
-              18.281
+              17.111,
+              18.507
             ],
             "passage": [
               3.518,
@@ -204,12 +204,12 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "descendió a los infiernos;",
+          "text": "descendió a los infiernos,",
           "phonetic": "descendió a los infiernos,",
           "timing": {
             "full": [
-              18.281,
-              19.917
+              18.507,
+              20.143
             ],
             "passage": [
               0.0,
@@ -224,12 +224,12 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "al tercer día resucitó de entre los muertos;",
+          "text": "al tercer día resucitó de entre los muertos,",
           "phonetic": "al tercer día resucitó de entre los muertos,",
           "timing": {
             "full": [
-              19.917,
-              22.71
+              20.143,
+              22.896
             ],
             "passage": [
               0.0,
@@ -244,16 +244,16 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "subió a los cielos",
-          "phonetic": "subió a los cielos",
+          "text": "subió a los cielos,",
+          "phonetic": "subió a los cielos,",
           "timing": {
             "full": [
-              22.71,
-              23.973
+              22.896,
+              24.159
             ],
             "passage": [
               0.0,
-              1.51
+              1.39
             ]
           }
         }
@@ -264,16 +264,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "y está a la diestra de Dios Padre;",
-          "phonetic": "y está a la diestra de Dios Padre,",
+          "text": "y está sentado a la derecha de Dios, Padre todopoderoso.",
+          "phonetic": "y está sentado a la derecha de Dios, Padre todopoderoso,",
           "timing": {
             "full": [
-              23.973,
-              25.489
+              24.159,
+              27.818
             ],
             "passage": [
               0.0,
-              1.91
+              3.692
             ]
           }
         }
@@ -284,16 +284,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "desde allí ha de venir a juzgar a los vivos y a los muertos.",
-          "phonetic": "desde allí ha de venir a juzgar a los vivos y a los muertos,",
+          "text": "Desde allí ha de venir a juzgar a vivos y muertos.",
+          "phonetic": "Desde allí ha de venir a juzgar a vivos y muertos,",
           "timing": {
             "full": [
-              25.489,
-              28.735
+              27.818,
+              30.437
             ],
             "passage": [
               0.0,
-              3.12
+              2.788
             ]
           }
         }
@@ -308,72 +308,72 @@
           "phonetic": "Creo en el Espíritu Santo,",
           "timing": {
             "full": [
-              28.735,
-              30.437
+              30.437,
+              33.428
             ],
             "passage": [
               0.0,
-              1.669
+              1.656
             ]
           }
         },
         {
           "passage_segment_id": "11b",
-          "text": "en la Santa Iglesia Católica,",
-          "phonetic": "en la Santa Iglesia Católica,",
+          "text": "la santa Iglesia católica,",
+          "phonetic": "la santa Iglesia católica,",
           "timing": {
             "full": [
-              30.437,
-              33.64
+              33.428,
+              35.156
             ],
             "passage": [
-              1.669,
-              3.491
+              1.656,
+              3.345
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "la comunión de los Santos",
-          "phonetic": "la comunión de los Santos,",
+          "text": "la comunión de los santos,",
+          "phonetic": "la comunión de los santos,",
           "timing": {
             "full": [
-              33.64,
-              35.236
+              35.156,
+              36.699
             ],
             "passage": [
-              3.491,
-              5.034
+              3.345,
+              4.874
             ]
           }
         },
         {
           "passage_segment_id": "11d",
-          "text": "en el perdón de los pecados,",
-          "phonetic": "en el perdón de los pecados,",
+          "text": "el perdón de los pecados,",
+          "phonetic": "el perdón de los pecados,",
           "timing": {
             "full": [
-              35.236,
-              36.858
+              36.699,
+              38.255
             ],
             "passage": [
-              5.034,
-              6.858
+              4.874,
+              6.403
             ]
           }
         },
         {
           "passage_segment_id": "11e",
-          "text": "la resurrección de los muertos",
-          "phonetic": "la resurrección de los muertos,",
+          "text": "la resurrección de la carne",
+          "phonetic": "la resurrección de la carne,",
           "timing": {
             "full": [
-              36.858,
-              38.72
+              38.255,
+              40.13
             ],
             "passage": [
-              6.858,
-              8.68
+              6.403,
+              8.27
             ]
           }
         },
@@ -383,12 +383,12 @@
           "phonetic": "y la vida eterna,",
           "timing": {
             "full": [
-              38.72,
-              40.052
+              40.13,
+              41.26
             ],
             "passage": [
-              8.68,
-              9.917
+              8.27,
+              9.466
             ]
           }
         }
@@ -403,8 +403,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              40.052,
-              40.849
+              41.26,
+              42.031
             ],
             "passage": [
               0.0,

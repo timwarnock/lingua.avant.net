@@ -74,7 +74,7 @@
           "timing": {
             "full": [
               4.25,
-              6.579
+              6.566
             ],
             "passage": [
               0.0,
@@ -88,8 +88,8 @@
           "phonetic": "e conduz-me às águas refrescantes;",
           "timing": {
             "full": [
-              6.579,
-              8.579
+              6.566,
+              8.566
             ],
             "passage": [
               2.182,
@@ -108,27 +108,27 @@
           "phonetic": "restaura as minhas forças",
           "timing": {
             "full": [
-              8.579,
-              10.184
+              8.566,
+              10.171
             ],
             "passage": [
               0.0,
-              1.537
+              1.511
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "e guia-me por caminhos rectos,",
-          "phonetic": "e guia-me por caminhos rectos,",
+          "text": "e guia-me por caminhos retos,",
+          "phonetic": "e guia-me por caminhos retos,",
           "timing": {
             "full": [
-              10.184,
-              11.868
+              10.171,
+              11.855
             ],
             "passage": [
-              1.537,
-              3.261
+              1.511,
+              3.234
             ]
           }
         },
@@ -138,12 +138,12 @@
           "phonetic": "por amor do seu nome.",
           "timing": {
             "full": [
-              11.868,
+              11.855,
               13.25
             ],
             "passage": [
-              3.261,
-              4.576
+              3.234,
+              4.537
             ]
           }
         }
@@ -204,15 +204,30 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "o teu cajado e o teu báculo me tranquilizam.",
-          "phonetic": "o teu cajado e o teu báculo me tranquilizam.",
+          "text": "o teu cajado e o teu báculo",
+          "phonetic": "o teu cajado e o teu báculo",
           "timing": {
             "full": [
               18.211,
-              21.053
+              20.132
             ],
             "passage": [
               0.0,
+              1.813
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6b",
+          "text": "me tranquilizam.",
+          "phonetic": "me tranquilizam.",
+          "timing": {
+            "full": [
+              20.132,
+              21.053
+            ],
+            "passage": [
+              1.813,
               2.787
             ]
           }
@@ -294,16 +309,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "A bondade e a graça hão-de acompanhar-me",
-          "phonetic": "A bondade e a graça hão-de acompanhar-me",
+          "text": "A bondade e a graça hão de acompanhar-me",
+          "phonetic": "A bondade e a graça hão de acompanhar-me",
           "timing": {
             "full": [
               28.184,
-              30.855
+              30.803
             ],
             "passage": [
               0.0,
-              2.524
+              2.458
             ]
           }
         },
@@ -313,12 +328,12 @@
           "phonetic": "todos os dias da minha vida,",
           "timing": {
             "full": [
-              30.855,
-              32.487
+              30.803,
+              32.434
             ],
             "passage": [
-              2.524,
-              4.208
+              2.458,
+              4.142
             ]
           }
         }
@@ -333,8 +348,8 @@
           "phonetic": "e habitarei na casa do Senhor",
           "timing": {
             "full": [
-              32.487,
-              34.342
+              32.434,
+              34.303
             ],
             "passage": [
               0.0,
@@ -348,8 +363,8 @@
           "phonetic": "para todo o sempre.",
           "timing": {
             "full": [
-              34.342,
-              35.487
+              34.303,
+              35.447
             ],
             "passage": [
               1.747,

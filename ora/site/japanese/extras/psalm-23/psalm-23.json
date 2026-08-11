@@ -1,7 +1,7 @@
 {
   "id": "psalm-23",
   "lang": "japanese",
-  "title": "詩篇第23篇",
+  "title": "詩編第23編",
   "title_tooltip": "Shihen dai 23-hen = Psalm 23",
   "tts": {
     "voice": "ja-JP-KeitaNeural",
@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "ダビデの詩。",
-          "phonetic": "Dabide no uta.",
+          "text": "賛歌。ダビデの詩。",
+          "phonetic": "Sanka. Dabide no uta.",
           "timing": {
             "full": [
               0.0,
-              0.918
+              2.289
             ],
             "passage": [
               0.0,
-              0.918
+              2.289
             ]
           }
         }
@@ -38,8 +38,8 @@
           "phonetic": "Shu wa hitsujikai,",
           "timing": {
             "full": [
-              0.918,
-              2.737
+              2.289,
+              4.105
             ],
             "passage": [
               0.0,
@@ -53,8 +53,8 @@
           "phonetic": "watashi ni wa nani mo kakeru koto ga nai.",
           "timing": {
             "full": [
-              2.737,
-              5.066
+              4.105,
+              6.434
             ],
             "passage": [
               1.089,
@@ -73,8 +73,8 @@
           "phonetic": "Shu wa watashi o aokusa no hara ni yasumase",
           "timing": {
             "full": [
-              5.066,
-              8.118
+              6.434,
+              9.487
             ],
             "passage": [
               0.0,
@@ -88,8 +88,8 @@
           "phonetic": "ikoi no mizu no hotori ni tomonai",
           "timing": {
             "full": [
-              8.118,
-              9.855
+              9.487,
+              11.224
             ],
             "passage": [
               2.287,
@@ -108,8 +108,8 @@
           "phonetic": "tamashii o ikikaerasete kudasaru.",
           "timing": {
             "full": [
-              9.855,
-              11.75
+              11.224,
+              13.118
             ],
             "passage": [
               0.0,
@@ -123,8 +123,8 @@
           "phonetic": "Shu wa mina ni fusawashiku",
           "timing": {
             "full": [
-              11.75,
-              14.026
+              13.118,
+              15.395
             ],
             "passage": [
               2.05,
@@ -138,8 +138,8 @@
           "phonetic": "watashi o tadashii michi ni michibikareru.",
           "timing": {
             "full": [
-              14.026,
-              16.237
+              15.395,
+              17.605
             ],
             "passage": [
               4.355,
@@ -158,8 +158,8 @@
           "phonetic": "Shi no kage no tani o yuku toki mo",
           "timing": {
             "full": [
-              16.237,
-              18.632
+              17.605,
+              20.0
             ],
             "passage": [
               0.0,
@@ -173,8 +173,8 @@
           "phonetic": "watashi wa wazawai o osorenai.",
           "timing": {
             "full": [
-              18.632,
-              20.395
+              20.0,
+              21.763
             ],
             "passage": [
               1.695,
@@ -188,8 +188,8 @@
           "phonetic": "anata ga watashi to tomo ni ite kudasaru.",
           "timing": {
             "full": [
-              20.395,
-              23.316
+              21.763,
+              24.684
             ],
             "passage": [
               3.458,
@@ -208,8 +208,8 @@
           "phonetic": "Anata no muchi, anata no tsue",
           "timing": {
             "full": [
-              23.316,
-              26.237
+              24.684,
+              27.605
             ],
             "passage": [
               0.0,
@@ -223,8 +223,8 @@
           "phonetic": "sore ga watashi o chikarazukeru.",
           "timing": {
             "full": [
-              26.237,
-              27.855
+              27.605,
+              29.224
             ],
             "passage": [
               2.195,
@@ -243,8 +243,8 @@
           "phonetic": "Watashi o kurushimeru mono o mae ni shite mo",
           "timing": {
             "full": [
-              27.855,
-              30.75
+              29.224,
+              32.118
             ],
             "passage": [
               0.0,
@@ -258,8 +258,8 @@
           "phonetic": "anata wa watashi ni shokutaku o totonoete kudasaru.",
           "timing": {
             "full": [
-              30.75,
-              33.632
+              32.118,
+              35.0
             ],
             "passage": [
               2.182,
@@ -278,8 +278,8 @@
           "phonetic": "Watashi no atama ni kōyu o sosogi",
           "timing": {
             "full": [
-              33.632,
-              36.276
+              35.0,
+              37.645
             ],
             "passage": [
               0.0,
@@ -289,16 +289,16 @@
         },
         {
           "passage_segment_id": "8b",
-          "text": "わたしの杯を満ちあふれさせてくださる。",
-          "phonetic": "watashi no hai o michi afuresasete kudasaru.",
+          "text": "わたしの杯を溢れさせてくださる。",
+          "phonetic": "watashi no sakazuki o afuresasete kudasaru.",
           "timing": {
             "full": [
-              36.276,
-              38.934
+              37.645,
+              40.0
             ],
             "passage": [
               1.945,
-              4.603
+              4.3
             ]
           }
         }
@@ -313,8 +313,8 @@
           "phonetic": "Inochi no aru kagiri",
           "timing": {
             "full": [
-              38.934,
-              40.803
+              40.0,
+              41.868
             ],
             "passage": [
               0.0,
@@ -328,8 +328,8 @@
           "phonetic": "megumi to itsukushimi wa itsumo watashi o ou.",
           "timing": {
             "full": [
-              40.803,
-              43.276
+              41.868,
+              44.342
             ],
             "passage": [
               1.168,
@@ -344,31 +344,31 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "主の家にわたしは住まう",
-          "phonetic": "Shu no ie ni watashi wa sumau",
+          "text": "主の家にわたしは帰り",
+          "phonetic": "Shu no ie ni watashi wa kaeri",
           "timing": {
             "full": [
-              43.276,
-              45.763
+              44.342,
+              46.618
             ],
             "passage": [
               0.0,
-              1.787
+              1.576
             ]
           }
         },
         {
           "passage_segment_id": "10b",
-          "text": "日の続く限り。",
-          "phonetic": "hi no tsuzuku kagiri.",
+          "text": "生涯、そこにとどまるであろう。",
+          "phonetic": "shōgai, soko ni todomaru de arō.",
           "timing": {
             "full": [
-              45.763,
-              46.895
+              46.618,
+              48.987
             ],
             "passage": [
-              1.787,
-              2.918
+              1.576,
+              3.945
             ]
           }
         }

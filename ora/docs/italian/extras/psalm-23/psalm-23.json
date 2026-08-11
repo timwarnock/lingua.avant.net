@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Salmo di Davide.",
-          "phonetic": "Salmo di Davide.",
+          "text": "Salmo. Di Davide.",
+          "phonetic": "Salmo. Di Davide.",
           "timing": {
             "full": [
               0.0,
-              1.286
+              1.917
             ],
             "passage": [
               0.0,
-              1.286
+              1.917
             ]
           }
         }
@@ -38,8 +38,8 @@
           "phonetic": "Il Signore è il mio pastore:",
           "timing": {
             "full": [
-              1.286,
-              3.356
+              1.917,
+              3.981
             ],
             "passage": [
               0.0,
@@ -53,8 +53,8 @@
           "phonetic": "non manco di nulla.",
           "timing": {
             "full": [
-              3.356,
-              4.856
+              3.981,
+              5.481
             ],
             "passage": [
               1.878,
@@ -73,8 +73,8 @@
           "phonetic": "Su pascoli erbosi mi fa riposare,",
           "timing": {
             "full": [
-              4.856,
-              7.431
+              5.481,
+              8.056
             ],
             "passage": [
               0.0,
@@ -88,8 +88,8 @@
           "phonetic": "ad acque tranquille mi conduce.",
           "timing": {
             "full": [
-              7.431,
-              9.625
+              8.056,
+              10.25
             ],
             "passage": [
               2.383,
@@ -108,12 +108,12 @@
           "phonetic": "Rinfranca l'anima mia,",
           "timing": {
             "full": [
-              9.625,
-              11.361
+              10.25,
+              12.0
             ],
             "passage": [
               0.0,
-              1.55
+              1.564
             ]
           }
         },
@@ -123,27 +123,27 @@
           "phonetic": "mi guida per il giusto cammino",
           "timing": {
             "full": [
-              11.361,
-              13.347
+              12.0,
+              14.042
             ],
             "passage": [
-              1.55,
-              3.536
+              1.564,
+              3.606
             ]
           }
         },
         {
           "passage_segment_id": "4c",
-          "text": "per amore del suo nome.",
-          "phonetic": "per amore del suo nome.",
+          "text": "a motivo del suo nome.",
+          "phonetic": "a motivo del suo nome.",
           "timing": {
             "full": [
-              13.347,
-              14.681
+              14.042,
+              15.486
             ],
             "passage": [
-              3.536,
-              4.869
+              3.606,
+              5.05
             ]
           }
         }
@@ -154,31 +154,31 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Se dovessi camminare in una valle oscura,",
-          "phonetic": "Se dovessi camminare in una valle oscura,",
+          "text": "Anche se vado per una valle oscura,",
+          "phonetic": "Anche se vado per una valle oscura,",
           "timing": {
             "full": [
-              14.681,
-              17.347
+              15.486,
+              17.861
             ],
             "passage": [
               0.0,
-              2.481
+              2.189
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "non temerei alcun male,",
-          "phonetic": "non temerei alcun male,",
+          "text": "non temo alcun male,",
+          "phonetic": "non temo alcun male,",
           "timing": {
             "full": [
-              17.347,
-              18.944
+              17.861,
+              19.319
             ],
             "passage": [
-              2.481,
-              4.078
+              2.189,
+              3.647
             ]
           }
         },
@@ -188,12 +188,12 @@
           "phonetic": "perché tu sei con me.",
           "timing": {
             "full": [
-              18.944,
-              20.514
+              19.319,
+              20.931
             ],
             "passage": [
-              4.078,
-              5.647
+              3.647,
+              5.258
             ]
           }
         }
@@ -208,8 +208,8 @@
           "phonetic": "Il tuo bastone e il tuo vincastro",
           "timing": {
             "full": [
-              20.514,
-              22.917
+              20.931,
+              23.333
             ],
             "passage": [
               0.0,
@@ -223,8 +223,8 @@
           "phonetic": "mi danno sicurezza.",
           "timing": {
             "full": [
-              22.917,
-              24.167
+              23.333,
+              24.583
             ],
             "passage": [
               2.217,
@@ -243,8 +243,8 @@
           "phonetic": "Davanti a me tu prepari una mensa",
           "timing": {
             "full": [
-              24.167,
-              26.625
+              24.583,
+              27.042
             ],
             "passage": [
               0.0,
@@ -258,8 +258,8 @@
           "phonetic": "sotto gli occhi dei miei nemici.",
           "timing": {
             "full": [
-              26.625,
-              28.833
+              27.042,
+              29.25
             ],
             "passage": [
               2.272,
@@ -278,8 +278,8 @@
           "phonetic": "Ungi di olio il mio capo;",
           "timing": {
             "full": [
-              28.833,
-              30.736
+              29.25,
+              31.153
             ],
             "passage": [
               0.0,
@@ -293,8 +293,8 @@
           "phonetic": "il mio calice trabocca.",
           "timing": {
             "full": [
-              30.736,
-              32.556
+              31.153,
+              32.972
             ],
             "passage": [
               1.717,
@@ -309,16 +309,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Felicità e grazia mi saranno compagne",
-          "phonetic": "Felicità e grazia mi saranno compagne",
+          "text": "Sì, bontà e fedeltà mi saranno compagne",
+          "phonetic": "Sì, bontà e fedeltà mi saranno compagne",
           "timing": {
             "full": [
-              32.556,
-              35.278
+              32.972,
+              36.083
             ],
             "passage": [
               0.0,
-              2.494
+              2.925
             ]
           }
         },
@@ -328,12 +328,12 @@
           "phonetic": "tutti i giorni della mia vita,",
           "timing": {
             "full": [
-              35.278,
-              36.958
+              36.083,
+              37.792
             ],
             "passage": [
-              2.494,
-              4.189
+              2.925,
+              4.647
             ]
           }
         }
@@ -344,16 +344,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "e abiterò nella casa del Signore",
-          "phonetic": "e abiterò nella casa del Signore",
+          "text": "abiterò ancora nella casa del Signore",
+          "phonetic": "abiterò ancora nella casa del Signore",
           "timing": {
             "full": [
-              36.958,
-              39.139
+              37.792,
+              40.347
             ],
             "passage": [
               0.0,
-              2.286
+              2.578
             ]
           }
         },
@@ -363,12 +363,12 @@
           "phonetic": "per lunghi giorni.",
           "timing": {
             "full": [
-              39.139,
-              40.25
+              40.347,
+              41.472
             ],
             "passage": [
-              2.286,
-              3.564
+              2.578,
+              3.8
             ]
           }
         }

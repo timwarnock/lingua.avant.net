@@ -164,16 +164,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "agora e na hora de nossa morte,",
-          "phonetic": "agora e na hora de nossa morte,",
+          "text": "agora e na hora da nossa morte.",
+          "phonetic": "agora e na hora da nossa morte.",
           "timing": {
             "full": [
               11.908,
-              13.934
+              13.855
             ],
             "passage": [
               0.0,
-              2.063
+              1.984
             ]
           }
         }
@@ -188,8 +188,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              13.934,
-              14.368
+              13.855,
+              14.592
             ],
             "passage": [
               0.0,

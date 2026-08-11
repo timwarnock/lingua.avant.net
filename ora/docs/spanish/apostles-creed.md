@@ -12,7 +12,7 @@ icon: material/cross
 
 **Español**
 
-Creo en Dios, Padre todopoderoso, creador del Cielo y de la Tierra. Creo en Jesucristo su único Hijo, Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo; nació de Santa María Virgen; padeció bajo el poder de Poncio Pilato; fue crucificado, muerto y sepultado; descendió a los infiernos; al tercer día resucitó de entre los muertos; subió a los cielos y está a la diestra de Dios Padre; desde allí ha de venir a juzgar a los vivos y a los muertos. Creo en el Espíritu Santo, en la Santa Iglesia Católica, la comunión de los Santos en el perdón de los pecados, la resurrección de los muertos y la vida eterna. Amén.
+Creo en Dios, Padre todopoderoso, creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la santa Iglesia católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.
 
 **English**
 

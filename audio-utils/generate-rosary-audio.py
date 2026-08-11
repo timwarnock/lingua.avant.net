@@ -53,6 +53,10 @@ import sys
 
 
 def get_segment_text(seg, tts_input):
+    # Optional per-segment TTS override (display still uses text/phonetic in the player).
+    # Use when Edge misreads a correct written form (e.g. Greek αεί held too long).
+    if seg.get("tts"):
+        return seg["tts"]
     if tts_input == "text":
         return seg.get("text") or seg.get("phonetic", "")
     else:
@@ -204,30 +208,64 @@ async def main():
             return len(tokens)
 
     def assign_segment_timings(word_events, segs, lang="", joined_text=None):
-        """Use actual WordBoundary events to derive per-segment [start, end] that match the spoken audio.
-        We map each segment's unit count (words for English/romance/etc, chars for CJK/Greek) onto the
-        sequence of reported boundary events and take the real start/end times of the covering events.
-        Then post-process so ranges are abutted at the actual start-of-next-segment times and first
-        segment starts at 0.0 (so highlight appears as soon as playback begins).
-        This gives precise segment-level sync without assuming uniform rate.
+        """Derive per-segment [start, end] from WordBoundary events.
+
+        Prefer sequential word consumption (each segment takes the next N spoken words).
+        Fall back to unit-proportional mapping if word counts do not line up.
+
+        Ranges are the real spoken start/end only -- do not stretch into long TTS pauses
+        after periods (those desync karaoke, especially Greek). First segment starts at 0.0
+        so the highlight is ready when playback begins.
         """
         if not word_events or not segs:
             return {}
         n = len(word_events)
         if n == 0:
             return {}
+
+        def words_in(txt):
+            if not txt:
+                return []
+            if lang in ("chinese", "japanese"):
+                # CJK: one "word" per non-space run or per WordBoundary-sized chunk
+                return [w for w in re.findall(r'\S+', txt) if w]
+            # Strip punctuation for counting; WordBoundary text is usually bare words
+            out = []
+            for w in txt.split():
+                w = w.strip(".,;:!?\"'()[]—–-，。、；：！？“”‘’··")
+                if w:
+                    out.append(w)
+            return out
+
+        # --- Primary: consume WordBoundary events in order by segment word count ---
+        total_words = sum(len(words_in(txt)) for _, txt in segs)
+        if total_words > 0 and total_words == n:
+            timings = {}
+            idx = 0
+            for sid, txt in segs:
+                nw = len(words_in(txt))
+                if nw <= 0:
+                    timings[sid] = [0.0, 0.0]
+                    continue
+                st = word_events[idx]["start"]
+                et = word_events[idx + nw - 1]["end"]
+                timings[sid] = [round(max(0, st), 3), round(et, 3)]
+                idx += nw
+            if timings:
+                first = next(iter(timings))
+                timings[first][0] = 0.0
+            return timings
+
+        # --- Fallback: unit-proportional mapping onto boundary events ---
         total_units = sum(count_units(txt, lang) for _, txt in segs)
         if total_units <= 0:
             return {}
         timings = {}
-        # cum units along WordBoundary events. Edge sometimes merges several spoken
-        # words into one event (e.g. German "Herr ist mit"); count those as multiple
-        # units so segment mapping stays aligned with count_units() on the text.
         cum_units = [0]
         for ev in word_events:
             btext = ev.get("text", "") or ""
             if lang in ("chinese", "japanese", "greek"):
-                delta = len(btext)
+                delta = len(btext) if btext else 1
             else:
                 delta = count_units(btext, lang)
                 if delta <= 0:
@@ -240,45 +278,37 @@ async def main():
             send = pos + u
             pos += u
             k_start = 0
-            for k in range(1, n+1):
+            for k in range(1, n + 1):
                 if cum_units[k] > sstart:
-                    k_start = k-1
+                    k_start = k - 1
                     break
-            k_end = n-1
-            for k in range(k_start, n+1):
+            k_end = n - 1
+            for k in range(k_start, n + 1):
                 if cum_units[k] >= send:
-                    k_end = k-1
+                    k_end = k - 1
                     break
             if k_end < k_start:
                 k_end = k_start
-            st = word_events[k_start]['start']
-            et = word_events[k_end]['end']
-            if cum_units[k_start] < sstart < cum_units[k_start+1]:
+            st = word_events[k_start]["start"]
+            et = word_events[k_end]["end"]
+            if cum_units[k_start] < sstart < cum_units[k_start + 1]:
                 bstart = cum_units[k_start]
-                bend = cum_units[k_start+1]
+                bend = cum_units[k_start + 1]
                 frac = (sstart - bstart) / (bend - bstart) if (bend - bstart) > 0 else 0
-                st = word_events[k_start]['start'] + frac * (word_events[k_start]['end'] - word_events[k_start]['start'])
-            if cum_units[k_end] < send < cum_units[k_end+1]:
+                st = word_events[k_start]["start"] + frac * (
+                    word_events[k_start]["end"] - word_events[k_start]["start"]
+                )
+            if cum_units[k_end] < send < cum_units[k_end + 1]:
                 bstart = cum_units[k_end]
-                bend = cum_units[k_end+1]
+                bend = cum_units[k_end + 1]
                 frac = (send - bstart) / (bend - bstart) if (bend - bstart) > 0 else 0
-                et = word_events[k_end]['start'] + frac * (word_events[k_end]['end'] - word_events[k_end]['start'])
+                et = word_events[k_end]["start"] + frac * (
+                    word_events[k_end]["end"] - word_events[k_end]["start"]
+                )
             timings[sid] = [round(max(0, st), 3), round(et, 3)]
-        # Post-process:
-        # - first segment always starts at 0.0
-        # - each segment's highlight range ends at its own spoken end (when its audio actually finishes)
-        # - the following segment's range starts immediately at the previous segment's spoken end
-        # This means: as soon as the current segment's audio finishes, the highlight advances
-        # to the *next* segment right away (even during any silence/pause before the next words begin).
-        # This moves the learner's attention forward promptly instead of lingering on finished text.
         ordered = [sid for sid, _ in segs]
         if ordered:
             timings[ordered[0]][0] = 0.0
-            for i in range(len(ordered) - 1):
-                prev_end = timings[ordered[i]][1]  # spoken end of previous
-                timings[ordered[i+1]][0] = prev_end
-            # ends stay at each segment's raw spoken end
-            # last keeps its spoken end
         return timings
 
     # 1. Generate every segment (plain, no intra-segment timing needed)

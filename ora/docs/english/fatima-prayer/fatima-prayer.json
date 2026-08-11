@@ -74,7 +74,7 @@
           "timing": {
             "full": [
               4.168,
-              5.853
+              5.905
             ],
             "passage": [
               0.0,
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "especially those who are most in need of thy mercy.",
-          "phonetic": "especially those who are most in need of thy mercy,",
+          "text": "especially those most in need of thy mercy.",
+          "phonetic": "especially those most in need of thy mercy.",
           "timing": {
             "full": [
-              5.853,
-              8.708
+              5.905,
+              8.524
             ],
             "passage": [
               0.0,
-              3.168
+              2.866
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              8.708,
-              9.432
+              8.524,
+              9.526
             ],
             "passage": [
               0.0,

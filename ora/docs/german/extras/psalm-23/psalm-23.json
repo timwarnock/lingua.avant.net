@@ -109,26 +109,26 @@
           "timing": {
             "full": [
               10.472,
-              12.75
+              12.792
             ],
             "passage": [
               0.0,
-              1.425
+              1.467
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "er leitet mich auf rechten Pfaden",
-          "phonetic": "er leitet mich auf rechten Pfaden",
+          "text": "er leitet mich auf rechten Pfaden,",
+          "phonetic": "er leitet mich auf rechten Pfaden,",
           "timing": {
             "full": [
-              12.75,
-              14.764
+              12.792,
+              14.847
             ],
             "passage": [
-              1.425,
-              3.439
+              1.467,
+              3.522
             ]
           }
         },
@@ -138,12 +138,12 @@
           "phonetic": "treu seinem Namen.",
           "timing": {
             "full": [
-              14.764,
-              15.986
+              14.847,
+              16.25
             ],
             "passage": [
-              3.439,
-              4.661
+              3.522,
+              4.925
             ]
           }
         }
@@ -154,16 +154,16 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Muss ich auch wandern in dunkler Schlucht,",
-          "phonetic": "Muss ich auch wandern in dunkler Schlucht,",
+          "text": "Muss ich auch wandern in finsterer Schlucht,",
+          "phonetic": "Muss ich auch wandern in finsterer Schlucht,",
           "timing": {
             "full": [
-              15.986,
-              19.319
+              16.25,
+              19.681
             ],
             "passage": [
               0.0,
-              2.439
+              2.578
             ]
           }
         },
@@ -173,12 +173,12 @@
           "phonetic": "ich fürchte kein Unheil;",
           "timing": {
             "full": [
-              19.319,
-              20.972
+              19.681,
+              21.333
             ],
             "passage": [
-              2.439,
-              4.036
+              2.578,
+              4.175
             ]
           }
         },
@@ -188,12 +188,12 @@
           "phonetic": "denn du bist bei mir;",
           "timing": {
             "full": [
-              20.972,
-              22.375
+              21.333,
+              22.722
             ],
             "passage": [
-              4.036,
-              5.481
+              4.175,
+              5.633
             ]
           }
         }
@@ -208,8 +208,8 @@
           "phonetic": "dein Stock und dein Stab",
           "timing": {
             "full": [
-              22.375,
-              24.042
+              22.722,
+              24.389
             ],
             "passage": [
               0.0,
@@ -223,8 +223,8 @@
           "phonetic": "geben mir Zuversicht.",
           "timing": {
             "full": [
-              24.042,
-              25.375
+              24.389,
+              25.75
             ],
             "passage": [
               1.508,
@@ -243,27 +243,27 @@
           "phonetic": "Du deckst mir den Tisch",
           "timing": {
             "full": [
-              25.375,
-              27.514
+              25.75,
+              27.833
             ],
             "passage": [
               0.0,
-              1.272
+              1.217
             ]
           }
         },
         {
           "passage_segment_id": "7b",
-          "text": "im Angesicht meiner Feinde.",
-          "phonetic": "im Angesicht meiner Feinde.",
+          "text": "vor den Augen meiner Feinde.",
+          "phonetic": "vor den Augen meiner Feinde.",
           "timing": {
             "full": [
-              27.514,
-              29.125
+              27.833,
+              29.444
             ],
             "passage": [
-              1.272,
-              2.883
+              1.217,
+              2.828
             ]
           }
         }
@@ -278,8 +278,8 @@
           "phonetic": "Du salbst mein Haupt mit Öl;",
           "timing": {
             "full": [
-              29.125,
-              31.764
+              29.444,
+              32.083
             ],
             "passage": [
               0.0,
@@ -293,8 +293,8 @@
           "phonetic": "du füllst mir reichlich den Becher.",
           "timing": {
             "full": [
-              31.764,
-              33.958
+              32.083,
+              34.278
             ],
             "passage": [
               1.772,
@@ -313,8 +313,8 @@
           "phonetic": "Lauter Güte und Huld werden mir folgen",
           "timing": {
             "full": [
-              33.958,
-              37.194
+              34.278,
+              37.514
             ],
             "passage": [
               0.0,
@@ -328,8 +328,8 @@
           "phonetic": "mein Leben lang,",
           "timing": {
             "full": [
-              37.194,
-              38.181
+              37.514,
+              38.5
             ],
             "passage": [
               2.467,
@@ -348,8 +348,8 @@
           "phonetic": "und im Haus des Herrn darf ich wohnen",
           "timing": {
             "full": [
-              38.181,
-              40.583
+              38.5,
+              40.903
             ],
             "passage": [
               0.0,
@@ -363,8 +363,8 @@
           "phonetic": "für lange Zeit.",
           "timing": {
             "full": [
-              40.583,
-              41.611
+              40.903,
+              41.931
             ],
             "passage": [
               2.092,

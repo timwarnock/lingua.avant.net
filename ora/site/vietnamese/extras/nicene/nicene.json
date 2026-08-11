@@ -138,7 +138,7 @@
             ],
             "passage": [
               0.0,
-              1.8
+              1.788
             ]
           }
         },
@@ -152,7 +152,7 @@
               15.963
             ],
             "passage": [
-              1.8,
+              1.788,
               3.263
             ]
           }
@@ -183,22 +183,22 @@
             ],
             "passage": [
               4.963,
-              7.013
+              7.0
             ]
           }
         },
         {
           "passage_segment_id": "3e",
-          "text": "đồng bản thể với Đức Chúa Cha:",
-          "phonetic": "đồng bản thể với Đức Chúa Cha:",
+          "text": "đồng bản thể với Đức Chúa Cha;",
+          "phonetic": "đồng bản thể với Đức Chúa Cha;",
           "timing": {
             "full": [
               19.75,
-              21.488
+              21.5
             ],
             "passage": [
-              7.013,
-              8.775
+              7.0,
+              8.762
             ]
           }
         }
@@ -213,8 +213,8 @@
           "phonetic": "nhờ Người mà muôn vật được tạo thành.",
           "timing": {
             "full": [
-              21.488,
-              23.387
+              21.5,
+              23.413
             ],
             "passage": [
               0.0,
@@ -233,8 +233,8 @@
           "phonetic": "Vì loài người chúng ta và để cứu độ chúng ta,",
           "timing": {
             "full": [
-              23.387,
-              26.587
+              23.413,
+              26.613
             ],
             "passage": [
               0.0,
@@ -248,8 +248,8 @@
           "phonetic": "Người đã từ trời xuống thế.",
           "timing": {
             "full": [
-              26.587,
-              28.288
+              26.613,
+              28.312
             ],
             "passage": [
               2.462,
@@ -264,27 +264,42 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "Bởi phép Đức Chúa Thánh Thần, Người đã nhập thể trong lòng Trinh Nữ Maria,",
-          "phonetic": "Bởi phép Đức Chúa Thánh Thần, Người đã nhập thể trong lòng Trinh Nữ Maria,",
+          "text": "Bởi phép Đức Chúa Thánh Thần,",
+          "phonetic": "Bởi phép Đức Chúa Thánh Thần,",
           "timing": {
             "full": [
-              28.288,
-              32.9
+              28.312,
+              30.625
             ],
             "passage": [
               0.0,
-              3.888
+              1.575
             ]
           }
         },
         {
           "passage_segment_id": "6b",
+          "text": "Người đã nhập thể trong lòng Trinh Nữ Maria,",
+          "phonetic": "Người đã nhập thể trong lòng Trinh Nữ Maria,",
+          "timing": {
+            "full": [
+              30.625,
+              32.938
+            ],
+            "passage": [
+              1.575,
+              3.888
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6c",
           "text": "và đã làm người.",
           "phonetic": "và đã làm người.",
           "timing": {
             "full": [
-              32.9,
-              34.025
+              32.938,
+              34.062
             ],
             "passage": [
               3.888,
@@ -299,16 +314,16 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "Người chịu đóng đinh vào thập giá vì chúng ta thời quan Phongxiô Philatô;",
-          "phonetic": "Người chịu đóng đinh vào thập giá vì chúng ta thời quan Phongxiô Philatô;",
+          "text": "Người chịu đóng đinh vào thập giá vì chúng ta, thời quan Phongxiô Philatô;",
+          "phonetic": "Người chịu đóng đinh vào thập giá vì chúng ta, thời quan Phongxiô Philatô;",
           "timing": {
             "full": [
-              34.025,
-              38.5
+              34.062,
+              38.95
             ],
             "passage": [
               0.0,
-              3.725
+              4.15
             ]
           }
         },
@@ -318,12 +333,12 @@
           "phonetic": "Người chịu khổ hình và mai táng.",
           "timing": {
             "full": [
-              38.5,
-              40.413
+              38.95,
+              40.888
             ],
             "passage": [
-              3.725,
-              5.638
+              4.15,
+              6.088
             ]
           }
         }
@@ -334,30 +349,15 @@
       "segments": [
         {
           "passage_segment_id": "8a",
-          "text": "Ngày thứ ba Người sống lại",
-          "phonetic": "Ngày thứ ba Người sống lại",
+          "text": "Ngày thứ ba Người sống lại như lời Thánh Kinh.",
+          "phonetic": "Ngày thứ ba Người sống lại như lời Thánh Kinh.",
           "timing": {
             "full": [
-              40.413,
-              42.7
+              40.888,
+              44.1
             ],
             "passage": [
               0.0,
-              1.562
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "8b",
-          "text": "như lời Thánh Kinh.",
-          "phonetic": "như lời Thánh Kinh.",
-          "timing": {
-            "full": [
-              42.7,
-              43.625
-            ],
-            "passage": [
-              1.562,
               2.475
             ]
           }
@@ -373,8 +373,8 @@
           "phonetic": "Người lên trời,",
           "timing": {
             "full": [
-              43.625,
-              45.362
+              44.1,
+              45.837
             ],
             "passage": [
               0.0,
@@ -388,8 +388,8 @@
           "phonetic": "ngự bên hữu Đức Chúa Cha.",
           "timing": {
             "full": [
-              45.362,
-              47.087
+              45.837,
+              47.55
             ],
             "passage": [
               1.0,
@@ -404,42 +404,27 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "Người sẽ lại đến trong vinh quang",
-          "phonetic": "Người sẽ lại đến trong vinh quang",
+          "text": "Người sẽ lại đến trong vinh quang để phán xét kẻ sống và kẻ chết,",
+          "phonetic": "Người sẽ lại đến trong vinh quang để phán xét kẻ sống và kẻ chết,",
           "timing": {
             "full": [
-              47.087,
-              49.438
+              47.55,
+              51.587
             ],
             "passage": [
               0.0,
-              1.613
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "10b",
-          "text": "để phán xét kẻ sống và kẻ chết,",
-          "phonetic": "để phán xét kẻ sống và kẻ chết,",
-          "timing": {
-            "full": [
-              49.438,
-              51.125
-            ],
-            "passage": [
-              1.613,
               3.3
             ]
           }
         },
         {
-          "passage_segment_id": "10c",
+          "passage_segment_id": "10b",
           "text": "Nước Người sẽ không bao giờ cùng.",
           "phonetic": "Nước Người sẽ không bao giờ cùng.",
           "timing": {
             "full": [
-              51.125,
-              52.875
+              51.587,
+              53.337
             ],
             "passage": [
               3.3,
@@ -458,8 +443,8 @@
           "phonetic": "Tôi tin kính Đức Chúa Thánh Thần,",
           "timing": {
             "full": [
-              52.875,
-              55.337
+              53.337,
+              55.8
             ],
             "passage": [
               0.0,
@@ -473,8 +458,8 @@
           "phonetic": "là Thiên Chúa và là Đấng ban sự sống,",
           "timing": {
             "full": [
-              55.337,
-              57.475
+              55.8,
+              57.925
             ],
             "passage": [
               1.738,
@@ -484,16 +469,16 @@
         },
         {
           "passage_segment_id": "11c",
-          "text": "Người bởi Đức Chúa Cha mà ra;",
-          "phonetic": "Người bởi Đức Chúa Cha mà ra;",
+          "text": "Người bởi Đức Chúa Cha và Đức Chúa Con mà ra;",
+          "phonetic": "Người bởi Đức Chúa Cha và Đức Chúa Con mà ra;",
           "timing": {
             "full": [
-              57.475,
-              59.237
+              57.925,
+              60.438
             ],
             "passage": [
               3.837,
-              5.625
+              6.375
             ]
           }
         },
@@ -503,12 +488,12 @@
           "phonetic": "Người được phụng thờ và tôn vinh cùng với Đức Chúa Cha và Đức Chúa Con;",
           "timing": {
             "full": [
-              59.237,
-              62.712
+              60.438,
+              63.85
             ],
             "passage": [
-              5.625,
-              9.088
+              6.375,
+              9.812
             ]
           }
         },
@@ -518,12 +503,12 @@
           "phonetic": "Người đã dùng các tiên tri mà phán dạy.",
           "timing": {
             "full": [
-              62.712,
-              64.825
+              63.85,
+              65.963
             ],
             "passage": [
-              9.088,
-              11.213
+              9.812,
+              11.912
             ]
           }
         }
@@ -534,15 +519,60 @@
       "segments": [
         {
           "passage_segment_id": "12a",
-          "text": "Tôi tin Hội Thánh duy nhất, thánh thiện, công giáo, và tông truyền.",
-          "phonetic": "Tôi tin Hội Thánh duy nhất, thánh thiện, công giáo, và tông truyền.",
+          "text": "Tôi tin Hội Thánh duy nhất,",
+          "phonetic": "Tôi tin Hội Thánh duy nhất,",
           "timing": {
             "full": [
-              64.825,
-              69.675
+              65.963,
+              68.188
             ],
             "passage": [
               0.0,
+              1.5
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12b",
+          "text": "thánh thiện,",
+          "phonetic": "thánh thiện,",
+          "timing": {
+            "full": [
+              68.188,
+              69.037
+            ],
+            "passage": [
+              1.5,
+              2.35
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12c",
+          "text": "công giáo,",
+          "phonetic": "công giáo,",
+          "timing": {
+            "full": [
+              69.037,
+              69.838
+            ],
+            "passage": [
+              2.35,
+              3.163
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "12d",
+          "text": "và tông truyền.",
+          "phonetic": "và tông truyền.",
+          "timing": {
+            "full": [
+              69.838,
+              70.8
+            ],
+            "passage": [
+              3.163,
               4.138
             ]
           }
@@ -554,31 +584,16 @@
       "segments": [
         {
           "passage_segment_id": "13a",
-          "text": "Tôi tin phép rửa tội duy nhất",
-          "phonetic": "Tôi tin phép rửa tội duy nhất",
+          "text": "Tôi tuyên xưng có một Phép Rửa để tha tội.",
+          "phonetic": "Tôi tuyên xưng có một Phép Rửa để tha tội.",
           "timing": {
             "full": [
-              69.675,
-              72.2
+              70.8,
+              73.912
             ],
             "passage": [
               0.0,
-              1.762
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "13b",
-          "text": "để tha tội.",
-          "phonetic": "để tha tội.",
-          "timing": {
-            "full": [
-              72.2,
-              72.9
-            ],
-            "passage": [
-              1.762,
-              2.475
+              2.362
             ]
           }
         }
@@ -589,16 +604,16 @@
       "segments": [
         {
           "passage_segment_id": "14a",
-          "text": "Tôi mong đợi kẻ chết sống lại",
-          "phonetic": "Tôi mong đợi kẻ chết sống lại",
+          "text": "Tôi trông đợi kẻ chết sống lại",
+          "phonetic": "Tôi trông đợi kẻ chết sống lại",
           "timing": {
             "full": [
-              72.9,
-              75.4
+              73.912,
+              76.412
             ],
             "passage": [
               0.0,
-              1.738
+              1.762
             ]
           }
         },
@@ -608,12 +623,12 @@
           "phonetic": "và sự sống đời sau.",
           "timing": {
             "full": [
-              75.4,
-              76.525
+              76.412,
+              77.537
             ],
             "passage": [
-              1.738,
-              2.875
+              1.762,
+              2.9
             ]
           }
         }
@@ -628,8 +643,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              76.525,
-              77.938
+              77.537,
+              78.95
             ],
             "passage": [
               0.0,

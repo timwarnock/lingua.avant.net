@@ -12,7 +12,7 @@ icon: material/cross
 
 **Tiếng Việt**
 
-Kính mừng Maria đầy ơn phúc, Đức Chúa Trời ở cùng Bà. Bà có phúc lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phúc lạ. Thánh Maria, Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội, khi nay và trong giờ lâm tử. Amen.
+Kính mừng Maria, đầy ơn phúc, Đức Chúa Trời ở cùng Bà. Bà có phúc lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phúc lạ. Thánh Maria, Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội, khi nay và trong giờ lâm tử. Amen.
 
 **English**
 

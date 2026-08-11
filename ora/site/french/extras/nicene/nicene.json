@@ -474,26 +474,26 @@
           "timing": {
             "full": [
               55.553,
-              57.329
+              57.342
             ],
             "passage": [
               1.405,
-              3.182
+              3.195
             ]
           }
         },
         {
           "passage_segment_id": "11c",
-          "text": "il procède du Père.",
-          "phonetic": "il procède du Père.",
+          "text": "il procède du Père et du Fils.",
+          "phonetic": "il procède du Père et du Fils.",
           "timing": {
             "full": [
-              57.329,
-              58.75
+              57.342,
+              59.329
             ],
             "passage": [
-              3.182,
-              4.603
+              3.195,
+              5.182
             ]
           }
         },
@@ -503,12 +503,12 @@
           "phonetic": "Avec le Père et le Fils, il reçoit même adoration et même gloire;",
           "timing": {
             "full": [
-              58.75,
-              63.513
+              59.329,
+              64.092
             ],
             "passage": [
-              4.603,
-              9.368
+              5.182,
+              9.947
             ]
           }
         },
@@ -518,12 +518,12 @@
           "phonetic": "il a parlé par les prophètes.",
           "timing": {
             "full": [
-              63.513,
-              65.289
+              64.092,
+              65.868
             ],
             "passage": [
-              9.368,
-              11.145
+              9.947,
+              11.724
             ]
           }
         }
@@ -538,8 +538,8 @@
           "phonetic": "Je crois en l'Église, une, sainte, catholique et apostolique.",
           "timing": {
             "full": [
-              65.289,
-              70.461
+              65.868,
+              71.039
             ],
             "passage": [
               0.0,
@@ -558,8 +558,8 @@
           "phonetic": "Je reconnais un seul baptême",
           "timing": {
             "full": [
-              70.461,
-              72.974
+              71.039,
+              73.553
             ],
             "passage": [
               0.0,
@@ -573,8 +573,8 @@
           "phonetic": "pour le pardon des péchés.",
           "timing": {
             "full": [
-              72.974,
-              74.224
+              73.553,
+              74.803
             ],
             "passage": [
               1.708,
@@ -593,8 +593,8 @@
           "phonetic": "J'attends la résurrection des morts,",
           "timing": {
             "full": [
-              74.224,
-              76.908
+              74.803,
+              77.487
             ],
             "passage": [
               0.0,
@@ -608,8 +608,8 @@
           "phonetic": "et la vie du monde à venir.",
           "timing": {
             "full": [
-              76.908,
-              78.658
+              77.487,
+              79.237
             ],
             "passage": [
               1.879,
@@ -628,8 +628,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              78.658,
-              80.104
+              79.237,
+              80.683
             ],
             "passage": [
               0.0,

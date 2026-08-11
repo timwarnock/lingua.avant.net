@@ -20,7 +20,7 @@ icon: material/cross
 
 **Español**
 
-Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra, Dios te salve. A ti clamamos los desterrados hijos de Eva. A ti suspiramos gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora, abogada nuestra: vuelve a nosotros esos tus ojos misericordiosos. Y después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. Oh clemente, oh piadosa, oh dulce Virgen María.
+Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A ti clamamos los desterrados hijos de Eva. A ti suspiramos, gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos. Y después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. Oh clemente, oh piadosa, oh dulce Virgen María.
 
 Ruega por nosotros, Santa Madre de Dios.
 
@@ -28,7 +28,7 @@ Para que seamos dignos de las promesas de Cristo.
 
 Oremos.
 
-Oh Dios, cuyo Hijo unigénito, por su vida, muerte y resurrección, nos ha obtenido el premio de la vida eterna, concédenos, te rogamos, que al meditar los misterios del Santísimo Rosario de la Bienaventurada Virgen María, imitemos lo que contienen y alcancemos lo que prometen. Por el mismo Jesucristo, Señor nuestro. Amén.
+Oh Dios, cuyo Hijo unigénito, por su vida, muerte y resurrección, nos ha obtenido los premios de la vida eterna, concédenos, te rogamos, que al meditar los misterios del Santísimo Rosario de la Bienaventurada Virgen María, imitemos lo que contienen y alcancemos lo que prometen, por el mismo Jesucristo, Señor nuestro. Amén.
 
 Sagrado Corazón de Jesús, ten misericordia de nosotros.
 

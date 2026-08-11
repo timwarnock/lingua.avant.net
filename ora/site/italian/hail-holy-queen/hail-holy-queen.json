@@ -29,8 +29,8 @@
         },
         {
           "passage_segment_id": "1b",
-          "text": "Madre di misericordia,",
-          "phonetic": "Madre di misericordia,",
+          "text": "madre di misericordia,",
+          "phonetic": "madre di misericordia,",
           "timing": {
             "full": [
               1.633,
@@ -229,61 +229,61 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "E dopo questo esilio",
-          "phonetic": "E dopo questo esilio",
+          "text": "E mostraci,",
+          "phonetic": "E mostraci,",
           "timing": {
             "full": [
               20.36,
-              22.0
+              21.611
             ],
             "passage": [
               0.0,
-              1.453
+              1.064
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "mostraci",
-          "phonetic": "mostraci",
+          "text": "dopo questo esilio,",
+          "phonetic": "dopo questo esilio,",
           "timing": {
             "full": [
-              22.0,
-              22.722
+              21.611,
+              23.181
             ],
             "passage": [
-              1.453,
-              2.175
+              1.064,
+              2.633
             ]
           }
         },
         {
           "passage_segment_id": "5c",
-          "text": "il frutto benedetto del tuo seno,",
-          "phonetic": "il frutto benedetto del tuo seno,",
+          "text": "Gesù,",
+          "phonetic": "Gesù,",
           "timing": {
             "full": [
-              22.722,
-              24.708
+              23.181,
+              23.833
             ],
             "passage": [
-              2.175,
-              4.161
+              2.633,
+              3.286
             ]
           }
         },
         {
           "passage_segment_id": "5d",
-          "text": "Gesù.",
-          "phonetic": "Gesù.",
+          "text": "il frutto benedetto del tuo seno.",
+          "phonetic": "il frutto benedetto del tuo seno.",
           "timing": {
             "full": [
-              24.708,
-              25.347
+              23.833,
+              26.306
             ],
             "passage": [
-              4.161,
-              4.8
+              3.286,
+              5.758
             ]
           }
         }
@@ -298,12 +298,12 @@
           "phonetic": "O clemente,",
           "timing": {
             "full": [
-              25.347,
-              26.582
+              26.306,
+              27.526
             ],
             "passage": [
               0.0,
-              1.049
+              1.035
             ]
           }
         },
@@ -313,27 +313,27 @@
           "phonetic": "o pia,",
           "timing": {
             "full": [
-              26.582,
-              27.387
+              27.526,
+              28.332
             ],
             "passage": [
-              1.049,
-              1.854
+              1.035,
+              1.84
             ]
           }
         },
         {
           "passage_segment_id": "6c",
-          "text": "o dolce Vergine Maria.",
-          "phonetic": "o dolce Vergine Maria.",
+          "text": "o dolce Vergine Maria!",
+          "phonetic": "o dolce Vergine Maria!",
           "timing": {
             "full": [
-              27.387,
-              29.151
+              28.332,
+              30.068
             ],
             "passage": [
-              1.854,
-              3.618
+              1.84,
+              3.576
             ]
           }
         }
@@ -348,8 +348,8 @@
           "phonetic": "Prega per noi,",
           "timing": {
             "full": [
-              29.151,
-              30.458
+              30.068,
+              31.375
             ],
             "passage": [
               0.0,
@@ -363,8 +363,8 @@
           "phonetic": "santa Madre di Dio.",
           "timing": {
             "full": [
-              30.458,
-              31.986
+              31.375,
+              32.903
             ],
             "passage": [
               1.119,
@@ -383,8 +383,8 @@
           "phonetic": "Perché siamo resi degni delle promesse di Cristo.",
           "timing": {
             "full": [
-              31.986,
-              35.069
+              32.903,
+              35.986
             ],
             "passage": [
               0.0,

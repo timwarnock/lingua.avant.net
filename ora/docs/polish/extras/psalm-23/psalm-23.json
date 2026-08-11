@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Psalm Dawida.",
-          "phonetic": "Psalm Dawida.",
+          "text": "Psalm. Dawidowy.",
+          "phonetic": "Psalm. Dawidowy.",
           "timing": {
             "full": [
               0.0,
-              0.971
+              2.118
             ],
             "passage": [
               0.0,
-              0.971
+              2.118
             ]
           }
         }
@@ -38,8 +38,8 @@
           "phonetic": "Pan jest moim pasterzem,",
           "timing": {
             "full": [
-              0.971,
-              3.408
+              2.118,
+              4.487
             ],
             "passage": [
               0.0,
@@ -53,8 +53,8 @@
           "phonetic": "nie brak mi niczego.",
           "timing": {
             "full": [
-              3.408,
-              4.671
+              4.487,
+              5.75
             ],
             "passage": [
               1.511,
@@ -73,8 +73,8 @@
           "phonetic": "Pozwala mi leżeć na zielonych pastwiskach.",
           "timing": {
             "full": [
-              4.671,
-              8.066
+              5.75,
+              9.145
             ],
             "passage": [
               0.0,
@@ -88,8 +88,8 @@
           "phonetic": "Prowadzi mnie nad wody, gdzie mogę odpocząć:",
           "timing": {
             "full": [
-              8.066,
-              11.368
+              9.145,
+              12.447
             ],
             "passage": [
               2.537,
@@ -108,8 +108,8 @@
           "phonetic": "orzeźwia moją duszę.",
           "timing": {
             "full": [
-              11.368,
-              12.763
+              12.447,
+              13.842
             ],
             "passage": [
               0.0,
@@ -123,8 +123,8 @@
           "phonetic": "Wiedzie mnie po właściwych ścieżkach",
           "timing": {
             "full": [
-              12.763,
-              15.499
+              13.842,
+              16.578
             ],
             "passage": [
               1.313,
@@ -138,8 +138,8 @@
           "phonetic": "przez wzgląd na swoje imię.",
           "timing": {
             "full": [
-              15.499,
-              17.078
+              16.578,
+              18.157
             ],
             "passage": [
               4.039,
@@ -158,8 +158,8 @@
           "phonetic": "Chociażbym chodził ciemną doliną,",
           "timing": {
             "full": [
-              17.078,
-              19.829
+              18.157,
+              20.908
             ],
             "passage": [
               0.0,
@@ -173,8 +173,8 @@
           "phonetic": "zła się nie ulęknę,",
           "timing": {
             "full": [
-              19.829,
-              21.092
+              20.908,
+              22.171
             ],
             "passage": [
               1.826,
@@ -188,8 +188,8 @@
           "phonetic": "bo Ty jesteś ze mną.",
           "timing": {
             "full": [
-              21.092,
-              22.408
+              22.171,
+              23.487
             ],
             "passage": [
               3.089,
@@ -208,8 +208,8 @@
           "phonetic": "Twój kij i Twoja laska",
           "timing": {
             "full": [
-              22.408,
-              24.842
+              23.487,
+              25.921
             ],
             "passage": [
               0.0,
@@ -223,8 +223,8 @@
           "phonetic": "są tym, co mnie pociesza.",
           "timing": {
             "full": [
-              24.842,
-              26.303
+              25.921,
+              27.382
             ],
             "passage": [
               1.524,
@@ -243,8 +243,8 @@
           "phonetic": "Stół dla mnie zastawiasz",
           "timing": {
             "full": [
-              26.303,
-              28.434
+              27.382,
+              29.512
             ],
             "passage": [
               0.0,
@@ -258,8 +258,8 @@
           "phonetic": "wobec mych przeciwników;",
           "timing": {
             "full": [
-              28.434,
-              29.802
+              29.512,
+              30.881
             ],
             "passage": [
               1.299,
@@ -278,8 +278,8 @@
           "phonetic": "namaszczasz mi głowę olejkiem;",
           "timing": {
             "full": [
-              29.802,
-              31.618
+              30.881,
+              32.697
             ],
             "passage": [
               0.0,
@@ -293,8 +293,8 @@
           "phonetic": "mój kielich jest przeobfity.",
           "timing": {
             "full": [
-              31.618,
-              33.407
+              32.697,
+              34.486
             ],
             "passage": [
               1.747,
@@ -309,16 +309,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Dobroć i łaska pójdą w ślad za mną",
-          "phonetic": "Dobroć i łaska pójdą w ślad za mną",
+          "text": "Tak, dobroć i łaska pójdą w ślad za mną",
+          "phonetic": "Tak, dobroć i łaska pójdą w ślad za mną",
           "timing": {
             "full": [
-              33.407,
-              36.355
+              34.486,
+              37.803
             ],
             "passage": [
               0.0,
-              2.168
+              2.55
             ]
           }
         },
@@ -328,12 +328,12 @@
           "phonetic": "przez wszystkie dni mego życia",
           "timing": {
             "full": [
-              36.355,
-              38.065
+              37.803,
+              39.5
             ],
             "passage": [
-              2.168,
-              3.878
+              2.55,
+              4.221
             ]
           }
         }
@@ -348,8 +348,8 @@
           "phonetic": "i zamieszkam w domu Pańskim",
           "timing": {
             "full": [
-              38.065,
-              39.776
+              39.5,
+              41.184
             ],
             "passage": [
               0.0,
@@ -363,8 +363,8 @@
           "phonetic": "po najdłuższe czasy.",
           "timing": {
             "full": [
-              39.776,
-              41.012
+              41.184,
+              42.395
             ],
             "passage": [
               1.641,

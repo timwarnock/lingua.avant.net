@@ -69,26 +69,26 @@
           "timing": {
             "full": [
               4.146,
-              5.986
+              5.972
             ],
             "passage": [
               0.0,
-              1.647
+              1.633
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "ora",
-          "phonetic": "ora",
+          "text": "e ora",
+          "phonetic": "e ora",
           "timing": {
             "full": [
-              5.986,
-              6.556
+              5.972,
+              6.667
             ],
             "passage": [
-              1.647,
-              2.217
+              1.633,
+              2.328
             ]
           }
         },
@@ -98,12 +98,12 @@
           "phonetic": "e sempre,",
           "timing": {
             "full": [
-              6.556,
-              7.181
+              6.667,
+              7.292
             ],
             "passage": [
-              2.217,
-              2.842
+              2.328,
+              2.953
             ]
           }
         },
@@ -113,12 +113,12 @@
           "phonetic": "nei secoli dei secoli.",
           "timing": {
             "full": [
-              7.181,
-              8.931
+              7.292,
+              9.042
             ],
             "passage": [
-              2.842,
-              4.592
+              2.953,
+              4.703
             ]
           }
         }
@@ -133,8 +133,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              8.931,
-              9.819
+              9.042,
+              9.931
             ],
             "passage": [
               0.0,

@@ -15,29 +15,29 @@
         {
           "passage_segment_id": "1a",
           "text": "Ω Ιησού μου,",
-          "phonetic": "Ō I-ē-soû mou,",
+          "phonetic": "O I-i-sú mu,",
           "timing": {
             "full": [
               0.0,
-              1.008
+              1.166
             ],
             "passage": [
               0.0,
-              1.061
+              1.232
             ]
           }
         },
         {
           "passage_segment_id": "1b",
           "text": "συγχώρησον ημίν τας αμαρτίας ημών,",
-          "phonetic": "syn-chṓ-rē-son hē-mîn tas ha-mar-tí-as hē-mṓn,",
+          "phonetic": "sin-chó-ri-son i-mín tas a-mar-tí-as i-món,",
           "timing": {
             "full": [
-              1.008,
-              3.126
+              1.166,
+              3.311
             ],
             "passage": [
-              1.061,
+              1.232,
               3.297
             ]
           }
@@ -49,16 +49,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "ρυσαι ημάς απο του πυρος της γεέννης,",
-          "phonetic": "rhŷ-sai hē-mâs a-pò tou py-ròs tēs ge-én-nēs,",
+          "text": "ρύσαι ημάς από του πυρός της γεέννης,",
+          "phonetic": "rí-se i-más a-pó tu pi-rós tis ye-én-nis,",
           "timing": {
             "full": [
-              3.126,
-              5.113
+              3.311,
+              5.271
             ],
             "passage": [
               0.0,
-              2.126
+              2.1
             ]
           }
         }
@@ -69,12 +69,12 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "οδήγησον εις τον ουρανον πάσας τας ψυχάς,",
-          "phonetic": "ho-dḗ-gē-son eis ton ou-ra-nòn pá-sas tas psy-chás,",
+          "text": "οδήγησον εις τον ουρανόν πάσας τας ψυχάς,",
+          "phonetic": "o-thí-yi-son is ton u-ra-nón pá-sas tas psi-chás,",
           "timing": {
             "full": [
-              5.113,
-              7.442
+              5.271,
+              7.653
             ],
             "passage": [
               0.0,
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "ιδίως δε εκείνας αίτινες μάλιστα δέονται του ελέους σου,",
-          "phonetic": "i-dí-ōs dè e-keí-nas hai-ti-nes má-lis-ta dé-on-tai tou e-lé-ous sou,",
+          "text": "ιδίως δε εκείνας αίτινες μάλιστα δέονται του ελέους σου.",
+          "phonetic": "i-thí-os the e-kí-nas é-ti-nes má-li-sta thé-on-de tu e-lé-us su.",
           "timing": {
             "full": [
-              7.442,
-              10.258
+              7.653,
+              11.195
             ],
             "passage": [
               0.0,
-              2.982
+              2.968
             ]
           }
         }
@@ -110,11 +110,11 @@
         {
           "passage_segment_id": "5a",
           "text": "Αμήν.",
-          "phonetic": "A-mḗn.",
+          "phonetic": "A-mín.",
           "timing": {
             "full": [
-              10.258,
-              11.047
+              11.195,
+              11.997
             ],
             "passage": [
               0.0,

@@ -19,11 +19,11 @@
           "timing": {
             "full": [
               0.0,
-              0.971
+              1.024
             ],
             "passage": [
               0.0,
-              1.011
+              1.024
             ]
           }
         },
@@ -33,27 +33,27 @@
           "phonetic": "le Père tout-puissant,",
           "timing": {
             "full": [
-              0.971,
-              2.247
+              1.024,
+              2.353
             ],
             "passage": [
-              1.011,
-              2.313
+              1.024,
+              2.353
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "créateur du ciel et de la terre.",
-          "phonetic": "créateur du ciel et de la terre,",
+          "text": "Créateur du ciel et de la terre.",
+          "phonetic": "Créateur du ciel et de la terre.",
           "timing": {
             "full": [
-              2.247,
-              4.103
+              2.353,
+              4.353
             ],
             "passage": [
-              2.313,
-              4.26
+              2.353,
+              4.353
             ]
           }
         }
@@ -68,12 +68,12 @@
           "phonetic": "Et en Jésus Christ,",
           "timing": {
             "full": [
-              4.103,
-              5.432
+              4.353,
+              6.29
             ],
             "passage": [
               0.0,
-              1.167
+              1.128
             ]
           }
         },
@@ -83,27 +83,27 @@
           "phonetic": "son Fils unique,",
           "timing": {
             "full": [
-              5.432,
-              6.537
+              6.29,
+              7.395
             ],
             "passage": [
-              1.167,
-              2.286
+              1.128,
+              2.233
             ]
           }
         },
         {
           "passage_segment_id": "2c",
-          "text": "notre Seigneur",
-          "phonetic": "notre Seigneur",
+          "text": "notre Seigneur,",
+          "phonetic": "notre Seigneur,",
           "timing": {
             "full": [
-              6.537,
-              7.747
+              7.395,
+              8.684
             ],
             "passage": [
-              2.286,
-              3.588
+              2.233,
+              3.536
             ]
           }
         }
@@ -114,16 +114,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "qui a été conçu du Saint-Esprit,",
-          "phonetic": "qui a été conçu du Saint-Esprit,",
+          "text": "qui a été conçu du Saint Esprit,",
+          "phonetic": "qui a été conçu du Saint Esprit,",
           "timing": {
             "full": [
-              7.747,
-              9.379
+              8.684,
+              10.605
             ],
             "passage": [
               0.0,
-              1.826
+              1.8
             ]
           }
         }
@@ -138,8 +138,8 @@
           "phonetic": "est né de la Vierge Marie,",
           "timing": {
             "full": [
-              9.379,
-              10.866
+              10.605,
+              12.105
             ],
             "passage": [
               0.0,
@@ -158,8 +158,8 @@
           "phonetic": "a souffert sous Ponce Pilate,",
           "timing": {
             "full": [
-              10.866,
-              12.629
+              12.105,
+              13.855
             ],
             "passage": [
               0.0,
@@ -173,8 +173,8 @@
           "phonetic": "a été crucifié,",
           "timing": {
             "full": [
-              12.629,
-              13.8
+              13.855,
+              15.0
             ],
             "passage": [
               1.629,
@@ -188,8 +188,8 @@
           "phonetic": "est mort et a été enseveli,",
           "timing": {
             "full": [
-              13.8,
-              15.405
+              15.0,
+              16.592
             ],
             "passage": [
               2.8,
@@ -208,8 +208,8 @@
           "phonetic": "est descendu aux enfers,",
           "timing": {
             "full": [
-              15.405,
-              16.958
+              16.592,
+              18.158
             ],
             "passage": [
               0.0,
@@ -228,8 +228,8 @@
           "phonetic": "le troisième jour est ressuscité des morts,",
           "timing": {
             "full": [
-              16.958,
-              19.487
+              18.158,
+              20.513
             ],
             "passage": [
               0.0,
@@ -248,8 +248,8 @@
           "phonetic": "est monté aux cieux,",
           "timing": {
             "full": [
-              19.487,
-              20.658
+              20.513,
+              21.671
             ],
             "passage": [
               0.0,
@@ -264,16 +264,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "est assis à la droite de Dieu le Père tout-puissant",
-          "phonetic": "est assis à la droite de Dieu le Père tout-puissant",
+          "text": "est assis à la droite de Dieu le Père tout-puissant,",
+          "phonetic": "est assis à la droite de Dieu le Père tout-puissant,",
           "timing": {
             "full": [
-              20.658,
-              23.329
+              21.671,
+              24.393
             ],
             "passage": [
               0.0,
-              2.522
+              2.496
             ]
           }
         }
@@ -284,16 +284,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "d'où Il viendra juger les vivants et les morts.",
-          "phonetic": "d'où Il viendra juger les vivants et les morts,",
+          "text": "d'où il viendra juger les vivants et les morts.",
+          "phonetic": "d'où il viendra juger les vivants et les morts.",
           "timing": {
             "full": [
-              23.329,
-              25.382
+              24.393,
+              26.841
             ],
             "passage": [
               0.0,
-              2.287
+              2.326
             ]
           }
         }
@@ -304,31 +304,31 @@
       "segments": [
         {
           "passage_segment_id": "11a",
-          "text": "Je crois en l'Esprit-Saint,",
-          "phonetic": "Je crois en l'Esprit-Saint,",
+          "text": "Je crois en l'Esprit Saint,",
+          "phonetic": "Je crois en l'Esprit Saint,",
           "timing": {
             "full": [
-              25.382,
-              26.895
+              26.841,
+              29.118
             ],
             "passage": [
               0.0,
-              1.445
+              1.471
             ]
           }
         },
         {
           "passage_segment_id": "11b",
-          "text": "à la sainte Eglise catholique,",
-          "phonetic": "à la sainte Eglise catholique,",
+          "text": "à la sainte Église catholique,",
+          "phonetic": "à la sainte Église catholique,",
           "timing": {
             "full": [
-              26.895,
-              29.724
+              29.118,
+              30.789
             ],
             "passage": [
-              1.445,
-              3.103
+              1.471,
+              3.142
             ]
           }
         },
@@ -338,12 +338,12 @@
           "phonetic": "à la communion des saints,",
           "timing": {
             "full": [
-              29.724,
-              31.184
+              30.789,
+              32.263
             ],
             "passage": [
-              3.103,
-              4.563
+              3.142,
+              4.616
             ]
           }
         },
@@ -353,12 +353,12 @@
           "phonetic": "à la rémission des péchés,",
           "timing": {
             "full": [
-              31.184,
-              32.75
+              32.263,
+              33.855
             ],
             "passage": [
-              4.563,
-              6.142
+              4.616,
+              6.208
             ]
           }
         },
@@ -368,27 +368,27 @@
           "phonetic": "à la résurrection de la chair,",
           "timing": {
             "full": [
-              32.75,
-              34.645
+              33.855,
+              35.737
             ],
             "passage": [
-              6.142,
-              7.997
+              6.208,
+              8.089
             ]
           }
         },
         {
           "passage_segment_id": "11f",
           "text": "à la vie éternelle.",
-          "phonetic": "à la vie éternelle,",
+          "phonetic": "à la vie éternelle.",
           "timing": {
             "full": [
-              34.645,
-              35.974
+              35.737,
+              37.211
             ],
             "passage": [
-              7.997,
-              9.458
+              8.089,
+              9.563
             ]
           }
         }
@@ -403,8 +403,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              35.974,
-              36.724
+              37.211,
+              38.657
             ],
             "passage": [
               0.0,

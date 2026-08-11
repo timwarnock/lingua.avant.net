@@ -23,7 +23,7 @@
             ],
             "passage": [
               0.0,
-              0.932
+              0.918
             ]
           }
         },
@@ -34,26 +34,26 @@
           "timing": {
             "full": [
               0.918,
-              2.221
+              2.26
             ],
             "passage": [
-              0.932,
-              2.247
+              0.918,
+              2.26
             ]
           }
         },
         {
           "passage_segment_id": "1c",
-          "text": "criador do Céu e da Terra,",
-          "phonetic": "criador do Céu e da Terra,",
+          "text": "Criador do Céu e da Terra.",
+          "phonetic": "Criador do Céu e da Terra.",
           "timing": {
             "full": [
-              2.221,
-              3.997
+              2.26,
+              4.024
             ],
             "passage": [
-              2.247,
-              4.011
+              2.26,
+              4.024
             ]
           }
         }
@@ -68,8 +68,8 @@
           "phonetic": "E em Jesus Cristo,",
           "timing": {
             "full": [
-              3.997,
-              5.168
+              4.024,
+              5.395
             ],
             "passage": [
               0.0,
@@ -83,8 +83,8 @@
           "phonetic": "seu único Filho,",
           "timing": {
             "full": [
-              5.168,
-              6.3
+              5.395,
+              6.408
             ],
             "passage": [
               1.221,
@@ -98,8 +98,8 @@
           "phonetic": "nosso Senhor,",
           "timing": {
             "full": [
-              6.3,
-              7.089
+              6.408,
+              7.197
             ],
             "passage": [
               2.274,
@@ -118,8 +118,8 @@
           "phonetic": "que foi concebido pelo poder do Espírito Santo,",
           "timing": {
             "full": [
-              7.089,
-              9.905
+              7.197,
+              10.0
             ],
             "passage": [
               0.0,
@@ -138,8 +138,8 @@
           "phonetic": "nasceu da Virgem Maria,",
           "timing": {
             "full": [
-              9.905,
-              11.487
+              10.0,
+              11.618
             ],
             "passage": [
               0.0,
@@ -158,8 +158,8 @@
           "phonetic": "padeceu sob Pôncio Pilatos,",
           "timing": {
             "full": [
-              11.487,
-              13.276
+              11.618,
+              13.592
             ],
             "passage": [
               0.0,
@@ -173,8 +173,8 @@
           "phonetic": "foi crucificado,",
           "timing": {
             "full": [
-              13.276,
-              14.408
+              13.592,
+              14.763
             ],
             "passage": [
               1.879,
@@ -188,8 +188,8 @@
           "phonetic": "morto e sepultado;",
           "timing": {
             "full": [
-              14.408,
-              15.645
+              14.763,
+              16.132
             ],
             "passage": [
               2.971,
@@ -208,8 +208,8 @@
           "phonetic": "desceu aos infernos;",
           "timing": {
             "full": [
-              15.645,
-              17.105
+              16.132,
+              17.553
             ],
             "passage": [
               0.0,
@@ -224,12 +224,12 @@
       "segments": [
         {
           "passage_segment_id": "7a",
-          "text": "ressuscitou ao terceiro dia,",
-          "phonetic": "ressuscitou ao terceiro dia,",
+          "text": "ressuscitou ao terceiro dia;",
+          "phonetic": "ressuscitou ao terceiro dia;",
           "timing": {
             "full": [
-              17.105,
-              18.921
+              17.553,
+              19.355
             ],
             "passage": [
               0.0,
@@ -248,8 +248,8 @@
           "phonetic": "subiu aos Céus,",
           "timing": {
             "full": [
-              18.921,
-              20.0
+              19.355,
+              20.5
             ],
             "passage": [
               0.0,
@@ -264,16 +264,16 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "está sentado à direita de Deus Pai todo-poderoso;",
-          "phonetic": "está sentado à direita de Deus Pai todo-poderoso;",
+          "text": "está sentado à direita de Deus Pai todo-poderoso,",
+          "phonetic": "está sentado à direita de Deus Pai todo-poderoso,",
           "timing": {
             "full": [
-              20.0,
-              23.158
+              20.5,
+              23.526
             ],
             "passage": [
               0.0,
-              3.155
+              3.063
             ]
           }
         }
@@ -284,16 +284,16 @@
       "segments": [
         {
           "passage_segment_id": "10a",
-          "text": "de onde virá julgar os vivos e os mortos.",
-          "phonetic": "de onde virá julgar os vivos e os mortos.",
+          "text": "de onde há de vir a julgar os vivos e os mortos.",
+          "phonetic": "de onde há de vir a julgar os vivos e os mortos.",
           "timing": {
             "full": [
-              23.158,
-              25.842
+              23.526,
+              26.474
             ],
             "passage": [
               0.0,
-              2.642
+              2.879
             ]
           }
         }
@@ -308,27 +308,27 @@
           "phonetic": "Creio no Espírito Santo,",
           "timing": {
             "full": [
-              25.842,
-              27.474
+              26.474,
+              28.092
             ],
             "passage": [
               0.0,
-              1.458
+              1.445
             ]
           }
         },
         {
           "passage_segment_id": "11b",
-          "text": "na Santa Igreja Católica,",
-          "phonetic": "na Santa Igreja Católica,",
+          "text": "na santa Igreja Católica,",
+          "phonetic": "na santa Igreja Católica,",
           "timing": {
             "full": [
-              27.474,
-              29.026
+              28.092,
+              29.645
             ],
             "passage": [
-              1.458,
-              3.011
+              1.445,
+              2.997
             ]
           }
         },
@@ -338,11 +338,11 @@
           "phonetic": "na comunhão dos Santos,",
           "timing": {
             "full": [
-              29.026,
-              30.355
+              29.645,
+              30.974
             ],
             "passage": [
-              3.011,
+              2.997,
               4.326
             ]
           }
@@ -353,12 +353,12 @@
           "phonetic": "na remissão dos pecados,",
           "timing": {
             "full": [
-              30.355,
-              31.868
+              30.974,
+              32.461
             ],
             "passage": [
               4.326,
-              5.826
+              5.813
             ]
           }
         },
@@ -368,27 +368,27 @@
           "phonetic": "na ressurreição da carne,",
           "timing": {
             "full": [
-              31.868,
-              33.368
+              32.461,
+              33.934
             ],
             "passage": [
-              5.826,
-              7.339
+              5.813,
+              7.287
             ]
           }
         },
         {
           "passage_segment_id": "11f",
-          "text": "na vida eterna,",
-          "phonetic": "na vida eterna,",
+          "text": "e na vida eterna.",
+          "phonetic": "e na vida eterna.",
           "timing": {
             "full": [
-              33.368,
-              34.421
+              33.934,
+              35.145
             ],
             "passage": [
-              7.339,
-              8.339
+              7.287,
+              8.497
             ]
           }
         }
@@ -403,8 +403,8 @@
           "phonetic": "Amém.",
           "timing": {
             "full": [
-              34.421,
-              34.816
+              35.145,
+              35.882
             ],
             "passage": [
               0.0,

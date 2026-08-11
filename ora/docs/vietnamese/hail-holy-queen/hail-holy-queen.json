@@ -19,11 +19,11 @@
           "timing": {
             "full": [
               0.0,
-              1.05
+              1.062
             ],
             "passage": [
               0.0,
-              1.05
+              1.062
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "Mẹ nhân lành,",
           "timing": {
             "full": [
-              1.05,
-              2.013
+              1.062,
+              2.038
             ],
             "passage": [
-              1.05,
-              2.013
+              1.062,
+              2.038
             ]
           }
         },
@@ -48,12 +48,12 @@
           "phonetic": "làm cho chúng con được sống,",
           "timing": {
             "full": [
-              2.013,
-              3.575
+              2.038,
+              3.625
             ],
             "passage": [
-              2.013,
-              3.562
+              2.038,
+              3.625
             ]
           }
         },
@@ -63,27 +63,42 @@
           "phonetic": "được vui,",
           "timing": {
             "full": [
-              3.575,
-              4.4
+              3.625,
+              4.438
             ],
             "passage": [
-              3.562,
-              4.388
+              3.625,
+              4.438
             ]
           }
         },
         {
           "passage_segment_id": "1e",
-          "text": "được cậy, thân lạy Mẹ.",
-          "phonetic": "được cậy, thân lạy Mẹ.",
+          "text": "được cậy.",
+          "phonetic": "được cậy.",
           "timing": {
             "full": [
-              4.4,
-              6.15
+              4.438,
+              5.2
             ],
             "passage": [
-              4.388,
-              6.138
+              4.438,
+              5.2
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "1f",
+          "text": "Thân lạy Mẹ!",
+          "phonetic": "Thân lạy Mẹ!",
+          "timing": {
+            "full": [
+              5.2,
+              6.888
+            ],
+            "passage": [
+              5.2,
+              6.888
             ]
           }
         }
@@ -98,27 +113,27 @@
           "phonetic": "Chúng con, con cháu E-và,",
           "timing": {
             "full": [
-              6.15,
-              8.8
+              6.888,
+              9.475
             ],
             "passage": [
               0.0,
-              1.913
+              1.85
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "ở chốn khách đầy, kêu đến cùng Bà.",
-          "phonetic": "ở chốn khách đầy, kêu đến cùng Bà.",
+          "text": "ở chốn khách đầy kêu đến cùng Bà.",
+          "phonetic": "ở chốn khách đầy kêu đến cùng Bà.",
           "timing": {
             "full": [
-              8.8,
-              11.137
+              9.475,
+              11.525
             ],
             "passage": [
-              1.913,
-              4.25
+              1.85,
+              3.913
             ]
           }
         }
@@ -133,12 +148,12 @@
           "phonetic": "Chúng con ở nơi khóc lóc than thở,",
           "timing": {
             "full": [
-              11.137,
-              13.912
+              11.525,
+              14.287
             ],
             "passage": [
               0.0,
-              2.025
+              2.05
             ]
           }
         },
@@ -148,27 +163,12 @@
           "phonetic": "kêu khẩn Bà thương.",
           "timing": {
             "full": [
-              13.912,
-              15.137
+              14.287,
+              15.512
             ],
             "passage": [
-              2.025,
-              3.25
-            ]
-          }
-        },
-        {
-          "passage_segment_id": "3c",
-          "text": "Hỡi ôi!",
-          "phonetic": "Hỡi ôi!",
-          "timing": {
-            "full": [
-              15.137,
-              16.55
-            ],
-            "passage": [
-              3.25,
-              4.662
+              2.05,
+              3.288
             ]
           }
         }
@@ -179,46 +179,46 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "Bà là Chúa bầu chúng con,",
-          "phonetic": "Bà là Chúa bầu chúng con,",
+          "text": "Hỡi ôi!",
+          "phonetic": "Hỡi ôi!",
           "timing": {
             "full": [
-              16.55,
-              18.812
+              15.512,
+              16.925
             ],
             "passage": [
               0.0,
-              1.525
+              0.675
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "xin ghé mặt thương",
-          "phonetic": "xin ghé mặt thương",
+          "text": "Bà là Chúa bầu chúng con,",
+          "phonetic": "Bà là Chúa bầu chúng con,",
           "timing": {
             "full": [
-              18.812,
-              19.913
+              16.925,
+              19.188
             ],
             "passage": [
-              1.525,
-              2.625
+              0.675,
+              2.925
             ]
           }
         },
         {
           "passage_segment_id": "4c",
-          "text": "xem chúng con.",
-          "phonetic": "xem chúng con.",
+          "text": "xin ghé mặt thương xem chúng con.",
+          "phonetic": "xin ghé mặt thương xem chúng con.",
           "timing": {
             "full": [
-              19.913,
-              20.762
+              19.188,
+              21.137
             ],
             "passage": [
-              2.625,
-              3.475
+              2.925,
+              4.838
             ]
           }
         }
@@ -233,8 +233,8 @@
           "phonetic": "Đến sau khỏi đày,",
           "timing": {
             "full": [
-              20.762,
-              22.562
+              21.137,
+              22.938
             ],
             "passage": [
               0.0,
@@ -248,42 +248,42 @@
           "phonetic": "xin cho chúng con được thấy",
           "timing": {
             "full": [
-              22.562,
-              23.875
+              22.938,
+              24.275
             ],
             "passage": [
               1.075,
-              2.4
+              2.425
             ]
           }
         },
         {
           "passage_segment_id": "5c",
           "text": "Đức Chúa Giêsu,",
-          "phonetic": "Đức Chúa Giê-su,",
+          "phonetic": "Đức Chúa Giêsu,",
           "timing": {
             "full": [
-              23.875,
-              24.95
+              24.275,
+              25.1
             ],
             "passage": [
-              2.4,
-              3.475
+              2.425,
+              3.25
             ]
           }
         },
         {
           "passage_segment_id": "5d",
-          "text": "Con lòng Bà gồm phúc lạ.",
-          "phonetic": "Con lòng Bà gồm phúc lạ.",
+          "text": "con lòng Bà gồm phúc lạ.",
+          "phonetic": "con lòng Bà gồm phúc lạ.",
           "timing": {
             "full": [
-              24.95,
-              26.55
+              25.1,
+              26.7
             ],
             "passage": [
-              3.475,
-              5.1
+              3.25,
+              4.862
             ]
           }
         }
@@ -298,8 +298,8 @@
           "phonetic": "Ôi khoan thay!",
           "timing": {
             "full": [
-              26.55,
-              28.212
+              26.7,
+              28.363
             ],
             "passage": [
               0.0,
@@ -313,8 +313,8 @@
           "phonetic": "Nhân thay!",
           "timing": {
             "full": [
-              28.212,
-              29.688
+              28.363,
+              29.837
             ],
             "passage": [
               0.925,
@@ -324,15 +324,30 @@
         },
         {
           "passage_segment_id": "6c",
-          "text": "Dịu thay! Thánh Maria trọn đời đồng trinh.",
-          "phonetic": "Dịu thay! Thánh Maria trọn đời đồng trinh.",
+          "text": "Dịu thay!",
+          "phonetic": "Dịu thay!",
           "timing": {
             "full": [
-              29.688,
-              33.825
+              29.837,
+              31.363
             ],
             "passage": [
               2.4,
+              3.925
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "6d",
+          "text": "Thánh Maria trọn đời đồng trinh.",
+          "phonetic": "Thánh Maria trọn đời đồng trinh.",
+          "timing": {
+            "full": [
+              31.363,
+              33.975
+            ],
+            "passage": [
+              3.925,
               6.55
             ]
           }
@@ -348,27 +363,27 @@
           "phonetic": "Thánh Maria, Đức Mẹ Chúa Trời,",
           "timing": {
             "full": [
-              33.825,
-              36.625
+              33.975,
+              36.812
             ],
             "passage": [
               0.0,
-              2.062
+              2.1
             ]
           }
         },
         {
           "passage_segment_id": "7b",
-          "text": "cầu cho chúng con là kẻ có tội.",
-          "phonetic": "cầu cho chúng con là kẻ có tội.",
+          "text": "cầu cho chúng con.",
+          "phonetic": "cầu cho chúng con.",
           "timing": {
             "full": [
-              36.625,
-              38.5
+              36.812,
+              37.987
             ],
             "passage": [
-              2.062,
-              3.938
+              2.1,
+              3.275
             ]
           }
         }
@@ -383,8 +398,8 @@
           "phonetic": "Để chúng con đáng được những lời hứa của Đức Kitô.",
           "timing": {
             "full": [
-              38.5,
-              41.925
+              37.987,
+              41.438
             ],
             "passage": [
               0.0,

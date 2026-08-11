@@ -369,30 +369,60 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Me rociarás con hisopo, y seré limpio;",
-          "phonetic": "Me rociarás con hisopo, y seré limpio;",
+          "text": "Me rociarás con hisopo,",
+          "phonetic": "Me rociarás con hisopo,",
           "timing": {
             "full": [
               43.575,
-              47.018
+              45.941
             ],
             "passage": [
               0.0,
-              2.627
+              1.549
             ]
           }
         },
         {
           "passage_segment_id": "9b",
-          "text": "me lavarás, y seré hecho más blanco que la nieve.",
-          "phonetic": "me lavarás, y seré hecho más blanco que la nieve.",
+          "text": "y seré limpio;",
+          "phonetic": "y seré limpio;",
+          "timing": {
+            "full": [
+              45.941,
+              47.018
+            ],
+            "passage": [
+              1.549,
+              2.627
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9c",
+          "text": "me lavarás,",
+          "phonetic": "me lavarás,",
           "timing": {
             "full": [
               47.018,
-              49.997
+              47.922
             ],
             "passage": [
               2.627,
+              3.531
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "9d",
+          "text": "y seré hecho más blanco que la nieve.",
+          "phonetic": "y seré hecho más blanco que la nieve.",
+          "timing": {
+            "full": [
+              47.922,
+              49.997
+            ],
+            "passage": [
+              3.531,
               5.605
             ]
           }
@@ -799,21 +829,36 @@
       "segments": [
         {
           "passage_segment_id": "20a",
-          "text": "Haz bien, Señor, a Sion en tu buena voluntad,",
-          "phonetic": "Haz bien, Señor, a Sion en tu buena voluntad,",
+          "text": "Haz bien, Señor,",
+          "phonetic": "Haz bien, Señor,",
           "timing": {
             "full": [
               108.815,
-              112.512
+              110.982
             ],
             "passage": [
               0.0,
-              2.881
+              1.352
             ]
           }
         },
         {
           "passage_segment_id": "20b",
+          "text": "a Sion en tu buena voluntad,",
+          "phonetic": "a Sion en tu buena voluntad,",
+          "timing": {
+            "full": [
+              110.982,
+              112.512
+            ],
+            "passage": [
+              1.352,
+              2.881
+            ]
+          }
+        },
+        {
+          "passage_segment_id": "20c",
           "text": "para que se edifiquen los muros de Jerusalén.",
           "phonetic": "para que se edifiquen los muros de Jerusalén.",
           "timing": {

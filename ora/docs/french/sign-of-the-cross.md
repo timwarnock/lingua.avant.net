@@ -12,7 +12,8 @@ icon: material/cross
 
 **Français**
 
-Au nom du Père et du Fils et du Saint-Esprit. Amen.
+
+Au nom du Père, et du Fils, et du Saint-Esprit. Amen.
 
 **English**
 

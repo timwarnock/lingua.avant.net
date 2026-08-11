@@ -64,30 +64,30 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Błogosławionaś Ty między niewiastami,",
-          "phonetic": "Błogosławionaś Ty między niewiastami,",
+          "text": "Błogosławionaś Ty między niewiastami",
+          "phonetic": "Błogosławionaś Ty między niewiastami",
           "timing": {
             "full": [
               2.997,
-              5.986
+              5.973
             ],
             "passage": [
               0.0,
-              2.076
+              2.062
             ]
           }
         },
         {
           "passage_segment_id": "2b",
-          "text": "i błogosławiony owoc żywota Twego,",
-          "phonetic": "i błogosławiony owoc żywota Twego,",
+          "text": "i błogosławiony owoc żywota Twojego,",
+          "phonetic": "i błogosławiony owoc żywota Twojego,",
           "timing": {
             "full": [
-              5.986,
+              5.973,
               8.21
             ],
             "passage": [
-              2.076,
+              2.062,
               4.299
             ]
           }
@@ -119,7 +119,7 @@
           "timing": {
             "full": [
               8.881,
-              10.868
+              10.855
             ],
             "passage": [
               0.0,
@@ -133,8 +133,8 @@
           "phonetic": "Matko Boża,",
           "timing": {
             "full": [
-              10.868,
-              11.697
+              10.855,
+              11.684
             ],
             "passage": [
               1.155,
@@ -148,8 +148,8 @@
           "phonetic": "módl się za nami grzesznymi,",
           "timing": {
             "full": [
-              11.697,
-              13.262
+              11.684,
+              13.223
             ],
             "passage": [
               1.997,
@@ -164,16 +164,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "teraz i w godzinę śmierci naszej,",
-          "phonetic": "teraz i w godzinę śmierci naszej,",
+          "text": "teraz i w godzinę śmierci naszej.",
+          "phonetic": "teraz i w godzinę śmierci naszej.",
           "timing": {
             "full": [
-              13.262,
+              13.223,
               15.447
             ],
             "passage": [
               0.0,
-              2.195
+              2.168
             ]
           }
         }
@@ -189,7 +189,7 @@
           "timing": {
             "full": [
               15.447,
-              16.065
+              16.815
             ],
             "passage": [
               0.0,

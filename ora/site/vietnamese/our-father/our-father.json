@@ -19,26 +19,26 @@
           "timing": {
             "full": [
               0.0,
-              1.775
+              1.762
             ],
             "passage": [
               0.0,
-              1.788
+              1.762
             ]
           }
         },
         {
           "passage_segment_id": "1b",
-          "text": "chúng con nguyện Danh Cha cả sáng;",
-          "phonetic": "chúng con nguyện Danh Cha cả sáng;",
+          "text": "chúng con nguyện danh Cha cả sáng,",
+          "phonetic": "chúng con nguyện danh Cha cả sáng,",
           "timing": {
             "full": [
-              1.775,
-              3.675
+              1.762,
+              3.638
             ],
             "passage": [
-              1.788,
-              3.725
+              1.762,
+              3.75
             ]
           }
         }
@@ -53,8 +53,8 @@
           "phonetic": "nước Cha trị đến,",
           "timing": {
             "full": [
-              3.675,
-              4.888
+              3.638,
+              4.85
             ],
             "passage": [
               0.0,
@@ -73,8 +73,8 @@
           "phonetic": "ý Cha thể hiện dưới đất cũng như trên trời.",
           "timing": {
             "full": [
-              4.888,
-              7.2
+              4.85,
+              7.175
             ],
             "passage": [
               0.0,
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,",
-          "phonetic": "Xin Cha cho chúng con hôm nay lương thực hàng ngày,",
+          "text": "Xin Cha cho chúng con hôm nay lương thực hằng ngày,",
+          "phonetic": "Xin Cha cho chúng con hôm nay lương thực hằng ngày,",
           "timing": {
             "full": [
-              7.2,
-              10.312
+              7.175,
+              10.275
             ],
             "passage": [
               0.0,
-              2.5
+              2.538
             ]
           }
         }
@@ -109,31 +109,31 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "và tha nợ chúng con,",
-          "phonetic": "và tha nợ chúng con,",
+          "text": "và tha nợ chúng con",
+          "phonetic": "và tha nợ chúng con",
           "timing": {
             "full": [
-              10.312,
-              11.613
+              10.275,
+              11.463
             ],
             "passage": [
               0.0,
-              1.312
+              1.163
             ]
           }
         },
         {
           "passage_segment_id": "5b",
-          "text": "như chúng con cũng tha kẻ có nợ chúng con,",
-          "phonetic": "như chúng con cũng tha kẻ có nợ chúng con,",
+          "text": "như chúng con cũng tha kẻ có nợ chúng con.",
+          "phonetic": "như chúng con cũng tha kẻ có nợ chúng con.",
           "timing": {
             "full": [
-              11.613,
-              13.887
+              11.463,
+              13.537
             ],
             "passage": [
-              1.312,
-              3.675
+              1.163,
+              3.3
             ]
           }
         }
@@ -144,31 +144,31 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "xin chớ để chúng con sa chước cám dỗ,",
-          "phonetic": "xin chớ để chúng con sa chước cám dỗ,",
+          "text": "Xin chớ để chúng con sa chước cám dỗ,",
+          "phonetic": "Xin chớ để chúng con sa chước cám dỗ,",
           "timing": {
             "full": [
-              13.887,
-              16.188
+              13.537,
+              16.6
             ],
             "passage": [
               0.0,
-              2.325
+              2.337
             ]
           }
         },
         {
           "passage_segment_id": "6b",
-          "text": "nhưng cứu chúng con cho khỏi sự dữ.",
-          "phonetic": "nhưng cứu chúng con cho khỏi sự dữ.",
+          "text": "nhưng cứu chúng con cho khỏi mọi sự dữ.",
+          "phonetic": "nhưng cứu chúng con cho khỏi mọi sự dữ.",
           "timing": {
             "full": [
-              16.188,
-              18.3
+              16.6,
+              18.975
             ],
             "passage": [
-              2.325,
-              4.475
+              2.337,
+              4.713
             ]
           }
         }
@@ -183,8 +183,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              18.3,
-              19.712
+              18.975,
+              20.387
             ],
             "passage": [
               0.0,

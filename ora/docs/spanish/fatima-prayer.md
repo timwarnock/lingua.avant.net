@@ -12,7 +12,7 @@ icon: material/cross
 
 **Español**
 
-Oh mi Jesús, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva todas las almas al cielo, especialmente las más necesitadas de tu misericordia. Amén.
+Oh Jesús mío, perdónanos nuestros pecados, líbranos del fuego del infierno, lleva al cielo a todas las almas, especialmente a las más necesitadas de tu misericordia. Amén.
 
 **English**
 

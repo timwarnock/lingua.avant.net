@@ -114,7 +114,7 @@
           "timing": {
             "full": [
               8.292,
-              10.194
+              10.181
             ],
             "passage": [
               5.967,
@@ -133,8 +133,8 @@
           "phonetic": "gewähre uns, wir bitten dich,",
           "timing": {
             "full": [
-              10.194,
-              12.361
+              10.181,
+              12.333
             ],
             "passage": [
               0.0,
@@ -144,31 +144,31 @@
         },
         {
           "passage_segment_id": "3b",
-          "text": "dass wir, die wir diese Geheimnisse betrachten",
-          "phonetic": "dass wir, die wir diese Geheimnisse betrachten",
+          "text": "dass wir, die wir diese Geheimnisse",
+          "phonetic": "dass wir, die wir diese Geheimnisse",
           "timing": {
             "full": [
-              12.361,
-              15.042
+              12.333,
+              14.444
             ],
             "passage": [
               2.036,
-              4.744
+              4.133
             ]
           }
         },
         {
           "passage_segment_id": "3c",
-          "text": "des heiligsten Rosenkranzes der seligen Jungfrau Maria,",
-          "phonetic": "des heiligsten Rosenkranzes der seligen Jungfrau Maria,",
+          "text": "des heiligsten Rosenkranzes der seligen Jungfrau Maria betrachten,",
+          "phonetic": "des heiligsten Rosenkranzes der seligen Jungfrau Maria betrachten,",
           "timing": {
             "full": [
-              15.042,
-              18.625
+              14.444,
+              18.667
             ],
             "passage": [
-              4.744,
-              8.55
+              4.133,
+              8.578
             ]
           }
         }
@@ -183,7 +183,7 @@
           "phonetic": "nachahmen, was sie enthalten,",
           "timing": {
             "full": [
-              18.625,
+              18.667,
               20.903
             ],
             "passage": [
@@ -199,7 +199,7 @@
           "timing": {
             "full": [
               20.903,
-              23.139
+              23.125
             ],
             "passage": [
               2.217,
@@ -218,8 +218,8 @@
           "phonetic": "durch denselben Christus, unseren Herrn.",
           "timing": {
             "full": [
-              23.139,
-              25.833
+              23.125,
+              25.819
             ],
             "passage": [
               0.0,
@@ -238,8 +238,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              25.833,
-              27.319
+              25.819,
+              27.306
             ],
             "passage": [
               0.0,
@@ -258,8 +258,8 @@
           "phonetic": "Heiligstes Herz Jesu,",
           "timing": {
             "full": [
-              27.319,
-              29.778
+              27.306,
+              29.764
             ],
             "passage": [
               0.0,
@@ -273,8 +273,8 @@
           "phonetic": "erbarme dich unser.",
           "timing": {
             "full": [
-              29.778,
-              31.111
+              29.764,
+              31.097
             ],
             "passage": [
               1.606,
@@ -293,8 +293,8 @@
           "phonetic": "Unbeflecktes Herz Mariä,",
           "timing": {
             "full": [
-              31.111,
-              33.861
+              31.097,
+              33.847
             ],
             "passage": [
               0.0,
@@ -308,8 +308,8 @@
           "phonetic": "bitte für uns.",
           "timing": {
             "full": [
-              33.861,
-              35.056
+              33.847,
+              35.042
             ],
             "passage": [
               1.897,

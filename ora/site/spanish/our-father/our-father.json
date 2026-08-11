@@ -34,7 +34,7 @@
           "timing": {
             "full": [
               0.924,
-              2.294
+              2.281
             ],
             "passage": [
               0.951,
@@ -48,8 +48,8 @@
           "phonetic": "santificado sea tu nombre,",
           "timing": {
             "full": [
-              2.294,
-              4.103
+              2.281,
+              4.063
             ],
             "passage": [
               2.307,
@@ -64,16 +64,16 @@
       "segments": [
         {
           "passage_segment_id": "2a",
-          "text": "Venga tu reino.",
-          "phonetic": "Venga tu reino,",
+          "text": "Venga a nosotros tu reino.",
+          "phonetic": "Venga a nosotros tu reino,",
           "timing": {
             "full": [
-              4.103,
-              5.353
+              4.063,
+              5.858
             ],
             "passage": [
               0.0,
-              1.27
+              1.789
             ]
           }
         }
@@ -88,8 +88,8 @@
           "phonetic": "Hágase tu voluntad en la tierra como en el cielo,",
           "timing": {
             "full": [
-              5.353,
-              8.175
+              5.858,
+              8.68
             ],
             "passage": [
               0.0,
@@ -108,8 +108,8 @@
           "phonetic": "Danos hoy nuestro pan de cada día,",
           "timing": {
             "full": [
-              8.175,
-              10.156
+              8.68,
+              10.662
             ],
             "passage": [
               0.0,
@@ -124,12 +124,12 @@
       "segments": [
         {
           "passage_segment_id": "5a",
-          "text": "Perdona nuestras ofensas,",
-          "phonetic": "Perdona nuestras ofensas,",
+          "text": "perdona nuestras ofensas,",
+          "phonetic": "perdona nuestras ofensas,",
           "timing": {
             "full": [
-              10.156,
-              11.858
+              10.662,
+              12.364
             ],
             "passage": [
               0.0,
@@ -143,8 +143,8 @@
           "phonetic": "como también nosotros perdonamos a los que nos ofenden,",
           "timing": {
             "full": [
-              11.858,
-              14.97
+              12.364,
+              15.489
             ],
             "passage": [
               1.496,
@@ -159,16 +159,16 @@
       "segments": [
         {
           "passage_segment_id": "6a",
-          "text": "No nos dejes caer en tentación,",
-          "phonetic": "No nos dejes caer en tentación,",
+          "text": "No nos dejes caer en la tentación,",
+          "phonetic": "No nos dejes caer en la tentación,",
           "timing": {
             "full": [
-              14.97,
-              16.805
+              15.489,
+              17.43
             ],
             "passage": [
               0.0,
-              1.87
+              1.977
             ]
           }
         },
@@ -178,12 +178,12 @@
           "phonetic": "y líbranos del mal,",
           "timing": {
             "full": [
-              16.805,
-              18.002
+              17.43,
+              18.654
             ],
             "passage": [
-              1.87,
-              3.227
+              1.977,
+              3.306
             ]
           }
         }
@@ -198,8 +198,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              18.002,
-              18.747
+              18.654,
+              19.478
             ],
             "passage": [
               0.0,

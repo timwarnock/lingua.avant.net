@@ -20,7 +20,7 @@ icon: material/cross
 
 **Deutsch**
 
-Sei gegrüßt, o Königin, Mutter der Barmherzigkeit, unser Leben, unsere Süßigkeit und unsere Hoffnung. Zu dir rufen wir, verbannte Kinder Evas. Zu dir seufzen wir trauernd und weinend in diesem Tal der Tränen. Wohlan denn, unsere Fürsprecherin, wende deine barmherzigen Augen uns zu. Und nach diesem Elend zeige uns die gebenedeite Frucht deines Leibes, Jesus. O gütige, o milde, o süße Jungfrau Maria.
+Sei gegrüßt, o Königin, Mutter der Barmherzigkeit, unser Leben, unsre Wonne und unsre Hoffnung, sei gegrüßt! Zu dir rufen wir verbannte Kinder Evas. Zu dir seufzen wir trauernd und weinend in diesem Tal der Tränen. Wohlan denn, unsre Fürsprecherin, wende deine barmherzigen Augen uns zu. Und nach diesem Elend zeige uns Jesus, die gebenedeite Frucht deines Leibes. O gütige, o milde, o süße Jungfrau Maria.
 
 Bitte für uns, o heilige Gottesmutter.
 

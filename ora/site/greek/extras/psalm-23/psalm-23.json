@@ -15,11 +15,11 @@
         {
           "passage_segment_id": "1a",
           "text": "Ψαλμός τω Δαυίδ.",
-          "phonetic": "Psalmós to Davíd.",
+          "phonetic": "Psal-mós to Tha-víth.",
           "timing": {
             "full": [
               0.0,
-              1.363
+              2.247
             ],
             "passage": [
               0.0,
@@ -35,29 +35,29 @@
         {
           "passage_segment_id": "2a",
           "text": "Κύριος ποιμαίνει με,",
-          "phonetic": "Kýrios piméni me,",
+          "phonetic": "Kí-ri-os pi-mé-ni me,",
           "timing": {
             "full": [
-              1.363,
-              3.432
+              2.247,
+              3.589
             ],
             "passage": [
               0.0,
-              1.284
+              1.442
             ]
           }
         },
         {
           "passage_segment_id": "2b",
           "text": "και ουδέν με υστερήσει.",
-          "phonetic": "ke uthén me isterísi.",
+          "phonetic": "ke u-thén me i-ste-rí-si.",
           "timing": {
             "full": [
-              3.432,
-              4.826
+              3.589,
+              5.708
             ],
             "passage": [
-              1.284,
+              1.442,
               2.692
             ]
           }
@@ -70,30 +70,30 @@
         {
           "passage_segment_id": "3a",
           "text": "Εις τόπον χλόης, εκεί με κατεσκήνωσεν,",
-          "phonetic": "Is tópon chlóis, ekí me kateskínosen,",
+          "phonetic": "Is tó-pon chló-is, e-kí me ka-te-skí-no-sen,",
           "timing": {
             "full": [
-              4.826,
-              8.261
+              5.708,
+              8.405
             ],
             "passage": [
               0.0,
-              2.653
+              2.797
             ]
           }
         },
         {
           "passage_segment_id": "3b",
-          "text": "επί ύδατος αναπαύσεως εξέθρεψέν με.",
-          "phonetic": "epí ýdatos anapáfseos exéthrepsén me.",
+          "text": "επί ύδατος αναπαύσεως εξέθρεψέ με.",
+          "phonetic": "e-pí í-tha-tos a-na-páf-se-os e-xé-threp-sé me.",
           "timing": {
             "full": [
-              8.261,
-              10.55
+              8.405,
+              11.392
             ],
             "passage": [
-              2.653,
-              4.929
+              2.797,
+              4.889
             ]
           }
         }
@@ -105,45 +105,45 @@
         {
           "passage_segment_id": "4a",
           "text": "Την ψυχήν μου επέστρεψεν.",
-          "phonetic": "Tin psychín mou epéstrepsen.",
+          "phonetic": "Tin psi-chín mu e-pé-stre-psen.",
           "timing": {
             "full": [
-              10.55,
-              12.958
+              11.392,
+              13.8
             ],
             "passage": [
               0.0,
-              1.626
+              2.511
             ]
           }
         },
         {
           "passage_segment_id": "4b",
-          "text": "Ωδήγησέν με επί τρίβους δικαιοσύνης",
-          "phonetic": "Odígisén me epí trívous thikeosýnis",
+          "text": "Ωδήγησέ με επί τρίβους δικαιοσύνης",
+          "phonetic": "O-thí-yi-sé me e-pí trí-vus thi-ke-o-sí-nis",
           "timing": {
             "full": [
-              12.958,
-              15.826
+              13.8,
+              15.761
             ],
             "passage": [
-              1.626,
-              4.497
+              2.511,
+              4.471
             ]
           }
         },
         {
           "passage_segment_id": "4c",
           "text": "ένεκεν του ονόματος αυτού.",
-          "phonetic": "éneken tou onómatos aftú.",
+          "phonetic": "é-ne-ken tu o-nó-ma-tos af-tú.",
           "timing": {
             "full": [
-              15.826,
-              17.182
+              15.761,
+              18.011
             ],
             "passage": [
-              4.497,
-              5.879
+              4.471,
+              5.853
             ]
           }
         }
@@ -155,44 +155,44 @@
         {
           "passage_segment_id": "5a",
           "text": "Εάν γαρ και πορευθώ εν μέσω σκιάς θανάτου,",
-          "phonetic": "Eán gar ke porefthó en méso skiás thanátu,",
+          "phonetic": "E-án gar ke po-ref-thó en mé-so ski-ás tha-ná-tu,",
           "timing": {
             "full": [
-              17.182,
-              20.3
+              18.011,
+              20.405
             ],
             "passage": [
               0.0,
-              2.337
+              2.495
             ]
           }
         },
         {
           "passage_segment_id": "5b",
           "text": "ου φοβηθήσομαι κακά,",
-          "phonetic": "u fovithísome kaká,",
+          "phonetic": "u fo-vi-thí-so-me ka-ká,",
           "timing": {
             "full": [
-              20.3,
-              21.616
+              20.405,
+              21.774
             ],
             "passage": [
-              2.337,
-              3.666
+              2.495,
+              3.863
             ]
           }
         },
         {
           "passage_segment_id": "5c",
           "text": "ότι συ μετ εμού ει.",
-          "phonetic": "óti sy met emú i.",
+          "phonetic": "ó-ti si met e-mú i.",
           "timing": {
             "full": [
-              21.616,
-              22.905
+              21.774,
+              23.747
             ],
             "passage": [
-              3.666,
+              3.863,
               4.955
             ]
           }
@@ -205,29 +205,29 @@
         {
           "passage_segment_id": "6a",
           "text": "Η ράβδος σου και η βακτηρία σου,",
-          "phonetic": "I rávthos sou ke i vaktiría sou,",
+          "phonetic": "I ráv-thos su ke i vak-ti-rí-a su,",
           "timing": {
             "full": [
-              22.905,
-              25.445
+              23.747,
+              25.576
             ],
             "passage": [
               0.0,
-              1.745
+              1.916
             ]
           }
         },
         {
           "passage_segment_id": "6b",
           "text": "αυταί με παρεκάλεσαν.",
-          "phonetic": "afté me parekálesan.",
+          "phonetic": "af-té me pa-re-ká-le-san.",
           "timing": {
             "full": [
-              25.445,
-              26.853
+              25.576,
+              27.695
             ],
             "passage": [
-              1.745,
+              1.916,
               3.153
             ]
           }
@@ -240,11 +240,11 @@
         {
           "passage_segment_id": "7a",
           "text": "Ητοίμασας ενώπιόν μου τράπεζαν",
-          "phonetic": "Itímasas enópión mou trápezan",
+          "phonetic": "I-tí-ma-sas e-nó-pi-ón mu trá-pe-zan",
           "timing": {
             "full": [
-              26.853,
-              29.379
+              27.695,
+              29.339
             ],
             "passage": [
               0.0,
@@ -255,11 +255,11 @@
         {
           "passage_segment_id": "7b",
           "text": "εξ εναντίας των θλιβόντων με.",
-          "phonetic": "ex enantías ton thlivónton me.",
+          "phonetic": "ex e-nan-tí-as ton thli-vón-don me.",
           "timing": {
             "full": [
-              29.379,
-              30.905
+              29.339,
+              31.747
             ],
             "passage": [
               1.745,
@@ -275,30 +275,30 @@
         {
           "passage_segment_id": "8a",
           "text": "Ελίπανας εν ελαίω την κεφαλήν μου,",
-          "phonetic": "Elípanas en eléo tin kefalín mou,",
+          "phonetic": "E-lí-pa-nas en e-lé-o tin ke-fa-lín mu,",
           "timing": {
             "full": [
-              30.905,
-              33.616
+              31.747,
+              33.708
             ],
             "passage": [
               0.0,
-              1.929
+              2.074
             ]
           }
         },
         {
           "passage_segment_id": "8b",
-          "text": "και το ποτήριόν σου μεθύσκον ως κράτιστον.",
-          "phonetic": "ke to potirión sou methýskon os krátiston.",
+          "text": "και το ποτήριόν σου μεθύσκον με ως κράτιστον.",
+          "phonetic": "ke to po-tí-ri-ón su me-thí-skon me os krá-ti-ston.",
           "timing": {
             "full": [
-              33.616,
-              35.813
+              33.708,
+              36.747
             ],
             "passage": [
-              1.929,
-              4.126
+              2.074,
+              4.232
             ]
           }
         }
@@ -309,31 +309,31 @@
       "segments": [
         {
           "passage_segment_id": "9a",
-          "text": "Και το έλεός σου καταδιώξεταί με",
-          "phonetic": "Ke to éleós sou katathióxeté me",
+          "text": "Και το έλεός σου καταδιώξει με",
+          "phonetic": "Ke to é-le-ós su ka-ta-thi-ó-ksi me",
           "timing": {
             "full": [
-              35.813,
-              38.221
+              36.747,
+              38.129
             ],
             "passage": [
               0.0,
-              1.6
+              1.508
             ]
           }
         },
         {
           "passage_segment_id": "9b",
           "text": "πάσας τας ημέρας της ζωής μου,",
-          "phonetic": "pásas tas iméras tis zoís mou,",
+          "phonetic": "pá-sas tas i-mé-ras tis zo-ís mu,",
           "timing": {
             "full": [
-              38.221,
-              39.708
+              38.129,
+              39.747
             ],
             "passage": [
-              1.6,
-              3.126
+              1.508,
+              3.047
             ]
           }
         }
@@ -345,11 +345,11 @@
         {
           "passage_segment_id": "10a",
           "text": "και το κατοικείν με εν οίκω Κυρίου",
-          "phonetic": "ke to katoikín me en íko Kyríou",
+          "phonetic": "ke to ka-ti-kín me en í-ko Ki-rí-u",
           "timing": {
             "full": [
-              39.708,
-              41.142
+              39.747,
+              41.05
             ],
             "passage": [
               0.0,
@@ -360,11 +360,11 @@
         {
           "passage_segment_id": "10b",
           "text": "εις μακρότητα ημερών.",
-          "phonetic": "is makrótita imerón.",
+          "phonetic": "is ma-kró-ti-ta i-me-rón.",
           "timing": {
             "full": [
-              41.142,
-              42.339
+              41.05,
+              42.261
             ],
             "passage": [
               1.666,

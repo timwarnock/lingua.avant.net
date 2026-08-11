@@ -12,7 +12,7 @@ icon: material/cross
 
 **Español**
 
-Padre nuestro, que estás en el cielo. Santificado sea tu nombre. Venga tu reino. Hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día. Perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden. No nos dejes caer en tentación y líbranos del mal. Amén.
+Padre nuestro, que estás en el cielo, santificado sea tu nombre. Venga a nosotros tu reino. Hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden. No nos dejes caer en la tentación, y líbranos del mal. Amén.
 
 **English**
 

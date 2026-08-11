@@ -20,15 +20,15 @@ icon: material/cross
 
 **Português**
 
-Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve. A vós bradamos os degredados filhos de Eva; a vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, nos mostrai Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria.
+Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve. A vós bradamos, os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro, nos mostrai Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce Virgem Maria.
 
 Rogai por nós, Santa Mãe de Deus.
 
 Para que sejamos dignos das promessas de Cristo.
 
-Rezemos.
+Oremos.
 
-Ó Deus, cujo Filho Unigênito, por Sua vida, morte e ressurreição, nos obteve o prêmio da salvação eterna, concedei-nos, nós Vos pedimos, que, meditando os mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que eles contêm e alcancemos o que prometem. Por Cristo Nosso Senhor. Amém.
+Ó Deus, cujo Filho Unigênito, por Sua vida, morte e ressurreição, nos obteve o prêmio da salvação eterna, concedei-nos, nós Vo-lo pedimos, que, meditando estes mistérios do Santíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que eles contêm e alcancemos o que prometem. Por Cristo Nosso Senhor. Amém.
 
 Coração Sacratíssimo de Jesus, tende misericórdia de nós.
 

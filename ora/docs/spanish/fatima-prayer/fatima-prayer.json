@@ -14,16 +14,16 @@
       "segments": [
         {
           "passage_segment_id": "1a",
-          "text": "Oh mi Jesús,",
-          "phonetic": "Oh mi Jesús,",
+          "text": "Oh Jesús mío,",
+          "phonetic": "Oh Jesús mío,",
           "timing": {
             "full": [
               0.0,
-              0.899
+              1.057
             ],
             "passage": [
               0.0,
-              0.938
+              1.071
             ]
           }
         },
@@ -33,12 +33,12 @@
           "phonetic": "perdónanos nuestros pecados,",
           "timing": {
             "full": [
-              0.899,
-              2.588
+              1.057,
+              2.76
             ],
             "passage": [
-              0.938,
-              2.72
+              1.071,
+              2.919
             ]
           }
         }
@@ -53,8 +53,8 @@
           "phonetic": "líbranos del fuego del infierno,",
           "timing": {
             "full": [
-              2.588,
-              4.463
+              2.76,
+              4.635
             ],
             "passage": [
               0.0,
@@ -69,16 +69,16 @@
       "segments": [
         {
           "passage_segment_id": "3a",
-          "text": "lleva todas las almas al cielo,",
-          "phonetic": "lleva todas las almas al cielo,",
+          "text": "lleva al cielo a todas las almas,",
+          "phonetic": "lleva al cielo a todas las almas,",
           "timing": {
             "full": [
-              4.463,
-              6.445
+              4.635,
+              6.656
             ],
             "passage": [
               0.0,
-              1.923
+              1.963
             ]
           }
         }
@@ -89,16 +89,16 @@
       "segments": [
         {
           "passage_segment_id": "4a",
-          "text": "especialmente las más necesitadas de tu misericordia.",
-          "phonetic": "especialmente las más necesitadas de tu misericordia,",
+          "text": "especialmente a las más necesitadas de tu misericordia.",
+          "phonetic": "especialmente a las más necesitadas de tu misericordia,",
           "timing": {
             "full": [
-              6.445,
-              9.719
+              6.656,
+              9.958
             ],
             "passage": [
               0.0,
-              3.134
+              3.16
             ]
           }
         }
@@ -113,8 +113,8 @@
           "phonetic": "Amén.",
           "timing": {
             "full": [
-              9.719,
-              10.53
+              9.958,
+              10.743
             ],
             "passage": [
               0.0,

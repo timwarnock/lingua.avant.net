@@ -12,7 +12,7 @@ icon: material/cross
 
 **Tiếng Việt**
 
-Lạy Chúa Giêsu Kitô, Con Thiên Chúa, xin thương xót con là kẻ tội lỗi.
+Lạy Chúa Giêsu Kitô, Con Thiên Chúa, xin thương xót con, là kẻ tội lỗi.
 
 **English**
 
