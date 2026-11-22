@@ -85,6 +85,7 @@ edge-tts accepts plain text only (no SSML or IPA). Adjust pronunciation by editi
 - Test the specific segment, passage, and full MP3s.
 - Common respelling example for two-syllable "blessed": use `"blessid"` (not `"bless-ed"`).
 - Punctuation inside the phonetic string can influence prosody (e.g. adding a comma before "Amen").
+- Vietnamese Jesus: keep display `"text"` and learner `"phonetic"` as `Giêsu`. Set the segment `"tts"` string to the same line with `Giê-su` so Edge says both syllables (gee-yeh-soo).
 
 See `generate-rosary-audio.py` for exact behavior.
 

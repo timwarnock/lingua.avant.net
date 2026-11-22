@@ -168,6 +168,31 @@ Update existing quotes to follow this as new language pages or quotes are added.
 
 ---
 
+## Vietnamese TTS (Jesus)
+
+Voice: `vi-VN-NamMinhNeural`, rate `+0%`, `tts.input`: `phonetic`.
+
+Write the name as `Giêsu` in `text` and `phonetic`. The segment `tts` string uses `Giê-su`, which `vi-VN-NamMinhNeural` reads as two syllables (gee-yeh-soo). Display and the learner line stay `Giêsu`.
+
+Spoken lines that carry the name, each with a `tts` override:
+
+- hail-mary 2b: `và Giê-su`
+- jesus-prayer 1a: `Lạy Chúa Giê-su Kitô,`
+- fatima-prayer: `Lạy Chúa Giê-su,`
+- apostles-creed: `Đức Chúa Giê-su Kitô`
+- extras/nicene: `một Chúa Giê-su Kitô`
+- hail-holy-queen: `Đức Chúa Giê-su,`
+- rosary-prayer: `Đức Giê-su Kitô` and `Đức Chúa Giê-su`
+- mysteries joyful4, joyful5, luminous1
+
+A new Vietnamese line that says Jesus gets the same pair: `Giêsu` on screen, `Giê-su` in `tts`. Regenerate that prayer JSON after the override.
+
+Word-boundary check (NamMinh, sentence): `Giêsu` about 0.20s, `Giê-su` about 0.44s.
+
+
+
+---
+
 ## Greek prayer text and TTS (always)
 
 Edge `el-GR-*` voices misread heavy polytonic, mid-dots (`·` / `·`), and elisions (`ἀπ'`, `δι'`). That can sound like letter-names or nonsense (e.g. wrong chunks that do not match *και το*).

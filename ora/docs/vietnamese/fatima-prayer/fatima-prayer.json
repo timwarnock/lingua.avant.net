@@ -16,14 +16,15 @@
           "passage_segment_id": "1a",
           "text": "Lạy Chúa Giêsu,",
           "phonetic": "Lạy Chúa Giêsu,",
+          "tts": "Lạy Chúa Giê-su,",
           "timing": {
             "full": [
               0.0,
-              0.988
+              1.25
             ],
             "passage": [
               0.0,
-              1.025
+              1.288
             ]
           }
         },
@@ -33,12 +34,12 @@
           "phonetic": "xin tha tội cho chúng con,",
           "timing": {
             "full": [
-              0.988,
-              2.375
+              1.337,
+              2.65
             ],
             "passage": [
-              1.025,
-              2.625
+              1.45,
+              2.95
             ]
           }
         }
@@ -53,8 +54,8 @@
           "phonetic": "xin cứu chúng con khỏi sa hỏa ngục,",
           "timing": {
             "full": [
-              2.375,
-              4.275
+              2.737,
+              4.55
             ],
             "passage": [
               0.0,
@@ -73,8 +74,8 @@
           "phonetic": "xin đem các linh hồn lên thiên đàng,",
           "timing": {
             "full": [
-              4.275,
-              6.263
+              4.75,
+              6.525
             ],
             "passage": [
               0.0,
@@ -93,8 +94,8 @@
           "phonetic": "nhất là những linh hồn cần đến lòng Chúa thương xót hơn.",
           "timing": {
             "full": [
-              6.263,
-              9.088
+              6.713,
+              9.338
             ],
             "passage": [
               0.0,
@@ -113,8 +114,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              9.088,
-              10.5
+              10.175,
+              10.75
             ],
             "passage": [
               0.0,

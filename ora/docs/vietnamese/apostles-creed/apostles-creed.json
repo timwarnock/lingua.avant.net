@@ -33,11 +33,11 @@
           "phonetic": "là Cha phép tắc vô cùng,",
           "timing": {
             "full": [
-              1.637,
+              1.812,
               3.3
             ],
             "passage": [
-              1.637,
+              1.812,
               3.3
             ]
           }
@@ -48,11 +48,11 @@
           "phonetic": "dựng nên trời đất.",
           "timing": {
             "full": [
-              3.3,
+              3.462,
               4.4
             ],
             "passage": [
-              3.3,
+              3.462,
               4.4
             ]
           }
@@ -66,14 +66,15 @@
           "passage_segment_id": "2a",
           "text": "Tôi tin kính Đức Chúa Giêsu Kitô,",
           "phonetic": "Tôi tin kính Đức Chúa Giêsu Kitô,",
+          "tts": "Tôi tin kính Đức Chúa Giê-su Kitô,",
           "timing": {
             "full": [
-              4.4,
-              7.162
+              5.237,
+              7.362
             ],
             "passage": [
               0.0,
-              2.013
+              2.237
             ]
           }
         },
@@ -83,12 +84,12 @@
           "phonetic": "là Con Một Đức Chúa Cha,",
           "timing": {
             "full": [
-              7.162,
-              8.75
+              7.55,
+              8.975
             ],
             "passage": [
-              2.013,
-              3.612
+              2.425,
+              3.837
             ]
           }
         },
@@ -98,12 +99,12 @@
           "phonetic": "cùng là Chúa chúng tôi.",
           "timing": {
             "full": [
-              8.75,
-              10.088
+              9.137,
+              10.312
             ],
             "passage": [
-              3.612,
-              4.95
+              4.0,
+              5.175
             ]
           }
         }
@@ -118,8 +119,8 @@
           "phonetic": "Bởi phép Đức Chúa Thánh Thần mà Người xuống thai,",
           "timing": {
             "full": [
-              10.088,
-              13.137
+              11.15,
+              13.363
             ],
             "passage": [
               0.0,
@@ -138,8 +139,8 @@
           "phonetic": "sinh bởi Bà Maria đồng trinh,",
           "timing": {
             "full": [
-              13.137,
-              14.887
+              13.5,
+              15.113
             ],
             "passage": [
               0.0,
@@ -158,8 +159,8 @@
           "phonetic": "chịu nạn đời quan Phongxiô Philatô,",
           "timing": {
             "full": [
-              14.887,
-              17.113
+              15.262,
+              17.337
             ],
             "passage": [
               0.0,
@@ -173,11 +174,11 @@
           "phonetic": "chịu đóng đanh trên cây Thánh giá,",
           "timing": {
             "full": [
-              17.113,
-              18.85
+              17.525,
+              19.075
             ],
             "passage": [
-              2.275,
+              2.475,
               4.1
             ]
           }
@@ -188,11 +189,11 @@
           "phonetic": "chết và táng xác;",
           "timing": {
             "full": [
-              18.85,
-              20.012
+              19.25,
+              20.238
             ],
             "passage": [
-              4.1,
+              4.275,
               5.287
             ]
           }
@@ -208,8 +209,8 @@
           "phonetic": "xuống ngục tổ tông;",
           "timing": {
             "full": [
-              20.012,
-              21.163
+              20.425,
+              21.387
             ],
             "passage": [
               0.0,
@@ -228,8 +229,8 @@
           "phonetic": "ngày thứ ba bởi trong kẻ chết mà sống lại;",
           "timing": {
             "full": [
-              21.163,
-              23.462
+              21.575,
+              23.688
             ],
             "passage": [
               0.0,
@@ -248,8 +249,8 @@
           "phonetic": "lên trời,",
           "timing": {
             "full": [
-              23.462,
-              24.225
+              23.863,
+              24.45
             ],
             "passage": [
               0.0,
@@ -268,8 +269,8 @@
           "phonetic": "ngự bên hữu Đức Chúa Cha phép tắc vô cùng;",
           "timing": {
             "full": [
-              24.225,
-              26.538
+              24.625,
+              26.762
             ],
             "passage": [
               0.0,
@@ -288,8 +289,8 @@
           "phonetic": "ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết.",
           "timing": {
             "full": [
-              26.538,
-              29.525
+              26.962,
+              29.75
             ],
             "passage": [
               0.0,
@@ -308,8 +309,8 @@
           "phonetic": "Tôi tin kính Đức Chúa Thánh Thần.",
           "timing": {
             "full": [
-              29.525,
-              32.163
+              30.587,
+              32.388
             ],
             "passage": [
               0.0,
@@ -323,11 +324,11 @@
           "phonetic": "Tôi tin có Hội Thánh hằng có ở khắp thế này,",
           "timing": {
             "full": [
-              32.163,
-              35.087
+              33.225,
+              35.312
             ],
             "passage": [
-              1.887,
+              2.725,
               4.812
             ]
           }
@@ -338,11 +339,11 @@
           "phonetic": "các Thánh thông công,",
           "timing": {
             "full": [
-              35.087,
-              36.175
+              35.487,
+              36.4
             ],
             "passage": [
-              4.812,
+              4.987,
               5.9
             ]
           }
@@ -353,11 +354,11 @@
           "phonetic": "tôi tin phép tha tội,",
           "timing": {
             "full": [
-              36.175,
-              37.475
+              36.562,
+              37.7
             ],
             "passage": [
-              5.9,
+              6.062,
               7.2
             ]
           }
@@ -368,11 +369,11 @@
           "phonetic": "tôi tin xác loài người ngày sau sống lại,",
           "timing": {
             "full": [
-              37.475,
-              39.638
+              37.888,
+              39.862
             ],
             "passage": [
-              7.2,
+              7.388,
               9.375
             ]
           }
@@ -383,11 +384,11 @@
           "phonetic": "tôi tin hằng sống vậy.",
           "timing": {
             "full": [
-              39.638,
-              41.05
+              40.038,
+              41.275
             ],
             "passage": [
-              9.375,
+              9.55,
               10.787
             ]
           }
@@ -403,8 +404,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              41.05,
-              42.462
+              42.112,
+              42.688
             ],
             "passage": [
               0.0,

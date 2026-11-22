@@ -15,14 +15,15 @@
           "passage_segment_id": "1a",
           "text": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giêsu Chịu Phép Rửa.",
           "phonetic": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giêsu Chịu Phép Rửa.",
+          "tts": "Mầu Nhiệm Mừng Thứ Nhất, Chúa Giê-su Chịu Phép Rửa.",
           "timing": {
             "full": [
               0.0,
-              3.271
+              3.574
             ],
             "passage": [
               0.0,
-              3.271
+              3.574
             ]
           }
         }

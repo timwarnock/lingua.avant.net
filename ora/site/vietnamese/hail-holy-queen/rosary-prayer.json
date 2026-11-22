@@ -19,7 +19,7 @@
           "timing": {
             "full": [
               0.0,
-              1.4
+              1.413
             ],
             "passage": [
               0.0,
@@ -38,12 +38,12 @@
           "phonetic": "Lạy Chúa,",
           "timing": {
             "full": [
-              1.4,
-              2.925
+              2.25,
+              2.938
             ],
             "passage": [
               0.0,
-              0.812
+              0.8
             ]
           }
         },
@@ -51,14 +51,15 @@
           "passage_segment_id": "2b",
           "text": "Chúa đã dùng Con Một Chúa là Đức Giêsu Kitô,",
           "phonetic": "Chúa đã dùng Con Một Chúa là Đức Giêsu Kitô,",
+          "tts": "Chúa đã dùng Con Một Chúa là Đức Giê-su Kitô,",
           "timing": {
             "full": [
-              2.925,
-              5.375
+              3.087,
+              5.575
             ],
             "passage": [
-              0.812,
-              3.325
+              0.95,
+              3.5
             ]
           }
         },
@@ -68,12 +69,12 @@
           "phonetic": "nhờ sự sống,",
           "timing": {
             "full": [
-              5.375,
-              6.375
+              5.737,
+              6.575
             ],
             "passage": [
-              3.325,
-              4.388
+              3.675,
+              4.537
             ]
           }
         },
@@ -83,12 +84,12 @@
           "phonetic": "sự chết và sự sống lại của Người,",
           "timing": {
             "full": [
-              6.375,
-              8.25
+              6.737,
+              8.45
             ],
             "passage": [
-              4.388,
-              6.3
+              4.7,
+              6.412
             ]
           }
         },
@@ -98,12 +99,12 @@
           "phonetic": "đã mua chuộc cho chúng con",
           "timing": {
             "full": [
-              8.25,
-              9.512
+              8.613,
+              9.713
             ],
             "passage": [
-              6.3,
-              7.575
+              6.588,
+              7.688
             ]
           }
         },
@@ -113,12 +114,12 @@
           "phonetic": "phần thưởng sự sống đời đời;",
           "timing": {
             "full": [
-              9.512,
-              10.738
+              9.713,
+              10.938
             ],
             "passage": [
-              7.575,
-              8.838
+              7.688,
+              8.95
             ]
           }
         }
@@ -133,8 +134,8 @@
           "phonetic": "xin cho chúng con,",
           "timing": {
             "full": [
-              10.738,
-              11.85
+              11.113,
+              12.062
             ],
             "passage": [
               0.0,
@@ -148,11 +149,11 @@
           "phonetic": "khi suy gẫm những mầu nhiệm",
           "timing": {
             "full": [
-              11.85,
-              13.262
+              12.213,
+              13.475
             ],
             "passage": [
-              1.137,
+              1.212,
               2.538
             ]
           }
@@ -163,8 +164,8 @@
           "phonetic": "Rất Thánh Mân Côi của Đức Trinh Nữ Maria,",
           "timing": {
             "full": [
-              13.262,
-              15.225
+              13.475,
+              15.438
             ],
             "passage": [
               2.538,
@@ -183,8 +184,8 @@
           "phonetic": "được bắt chước những điều chúng chứa đựng",
           "timing": {
             "full": [
-              15.225,
-              17.025
+              15.625,
+              17.238
             ],
             "passage": [
               0.0,
@@ -198,8 +199,8 @@
           "phonetic": "và được lãnh nhận những điều chúng hứa ban,",
           "timing": {
             "full": [
-              17.025,
-              18.913
+              17.238,
+              19.113
             ],
             "passage": [
               1.875,
@@ -218,8 +219,8 @@
           "phonetic": "nhờ Đức Kitô Chúa chúng con.",
           "timing": {
             "full": [
-              18.913,
-              20.688
+              19.288,
+              20.887
             ],
             "passage": [
               0.0,
@@ -238,8 +239,8 @@
           "phonetic": "Amen.",
           "timing": {
             "full": [
-              20.688,
-              22.1
+              21.725,
+              22.3
             ],
             "passage": [
               0.0,
@@ -256,14 +257,15 @@
           "passage_segment_id": "7a",
           "text": "Trái Tim Cực Thánh Đức Chúa Giêsu,",
           "phonetic": "Trái Tim Cực Thánh Đức Chúa Giêsu,",
+          "tts": "Trái Tim Cực Thánh Đức Chúa Giê-su,",
           "timing": {
             "full": [
-              22.1,
-              24.7
+              23.137,
+              25.163
             ],
             "passage": [
               0.0,
-              1.863
+              2.125
             ]
           }
         },
@@ -273,12 +275,12 @@
           "phonetic": "xin thương xót chúng con.",
           "timing": {
             "full": [
-              24.7,
-              26.212
+              25.325,
+              26.7
             ],
             "passage": [
-              1.863,
-              3.375
+              2.288,
+              3.663
             ]
           }
         }
@@ -293,8 +295,8 @@
           "phonetic": "Trái Tim Vô Nhiễm Đức Mẹ Maria,",
           "timing": {
             "full": [
-              26.212,
-              28.962
+              27.538,
+              29.45
             ],
             "passage": [
               0.0,
@@ -308,11 +310,11 @@
           "phonetic": "xin cầu cho chúng con.",
           "timing": {
             "full": [
-              28.962,
-              30.4
+              29.6,
+              30.875
             ],
             "passage": [
-              1.988,
+              2.138,
               3.413
             ]
           }

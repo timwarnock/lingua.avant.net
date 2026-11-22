@@ -16,14 +16,15 @@
           "passage_segment_id": "1a",
           "text": "Lạy Chúa Giêsu Kitô,",
           "phonetic": "Lạy Chúa Giêsu Kitô,",
+          "tts": "Lạy Chúa Giê-su Kitô,",
           "timing": {
             "full": [
               0.0,
-              1.45
+              1.637
             ],
             "passage": [
               0.0,
-              1.5
+              1.712
             ]
           }
         },
@@ -33,12 +34,12 @@
           "phonetic": "Con Thiên Chúa,",
           "timing": {
             "full": [
-              1.45,
-              2.45
+              1.812,
+              2.65
             ],
             "passage": [
-              1.5,
-              2.55
+              1.875,
+              2.775
             ]
           }
         }
@@ -53,8 +54,8 @@
           "phonetic": "xin thương xót con,",
           "timing": {
             "full": [
-              2.45,
-              3.7
+              2.8,
+              3.9
             ],
             "passage": [
               0.0,
@@ -68,11 +69,11 @@
           "phonetic": "là kẻ tội lỗi.",
           "timing": {
             "full": [
-              3.7,
-              4.95
+              4.05,
+              5.138
             ],
             "passage": [
-              1.312,
+              1.462,
               2.587
             ]
           }
